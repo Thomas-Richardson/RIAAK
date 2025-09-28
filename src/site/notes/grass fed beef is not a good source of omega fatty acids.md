@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/grass-fed-beef-is-not-a-good-source-of-omega-fatty-acids/","created":"2024-04-22T12:57:24.000+01:00","updated":"2025-09-29T00:45:12.632+01:00"}
+{"dg-publish":true,"permalink":"/grass-fed-beef-is-not-a-good-source-of-omega-fatty-acids/","created":"2024-04-22T12:57:24.000+01:00","updated":"2025-09-29T00:45:35.438+01:00"}
 ---
 
 #health_nutrition #veganism #animal_advocacy 
@@ -11,9 +11,9 @@
 ## How does grass fed beef compare to other foods?
 A 100g serving of grass-fed ground beef [has about 0.071 grams of omega-3 fatty acids](https://fdc.nal.usda.gov/fdc-app.html#/food-details/168608/nutrients), according to the U.S. Department of Agriculture’s [National Nutrient Database](https://fdc.nal.usda.gov/).  This means that a 100g contains around 6.5% of the female RDA and 4.4% of the male RDA. A burger might be up to 180g so that would be 11.6% of a womans, or 7.9% of mans allowance.
 
-Compared to this, 100g of Walnuts contains 6.2g of Omega 3[^6], or 560% of a womans RDA (387% of a males'). This is almost 100 times more than grass fed beef by weight. Our large grass fed beef burger above contains as much as 2g of walnuts, which is less than a single walnut half.
+	Compared to this, 100g of Walnuts contains 6.2g of Omega 3, or 560% of a womans RDA (387% of a males'). This is almost 100 times more than grass fed beef by weight. Our large grass fed beef burger above contains as much as 2g of walnuts, which is less than a single walnut half.
 
-Hamilton et al., [2005](https://d1wqtxts1xzle7.cloudfront.net/39205296/00463513f580184d24000000-libre.pdf?1444915064=&response-content-disposition=inline%3B+filename%3DLipid_Composition_and_Contaminants_in_Fa.pdf&Expires=1691235235&Signature=FOJcS2q-UNwfJjMzhifbUiXxGcB2ohKWMkB19RlAkjoqtNWcGOtYHgbzItf6U0hR68OQlOs1PLwJwHknWS~wwVs2ZVIuHrJkPaaTQfVyruyexoIvv2qP7NJDarKLEI1Mw~IJnrDhM6eDDYoZI4YHt40sL9KfxxgTLQrZKSx2-9Br3M2hu2AIzSJRpn93Disx4yDcVZNhy9GX9W180rwsY0E3v2zaKagmbE~cyeR6ozWig3GOojBDKMR47ggQFdDrI7vGaXOeSEHd~PgOF2ENcrABb3OKM567YB2h6yatE795fKQv8p~XYJ~2n3-ckngH-RDtzFLtccagLHnkqmk5~A__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) [^3] found that the n-3:n-6 was about 10 in wild salmon and 3-4 in farmed salmon. A 100g portion of wild salmon contained 1.2g of n3, and 0.1g of n6, whereas farmed contained more of both: 100g farmed salmon contained 3.3g n3 and 0.9g of n6. 
+Hamilton et al., [2005](https://d1wqtxts1xzle7.cloudfront.net/39205296/00463513f580184d24000000-libre.pdf?1444915064=&response-content-disposition=inline%3B+filename%3DLipid_Composition_and_Contaminants_in_Fa.pdf&Expires=1691235235&Signature=FOJcS2q-UNwfJjMzhifbUiXxGcB2ohKWMkB19RlAkjoqtNWcGOtYHgbzItf6U0hR68OQlOs1PLwJwHknWS~wwVs2ZVIuHrJkPaaTQfVyruyexoIvv2qP7NJDarKLEI1Mw~IJnrDhM6eDDYoZI4YHt40sL9KfxxgTLQrZKSx2-9Br3M2hu2AIzSJRpn93Disx4yDcVZNhy9GX9W180rwsY0E3v2zaKagmbE~cyeR6ozWig3GOojBDKMR47ggQFdDrI7vGaXOeSEHd~PgOF2ENcrABb3OKM567YB2h6yatE795fKQv8p~XYJ~2n3-ckngH-RDtzFLtccagLHnkqmk5~A__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)  found that the n-3:n-6 was about 10 in wild salmon and 3-4 in farmed salmon. A 100g portion of wild salmon contained 1.2g of n3, and 0.1g of n6, whereas farmed contained more of both: 100g farmed salmon contained 3.3g n3 and 0.9g of n6. 
 
 For comparison, a tablespoon of canola oil (approximately 14 grams of canola oil) contains 1.28 g of ALA.
 

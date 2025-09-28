@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/citations/baldi-et-al-2021/","created":"2025-01-22T16:03:28.533+00:00","updated":"2025-09-28T23:39:12.108+01:00"}
+---
+
+#citation #economics #alternative_proteins #food_security 
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3940081
+
+Alternative meat (AltMeat), which includes plant-based and cultured meats, is an innovative and sustainable type of food that has gained attention in recent years. It is also a threat for the demand of animal meat and for the supply chain of crops used as animal feed. In 2022, 57% of global corn and 70% of global soybean production (as meal) were used as inputs for animal meat production. In this paper we aim to assess the crop market impact of an uncertain yet potentially significant shift towards AltMeat consumption and away from animal meat. We consider alternative models for feed crops and animal meat informed by production parameters and elasticity measures from the literature. We impose exogenous animal meat displacement shocks on top of an OECD baseline projection for 2032 with no AltMeat, and compute crop price shifts. We find that in the event of <mark style="background: #FFF3A3A6;">a -3% mean animal meat displacement, crop prices would average declines in the-10% to-18% range, with soybeans experiencing a sharper fall than corn.</mark> Permanent price shifts of this scale would be economically important. <mark style="background: #FFF3A3A6;">Corn and soybean supply chains in Brazil, the U.S., Argentina and Paraguay are at risk of technological displacement.</mark> Corn and soybean leading importers, such as China, might benefit from lower prices.

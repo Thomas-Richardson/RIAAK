@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/citations/cassidy-et-al-2013/","created":"2024-04-19T16:57:32.000+01:00","updated":"2025-09-28T23:39:22.046+01:00"}
+---
+
+#citation #farming #environment_land 
+
+https://iopscience.iop.org/article/10.1088/1748-9326/8/3/034015/pdf
+
+Cassidy, E. S., West, P. C., Gerber, J. S., & Foley, J. A. (2013). Redefining agricultural yields: from tonnes to people nourished per hectare. _Environmental Research Letters_, _8_(3), 034015.
+
+Worldwide demand for crops is increasing rapidly due to global population growth, increased biofuel production, and changing dietary preferences. Meeting these growing demands will be a substantial challenge that will tax the capability of our food system and prompt calls to dramatically boost global crop production. However, to increase food availability, we may also consider how the world’s crops are allocated to different uses and whether it is possible to feed more people with current levels of crop production. Of particular interest are the uses of crops as animal feed and as biofuel feedstocks. Currently, <mark style="background: #FFF3A3A6;">36% of the calories produced by the world’s crops are being used for animal feed, and only 12% of those feed calories ultimately contribute to the human diet</mark> (as meat and other animal products). Additionally, <mark style="background: #FFF3A3A6;">human-edible calories used for biofuel production increased fourfold between the years 2000 and 2010, from 1% to 4%</mark>, representing a net reduction of available food globally. In this study, we re-examine agricultural productivity, going from using the standard definition of yield (in tonnes per hectare, or similar units) to <mark style="background: #FFF3A3A6;">using the number of people actually fed per hectare of cropland</mark>. We find that, given the current mix of crop uses, <mark style="background: #FFF3A3A6;">growing food exclusively for direct human consumption could</mark>, in principle, <mark style="background: #FFF3A3A6;">increase available food calories by as much as 70%, which could feed an additional 4 billion people</mark> (more than the projected 2–3 billion people arriving through population growth). Even small shifts in our allocation of crops to animal feed and biofuels could significantly increase global food availability, and could be an instrumental tool in meeting the challenges of ensuring global food security
+
+<mark style="background: #FFF3A3A6;">55 percent of the world's crop calories are actually eaten directly by people. Another 36 percent is used for animal feed. And the remaining 9 percent goes toward biofuels and other industrial uses</mark>

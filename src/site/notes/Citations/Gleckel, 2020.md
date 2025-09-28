@@ -1,0 +1,19 @@
+---
+{"dg-publish":true,"permalink":"/citations/gleckel-2020/","created":"2024-01-12T13:41:23.000+00:00","updated":"2025-09-28T23:46:58.748+01:00"}
+---
+
+#citation #dairy #consumer_attitudes #labelling 
+
+- [[PB food labels are not confusing to consumers\|PB food labels are not confusing to consumers]]
+
+Consumers were no more likely to think that plant-based products come from an animal if the product’s name incorporates words traditionally associated with animal products (such as butter) than if it does not. However, although this study assessed dairy confusion regarding plant-based food labelling, it used butter substitutes and not milk substitutes.
+
+An increasing amount of legislation and litigation, including four current federal cases, addresses how states can and should regulate plant-based food labeling. Plant-based foods contain no animal ingredients but replicate the taste, texture, and function of animal products such as beef, chicken, milk, and butter. Companies typically use the terms “plant-based” or “vegan” on their labels alongside terms like “beef” or “milk” (e.g., “plant-based beef” or “almond milk”) to describe their products to consumers.  
+  
+Numerous states have passed legislation and initiated enforcement actions against plant-based food companies to prohibit this labeling practice. Congress and the FDA are also considering such regulations at the federal level. The states claim that, when companies use terms that people traditionally associate with animal products—terms like “beef” and “milk”—on plant-based food labels, consumers become confused about whether they are buying animal products.  
+  
+In response to legislation and enforcement actions, the companies seeking to bring plant-based foods to the market insist that the “consumer confusion” argument is pretextual, and that agricultural lobbies simply want to suppress the message that consumers can enjoy the experience of eating “meat” or “dairy” without killing animals. They argue that using words like “beef” and “milk” on plant-based foods does not confuse consumers about the ingredients; rather, these words are necessary to accurately convey the taste and uses of new products. Plant-based food companies have therefore challenged state laws, claiming that the laws violate their First Amendment right to free speech.  
+  
+This is the first study to address the two empirical questions at the heart of the ongoing, constitutional litigation between companies marketing plant-based foods and the states restricting their labeling practices. First, when companies use words like “beef” and “milk” on products made without animal ingredients, are consumers confused about whether these products come from animals? Second, if companies do not use these words, are consumers more likely to be confused about the taste and function of the plant-based products?  
+  
+The study surveyed 155 participants. After answering a series of distractor questions, participants answered questions about various plant-based meat and dairy products, including whether they believed these foods were made from animals/animal products, how well they could imagine what the products taste like, and whether they believed the products could be used for various purposes. The study employed a between-subjects design. One group of participants answered questions about products whose names included terms like “beef,” “butter,” or “bologna”—terms traditionally associated with animal products. The control group answered questions about products that omitted these terms and replaced them with terms such as “veggie” or “spread.”

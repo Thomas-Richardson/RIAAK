@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/citations/gerbens-leenes-et-al-2013/","created":"2024-04-21T14:37:14.000+01:00","updated":"2025-09-28T23:46:56.225+01:00"}
+---
+
+#citation  #environment_misc #meat #factory_farming 
+
+- [[Animal agriculture uses lots of water\|Animal agriculture uses lots of water]]
+
+Gerbens-Leenes, P. W., Mekonnen, M. M., & Hoekstra, A. Y. (2013). The water footprint of poultry, pork and beef: A comparative study in different countries and production systems. _Water resources and industry_, _1_, 25-36.
+
+- The water footprint (WF) of meat is mainly determined by the WF of the animal feed.
+- Feed concentrates like cereals, oil crops, and pulses have WFs 4-60 times larger than roughages like pasture grass and crop residues.
+- In general, beef has a larger total WF than pork, which in turn has a larger WF than poultry.
+
+## Abstract
+==[Agriculture](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/agricultural-science "Learn more about Agriculture from ScienceDirect's AI-generated Topic Pages") accounts for 92% of the freshwater footprint of humanity; almost one third relates to animal products.== In a recent global study, Mekonnen and Hoekstra (2012) show that animal products have a large water footprint (WF) relative to crop products. We use the outcomes of that study to show general trends in the WFs of poultry, pork and beef. We observe ==three main factors driving the WF of meat: feed conversion efficiencies (feed amount per unit of meat obtained), feed composition and feed origin.== Efficiency improves from grazing to mixed to industrial systems, because animals in industrial systems get more concentrated feed, move less, are bred to grow faster and slaughtered younger. This factor contributes to a general decrease in WFs from grazing to mixed to industrial systems. The second factor is feed composition, particularly the ratio of concentrates to [roughages](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/roughage "Learn more about roughages from ScienceDirect's AI-generated Topic Pages"), which increases from grazing to mixed to industrial systems. Concentrates have larger WFs than roughages, so that this factor contributes to a WF increase, especially blue and grey WFs, from grazing and mixed to industrial systems. The third factor, the feed origin, is important because water use related to feed crop growing varies across and within regions. The overall resultant WF of meat depends on the relative importance of the three main determining factors. In general, beef has a larger total WF than pork, which in turn has a larger WF than poultry, but the average global _blue_ and _grey_ WFs are similar across the three meat products. When we consider [grazing systems](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/grazing-system "Learn more about grazing systems from ScienceDirect's AI-generated Topic Pages"), the blue and grey water footprints of poultry and pork are greater than those for beef.

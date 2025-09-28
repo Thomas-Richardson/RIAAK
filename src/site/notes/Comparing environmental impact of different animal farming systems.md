@@ -1,0 +1,17 @@
+---
+{"dg-publish":true,"permalink":"/comparing-environmental-impact-of-different-animal-farming-systems/","created":"2024-04-21T14:37:08.000+01:00","updated":"2025-09-28T23:49:22.215+01:00"}
+---
+
+#environment_misc #factory_farming 
+
+- [[Environmental damage caused by CAFOs\|Environmental damage caused by CAFOs]]
+- [[Animal agriculture and biodiversity loss\|Animal agriculture and biodiversity loss]]
+- [[Animal agro and soil health\|Animal agro and soil health]]
+
+Deforestation is often more driven by creating grazing land for ruminants than creating cropland to grow animal feed [[Animal agriculture drives deforestation\|Animal agriculture drives deforestation]]
+
+From a ([[Manure from animal agriculture\|manure perspective]]), while pastoralist and small scale systems produce beneficial amounts of manure, factory farms produce far too much for the surrounding environment to handle
+
+From a [[Animal agriculture takes up lots of land but provide few calories\|land use perspective]], CAFOs require too much land to grow their food, while pastoralist system use too much land period
+
+From a water perspective, because CAFOs use more crop feed than grass, they have a much higher water footprint than small scale or pastoral systems. See also ([[Animal agriculture uses lots of water\|Animal agriculture uses lots of water]])

@@ -1,0 +1,27 @@
+---
+{"dg-publish":true,"permalink":"/animal-farming-makes-the-effects-of-crop-diseases-worse/","created":"2024-12-20T14:21:49.949+00:00","updated":"2025-09-28T23:42:51.824+01:00"}
+---
+
+#health_disease #food_security 
+
+- [[Diseases in farm animals cause economic shocks\|Diseases in farm animals cause economic shocks]]
+- [[Factory farmed animals cause pandemics and zoonotic disease\|Factory farmed animals cause pandemics and zoonotic disease]]
+- [[Animals and disease MOC\|Animals and disease MOC]]
+
+(Copied from MFA Food sec in December 2024)
+
+Of course, this is not to say animal agriculture is the only food system that is vulnerable to disease outbreaks. [Some 20-40% of crops produced worldwide](https://www.gov.uk/government/statistics/united-kingdom-food-security-report-2021/united-kingdom-food-security-report-2021-theme-1-global-food-availability) are lost to plant disease and pests. 
+
+This can threaten food security. For example, the cassava [mosaic virus](https://en.wikipedia.org/wiki/Cassava_mosaic_virus) has reduced cassava yields in East Africa by as much as 13 million tons annually and resulted in over $1 billion in losses, making it one of the [most damaging crop diseases](https://scholar.google.com/scholar_url?url=https://bsppjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1364-3703.2009.00559.x&hl=en&sa=T&oi=gsb-gga&ct=res&cd=0&d=12504678655764984452&ei=5hpjZtDBENWF6rQPyP3P-AY&scisig=AFWwaeY25DHgTiMjynYvCqRhha05) in the world. This presents severe food availability and food stability threats, as Cassava is the third largest source of carbohydrates worldwide. As cassava is increasingly grown commercially (not just as a subsistence crop), this also threatens food access, as it damages farmer’s livelihoods. 
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXci7Sj92dIZ6hooCmLKKPqyAsrsZ_qIp9BoktSRw4Va3MufHLHPI1M9xOf_ZJMPWS78yCXOC49w1P9WOT6EW3KbSsmOUNxJ2TqCCMCpJcRKbGV-CHCl9e_9Rdg5QPWfouLpfBCb-MmHpgw9uVJ5sILrAOB8?key=SX5HdswGc4K6wTaZxR6rWA)
+
+How crop diseases can impact food security. Taken from [Ristaino et al., (2021)](https://scholar.google.com/scholar_url?url=https://www.pnas.org/doi/abs/10.1073/pnas.2022239118&hl=en&sa=T&oi=gsb&ct=res&cd=0&d=9373611067479757150&ei=oxhjZv-iOaaty9YPybqgQA&scisig=AFWwaeYQfvYv93e-4DM4PAj9e9PU)
+
+More than half of the world’s calories come from a limited number of varieties of three ‘mega-crops’: rice, wheat, and maize. This means that food security in a world where most people consume primarily plant-based diets could be alarmingly vulnerable to diseases in these crops. This might lead some to conclude that consumption of animal products diversifies the human diet and so reduces the food security risks associated with crop disease. However, this is not accurate.
+
+On the contrary, consuming large numbers of animal products often magnifies the risks of crop disease. A key driver of increased crop disease and pests is climate change ([which increases the geographic range of pests](https://scholar.google.com/scholar_url?url=https://www.pnas.org/doi/abs/10.1073/pnas.2022239118&hl=en&sa=T&oi=gsb&ct=res&cd=0&d=9373611067479757150&ei=oxhjZv-iOaaty9YPybqgQA&scisig=AFWwaeYQfvYv93e-4DM4PAj9e9PU)), of which animal agriculture is a key contributor. As detailed [in the section of feed-food competition](https://docs.google.com/document/d/18hBL88T-Q4GIvSzDEaH9HepdXIQf-bFgF6l3D5jM2Yk/edit#heading=h.fuw73o6qv11f), a large proportion of crops are fed to industrially farmed animals. This creates demand for large amounts of genetically similar monocrops, which like the animals they are fed to, are more vulnerable to disease. Moreoever, when disease outbreaks reduce the amount of crop available, livestock farmers compete with humans for the remaining crops, driving up prices and reducing food access. As noted in the section on [small scale livestock](https://docs.google.com/document/d/18hBL88T-Q4GIvSzDEaH9HepdXIQf-bFgF6l3D5jM2Yk/edit#heading=h.pq2boxmp1fbi), families may lose food security and go hungry if they have to feed limited crops to farm animals. Additionally, feeding industrial livestock requires humanity to grow more crops than they would if they ate them directly. If producing vast quantities of wheat, soy and maize increases the risks from crop disease, this risk is made worse by the animal feed trade. In sum, the food stability risks of crop disease are exacerbated by industrial livestock farming.
+
+Additionally, there are several issues faced by animal agriculture that are not found in crops. For example, crops do not contribute to the [development of antibiotic resistance](https://docs.google.com/document/d/18hBL88T-Q4GIvSzDEaH9HepdXIQf-bFgF6l3D5jM2Yk/edit#heading=h.tj9y7udx1x22), zoonoses or global pandemics as industrially farmed animals do. Diseases in crops cannot spread to humans, unlike [Severe Acute Respiratory Syndrome (SARS)](https://www.who.int/health-topics/severe-acute-respiratory-syndrome), [HIV](https://www.who.int/news-room/fact-sheets/detail/hiv-aids) or [Ebola](https://www.who.int/news-room/fact-sheets/detail/ebola-virus-disease).
+
+Nonetheless, the real risks of crop diseases underscore that ensuring food security requires a diverse human diet that does not rely on a small number of foods. One initiative that may help in this regard is the [Future Smart Foods initiative](https://docs.google.com/document/d/18hBL88T-Q4GIvSzDEaH9HepdXIQf-bFgF6l3D5jM2Yk/edit#heading=h.y724uvbdoemj).

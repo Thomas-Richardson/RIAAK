@@ -1,0 +1,34 @@
+---
+{"dg-publish":true,"permalink":"/citations/kankyoku-et-al-2022b/","created":"2024-08-20T13:36:40.347+01:00","updated":"2025-09-28T23:41:43.825+01:00"}
+---
+
+#citation #narratives
+
+https://paxfauna.org/reports/a-review-of-contemporary-research-into-public-perceptions-of-the-slaughter-industry/
+
+## Pax Fauna A Review of Contemporary Research into Public Perceptions of the Slaughter Industry
+
+Analysing over 60 recent studies that together paint a complicated picture of Americans’ relationship to meat and animal farming, perhaps best summed up by one researcher’s observation that meat from animals is “simultaneously... deeply popular as well as troubling among the same people.”
+
+The objective of this report is to review existing research exploring public opinion related to the use of animals for food. Determining what is already known about the public’s understanding will guide us as we explore new avenues for communication. To that end, we searched academic databases and gray literature to compose a final sample of nearly 70 recent studies analyzed in this report.
+
+This research paints a complicated picture of Americans’ relationship to meat and animal farming, perhaps best summed up by one researcher’s observation that meat from animals is “simultaneously... deeply popular as well as troubling among the same people.”11
+
+While the public’s thinking about meat is often blatantly contradictory, numerous patterns nonetheless emerge from the research which can offer guidance to animal advocates. We offer a brief summary of some representative insights before presenting our findings in full.
+
+- **Americans’ relationship to animal meat is defined by contradictory feelings.** Most people simultaneously feel discomfort about what happens to animals along with a deep attachment to meat that is resistant to changes in its price.
+- **While Americans tell pollsters that they have relatively low concern about animals in farms, these responses should not be taken at face value.** Qualitative research finds that people are in fact unsettled by the idea of killing animals for food, and actively deploy cognitive strategies to reconcile that discomfort (such as asserting that change is impossible). Animal suffering continues to be the public’s leading concern about animal farming.
+- **Liberal politics is the strongest demographic predictor of animal-friendly views and behaviors.** Meat reduction is increasing across all demographics, but faster among liberals than conservatives.
+- **Animal suffering remains the primary concern people associate with animal meat.** Environmental concerns about animal agriculture do not appear to be widely understood, while health appeals have broad but very shallow appeal. Antibiotics and hormones in meat appear to be an area of significant public concern; advocates could leverage these more in our messaging.
+- **People strongly value** **_naturalness_** **in relation to food and react with** **_disgust_** **when that value is violated.** Naturalness and disgust present opportunities and challenges for animal advocates. The conditions of animals in modern farming can be framed as unnatural to provoke a disgust response which significantly dampens meat appetite. But these objections can also apply to high-tech meat alternatives. And eating animals is still considered highly natural when animals are raised the “right way.”
+- **The “rise of veganism” is actually the rise of reducetarianism.** Vegans are not increasing in number and remain unpopular. But meat reduction and animal protection are mainstream and increasingly popular.
+- **Information about modern animal farming practices is still compelling.** Most people find standard practices deeply objectionable. Advocates should focus less on cases of workers abusing animals and more on standard industry practices. Worker abuse cases are seen as isolated incidents and even feed into a story that the system is working: advocates find occasional abusers, law enforcement steps in, and order is restored. Meanwhile, information about standard practices challenges the premise of animal farming, even when that information is presented on the industry’s terms: touring an animal farm was associated with greater disapproval of the industry.
+- **Divide the public into base, persuadable, and opposition.** Animal advocates can think of the public in blocs whose discomfort with animal farming is motivated by different values. A quarter to a third is receptive to altruistic appeals, while a larger majority is more responsive to disgust. Understanding the values of these different groups can inform messaging strategy.
+- **People are more supportive of changing laws than changing their diet.** Animal advocates can connect with the public by making more asks of lawmakers and fewer asks of consumers. Policy campaigns also have a positive effect on individual meat reduction.
+- **Use visual animal-meat reminders to break down the disconnect between meat and animals.** Picturing animals alongside products made from their bodies is a powerful way to remind people of their discomfort and reduce their appetite for meat.
+
+## Others in the Pax Fauna sequence
+- [[Citations/Kankyoku et al., 2022a\|Kankyoku et al., 2022a]]
+- [[Citations/Hamer, 2022c\|Hamer, 2022c]]
+- [[Citations/Kankyoku et al., 2022d\|Kankyoku et al., 2022d]]
+- [[Citations/Kankyoku et al., 2022e\|Kankyoku et al., 2022e]]

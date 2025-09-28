@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/citations/schwingshackl-et-al-2017c/","created":"2024-04-22T13:05:27.000+01:00","updated":"2025-09-28T23:48:44.994+01:00"}
+---
+
+#health_nutrition #dairy #meat #eggs #citation 
+
+
+> [!NOTE] Next steps
+> I Haven't read this, you could read if for the findings on eggs and fish
+
+The aim of this systematic review and meta-analysis was to summarize the evidence on the relation of the intakes of 12 major food groups, including whole grains, refined grains, vegetables, fruits, nuts, legumes, eggs, dairy, fish, red meat, processed meat, and sugar-sweetened beverages (SSBs) with the risk of hypertension. PubMed, Scopus, and Web of Science were searched systematically until June 2017 for prospective studies having quantitatively investigated the above-mentioned foods. We conducted <mark style="background: #FFF3A3A6;">meta-analysis on the highest compared with the lowest intake categories</mark> and linear and nonlinear dose-response meta-analyses to analyze the association. Summary RRs and 95% CIs were estimated by using a random-effects model. Overall, <mark style="background: #FFF3A3A6;">28 reports </mark>were included in the meta-analysis. An inverse association for the risk of hypertension was observed for 30 g whole grains/d (RR: 0.92; 95% CI: 0.87, 0.98), 100 g fruits/d (RR: 0.97; 95% CI: 0.96, 0.99), 28 g nuts/d (RR: 0.70; 95% CI: 0.45, 1.08), and <mark style="background: #FFF3A3A6;">200 g dairy/d (RR: 0.95; 95% CI: 0.94, 0.97), whereas a positive association for 100 g red meat/d (RR: 1.14; 95% CI: 1.02, 1.28), 50 g processed meat/d (RR: 1.12; 95% CI: 1.00, 1.26)</mark>, and 250 mL SSB/d (RR: 1.07; 95% CI: 1.04, 1.10) was seen in the linear dose-response meta-analysis. Indication for nonlinear relations of the intakes of whole grains, fruits, fish, and processed meats with the risk of hypertension was detected. In summary, this comprehensive dose-response meta-analysis of 28 reports identified optimal intakes of whole grains, fruits, nuts, legumes, dairy, red and processed meats, and SSBs related to the risk of hypertension. These findings need to be seen under the light of very-low to low quality of meta-evidence. However, the findings support the current dietary guidelines in the prevention of hypertension.

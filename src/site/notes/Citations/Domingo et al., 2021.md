@@ -1,0 +1,18 @@
+---
+{"dg-publish":true,"permalink":"/citations/domingo-et-al-2021/","created":"2024-07-01T16:29:46.192+01:00","updated":"2025-09-28T23:40:35.951+01:00"}
+---
+
+#environment_pollution #citation 
+
+https://www.pnas.org/doi/pdf/10.1073/pnas.2013637118
+
+- [[Animal agriculture is a big source of air pollution\|Animal agriculture is a big source of air pollution]]
+
+Poor air quality is the largest environmental health risk in the <mark style="background: #FFF3A3A6;">United States </mark>and worldwide, and agriculture is a major source of air pollution. Nevertheless, air quality has been largely absent from discussions about the health and environmental impacts of food. We estimate the air quality–related health impacts of agriculture in the United States, <mark style="background: #FFF3A3A6;">finding that 80% of the 15,900 annual deaths that result from food-related fine particulate matter (PM2.5) pollution are attributable to animal-based foods.</mark> By estimating these impacts and exploring how to reduce them, this work fills a critical knowledge gap. Our results are relevant to food producers, processors, and distributors, and to policymakers and members of the public interested in minimizing the negative consequences of food.
+
+Agriculture is a major contributor to air pollution, the largest environmental risk factor for mortality in the United States and worldwide. It is largely unknown, however, how individual foods or entire diets affect human health via poor air quality. We show how food production negatively impacts human health by increasing atmospheric fine particulate matter (PM2.5), and we identify ways to reduce these negative impacts of agriculture. <mark style="background: #FFF3A3A6;">We quantify the air quality–related health damages attributable to 95 agricultural commodities and 67 final food products, which encompass >99% of agricultural production in the United States. Agricultural production in the United States results in 17,900 annual air quality–related deaths, 15,900 of which are from food production. Of those, 80% are attributable to animal-based foods, both directly from animal production and indirectly from growing animal feed. </mark>On-farm interventions can reduce PM2.5-related mortality by 50%, including improved livestock waste management and fertilizer application practices that reduce emissions of ammonia, a secondary PM2.5 precursor, and improved crop and animal production practices that reduce primary PM2.5 emissions from tillage, field burning, livestock dust, and machinery. <mark style="background: #FFF3A3A6;">Dietary shifts toward more plant-based foods that maintain protein intake and other nutritional needs could reduce agricultural air quality–related mortality by 68 to 83%</mark>. In sum, improved livestock and fertilization practices, and dietary shifts could greatly decrease the health impacts of agriculture caused by its contribution to reduced air quality.
+
+We show how different foods affect human health by reducing air quality. We consider the emission of pollutants that contribute to atmospheric PM 2.5 , the chronic exposure to which increases the incidence of premature mortality from cardiovascular disease, cancer, and stroke (12, 13). These pollutants include directly emitted PM2.5 (primary PM2.5) and PM2.5 formed in the atmosphere (secondary PM2.5) from the precursors ammonia (NH3), nitrogen oxides (NOx), sulfur dioxide (SO2), and non-methane volatile organic compounds (NMVOCs).
+
+The top 10% of the most damaging counties (308 counties) together responsible for 8,400 deaths per year (47% of total deaths). These counties are mainly located in California, Pennsylvania, North Carolina, and along the Upper Midwest Corn Belt 
+## Other notes

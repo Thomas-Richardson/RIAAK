@@ -1,14 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/grass-fed-beef-is-not-a-good-source-of-omega-fatty-acids/","created":"2024-04-22T12:57:24.000+01:00","updated":"2025-09-29T00:15:11.762+01:00"}
+{"dg-publish":true,"permalink":"/grass-fed-beef-is-not-a-good-source-of-omega-fatty-acids/","created":"2024-04-22T12:57:24.000+01:00","updated":"2025-09-29T00:45:12.632+01:00"}
 ---
 
 #health_nutrition #veganism #animal_advocacy 
 
 - [[Grass fed beef is not better for the environment\|Grass fed beef is not better for the environment]]
 - [[The inefficiency of animal products\|The inefficiency of animal products]]
-- [[Citations/Maki et al., 2012\|Maki et al., 2012]]
-- 
-
 - [[Omega 3 and 6\|Omega 3 and 6]] 
 
 ## How does grass fed beef compare to other foods?
@@ -23,7 +20,8 @@ For comparison, a tablespoon of canola oil (approximately 14 grams of canola oil
 2.57g per ounce aka per 28g aka per 11.6 walnut halves, aka 0.22
 
 Additionally, while grass fed beef can contain around 50% more Omega 3 fatty acids than grain fed, a standard portion contains only (65/1600)\*100 =4% (Source) of the recommended female daily allowance. For context, a single walnut half contains 3 times this amount at 185mg. The comparison of omega 3 and 6 fatty acids between grass and grain-fed beef has no practical relevance to human health.
-## ([source](https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/)) [^5]
+## ([source](https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/))
+
 | Food | Serving size | ALA (Grams) | DHA (Grams) | EPA (Grams) |
 | --- | --- | --- | --- | --- |
 | Flaxseed oil | 1 tbsp | 7.26 | - | - |
@@ -54,11 +52,3 @@ Additionally, while grass fed beef can contain around 50% more Omega 3 fatty aci
 | Egg, cooked | 1 egg | - | 0.03 | - |
 | Chicken, breast, roasted | 3 ounces | - | 0.02 | 0.01 |
 | Milk, low-fat (1%) | 1 cup | 0.01 | - | - |
-
-
-[^1]: Institute of Medicine, Food and Nutrition Board. Dietary reference intakes for energy, carbohydrate, fiber, fat, fatty acids, cholesterol, protein, and amino acids (macronutrients). Washington, DC: National Academy Press; 2005.
-[^2]: Harris WS. Omega-3 fatty acids. In: Coates PM, Betz JM, Blackman MR, et al., eds. Encyclopedia of Dietary Supplements. 2nd ed. London and New York: Informa Healthcare; 2010:577-86.
-[^3]: Hamilton, M. C., Hites, R. A., Schwager, S. J., Foran, J. A., Knuth, B. A., & Carpenter, D. O. (2005). Lipid composition and contaminants in farmed and wild salmon. _Environmental science & technology_, _39_(22), 8622-8629.
-[^4]: Institute of Medicine, Food and Nutrition Board. Dietary reference intakes for energy, carbohydrate, fiber, fat, fatty acids, cholesterol, protein, and amino acids (macronutrients). Washington, DC: National Academy Press; 2005.
-[^5]: U.S. Department of Agriculture, Agricultural Research Service. [FoodData Central](https://fdc.nal.usda.gov/)[![external link disclaimer](https://ods.od.nih.gov/images/Common/externallink.png)](https://ods.od.nih.gov/About/exit_disclaimer.aspx "External Website"), 2019.
-[^6]: Heart Foundation. Sources of omega-3. Accessed 8 February 2022. Available at: https://prod.heartfoundation.org.au/getmedia/ff11afcd-ab38-48d4-802c-9f0581e44a52/Sources_of_omega_3.pdf%22%20/

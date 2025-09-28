@@ -1,0 +1,31 @@
+---
+{"dg-publish":true,"permalink":"/how-changing-diets-in-the-global-north-impact-food-security-across-the-world/","created":"2024-09-05T16:26:18.558+01:00","updated":"2025-09-29T00:15:29.244+01:00"}
+---
+
+#mfa_food_sec 
+- [[MFA Livestock and Food security finished\|MFA Livestock and Food security finished]]
+- 
+In the last section of this report, I discuss the global food security implications of animal source food (ASF) consumption in high income countries (HICs). First, I discuss the possibility that industrial animal agriculture has negatively impacted food security around the world by contributing to climate change. Second, I discuss what will happen to food security as citizens in HICs reduce their consumption of animal products. I discuss the effects on food security in developing countries, but also domestic food security
+
+## Industrial animal agriculture in high income countries causes environmental disasters in low and middle income countries
+
+Industrial animal agriculture production in high income countries may be indirectly affecting food security in LMICs through climate change. [The Intergovernmental Panel on Climate Change (IPCC) 2019 Special Report on climate change](https://www.ipcc.ch/srccl/) and land demonstrates a global expert consensus that high income countries have negatively affected the food security of LMICs by being the largest drivers of climate change. As a result of climate change, some of the world's poorest are facing declining agricultural yields, desertification and drought, as well as higher numbers of extreme weather events. Industrial animal agriculture is a key part of this puzzle, as it contributes around [11% of humanity’s total greenhouse gas emissions](https://www.worldanimalprotection.org/globalassets/pdfs/reports/english/world-animal-protection-cop28-report.pdf), arguably making it liable for a significant portion of climate-change induced damage.
+
+There are signs that [climate change has already slightly reduced agricultural production](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0217148) in half of food insecure nations (as well as Europe and the US). Figure 6 shows the changes in crop yields that have likely occurred due to climate change. Regions such as Sub-Saharan Africa, Western, Southern and South-Eastern Asia, and Oceania (as well as Western Europe) likely have lower **food availability** due to climate change. On the other hand, Latin America, North and East Asia, and Northern Africa have likely seen **food availability** improve due to climate change. Highlighting specific countries: climate change has likely increased consumable calories in Mexico, Brazil and China, whereas they have reduced calories for India, the US, Canada and Australia.
+
+More dramatically, emissions from industrial animal agriculture in the HICs may have exacerbated natural disasters in LMICs. This was explored in a report by [World Animal Protection](https://www.worldanimalprotection.org/globalassets/pdfs/reports/english/world-animal-protection-cop28-report.pdf), that estimated the amount of damage incurred by natural disasters that can be attributed to factory farms in the Global North. They point out that by 2050, the economic damage associated with weather disasters globally could exceed $1 trillion every year, as the impacts of climate change intensify. As it is responsible for 11% of GHG emissions, the report argues that global industrial animal agriculture is arguably liable for over $100 billion of these costs.
+
+Furthermore, studies are attempting to quantify the % of damage from environmental disasters that can be attributed to human-caused climate change. WAP argue that because industrial animal agriculture in the Global North contributes 4.3% of global GHG emissions, this makes it indirectly responsible for a similar amount of the human-caused damages. For example, the devastating heat wave across India and Pakistan in 2022 saw the highest temperatures since records began 122 years ago. The report estimates that industrial animal agriculture in the Global North to be indirectly responsible for $6.71B of damages in lost labor and crop failures from drought. Likewise, wildfires across the Amazon rainforest caused $957B of damage across Brazil, Bolivia and Peru over the last 30 years (over 906,000 hectares lost). Researchers using "Event Attribution" methods estimate that $765B of can be attributable to human induced climate change. From this, it follows that Industrial animal agriculture is indirectly responsible for 4.3%, or $33 Billion. These calculations rely on some strong assumptions, most notably that all emissions contribute evenly to all disasters. We should not interpret them as making confident causal claims. Attribution is fuzzy at best; we cannot say for certain the role that cow belches in Irish dairy CAFOs played in soaring temperatures in Pakistan.  Nonetheless they serve as a powerful illustration of ways that diets in HICs may have far-reaching effects on **food availability** and **food stability** in other countries.
+
+| Commodity | North and Central America | Caribbean and South America | Western and Southern Europe | Eastern and Northern Europe | Northern Africa | Sub- Saharan Africa | Central and Eastern Asia | Western, Southern and South-eastern Asia | Oceania | Global |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| **Barley** | \-2.5 | 4.0 | \-16.1 | \-9.1 | \-6.8 | \-0.6 | 1.6 | \-0.9 | \-2.3 | **\-7.9** |
+| **Cassava** | \-2.9 | 0.5 | NA | NA | 18.0 | 1.7 | 1.2 | \-5.6 | NA | **\-0.5** |
+| **Maize** | 0.5 | 2.7 | \-6.3 | \-24.5 | \-4.3 | \-5.8 | 5.1 | 1.0 | \-1.2 | **0.0** |
+| **Oil Palm** | \-7.2 | \-0.6 | NA | NA | NA | 0.0 | \-0.4 | \-15.9 | NA | **\-13.4** |
+| **Rapeseed** | \-0.4 | 6.8 | \-11.4 | 3.1 | NA | 24.9 | 5.9 | 1.9 | 0.6 | **0.5** |
+| **Rice** | \-0.1 | \-0.7 | \-3.2 | \-0.4 | \-1.3 | \-3.1 | 0.9 | \-0.8 | 4.1 | **\-0.3** |
+| **Sorghum** | 4.3 | 0.0 | \-18.2 | \-9.5 | 17.9 | 0.7 | 4.9 | 0.9 | \-30.5 | **2.1** |
+| **Soybean** | 3.3 | 5.4 | \-21.2 | \-3.8 | 10.9 | \-1.6 | 0.2 | \-3.2 | \-6.3 | **3.5** |
+| **Sugarcane** | 1.7 | 2.5 | 2.7 | NA | \-5.1 | \-3.9 | 5.3 | \-0.6 | 0.4 | **1.0** |
+| **Wheat** | \-1.3 | \-1.6 | \-8.7 | \-2.1 | 12.0 | \-2.3 | 4.5 | \-0.9 | \-5.8 | **\-0.9** |

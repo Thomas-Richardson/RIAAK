@@ -1,0 +1,22 @@
+---
+{"dg-publish":true,"permalink":"/citations/the-challenges-with-measuring-the-impact-of-lobbying-animal-ask/","created":"2025-10-01T10:37:33.509+01:00","updated":"2025-10-01T10:53:41.908+01:00"}
+---
+
+Legislative lobbying has led to numerous positive outcomes in many policy areas and social movements. For example, lobbying in the United States is responsible for lower taxes on solar power, increased taxes on tobacco, and the establishment of a program to detect asteroids (Lerner 2020). In the animal advocacy movement specifically, one recent victory is the 'End the Cage Age' initiative. This lobbying campaign led to a commitment by the European Commission to phase out the use of cages for hens, sows, calves, and numerous other farmed animals (European Commission 2021).
+
+When evaluating campaign strategy, it is important to have a good way to project the success of competing legislative opportunities. Ideally, this would involve predicting the degree to which lobbying effort makes a legislative opportunity more likely to succeed, compared to the scenario where that additional effort does not take place. We refer to this as the counterfactual impact of lobbying. Understanding this would provide insight into how campaigning can be most effective.
+
+Currently, we do not know the best way to measure the counterfactual impact of lobbying. One promising option is to use the academic literature on lobbying. The published studies on lobbying could be used to derive estimates of policy success and, ideally, the counterfactual impact of lobbying.
+
+The purpose of this report is to find out whether this academic literature contains quantitative estimates that could be useful in gauging the counterfactual impact of lobbying. We answer this question by reviewing the literature on lobbying and examining studies that have published estimates of the rates of policy success.
+
+Overall policy success is made up of two components: a baseline rate of policy success, and the counterfactual impact of lobbying. Therefore, to measure the counterfactual impact of lobbying, we need to be able to do two things: 1) measure overall policy success, and 2) break down this overall policy success into the baseline rate of success and the counterfactual impact of lobbying (see Figure 1 below).
+
+1. We find that measuring overall policy success using the academic literature is unlikely to work. The lobbying literature contains many well-known weaknesses which cast doubt on researchers' ability to measure policy success. As well as this, our systematic review found a strange result, which suggests that the published estimates of policy success should not be taken at face value.
+2. We find that there is insufficient evidence to break down overall policy success into the baseline rate of success and the counterfactual impact of lobbying. There is only a single study that identifies the counterfactual impact of lobbying. That study was limited to a single policy issue and a single context, and so its findings need to be replicated across other issues and contexts before we can draw any sound conclusions.
+
+In summary, the academic literature does not contain sufficient information to gauge the counterfactual impact of lobbying. For these reasons, we recommend against using estimates from the published literature when modelling the effects of lobbying. Instead, we recommend that researchers choose a different option for incorporating information on the prospects of success. We conclude by highlighting two promising options that deserve further exploration: expert judgement and panels of superforecasters.
+
+Although we conducted this research to guide our own research process at Animal Ask, this report may also be useful to other researchers. In particular, we expect this to prove useful to researchers who forecast legislative outcomes, as well as those interested more generally in the academic literature on lobbying.
+
+*Figure 1: The overall observed success rates of policies are made up of two parts: the baseline success rates of policies (grey puzzle piece) and the counterfactual impact of lobbying (blue puzzle piece). Assessing the counterfactual impact of lobbying would be very useful for evaluating campaign strategies. However, academic research has mostly focused on studying the overall success rates of policies, and that research has encountered serious difficulties. There is currently insufficient evidence to gauge the counterfactual impact of lobbying based on the academic literature.*

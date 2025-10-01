@@ -1,0 +1,24 @@
+---
+{"dg-publish":true,"permalink":"/citations/divestment-from-animal-agriculture-what-does-it-achieve-animal-ask/","created":"2025-10-01T10:42:08.346+01:00","updated":"2025-10-01T10:53:17.939+01:00"}
+---
+
+We can examine the direct impact of divestment campaigns through either a theoretical or an empirical analysis. Starting with a theoretical approach, economic theory suggests that divestment may not have strong direct impacts on the cost of capital. This is because in an efficient market if an individual does not buy a stock, the stock will become undervalued, incentivising someone else to buy it instead.
+
+The results of empirical research align with the predictions of this theoretical  model, with research typically finding short-term, but not long-term, effects. In less efficient markets, such as the market for angel investing, there are likely to be stronger direct effects.
+
+There are also alternative theories that suggest that markets are less efficient than this. If true, these theories would suggest divestment will have stronger direct effects. However, the argument for these theories is not as strong, and even these theories may not predict long-term changes in value from divestment.
+
+Many divestment activists acknowledge the theoretical and empirical evidence against divestment campaigns having an effect on the cost of capital. Instead, they view the _indirect_ effects of divestment as the primary benefit of these campaigns (Hestres and Hopke, 2020). The two main indirect effects that academics and activists have focused their evaluation on are stigmatisation of the target industry and movement building.
+
+Stigmatisation of the target industry delegitimises the industry in the eyes of the public. Other people or organisations who associate themselves with the industry risk becoming stigmatised themselves and therefore may break off association, negatively affecting the target industry. For example, many organisations severed ties with South Africa during apartheid, perhaps as a result of the divestment campaign against it.
+
+Another important indirect effect is that divestment campaigns appear to be very popular and have good movement building potential. This is especially true given the soaring popularity of the fossil fuel divestment movement. A campaign to divest from animal agriculture could potentially ride on its coattails, helping make this probably one of the strongest arguments for a divestment campaign.
+
+However, these historical cases do not allow us to easily isolate the causal effect that the campaigns are having. This is important because without being able to isolate the effect, we cannot cleanly compare a divestment campaign to the effect that another type of campaign would have had or what would have happened if there had been no campaign at all. This limits our ability to be confident that any campaign truly had an impact.
+
+If our main focus is these indirect effects, as existing evidence suggests it should be, there are two additional reasons to believe that divestment could be a suboptimal campaign for animal advocacy organisations:
+
+1.  Animal advocacy organisations already have tried and tested methods for stigmatising animal agriculture, including vegan (or reducetarian) outreach, corporate campaigns, and policy change campaigns. These campaigns may lead to the same indirect effects that provide the strongest support for a divestment campaign. Moreover, there is also a better case for significant direct effects from these campaigns.
+2.  The arguments that would be most persuasive in encouraging people to divest from animal agriculture highlight its environmental impact. This is also currently the most widely-used argument encouraging people to divest from animal agriculture. However, this framing could pose an animal welfare problem. The farming of large animals, especially cows, has a much larger environmental impact than the farming of smaller animals. Therefore, a divestment campaign that was not careful to avoid this might well disproportionately affect the farming of large animals. This in turn risks shifting consumption to smaller animals, increasing the total number of animals farmed for food, since many more small animals must be raised to produce the same amount of meat as a large animal.
+
+In summary, though this is a complex topic with many uncertainties, we think the existing evidence in favour of the theory of change for divestment campaigns is too weak to invest significantly in such campaigns. Although given the uncertainty surrounding the relative efficacy of the movement-building and stigmatisation effects of different campaigns, additional empirical research could update us positively towards this campaign Any divestment campaign that is carried out should be particularly mindful of the small-animal replacement problem (point  2 above) to minimise the chance of the campaign being directly harmful.

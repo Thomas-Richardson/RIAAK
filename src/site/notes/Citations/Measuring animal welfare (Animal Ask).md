@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/citations/measuring-animal-welfare-animal-ask/","created":"2025-10-01T10:32:42.335+01:00","updated":"2025-10-01T10:53:33.143+01:00"}
+---
+
+**Executive Summary**
+
+
+In this report, I examine animal welfare through three stages of analysis. The first is a philosophical discussion surrounding the definition of what animal welfare is and how this definition could differ qualitatively between different animals. This provides the foundation for further research as the validity of practical measures can only be tested with a concrete understanding of the underlying construct. Overall, we accept the definition presented by Bracke and Hopster (2006) that “Animal welfare is the quality of life as perceived by the animal itself,” but recognise that this still leaves many open questions. In our analysis, we place the most weight on the hedonic and then desire theories of well-being; these value positive and negative experiences or preferences respectively. The relative weight each reader may place on different theories of well-being in non-human animals may vary and should be considered in subsequent sections.
+
+  
+
+Once the concept of animal welfare has been more clearly defined, I then investigate the strength of different welfare indicators used in the scientific literature. These are the on-the-ground, testable attributes that one can use to assess the welfare of an individual. In non-human animals, these can be categorised into four clusters: preference tests, physiological indicators, physical health, and behavioural indicators. Each indicator within each category has its own strengths and weaknesses. However, preference tests are the strongest indicators on the whole as they more directly reflect the mental state of the animal. Although they are the easiest to measure, physiological indicators are the weakest measures as they vary depending on numerous other factors or are associated with both positive and negative valence experiences. Therefore, these should be taken in the context of many other indicators to create a holistic picture of the welfare of the individual.
+
+  
+
+Finally, the report concludes with an examination of current attempts to synthesise these indicators into an overall evaluation of animal welfare. These systems attempt to gather information on various indicators to provide an overall assessment of welfare. These include both the animal-based indicators examined in this report and environmental conditions. Every measure examined has numerous flaws so the results of each system should always be considered in light of its limitations. I argue that rather than relying on any given assessment, the best solution is to use a combination of methods that rely on different techniques. The ideal system would use a combination of qualitative measures, expert opinion-based measures, an index of animal-based measures, and standalone measures such as preference testing or qualitative behavioural assessment. This combination would provide a variety of qualitative and quantitative perspectives using information from a wide variety of indicators to guide decision making. In practice, where time constraints limit the extensiveness of our research, a more limited combination may have to be used.

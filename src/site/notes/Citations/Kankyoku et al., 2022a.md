@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/citations/kankyoku-et-al-2022a/","created":"2024-08-20T13:35:31.315+01:00","updated":"2025-09-28T23:41:42.681+01:00"}
+{"dg-publish":true,"permalink":"/citations/kankyoku-et-al-2022a/","tags":["#narratives"],"created":"2024-08-20T13:35:31.315+01:00","updated":"2025-10-01T10:02:07.272+01:00"}
 ---
 
-#citation #narratives
+#narratives
 
 https://paxfauna.org/reports/framing-the-food-system-a-review-for-animal-advocates-of-frameworks-institutes-foundational-study/
 
@@ -27,3 +27,9 @@ Across several diverse research methods, certain trends consistently emerged. Th
 - [[Citations/Hamer, 2022c\|Hamer, 2022c]]
 - [[Citations/Kankyoku et al., 2022d\|Kankyoku et al., 2022d]]
 - [[Citations/Kankyoku et al., 2022e\|Kankyoku et al., 2022e]]
+- [[Citations/Pax Fauna, youtube talk\|Pax Fauna, youtube talk]]
+
+# Related
+- [[Citations/Animal Think Tank, 2024\|Animal Think Tank, 2024]]
+- [[Citations/Animal Think Tank, 2024b\|Animal Think Tank, 2024b]]
+- 

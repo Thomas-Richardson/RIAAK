@@ -1,0 +1,15 @@
+---
+{"dg-publish":true,"permalink":"/citations/pathways-to-victory-how-can-we-end-animal-agriculture-animal-ask/","created":"2025-10-01T10:37:52.037+01:00","updated":"2025-10-01T10:53:39.472+01:00"}
+---
+
+Factory farming and other forms of animal exploitation represent an unimaginably large amount of suffering, as well as other grave ethical concerns. Despite concern for animals being arguably at an all-time high and the many apparent successes of corporate campaigns, meat consumption has been rising (Tim and Nathan 2019). In the face of this seemingly bleak situation, many animal advocates placed hope in cultured meat, but recent analyses from outside the industry have been pessimistic about the prospects for this technology, leaving some animal advocates without hope for victory. This report outlines how victory might be achieved with the patience and dedication of the movement.
+
+To develop a sophisticated theory of change, we must understand what victory might look like and what the most plausible avenues to it are. A well thought out theory of change allows us to make this kind of alignment between our actions and our ideals. Current actions that do little to contribute to our most plausible victory scenarios could then be reconsidered and actions that contributed substantially towards these scenarios could be reinforced.
+
+For example, we find that welfare reforms have made strong, tangible progress, and so remain a strong option for now, but may have difficulty in later stages. In contrast, sudden progress approaches like ballot initiatives and fundamental rights, that potentially achieve rapid progress for animals, may struggle to achieve their goals for now, but may become more promising once more progress has been made and ambitious asks become more realistic.
+
+Turning to animal product replacements, we find the reasons for thinking that cultured meat will inevitably lead to victory for the movement (by replacing all or most animal products), are far less compelling than they formerly were. Plant-based meat represents a pathway that will likely play an important role in assisting other pathways, but is less likely to lead to strong progress on its own¹. In contrast, other alternative protein technologies represent a kind of wild card, which may result in a great deal of progress or may not result in any progress.
+
+We also review the respective arguments for abolitionism and animal protectionism since this was a crucial consideration in this report. We conclude that strong forms of abolitionism, such as those defended by Francione, are not well supported, but that there are lessons around framing from abolitionism that animal advocacy organisations should take on board.
+
+This is a broad, thorny and speculative subject, so our conclusions should be treated as tentative and preliminary. We have tried to appropriately qualify our conclusions to reflect this background level of uncertainty; however, it would clutter the writing to insert all of the necessary qualifiers and so we hope the reader will understand that this is a speculative subject and that our statement should be interpreted in that light.

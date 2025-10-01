@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-economic-value-of-alternative-proteins/","created":"2024-04-25T15:12:50.000+01:00","updated":"2025-09-29T00:30:08.196+01:00"}
+{"dg-publish":true,"permalink":"/the-economic-value-of-alternative-proteins/","tags":["#economics","#alternative_proteins","#cultivated_meat"],"created":"2024-04-25T15:12:50.000+01:00","updated":"2025-10-01T10:31:13.110+01:00"}
 ---
 
 #economics #alternative_proteins 
@@ -7,7 +7,7 @@
 - [[The number of alt-protein companies in the UK\|The number of alt-protein companies in the UK]] 
 - [[farmers transitioning from asfs to plants\|farmers transitioning from asfs to plants]]
 - [[The effects of the protein transition on the macro economy\|The effects of the protein transition on the macro economy]]
-- [[Citations/Green Alliance, 2023\|Citations/Green Alliance, 2023]]
+- [[Citations/Appetite for change - why the UK should lead the emerging alternative proteins market (Green Alliance)\|Appetite for change - why the UK should lead the emerging alternative proteins market (Green Alliance)]]
 - [[CAFOS reduce employment and provide low quality jobs\|CAFOS reduce employment and provide low quality jobs]]
 - [[Citations/Mason-D'Croz et al., 2022\|Mason-D'Croz et al., 2022]] on beef alts replacing beef
 
@@ -15,7 +15,7 @@ A 2023 analysis conducted by McKinsey economists estimates that alternative prot
 
 On a global scale, a 2021 report by Climateworks estimated that the alternative protein industry can support up to 9.8 million jobs and $1.1 trillion in economic value.
 
-[[Citations/Green Alliance, 2023\|Green Alliance, 2023]]
+[[Citations/Appetite for change - why the UK should lead the emerging alternative proteins market (Green Alliance)\|Appetite for change - why the UK should lead the emerging alternative proteins market (Green Alliance)]]
 
 The UK National Food Strategy estimated that developing and manufacturing alternative proteins in the UK, rather than importing them, would create 10,000 new factory jobs and secure 6,500 jobs in farming (to produce inputs for manufacturing processes). 
 

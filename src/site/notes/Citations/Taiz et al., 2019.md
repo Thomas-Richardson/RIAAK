@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/citations/taiz-et-al-2019/","created":"2024-03-10T16:35:48.000+00:00","updated":"2025-09-28T23:49:01.660+01:00"}
+{"dg-publish":true,"permalink":"/citations/taiz-et-al-2019/","tags":["#animal_ethics"],"created":"2024-03-10T16:35:48.000+00:00","updated":"2025-09-29T15:27:12.073+01:00"}
 ---
 
-#citation #animal_ethics 
 
 - [[Plant consciousness\|Plant consciousness]]
+- 
 ## Highlights
 
 - Although ‘plant neurobiologists’ have claimed that plants possess many of the same mental features as animals, such as consciousness, cognition, intentionality, emotions, and the ability to feel pain, the evidence for these abilities in plants is highly problematical.

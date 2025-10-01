@@ -1,0 +1,17 @@
+---
+{"dg-publish":true,"permalink":"/citations/choosing-tactics-evidence-from-social-movement-theory-animal-ask/","created":"2025-10-01T10:16:01.137+01:00","updated":"2025-10-01T10:53:13.838+01:00"}
+---
+
+In the pursuit of social change, social movements have used a variety of tactics to attempt to reform institutions and change public opinion. Here we define tactics as *specific methods that an organisation might use to whip up public support or apply political pressure when conducting a campaign towards a given ask*.
+
+Social movement theorists often observe that campaign groups do not consider novel tactics often enough, preferring to default to tactics suggested by the tradition in which the group works and their identity as an organisation. However, this is unfortunate as tactics will be more effective when they are carefully chosen for the given context. In addition, continued tactical innovation as well as tactical diversity play important roles in keeping targeted institutions ‘on their feet’. Tactical diversity opens up multiple fronts of attack against target institutions while tactical innovation keeps the situation fresh and compelling for media coverage and prevents the targeted institutions from learning how to effectively counter the tactics used.
+
+There are a variety of background factors that may predict which tactics will be more successful than others according to some limited experimental evidence. Unfortunately, the more granular evidence on the success rates of individual tactics does not exist, meaning that we can only make inferences from these background factors to the success rates of individual tactics. You can see the coded list of these tactics with some of our thoughts on them in the [tactics spreadsheet](https://docs.google.com/spreadsheets/d/1XAEMpIK0WNRqeKCujJHRpj7zrdP5FoxYjfVdIKYvlRI/edit?usp=sharing). In the coded categories, one indicates top performance in that category and a five indicates bottom performance in that category.
+
+The most significant grouping of these success factors is dWUNC which offers a framework for evaluating different tactics. According to this framework, tactics will be more successful according to how well they display diversity, worthiness, unity, numbers, and commitment.
+
+The evidence concerning the use of disruptive tactics is less clear, lessons from the social movement suggests that it may have its role to play within animal advocacy when used with care. However, more research is needed to figure out the cases where it is productive or counterproductive. In contrast, the evidence against the use of violent tactics is more clear-cut; they are less effective or outright counterproductive.
+
+This report could be useful for grassroots and ‘outside game’ animal advocacy organisations as well as more institutionalised (‘inside game’) organisations looking to improve their tactical diversity and innovation within the constraints that they operate under.
+
+We remain significantly uncertain about conclusions. There has been relatively little scientific study of these questions, owing in part to substantial methodological difficulties. Some of these questions therefore fall to the informed judgements, either those of experts or our own in some cases.

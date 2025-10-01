@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/world-animal-protection-2024/","created":"2024-07-17T11:09:16.187+01:00","updated":"2025-09-28T23:42:03.758+01:00"}
+{"dg-publish":true,"permalink":"/citations/world-animal-protection-2024/","tags":["#citation","#factory_farming","#uk"],"created":"2024-07-17T11:09:16.187+01:00","updated":"2025-10-01T10:16:37.458+01:00"}
 ---
 
 #citation #factory_farming #uk 
@@ -7,7 +7,7 @@
 https://www.worldanimalprotection.org.uk/siteassets/reports/confined-in-cruelty-report.pdf
 
 - [[Agriculture in the UK\|Agriculture in the UK]]
-- [[What percentage of UK cattle are kept indoors their whole life?\|What percentage of UK cattle are kept indoors their whole life?]]
+- [[What percentage of UK cattle are kept indoors their whole life\|What percentage of UK cattle are kept indoors their whole life]]
 
 Using EPR permits to chart an increase in UK factory farming
 

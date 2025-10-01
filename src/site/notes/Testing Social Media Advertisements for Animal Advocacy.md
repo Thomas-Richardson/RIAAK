@@ -8,4 +8,4 @@ https://bryantresearch.co.uk/insight-items/social-media-ads/
 
 - [[Animal cruelty based messages are more effective than health or environmental ones\|Animal cruelty based messages are more effective than health or environmental ones]]
 - [[A fundamental methodological flaw in the way we do pro-animal messaging studies\|A fundamental methodological flaw in the way we do pro-animal messaging studies]]
-- [[Citations/Ryba, 2024\|Ryba, 2024]]  
+- [[Ryba, 2024\|Ryba, 2024]]  

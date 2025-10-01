@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/green-alliance-2022/","created":"2025-01-17T21:44:35.415+00:00","updated":"2025-09-28T23:41:27.625+01:00"}
+{"dg-publish":true,"permalink":"/citations/green-alliance-2022/","tags":["#citation","#environment_land","#uk","#farmers"],"created":"2025-01-17T21:44:35.415+00:00","updated":"2025-10-01T10:31:13.106+01:00"}
 ---
 
 #citation #environment_land #uk 
@@ -15,6 +15,6 @@ Support #farmers  to keep food yields high on productive land while using much l
 
 # related
 - [[Citations/Green Alliance 2024\|Green Alliance 2024]]
-- [[Citations/Green Alliance, 2023\|Green Alliance, 2023]] 
+- [[Citations/Appetite for change - why the UK should lead the emerging alternative proteins market (Green Alliance)\|Appetite for change - why the UK should lead the emerging alternative proteins market (Green Alliance)]] 
 - [[Animal agriculture and biodiversity loss\|Animal agriculture and biodiversity loss]]
 - 

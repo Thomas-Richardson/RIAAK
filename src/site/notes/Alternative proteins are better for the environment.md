@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/alternative-proteins-are-better-for-the-environment/","created":"2024-04-22T23:50:53.000+01:00","updated":"2025-09-28T23:42:29.828+01:00"}
+{"dg-publish":true,"permalink":"/alternative-proteins-are-better-for-the-environment/","tags":["#alternative_proteins","#environment_ghg","#environment_land"],"created":"2024-04-22T23:50:53.000+01:00","updated":"2025-10-01T10:31:13.095+01:00"}
 ---
 
 #alternative_proteins #environment_ghg #environment_land 
@@ -15,7 +15,7 @@ According to Boston Consulting Group, at 11 percent market penetration, alternat
 ### PB Seafood
 Plant-based alternatives have a greenhouse gas (GHG) footprint [one-third less](https://www.frontiersin.org/articles/10.3389/fsufs.2020.00134/full) than conventionally farmed fish and [three-quarters](https://www.frontiersin.org/articles/10.3389/fsufs.2020.00134/full) less than farmed crustaceans.
 ## Land
-- Replacing processed meat and dairy with alternative proteins would reduce U.K. agricultural land use by 28% and 35% of agriculture emissions. ([[Citations/Green Alliance, 2023\|Citations/Green Alliance, 2023]])
+- Replacing processed meat and dairy with alternative proteins would reduce U.K. agricultural land use by 28% and 35% of agriculture emissions. ([[Citations/Appetite for change - why the UK should lead the emerging alternative proteins market (Green Alliance)\|Appetite for change - why the UK should lead the emerging alternative proteins market (Green Alliance)]])
 
 GFI LCAs:
 

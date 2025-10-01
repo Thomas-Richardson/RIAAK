@@ -1,0 +1,23 @@
+---
+{"dg-publish":true,"permalink":"/citations/modelling-the-outcomes-of-animal-welfare-interventions-animal-ask/","created":"2025-10-01T10:12:58.082+01:00","updated":"2025-10-01T10:53:37.955+01:00"}
+---
+
+Executive summary
+
+At Animal Ask, we spent most of 2023 conducting prioritisation research to identify the most promising goals and strategies for the animal advocacy movement. The aim of that project was to identify goals and strategies that could be more impactful than the current leading campaigns (e.g. cage-free campaigns). If we succeed, we can unlock new opportunities for the movement to help even more animals.
+
+This article outlines one component of the methodology we used for that research. Specifically, to guide our research on new interventions for the animal advocacy movement, we needed a framework that allows us to quantify the subjective experiences of animals. For example, if we were comparing two campaigns—say, a) phasing out fast-growing breeds to reduce suffering in broiler chickens and b) implementing more humane pesticides to reduce suffering in wild insects killed on agricultural land—we would need to produce a quantitative estimate of the potential impact of these two campaigns.
+
+In essence, our framework allows us to systematically compare different campaign opportunities in how good they are for animals—and these comparisons can be made across different species, across different intensities of experience (e.g. mild vs extreme suffering), and across both positive and negative experiences. The framework allows us to be clear and transparent about the worldviews, philosophical positions, and/or empirical assumptions that are used in drawing conclusions about particular campaigns.
+
+In this report, we outline our framework. The key characteristics of the framework are:
+
+- The framework is cumulative, meaning that it considers the total duration of an animal's experience over time. In fact, our framework is heavily based on the existing Cumulative Pain framework, which was developed by the researchers Wladimir J. Alonso and Cynthia Schuck-Paim.
+- The framework allows experiences to be adjusted. We can place different moral weights on more intense experiences—for example, we might think that preventing extreme suffering is more important than preventing mild suffering, all else being equal.
+- The framework incorporates the fact that uncertainty is high, and society has simply not made much progress on many of the core questions relating to trade-offs between different subjective experiences.
+
+We advise serious caution when applying the ideas from our framework (or any framework on this topic). As any statistician knows, no model is a perfect representation of reality. When we're looking at the specific question of moral trade-offs between different subjective experiences, things get seriously murky. We view this framework as a tool to help us think quantitatively, subject to the serious limitations to society's knowledge.
+
+We chose to describe our framework in this article so we can be transparent about our research methods, allowing others to see how we reach particular conclusions and to improve on our methods. We discuss the many limitations of our framework at the end of this article. Due to these limitations, this framework is only a small part of our research process. When evaluating animal advocacy interventions, we consider a range of other information interventions, many of which we have already been using before this point—these include qualitative factors (e.g. weight-of-evidence, tractability, scalability, and so on) and quantitative measures (e.g. individual animals helped, animal-years improved). The framework is mostly derived from components that are already published or well-established in the animal advocacy movement; for readers already familiar with research methods in animal advocacy, this article mostly revisits familiar ground.
+
+The three areas of research we draw upon (e.g. Rethink Priority's welfare ranges, and Welfare Footprint Project's thinking on intensity-duration tradeoffs) are still topics of active scientific and philosophical development, so there will probably be substantial advances over the next couple of years that will require us to modify our framework. (In fact, this article was written in early 2023 and posted in early 2024, so there might be important, recent developments that are not included in this article.)

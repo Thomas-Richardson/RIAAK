@@ -25,6 +25,9 @@ GFI estimated in 2023 that [[food and meat accounts for a large proportion of gr
 
 German Scientific Advisory Board Urges Government to Support Alternative Proteins [recommends](https://vegconomist.com/politics-law/german-scientific-advisory-board-urges-government-support-alternative-proteins/) 
 
+# Related
+- [[alt proteins and VC funding\|alt proteins and VC funding]]
+
 </div></div>
 
 

@@ -1,13 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/alt-proteins-and-vc-funding/","created":"2024-05-07T10:12:26.000+01:00","updated":"2025-09-28T23:42:25.076+01:00"}
+{"dg-publish":true,"permalink":"/alt-proteins-and-vc-funding/","tags":["#alternative_proteins"],"created":"2024-05-07T10:12:26.000+01:00","updated":"2025-10-01T10:31:13.119+01:00"}
 ---
 
 #alternative_proteins 
-
-- [[Alt proteins are underfunded\|Alt proteins are underfunded]]
-- [[Government investment in alt proteins\|Government investment in alt proteins]]
-- [[Alt proteins in Asia\|Alt proteins in Asia]]
-- [[The economic value of alternative proteins\|The economic value of alternative proteins]]
 
 - In its infancy, much of the sector focused on plant-based CPG products
 - Timelines to bring those products to market were a reasonably good fit with VC expectations. The risk was often moderate, early consumer adoption was promising, and there was demonstrated interest from retail and foodservice
@@ -17,3 +12,11 @@
 - This is to say nothing of requirements for fermentation and cultivated products, likely to be even higher.
 
 [[BSG, 2022\|BSG, 2022]]: Venture capital in alternative proteins grew from $1 billion in 2019 to $5 billion in 2021. Investment in fermentation-based and animal-cell-based technologies saw significant rises of 137% and 425%, respectively.
+
+# Related
+- [[Misc Strengths and issues of the alt protein sector\|Misc Strengths and issues of the alt protein sector]]
+- [[Citations/Appetite for change - why the UK should lead the emerging alternative proteins market (Green Alliance)\|Appetite for change - why the UK should lead the emerging alternative proteins market (Green Alliance)]] 
+- [[Alt proteins are underfunded\|Alt proteins are underfunded]]
+- [[Government investment in alt proteins\|Government investment in alt proteins]]
+- [[Alt proteins in Asia\|Alt proteins in Asia]]
+- [[The economic value of alternative proteins\|The economic value of alternative proteins]]

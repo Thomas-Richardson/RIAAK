@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-consolidation-and-intensification-of-farms/","created":"2024-04-23T13:15:26.000+01:00","updated":"2025-09-29T00:29:56.229+01:00"}
+{"dg-publish":true,"permalink":"/the-consolidation-and-intensification-of-farms/","created":"2024-04-23T13:15:26.000+01:00","updated":"2025-10-01T19:25:02.355+01:00"}
 ---
 
 #factory_farming 
@@ -17,7 +17,7 @@ just three cooperatives market more than 80 percent of all fluid milk in the cou
 - Some great stats in [[Citations/Greenpeace, 2019\|Greenpeace, 2019]] and [[Greenpeace, 2024\|Greenpeace, 2024]]
 
 
-## [[Agriculture in the UK\|UK]]
+## [[Farming Evidence Pack (DEFRA)\|UK]]
 See [[Citations/World animal protection, 2024\|World animal protection, 2024]] 
 A mega-farm in the UK is roughly equivalent to a [Concentrated Animal Feeding Operation (CAFO)](https://plantbasednews.org/culture/film/film-north-carolina-pig-farming/) in the US:
 - 2,500 or more pigs
@@ -34,7 +34,7 @@ The UK had 1176 such farms in 2024
 
 For cows it's growing: https://www.bbc.co.uk/news/articles/cy4ldkpz1klo 
 ### Other definitions
-- We might define a UK factory farm as one requiring a permit under the [[Agriculture in the UK#ELMS\|EPR]]:
+- We might define a UK factory farm as one requiring a permit under the [[Farming Evidence Pack (DEFRA)#ELMS\|EPR]]:
 	- 40k poultry
 	- 2k pigs for meat
 	- 750 sows

@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/citations/agriculture-in-the-uk-2023/","created":"2024-11-28T19:50:45.228+00:00","updated":"2025-09-28T23:40:45.593+01:00"}
+{"dg-publish":true,"permalink":"/citations/agriculture-in-the-uk-2023/","created":"2024-11-28T19:50:45.228+00:00","updated":"2025-10-01T19:23:11.458+01:00"}
 ---
 
 #citation #uk #cawf_food_sec 
-
-- [[Food security in the UK\|Food security in the UK]]
 
 | Trade in food, feed and drink in real terms at 2023 prices  | 2021    | 2022    | 2023   |
 |-------------------------------------------------------------|---------|---------|--------|
@@ -58,3 +56,12 @@ The food production to supply ratio (commonly referred to as the “self-suffici
 | Poultry meat               | 93%  | 84%  | 82%  |
 | Milk                       | 105% | 105% | 105% |
 | Eggs                       | 92%  | 90%  | 87%  |
+# Related
+- [[Food security in the UK\|Food security in the UK]]
+- [[Citations/UK governmental food security review, 2024\|UK governmental food security review, 2024]]
+- [[Citations/UK governmental food security review, 2021\|UK governmental food security review, 2021]]
+- [[Citations/UK Gov food strategy, 2022\|UK Gov food strategy, 2022]]
+- [[CAWF3 farming self sufficiency\|CAWF3 farming self sufficiency]]
+- [[The UK is not self sufficient in pork or poultry\|The UK is not self sufficient in pork or poultry]]
+- [[Citations/National food strategy, 2021\|National food strategy, 2021]]
+- 

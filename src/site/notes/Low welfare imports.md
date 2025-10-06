@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/low-welfare-imports/","created":"2024-09-11T09:16:27.179+01:00","updated":"2025-09-29T00:19:37.764+01:00"}
+{"dg-publish":true,"permalink":"/low-welfare-imports/","created":"2024-09-11T09:16:27.179+01:00","updated":"2025-10-01T19:25:02.349+01:00"}
 ---
 
 #farming #uk 
 
 - [[Post-Brexit Trade Deals and Low Welfare Imports - An urgent cautionary warning for the UK\|Post-Brexit Trade Deals and Low Welfare Imports - An urgent cautionary warning for the UK]]
-- [[Agriculture in the UK\|Agriculture in the UK]]
+- [[Farming Evidence Pack (DEFRA)\|Farming Evidence Pack (DEFRA)]]
 - [[Food security in the UK\|Food security in the UK]]
 
 [70%](https://www.cpre.org.uk/wp-content/uploads/2019/11/The_future_of_pig_and_poultry_farming.pdf) of the UK’s imported pig meat does not meet British pig farming standards.

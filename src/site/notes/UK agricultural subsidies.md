@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/uk-agricultural-subsidies/","created":"2024-08-02T13:53:08.470+01:00","updated":"2025-09-29T00:31:08.830+01:00"}
+{"dg-publish":true,"permalink":"/uk-agricultural-subsidies/","created":"2024-08-02T13:53:08.470+01:00","updated":"2025-10-01T19:25:02.360+01:00"}
 ---
 
 #uk #farming 
 
 - [[Subsidies\|Subsidies]]
-- [[Agriculture in the UK\|Agriculture in the UK]]
+- [[Farming Evidence Pack (DEFRA)\|Farming Evidence Pack (DEFRA)]]
 - [[CAWF 2- subsidies paid to IMPs\|CAWF 2- subsidies paid to IMPs]]
 
 - [See DEFRA's 2023 dashboard](https://defra-farming-stats.github.io/auk-dashboard/#direct-payments) 

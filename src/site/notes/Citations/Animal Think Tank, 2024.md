@@ -1,10 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/citations/animal-think-tank-2024/","created":"2024-09-18T13:13:26.667+01:00","updated":"2025-09-28T23:40:54.226+01:00"}
+{"dg-publish":true,"permalink":"/citations/animal-think-tank-2024/","tags":["narratives","uk"],"created":"2024-09-18T13:13:26.667+01:00","updated":"2025-10-01T19:32:53.034+01:00"}
 ---
 
-#citation #narratives #uk 
-
-https://animalthinktank.substack.com/p/narrative-sneak-peeks-how-to-increase?r=33qbf5&utm_campaign=post&utm_medium=web&triedRedirect=true
 
 Representative sample of 2000 Brits
 

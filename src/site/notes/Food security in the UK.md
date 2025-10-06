@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/food-security-in-the-uk/","created":"2024-06-12T11:37:59.716+01:00","updated":"2025-09-28T23:53:01.259+01:00"}
+{"dg-publish":true,"permalink":"/food-security-in-the-uk/","created":"2024-06-12T11:37:59.716+01:00","updated":"2025-10-01T19:25:02.343+01:00"}
 ---
 
 #food_security #uk #cawf_food_sec 
 
-- [[Agriculture in the UK\|Agriculture in the UK]] 
+- [[Farming Evidence Pack (DEFRA)\|Farming Evidence Pack (DEFRA)]] 
 A key topic in the [conservative's 2024 manifesto](https://public.conservatives.com/static/documents/GE2024/Conservative-Manifesto-GE2024.pdf)
 - [[Citations/UK governmental food security review, 2021\|UK governmental food security review, 2021]] 
 

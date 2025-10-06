@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/plenty-of-fish-in-the-sea-not-enough-to-feed-10-billion-people-sustainably/","title":"Plenty of fish in the sea? Not enough to feed 10 billion people sustainably.","tags":["#light_read","#important_read","#listen_to"],"created":"2025-05-13T12:52:04.656+01:00","updated":"2025-09-29T00:21:54.160+01:00"}
+{"dg-publish":true,"permalink":"/plenty-of-fish-in-the-sea-not-enough-to-feed-10-billion-people-sustainably/","title":"Plenty of fish in the sea? Not enough to feed 10 billion people sustainably.","tags":["light_read","important_read","listen_to"],"created":"2025-05-13T12:52:04.656+01:00","updated":"2025-09-29T00:21:54.160+01:00"}
 ---
 
 ### Alternative seafood is an important tool to help our oceans thrive while feeding a growing population.

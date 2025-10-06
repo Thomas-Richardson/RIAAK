@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/uk-farmland-use/","created":"2024-07-22T20:29:36.702+01:00","updated":"2025-09-29T00:31:15.280+01:00"}
+{"dg-publish":true,"permalink":"/uk-farmland-use/","created":"2024-07-22T20:29:36.702+01:00","updated":"2025-10-01T19:25:02.371+01:00"}
 ---
 
 #farming #uk 
 
-- [[Agriculture in the UK\|Agriculture in the UK]]
+- [[Farming Evidence Pack (DEFRA)\|Farming Evidence Pack (DEFRA)]]
 
 ![Pasted image 20240801122343.png|500](/img/user/Pasted%20image%2020240801122343.png)
 

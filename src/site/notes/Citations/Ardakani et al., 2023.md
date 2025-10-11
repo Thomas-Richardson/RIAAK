@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/ardakani-et-al-2023/","created":"2024-08-14T10:41:35.171+01:00","updated":"2025-09-28T23:40:57.542+01:00"}
+{"dg-publish":true,"permalink":"/citations/ardakani-et-al-2023/","created":"2024-08-14T10:41:35.171+01:00","updated":"2025-10-10T23:54:19.190+01:00"}
 ---
 
 #citation #factory_farming #health_disease 

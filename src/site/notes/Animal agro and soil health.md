@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/animal-agro-and-soil-health/","created":"2024-05-16T18:38:07.000+01:00","updated":"2025-09-28T23:42:49.698+01:00"}
+{"dg-publish":true,"permalink":"/animal-agro-and-soil-health/","created":"2024-05-16T18:38:07.000+01:00","updated":"2025-10-10T23:48:46.459+01:00"}
 ---
 
 #environment_pollution #farming 

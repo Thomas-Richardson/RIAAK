@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/alternative-meats-displace-demand-for-animal-products/","created":"2024-03-14T16:11:20.000+00:00","updated":"2025-09-28T23:42:30.575+01:00"}
+{"dg-publish":true,"permalink":"/alternative-meats-displace-demand-for-animal-products/","tags":["alternative_proteins"],"created":"2024-03-14T16:11:20.000+00:00","updated":"2025-10-10T23:49:54.414+01:00"}
 ---
 
 #bryant_insight #alternative_proteins #economics #dairy #consumer_attitudes 

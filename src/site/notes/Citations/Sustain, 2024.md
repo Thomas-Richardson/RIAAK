@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/sustain-2024/","created":"2024-08-09T12:42:23.357+01:00","updated":"2025-09-28T23:41:58.843+01:00"}
+{"dg-publish":true,"permalink":"/citations/sustain-2024/","created":"2024-08-09T12:42:23.357+01:00","updated":"2025-10-10T23:59:13.787+01:00"}
 ---
 
 #citation #factory_farming #uk #environment_pollution 

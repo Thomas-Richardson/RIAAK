@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-gfi-and-foodsteps-alternative-protein-automated-lca-software/","created":"2025-01-19T20:52:52.234+00:00","updated":"2025-09-29T00:30:13.929+01:00"}
+{"dg-publish":true,"permalink":"/the-gfi-and-foodsteps-alternative-protein-automated-lca-software/","tags":["#environment_ghg","#environment_land","#environment_misc","#alternative_proteins"],"created":"2025-01-19T20:52:52.234+00:00","updated":"2025-10-10T23:32:42.767+01:00"}
 ---
 
 #environment_ghg #environment_land #environment_misc #alternative_proteins 

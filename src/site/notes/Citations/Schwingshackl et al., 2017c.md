@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/schwingshackl-et-al-2017c/","created":"2024-04-22T13:05:27.000+01:00","updated":"2025-09-28T23:48:44.994+01:00"}
+{"dg-publish":true,"permalink":"/citations/schwingshackl-et-al-2017c/","created":"2024-04-22T13:05:27.000+01:00","updated":"2025-10-10T23:58:32.070+01:00"}
 ---
 
 #health_nutrition #dairy #meat #eggs #citation 

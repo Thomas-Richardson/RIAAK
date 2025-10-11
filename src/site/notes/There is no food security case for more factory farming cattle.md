@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/there-is-no-food-security-case-for-more-factory-farming-cattle/","created":"2024-12-18T13:25:12.134+00:00","updated":"2025-09-29T00:31:02.064+01:00"}
+{"dg-publish":true,"permalink":"/there-is-no-food-security-case-for-more-factory-farming-cattle/","tags":["food_security","factory_farming","cows"],"created":"2024-12-18T13:25:12.134+00:00","updated":"2025-10-10T23:34:44.183+01:00"}
 ---
 
 #food_security #cawf_food_sec #uk 

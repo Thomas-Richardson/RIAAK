@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/pew-commission-2008/","created":"2024-03-23T00:20:46.000+00:00","updated":"2025-09-28T23:41:51.192+01:00"}
+{"dg-publish":true,"permalink":"/citations/pew-commission-2008/","created":"2024-03-23T00:20:46.000+00:00","updated":"2025-10-10T23:57:51.103+01:00"}
 ---
 
 #citation #factory_farming #farming 

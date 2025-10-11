@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/big-meat-corporations-in-the-uk/","created":"2025-01-27T22:34:23.745+00:00","updated":"2025-09-28T23:43:26.060+01:00"}
+{"dg-publish":true,"permalink":"/big-meat-corporations-in-the-uk/","created":"2025-01-27T22:34:23.745+00:00","updated":"2025-10-10T23:50:21.257+01:00"}
 ---
 
 #uk #factory_farming 

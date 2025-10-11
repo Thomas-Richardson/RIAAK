@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/green-alliance-2024/","created":"2024-12-04T17:35:59.822+00:00","updated":"2025-09-28T23:41:26.558+01:00"}
+{"dg-publish":true,"permalink":"/citations/green-alliance-2024/","created":"2024-12-04T17:35:59.822+00:00","updated":"2025-10-10T23:56:54.804+01:00"}
 ---
 
 #citation #environment_land #cawf_food_sec 

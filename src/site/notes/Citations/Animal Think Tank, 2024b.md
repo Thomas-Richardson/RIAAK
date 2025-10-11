@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/animal-think-tank-2024b/","created":"2024-10-23T10:28:30.293+01:00","updated":"2025-09-28T23:40:54.992+01:00"}
+{"dg-publish":true,"permalink":"/citations/animal-think-tank-2024b/","created":"2024-10-23T10:28:30.293+01:00","updated":"2025-10-10T23:54:06.070+01:00"}
 ---
 
 #citation #uk 

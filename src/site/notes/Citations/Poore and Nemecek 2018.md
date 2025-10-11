@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/poore-and-nemecek-2018/","created":"2023-11-19T14:07:29.000+00:00","updated":"2025-09-28T23:48:14.792+01:00"}
+{"dg-publish":true,"permalink":"/citations/poore-and-nemecek-2018/","created":"2023-11-19T14:07:29.000+00:00","updated":"2025-10-10T23:57:53.072+01:00"}
 ---
 
 #environment_misc #citation #farming #meat 

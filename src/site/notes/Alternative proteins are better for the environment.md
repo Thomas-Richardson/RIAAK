@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/alternative-proteins-are-better-for-the-environment/","created":"2024-04-22T23:50:53.000+01:00","updated":"2025-10-01T10:31:13.095+01:00"}
+{"dg-publish":true,"permalink":"/alternative-proteins-are-better-for-the-environment/","tags":["alternative_proteins"],"created":"2024-04-22T23:50:53.000+01:00","updated":"2025-10-10T23:49:45.213+01:00"}
 ---
 
 #alternative_proteins #environment_ghg #environment_land 

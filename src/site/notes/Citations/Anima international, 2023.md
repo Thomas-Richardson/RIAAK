@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/citations/anima-international-2023/","created":"2024-12-04T12:00:09.903+00:00","updated":"2025-09-28T23:46:52.032+01:00"}
+{"dg-publish":true,"permalink":"/citations/anima-international-2023/","created":"2024-12-04T12:00:09.903+00:00","updated":"2025-10-09T09:39:36.046+01:00"}
 ---
 
-#citation #farmers 
+ #farmers 
 
 https://drive.google.com/file/d/1-ZfzWdAmBVk8lEew5UOpEdqgAsKV-o0w/view
 

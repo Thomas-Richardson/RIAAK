@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/eat-lancet/","created":"2024-04-22T12:50:10.000+01:00","updated":"2025-09-28T23:41:05.183+01:00"}
+{"dg-publish":true,"permalink":"/citations/eat-lancet/","created":"2024-04-22T12:50:10.000+01:00","updated":"2025-10-10T23:56:12.856+01:00"}
 ---
 
 #health_nutrition  #environment_misc #citation 

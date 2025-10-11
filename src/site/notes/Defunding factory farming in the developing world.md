@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/defunding-factory-farming-in-the-developing-world/","created":"2025-04-03T12:34:10.867+01:00","updated":"2025-09-29T00:29:00.593+01:00"}
+{"dg-publish":true,"permalink":"/defunding-factory-farming-in-the-developing-world/","tags":["factory_farming"],"created":"2025-04-03T12:34:10.867+01:00","updated":"2025-10-10T23:33:43.939+01:00"}
 ---
 
 #Sinergia_defunding_project 

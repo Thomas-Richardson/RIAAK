@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/eat-and-globe-scan-2022/","created":"2024-06-21T14:06:37.024+01:00","updated":"2025-09-28T23:41:04.365+01:00"}
+{"dg-publish":true,"permalink":"/citations/eat-and-globe-scan-2022/","created":"2024-06-21T14:06:37.024+01:00","updated":"2025-10-10T23:56:11.089+01:00"}
 ---
 
 #good_growth_social_listening #lower_middle_income_countries #food_security #citation 

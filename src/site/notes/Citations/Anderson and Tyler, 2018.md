@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/anderson-and-tyler-2018/","created":"2024-03-26T11:45:12.000+00:00","updated":"2025-09-28T23:40:53.594+01:00"}
+{"dg-publish":true,"permalink":"/citations/anderson-and-tyler-2018/","created":"2024-03-26T11:45:12.000+00:00","updated":"2025-10-10T23:54:02.006+01:00"}
 ---
 
 #citation #animal_welfare #consumer_attitudes #asia #lower_middle_income_countries 

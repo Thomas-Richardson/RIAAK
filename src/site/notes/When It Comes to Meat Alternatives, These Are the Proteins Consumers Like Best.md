@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/when-it-comes-to-meat-alternatives-these-are-the-proteins-consumers-like-best/","created":"2025-10-06T10:50:33.886+01:00","updated":"2025-10-06T10:50:34.095+01:00"}
+{"dg-publish":true,"permalink":"/when-it-comes-to-meat-alternatives-these-are-the-proteins-consumers-like-best/","tags":["alternative_proteins","consumer_attitudes"],"created":"2025-10-06T10:50:33.886+01:00","updated":"2025-10-10T23:32:53.528+01:00"}
 ---
 
 [![Green Queen](https://www.greenqueen.com.hk/wp-content/uploads/2024/09/green-queen-logo-short-main.png)](https://www.greenqueen.com.hk/)

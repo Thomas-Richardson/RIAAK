@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/caf-os-wreck-domestic-rural-communities/","created":"2024-05-16T17:51:16.000+01:00","updated":"2025-09-28T23:45:38.598+01:00"}
+{"dg-publish":true,"permalink":"/caf-os-wreck-domestic-rural-communities/","tags":["farmers","factory_farming"],"created":"2024-05-16T17:51:16.000+01:00","updated":"2025-10-10T23:53:01.647+01:00"}
 ---
 
 #factory_farming #economics 

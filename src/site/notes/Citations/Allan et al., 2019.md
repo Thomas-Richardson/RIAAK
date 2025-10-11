@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/allan-et-al-2019/","created":"2023-11-01T14:31:46.000+00:00","updated":"2025-09-28T23:39:09.324+01:00"}
+{"dg-publish":true,"permalink":"/citations/allan-et-al-2019/","created":"2023-11-01T14:31:46.000+00:00","updated":"2025-10-10T23:54:24.590+01:00"}
 ---
 
 #citation #farming #economics 

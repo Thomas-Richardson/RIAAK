@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acceptability-of-common-farming-practices/","created":"2024-04-02T13:04:02.000+01:00","updated":"2025-09-28T23:42:18.109+01:00"}
+{"dg-publish":true,"permalink":"/acceptability-of-common-farming-practices/","created":"2024-04-02T13:04:02.000+01:00","updated":"2025-10-10T23:47:31.893+01:00"}
 ---
 
 #bryant_insight #farming #consumer_attitudes 

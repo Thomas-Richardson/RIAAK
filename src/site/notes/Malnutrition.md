@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/malnutrition/","created":"2024-04-25T12:47:11.000+01:00","updated":"2025-09-29T00:19:40.980+01:00"}
+{"dg-publish":true,"permalink":"/malnutrition/","created":"2024-04-25T12:47:11.000+01:00","updated":"2025-10-10T23:44:14.593+01:00"}
 ---
 
 #health_nutrition #mfa_food_sec 
@@ -27,6 +27,7 @@ The major causes of ‘hidden hunger’ are shortages of:
 
 Additionally [Vitamin D deficiency is a problem in basically every country](https://www.sciencedirect.com/science/article/abs/pii/S0960076013002331)
 ## Malnutrition is a greater problem than not enough calories
+- [[Feeding the world nutrition over calories, plants over animals\|Feeding the world nutrition over calories, plants over animals]]
 - [[Citations/Herforth et al., 2022\|Herforth et al., 2022]] estimates that whilst in 2017, 381 million could not afford a calorie sufficient diet (5%), 3 *billion* cannot reasonable afford a healthy diet.
 - Simulations by [Nelson et al., (2018)](https://www.nature.com/articles/s41893-018-0192-z) suggest that even in the face of climate change likely damaging agricultural yields, we are comfortably on track for everyone in world to afford enough calories in 2050. What is less certain, is whether everyone will have access to a nutritious diet. Nelson et al., find the risks of hidden hunger remain even if we assume that the world's poorest will double their consumption of both meat and vegetables. 
 	- In all of their simulations, most of the world met requirements for magnesium and phosphorus and niacin, riboflavin, thiamin, vitamin B6 and vitamin C. 

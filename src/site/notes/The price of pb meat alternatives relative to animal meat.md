@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-price-of-pb-meat-alternatives-relative-to-animal-meat/","created":"2024-03-17T15:25:40.000+00:00","updated":"2025-09-29T00:30:43.263+01:00"}
+{"dg-publish":true,"permalink":"/the-price-of-pb-meat-alternatives-relative-to-animal-meat/","tags":["alternative_proteins","economics"],"created":"2024-03-17T15:25:40.000+00:00","updated":"2025-10-10T23:33:03.068+01:00"}
 ---
 
 #alternative_proteins #economics #meat 

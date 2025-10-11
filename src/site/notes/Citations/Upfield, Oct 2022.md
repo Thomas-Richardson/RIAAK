@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/upfield-oct-2022/","created":"2023-10-26T13:18:24.000+01:00","updated":"2025-09-28T23:49:06.209+01:00"}
+{"dg-publish":true,"permalink":"/citations/upfield-oct-2022/","created":"2023-10-26T13:18:24.000+01:00","updated":"2025-10-10T23:59:46.639+01:00"}
 ---
 
 #citation #dairy #labelling 

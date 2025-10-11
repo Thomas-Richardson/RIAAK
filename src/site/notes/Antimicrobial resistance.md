@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/antimicrobial-resistance/","created":"2024-04-22T12:46:10.000+01:00","updated":"2025-09-28T23:42:58.973+01:00"}
+{"dg-publish":true,"permalink":"/antimicrobial-resistance/","created":"2024-04-22T12:46:10.000+01:00","updated":"2025-10-10T23:49:33.163+01:00"}
 ---
 
 #health_disease  #factory_farming 

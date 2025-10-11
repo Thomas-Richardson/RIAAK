@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/caf-os-undermine-cultural-benefits-of-livestock/","created":"2024-03-10T16:30:53.000+00:00","updated":"2025-09-28T23:45:37.761+01:00"}
+{"dg-publish":true,"permalink":"/caf-os-undermine-cultural-benefits-of-livestock/","tags":["factory_farming"],"created":"2024-03-10T16:30:53.000+00:00","updated":"2025-10-10T23:52:59.407+01:00"}
 ---
 
 #factory_farming 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cafos-reduce-employment-and-provide-low-quality-jobs/","created":"2024-05-02T13:27:39.000+01:00","updated":"2025-09-28T23:45:36.014+01:00"}
+{"dg-publish":true,"permalink":"/cafos-reduce-employment-and-provide-low-quality-jobs/","tags":["factory_farming","economics"],"created":"2024-05-02T13:27:39.000+01:00","updated":"2025-10-10T23:52:31.544+01:00"}
 ---
 
 #economics #factory_farming 

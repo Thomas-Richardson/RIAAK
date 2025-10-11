@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/better-livestock-practices-will-not-offset-emissions-from-livestock/","created":"2024-04-22T15:36:27.000+01:00","updated":"2025-09-28T23:43:24.612+01:00"}
+{"dg-publish":true,"permalink":"/better-livestock-practices-will-not-offset-emissions-from-livestock/","created":"2024-04-22T15:36:27.000+01:00","updated":"2025-10-10T23:50:25.877+01:00"}
 ---
 
 #environment_ghg  #farming 

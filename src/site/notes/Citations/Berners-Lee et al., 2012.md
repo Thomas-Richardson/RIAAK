@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/berners-lee-et-al-2012/","created":"2024-04-22T12:47:20.000+01:00","updated":"2025-09-28T23:39:14.188+01:00"}
+{"dg-publish":true,"permalink":"/citations/berners-lee-et-al-2012/","created":"2024-04-22T12:47:20.000+01:00","updated":"2025-10-10T23:54:53.506+01:00"}
 ---
 
 #citation #environment_ghg  #economics #veganism 

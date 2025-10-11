@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blogs-and-articles/how-the-most-powerful-environmental-groups-help-greenwash-big-meat-s-climate-impact/","created":"2025-09-28T03:06:13.881+01:00","updated":"2025-09-28T23:43:30.960+01:00"}
+{"dg-publish":true,"permalink":"/blogs-and-articles/how-the-most-powerful-environmental-groups-help-greenwash-big-meat-s-climate-impact/","created":"2025-09-28T03:06:13.881+01:00","updated":"2025-10-10T23:52:50.742+01:00"}
 ---
 
 ## Free speech needs fearless journalism

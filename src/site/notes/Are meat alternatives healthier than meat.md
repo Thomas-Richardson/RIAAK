@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/are-meat-alternatives-healthier-than-meat/","created":"2024-04-22T23:50:00.000+01:00","updated":"2025-09-28T23:43:06.843+01:00"}
+{"dg-publish":true,"permalink":"/are-meat-alternatives-healthier-than-meat/","tags":["alternative_proteins","health_nutrition"],"created":"2024-04-22T23:50:00.000+01:00","updated":"2025-10-10T23:31:18.540+01:00"}
 ---
 
 #meat #alternative_proteins #health_nutrition  

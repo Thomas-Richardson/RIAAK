@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blogs-and-articles/tactics-in-practice-the-science-of-protests-and-demonstrations/","created":"2025-09-28T03:17:44.400+01:00","updated":"2025-09-28T23:43:34.576+01:00"}
+{"dg-publish":true,"permalink":"/blogs-and-articles/tactics-in-practice-the-science-of-protests-and-demonstrations/","created":"2025-09-28T03:17:44.400+01:00","updated":"2025-10-10T23:52:55.947+01:00"}
 ---
 
 [Photo by Chuko Cribb on Unsplash](https://unsplash.com/photos/woman-in-white-long-sleeve-shirt-and-black-skirt-sitting-on-chair-G7o5XQcykBI)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/scarborough-et-al-2012/","created":"2024-04-22T13:05:52.000+01:00","updated":"2025-09-28T23:48:37.198+01:00"}
+{"dg-publish":true,"permalink":"/citations/scarborough-et-al-2012/","created":"2024-04-22T13:05:52.000+01:00","updated":"2025-10-10T23:58:14.821+01:00"}
 ---
 
 #citation #environment_misc #health_nutrition #chicken #meat 

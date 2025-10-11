@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/royal-society-2023/","created":"2024-12-18T18:19:12.447+00:00","updated":"2025-09-28T23:48:31.814+01:00"}
+{"dg-publish":true,"permalink":"/citations/royal-society-2023/","created":"2024-12-18T18:19:12.447+00:00","updated":"2025-10-10T23:58:11.005+01:00"}
 ---
 
 #citation #food_security 

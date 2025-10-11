@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/aleksandrowicz-et-al-2016/","created":"2024-03-22T08:50:17.000+00:00","updated":"2025-09-28T23:39:08.158+01:00"}
+{"dg-publish":true,"permalink":"/citations/aleksandrowicz-et-al-2016/","created":"2024-03-22T08:50:17.000+00:00","updated":"2025-10-10T23:54:26.890+01:00"}
 ---
 
 #citation #environment_ghg #environment_land  #meat 

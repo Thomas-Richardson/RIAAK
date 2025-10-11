@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-level-of-bank-financing-of-factory-farming/","created":"2025-03-18T11:23:15.558+00:00","updated":"2025-09-29T00:29:10.808+01:00"}
+{"dg-publish":true,"permalink":"/the-level-of-bank-financing-of-factory-farming/","tags":["financial_activism"],"created":"2025-03-18T11:23:15.558+00:00","updated":"2025-10-10T23:34:29.265+01:00"}
 ---
 
 #Sinergia_defunding_project 

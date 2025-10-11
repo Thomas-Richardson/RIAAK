@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/a-tool-for-exploring-interventions-to-reduce-animal-product-consumption/","created":"2024-09-09T11:06:03.157+01:00","updated":"2025-10-01T10:56:31.477+01:00"}
+{"dg-publish":true,"permalink":"/a-tool-for-exploring-interventions-to-reduce-animal-product-consumption/","created":"2024-09-09T11:06:03.157+01:00","updated":"2025-10-10T23:47:42.110+01:00"}
 ---
 
 

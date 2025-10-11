@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/food-and-water-watch-2022/","created":"2024-03-22T18:38:56.000+00:00","updated":"2025-09-28T23:41:09.358+01:00"}
+{"dg-publish":true,"permalink":"/citations/food-and-water-watch-2022/","created":"2024-03-22T18:38:56.000+00:00","updated":"2025-10-10T23:56:21.972+01:00"}
 ---
 
 #citation #pigs #factory_farming #farming 

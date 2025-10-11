@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bioavailability-of-protein-in-veg-foods/","created":"2024-04-22T12:45:04.000+01:00","updated":"2025-09-28T23:43:29.375+01:00"}
+{"dg-publish":true,"permalink":"/bioavailability-of-protein-in-veg-foods/","created":"2024-04-22T12:45:04.000+01:00","updated":"2025-10-10T23:50:30.807+01:00"}
 ---
 
 #health_nutrition 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/can-a-baby-be-fed-vegan/","created":"2024-04-22T12:47:54.000+01:00","updated":"2025-09-28T23:45:43.882+01:00"}
+{"dg-publish":true,"permalink":"/can-a-baby-be-fed-vegan/","created":"2024-04-22T12:47:54.000+01:00","updated":"2025-10-10T23:53:07.863+01:00"}
 ---
 
 #veganism #health_disease 

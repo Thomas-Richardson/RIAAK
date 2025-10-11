@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/boosting-uk-food-security-with-alternative-proteins/","created":"2024-12-19T14:15:26.618+00:00","updated":"2025-09-28T23:43:37.245+01:00"}
+{"dg-publish":true,"permalink":"/boosting-uk-food-security-with-alternative-proteins/","tags":["alternative_proteins","food_security","uk"],"created":"2024-12-19T14:15:26.618+00:00","updated":"2025-10-10T23:50:41.510+01:00"}
 ---
 
 #food_security #alternative_proteins #uk #cawf_food_sec 

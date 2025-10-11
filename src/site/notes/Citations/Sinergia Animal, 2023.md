@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/sinergia-animal-2023/","created":"2024-06-11T19:13:15.623+01:00","updated":"2025-09-28T23:41:55.292+01:00"}
+{"dg-publish":true,"permalink":"/citations/sinergia-animal-2023/","created":"2024-06-11T19:13:15.623+01:00","updated":"2025-10-10T23:58:46.087+01:00"}
 ---
 
 #asia #good_growth_social_listening #citation 

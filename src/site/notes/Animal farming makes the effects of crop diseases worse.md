@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/animal-farming-makes-the-effects-of-crop-diseases-worse/","created":"2024-12-20T14:21:49.949+00:00","updated":"2025-09-28T23:42:51.824+01:00"}
+{"dg-publish":true,"permalink":"/animal-farming-makes-the-effects-of-crop-diseases-worse/","created":"2024-12-20T14:21:49.949+00:00","updated":"2025-10-10T23:49:04.554+01:00"}
 ---
 
 #health_disease #food_security 

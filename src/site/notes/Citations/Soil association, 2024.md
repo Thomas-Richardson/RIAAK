@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/soil-association-2024/","created":"2024-08-28T14:05:29.819+01:00","updated":"2025-09-28T23:41:56.512+01:00"}
+{"dg-publish":true,"permalink":"/citations/soil-association-2024/","created":"2024-08-28T14:05:29.819+01:00","updated":"2025-10-10T23:58:50.422+01:00"}
 ---
 
 #citation #environment_pollution 

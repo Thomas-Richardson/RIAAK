@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/better-food-and-faunalytics-2024/","created":"2024-08-09T09:18:00.976+01:00","updated":"2025-09-28T23:40:58.841+01:00"}
+{"dg-publish":true,"permalink":"/citations/better-food-and-faunalytics-2024/","created":"2024-08-09T09:18:00.976+01:00","updated":"2025-10-10T23:54:57.623+01:00"}
 ---
 
 #citation #behaviour_change 

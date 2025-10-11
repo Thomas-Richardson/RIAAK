@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blogs-and-articles/the-8-differences-between-tech-and-biotech-startups/","created":"2025-09-27T23:29:27.483+01:00","updated":"2025-09-28T23:43:35.411+01:00"}
+{"dg-publish":true,"permalink":"/blogs-and-articles/the-8-differences-between-tech-and-biotech-startups/","created":"2025-09-27T23:29:27.483+01:00","updated":"2025-10-10T23:50:34.009+01:00"}
 ---
 
 > *“There are many paths to the top of the mountain, but the view is always the same.”*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/animal-agriculture-uses-lots-of-water/","created":"2024-04-22T23:47:31.000+01:00","updated":"2025-09-28T23:42:47.642+01:00"}
+{"dg-publish":true,"permalink":"/animal-agriculture-uses-lots-of-water/","created":"2024-04-22T23:47:31.000+01:00","updated":"2025-10-10T23:48:44.690+01:00"}
 ---
 
 #environment_misc #factory_farming 

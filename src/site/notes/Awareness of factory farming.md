@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/awareness-of-factory-farming/","created":"2024-07-30T13:25:33.693+01:00","updated":"2025-09-28T23:43:12.808+01:00"}
+{"dg-publish":true,"permalink":"/awareness-of-factory-farming/","tags":["consumer_attitudes","factory_farming"],"created":"2024-07-30T13:25:33.693+01:00","updated":"2025-10-10T23:33:37.029+01:00"}
 ---
 
 #factory_farming 

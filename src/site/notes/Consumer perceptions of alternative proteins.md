@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/consumer-perceptions-of-alternative-proteins/","created":"2024-03-10T17:07:32.000+00:00","updated":"2025-09-28T23:49:27.096+01:00"}
+{"dg-publish":true,"permalink":"/consumer-perceptions-of-alternative-proteins/","tags":["consumer_attitudes","alternative_proteins"],"created":"2024-03-10T17:07:32.000+00:00","updated":"2025-10-10T23:31:53.910+01:00"}
 ---
 
 #alternative_proteins #consumer_attitudes 

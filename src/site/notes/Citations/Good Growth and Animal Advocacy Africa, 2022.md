@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/good-growth-and-animal-advocacy-africa-2022/","created":"2024-06-13T11:06:54.541+01:00","updated":"2025-09-28T23:41:17.292+01:00"}
+{"dg-publish":true,"permalink":"/citations/good-growth-and-animal-advocacy-africa-2022/","created":"2024-06-13T11:06:54.541+01:00","updated":"2025-10-10T23:56:50.620+01:00"}
 ---
 
 #movement_building #citation 

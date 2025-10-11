@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people-resist-talking-about-factory-farming/","created":"2024-08-20T13:04:14.188+01:00","updated":"2025-09-29T00:20:48.656+01:00"}
+{"dg-publish":true,"permalink":"/people-resist-talking-about-factory-farming/","tags":["factory_farming","psychology"],"created":"2024-08-20T13:04:14.188+01:00","updated":"2025-10-10T23:33:55.396+01:00"}
 ---
 
 #factory_farming 

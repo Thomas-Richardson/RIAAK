@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/getting-people-to-eat-more-meat-alternatives/","created":"2024-03-10T17:07:33.000+00:00","updated":"2025-09-28T23:53:33.616+01:00"}
+{"dg-publish":true,"permalink":"/getting-people-to-eat-more-meat-alternatives/","tags":["alternative_proteins"],"created":"2024-03-10T17:07:33.000+00:00","updated":"2025-10-10T23:31:57.180+01:00"}
 ---
 
 #alternative_proteins #behaviour_change 

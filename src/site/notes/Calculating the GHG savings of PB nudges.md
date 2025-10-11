@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/calculating-the-ghg-savings-of-pb-nudges/","created":"2024-08-09T09:36:54.970+01:00","updated":"2025-09-28T23:45:42.696+01:00"}
+{"dg-publish":true,"permalink":"/calculating-the-ghg-savings-of-pb-nudges/","tags":["environment_ghg","behaviour_change"],"created":"2024-08-09T09:36:54.970+01:00","updated":"2025-10-10T23:52:15.948+01:00"}
 ---
 
 #environment_ghg #behaviour_change 

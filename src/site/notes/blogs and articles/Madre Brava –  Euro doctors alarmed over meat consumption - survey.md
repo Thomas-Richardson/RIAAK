@@ -1,14 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/blogs-and-articles/madre-brava-euro-doctors-alarmed-over-meat-consumption-survey/","created":"2025-09-28T01:04:20.774+01:00","updated":"2025-09-28T23:43:32.393+01:00"}
+{"dg-publish":true,"permalink":"/blogs-and-articles/madre-brava-euro-doctors-alarmed-over-meat-consumption-survey/","tags":["health_disease"],"created":"2025-09-28T01:04:20.774+01:00","updated":"2025-10-10T23:36:57.972+01:00"}
 ---
 
 ## Euro doctors alarmed over meat consumption - survey
-
-17
-
-September
-
-2025
 
 European healthcare professionals think we’re eating too much meat.
 
@@ -62,3 +56,7 @@ Vicky added: “We need action, both from the supermarkets shaping our food syst
 **France and Spain**: Both countries broadly mirrored the UK and Germany, with strong backing for health warnings and for public institutions to cut meat from menus.
 
 The survey, conducted by Marlin Research between 31 July and 25 August 2025, interviewed 300 doctors and specialists and 300 dieticians across five countries. The survey was conducted online via computer assisted web based interviewing (CAWI). The views presented here do not reflect the views of Marlin Research or any related entity.
+
+# Related
+- [[Influential, respected authorities giving pro animal advo messaging\|Influential, respected authorities giving pro animal advo messaging]]
+- 

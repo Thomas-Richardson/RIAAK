@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/alt-proteins-in-asia/","created":"2024-04-10T14:28:54.000+01:00","updated":"2025-09-28T23:42:27.792+01:00"}
+{"dg-publish":true,"permalink":"/alt-proteins-in-asia/","created":"2024-04-10T14:28:54.000+01:00","updated":"2025-10-10T23:49:56.629+01:00"}
 ---
 
 #lower_middle_income_countries #asia  #movement_building #alternative_proteins 

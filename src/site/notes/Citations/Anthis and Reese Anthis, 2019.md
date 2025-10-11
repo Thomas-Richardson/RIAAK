@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/anthis-and-reese-anthis-2019/","created":"2024-03-10T16:30:53.000+00:00","updated":"2025-09-28T23:40:55.724+01:00"}
+{"dg-publish":true,"permalink":"/citations/anthis-and-reese-anthis-2019/","created":"2024-03-10T16:30:53.000+00:00","updated":"2025-10-10T23:54:08.035+01:00"}
 ---
 
 #citation #factory_farming 

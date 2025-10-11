@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/animal-agriculture-and-biodiversity-loss/","created":"2024-03-20T12:14:17.000+00:00","updated":"2025-09-28T23:42:44.210+01:00"}
+{"dg-publish":true,"permalink":"/animal-agriculture-and-biodiversity-loss/","created":"2024-03-20T12:14:17.000+00:00","updated":"2025-10-10T23:48:38.810+01:00"}
 ---
 
 #biodiversity 

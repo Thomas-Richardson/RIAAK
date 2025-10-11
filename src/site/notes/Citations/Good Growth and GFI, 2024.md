@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/good-growth-and-gfi-2024/","created":"2024-06-10T12:23:07.967+01:00","updated":"2025-09-28T23:41:20.009+01:00"}
+{"dg-publish":true,"permalink":"/citations/good-growth-and-gfi-2024/","created":"2024-06-10T12:23:07.967+01:00","updated":"2025-10-10T23:56:52.572+01:00"}
 ---
 
  #asia #lower_middle_income_countries #good_growth_social_listening #citation 

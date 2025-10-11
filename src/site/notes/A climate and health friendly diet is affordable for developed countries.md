@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/a-climate-and-health-friendly-diet-is-affordable-for-developed-countries/","created":"2023-10-22T13:41:28.000+01:00","updated":"2025-09-28T23:42:13.264+01:00"}
+{"dg-publish":true,"permalink":"/a-climate-and-health-friendly-diet-is-affordable-for-developed-countries/","created":"2023-10-22T13:41:28.000+01:00","updated":"2025-10-10T23:47:48.111+01:00"}
 ---
 
 #health_nutrition  #environment_ghg  

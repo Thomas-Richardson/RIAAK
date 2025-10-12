@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/citations/clegg-et-al-2021/","created":"2025-10-11T18:11:26.356+01:00","updated":"2025-10-11T18:11:26.427+01:00"}
+---
+
+## Highlights
+*   Plant-based dairy alternatives (PBDA) cost three times more than dairy products.
+*   There were significant differences between milk, yogurt and cheese and PBDA for many nutrients.
+*   PBDA can have significant consequences for nutrient intakes when replaced with dairy.
+*   Fortification provides a potential route for improving the nutritional composition of PBDA.
+*   At present, PBDA can be considered a practical but not nutritional replacement for dairy products.
+
+## Abstract
+The popularity of plant-based dairy alternatives (PBDAs) products has grown exponentially in recent years creating a new market of PBDA. The aim of this study was to compare the nutritional content of plant-based alternatives of milk, yogurt and cheese with dairy equivalents and the impact on nutritional intake across the lifespan when they are substituted into UK diets. Nutritional information from cow’s milk, yogurt, cheese and PBDAs available on the UK market was collected via manufacturers information. The products were categorised according to primary plant-based ingredient/s and compared with the equivalent dairy product. The National Diet and Nutrition Survey data was used to calculate the intake of milk, yogurt and cheese across all age groups and the energy and nutrient intake was calculated. Plant-based milk, cheese and yogurt alternative categories were then substituted for dairy intakes, and energy and nutrient intakes were calculated and compared to UK Dietary Reference Values. A total of 299 PBDA products were identified consisting of 136 milk alternatives, 55 yogurt alternatives and 109 cheese alternatives. All PBDAs were more expensive than dairy products. Milk contained more energy, saturated fat, carbohydrates, protein, vitamin B2, vitamin B12 and iodine, and less fibre and free sugars, than plant-based milk alternatives (P < 0.05). There were significant differences between yogurt and cheese and their corresponding PBDAs for energy, fat, saturated fat, carbohydrate, sugars, fibre protein, salt, and calcium (P < 0.05). These differences were reflected in the nutrient intakes of different age groups and the results demonstrated that PBDA may be useful as practical replacements of dairy products but cannot be considered nutritional replacements.

@@ -5,7 +5,7 @@
 #veganism #behaviour_change 
 
 - [[Citations/Brachem et al., 2019\|Brachem et al., 2019]]
-- Also reviewed in [[Citations/Better Food and Faunalytics, 2024\|Better Food and Faunalytics, 2024]]
+- Also reviewed in [[Better Food and Faunalytics, 2024\|Better Food and Faunalytics, 2024]]
 - [[Citations/Arrazat et al., 2024\|Arrazat et al., 2024]]
 - 
 ## Related

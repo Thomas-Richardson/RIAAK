@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/behavioural-insights-team-2020/","created":"2024-04-21T23:02:25.000+01:00","updated":"2025-10-10T23:54:51.490+01:00"}
+{"dg-publish":true,"permalink":"/citations/behavioural-insights-team-2020/","created":"2024-04-21T23:02:25.000+01:00","updated":"2025-10-12T14:56:05.875+01:00"}
 ---
 
 #psychology #citation #alternative_proteins #behaviour_change
@@ -24,3 +24,7 @@ In this report we make the case for a global shift towards more sustainable and 
 11. Prompt sustainable choices at timely moments
 12. Edit the choice architecture, to make sustainable options more prevalent, more prominent, and the default choice
 	- [[Citations/Bianchi et al., 2018\|Bianchi et al., 2018]]
+
+# Related
+- [[Citations/Tactics In Practice - The Science Of Plant-Based Defaults And Nudges (Faunalytics)\|Tactics In Practice - The Science Of Plant-Based Defaults And Nudges (Faunalytics)]]
+- [[Getting people to eat more meat alternatives\|Getting people to eat more meat alternatives]]

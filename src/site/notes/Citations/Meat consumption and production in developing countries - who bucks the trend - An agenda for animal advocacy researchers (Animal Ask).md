@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/meat-consumption-and-production-in-developing-countries-who-bucks-the-trend-an-agenda-for-animal-advocacy-researchers-animal-ask/","created":"2025-10-01T10:21:34.095+01:00","updated":"2025-10-01T10:53:35.059+01:00"}
+{"dg-publish":true,"permalink":"/citations/meat-consumption-and-production-in-developing-countries-who-bucks-the-trend-an-agenda-for-animal-advocacy-researchers-animal-ask/","created":"2025-10-01T10:21:34.095+01:00","updated":"2025-10-12T14:40:15.480+01:00"}
 ---
 
 **Executive Summary**
@@ -22,3 +22,9 @@
 *   For consumption, we identified nine countries with low _baseline_ consumption (rather than a steady/declining _trend_ in consumption): Botswana, Nigeria, Sri Lanka, North Macedonia, Bosnia and Herzegovina, Georgia, Azerbaijan, Eswatini, and India. It could also be worthwhile to investigate the reasons for this low consumption.
 *   For production, we have identified a dataset (1) that could be useful for figuring out why some countries adopt intensive animal production systems while others do not. But the dataset is incomplete. Spending some time developing this dataset would enable the movement to start investigating which countries have lower-than-expected levels of intensification, and whether this is due to any particular policies that could be replicated in other countries.
 *   For both consumption and production, comparing different regions _within_ a country could also be a promising research direction. This could also identify policies that explain differences in meat consumption or industrialisation between regions. Due to time constraints, we have only focused on comparing differences _across_ countries.
+
+# Related
+- [[Citations/Animal welfare in the United States Opportunities for impact (Animal Ask)\|Animal welfare in the United States Opportunities for impact (Animal Ask)]]
+- [[Animal advo in Asia\|Animal advo in Asia]]
+- [[Citations/Animal Advocacy in Canada (Animal Ask)\|Animal Advocacy in Canada (Animal Ask)]]
+- [[Citations/Animal Advocacy in Canada (Animal Ask)\|Animal Advocacy in Canada (Animal Ask)]]

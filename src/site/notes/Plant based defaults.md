@@ -5,7 +5,7 @@
 #behaviour_change 
 
 - [[Citations/Campbell-Arvai et al., 2014\|Campbell-Arvai et al., 2014]]
-- See this comprehensive overview of (probably) all studies here: [[Citations/Better Food and Faunalytics, 2024\|Better Food and Faunalytics, 2024]] 
+- See this comprehensive overview of (probably) all studies here: [[Better Food and Faunalytics, 2024\|Better Food and Faunalytics, 2024]] 
 
 ## In restaurants
 - Having a vegan burrito with the option to add meat was the best strategy [in this study](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jasp.12632).

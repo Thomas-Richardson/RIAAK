@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/citations/made-and-grown-the-future-of-food-biotechnology-and-biomanufacturing-in-australia-cellular-agriculture-australia-et-al/","tags":["alternative_proteins","food_security"],"created":"2025-10-15T22:07:50.365+01:00","updated":"2025-10-15T22:08:39.282+01:00"}
+---
+
+A new report, *Made & Grown – The future of food biotechnology & biomanufacturing in Australia*, urges the Australian government to capitalize on a \\"once in a generation\\" opportunity to build sovereign capability in food biotechnology and biomanufacturing. Produced by Cellular Agriculture Australia (CAA), ANU Agrifood Innovation Institute (AFII), Australian Strategic Policy Institute (ASPI), and the ANU National Security College (NSC), the white paper emphasizes food security's role in national security. It positions food biotechnologies and biomanufacturing as a solution, taking a whole-of-sector view of converging innovations.
+
+The report outlines 25 recommendations across five priority areas—national security, policy, regulation, research, and infrastructure—to accelerate commercialization and adoption. It suggests Australia is well-placed to lead due to strong sectoral momentum, globally recognized food safety standards, high-quality feedstock, and cross-disciplinary research capabilities. Dr. Sam Perkins, CEO of CAA, stressed the urgency for government action to build sovereign capability for Australia's food and national security.

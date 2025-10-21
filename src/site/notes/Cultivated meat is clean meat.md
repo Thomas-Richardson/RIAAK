@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cultivated-meat-is-clean-meat/","tags":["#cultivated_meat","#narratives","#fish"],"created":"2024-05-09T13:57:45.895+01:00","updated":"2025-10-11T00:00:13.405+01:00"}
+{"dg-publish":true,"permalink":"/cultivated-meat-is-clean-meat/","tags":["#cultivated_meat","narratives"],"created":"2024-05-09T13:57:45.895+01:00","updated":"2025-10-11T00:00:13.405+01:00"}
 ---
 
 #cultivated_meat 

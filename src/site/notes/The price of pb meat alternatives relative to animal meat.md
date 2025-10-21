@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-price-of-pb-meat-alternatives-relative-to-animal-meat/","tags":["alternative_proteins","economics"],"created":"2024-03-17T15:25:40.000+00:00","updated":"2025-10-10T23:33:03.068+01:00"}
+{"dg-publish":true,"permalink":"/the-price-of-pb-meat-alternatives-relative-to-animal-meat/","tags":["alternative_proteins","economics"],"created":"2024-03-17T15:25:40.000+00:00","updated":"2025-10-16T10:47:21.280+01:00"}
 ---
 
 #alternative_proteins #economics #meat 
@@ -15,6 +15,8 @@ Price data collected by supermarket research Questionmark on behalf of ProVeg Ne
 pb chicken pieces are 0.37 euro per kg cheaper, minced meat 1.36 euro per kilo cheaper.
 
 However, it seems to be entirely driven by rising animal meat prices. This has led some to propose that <mark style="background: #FFF3A3A6;">the price of conventional meat may be more volatile than pb meat</mark>. [[UK Meat prices have risen faster than prices of pb alts in recent years\|UK Meat prices have risen faster than prices of pb alts in recent years]]
+
+In Thailand increasing affordability of alternative proteins is [driving strong sales in the last few years](https://www.greenqueen.com.hk/thailand-plant-based-meat-sales-vegan-price/?utm_source=green-queen-future-food-weekly.beehiiv.com&utm_medium=newsletter&utm_campaign=could-this-be-the-answer-to-the-egg-crisis-future-food-weekly), and they continue to rise. 
 
 # Price efficiency might be a more achievable option
 - Pathway to ‘price parity’ is filled with hurdles and uncertainties. Both for ingredients and consumer products, it may instead be better to strive towards ‘price efficiency’, which we define as a price that is satisfactory to a segment of customers.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/recipe-for-resilience-the-benefits-of-a-thriving-plant-based-protein-sector-in-the-uk-green-alliance/","tags":["alternative_proteins"],"created":"2025-10-01T15:03:54.883+01:00","updated":"2025-10-01T15:05:09.390+01:00"}
+{"dg-publish":true,"permalink":"/citations/recipe-for-resilience-the-benefits-of-a-thriving-plant-based-protein-sector-in-the-uk-green-alliance/","tags":["alternative_proteins"],"created":"2025-10-01T15:03:54.883+01:00","updated":"2025-10-16T15:55:58.340+01:00"}
 ---
 
 # Briefing: Plant-Based Meat and the UK Food System
@@ -49,4 +49,5 @@ This briefing focuses on the **plant-based meat sector**, which offers convenien
    - Increase plant-based protein share.  
    - Boost healthy food sales.  
    - Cut scope 3 supply chain emissions.  
-5. **Secure a UK–EU SPS Agreement exemption** to allow the UK to approve new plant-based products with novel ingredients.  
+1. **Secure a UK–EU SPS Agreement exemption** to allow the UK to approve new plant-based products with novel ingredients.  
+

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/land-of-opportunity-a-new-land-use-framework-to-restore-nature-and-level-up-britain-green-alliance/","tags":["#environment_land","#uk","#farming"],"created":"2025-10-12T14:50:25.636+01:00","updated":"2025-10-12T14:52:11.254+01:00"}
+{"dg-publish":true,"permalink":"/citations/land-of-opportunity-a-new-land-use-framework-to-restore-nature-and-level-up-britain-green-alliance/","tags":["environment_land","uk","farming"],"created":"2025-10-12T14:50:25.636+01:00","updated":"2025-10-12T14:52:11.254+01:00"}
 ---
 
 What we ask of the countryside is changing. Land, of course, is needed to produce food — we dedicate 70 per cent of the UK’s land to farming. But in the face of climate change and the loss of nature, land must also soak up carbon dioxide from the atmosphere, provide much more habitat for wildlife, and help to defend against increasing natural risks like flooding. These needs are now codified in law, requiring net negative greenhouse gas emissions from land by 2050 and a reversal of the 70-year decline in nature by 2030.

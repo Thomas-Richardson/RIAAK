@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/grass-fed-beef-is-not-better-for-the-environment/","created":"2024-04-19T15:47:18.000+01:00","updated":"2025-09-29T00:15:12.582+01:00"}
+{"dg-publish":true,"permalink":"/grass-fed-beef-is-not-better-for-the-environment/","created":"2024-04-19T15:47:18.000+01:00","updated":"2025-10-13T10:42:39.915+01:00"}
 ---
 
 #animal_advocacy #environment_ghg #environment_land 
@@ -8,9 +8,7 @@
 - [[The inefficiency of animal products\|The inefficiency of animal products]]
 - [[Better livestock practices will not offset emissions from livestock\|Better livestock practices will not offset emissions from livestock]] 
 - [[Eating local makes only small improvement to your environmental impact\|Eating local makes only small improvement to your environmental impact]]
-- [[Refuting the Dublin declaration\|Refuting the Dublin declaration]]
 - [[The British public is totally wrong about how to improve the environment\|The British public is totally wrong about how to improve the environment]]
-- [[How much land would we need to transition the world to grass fed beef\|How much land would we need to transition the world to grass fed beef]] 
 
 [Why eating grass-fed beef isn't going to help fight climate change](https://theconversation.com/why-eating-grass-fed-beef-isnt-going-to-help-fight-climate-change-84237)
 ## Grass fed is worse than grain fed

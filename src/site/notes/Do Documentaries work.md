@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/do-documentaries-work/","created":"2024-06-06T23:40:25.463+01:00","updated":"2025-09-28T23:50:20.158+01:00"}
+{"dg-publish":true,"permalink":"/do-documentaries-work/","created":"2024-06-06T23:40:25.463+01:00","updated":"2025-10-16T11:01:35.332+01:00"}
 ---
 
 #behaviour_change 
 
+- Key study: [[Citations/Thomas et al., 2025\|Thomas et al., 2025]]
+- Also related: [[Citations/Meat reduction - How much can digital media and mass media help (Animal Ask)\|Meat reduction - How much can digital media and mass media help (Animal Ask)]]
 ## Taken from a [2023 EA forum](https://forum.effectivealtruism.org/posts/Z2tFtS3azcxT2yyxf#Documentaries__and_Other_Media_) post:
 
 [A Sep 2021 study](https://thehumaneleague.org/article/gfu-rcts) on the effectiveness of documentaries at reducing animal consumption found a documentary _“did not decrease meat and animal product [consumption 1 week after] compared to the control video when potential social desirability bias was minimized.”_. Whilst the study is commendable for its design to minimise social desirability bias (saying what you think the researchers want to hear), [the chosen documentary itself](https://osf.io/7j45f) was not representative of the sort of documentaries that gain mass viewership and discussion. It is 21 mins long (approximately 7 for health, 4 for environmental, 10 for animals). It hits all the major points (except fish catching and farming) and has an acceptable production quality. However, it’s not of the same length or quality as popular Netflix documentaries, [Dominion](http://watchdominion.com/), [Earthlings](https://watchdocumentaries.com/earthlings/) and [Milked](https://milked.film/watch), which use music, visuals, interviews, narration and an engaging story to guide the audience through a journey.

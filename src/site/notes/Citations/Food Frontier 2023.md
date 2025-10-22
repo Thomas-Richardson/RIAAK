@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/citations/food-frontier-2023/","created":"2024-06-23T15:14:51.482+01:00","updated":"2025-10-10T23:56:24.120+01:00"}
+{"dg-publish":true,"permalink":"/citations/food-frontier-2023/","tags":["#alternative_proteins","#good_growth_social_listening","#asia","#citation","#cultivated_meat","#precision_fermentation"],"created":"2025-10-22T22:47:58.809+01:00","updated":"2025-10-22T22:47:58.809+01:00"}
 ---
-
-#alternative_proteins #good_growth_social_listening #asia #citation 
+ 
 
 - [x] reviewed
 

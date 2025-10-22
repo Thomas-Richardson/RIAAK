@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/investing-in-alternative-proteins-can-improve-national-security-and-defence/","tags":["alternative_proteins"],"created":"2024-03-10T17:07:33.000+00:00","updated":"2025-10-10T23:32:06.649+01:00"}
+{"dg-publish":true,"permalink":"/investing-in-alternative-proteins-can-improve-national-security-and-defence/","tags":["#alternative_proteins","#food_security","#cultivated_meat","#precision_fermentation"],"created":"2025-10-22T22:42:44.356+01:00","updated":"2025-10-22T22:42:44.356+01:00"}
 ---
-
-#alternative_proteins #food_security 
+ 
 
 - [[Government investment in alt proteins\|Government investment in alt proteins]]
 

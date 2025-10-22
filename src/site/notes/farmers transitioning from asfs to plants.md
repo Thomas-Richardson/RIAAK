@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/farmers-transitioning-from-asfs-to-plants/","created":"2024-04-24T16:17:35.000+01:00","updated":"2025-09-28T23:52:10.364+01:00"}
+{"dg-publish":true,"permalink":"/farmers-transitioning-from-asfs-to-plants/","tags":["#farming","#farmers","#cultivated_meat","#alternative_proteins","#precision_fermentation"],"created":"2025-10-22T22:47:58.747+01:00","updated":"2025-10-22T22:47:58.747+01:00"}
 ---
-
-#farming #farmers 
+ 
 
 - [[The economic value of alternative proteins\|The economic value of alternative proteins]]
 - [[The public trusts farmers\|The public trusts farmers]] 

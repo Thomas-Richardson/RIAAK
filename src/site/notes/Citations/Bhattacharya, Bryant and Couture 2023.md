@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/citations/bhattacharya-bryant-and-couture-2023/","created":"2024-04-21T15:25:37.000+01:00","updated":"2025-09-28T23:46:52.696+01:00"}
+{"dg-publish":true,"permalink":"/citations/bhattacharya-bryant-and-couture-2023/","tags":["#citation","#report","#bryant_insight","#cultivated_meat","#consumer_attitudes","#alternative_proteins"],"created":"2025-10-22T22:39:15.038+01:00","updated":"2025-10-22T22:39:15.038+01:00"}
 ---
-
-#citation #report #bryant_insight  
+  
 
 https://bryantresearch.co.uk/wp-content/uploads/2023/10/Chewing-It-Over.pdf
 

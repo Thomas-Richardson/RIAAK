@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/marketting-alt-proteins/","created":"2024-06-22T14:15:12.676+01:00","updated":"2025-09-29T00:19:42.947+01:00"}
+{"dg-publish":true,"permalink":"/marketting-alt-proteins/","tags":["#alternative_proteins","#marketing","#plant_based_alternative_proteins"],"created":"2025-10-22T22:53:31.332+01:00","updated":"2025-10-22T22:53:31.332+01:00"}
 ---
 
-#alternative_proteins #marketing
 
 Good ideas here: https://downloads.mintel.com/private/BMCE2/files/889404/
 

@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/availability-of-plant-based-food-in-se-asia/","created":"2024-07-31T10:03:03.780+01:00","updated":"2025-10-10T23:54:47.923+01:00"}
+{"dg-publish":true,"permalink":"/availability-of-plant-based-food-in-se-asia/","tags":["#asia","#plant_based_alternative_proteins"],"created":"2025-10-22T22:53:31.221+01:00","updated":"2025-10-22T22:53:31.221+01:00"}
 ---
-
-#asia 
+ 
 
 - [[Alt proteins in Asia\|Alt proteins in Asia]]
 

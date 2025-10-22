@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/alternative-proteins-are-better-for-the-environment/","tags":["#alternative_proteins","#cultivated_meat","#environment_ghg","#environment_land"],"created":"2025-10-22T22:38:50.734+01:00","updated":"2025-10-22T22:38:50.734+01:00"}
+{"dg-publish":true,"permalink":"/alternative-proteins-are-better-for-the-environment/","tags":["#alternative_proteins","#cultivated_meat","#environment_ghg","#environment_land","#plant_based_alternative_proteins"],"created":"2025-10-22T22:53:55.470+01:00","updated":"2025-10-22T22:53:55.471+01:00"}
 ---
-
-#alternative_proteins #environment_ghg #environment_land 
+ 
 
 See also: [[BSG, 2022\|BSG, 2022]]
 

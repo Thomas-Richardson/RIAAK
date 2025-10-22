@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/solving-alt-proteins-won-t-immediately-produce-total-veganism/","created":"2024-07-19T12:35:29.193+01:00","updated":"2025-09-29T00:29:28.695+01:00"}
+{"dg-publish":true,"permalink":"/solving-alt-proteins-won-t-immediately-produce-total-veganism/","tags":["#alternative_proteins","#plant_based_alternative_proteins"],"created":"2025-10-22T22:53:55.286+01:00","updated":"2025-10-22T22:53:55.287+01:00"}
 ---
-
-#alternative_proteins 
+ 
 
 - [[Citations/Good Growth and GFI, 2024\|Good Growth and GFI, 2024]] asked South East Asian consumers "How often would you choose plant-based meat if all your concerns are resolved?". The percentage of people that said "always/often" was:
 	- Thailand: 62%

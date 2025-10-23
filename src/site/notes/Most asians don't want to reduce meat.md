@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/most-asians-don-t-want-to-reduce-meat/","created":"2024-10-03T14:42:04.720+01:00","updated":"2025-09-29T00:20:16.838+01:00"}
+{"dg-publish":true,"permalink":"/most-asians-don-t-want-to-reduce-meat/","created":"2025-10-23T12:01:06.269+01:00","updated":"2025-10-23T12:01:06.269+01:00"}
 ---
 
-#meat #asia #lower_middle_income_countries 
+#meat #asia #lower_middle_income_countries #SE_asia 
 
 - [[RIAAK Good Growth Plant based messaging/Potential segments in SE asia to target to encourage PB eating\|Potential segments in SE asia to target to encourage PB eating]]
 

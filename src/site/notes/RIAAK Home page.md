@@ -1,15 +1,31 @@
 ---
-{"dg-publish":true,"permalink":"/riaak-home-page/","tags":["gardenEntry"],"created":"2025-09-28T23:32:38.029+01:00","updated":"2025-10-23T10:27:31.577+01:00"}
+{"dg-publish":true,"permalink":"/riaak-home-page/","tags":["gardenEntry"],"created":"2025-09-28T23:32:38.029+01:00","updated":"2025-10-23T11:46:51.880+01:00"}
 ---
 
 This is the homepage for Richie's Impactful Animal Advocacy Knowledge-base, aka RIAAK!
 
-Here I publish my notes on Animal Advocacy. Feel free to use them for your own work.
+Here I publish my notes on Animal Advocacy that I use in my role as the Director of Research at [Bryant Research](https://bryantresearch.co.uk/). Feel free to use them for your own work.
 
-These notes are optimised to be useful to me in my role as the Director of Research at [Bryant Research](https://bryantresearch.co.uk/). As such, they are a combination of:
+---
+# What's in RIAAK?
 - Brief summaries of useful studies (usually found in the Citations folder). Reviews, big reports, or useful single studies. I have an AI tool that will skim a report, extract the abstract or exec summary and make an entry here in RIAAK. If the report doesn't have one, it will use AI to read the report and write one. Bear in mind these may not always be 100% accurate! 
 - Micro-content I have written to help me quickly put together reports for clients.
 - My scattered thoughts.
+## Where I get my info from
+- Academic papers
+- Government reports
+- NGOs and orgs known for producing useful Animal advo research. 
+- **I import all the research I can find from these orgs into RIAAK**:
+	- Rethink Priorities' Animal Welfare Team
+	- Ambitious Impact's assessments of promising animal advo interventions
+	- Faunalytics' original studies
+	- Animal Ask
+	- Animal Think Tank
+- Other Orgs I have pulled most / all research from
+	- The Humane League, though they no longer publish research. 
+	- Wild Animal Initiative 
+	- 
+
 
 ---
 # How to use RIAAK

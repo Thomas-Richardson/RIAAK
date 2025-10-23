@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/citations/dimensions-of-pain-workshop-summary-and-updated-conclusions-rethink-priorities/","created":"2025-10-23T13:59:12.145+01:00","updated":"2025-10-23T13:59:12.390+01:00"}
+---
+
+### Executive Summary
+*   **Background:** The workshop’s goal was to leverage expertise in pain to identify strategies for testing whether severity or duration looms larger in the overall badness of negatively valenced experiences. The discussion was focused on how to compare welfare threats to farmed animals.
+*   **No gold standard behavioral measures:** Although attendees did not express confidence in any single paradigm, several felt that triangulating results across several paradigms would increase clarity about whether nonhuman animals are more averse to severe pains or long-lasting pains.
+    *   **Consistent results across different methodologies only strengthens a conclusion if they have uncorrelated or opposing biases.** Fortunately, while classical conditioning approaches are probably biased towards severity mattering more, operant conditioning approaches are probably biased towards duration mattering more. **Unfortunately, the biases might be too large to produce convergent results.**
+*   **Behavioral experiments may lack external validity:** Attendees believed that a realistic experiment would not involve pains of the magnitude that characterize the worst problems farmed animals endure. Thus, **instead of prioritizing external validity, we recommend whatever study designs create the largest differences in severity.**
+    *   Studies of laboratory animals and (especially) humans seem more likely to generate large differences in severity than studies of farmed animals.
+*   **No gold standard biomarkers:** Biomarkers could elide the biases that behavioral and self-report data inevitably introduce. However, attendees argued that **there are no currently known biomarkers that could serve as an aggregate measure of pain experience over the course of a lifetime.**
+*   **Priors should favor prioritizing duration**: Attendees had competing ideas about how to prioritize between severity and duration in the absence of compelling empirical evidence. **In cases where long-lasting harms are at least thousands of times longer than more severe harms *and* are of at least moderate severity, we favor a presumption that long-lasting pains cause more disutility overall.**
+    *   Nevertheless, due to empirical and moral uncertainty, **we would recommend putting some credence (~20%) in the most severe harms causing farmed animals at least as much disutility as the longest-lasting harms they experience.**

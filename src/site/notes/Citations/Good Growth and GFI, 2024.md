@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/citations/good-growth-and-gfi-2024/","created":"2024-06-10T12:23:07.967+01:00","updated":"2025-10-10T23:56:52.572+01:00"}
+{"dg-publish":true,"permalink":"/citations/good-growth-and-gfi-2024/","tags":["asia","lower_middle_income_countries","good_growth_social_listening","citation","SE_asia"],"created":"2025-10-23T12:04:51.827+01:00","updated":"2025-10-23T12:04:51.827+01:00"}
 ---
-
- #asia #lower_middle_income_countries #good_growth_social_listening #citation 
+ 
 
 - [[Alt proteins in Asia\|Alt proteins in Asia]]
 

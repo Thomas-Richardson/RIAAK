@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/citations/silk-production-global-scale-and-animal-welfare-issues-rethink-priorities/","tags":["#materials","#animal_welfare","#insects"],"created":"2025-10-23T14:16:17.984+01:00","updated":"2025-10-23T14:16:28.688+01:00"}
+---
+
+At least 420 billion to 1 trillion silkworms are killed annually to produce silk.
+While only 61 billion to 170 billion of these worms die due to diseases and pests, diseases cause up to 99% of the cumulative days of potentially negative experiences I identified on farms, (with the remaining 1% caused by slaughter).
+* This suggests that research to inform the prioritization of the silk industry for animal advocates ought to focus on the sentience of silkworms, not pupating silk moths, as has usually been assumed.
+Campaigns to ban silk or stop its sale at retail locations are plausibly the most promising avenue for animal advocates to reduce silk production, therefore reducing the days of potentially negative experiences caused by diseases on silk farms. Developing and promoting alternative silks may also be promising as an intervention.
+I think that while there are promising interventions to reduce the suffering of silkworms, marginal resources in the insect space might be better spent in other areas, such as reducing the [painfulness of pesticides](https://www.wildanimalinitiative.org/blog/humane-insecticides), [reducing the number of insects farmed for animal feed](https://forum.effectivealtruism.org/posts/ruFmR5oBgqLgTcp2b/insects-raised-for-food-and-feed-global-scale-practices-and), and [reducing the harms of cochineal farming](https://forum.effectivealtruism.org/posts/tDYtn4DhFsR7pR35i/global-cochineal-production-scale-welfare-concerns-and).
+* That being said, given the scale of silk farming, advocacy on this issue could plausibly be highly cost-effective when compared on a species-neutral basis to interventions to reduce vertebrate farmed animal suffering.

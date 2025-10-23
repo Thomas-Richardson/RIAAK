@@ -41,7 +41,7 @@ Factory farms in the UK
 
 
 
-#factory_farming 
+#factory_farming #usa 
 
 - [[CAFOs wreck domestic rural communities\|CAFOs wreck domestic rural communities]]
 ## The spread of US CAFOs

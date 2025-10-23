@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/citations/domingo-et-al-2021/","created":"2024-07-01T16:29:46.192+01:00","updated":"2025-09-28T23:40:35.951+01:00"}
+{"dg-publish":true,"permalink":"/citations/domingo-et-al-2021/","created":"2025-10-23T12:02:38.599+01:00","updated":"2025-10-23T12:02:38.600+01:00"}
 ---
 
-#environment_pollution #citation 
+#environment_pollution #citation #usa 
 
 https://www.pnas.org/doi/pdf/10.1073/pnas.2013637118
 

@@ -1,0 +1,19 @@
+---
+{"dg-publish":true,"permalink":"/citations/welfare-considerations-for-farmed-shrimp-rethink-priorities/","tags":["crustaceans shrimp"],"created":"2025-10-23T11:03:15.318+01:00","updated":"2025-10-23T11:03:15.480+01:00"}
+---
+
+Rethink Priorities’ Shrimp Welfare Sequence is a series that addresses whether and how best to protect the welfare of shrimp. At any time, more shrimp are alive on farms than any other group of farmed animals. But is the large size of the industry an issue? After all, farmers might treat shrimp well, and shrimp may not even be sentient. In upcoming reports, we explore a cause for concern: a large percentage of these individuals die before they are old enough to be slaughtered. After describing farming practices that help explain high mortality rates, we use a quantitative model to explain why the most urgent issues are not necessarily the ones that have attracted the most attention.
+
+For all queries, please contact hannah@rethinkpriorities.org.
+
+This is the second report in Rethink Priorities’ Shrimp Welfare Sequence, a series that addresses whether and how to best protect the welfare of shrimp. While there is uncertainty about whether shrimp are sentient (Crump et al., 2022), the Animal Sentience Precautionary Principle suggests that we should not postpone helping shrimp if there are “threats of serious, negative animal welfare outcomes” (Birch, 2017, p. 3). To better understand if such outcomes do threaten shrimp, our first report estimated the scale of shrimp farming. We estimated that approximately 230 billion shrimp are alive on farms at any one time, more than any other farmed animal (Waldhorn & Autric, 2023).
+
+However, just because the scale of shrimp farming is so comparatively large does not necessarily mean that it causes more suffering than other sectors. To understand if shrimp experience negative welfare, we reviewed academic and gray literature and consulted several shrimp aquaculture experts to describe the welfare threats a farmed shrimp may face from hatching to slaughter.
+
+**Key takeaways include:**
+
+*   If they are sentient, **shrimp face several welfare threats**. Diseases preoccupy farmers the most, but they are often a downstream consequence of other issues, such as poor water quality. Some issues affect all shrimp for most of their lives, such as a lack of substrate, whereas others only affect subpopulations, such as eyestalk ablation of female breeders. Shrimp are particularly vulnerable during harvest and slaughter, where they endure oxidative stress and can be crushed by other shrimp.
+*   **The prevalence of welfare threats varies widely across farms with different production practices**. As farm intensity increases, the rearing environment resembles that of a wild shrimp less and less. Welfare issues on so-called “extensive” farms result from an inability to address threats to shrimp welfare. In contrast, “intensive” farms can mitigate problems that are common on extensive farms but must confront the novel issues introduced by high stocking densities. Many solutions cause problems of their own, and some of the issues are likely not solvable without lowering stocking densities.
+*   We have several knowledge gaps due to the limitations of current research. In particular:
+    *   **We know very little about shrimp behavior and preferences**. For example, we are unsure whether shrimp can comfortably crowd, so we cannot easily infer how bad high stocking densities are for their welfare.
+    *   **There are few surveys of shrimp farming practices and those that exist have several limitations.** The heterogeneity of shrimp farming means it is difficult to draw conclusions about the industry from existing surveys.

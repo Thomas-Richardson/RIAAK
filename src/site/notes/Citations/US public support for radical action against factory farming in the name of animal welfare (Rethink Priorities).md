@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/citations/us-public-support-for-radical-action-against-factory-farming-in-the-name-of-animal-welfare-rethink-priorities/","tags":["#USA factory_farming"],"created":"2025-10-23T14:04:37.407+01:00","updated":"2025-10-23T14:04:37.484+01:00"}
+---
+
+## Summary 
+
+* Surveys from Sentience Institute (2021, 2020, 2017) and Norwood & Murray (2018) showed substantial levels of support in the US for banning slaughterhouses (~39-43% support). Evidence of this considerable public support for radical action has been suggested as a reason for animal advocates to push stronger messages and bolder proposals against animal agriculture.
+* A preregistered study that we present here casts doubt on how substantial support for such radical action against factory farming actually is. In an experiment of 700 US survey respondents, we found 7.9% support (95% CI [4.3% – 14.0%], weighted results), when arguments framed around animal welfare for and against are presented, and respondents are asked to explain their reasoning. We also found 20.4% support (95% CI [11.0%-34.7%], weighted results) in the control condition when respondents were not asked to explain their reasoning.
+* In the second survey of 2,698 US respondents, 15.7% (95% CI [13.0%-18.8%], weighted results) support for a policy banning slaughterhouses, when arguments framed around animal welfare for and against are presented, and respondents are asked to explain their reasoning.
+* The attitudes expressed by poll respondents in response to broad questions may not be reliable indicators of actual support for specific policies or messages. It would be better to test people’s responses to more detailed messages and policy proposals, paying special attention to how radical messages compare to counterfactual moderate messages.

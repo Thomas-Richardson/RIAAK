@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/citations/keel-bone-fractures-charity-entrepreneurship/","created":"2025-10-23T11:25:45.030+01:00","updated":"2025-10-23T11:25:45.030+01:00"}
+---
+
+
+To date, efforts to enhance laying hens' welfare primarily involve transitioning from conventional cages to cage-free systems, with notable progress in North America, Europe (EU and UK), Oceania (Australia and New Zealand), and South America. Moving from cages to cage-free systems is a substantial improvement but not sufficient to guarantee a good quality of life for hens. Persistent welfare issues such as feather pecking combine with cage-free-specific concerns like keel bone fractures (KBF). The report draws on insights from previous cage-free campaigns and established evidence on laying hens' welfare challenges in different housing systems. It aims to identify the next steps after securing cage-free commitments, focusing on reducing keel bone fractures, a major welfare issue in cage-free systems.
+
+We discuss outcome-based versus input-based approaches. Outcome-based approaches set welfare targets for producers to meet, such as less than 25% of hens with KBF. Input-based approaches set the inputs producers need to adhere to, such as requirements to fortify feed or avoid egg laying in the first 22 weeks. Given we have some uncertainty about the best ways for farmers to lower KBF we lean towards outcome-based approaches, but either could work. We think that by setting clear outcomes and flexible input methods, producers can innovate to meet standards effectively. Leaving space for farmers to experiment and take initiative could improve tractability compared to mandating specific approaches. We also think that the outputs-based approach will help to build the evidence base of how to reduce KBF. We can learn from the farmers who are trying out different interventions which of these interventions work best.
+
+In Section 3, we evaluate different strategies to deploy the intervention. We consider two further strategic questions:
+
+1.  **The best initial tactics to drive change.** We considered a direct implementation approach at the farmer level, updating existing certification, corporate campaigning, and policy change. After evaluating the options we recommend initially working with certifiers to ensure enough farms adopt practices that lower KBF early on to learn which interventions appear most effective.
+
+2.  **Medium- and long-term goals.** We consider whether the charity should focus on direct impact achievable through work with certifiers or building evidence for KBF interventions with a view towards corporate campaigns as a dominant driver of impact at a later stage. We weakly recommend that the charity work towards corporate campaigning. However, this should only be done once the deadlines of existing cage-free and Better Chicken Commitments have passed.

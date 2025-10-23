@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/citations/thomas-walters-et-al-2025/","created":"2025-10-23T14:55:59.520+01:00","updated":"2025-10-23T14:55:59.580+01:00"}
+---
+
+Animal agriculture is associated with environmental and animal-welfare harms. Past studies on meat-reduction messaging have only tested small sets of messages, often without incentives, making it difficult to determine what works best. We conducted a large online experiment in which 4,871 Americans were shown unique presentations randomly constructed from 14 content modules (animal suffering, environment, health, etc.). We then elicited participants’ valuation for a meat product and a plant-based product for real stakes. We find that the average presentation increased the relative valuation of the plant- based product by $10.05, but there is much heterogeneity in the effect based on message content and sample. The weakest modules’ effects on the most resistant subpopulation are only 44% of the average treatment effect, but the strongest module’s effects on the most persuadable subpopulation are 204% of the average.

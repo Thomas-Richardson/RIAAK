@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/food-habits-in-se-asia/","created":"2024-07-19T12:00:57.395+01:00","updated":"2025-09-28T23:52:41.378+01:00"}
+{"dg-publish":true,"permalink":"/food-habits-in-se-asia/","created":"2025-10-23T12:01:06.496+01:00","updated":"2025-10-23T12:01:06.497+01:00"}
 ---
 
-#asia 
+#asia #SE_asia 
 
 - [[Alt proteins in Asia\|Alt proteins in Asia]]
 - [[Animal advo in Asia\|Animal advo in Asia]]

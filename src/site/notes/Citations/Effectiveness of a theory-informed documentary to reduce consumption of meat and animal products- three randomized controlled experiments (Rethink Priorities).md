@@ -1,0 +1,24 @@
+---
+{"dg-publish":true,"permalink":"/citations/effectiveness-of-a-theory-informed-documentary-to-reduce-consumption-of-meat-and-animal-products-three-randomized-controlled-experiments-rethink-priorities/","created":"2025-10-23T14:07:29.194+01:00","updated":"2025-10-23T14:07:29.330+01:00"}
+---
+
+### Recommendations
+* Evidence does not support the use of informational documentaries.
+* Interventions that change *intended* eating habits may not result in actual change in eating habits. In our study, even very large changes in intention did not change actual behavior.
+* Future studies should ensure that participants are unaware of the study’s purpose. They can do this with blinding.
+
+### Key Findings
+*   **Tested a 20-minute documentary “Good For Us”** that highlights the environmental, human health and animal welfare harms of eating meat and other animal products.
+    *   In a **randomized controlled experiment**, compared the documentary to a control video (a generic motivational speech). Participants were from the general population of the United States.
+    *   Followed up **12 days later** with a survey that was described as a different study. This **helped to “blind” participants** to the purpose of the study when collecting data, reducing potential bias.
+*   Our first study found the **documentary had no effect** on a variety of different outcomes.
+    *   Found **no reduction in animal product consumption**. The average change we measured in one study was less than a 1-ounce reduction in animal product consumption per week, with a 95% confidence interval ranging from a 6 ounce *reduction* to a 5 ounce *increase*.
+    *   Found **no change in moral valuation of animals** (“speciesism”).
+    *   Found **no meaningful increases in interest in animal activism or in perceived importance** of environmental sustainability, animal welfare, or eating a healthful diet.
+*   **Our second study was deliberately designed less rigorously, to resemble previous studies that measured intended behavior. Immediately after the documentary, asked viewers if they *planned* to eat more or less animal products next week. Many viewers planned to eat less animal products in the week after seeing the documentary.**
+    *   Documentary made viewers 242% more likely to intend to reduce meat consumption than participants who viewed the control video. Critically, our first study suggested that these **intentions do not actually translate to reductions in consumption**.
+    *   A previous meta-analysis suggested that comparable interventions make people about 22% more likely to *intend* to reduce their meat consumption. So our **documentary was likely very convincing relative to other interventions, but still not effective** at reducing consumption in our more rigorously-designed study.
+*   Our third study tried to make the documentary more effective. **Added a pledge, goal-setting exercises, and reminder email;** and participants were **people interested in nutrition research.** The documentary still was not effective by any measurement. Also looked at just people who **attended at least a 2-year college and identified as Democrats,** but still no effect.
+
+### Abstract
+Several societal issues could be mitigated by reducing global consumption of meat and animal products (MAP). In three randomized, controlled experiments (n= 217 to 574), we evaluated the effects of a documentary that presents health, environmental, and animal welfare motivations for reducing MAP consumption. Study 1 assessed the documentary’s effectiveness at reducing reported MAP consumption after 12 days. This study used methodological innovations to minimize social desirability bias, a widespread limitation of past research. Study 2 investigated discrepancies between the results of Study 1 and those of previous studies by further examining the role of social desirability bias. Study 3 assessed the documentary’s effectiveness in a new population anticipated to be more responsive and upon enhancing the intervention content. We found that the documentary did not decrease reported MAP consumption when potential social desirability bias was minimized (Studies 1 and 3). The documentary also did not affect consumption among participants whose demographics suggested they might be more receptive (Study 3). However, the documentary did substantially increase intentions to reduce consumption, consistent with past studies (Studies 2 and 3). Overall, we conclude that some past studies of similar interventions may have overestimated effects due to methodological biases. Novel intervention strategies to reduce MAP consumption may be needed.

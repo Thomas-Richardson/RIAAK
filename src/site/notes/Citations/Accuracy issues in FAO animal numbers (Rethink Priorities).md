@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/citations/accuracy-issues-in-fao-animal-numbers-rethink-priorities/","created":"2025-10-23T14:25:38.475+01:00","updated":"2025-10-23T14:25:38.617+01:00"}
+---
+
+Some strategic decisions in animal advocacy are informed by the numbers of animals in various countries. The most widely used statistics about the numbers of farmed animals come from the Food and Agriculture Organization of the United Nations (FAO) website FAOSTAT. In this article, I provide some examples of inconsistencies in FAOSTAT animal data, and further reasons to think that the data may sometimes be inaccurate. The main point of this article is that it’s probably worth trying to verify FAO numbers before using them to make important decisions. In the appendix, I also explain some minor caveats that should be understood when interpreting FAO numbers.

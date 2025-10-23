@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/measuring-ghg-emissions/","created":"2023-11-19T14:16:15.000+00:00","updated":"2025-09-29T00:19:44.928+01:00"}
+{"dg-publish":true,"permalink":"/measuring-ghg-emissions/","created":"2023-11-19T14:16:15.000+00:00","updated":"2025-10-23T10:53:12.082+01:00"}
 ---
 
 #environment_misc
 
-- [[grass fed beef is carbon neutral because its circular myth\|grass fed beef is carbon neutral because its circular myth]]
+- [[The "Grass fed beef is carbon neutral because its circular" myth\|The "Grass fed beef is carbon neutral because its circular" myth]]
 
 - Since there are many different greenhouse gases, researchers often aggregate them into a common unit of measurement when they want to make comparisons.
 - The most common metric is <mark style="background: #FFF3A3A6;">carbon dioxide equivalents (CO2e)</mark> which basically totals up CO2 emissions and then converts all other gases to the CO2 based on how damaging they are. 

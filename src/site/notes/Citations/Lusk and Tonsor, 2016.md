@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/citations/lusk-and-tonsor-2016/","created":"2024-03-14T11:04:30.000+00:00","updated":"2025-09-28T23:47:36.342+01:00"}
+{"dg-publish":true,"permalink":"/citations/lusk-and-tonsor-2016/","created":"2025-10-23T12:01:42.423+01:00","updated":"2025-10-23T12:01:42.423+01:00"}
 ---
 
-#citation #meat #economics 
+#citation #meat #economics #usa 
 
 - [[The economics of meat\|The economics of meat]] 
 https://onlinelibrary.wiley.com/doi/full/10.1093/aepp/ppv050

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/the-consolidation-and-intensification-of-farms/","created":"2024-04-23T13:15:26.000+01:00","updated":"2025-10-01T19:25:02.355+01:00"}
+{"dg-publish":true,"permalink":"/the-consolidation-and-intensification-of-farms/","created":"2025-10-23T12:01:42.238+01:00","updated":"2025-10-23T12:01:42.238+01:00"}
 ---
 
-#factory_farming 
+#factory_farming #usa 
 
 - [[CAFOs wreck domestic rural communities\|CAFOs wreck domestic rural communities]]
 ## The spread of US CAFOs

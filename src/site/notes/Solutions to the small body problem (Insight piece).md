@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/solutions-to-the-small-body-problem-insight-piece/","created":"2024-09-10T08:38:48.153+01:00","updated":"2025-09-29T00:29:25.945+01:00"}
+{"dg-publish":true,"permalink":"/solutions-to-the-small-body-problem-insight-piece/","tags":["SE_asia"],"created":"2025-10-23T12:03:37.667+01:00","updated":"2025-10-23T12:03:37.668+01:00"}
 ---
 
 #bryant_insight 

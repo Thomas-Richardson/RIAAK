@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/citations/pradhan-et-al-2013/","created":"2024-04-07T16:22:01.000+01:00","updated":"2025-09-28T23:48:15.394+01:00"}
+{"dg-publish":true,"permalink":"/citations/pradhan-et-al-2013/","tags":["farming","citation","SE_asia"],"created":"2025-10-23T12:04:14.597+01:00","updated":"2025-10-23T12:04:14.597+01:00"}
 ---
-
-#farming #citation 
+ 
 
 https://iopscience.iop.org/article/10.1088/1748-9326/8/4/044044/meta
 

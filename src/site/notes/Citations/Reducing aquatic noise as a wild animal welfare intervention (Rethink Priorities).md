@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/citations/reducing-aquatic-noise-as-a-wild-animal-welfare-intervention-rethink-priorities/","tags":["#fish wild_animals"],"created":"2025-10-23T14:05:29.209+01:00","updated":"2025-10-23T14:05:29.493+01:00"}
+---
+
+- Aquatic noise comes from ships, seismic surveys to find oil and gas, sonar, and other sources. It causes marine animals stress and masks their communications, among other effects on marine ecosystems.
+- Aquatic noise can be reduced by lobbying for international agreements to slow down ships, adopting various technologies, and protesting against seismic surveys.
+- Usually, aquatic noise is considered an environmental or conservationist issue, and these seem to be the dominant concerns of the few organizations working on reducing aquatic noise. In this text, I analyzed whether animal advocates should work on decreasing aquatic noise as it potentially stresses wild fish.
+- My tentative conclusion is that most likely, ocean noise interventions wouldn’t be cost-effective compared to current farmed animal interventions, although there is some small chance that it’s more cost-effective than them. I attempted to estimate the cost-effectiveness of a campaign prevent seismic surveys to find oil and gas, but conclusions seem too uncertain to inform decisions.
+- Pursuing wild animal welfare (WAW) interventions that are also good for the environment and conserving species could help the WAW movement find allies in these important fields. Also, it might be good for the reputation of the WAW movement to have a concrete intervention that they could to point to.

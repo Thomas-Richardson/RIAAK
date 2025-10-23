@@ -1,0 +1,15 @@
+---
+{"dg-publish":true,"permalink":"/citations/effects-of-restrictive-animal-product-alternative-labeling-laws-on-supply-chain-costs-rethink-priorities/","tags":["alternative_proteins"],"created":"2025-10-23T11:13:21.015+01:00","updated":"2025-10-23T11:13:21.101+01:00"}
+---
+
+## Short Summary
+After conducting expert interviews, we deem it unlikely that the animal products alternative sector (viz., plant-based meat cell-cultured meat companies) will face steep costs due to a regulatory “patchwork” of product label restrictions across US states. Advocates should oppose a federal ban on meat-like terminology, but not a federal requirement for clarificatory language.
+
+## Longer summary
+* Plant-based and cell-cultured food products frequently use meat-like vocabulary on their labels (e.g., Impossible *ground beef*). Meat industry lobbyists argue that meat-like labels mislead consumers into believing that animal product alternatives either contain animal products or have comparable nutritional benefits. On these grounds, they have advocated for either **requiring clarificatory language** (e.g., *plant-based* deli slice) or **banning meat-like terminology** (e.g., almond *beverage* instead of almond *milk*).
+* As of January 2025, 17 US states have passed regulations on the labeling language of animal product alternatives. Legal challenges so far suggest that **typical labels for animal product alternatives do not violate existing regulations.**
+* Nevertheless, in jurisdictions like the US, different states could adopt different labeling restrictions that cannot be jointly satisfied by any one label (e.g., a plant-based alternative *must* *only* be described as “plant-based” vs. “vegan”). Such a **regulatory patchwork** may be burdensome to comply with, even if the content of the regulations themselves are not.
+    * In our interpretation, a patchwork does not yet exist in the US, and experts we interviewed did not point to one.
+* Experts we interviewed pointed to a variety of potential harms of a US patchwork (see Summary Table 1 on the next page). Of these, **the most concerning was that retailers and distributors would drop animal product alternatives entirely due to the logistical difficulties of working across state lines.**
+* However, we speculate that a crisis of this sort is somewhat unlikely, and might spur federal regulation that preempts state laws if it did occur. Indeed, **interviewees generally seemed more concerned about a federal ban on dairy terms for plant-based alternatives.**
+* A federal law is somewhat likely, possibly first for dairy alternatives and later for meat alternatives. **When advocating at the federal level, it is more likely important to prevent a nationwide ban on meat-like terminology than to block a requirement for clarificatory language.**

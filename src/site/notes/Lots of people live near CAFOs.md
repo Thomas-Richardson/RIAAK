@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/lots-of-people-live-near-caf-os/","created":"2024-07-01T14:54:03.248+01:00","updated":"2025-09-29T00:19:36.680+01:00"}
+{"dg-publish":true,"permalink":"/lots-of-people-live-near-caf-os/","created":"2025-10-23T12:05:13.891+01:00","updated":"2025-10-23T12:05:13.891+01:00"}
 ---
 
-#factory_farming 
+#factory_farming #usa 
 
 [Schulz et al., 2019](https://www.sciencedirect.com/science/article/pii/S0160412018320750#s0010) found that 28% of a representative sample of wisconsinians live with 5 miles of a CAFO.
 

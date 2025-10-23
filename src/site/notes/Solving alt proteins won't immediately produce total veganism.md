@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/solving-alt-proteins-won-t-immediately-produce-total-veganism/","tags":["alternative_proteins","plant_based_alternative_proteins"],"created":"2025-10-22T22:53:55.286+01:00","updated":"2025-10-22T22:53:55.287+01:00"}
+{"dg-publish":true,"permalink":"/solving-alt-proteins-won-t-immediately-produce-total-veganism/","tags":["alternative_proteins","plant_based_alternative_proteins","SE_asia"],"created":"2025-10-23T12:01:17.689+01:00","updated":"2025-10-23T12:01:17.689+01:00"}
 ---
  
 

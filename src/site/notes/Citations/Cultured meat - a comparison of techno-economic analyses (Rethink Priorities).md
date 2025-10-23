@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/citations/cultured-meat-a-comparison-of-techno-economic-analyses-rethink-priorities/","tags":["#cultivated_meat"],"created":"2025-10-23T14:13:49.527+01:00","updated":"2025-10-23T14:13:49.790+01:00"}
+---
+
+Humbird (2020) presents a study (funded by Open Philanthropy) which argues that a number of very difficult scientific and engineering problems need to be solved to get cultured meat to less than $25/kg (the reference point of the more expensive end of plant-based meats), at least with production processes anywhere similar to known processes.
+
+Vergeer, et. al (2021) presents a study, using both public and private data, to argue that while substantial cost reductions are necessary, they are feasible to bring cultured meat to sufficiently low cost such that we can have a large burgeoning industry of cultured (“cultivated” in their words) meat by 2030. This study is conducted from the consultancy CE Delft and funded by the Good Food Institute.
+
+Risner, et al. (2020) present a study (funded by the Innovation Institute for Food and Health at UC Davis) on the costs of a 20m3 (20,000 L) food-grade core bioreactor based-system producing 121 kilotons of bovine cell wet mass (1% of current US beef production). The authors argue that “technological performance will need to approach [or surpass] known technical limits for animal cell based meat to achieve profitably as a commodity”. They think cultured meat “may not be economically viable as a commodity for some time” (undefined how long), but “may enter the market place sooner as a minor ingredient which lends desirable organoleptic qualities to an otherwise plant-based products” or become more like luxury food items; almas beluga caviar (US$10,000/kg), Atlantic bluefin tuna (US$6,500/kg), and foie gras (US$1,232/kg).

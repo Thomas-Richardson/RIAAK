@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/citations/richard-ping-anuj-et-al-2021/","created":"2024-06-13T12:34:43.450+01:00","updated":"2025-09-28T23:48:21.477+01:00"}
+{"dg-publish":true,"permalink":"/citations/richard-ping-anuj-et-al-2021/","tags":["citation","alternative_proteins","asia","consumer_attitudes","good_growth_social_listening","SE_asia"],"created":"2025-10-23T12:03:38.140+01:00","updated":"2025-10-23T12:03:38.140+01:00"}
 ---
-
-#citation #alternative_proteins #asia #consumer_attitudes #good_growth_social_listening 
+ 
 
 - [x] reviewed
 

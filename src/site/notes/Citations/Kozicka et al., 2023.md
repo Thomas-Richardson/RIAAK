@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/citations/kozicka-et-al-2023/","created":"2024-01-12T10:45:55.000+00:00","updated":"2025-09-28T23:47:22.842+01:00"}
+{"dg-publish":true,"permalink":"/citations/kozicka-et-al-2023/","tags":["#environment_land","#biodiversity","#environment_ghg","#meat","#dairy"],"created":"2024-01-12T10:45:55.000+00:00","updated":"2025-10-23T17:32:12.086+01:00"}
 ---
 
-#citation #environment_land #environment_ghg  #meat #dairy #biodiversity
 
 - [[Modest meat reduction can have significant environmental benefits\|Modest meat reduction can have significant environmental benefits]]
 

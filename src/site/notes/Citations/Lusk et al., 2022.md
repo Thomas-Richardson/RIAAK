@@ -1,14 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/citations/lusk-et-al-2022/","created":"2024-03-14T16:11:21.000+00:00","updated":"2025-09-28T23:47:36.947+01:00"}
+{"dg-publish":true,"permalink":"/citations/lusk-et-al-2022/","tags":["cows"],"created":"2024-03-14T16:11:21.000+00:00","updated":"2025-10-23T17:33:19.610+01:00"}
 ---
-
-#cows #citation 
-
-Lusk, J. L., Blaustein-Rejto, D., Shah, S., & Tonsor, G. T. (2022). Impact of plant-based meat alternatives on cattle inventories and greenhouse gas emissions. _Environmental Research Letters_.
 
 - [[Do vegan products reduce demand for ASFs\|Do vegan products reduce demand for ASFs]]
 - [[Citations/Lusk and Tonsor, 2016\|Lusk and Tonsor, 2016]] 
-
-https://iopscience.iop.org/article/10.1088/1748-9326/ac4fda/meta
 
 New plant-based meat (PBM) alternatives that aim to mimic the taste and texture of beef could have significant economic, environmental, and animal welfare impacts if they replace traditional animal-based meats and reduce livestock production. Whether PBM alternatives can achieve these ends depends on the extent to which consumers are willing to substitute for PBM alternatives, the structure of the meat industry, and the inter-linkages of the livestock industry with the other parts of the economy. <mark style="background: #FFF3A3A6;">We construct and calibrate an economic model to estimate how a reduction in PBM prices, or increase in demand for PBM, in the United States affects cattle production. For every 10% reduction in price or increase in demand for PBM, we estimate U.S. cattle production falls approximately 0.15%</mark>, U.S. cattle producers' economic welfare falls by $300 million year−1, and U.S. consumer welfare rises by $513 million year−1. Key variables affecting model outcomes include the supply elasticity of cattle, the share of the total cost of cattle used to produce ground beef, and cross price-elasticity of demand between PBM and ground beef. <mark style="background: #BBFABBA6;">Increases in U.S. demand for PBM alter trade patterns, leading to a reduction of beef imports and an increase in beef exports, a phenomenon that further reduces global greenhouse gas emissions and land use given the relative efficiency of U.S. beef production. </mark><mark style="background: #FFF3A3A6;">For every 10% reduction in the price of PBM alternatives, we estimate that the global reduction in emissions is equivalent to 0.34% of U.S. emissions from beef production and 1.14% when including reduced land-use change emissions.</mark><mark style="background: #BBFABBA6;">Even substantial reductions in prices of PBM alternatives are unlikely to have substantive impacts on the U.S. cattle population and emissions</mark>, suggesting the need to also pursue alternative mitigation strategies, such as innovations to reduce the methane emissions per head.

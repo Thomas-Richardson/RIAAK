@@ -10,7 +10,6 @@
 
 
 
-#citation #environment_land #environment_ghg  #meat #dairy #biodiversity
 
 - [[Modest meat reduction can have significant environmental benefits\|Modest meat reduction can have significant environmental benefits]]
 

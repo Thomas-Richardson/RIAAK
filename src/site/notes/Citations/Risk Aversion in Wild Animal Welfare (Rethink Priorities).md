@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/risk-aversion-in-wild-animal-welfare-rethink-priorities/","tags":["wild_animals"],"created":"2025-10-23T11:02:52.997+01:00","updated":"2025-10-23T17:26:32.776+01:00"}
+{"dg-publish":true,"permalink":"/citations/risk-aversion-in-wild-animal-welfare-rethink-priorities/","tags":["#wild_animals"],"created":"2025-10-23T11:02:52.997+01:00","updated":"2025-10-23T17:26:32.776+01:00"}
 ---
 
 # Executive Summary

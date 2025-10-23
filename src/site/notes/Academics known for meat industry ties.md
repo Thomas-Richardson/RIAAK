@@ -4,7 +4,7 @@
 
 #meat 
 
-- [[Citations/Morris and Jacquet, 2024\|Morris and Jacquet, 2024]]
+- [[Morris and Jacquet, 2024\|Morris and Jacquet, 2024]]
 
 
 # Researchers

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/soil-association-2024/","created":"2024-08-28T14:05:29.819+01:00","updated":"2025-10-10T23:58:50.422+01:00"}
+{"dg-publish":true,"permalink":"/citations/soil-association-2024/","tags":["#citation","#environment_pollution"],"created":"2024-08-28T14:05:29.819+01:00","updated":"2025-10-23T08:10:29.846+01:00"}
 ---
 
 #citation #environment_pollution 
@@ -8,7 +8,7 @@
 - [[Citations/Sustain, 2024\|Sustain, 2024]]
 - [[Animal agro and soil health\|Animal agro and soil health]]
 - [[Citations/WAP, Alliance to save our antibiotics and The BIJ, 2022\|WAP, Alliance to save our antibiotics and The BIJ, 2022]]
-- [[Environmental damage caused by CAFOs\|Environmental damage caused by CAFOs]]
+- [[Environmental damage caused by factory farms\|Environmental damage caused by factory farms]]
 - 
 
 "Stop polluting our rivers"

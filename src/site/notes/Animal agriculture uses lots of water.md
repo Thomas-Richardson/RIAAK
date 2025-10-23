@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/animal-agriculture-uses-lots-of-water/","created":"2024-04-22T23:47:31.000+01:00","updated":"2025-10-10T23:48:44.690+01:00"}
+{"dg-publish":true,"permalink":"/animal-agriculture-uses-lots-of-water/","tags":["#environment_misc","#factory_farming"],"created":"2024-04-22T23:47:31.000+01:00","updated":"2025-10-23T08:10:29.815+01:00"}
 ---
 
 #environment_misc #factory_farming 
 
-- [[Environmental damage caused by CAFOs\|Environmental damage caused by CAFOs]]
+- [[Environmental damage caused by factory farms\|Environmental damage caused by factory farms]]
 ## Animal ag uses lots of water
 - Animal ag uses 1/3 of the water used in agriculture ([Herrero et al., 2015](https://www.annualreviews.org/content/journals/10.1146/annurev-environ-031113-093503))
 - 27% of all of humanity's water use ([here](https://www.faunajournal.com/archives/2020/vol7issue1/PartB/7-1-18-591.pdf?utm_source=chatgpt.com)).

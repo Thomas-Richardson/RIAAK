@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/caf-os-wreck-domestic-rural-communities/","tags":["farmers","factory_farming"],"created":"2024-05-16T17:51:16.000+01:00","updated":"2025-10-10T23:53:01.647+01:00"}
+{"dg-publish":true,"permalink":"/caf-os-wreck-domestic-rural-communities/","tags":["#farmers","#factory_farming","#economics"],"created":"2024-05-16T17:51:16.000+01:00","updated":"2025-10-23T08:10:29.828+01:00"}
 ---
 
 #factory_farming #economics 
@@ -8,7 +8,7 @@
 - [[CAFOS reduce employment and provide low quality jobs\|CAFOS reduce employment and provide low quality jobs]]
 - [[Contract farming\|Contract farming]]
 - [[CAFOs injure and sicken their workers\|CAFOs injure and sicken their workers]]
-- [[Environmental damage caused by CAFOs\|Environmental damage caused by CAFOs]]
+- [[Environmental damage caused by factory farms\|Environmental damage caused by factory farms]]
 - [[Mixed evidence that nearby CAFOs make people sicker\|Mixed evidence that nearby CAFOs make people sicker]]
 ## How they destroy communities
 - They do not create good jobs for the local community. They pay so little that they are highly dependent on migrant workers, see [[CAFOs injure and sicken their workers#Case study Vermon't Migrant dairy workers[ 3]\|Vermont's Latinx dairy workers]]

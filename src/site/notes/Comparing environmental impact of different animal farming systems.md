@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/comparing-environmental-impact-of-different-animal-farming-systems/","created":"2024-04-21T14:37:08.000+01:00","updated":"2025-09-28T23:49:22.215+01:00"}
+{"dg-publish":true,"permalink":"/comparing-environmental-impact-of-different-animal-farming-systems/","tags":["#environment_misc","#factory_farming"],"created":"2024-04-21T14:37:08.000+01:00","updated":"2025-10-23T08:10:29.851+01:00"}
 ---
 
 #environment_misc #factory_farming 
 
-- [[Environmental damage caused by CAFOs\|Environmental damage caused by CAFOs]]
+- [[Environmental damage caused by factory farms\|Environmental damage caused by factory farms]]
 - [[Animal agriculture and biodiversity loss\|Animal agriculture and biodiversity loss]]
 - [[Animal agro and soil health\|Animal agro and soil health]]
 

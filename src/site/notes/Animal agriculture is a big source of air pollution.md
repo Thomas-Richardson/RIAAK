@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/animal-agriculture-is-a-big-source-of-air-pollution/","created":"2024-04-22T13:00:24.000+01:00","updated":"2025-10-10T23:48:40.591+01:00"}
+{"dg-publish":true,"permalink":"/animal-agriculture-is-a-big-source-of-air-pollution/","tags":["#environment_pollution","#health_disease","#UK"],"created":"2024-04-22T13:00:24.000+01:00","updated":"2025-10-23T08:10:55.577+01:00"}
 ---
 
 #environment_pollution  #health_disease  
@@ -7,7 +7,7 @@
 > [!NOTE] Eye catching
 > In the US, animal products are [8.74% of calories](https://ourworldindata.org/grapher/share-of-calories-from-animal-protein-vs-gdp-per-capita?tab=table&country=~USA) yet cause 80% of deaths from food related air pollution
 
-- [[CAWF farming - environmental damage caused by UK intensive farms\|CAWF farming - environmental damage caused by UK intensive farms]] 
+- [[Calculating the environmental damage caused by UK factory farms\|Calculating the environmental damage caused by UK factory farms]] 
 ## What are air pollutants?
 - [See UK government primer on particulate matter](https://www.gov.uk/government/statistics/air-quality-statistics/concentrations-of-particulate-matter-pm10-and-pm25).
 The pollution responsible for most early deaths (at least from agriculture?) are methane and ammonia emissions cause Particulate matter (mainly pm2.5), nitrogen dioxide and ground level ozone 

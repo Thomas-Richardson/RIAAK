@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/water-pollution-from-animal-ag/","created":"2024-08-22T16:25:38.742+01:00","updated":"2025-09-29T00:31:59.097+01:00"}
+{"dg-publish":true,"permalink":"/water-pollution-from-animal-ag/","tags":["#environment_pollution"],"created":"2024-08-22T16:25:38.742+01:00","updated":"2025-10-23T08:10:55.599+01:00"}
 ---
 
 #environment_pollution 
 
 - [[Animal agriculture is a big source of air pollution\|Animal agriculture is a big source of air pollution]]
-- [[CAWF farming - environmental damage caused by UK intensive farms\|CAWF farming - environmental damage caused by UK intensive farms]]
+- [[Calculating the environmental damage caused by UK factory farms\|Calculating the environmental damage caused by UK factory farms]]
 - [[Animal agriculture uses lots of water\|Animal agriculture uses lots of water]] 
 - [[Citations/Soil association, 2024\|Soil association, 2024]]
 

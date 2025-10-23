@@ -1,44 +1,45 @@
 ---
-{"dg-publish":true,"permalink":"/riaak-home-page/","tags":["gardenEntry"],"created":"2025-09-28T23:32:38.029+01:00","updated":"2025-09-29T00:28:32.071+01:00"}
+{"dg-publish":true,"permalink":"/riaak-home-page/","tags":["#bryant_research","#farming","#health_disease","gardenEntry"],"created":"2025-09-28T23:32:38.029+01:00","updated":"2025-10-23T08:09:47.570+01:00"}
 ---
 
-This is the homepage for Richie's Impactful Animal Advocacy Knowledgebase, aka RIAAK!
+This is the homepage for Richie's Impactful Animal Advocacy Knowledge-base, aka RIAAK!
 
 Here I publish my notes on Animal Advocacy. Feel free to use them for your own work.
 
 These notes are optimised to be useful to me in my role as the Director of Research at [Bryant Research](https://bryantresearch.co.uk/). As such, they are a combination of:
-- Brief summaries of useful studies (usually found in the Citations folder). Reviews, big reports, or useful single studies. 
-	- I add studies when they become useful to me. The goal is not to add every animal advo study ever. It's to curate a list based on themes (e.g. plant based initiatives in hospital) or high quality evidence (meta analyses)
+- Brief summaries of useful studies (usually found in the Citations folder). Reviews, big reports, or useful single studies. I have an AI tool that will skim a report, extract the abstract or exec summary and make an entry here in RIAAK. If the report doesn't have one, it will use AI to read the report and write one. Bear in mind these may not always be 100% accurate! 
 - Micro-content I have written to help me quickly put together reports for clients.
+- My scattered thoughts.
 
 ---
-## How to use RIAAK
+# How to use RIAAK
 There are 6 ways you can navigate RIAAK:
 
-1. Use the search bar on the left
+1. Use the search bar
 2. Use Links
 3. Use Local Graphs
 4. Use the Global Graph
 5. Use Tags
 6. Use Folders
-
 ## The search bar
 - Probably the easiest way to search RIAAK
-- Annoyingly it can only currently do exact word search, so if you search "alternative proteins healthier" it probably won't surface an article called "vegan meat is good for you".
+- The search bar only does exact word search, so if you search "alternative proteins healthier" it probably won't surface an article called "vegan meat is good for you".
 - I'd advise just putting in a bunch of keywords you're interested in and see what it turns up
-
 ## Links
-- This knowledge base is organised a bit like Wikipedia: pages are connected by links.
+- This knowledge base is organised a bit like Wikipedia: pages are connected by **links**.
 - You can surf RIAAK by clicking through the links on a given page. [[Red and processed meat are bad for you\|Try clicking this one]]
 - If you hover your mouse over the link, it will show you a preview.
 - At the bottom of each page, you will see a list of all the other pages that link to it.
 
 ## Local graph
-- Side note: confusingly, Obsidian, and the computer scientists that made it, use the term "graph" specifically to refer to these networks of dots connected by lines.
-- Whenever you are on a note, you'll notice a small network graph on the right-hand side under the heading “interactive graph”. This visualises the note you're looking at as well as all the notes connected to it through links. 
+- Inspect the local graph for a note to see what it's connected to and find what you're after.
+- Side note: confusingly, Obsidian uses the term "graph" not how regular people use it, but using the computer science definition: a graph is a network of "nodes" (in this case notes), connected by "edges" (in this case links).
+- Whenever you are on a note, you'll notice a small network graph on the right-hand side under the heading “Connected pages”. This visualises the note you're looking at, as well as all the notes connected to it through links. 
 - If you click any of these nodes you'll go straight to them! You can thus “surf” the web of notes in this knowledge base and learn all sorts of interesting things.
 - If you want to see the local graph larger, then click the arrow in the top right of the graph
+- There is also a heading on the right that tells you which pages mention the page you're on.
 
+![Pasted image 20251023080806.png|500](/img/user/Pasted%20image%2020251023080806.png)
 ## Global Graph
 - If every file in RIAAK is linked to other files, can we visualise the *entirety* of RIAAK as a network graph? Yes we can! 
 - This is called a Global Graph, and you do that by clicking the icon on the top right of any local graph that looks like 3 circles

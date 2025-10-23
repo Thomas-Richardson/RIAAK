@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/investing-in-alternative-proteins-can-improve-national-security-and-defence/","tags":["#alternative_proteins","#food_security","#cultivated_meat","#precision_fermentation"],"created":"2025-10-22T22:42:44.356+01:00","updated":"2025-10-22T22:42:44.356+01:00"}
+{"dg-publish":true,"permalink":"/investing-in-alternative-proteins-can-improve-national-security-and-defence/","tags":["alternative_proteins","food_security","cultivated_meat","precision_fermentation","usa"],"created":"2025-10-23T10:06:09.295+01:00","updated":"2025-10-23T10:06:09.295+01:00"}
 ---
  
 

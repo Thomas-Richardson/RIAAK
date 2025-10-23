@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/animal-agriculture-is-a-big-source-of-air-pollution/","tags":["#environment_pollution","#health_disease","#UK"],"created":"2024-04-22T13:00:24.000+01:00","updated":"2025-10-23T08:10:55.577+01:00"}
+{"dg-publish":true,"permalink":"/animal-agriculture-is-a-big-source-of-air-pollution/","created":"2024-04-22T13:00:24.000+01:00","updated":"2025-10-23T08:10:55.577+01:00"}
 ---
 
 #environment_pollution  #health_disease  

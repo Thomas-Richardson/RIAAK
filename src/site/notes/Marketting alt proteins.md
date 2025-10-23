@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/marketting-alt-proteins/","tags":["#alternative_proteins","#marketing","#plant_based_alternative_proteins"],"created":"2025-10-22T22:53:31.332+01:00","updated":"2025-10-22T22:53:31.332+01:00"}
+{"dg-publish":true,"permalink":"/marketting-alt-proteins/","tags":["alternative_proteins","marketing","plant_based_alternative_proteins"],"created":"2025-10-22T22:53:31.332+01:00","updated":"2025-10-22T22:53:31.332+01:00"}
 ---
 
 

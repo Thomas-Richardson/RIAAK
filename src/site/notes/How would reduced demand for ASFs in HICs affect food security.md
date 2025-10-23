@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-would-reduced-demand-for-as-fs-in-hi-cs-affect-food-security/","tags":["#farming","#lower_middle_income_countries","#high_income_countries","#cultivated_meat","#food_security"],"created":"2025-10-22T22:39:07.016+01:00","updated":"2025-10-22T22:39:07.016+01:00"}
+{"dg-publish":true,"permalink":"/how-would-reduced-demand-for-as-fs-in-hi-cs-affect-food-security/","tags":["farming","lower_middle_income_countries","high_income_countries","cultivated_meat","food_security"],"created":"2025-10-22T22:39:07.016+01:00","updated":"2025-10-22T22:39:07.016+01:00"}
 ---
  
 

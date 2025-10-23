@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mintel-year-unknown/","tags":["#alternative_proteins","#asia","#lower_middle_income_countries","#consumer_attitudes","#plant_based_alternative_proteins"],"created":"2025-10-22T22:54:38.732+01:00","updated":"2025-10-22T22:54:38.732+01:00"}
+{"dg-publish":true,"permalink":"/mintel-year-unknown/","tags":["alternative_proteins","asia","lower_middle_income_countries","consumer_attitudes","plant_based_alternative_proteins"],"created":"2025-10-22T22:54:38.732+01:00","updated":"2025-10-22T22:54:38.732+01:00"}
 ---
  
 

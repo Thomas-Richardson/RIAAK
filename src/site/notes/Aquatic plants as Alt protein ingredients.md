@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aquatic-plants-as-alt-protein-ingredients/","tags":["#alternative_proteins","#plant_based_alternative_proteins"],"created":"2025-10-22T22:54:20.106+01:00","updated":"2025-10-22T22:54:20.106+01:00"}
+{"dg-publish":true,"permalink":"/aquatic-plants-as-alt-protein-ingredients/","tags":["alternative_proteins","plant_based_alternative_proteins"],"created":"2025-10-22T22:54:20.106+01:00","updated":"2025-10-22T22:54:20.106+01:00"}
 ---
  
 

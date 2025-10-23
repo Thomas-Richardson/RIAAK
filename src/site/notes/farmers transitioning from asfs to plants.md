@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/farmers-transitioning-from-asfs-to-plants/","tags":["#farming","#farmers","#cultivated_meat","#alternative_proteins","#precision_fermentation"],"created":"2025-10-22T22:47:58.747+01:00","updated":"2025-10-22T22:47:58.747+01:00"}
+{"dg-publish":true,"permalink":"/farmers-transitioning-from-asfs-to-plants/","tags":["farming","farmers","cultivated_meat","alternative_proteins","precision_fermentation","environment_land"],"created":"2025-10-23T09:43:48.905+01:00","updated":"2025-10-23T09:43:48.905+01:00"}
 ---
  
 

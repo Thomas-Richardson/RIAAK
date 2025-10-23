@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/big-grain-companies/","created":"2024-12-04T17:19:10.477+00:00","updated":"2025-10-10T23:50:23.276+01:00"}
+{"dg-publish":true,"permalink":"/big-grain-companies/","created":"2025-10-23T10:06:09.500+01:00","updated":"2025-10-23T10:06:09.500+01:00"}
 ---
 
-#cawf_food_sec 
+#cawf_food_sec #usa 
 
 # Taken from CIWF's "factory farming who benefits" paper
 Four firms dominate the global trade in grain. Known as the ABCD companies, they comprise

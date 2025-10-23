@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uk-caf-os-regularly-violate-environmental-regulations/","tags":["#environment_pollution","#uk"],"created":"2024-08-05T13:08:51.400+01:00","updated":"2025-10-23T08:10:55.595+01:00"}
+{"dg-publish":true,"permalink":"/uk-caf-os-regularly-violate-environmental-regulations/","created":"2024-08-05T13:08:51.400+01:00","updated":"2025-10-23T08:10:55.595+01:00"}
 ---
 
 #environment_pollution #uk 

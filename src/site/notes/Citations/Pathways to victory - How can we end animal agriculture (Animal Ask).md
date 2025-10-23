@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/pathways-to-victory-how-can-we-end-animal-agriculture-animal-ask/","tags":["#corporate_campaigns"],"created":"2025-10-22T22:54:45.153+01:00","updated":"2025-10-22T22:54:45.153+01:00"}
+{"dg-publish":true,"permalink":"/citations/pathways-to-victory-how-can-we-end-animal-agriculture-animal-ask/","tags":["corporate_campaigns"],"created":"2025-10-22T22:54:45.153+01:00","updated":"2025-10-22T22:54:45.153+01:00"}
 ---
 
 Factory farming and other forms of animal exploitation represent an unimaginably large amount of suffering, as well as other grave ethical concerns. Despite concern for animals being arguably at an all-time high and the many apparent successes of corporate campaigns, meat consumption has been rising (Tim and Nathan 2019). In the face of this seemingly bleak situation, many animal advocates placed hope in cultured meat, but recent analyses from outside the industry have been pessimistic about the prospects for this technology, leaving some animal advocates without hope for victory. This report outlines how victory might be achieved with the patience and dedication of the movement.

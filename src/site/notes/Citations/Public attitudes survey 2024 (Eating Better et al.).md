@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/public-attitudes-survey-2024-eating-better-et-al/","created":"2025-10-21T13:09:49.615+01:00","updated":"2025-10-21T13:09:49.616+01:00"}
+{"dg-publish":true,"permalink":"/citations/public-attitudes-survey-2024-eating-better-et-al/","tags":["uk"],"created":"2025-10-23T09:45:26.409+01:00","updated":"2025-10-23T09:45:26.409+01:00"}
 ---
 
 

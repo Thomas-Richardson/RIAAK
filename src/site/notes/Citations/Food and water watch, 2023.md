@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/citations/food-and-water-watch-2023/","created":"2024-05-02T14:51:52.000+01:00","updated":"2025-10-10T23:56:25.921+01:00"}
+{"dg-publish":true,"permalink":"/citations/food-and-water-watch-2023/","created":"2025-10-23T10:06:44.749+01:00","updated":"2025-10-23T10:06:44.749+01:00"}
 ---
 
-#citation #dairy #factory_farming 
+#citation #dairy #factory_farming #usa 
 
 https://www.foodandwaterwatch.org/wp-content/uploads/2023/01/RPT2_2301_EconomicCostofDairy-WEB.pdf
 

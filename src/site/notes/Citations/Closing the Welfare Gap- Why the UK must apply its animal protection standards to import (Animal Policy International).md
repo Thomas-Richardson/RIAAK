@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/closing-the-welfare-gap-why-the-uk-must-apply-its-animal-protection-standards-to-import-animal-policy-international/","created":"2025-10-13T11:00:11.838+01:00","updated":"2025-10-13T11:00:12.799+01:00"}
+{"dg-publish":true,"permalink":"/citations/closing-the-welfare-gap-why-the-uk-must-apply-its-animal-protection-standards-to-import-animal-policy-international/","tags":["uk"],"created":"2025-10-23T09:42:32.895+01:00","updated":"2025-10-23T09:42:32.895+01:00"}
 ---
 
 The RSPCA, Compassion in World Farming and Animal Policy International have released a report that has found that currently many products imported into the UK come from countries where practices banned in the UK are still legal, creating a gap that is expected to grow with new trade deals, undermining public values and disadvantaging British farmers.

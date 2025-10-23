@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/is-pastoralism-the-solution-to-the-problems-food-security-and-animal-agriculture/","created":"2024-04-19T15:58:45.000+01:00","updated":"2025-09-29T00:19:13.408+01:00"}
+{"dg-publish":true,"permalink":"/is-pastoralism-the-solution-to-the-problems-food-security-and-animal-agriculture/","tags":["environment_land"],"created":"2025-10-23T09:44:09.391+01:00","updated":"2025-10-23T09:44:09.391+01:00"}
 ---
 
 #mfa_food_sec 

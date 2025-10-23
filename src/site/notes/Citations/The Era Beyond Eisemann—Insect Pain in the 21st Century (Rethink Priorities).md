@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/citations/the-era-beyond-eisemann-insect-pain-in-the-21st-century-rethink-priorities/","tags":["insects"],"created":"2025-10-23T10:21:41.721+01:00","updated":"2025-10-23T10:21:41.781+01:00"}
+---
+
+In 1984, Eisemann et al. published \\"Do insects feel pain? — A biological view,\\" which argued that insects likely do not experience pain based on six key claims. This paper, \\"The Era Beyond Eisemann et al. (1984): Insect pain in the 21st century\\" by Meghan Barrett and Bob Fischer (summarized here by Abraham Rowe), demonstrates that new empirical evidence discovered since 1984 undermines most of Eisemann et al.'s arguments.
+
+Specifically, Barrett and Fischer address Eisemann et al.'s claims regarding the absence of insect nociceptors (which have since been identified), the function of endogenous opioid peptides (which are now understood to be vertebrate-specific for analgesia, though other analgesic mechanisms may exist in insects), the simplicity of insect brains (challenging the assumption that brain size/complexity dictates pain capacity), the lack of protecting injured body parts (showing evidence of such behaviors), normal behavior after severe injury (citing anecdotal nature of Eisemann's evidence and alternative explanations), and the inflexibility of insect behavior (demonstrating plastic responses to noxious stimuli).
+
+The authors clarify that their work does not definitively conclude that insects feel pain but rather opens the question for further research by refuting previous arguments against it. They also reiterate Eisemann et al.'s original call for a precautionary approach to insects, advocating for cautious treatment until more is known about their status as moral patients.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/water-pollution-from-animal-ag/","tags":["#environment_pollution"],"created":"2024-08-22T16:25:38.742+01:00","updated":"2025-10-23T08:10:55.599+01:00"}
+{"dg-publish":true,"permalink":"/water-pollution-from-animal-ag/","created":"2024-08-22T16:25:38.742+01:00","updated":"2025-10-23T08:10:55.599+01:00"}
 ---
 
 #environment_pollution 

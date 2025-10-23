@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-number-of-alt-protein-companies-in-the-uk/","tags":["#cultivated_meat","#alternative_proteins","#precision_fermentation"],"created":"2025-10-22T22:47:59.026+01:00","updated":"2025-10-22T22:47:59.026+01:00"}
+{"dg-publish":true,"permalink":"/the-number-of-alt-protein-companies-in-the-uk/","tags":["cultivated_meat","alternative_proteins","precision_fermentation","uk"],"created":"2025-10-23T09:46:01.966+01:00","updated":"2025-10-23T09:46:01.966+01:00"}
 ---
 
 

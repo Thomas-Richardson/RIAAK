@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/recipe-for-resilience-the-benefits-of-a-thriving-plant-based-protein-sector-in-the-uk-green-alliance/","tags":["alternative_proteins"],"created":"2025-10-01T15:03:54.883+01:00","updated":"2025-10-16T15:55:58.340+01:00"}
+{"dg-publish":true,"permalink":"/citations/recipe-for-resilience-the-benefits-of-a-thriving-plant-based-protein-sector-in-the-uk-green-alliance/","tags":["alternative_proteins","uk"],"created":"2025-10-23T09:42:33.030+01:00","updated":"2025-10-23T09:42:33.030+01:00"}
 ---
 
 # Briefing: Plant-Based Meat and the UK Food System

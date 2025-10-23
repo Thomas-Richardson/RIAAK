@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misc-strengths-and-issues-of-the-alt-protein-sector/","tags":["#alternative_proteins","#plant_based_alternative_proteins"],"created":"2025-10-22T22:53:55.582+01:00","updated":"2025-10-22T22:53:55.583+01:00"}
+{"dg-publish":true,"permalink":"/misc-strengths-and-issues-of-the-alt-protein-sector/","tags":["alternative_proteins","plant_based_alternative_proteins"],"created":"2025-10-22T22:53:55.582+01:00","updated":"2025-10-22T22:53:55.583+01:00"}
 ---
  
 

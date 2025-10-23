@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/labour-shortages-in-the-uk-agri/","created":"2024-12-04T13:56:58.988+00:00","updated":"2025-09-29T00:19:20.981+01:00"}
+{"dg-publish":true,"permalink":"/labour-shortages-in-the-uk-agri/","created":"2025-10-23T09:43:41.050+01:00","updated":"2025-10-23T09:43:41.050+01:00"}
 ---
 
-#cawf_food_sec 
+#cawf_food_sec #uk 
 
 - [[CAFOs injure and sicken their workers\|CAFOs injure and sicken their workers]]
 

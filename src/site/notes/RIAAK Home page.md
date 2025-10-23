@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/riaak-home-page/","tags":["#bryant_research","#farming","#health_disease","gardenEntry"],"created":"2025-09-28T23:32:38.029+01:00","updated":"2025-10-23T08:09:47.570+01:00"}
+{"dg-publish":true,"permalink":"/riaak-home-page/","tags":["gardenEntry"],"created":"2025-09-28T23:32:38.029+01:00","updated":"2025-10-23T10:27:31.577+01:00"}
 ---
 
 This is the homepage for Richie's Impactful Animal Advocacy Knowledge-base, aka RIAAK!
@@ -42,16 +42,20 @@ There are 6 ways you can navigate RIAAK:
 ![Pasted image 20251023080806.png|500](/img/user/Pasted%20image%2020251023080806.png)
 ## Global Graph
 - If every file in RIAAK is linked to other files, can we visualise the *entirety* of RIAAK as a network graph? Yes we can! 
-- This is called a Global Graph, and you do that by clicking the icon on the top right of any local graph that looks like 3 circles
+- This is called a Global Graph, and you do that by clicking the globe icon on the top right of any local graph
 - Hover over a note and it will highlight all notes it's linked to.
 
+![Pasted image 20251023102331.png](/img/user/Pasted%20image%2020251023102331.png)
 ## Tags
 - Tags are those hashtags you see on notes, usually at the top. They are the topics that a note is about. 
-- If you click on a tag, it will show you all notes in RIAAK with that tag. Try it out! #bryant_research        #farming        #health_disease  
-- Tags are a great way of delving into a high level topic: "What do we have on **meat alternatives**?"
+- If you click on a tag, it will show you all notes in RIAAK with that tag. Try it out! 
+	- #bryant_research 
+	- #farming
+	- #health_disease  
+- Tags are a great way of diving into a high level topic
 - If you have suggestions for tags that you expected to find or would find useful, let me know!
 - [[Citations/RIAK tag (topic) list\|A list of all tags in RIAAK can be found here]]
-- [[RIAAK FAQ#Why don't you use folders like a normal person?\|An explainer of why I use these rather than folders]]
+- [[RIAAK FAQ#Why don't you use folders like a normal person?\|An explainer of why I use tags rather than folders to organise this site]]
 
 ## Folders
 On the left side, you will also see the main folders and all the files inside them. Not a great way to search for a file, but might be useful.

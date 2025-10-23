@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blogs-and-articles/the-8-differences-between-tech-and-biotech-startups/","tags":["#precision_fermentation","#alternative_proteins"],"created":"2025-10-22T22:42:44.165+01:00","updated":"2025-10-22T22:42:44.166+01:00"}
+{"dg-publish":true,"permalink":"/blogs-and-articles/the-8-differences-between-tech-and-biotech-startups/","tags":["precision_fermentation","alternative_proteins"],"created":"2025-10-22T22:42:44.165+01:00","updated":"2025-10-22T22:42:44.166+01:00"}
 ---
 
 > *“There are many paths to the top of the mountain, but the view is always the same.”*

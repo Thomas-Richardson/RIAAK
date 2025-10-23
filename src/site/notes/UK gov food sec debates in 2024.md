@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/uk-gov-food-sec-debates-in-2024/","created":"2024-12-11T16:27:32.872+00:00","updated":"2025-09-29T00:31:16.963+01:00"}
+{"dg-publish":true,"permalink":"/uk-gov-food-sec-debates-in-2024/","created":"2025-10-23T09:43:05.980+01:00","updated":"2025-10-23T09:43:05.980+01:00"}
 ---
 
-#cawf_food_sec 
+#cawf_food_sec #uk 
 
 ## # Farming and Food Security Volume 754: debated on Tuesday 8 October 2024
 https://hansard.parliament.uk/Commons/2024-10-08/debates/DD4B196C-329F-4D65-BE3B-0D6C18FF8E6B/FarmingAndFoodSecurity

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/food-security-in-the-uk/","tags":["#food_security","#uk","#cawf_food_sec","#cultivated_meat","#farmers"],"created":"2025-10-22T22:39:06.576+01:00","updated":"2025-10-22T22:39:06.577+01:00"}
+{"dg-publish":true,"permalink":"/food-security-in-the-uk/","tags":["food_security","uk","cawf_food_sec","cultivated_meat","environment_land"],"created":"2025-10-23T09:44:27.707+01:00","updated":"2025-10-23T09:44:27.707+01:00"}
 ---
  
 

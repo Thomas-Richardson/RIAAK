@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/consumers-want-transparent-labels/","created":"2024-01-12T11:22:53.000+00:00","updated":"2025-09-28T23:49:27.815+01:00"}
+{"dg-publish":true,"permalink":"/consumers-want-transparent-labels/","created":"2025-10-23T10:06:08.773+01:00","updated":"2025-10-23T10:06:08.773+01:00"}
 ---
 
-#economics #labelling 
+#economics #labelling #usa 
 
 - [[PB food labels are not confusing to consumers\|PB food labels are not confusing to consumers]]
 

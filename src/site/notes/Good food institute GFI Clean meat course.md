@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/good-food-institute-gfi-clean-meat-course/","tags":["#animal_advocacy","#plant_based_alternative_proteins"],"created":"2025-10-22T22:53:31.444+01:00","updated":"2025-10-22T22:53:31.444+01:00"}
+{"dg-publish":true,"permalink":"/good-food-institute-gfi-clean-meat-course/","tags":["animal_advocacy","plant_based_alternative_proteins"],"created":"2025-10-22T22:53:31.444+01:00","updated":"2025-10-22T22:53:31.444+01:00"}
 ---
  
  

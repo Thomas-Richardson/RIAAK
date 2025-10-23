@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/boosting-uk-food-security-with-alternative-proteins/","tags":["#alternative_proteins","#food_security","#uk","#cawf_food_sec","#plant_based_alternative_proteins"],"created":"2025-10-22T22:54:20.017+01:00","updated":"2025-10-22T22:54:20.017+01:00"}
+{"dg-publish":true,"permalink":"/boosting-uk-food-security-with-alternative-proteins/","tags":["alternative_proteins","food_security","uk","cawf_food_sec","plant_based_alternative_proteins"],"created":"2025-10-22T22:54:20.017+01:00","updated":"2025-10-22T22:54:20.017+01:00"}
 ---
  
 

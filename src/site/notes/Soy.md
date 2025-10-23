@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soy/","created":"2024-03-13T23:07:11.000+00:00","updated":"2025-09-29T00:29:32.746+01:00"}
+{"dg-publish":true,"permalink":"/soy/","tags":["environment_land"],"created":"2025-10-23T09:44:09.534+01:00","updated":"2025-10-23T09:44:09.534+01:00"}
 ---
 
 #alternative_proteins 

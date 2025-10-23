@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/2024-animal-advocacy-strategy-forum-rethink-priorities/","tags":["strategy movement_building"],"created":"2025-10-23T11:10:50.152+01:00","updated":"2025-10-23T11:10:50.179+01:00"}
+{"dg-publish":true,"permalink":"/citations/2024-animal-advocacy-strategy-forum-rethink-priorities/","tags":["#strategy","#movement_building"],"created":"2025-10-23T11:10:50.152+01:00","updated":"2025-10-23T17:21:13.444+01:00"}
 ---
 
 Thirty-two participants gathered in May 2024 for this year’s Animal Advocacy Strategy Forum (AASF), an event designed for animal advocacy leaders to connect and strategize.

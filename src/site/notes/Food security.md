@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/food-security/","created":"2024-04-25T12:40:15.000+01:00","updated":"2025-09-28T23:53:03.543+01:00"}
+{"dg-publish":true,"permalink":"/food-security/","tags":["#food_security","#health_nutrition"],"created":"2025-10-23T17:42:43.157+01:00","updated":"2025-10-23T18:06:08.662+01:00"}
 ---
 
 #food_security #health_nutrition 

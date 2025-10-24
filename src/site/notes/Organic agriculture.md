@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/organic-agriculture/","created":"2024-04-23T00:22:31.000+01:00","updated":"2025-09-29T00:20:43.422+01:00"}
+{"dg-publish":true,"permalink":"/organic-agriculture/","tags":["#farming"],"created":"2025-10-23T17:42:47.848+01:00","updated":"2025-10-23T18:06:08.736+01:00"}
 ---
 
 #farming 

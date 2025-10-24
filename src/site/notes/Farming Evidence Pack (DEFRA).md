@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/farming-evidence-pack-defra/","created":"2024-05-16T20:56:11.000+01:00","updated":"2025-10-01T19:25:11.102+01:00"}
+{"dg-publish":true,"permalink":"/farming-evidence-pack-defra/","tags":["#farming","#cawf_farming","#uk","#fish"],"created":"2025-10-23T17:42:47.497+01:00","updated":"2025-10-23T18:06:08.721+01:00"}
 ---
 
 #farming #cawf_farming #uk 

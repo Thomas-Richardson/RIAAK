@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/marques-et-al-2018/","created":"2024-01-12T10:55:22.000+00:00","updated":"2025-09-28T23:47:43.096+01:00"}
+{"dg-publish":true,"permalink":"/citations/marques-et-al-2018/","tags":["#citation","#economics"],"created":"2025-10-23T17:42:44.399+01:00","updated":"2025-10-23T18:06:08.774+01:00"}
 ---
 
 #citation #economics 

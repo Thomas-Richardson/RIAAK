@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/why-you-probably-don-t-need-to-worry-about-ex-vegan-celebrities/","title":"Why You (Probably) Don’t Need to Worry About Ex-Vegan Celebrities","tags":["light_read","important_read","listen_to"],"created":"2025-09-18T18:53:58.507+01:00","updated":"2025-09-29T00:33:01.920+01:00"}
+{"dg-publish":true,"permalink":"/why-you-probably-don-t-need-to-worry-about-ex-vegan-celebrities/","title":"Why You (Probably) Don’t Need to Worry About Ex-Vegan Celebrities","tags":["#light_read","#important_read","#listen_to"],"created":"2025-10-23T17:42:47.452+01:00","updated":"2025-10-23T18:06:08.716+01:00"}
 ---
 
 ### While they can nab the limelight, influencers are less likely to be able to shift our diets to being more (or less) meat-free.

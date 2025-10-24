@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/subsidies/","created":"2024-05-02T14:32:06.000+01:00","updated":"2025-09-29T00:29:36.961+01:00"}
+{"dg-publish":true,"permalink":"/subsidies/","tags":["#meat","#farming","#politics"],"created":"2025-10-23T17:42:42.245+01:00","updated":"2025-10-23T18:06:08.626+01:00"}
 ---
 
 #meat #farming #politics 

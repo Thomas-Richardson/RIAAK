@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/effectiveness-of-a-theory-informed-documentary-to-reduce-consumption-of-meat-and-animal-products-three-randomized-controlled-experiments-rethink-priorities/","created":"2025-10-23T14:07:29.194+01:00","updated":"2025-10-23T14:07:29.330+01:00"}
+{"dg-publish":true,"permalink":"/citations/effectiveness-of-a-theory-informed-documentary-to-reduce-consumption-of-meat-and-animal-products-three-randomized-controlled-experiments-rethink-priorities/","created":"2025-10-23T17:42:46.042+01:00","updated":"2025-10-23T18:12:10.233+01:00"}
 ---
 
 ### Recommendations

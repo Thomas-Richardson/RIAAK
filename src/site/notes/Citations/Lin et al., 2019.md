@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/lin-et-al-2019/","created":"2023-10-20T10:32:34.000+01:00","updated":"2025-09-28T23:47:31.744+01:00"}
+{"dg-publish":true,"permalink":"/citations/lin-et-al-2019/","tags":["#citation","#economics","#veganism"],"created":"2025-10-23T17:42:44.497+01:00","updated":"2025-10-23T18:06:08.782+01:00"}
 ---
 
 #citation #economics #veganism 

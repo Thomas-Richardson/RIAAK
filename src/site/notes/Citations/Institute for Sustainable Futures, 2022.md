@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/institute-for-sustainable-futures-2022/","created":"2023-10-26T12:06:38.000+01:00","updated":"2025-10-10T23:57:14.239+01:00"}
+{"dg-publish":true,"permalink":"/citations/institute-for-sustainable-futures-2022/","tags":["#citation"],"created":"2025-10-23T17:42:45.157+01:00","updated":"2025-10-23T18:06:08.821+01:00"}
 ---
 
 #citation 

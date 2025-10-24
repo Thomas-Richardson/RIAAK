@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gwp-is-misleading-environmental-measure/","created":"2023-11-19T14:07:29.000+00:00","updated":"2025-09-29T00:15:14.145+01:00"}
+{"dg-publish":true,"permalink":"/gwp-is-misleading-environmental-measure/","tags":["#environment_ghg"],"created":"2025-10-23T17:42:41.358+01:00","updated":"2025-10-23T18:06:08.594+01:00"}
 ---
 
 #environment_ghg 

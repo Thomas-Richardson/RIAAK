@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-animals-are-kept/","created":"2024-07-17T10:51:07.103+01:00","updated":"2025-09-29T00:15:28.689+01:00"}
+{"dg-publish":true,"permalink":"/how-animals-are-kept/","tags":["#farming"],"created":"2025-10-23T17:42:41.298+01:00","updated":"2025-10-23T18:06:08.592+01:00"}
 ---
 
 #farming 

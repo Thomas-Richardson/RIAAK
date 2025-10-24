@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vegan-pets-could-be-much-better-for-the-environment/","created":"2024-03-10T16:27:04.000+00:00","updated":"2025-09-29T00:31:56.930+01:00"}
+{"dg-publish":true,"permalink":"/vegan-pets-could-be-much-better-for-the-environment/","tags":["#veganism","#companion_animals","#environment_misc","#pet_food"],"created":"2025-10-23T17:42:43.670+01:00","updated":"2025-10-23T18:06:08.673+01:00"}
 ---
 
 #veganism #companion_animals #environment_misc #pet_food 

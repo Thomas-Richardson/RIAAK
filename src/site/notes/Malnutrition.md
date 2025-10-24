@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/malnutrition/","created":"2024-04-25T12:47:11.000+01:00","updated":"2025-10-10T23:44:14.593+01:00"}
+{"dg-publish":true,"permalink":"/malnutrition/","tags":["#health_nutrition","#mfa_food_sec"],"created":"2025-10-23T17:42:47.746+01:00","updated":"2025-10-23T18:06:08.732+01:00"}
 ---
 
 #health_nutrition #mfa_food_sec 

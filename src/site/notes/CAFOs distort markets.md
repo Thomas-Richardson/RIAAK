@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/caf-os-distort-markets/","tags":["factory_farming","economics"],"created":"2024-04-23T14:22:04.000+01:00","updated":"2025-10-10T23:52:36.143+01:00"}
+{"dg-publish":true,"permalink":"/caf-os-distort-markets/","tags":["#animal_feed - factory_farming - economics","#factory_farming"],"created":"2025-10-23T17:42:42.969+01:00","updated":"2025-10-23T19:18:51.094+01:00"}
 ---
 
 #factory_farming 

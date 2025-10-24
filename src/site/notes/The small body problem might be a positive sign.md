@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-small-body-problem-might-be-a-positive-sign/","created":"2024-11-25T00:00:22.698+00:00","updated":"2025-09-29T00:30:50.279+01:00"}
+{"dg-publish":true,"permalink":"/the-small-body-problem-might-be-a-positive-sign/","tags":["#fish","#chicken"],"created":"2025-10-23T17:42:41.919+01:00","updated":"2025-10-23T18:06:08.616+01:00"}
 ---
 
 #fish #chicken 

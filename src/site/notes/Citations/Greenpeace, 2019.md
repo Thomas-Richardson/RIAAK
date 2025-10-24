@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/greenpeace-2019/","created":"2024-07-15T21:21:33.510+01:00","updated":"2025-10-10T23:56:58.767+01:00"}
+{"dg-publish":true,"permalink":"/citations/greenpeace-2019/","tags":["#animal_feed","#citation"],"created":"2025-10-23T17:42:45.259+01:00","updated":"2025-10-23T19:18:51.110+01:00"}
 ---
 
 #citation 

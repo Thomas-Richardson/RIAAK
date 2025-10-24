@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/plant-based-diets-and-obesity/","created":"2024-04-22T13:00:53.000+01:00","updated":"2025-09-29T00:21:46.652+01:00"}
+{"dg-publish":true,"permalink":"/plant-based-diets-and-obesity/","tags":["#veganism","#health_nutrition"],"created":"2025-10-23T17:42:43.373+01:00","updated":"2025-10-23T18:06:08.668+01:00"}
 ---
 
 #veganism #health_nutrition

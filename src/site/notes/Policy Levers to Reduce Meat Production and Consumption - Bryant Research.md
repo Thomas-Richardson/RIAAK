@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/policy-levers-to-reduce-meat-production-and-consumption-bryant-research/","created":"2024-10-16T12:28:43.057+01:00","updated":"2025-09-29T00:21:55.114+01:00"}
+{"dg-publish":true,"permalink":"/policy-levers-to-reduce-meat-production-and-consumption-bryant-research/","tags":["#bryant_insight"],"created":"2025-10-23T17:42:44.125+01:00","updated":"2025-10-23T18:06:08.692+01:00"}
 ---
 
 author:: Bryant Research

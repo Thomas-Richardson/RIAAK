@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mfa-farmed-animal-opportunity-index/","created":"2024-06-08T14:27:54.059+01:00","updated":"2025-09-29T00:19:56.868+01:00"}
+{"dg-publish":true,"permalink":"/mfa-farmed-animal-opportunity-index/","tags":["#data"],"created":"2025-10-23T17:42:47.239+01:00","updated":"2025-10-23T18:06:08.705+01:00"}
 ---
 
 #data 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/herforth-et-al-2022/","created":"2024-04-22T12:54:24.000+01:00","updated":"2025-09-28T23:47:05.314+01:00"}
+{"dg-publish":true,"permalink":"/citations/herforth-et-al-2022/","tags":["#citation","#economics","#health_nutrition"],"created":"2025-10-23T17:42:46.487+01:00","updated":"2025-10-23T18:06:08.942+01:00"}
 ---
 
  #citation #economics #health_nutrition  

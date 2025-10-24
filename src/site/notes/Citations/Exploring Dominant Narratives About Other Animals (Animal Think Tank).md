@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/exploring-dominant-narratives-about-other-animals-animal-think-tank/","created":"2025-10-23T15:23:14.740+01:00","updated":"2025-10-23T15:23:14.741+01:00"}
+{"dg-publish":true,"permalink":"/citations/exploring-dominant-narratives-about-other-animals-animal-think-tank/","created":"2025-10-23T17:42:46.197+01:00","updated":"2025-10-23T17:42:46.197+01:00"}
 ---
 
 

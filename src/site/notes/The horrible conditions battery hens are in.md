@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-horrible-conditions-battery-hens-are-in/","created":"2024-03-10T17:02:43.000+00:00","updated":"2025-09-29T00:30:16.462+01:00"}
+{"dg-publish":true,"permalink":"/the-horrible-conditions-battery-hens-are-in/","tags":["#chickens","#chicken","#eggs"],"created":"2025-10-23T17:42:48.001+01:00","updated":"2025-10-23T18:06:08.741+01:00"}
 ---
 
 #chickens #chicken  #eggs 

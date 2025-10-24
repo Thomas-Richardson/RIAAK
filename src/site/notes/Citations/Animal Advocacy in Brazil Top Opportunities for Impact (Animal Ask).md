@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/animal-advocacy-in-brazil-top-opportunities-for-impact-animal-ask/","created":"2025-10-01T10:12:13.647+01:00","updated":"2025-10-01T10:53:06.746+01:00"}
+{"dg-publish":true,"permalink":"/citations/animal-advocacy-in-brazil-top-opportunities-for-impact-animal-ask/","tags":["#animal_feed"],"created":"2025-10-23T17:42:44.929+01:00","updated":"2025-10-23T19:18:51.104+01:00"}
 ---
 
 For animal advocates, Brazil is a country of major opportunity but also major challenges. In a global context the scale of animal production in Brazil is immense. The dispersal of power between a range of different stakeholders in Brazil provides the animal advocacy movement with many avenues for impact. Nevertheless, Brazil also brings unique political and industrial challenges that need to be taken seriously.

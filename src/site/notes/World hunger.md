@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-hunger/","created":"2024-04-25T12:40:15.000+01:00","updated":"2025-09-29T00:33:06.581+01:00"}
+{"dg-publish":true,"permalink":"/world-hunger/","tags":["#mfa_food_sec","#health_nutrition","#lower_middle_income_countries"],"created":"2025-10-23T17:42:41.508+01:00","updated":"2025-10-23T18:06:08.600+01:00"}
 ---
 
 #mfa_food_sec #health_nutrition #lower_middle_income_countries 

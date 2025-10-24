@@ -1,12 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/blogs-and-articles/tactics-in-practice-the-science-of-protests-and-demonstrations/","created":"2025-09-28T03:17:44.400+01:00","updated":"2025-10-10T23:52:55.947+01:00"}
+{"dg-publish":true,"permalink":"/blogs-and-articles/tactics-in-practice-the-science-of-protests-and-demonstrations/","created":"2025-10-23T17:42:47.574+01:00","updated":"2025-10-23T18:06:08.976+01:00"}
 ---
 
 [Photo by Chuko Cribb on Unsplash](https://unsplash.com/photos/woman-in-white-long-sleeve-shirt-and-black-skirt-sitting-on-chair-G7o5XQcykBI)
-
-![](https://faunalytics.org/wp-content/uploads/2025/06/protest-animal-liberation.jpg)
-
-[X](https://faunalytics.org/#x "X") [LinkedIn](https://faunalytics.org/#linkedin "LinkedIn") [Email](https://faunalytics.org/#email "Email")
 
 We delve into the research behind protests as a tactic, providing a thorough look at what makes them work — and what makes them backfire.
 

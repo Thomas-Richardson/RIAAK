@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/do-grass-fed-beef-and-hunting-kill-fewer-animals-than-a-vegan-diet/","tags":["grass_fed_cattle"],"created":"2025-01-01T21:01:04.015+00:00","updated":"2025-10-23T10:53:12.100+01:00"}
+{"dg-publish":true,"permalink":"/do-grass-fed-beef-and-hunting-kill-fewer-animals-than-a-vegan-diet/","tags":["#grass_fed_cattle"],"created":"2025-10-23T17:42:41.492+01:00","updated":"2025-10-23T18:06:08.599+01:00"}
 ---
-
 
 - [[Grass fed cattle MOC\|Grass fed cattle MOC]]
 - [[Grass fed beef is not better for the environment\|Grass fed beef is not better for the environment]]

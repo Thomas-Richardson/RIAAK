@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classifying-livestock-systems/","created":"2024-03-31T19:24:17.000+01:00","updated":"2025-09-28T23:49:20.582+01:00"}
+{"dg-publish":true,"permalink":"/classifying-livestock-systems/","tags":["#animal_feed","#mfa_food_sec"],"created":"2025-10-23T17:42:42.763+01:00","updated":"2025-10-23T19:18:51.203+01:00"}
 ---
 
 #mfa_food_sec 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/change-in-demand-for-animal-products-worldwide/","created":"2024-04-18T15:59:31.000+01:00","updated":"2025-09-28T23:46:49.462+01:00"}
+{"dg-publish":true,"permalink":"/change-in-demand-for-animal-products-worldwide/","tags":["#mfa_food_sec","#meat","#chicken","#high_income_countries"],"created":"2025-10-23T17:42:41.654+01:00","updated":"2025-10-23T18:06:08.608+01:00"}
 ---
 
 #mfa_food_sec #meat 

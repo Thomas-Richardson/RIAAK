@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/using-shareholder-activism-to-help-animals-animal-ask/","created":"2025-10-01T10:13:24.627+01:00","updated":"2025-10-01T10:53:43.457+01:00"}
+{"dg-publish":true,"permalink":"/citations/using-shareholder-activism-to-help-animals-animal-ask/","created":"2025-10-23T17:42:44.909+01:00","updated":"2025-10-23T17:42:44.910+01:00"}
 ---
 
 Shareholder activism (1) is a method of achieving change by buying the shares of corporations and leveraging the rights associated with that partial ownership. It has seen increasing use over the years, including many cases where the principal motivation is the public good, rather than corporate reform to maximise shareholder profit.

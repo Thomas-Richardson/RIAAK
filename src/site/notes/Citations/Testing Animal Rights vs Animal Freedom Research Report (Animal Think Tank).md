@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/testing-animal-rights-vs-animal-freedom-research-report-animal-think-tank/","created":"2025-10-23T15:10:11.946+01:00","updated":"2025-10-23T15:10:11.946+01:00"}
+{"dg-publish":true,"permalink":"/citations/testing-animal-rights-vs-animal-freedom-research-report-animal-think-tank/","created":"2025-10-23T17:42:44.576+01:00","updated":"2025-10-23T17:42:44.577+01:00"}
 ---
 
 

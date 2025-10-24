@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/plant-based-schools/","created":"2024-04-21T15:07:16.000+01:00","updated":"2025-09-29T00:21:52.889+01:00"}
+{"dg-publish":true,"permalink":"/plant-based-schools/","created":"2025-10-23T17:42:43.143+01:00","updated":"2025-10-23T18:06:08.661+01:00"}
 ---
-
 
 - [[Plant-based hospitals\|Plant-based hospitals]]
 - [[The plant based councils campaign\|The plant based councils campaign]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/more-fish-reading/","created":"2024-10-28T11:17:03.597+00:00","updated":"2025-09-29T00:20:12.021+01:00"}
+{"dg-publish":true,"permalink":"/more-fish-reading/","tags":["#fish"],"created":"2025-10-23T17:42:43.429+01:00","updated":"2025-10-23T18:06:08.669+01:00"}
 ---
 
 #fish 

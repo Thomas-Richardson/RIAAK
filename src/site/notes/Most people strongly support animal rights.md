@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/most-people-strongly-support-animal-rights/","created":"2024-03-26T11:35:47.000+00:00","updated":"2025-09-29T00:20:23.772+01:00"}
+{"dg-publish":true,"permalink":"/most-people-strongly-support-animal-rights/","tags":["#animal_welfare","#consumer_attitudes","#policy"],"created":"2025-10-23T17:42:47.449+01:00","updated":"2025-10-23T18:06:08.715+01:00"}
 ---
 
 #animal_welfare #consumer_attitudes 

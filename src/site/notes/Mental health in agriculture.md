@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mental-health-in-agriculture/","created":"2024-12-19T15:30:07.979+00:00","updated":"2025-09-29T00:19:54.431+01:00"}
+{"dg-publish":true,"permalink":"/mental-health-in-agriculture/","tags":["#farmers","#food_security"],"created":"2025-10-23T17:42:43.057+01:00","updated":"2025-10-23T18:06:08.656+01:00"}
 ---
 
 #farmers #food_security 

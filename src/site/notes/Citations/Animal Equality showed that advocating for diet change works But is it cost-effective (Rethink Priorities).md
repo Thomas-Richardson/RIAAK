@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/animal-equality-showed-that-advocating-for-diet-change-works-but-is-it-cost-effective-rethink-priorities/","tags":["strategy"],"created":"2025-10-23T11:48:28.562+01:00","updated":"2025-10-23T11:48:28.600+01:00"}
+{"dg-publish":true,"permalink":"/citations/animal-equality-showed-that-advocating-for-diet-change-works-but-is-it-cost-effective-rethink-priorities/","tags":["#strategy"],"created":"2025-10-23T17:42:46.887+01:00","updated":"2025-10-23T18:12:10.264+01:00"}
 ---
 
 Animal Equality and Faunalytics put together a field study testing individual video outreach on belief and diet change. They found statistically significant results on both. Together with the Reducetarian study, we now think there is sufficient evidence to establish that individual outreach may work to produce positive change for nonhuman animals. However, evidence in this study points to an estimate of $310 per pig year saved (90% interval: $46 to $1100), which is worse than human-focused interventions even from a species neutral perspective. More analysis would be needed to see how individual outreach compares to other interventions in animal advocacy or in other cause areas.

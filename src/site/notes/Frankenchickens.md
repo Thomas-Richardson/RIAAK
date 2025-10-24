@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/frankenchickens/","created":"2024-10-16T09:36:55.722+01:00","updated":"2025-09-28T23:53:28.365+01:00"}
+{"dg-publish":true,"permalink":"/frankenchickens/","tags":["#factory_farming","#chickens"],"created":"2025-10-23T17:42:42.906+01:00","updated":"2025-10-23T18:06:08.646+01:00"}
 ---
 
 #factory_farming #chickens 

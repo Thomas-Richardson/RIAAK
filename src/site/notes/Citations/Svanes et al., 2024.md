@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/svanes-et-al-2024/","created":"2024-03-28T12:34:14.000+00:00","updated":"2025-09-28T23:49:00.461+01:00"}
+{"dg-publish":true,"permalink":"/citations/svanes-et-al-2024/","tags":["#animal_feed","#citation","#environment_misc"],"created":"2025-10-23T17:42:45.276+01:00","updated":"2025-10-23T19:18:51.119+01:00"}
 ---
 
 #citation #environment_misc 

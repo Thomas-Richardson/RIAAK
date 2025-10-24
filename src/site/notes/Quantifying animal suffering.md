@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quantifying-animal-suffering/","created":"2024-05-27T21:08:05.184+01:00","updated":"2025-09-29T00:22:44.056+01:00"}
+{"dg-publish":true,"permalink":"/quantifying-animal-suffering/","tags":["#effective_altruism","#animal_welfare"],"created":"2025-10-23T17:42:41.238+01:00","updated":"2025-10-23T18:06:08.590+01:00"}
 ---
 
 #effective_altruism #animal_welfare 

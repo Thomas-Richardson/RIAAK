@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/does-living-near-a-mega-farm-affect-your-house-price-a-uk-analysis/","created":"2024-09-11T14:48:41.050+01:00","updated":"2025-09-28T23:50:41.548+01:00"}
+{"dg-publish":true,"permalink":"/does-living-near-a-mega-farm-affect-your-house-price-a-uk-analysis/","tags":["#animal_feed","#factory_farming","#uk"],"created":"2025-10-23T17:42:41.402+01:00","updated":"2025-10-23T19:18:51.135+01:00"}
 ---
 
 #factory_farming #uk 

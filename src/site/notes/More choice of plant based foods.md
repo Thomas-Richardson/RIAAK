@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/more-choice-of-plant-based-foods/","created":"2024-03-10T16:35:13.000+00:00","updated":"2025-09-29T00:20:10.605+01:00"}
+{"dg-publish":true,"permalink":"/more-choice-of-plant-based-foods/","tags":["#veganism","#behaviour_change"],"created":"2025-10-23T17:42:47.218+01:00","updated":"2025-10-23T18:06:08.704+01:00"}
 ---
 
 #veganism #behaviour_change 

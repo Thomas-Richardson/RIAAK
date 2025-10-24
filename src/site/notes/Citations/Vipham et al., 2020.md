@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/vipham-et-al-2020/","created":"2024-04-24T09:27:52.000+01:00","updated":"2025-09-28T23:49:12.863+01:00"}
+{"dg-publish":true,"permalink":"/citations/vipham-et-al-2020/","tags":["#citation","#mfa_food_sec","#health_disease","#farming"],"created":"2025-10-23T17:42:46.034+01:00","updated":"2025-10-23T18:06:08.915+01:00"}
 ---
 
 #citation #mfa_food_sec #health_disease  #farming 

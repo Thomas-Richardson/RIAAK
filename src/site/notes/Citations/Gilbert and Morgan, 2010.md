@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/gilbert-and-morgan-2010/","created":"2024-03-17T15:25:40.000+00:00","updated":"2025-09-28T23:46:57.215+01:00"}
+{"dg-publish":true,"permalink":"/citations/gilbert-and-morgan-2010/","tags":["#citation","#economics","#meat"],"created":"2025-10-23T17:42:46.934+01:00","updated":"2025-10-23T18:06:08.964+01:00"}
 ---
 
 #citation  #economics #meat 

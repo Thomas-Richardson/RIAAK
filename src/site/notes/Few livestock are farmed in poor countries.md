@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/few-livestock-are-farmed-in-poor-countries/","created":"2024-03-10T17:13:36.000+00:00","updated":"2025-09-28T23:52:38.233+01:00"}
+{"dg-publish":true,"permalink":"/few-livestock-are-farmed-in-poor-countries/","tags":["#farming","#lower_middle_income_countries"],"created":"2025-10-23T17:42:42.704+01:00","updated":"2025-10-23T18:06:08.637+01:00"}
 ---
 
 #farming #lower_middle_income_countries

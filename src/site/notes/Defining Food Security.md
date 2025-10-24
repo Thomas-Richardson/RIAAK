@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/defining-food-security/","created":"2024-09-05T16:26:18.508+01:00","updated":"2025-09-28T23:50:02.841+01:00"}
+{"dg-publish":true,"permalink":"/defining-food-security/","tags":["#mfa_food_sec"],"created":"2025-10-23T17:42:43.335+01:00","updated":"2025-10-23T18:06:08.667+01:00"}
 ---
 
 #mfa_food_sec 

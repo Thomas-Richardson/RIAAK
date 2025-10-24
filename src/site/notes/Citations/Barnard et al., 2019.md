@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/barnard-et-al-2019/","created":"2024-10-17T12:10:17.751+01:00","updated":"2025-09-28T23:39:12.775+01:00"}
+{"dg-publish":true,"permalink":"/citations/barnard-et-al-2019/","tags":["#citation","#eggs","#health_nutrition"],"created":"2025-10-23T17:42:44.198+01:00","updated":"2025-10-23T18:06:08.765+01:00"}
 ---
 
 #citation #eggs #health_nutrition 

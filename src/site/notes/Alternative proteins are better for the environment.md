@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/alternative-proteins-are-better-for-the-environment/","tags":["alternative_proteins","cultivated_meat","environment_ghg","environment_land","plant_based_alternative_proteins"],"created":"2025-10-22T22:53:55.470+01:00","updated":"2025-10-22T22:53:55.471+01:00"}
+{"dg-publish":true,"permalink":"/alternative-proteins-are-better-for-the-environment/","tags":["#animal_feed - alternative_proteins - cultivated_meat - environment_ghg - environment_land - plant_based_alternative_proteins"],"created":"2025-10-23T17:42:42.018+01:00","updated":"2025-10-23T19:18:51.079+01:00"}
 ---
- 
 
 See also: [[BSG, 2022\|BSG, 2022]]
 
@@ -51,7 +50,6 @@ GFI LCAs:
 additional processing accounts for only 13%–26% of plant-based meat’s climate impact ([GFI, 2021](https://gfi.org/wp-content/uploads/2021/02/GFI-Plant-Based-Meat-Fact-Sheet_Environmental-Comparison.pdf)).
 
 ## Related
-- [[Plant Based Animal Product Alternatives Healthier and More Environmentally Friendly\|Plant Based Animal Product Alternatives Healthier and More Environmentally Friendly]]
 - [[Going vegan is good for the environment\|Going vegan is good for the environment]]
 - [[Alt proteins are underfunded\|Alt proteins are underfunded]]
 ## Reading

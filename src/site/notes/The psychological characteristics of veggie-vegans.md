@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-psychological-characteristics-of-veggie-vegans/","created":"2023-11-23T17:09:42.000+00:00","updated":"2025-09-29T00:30:44.296+01:00"}
+{"dg-publish":true,"permalink":"/the-psychological-characteristics-of-veggie-vegans/","tags":["#psychology","#veganism"],"created":"2025-10-23T17:42:47.954+01:00","updated":"2025-10-23T18:06:08.739+01:00"}
 ---
 
 #psychology #veganism 

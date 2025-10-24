@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/social-change-misc/","created":"2024-05-09T13:56:56.621+01:00","updated":"2025-09-29T00:29:18.646+01:00"}
+{"dg-publish":true,"permalink":"/social-change-misc/","tags":["#animal_advocacy","#politics"],"created":"2025-10-23T17:42:43.821+01:00","updated":"2025-10-23T18:06:08.680+01:00"}
 ---
 
 #animal_advocacy #politics 

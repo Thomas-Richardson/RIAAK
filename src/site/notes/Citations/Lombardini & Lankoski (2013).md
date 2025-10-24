@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/lombardini-and-lankoski-2013/","created":"2024-03-10T16:35:13.000+00:00","updated":"2025-09-28T23:47:33.998+01:00"}
+{"dg-publish":true,"permalink":"/citations/lombardini-and-lankoski-2013/","tags":["#veganism","#behaviour_change","#citation"],"created":"2025-10-23T17:42:45.182+01:00","updated":"2025-10-23T18:06:08.822+01:00"}
 ---
 
 #veganism #behaviour_change #citation 

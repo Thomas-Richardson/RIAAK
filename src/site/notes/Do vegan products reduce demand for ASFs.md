@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/do-vegan-products-reduce-demand-for-as-fs/","created":"2024-03-14T15:15:43.000+00:00","updated":"2025-09-28T23:50:24.924+01:00"}
+{"dg-publish":true,"permalink":"/do-vegan-products-reduce-demand-for-as-fs/","tags":["#meat","#alternative_proteins","#economics"],"created":"2025-10-23T17:42:47.506+01:00","updated":"2025-10-23T18:06:08.722+01:00"}
 ---
 
 #meat #alternative_proteins #economics 

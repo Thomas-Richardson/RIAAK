@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mikhail-et-al-2024/","created":"2025-03-16T22:30:51.057+00:00","updated":"2025-09-29T00:29:03.492+01:00"}
+{"dg-publish":true,"permalink":"/mikhail-et-al-2024/","tags":["#citation","#Sinergia_defunding_project"],"created":"2025-10-23T17:42:47.385+01:00","updated":"2025-10-23T18:06:08.712+01:00"}
 ---
 
 #citation #Sinergia_defunding_project 

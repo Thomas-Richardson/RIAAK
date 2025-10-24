@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/meat-free-mondays/","created":"2024-04-05T15:02:22.000+01:00","updated":"2025-09-29T00:19:46.379+01:00"}
+{"dg-publish":true,"permalink":"/meat-free-mondays/","tags":["#veganism","#behaviour_change","#project_idea"],"created":"2025-10-23T17:42:43.070+01:00","updated":"2025-10-23T18:06:08.657+01:00"}
 ---
 
 #veganism #behaviour_change 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/improving-hen-welfare/","created":"2024-10-23T15:22:58.158+01:00","updated":"2025-09-29T00:15:47.259+01:00"}
+{"dg-publish":true,"permalink":"/improving-hen-welfare/","tags":["#chicken","#animal_welfare"],"created":"2025-10-23T17:42:47.274+01:00","updated":"2025-10-23T18:06:08.706+01:00"}
 ---
 
 #chicken #animal_welfare 

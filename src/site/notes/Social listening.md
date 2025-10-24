@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/social-listening/","created":"2024-04-30T19:30:17.000+01:00","updated":"2025-09-29T00:29:24.029+01:00"}
+{"dg-publish":true,"permalink":"/social-listening/","tags":["#research_methods"],"created":"2025-10-23T17:42:42.683+01:00","updated":"2025-10-23T18:06:08.637+01:00"}
 ---
 
 #research_methods

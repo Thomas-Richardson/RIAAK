@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/riaak-faq/","created":"2024-04-07T16:16:56.000+01:00","updated":"2025-10-23T10:29:15.469+01:00"}
+{"dg-publish":true,"permalink":"/riaak-faq/","created":"2025-10-23T17:42:42.035+01:00","updated":"2025-10-23T17:42:42.036+01:00"}
 ---
 
 - [[RIAAK Home page\|RIAAK Home page]]

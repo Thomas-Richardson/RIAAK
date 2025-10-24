@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lidl-germany-price-parity-experiment/","created":"2024-01-30T22:48:47.290+00:00","updated":"2025-09-29T00:19:27.263+01:00"}
+{"dg-publish":true,"permalink":"/lidl-germany-price-parity-experiment/","tags":["#case_study","#veganism"],"created":"2025-10-23T17:42:47.321+01:00","updated":"2025-10-23T18:06:08.708+01:00"}
 ---
 
 #case_study #veganism 

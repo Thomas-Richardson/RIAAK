@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-lie-of-regenerative-animal-agriculture/","created":"2024-03-10T17:06:44.000+00:00","updated":"2025-09-29T00:30:21.643+01:00"}
+{"dg-publish":true,"permalink":"/the-lie-of-regenerative-animal-agriculture/","tags":["#wild_animals","#animal_advocacy","#farming"],"created":"2025-10-23T17:42:42.811+01:00","updated":"2025-10-23T19:20:34.080+01:00"}
 ---
 
 #animal_advocacy #farming 

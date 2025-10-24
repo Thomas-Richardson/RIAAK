@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-additional-uk-population-that-could-be-supported-if-we-transitioned-away-from-factory-farming/","tags":["#uk"],"created":"2025-01-03T21:07:41.476+00:00","updated":"2025-10-10T23:34:32.433+01:00"}
+{"dg-publish":true,"permalink":"/the-additional-uk-population-that-could-be-supported-if-we-transitioned-away-from-factory-farming/","tags":["#uk","#cawf_food_sec"],"created":"2025-10-23T17:42:42.782+01:00","updated":"2025-10-23T18:06:08.639+01:00"}
 ---
 
 #cawf_food_sec 

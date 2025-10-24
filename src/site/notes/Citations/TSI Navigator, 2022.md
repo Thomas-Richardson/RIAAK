@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/tsi-navigator-2022/","created":"2024-06-21T14:30:57.748+01:00","updated":"2025-10-10T23:59:44.587+01:00"}
+{"dg-publish":true,"permalink":"/citations/tsi-navigator-2022/","tags":["#asia","#good_growth_social_listening","#citation"],"created":"2025-10-23T17:42:44.653+01:00","updated":"2025-10-23T18:06:08.789+01:00"}
 ---
 
 #asia #good_growth_social_listening #citation

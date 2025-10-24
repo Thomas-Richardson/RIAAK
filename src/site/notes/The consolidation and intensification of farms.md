@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-consolidation-and-intensification-of-farms/","created":"2025-10-23T12:01:42.238+01:00","updated":"2025-10-23T12:01:42.238+01:00"}
+{"dg-publish":true,"permalink":"/the-consolidation-and-intensification-of-farms/","tags":["#animal_feed","#factory_farming","#usa","#lower_middle_income_countries"],"created":"2025-10-23T17:42:43.114+01:00","updated":"2025-10-23T19:18:51.181+01:00"}
 ---
 
 #factory_farming #usa 

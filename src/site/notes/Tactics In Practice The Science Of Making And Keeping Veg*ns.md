@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tactics-in-practice-the-science-of-making-and-keeping-veg-ns/","created":"2025-09-28T18:08:38.389+01:00","updated":"2025-09-29T00:29:40.696+01:00"}
+{"dg-publish":true,"permalink":"/tactics-in-practice-the-science-of-making-and-keeping-veg-ns/","created":"2025-10-23T17:42:47.329+01:00","updated":"2025-10-23T18:06:08.709+01:00"}
 ---
 
 [Photo by Alora Griffiths on Unsplash](https://unsplash.com/photos/woman-eats-burger-bOAI4f9_lBE)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/white-striping-disease-in-supermarket-chicken-the-humane-league/","created":"2025-10-23T11:44:57.626+01:00","updated":"2025-10-23T11:44:57.626+01:00"}
+{"dg-publish":true,"permalink":"/citations/white-striping-disease-in-supermarket-chicken-the-humane-league/","created":"2025-10-23T17:42:46.425+01:00","updated":"2025-10-23T17:42:46.426+01:00"}
 ---
 
 

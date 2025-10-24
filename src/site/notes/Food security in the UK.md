@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/food-security-in-the-uk/","tags":["food_security","uk","cawf_food_sec","cultivated_meat","environment_land"],"created":"2025-10-23T09:44:27.707+01:00","updated":"2025-10-23T09:44:27.707+01:00"}
+{"dg-publish":true,"permalink":"/food-security-in-the-uk/","tags":["#animal_feed - food_security - uk - cawf_food_sec - cultivated_meat - environment_land","#farmers"],"created":"2025-10-23T17:42:42.845+01:00","updated":"2025-10-23T19:18:51.143+01:00"}
 ---
- 
 
 - [[Farming Evidence Pack (DEFRA)\|Farming Evidence Pack (DEFRA)]] 
 A key topic in the [conservative's 2024 manifesto](https://public.conservatives.com/static/documents/GE2024/Conservative-Manifesto-GE2024.pdf)

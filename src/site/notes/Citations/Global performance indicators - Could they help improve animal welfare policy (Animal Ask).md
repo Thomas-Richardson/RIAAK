@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/global-performance-indicators-could-they-help-improve-animal-welfare-policy-animal-ask/","created":"2025-10-01T10:15:08.954+01:00","updated":"2025-10-01T10:53:27.925+01:00"}
+{"dg-publish":true,"permalink":"/citations/global-performance-indicators-could-they-help-improve-animal-welfare-policy-animal-ask/","created":"2025-10-23T17:42:46.498+01:00","updated":"2025-10-23T17:42:46.499+01:00"}
 ---
 
 Global performance indicators (GPIs) are sets of rankings in which the performance of various countries or states in a given policy area are compared. GPIs can be used to stimulate competition between countries or states, thereby placing pressure on policymakers to enact particular policy reforms.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/golub-et-al-2012/","created":"2024-02-07T22:58:02.000+00:00","updated":"2025-09-28T23:46:59.479+01:00"}
+{"dg-publish":true,"permalink":"/citations/golub-et-al-2012/","tags":["#citation","#environment_misc","#farming"],"created":"2025-10-23T17:42:45.713+01:00","updated":"2025-10-23T18:06:08.896+01:00"}
 ---
 
 #citation #environment_misc #farming 

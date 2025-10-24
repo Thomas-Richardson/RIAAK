@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wool/","created":"2024-03-21T15:33:19.000+00:00","updated":"2025-09-29T00:33:05.817+01:00"}
+{"dg-publish":true,"permalink":"/wool/","tags":["#wild_animals","#animal_advocacy","#materials","#environment_misc"],"created":"2025-10-23T17:42:41.227+01:00","updated":"2025-10-23T19:20:34.084+01:00"}
 ---
 
 #animal_advocacy #materials 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/gerbens-leenes-et-al-2013/","tags":["environment_land"],"created":"2025-10-23T09:44:48.613+01:00","updated":"2025-10-23T09:44:48.613+01:00"}
+{"dg-publish":true,"permalink":"/citations/gerbens-leenes-et-al-2013/","tags":["#animal_feed - environment_land","#citation","#environment_misc","#meat","#factory_farming"],"created":"2025-10-23T17:42:44.403+01:00","updated":"2025-10-23T19:18:51.109+01:00"}
 ---
 
 #citation  #environment_misc #meat #factory_farming 

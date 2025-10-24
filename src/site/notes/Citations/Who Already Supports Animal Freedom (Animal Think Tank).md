@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/who-already-supports-animal-freedom-animal-think-tank/","created":"2025-10-23T15:27:46.325+01:00","updated":"2025-10-23T15:27:46.326+01:00"}
+{"dg-publish":true,"permalink":"/citations/who-already-supports-animal-freedom-animal-think-tank/","created":"2025-10-23T17:42:46.553+01:00","updated":"2025-10-23T17:42:46.553+01:00"}
 ---
 
 

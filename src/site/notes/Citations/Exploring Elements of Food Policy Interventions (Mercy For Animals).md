@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/exploring-elements-of-food-policy-interventions-mercy-for-animals/","created":"2025-10-23T14:55:50.624+01:00","updated":"2025-10-23T14:55:50.624+01:00"}
+{"dg-publish":true,"permalink":"/citations/exploring-elements-of-food-policy-interventions-mercy-for-animals/","created":"2025-10-23T17:42:45.704+01:00","updated":"2025-10-23T17:42:45.704+01:00"}
 ---
 
 

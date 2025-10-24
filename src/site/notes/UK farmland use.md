@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uk-farmland-use/","created":"2024-07-22T20:29:36.702+01:00","updated":"2025-10-01T19:25:02.371+01:00"}
+{"dg-publish":true,"permalink":"/uk-farmland-use/","tags":["#farming","#uk"],"created":"2025-10-23T17:42:42.949+01:00","updated":"2025-10-23T18:06:08.648+01:00"}
 ---
 
 #farming #uk 

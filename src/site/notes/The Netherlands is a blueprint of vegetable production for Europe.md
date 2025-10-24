@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-netherlands-is-a-blueprint-of-vegetable-production-for-europe/","created":"2024-12-17T11:29:59.729+00:00","updated":"2025-09-29T00:30:24.546+01:00"}
+{"dg-publish":true,"permalink":"/the-netherlands-is-a-blueprint-of-vegetable-production-for-europe/","tags":["#animal_feed","#europe","#food_security","#cawf_food_sec"],"created":"2025-10-23T17:42:41.366+01:00","updated":"2025-10-23T19:18:51.180+01:00"}
 ---
 
 #europe #food_security #cawf_food_sec 

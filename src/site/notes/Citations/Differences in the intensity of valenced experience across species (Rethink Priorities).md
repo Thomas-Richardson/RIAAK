@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/differences-in-the-intensity-of-valenced-experience-across-species-rethink-priorities/","tags":["#sentience"],"created":"2025-10-23T14:18:52.542+01:00","updated":"2025-10-23T14:18:52.601+01:00"}
+{"dg-publish":true,"permalink":"/citations/differences-in-the-intensity-of-valenced-experience-across-species-rethink-priorities/","tags":["#sentience"],"created":"2025-10-23T17:42:45.657+01:00","updated":"2025-10-23T18:12:10.220+01:00"}
 ---
 
 ## Key Highlights

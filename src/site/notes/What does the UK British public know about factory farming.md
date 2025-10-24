@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/what-does-the-uk-british-public-know-about-factory-farming/","tags":["uk","consumer_attitudes","factory_farming"],"created":"2025-03-06T14:03:59.461+00:00","updated":"2025-10-10T23:34:59.694+01:00"}
+{"dg-publish":true,"permalink":"/what-does-the-uk-british-public-know-about-factory-farming/","tags":["#uk","#consumer_attitudes","#factory_farming"],"created":"2025-10-23T17:42:42.458+01:00","updated":"2025-10-23T18:06:08.636+01:00"}
 ---
 
 #uk #consumer_attitudes 

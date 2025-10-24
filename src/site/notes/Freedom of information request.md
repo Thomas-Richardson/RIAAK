@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/freedom-of-information-request/","created":"2024-04-11T14:57:16.000+01:00","updated":"2025-09-28T23:53:29.048+01:00"}
+{"dg-publish":true,"permalink":"/freedom-of-information-request/","tags":["#data"],"created":"2025-10-23T17:42:42.358+01:00","updated":"2025-10-23T18:06:08.631+01:00"}
 ---
 
 #data 

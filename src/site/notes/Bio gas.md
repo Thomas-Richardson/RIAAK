@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bio-gas/","created":"2024-03-21T13:45:03.000+00:00","updated":"2025-10-10T23:50:18.636+01:00"}
+{"dg-publish":true,"permalink":"/bio-gas/","tags":["#environment_ghg","#environment_pollution","#factory_farming"],"created":"2025-10-23T17:42:42.883+01:00","updated":"2025-10-23T18:06:08.645+01:00"}
 ---
 
 #environment_ghg #environment_pollution  #factory_farming 

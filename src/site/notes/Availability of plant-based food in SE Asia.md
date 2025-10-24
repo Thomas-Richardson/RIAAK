@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/availability-of-plant-based-food-in-se-asia/","tags":["asia","plant_based_alternative_proteins"],"created":"2025-10-22T22:53:31.221+01:00","updated":"2025-10-22T22:53:31.221+01:00"}
+{"dg-publish":true,"permalink":"/availability-of-plant-based-food-in-se-asia/","tags":["#asia","#plant_based_alternative_proteins"],"created":"2025-10-23T17:42:43.147+01:00","updated":"2025-10-23T17:42:43.148+01:00"}
 ---
  
 

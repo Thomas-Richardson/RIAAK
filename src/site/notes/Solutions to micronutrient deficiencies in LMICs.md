@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/solutions-to-micronutrient-deficiencies-in-lmi-cs/","tags":["#health_nutrition","#lower_middle_income_countries"],"created":"2024-04-25T12:40:15.000+01:00","updated":"2025-10-10T23:43:16.152+01:00"}
+{"dg-publish":true,"permalink":"/solutions-to-micronutrient-deficiencies-in-lmi-cs/","tags":["#health_nutrition","#lower_middle_income_countries"],"created":"2025-10-23T17:42:47.826+01:00","updated":"2025-10-23T17:42:47.826+01:00"}
 ---
 
 ## [[Future smart foods\|Future smart foods]]

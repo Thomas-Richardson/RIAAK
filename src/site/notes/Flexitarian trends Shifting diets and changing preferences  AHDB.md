@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/flexitarian-trends-shifting-diets-and-changing-preferences-ahdb/","created":"2025-10-21T09:44:05.919+01:00","updated":"2025-10-21T09:44:05.980+01:00"}
+{"dg-publish":true,"permalink":"/flexitarian-trends-shifting-diets-and-changing-preferences-ahdb/","created":"2025-10-23T17:42:41.329+01:00","updated":"2025-10-23T18:12:10.026+01:00"}
 ---
 
 *Thursday, 22 May 2025*

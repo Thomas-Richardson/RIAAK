@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uk-meat-consumption/","created":"2024-11-22T14:56:57.155+00:00","updated":"2025-09-29T00:31:18.095+01:00"}
+{"dg-publish":true,"permalink":"/uk-meat-consumption/","tags":["#uk","#meat"],"created":"2025-10-23T17:42:43.794+01:00","updated":"2025-10-23T18:06:08.679+01:00"}
 ---
 
 #uk #meat 

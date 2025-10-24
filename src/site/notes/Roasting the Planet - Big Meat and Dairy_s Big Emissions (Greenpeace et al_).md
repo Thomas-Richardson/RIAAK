@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/roasting-the-planet-big-meat-and-dairy-s-big-emissions-greenpeace-et-al/","created":"2025-10-20T21:23:29.393+01:00","updated":"2025-10-20T21:23:29.393+01:00"}
+{"dg-publish":true,"permalink":"/roasting-the-planet-big-meat-and-dairy-s-big-emissions-greenpeace-et-al/","created":"2025-10-23T17:42:41.943+01:00","updated":"2025-10-23T17:42:41.944+01:00"}
 ---
 
 

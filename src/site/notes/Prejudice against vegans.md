@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/prejudice-against-vegans/","created":"2024-10-19T22:11:53.493+01:00","updated":"2025-09-29T00:21:59.970+01:00"}
+{"dg-publish":true,"permalink":"/prejudice-against-vegans/","tags":["#veganism","#psychology"],"created":"2025-10-23T17:42:43.152+01:00","updated":"2025-10-23T18:06:08.661+01:00"}
 ---
 
 #veganism #psychology 

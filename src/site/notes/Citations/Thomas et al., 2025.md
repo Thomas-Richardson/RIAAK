@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/thomas-et-al-2025/","created":"2025-10-16T10:54:47.415+01:00","updated":"2025-10-16T11:01:43.175+01:00"}
+{"dg-publish":true,"permalink":"/citations/thomas-et-al-2025/","created":"2025-10-23T17:42:46.922+01:00","updated":"2025-10-23T18:12:10.265+01:00"}
 ---
 
 Here we investigate the impacts of media advocating plant-based diets. Search volume for popular films explains the majority of variance in searches for plant-based food, but is not associated with consumption. For three documentaries, we estimated that a standard deviation increase in searches for each film increases searches for plant-based food by up to 43% in the following week. Our findings can inform approaches for raising awareness of sustainable diets.

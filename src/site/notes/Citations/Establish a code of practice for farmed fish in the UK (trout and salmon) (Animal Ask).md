@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/establish-a-code-of-practice-for-farmed-fish-in-the-uk-trout-and-salmon-animal-ask/","created":"2025-10-01T10:38:33.140+01:00","updated":"2025-10-01T10:53:21.140+01:00"}
+{"dg-publish":true,"permalink":"/citations/establish-a-code-of-practice-for-farmed-fish-in-the-uk-trout-and-salmon-animal-ask/","created":"2025-10-23T17:42:44.964+01:00","updated":"2025-10-23T17:42:44.965+01:00"}
 ---
 
 ## OVERVIEW 

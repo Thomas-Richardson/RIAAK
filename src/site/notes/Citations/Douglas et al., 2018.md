@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/douglas-et-al-2018/","created":"2024-06-27T12:14:08.966+01:00","updated":"2025-09-28T23:40:38.149+01:00"}
+{"dg-publish":true,"permalink":"/citations/douglas-et-al-2018/","tags":["#citation","#health_disease","#factory_farming"],"created":"2025-10-23T17:42:45.524+01:00","updated":"2025-10-23T18:06:08.870+01:00"}
 ---
 
 #citation #health_disease  #factory_farming 

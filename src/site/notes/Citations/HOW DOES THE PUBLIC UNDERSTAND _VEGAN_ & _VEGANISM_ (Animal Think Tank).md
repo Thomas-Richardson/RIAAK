@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/how-does-the-public-understand-vegan-and-veganism-animal-think-tank/","created":"2025-10-23T15:06:00.091+01:00","updated":"2025-10-23T15:06:00.092+01:00"}
+{"dg-publish":true,"permalink":"/citations/how-does-the-public-understand-vegan-and-veganism-animal-think-tank/","created":"2025-10-23T17:42:44.237+01:00","updated":"2025-10-23T17:42:44.239+01:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/strategies-for-reducing-animal-product-consumption/","created":"2024-04-21T15:10:12.000+01:00","updated":"2025-09-29T00:29:33.758+01:00"}
+{"dg-publish":true,"permalink":"/strategies-for-reducing-animal-product-consumption/","tags":["#behaviour_change"],"created":"2025-10-23T17:42:41.751+01:00","updated":"2025-10-23T18:06:08.611+01:00"}
 ---
 
 #behaviour_change 

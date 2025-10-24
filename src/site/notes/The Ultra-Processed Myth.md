@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-ultra-processed-myth/","created":"2024-04-22T13:03:41.000+01:00","updated":"2025-09-29T00:30:57.480+01:00"}
+{"dg-publish":true,"permalink":"/the-ultra-processed-myth/","tags":["#bryant_insight","#health_nutrition","#alternative_proteins"],"created":"2025-10-23T17:42:41.934+01:00","updated":"2025-10-23T18:06:08.616+01:00"}
 ---
 
 #bryant_insight #health_nutrition #alternative_proteins 

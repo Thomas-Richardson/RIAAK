@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/animal-agriculture-takes-up-lots-of-land-but-provide-few-calories/","created":"2024-04-22T11:39:18.000+01:00","updated":"2025-10-10T23:48:42.691+01:00"}
+{"dg-publish":true,"permalink":"/animal-agriculture-takes-up-lots-of-land-but-provide-few-calories/","tags":["#animal_feed","#farming","#environment_land"],"created":"2025-10-23T17:42:42.965+01:00","updated":"2025-10-23T19:18:51.080+01:00"}
 ---
 
 #farming #environment_land 

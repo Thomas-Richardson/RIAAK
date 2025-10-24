@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/we-need-to-reduce-animal-products-not-just-meat/","created":"2024-04-22T13:03:03.000+01:00","updated":"2025-09-29T00:32:01.894+01:00"}
+{"dg-publish":true,"permalink":"/we-need-to-reduce-animal-products-not-just-meat/","tags":["#health_nutrition","#environment_misc"],"created":"2025-10-23T17:42:42.733+01:00","updated":"2025-10-23T18:06:08.638+01:00"}
 ---
 
 #health_nutrition #environment_misc 

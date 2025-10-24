@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/citations/framing-the-food-system-a-review-for-animal-advocates-of-frame-works-institute-s-foundational-study-pax-fauna/","tags":["#narratives"],"created":"2024-08-20T13:35:31.315+01:00","updated":"2025-10-01T19:28:51.514+01:00"}
+{"dg-publish":true,"permalink":"/citations/framing-the-food-system-a-review-for-animal-advocates-of-frame-works-institute-s-foundational-study-pax-fauna/","tags":["#narratives"],"created":"2025-10-23T17:42:44.454+01:00","updated":"2025-10-23T17:42:44.454+01:00"}
 ---
-
-
 
 Pax Fauna: Framing the Food System: a Review for Animal Advocates of FrameWorks Institute’s Foundational Study
 
@@ -25,7 +23,6 @@ Across several diverse research methods, certain trends consistently emerged. Th
 - [[Citations/Analyzing the Landscape of Narratives about Farming Animals - Advocates, Media, and Industry (Pax Fauna)\|Analyzing the Landscape of Narratives about Farming Animals - Advocates, Media, and Industry (Pax Fauna)]]
 - [[Citations/Using Private Interviews to Deeply Probe the General Public’s Views on Farming Animals (Pax Fauna)\|Using Private Interviews to Deeply Probe the General Public’s Views on Farming Animals (Pax Fauna)]]
 - [[Citations/Developing a Messaging Strategy to End Animal Farming Using Focus Groups (Pax Fauna)\|Developing a Messaging Strategy to End Animal Farming Using Focus Groups (Pax Fauna)]]
-- [[Pax Fauna, youtube talk\|Pax Fauna, youtube talk]]
 
 # Related
 - [[Citations/Animal Think Tank, 2024\|Animal Think Tank, 2024]]

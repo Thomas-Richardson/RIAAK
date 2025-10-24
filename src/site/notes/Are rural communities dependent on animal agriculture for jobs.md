@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/are-rural-communities-dependent-on-animal-agriculture-for-jobs/","created":"2025-01-03T20:28:47.047+00:00","updated":"2025-09-28T23:43:08.307+01:00"}
+{"dg-publish":true,"permalink":"/are-rural-communities-dependent-on-animal-agriculture-for-jobs/","tags":["#farmers"],"created":"2025-10-23T17:42:43.437+01:00","updated":"2025-10-23T18:06:08.669+01:00"}
 ---
 
 #farmers 

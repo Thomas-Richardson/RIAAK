@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/independent-office-of-animal-protection-animal-ask/","created":"2025-10-01T10:36:25.264+01:00","updated":"2025-10-01T10:53:30.108+01:00"}
+{"dg-publish":true,"permalink":"/citations/independent-office-of-animal-protection-animal-ask/","created":"2025-10-23T17:42:45.416+01:00","updated":"2025-10-23T17:42:45.416+01:00"}
 ---
 
 Many animal advocacy organisations around the world are campaigning to establish an Independent Office (or Commissioner) of Animal Protection. What benefits could such an Office bring to the lives of animals? And how could an organisation tell if this campaign is a priority in a particular country?

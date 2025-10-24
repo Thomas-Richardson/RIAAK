@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/comparing-environmental-impact-of-different-animal-farming-systems/","created":"2024-04-21T14:37:08.000+01:00","updated":"2025-10-23T08:10:29.851+01:00"}
+{"dg-publish":true,"permalink":"/comparing-environmental-impact-of-different-animal-farming-systems/","tags":["#animal_feed","#environment_misc","#factory_farming"],"created":"2025-10-23T17:42:41.664+01:00","updated":"2025-10-23T19:18:51.122+01:00"}
 ---
 
 #environment_misc #factory_farming 

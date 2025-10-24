@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/food-and-water-watch-2023/","created":"2025-10-23T10:06:44.749+01:00","updated":"2025-10-23T10:06:44.749+01:00"}
+{"dg-publish":true,"permalink":"/citations/food-and-water-watch-2023/","tags":["#citation","#dairy","#factory_farming","#usa"],"created":"2025-10-23T17:42:44.718+01:00","updated":"2025-10-23T18:06:08.795+01:00"}
 ---
 
 #citation #dairy #factory_farming #usa 

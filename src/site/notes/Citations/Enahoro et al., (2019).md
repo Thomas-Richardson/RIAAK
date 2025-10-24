@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/enahoro-et-al-2019/","created":"2024-04-06T15:13:27.000+01:00","updated":"2025-09-28T23:40:40.600+01:00"}
+{"dg-publish":true,"permalink":"/citations/enahoro-et-al-2019/","tags":["#citation","#economics"],"created":"2025-10-23T17:42:45.481+01:00","updated":"2025-10-23T18:06:08.865+01:00"}
 ---
 
 #citation #economics 

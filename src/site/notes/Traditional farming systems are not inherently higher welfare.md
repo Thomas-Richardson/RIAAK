@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/traditional-farming-systems-are-not-inherently-higher-welfare/","created":"2024-03-28T14:02:55.000+00:00","updated":"2025-09-29T00:31:05.613+01:00"}
+{"dg-publish":true,"permalink":"/traditional-farming-systems-are-not-inherently-higher-welfare/","tags":["#farming","#factory_farming"],"created":"2025-10-23T17:42:43.379+01:00","updated":"2025-10-23T18:06:08.668+01:00"}
 ---
 
 #farming #factory_farming 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/future-smart-foods/","created":"2024-04-26T17:38:24.000+01:00","updated":"2025-09-28T23:53:31.076+01:00"}
+{"dg-publish":true,"permalink":"/future-smart-foods/","tags":["#health_nutrition","#lower_middle_income_countries"],"created":"2025-10-23T17:42:43.003+01:00","updated":"2025-10-23T18:06:08.654+01:00"}
 ---
 
 #health_nutrition  #lower_middle_income_countries 

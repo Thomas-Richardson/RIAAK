@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/do-veganuary-and-other-vegan-challenges-convert-people-to-veganism-q/","created":"2024-03-10T16:35:13.000+00:00","updated":"2025-09-28T23:50:39.197+01:00"}
+{"dg-publish":true,"permalink":"/do-veganuary-and-other-vegan-challenges-convert-people-to-veganism-q/","tags":["#veganism","#behaviour_change"],"created":"2025-10-23T17:42:47.964+01:00","updated":"2025-10-23T18:06:08.740+01:00"}
 ---
 
 #veganism #behaviour_change 

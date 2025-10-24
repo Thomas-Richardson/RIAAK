@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/do-people-really-care-about-animals/","created":"2024-09-19T12:40:28.349+01:00","updated":"2025-09-28T23:50:21.593+01:00"}
+{"dg-publish":true,"permalink":"/do-people-really-care-about-animals/","tags":["#project_idea"],"created":"2025-10-23T17:42:41.913+01:00","updated":"2025-10-23T18:06:08.616+01:00"}
 ---
 
 #project_idea 

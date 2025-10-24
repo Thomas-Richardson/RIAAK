@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/schwartz-et-al-2024/","created":"2025-03-20T00:11:13.219+00:00","updated":"2025-09-29T00:29:07.645+01:00"}
+{"dg-publish":true,"permalink":"/schwartz-et-al-2024/","tags":["#citation","#Sinergia_defunding_project","#economics","#environment"],"created":"2025-10-23T17:42:48.027+01:00","updated":"2025-10-23T18:06:08.742+01:00"}
 ---
 
 #citation #Sinergia_defunding_project #economics #environment 

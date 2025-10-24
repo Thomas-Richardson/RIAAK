@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/silk/","created":"2024-12-09T12:04:36.813+00:00","updated":"2025-09-29T00:28:56.458+01:00"}
+{"dg-publish":true,"permalink":"/silk/","tags":["#materials"],"created":"2025-10-23T17:42:43.509+01:00","updated":"2025-10-23T18:06:08.672+01:00"}
 ---
 
 #materials 

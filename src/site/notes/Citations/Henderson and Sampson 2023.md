@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/henderson-and-sampson-2023/","created":"2024-04-22T12:55:28.000+01:00","updated":"2025-10-10T23:57:08.366+01:00"}
+{"dg-publish":true,"permalink":"/citations/henderson-and-sampson-2023/","tags":["#health_nutrition","#citation","#economics","#veganism"],"created":"2025-10-23T17:42:46.942+01:00","updated":"2025-10-23T18:06:08.964+01:00"}
 ---
 
 #health_nutrition  #citation #economics #veganism 

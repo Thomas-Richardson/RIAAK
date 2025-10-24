@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-dutch-animal-tax-agreement-and-what-the-uk-can-take-from-it/","created":"2025-03-16T22:20:37.945+00:00","updated":"2025-09-29T00:30:04.379+01:00"}
+{"dg-publish":true,"permalink":"/the-dutch-animal-tax-agreement-and-what-the-uk-can-take-from-it/","tags":["#farming"],"created":"2025-10-23T17:42:42.961+01:00","updated":"2025-10-23T18:06:08.650+01:00"}
 ---
 
 #farming

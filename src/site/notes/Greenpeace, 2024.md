@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/greenpeace-2024/","created":"2024-10-03T10:26:50.592+01:00","updated":"2025-09-29T00:15:13.415+01:00"}
+{"dg-publish":true,"permalink":"/greenpeace-2024/","tags":["#farmers"],"created":"2025-10-23T17:42:48.078+01:00","updated":"2025-10-23T18:06:08.746+01:00"}
 ---
 
 #farmers 

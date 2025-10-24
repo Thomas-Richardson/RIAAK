@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/how-do-people-with-animal-companions-and-without-respond-to-movement-communications-animal-think-tank/","created":"2025-10-23T15:01:26.878+01:00","updated":"2025-10-23T15:01:26.879+01:00"}
+{"dg-publish":true,"permalink":"/citations/how-do-people-with-animal-companions-and-without-respond-to-movement-communications-animal-think-tank/","created":"2025-10-23T17:42:46.151+01:00","updated":"2025-10-23T17:42:46.156+01:00"}
 ---
 
 

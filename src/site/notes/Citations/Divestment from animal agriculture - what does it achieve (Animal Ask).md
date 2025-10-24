@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/divestment-from-animal-agriculture-what-does-it-achieve-animal-ask/","created":"2025-10-01T10:42:08.346+01:00","updated":"2025-10-01T10:53:17.939+01:00"}
+{"dg-publish":true,"permalink":"/citations/divestment-from-animal-agriculture-what-does-it-achieve-animal-ask/","created":"2025-10-23T17:42:45.228+01:00","updated":"2025-10-23T17:42:45.228+01:00"}
 ---
 
 We can examine the direct impact of divestment campaigns through either a theoretical or an empirical analysis. Starting with a theoretical approach, economic theory suggests that divestment may not have strong direct impacts on the cost of capital. This is because in an efficient market if an individual does not buy a stock, the stock will become undervalued, incentivising someone else to buy it instead.

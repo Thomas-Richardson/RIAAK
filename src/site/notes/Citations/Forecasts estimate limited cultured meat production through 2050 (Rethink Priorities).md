@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/forecasts-estimate-limited-cultured-meat-production-through-2050-rethink-priorities/","tags":["#cultivated_meat"],"created":"2025-10-23T14:06:34.221+01:00","updated":"2025-10-23T14:06:34.572+01:00"}
+{"dg-publish":true,"permalink":"/citations/forecasts-estimate-limited-cultured-meat-production-through-2050-rethink-priorities/","tags":["#cultivated_meat"],"created":"2025-10-23T17:42:45.186+01:00","updated":"2025-10-23T18:12:10.204+01:00"}
 ---
 
 We (Neil and Linch) developed forecasting questions around cultured meat reaching annual production volume sold in metric tons (>100,000, >1M, >10M, >50M) by a certain year (2031, 2036, 2051) in addition to hypothesized signposts of progress (funding, researchers, input costs, food service sales, and public support). For context, the annual production of conventional meat (excluding seafood) in 2018 was 346M metric tons and the annual production of seafood in 2015 was 200M metric tons.

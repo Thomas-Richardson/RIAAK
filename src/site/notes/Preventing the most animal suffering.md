@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preventing-the-most-animal-suffering/","created":"2024-05-27T21:10:42.385+01:00","updated":"2025-09-29T00:22:02.057+01:00"}
+{"dg-publish":true,"permalink":"/preventing-the-most-animal-suffering/","tags":["#effective_altruism"],"created":"2025-10-23T17:42:44.089+01:00","updated":"2025-10-23T18:06:08.690+01:00"}
 ---
 
 #effective_altruism 

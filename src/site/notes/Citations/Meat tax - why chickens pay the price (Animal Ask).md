@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/meat-tax-why-chickens-pay-the-price-animal-ask/","created":"2025-10-01T10:35:31.465+01:00","updated":"2025-10-01T10:53:36.358+01:00"}
+{"dg-publish":true,"permalink":"/citations/meat-tax-why-chickens-pay-the-price-animal-ask/","created":"2025-10-23T17:42:45.827+01:00","updated":"2025-10-23T17:42:45.828+01:00"}
 ---
 
 A meat tax is one policy that can reduce meat consumption. This policy has some key advantages: there is strong economic evidence that such a tax would reduce meat consumption while, depending on the type of meat tax, a campaign could also take advantage of the momentum provided by the environmental and health movements.

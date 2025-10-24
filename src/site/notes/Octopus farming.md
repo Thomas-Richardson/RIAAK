@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/octopus-farming/","created":"2024-09-25T07:59:17.140+01:00","updated":"2025-09-29T00:20:39.221+01:00"}
+{"dg-publish":true,"permalink":"/octopus-farming/","tags":["#animal_advocacy"],"created":"2025-10-23T17:42:47.517+01:00","updated":"2025-10-23T18:06:08.723+01:00"}
 ---
 
 #animal_advocacy 

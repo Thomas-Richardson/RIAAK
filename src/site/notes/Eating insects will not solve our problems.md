@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eating-insects-will-not-solve-our-problems/","created":"2024-08-26T08:31:24.107+01:00","updated":"2025-09-28T23:50:45.496+01:00"}
+{"dg-publish":true,"permalink":"/eating-insects-will-not-solve-our-problems/","tags":["#insects"],"created":"2025-10-23T17:42:42.422+01:00","updated":"2025-10-23T18:06:08.634+01:00"}
 ---
 
 #insects 

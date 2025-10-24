@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public-perceptions-of-plant-based-pet-food/","created":"2024-03-10T16:27:04.000+00:00","updated":"2025-09-29T00:22:41.658+01:00"}
+{"dg-publish":true,"permalink":"/public-perceptions-of-plant-based-pet-food/","tags":["#bryant_insight","#pet_food","#consumer_attitudes","#summer_survey"],"created":"2025-10-23T17:42:47.759+01:00","updated":"2025-10-23T18:06:08.733+01:00"}
 ---
 
 #bryant_insight #pet_food #consumer_attitudes #summer_survey 

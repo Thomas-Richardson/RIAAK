@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/mintel-year-unknown/","tags":["alternative_proteins","asia","lower_middle_income_countries","consumer_attitudes","plant_based_alternative_proteins"],"created":"2025-10-22T22:54:38.732+01:00","updated":"2025-10-22T22:54:38.732+01:00"}
+{"dg-publish":true,"permalink":"/mintel-year-unknown/","tags":["#alternative_proteins","#asia","#lower_middle_income_countries","#consumer_attitudes","#plant_based_alternative_proteins"],"created":"2025-10-23T17:42:41.798+01:00","updated":"2025-10-23T18:06:08.613+01:00"}
 ---
- 
 
 https://downloads.mintel.com/private/BMCE2/files/889404/
 

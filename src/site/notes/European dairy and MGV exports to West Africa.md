@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/european-dairy-and-mgv-exports-to-west-africa/","created":"2024-03-14T10:31:20.000+00:00","updated":"2025-09-28T23:51:13.782+01:00"}
+{"dg-publish":true,"permalink":"/european-dairy-and-mgv-exports-to-west-africa/","tags":["#economics","#lower_middle_income_countries"],"created":"2025-10-23T17:42:42.957+01:00","updated":"2025-10-23T18:06:08.649+01:00"}
 ---
 
 #economics #lower_middle_income_countries 

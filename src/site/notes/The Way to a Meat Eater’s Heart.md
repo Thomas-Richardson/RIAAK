@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-way-to-a-meat-eater-s-heart/","created":"2024-03-10T17:07:32.000+00:00","updated":"2025-09-29T00:30:58.447+01:00"}
+{"dg-publish":true,"permalink":"/the-way-to-a-meat-eater-s-heart/","tags":["#bryant_insight","#consumer_attitudes","#alternative_proteins"],"created":"2025-10-23T17:42:47.114+01:00","updated":"2025-10-23T18:06:08.700+01:00"}
 ---
 
 #bryant_insight #consumer_attitudes #alternative_proteins 

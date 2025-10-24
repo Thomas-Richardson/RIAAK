@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/hirvonen-et-al-2019/","created":"2024-04-22T12:54:05.000+01:00","updated":"2025-09-28T23:47:05.896+01:00"}
+{"dg-publish":true,"permalink":"/citations/hirvonen-et-al-2019/","tags":["#health_nutrition","#environment_misc","#citation"],"created":"2025-10-23T17:42:45.753+01:00","updated":"2025-10-23T18:06:08.901+01:00"}
 ---
 
 #health_nutrition  #environment_misc #citation 

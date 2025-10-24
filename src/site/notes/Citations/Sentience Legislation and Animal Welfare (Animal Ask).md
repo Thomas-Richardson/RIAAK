@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/sentience-legislation-and-animal-welfare-animal-ask/","created":"2025-10-01T10:29:00.651+01:00","updated":"2025-10-01T10:53:40.320+01:00"}
+{"dg-publish":true,"permalink":"/citations/sentience-legislation-and-animal-welfare-animal-ask/","created":"2025-10-23T17:42:46.084+01:00","updated":"2025-10-23T17:42:46.085+01:00"}
 ---
 
 The sentience of animals has long been recognised and has continued to be demonstrated on ever firmer scientific grounds. From the Brambell report (1965), which emphasised the importance of sentience in the understanding of animal welfare to the Cambridge Declaration of Consciousness (2012), which suggested widespread scientific acceptance of the idea (Rowan *et al.* 2021). In recent years, this widespread and scientific belief has been explicitly recognised in legislation in a growing number of countries and jurisdictions. 

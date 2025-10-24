@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/incremental-small-scale-changes-for-reducing-animal-products/","created":"2024-04-21T15:08:49.000+01:00","updated":"2025-09-29T00:15:50.043+01:00"}
+{"dg-publish":true,"permalink":"/incremental-small-scale-changes-for-reducing-animal-products/","tags":["#behaviour_change"],"created":"2025-10-23T17:42:43.242+01:00","updated":"2025-10-23T18:06:08.665+01:00"}
 ---
 
 #behaviour_change 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health-effects-of-dairy/","created":"2024-04-22T12:55:40.000+01:00","updated":"2025-09-29T00:15:15.880+01:00"}
+{"dg-publish":true,"permalink":"/health-effects-of-dairy/","tags":["#dairy","#health_nutrition"],"created":"2025-10-23T17:42:47.503+01:00","updated":"2025-10-23T18:06:08.722+01:00"}
 ---
 
 #dairy #health_nutrition  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-to-create-a-vegan-world/","created":"2024-01-28T14:44:35.044+00:00","updated":"2025-09-29T00:15:45.178+01:00"}
+{"dg-publish":true,"permalink":"/how-to-create-a-vegan-world/","tags":["#book_notes","#veganism"],"created":"2025-10-23T17:42:43.654+01:00","updated":"2025-10-23T18:06:08.673+01:00"}
 ---
 
 #book_notes #veganism 

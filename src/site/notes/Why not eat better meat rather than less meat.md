@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/why-not-eat-better-meat-rather-than-less-meat/","created":"2024-03-08T14:27:00.000+00:00","updated":"2025-09-29T00:32:59.329+01:00"}
+{"dg-publish":true,"permalink":"/why-not-eat-better-meat-rather-than-less-meat/","tags":["#environment_misc","#meat"],"created":"2025-10-23T17:42:42.207+01:00","updated":"2025-10-23T18:06:08.626+01:00"}
 ---
 
 #environment_misc #meat 

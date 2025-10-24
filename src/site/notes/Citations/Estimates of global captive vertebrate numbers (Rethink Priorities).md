@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/estimates-of-global-captive-vertebrate-numbers-rethink-priorities/","tags":["#fish","#chickens","#companion_animals"],"created":"2025-10-23T14:23:51.941+01:00","updated":"2025-10-23T14:23:52.034+01:00"}
+{"dg-publish":true,"permalink":"/citations/estimates-of-global-captive-vertebrate-numbers-rethink-priorities/","tags":["#fish","#chickens","#companion_animals"],"created":"2025-10-23T17:42:44.643+01:00","updated":"2025-10-23T18:12:10.183+01:00"}
 ---
 
 In this article, I list all the estimates I could find for numbers of vertebrates that are farmed or kept in captivity for various purposes. I also describe some groups of captive vertebrates for which I found no estimates. For some bigger groups of animals that are less well-known amongst animal activists, I also describe trends and main welfare concerns.

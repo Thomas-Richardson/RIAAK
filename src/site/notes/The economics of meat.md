@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-economics-of-meat/","created":"2024-04-24T16:17:35.000+01:00","updated":"2025-09-29T00:30:06.312+01:00"}
+{"dg-publish":true,"permalink":"/the-economics-of-meat/","tags":["#economics","#meat","#alternative_proteins"],"created":"2025-10-23T17:42:47.655+01:00","updated":"2025-10-23T18:06:08.729+01:00"}
 ---
 
 #economics #meat 

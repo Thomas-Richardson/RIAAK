@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eating-our-way-to-the-next-pandemic/","created":"2024-04-22T12:59:58.000+01:00","updated":"2025-09-28T23:50:48.294+01:00"}
+{"dg-publish":true,"permalink":"/eating-our-way-to-the-next-pandemic/","tags":["#blog_finished","#health_disease","#factory_farming"],"created":"2025-10-23T17:42:43.988+01:00","updated":"2025-10-23T18:06:08.686+01:00"}
 ---
 
 #blog_finished  #health_disease  #factory_farming 

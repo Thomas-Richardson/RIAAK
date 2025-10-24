@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-to-assess-a-campaign-or-intervention-and-it-s-effect-on-google-search-results/","created":"2024-10-18T15:51:54.354+01:00","updated":"2025-09-29T00:15:35.097+01:00"}
+{"dg-publish":true,"permalink":"/how-to-assess-a-campaign-or-intervention-and-it-s-effect-on-google-search-results/","created":"2025-10-23T17:42:41.418+01:00","updated":"2025-10-23T18:06:08.596+01:00"}
 ---
 
 - [[Do Documentaries work\|Do Documentaries work]]

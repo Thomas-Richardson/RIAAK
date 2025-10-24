@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/do-vegan-protests-work/","created":"2024-03-10T16:35:13.000+00:00","updated":"2025-09-28T23:50:26.275+01:00"}
+{"dg-publish":true,"permalink":"/do-vegan-protests-work/","tags":["#veganism","#behaviour_change","#politics"],"created":"2025-10-23T17:42:47.130+01:00","updated":"2025-10-23T18:06:08.700+01:00"}
 ---
 
 #veganism #behaviour_change #politics 

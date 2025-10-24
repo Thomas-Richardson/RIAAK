@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/dimensions-of-pain-workshop-summary-and-updated-conclusions-rethink-priorities/","created":"2025-10-23T13:59:12.145+01:00","updated":"2025-10-23T13:59:12.390+01:00"}
+{"dg-publish":true,"permalink":"/citations/dimensions-of-pain-workshop-summary-and-updated-conclusions-rethink-priorities/","created":"2025-10-23T17:42:44.560+01:00","updated":"2025-10-23T18:12:10.180+01:00"}
 ---
 
 ### Executive Summary

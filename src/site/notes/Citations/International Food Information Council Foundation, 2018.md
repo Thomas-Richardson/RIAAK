@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/international-food-information-council-foundation-2018/","created":"2024-01-12T13:41:23.000+00:00","updated":"2025-10-10T23:57:16.070+01:00"}
+{"dg-publish":true,"permalink":"/citations/international-food-information-council-foundation-2018/","tags":["#citation","#dairy","#consumer_attitudes","#labelling"],"created":"2025-10-23T17:42:46.392+01:00","updated":"2025-10-23T18:06:08.937+01:00"}
 ---
 
 #citation #dairy #consumer_attitudes #labelling 

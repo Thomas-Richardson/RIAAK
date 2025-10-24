@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/grass-fed-beef-is-not-better-for-the-environment/","created":"2024-04-19T15:47:18.000+01:00","updated":"2025-10-13T10:42:39.915+01:00"}
+{"dg-publish":true,"permalink":"/grass-fed-beef-is-not-better-for-the-environment/","tags":["#animal_feed","#animal_advocacy","#environment_ghg","#environment_land"],"created":"2025-10-23T17:42:41.744+01:00","updated":"2025-10-23T19:18:51.148+01:00"}
 ---
 
 #animal_advocacy #environment_ghg #environment_land 

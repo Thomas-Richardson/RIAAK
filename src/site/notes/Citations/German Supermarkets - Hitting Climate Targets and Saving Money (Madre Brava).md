@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/german-supermarkets-hitting-climate-targets-and-saving-money-madre-brava/","created":"2025-10-01T13:40:51.625+01:00","updated":"2025-10-01T13:41:14.013+01:00"}
+{"dg-publish":true,"permalink":"/citations/german-supermarkets-hitting-climate-targets-and-saving-money-madre-brava/","created":"2025-10-23T17:42:46.826+01:00","updated":"2025-10-23T17:42:46.830+01:00"}
 ---
 
 Report here: https://cdn.prod.website-files.com/677d312731ae664a70dacd6c/681d1be86ddf501d6be52001_analysis-meet-emission-reduction-targets-and-save-money.pdf

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/using-social-norms-to-reduce-animal-product-consumption/","created":"2023-10-27T10:11:58.000+01:00","updated":"2025-09-29T00:31:50.547+01:00"}
+{"dg-publish":true,"permalink":"/using-social-norms-to-reduce-animal-product-consumption/","tags":["#psychology"],"created":"2025-10-23T17:42:47.397+01:00","updated":"2025-10-23T18:06:08.712+01:00"}
 ---
 
 #psychology 

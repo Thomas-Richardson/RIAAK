@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cultivated-meat-moc/","tags":["#cultivated_meat"],"created":"2024-07-18T12:51:07.870+01:00","updated":"2025-10-11T00:00:15.954+01:00"}
+{"dg-publish":true,"permalink":"/cultivated-meat-moc/","tags":["#cultivated_meat"],"created":"2025-10-23T17:42:43.006+01:00","updated":"2025-10-23T17:42:43.007+01:00"}
 ---
 
 #cultivated_meat 

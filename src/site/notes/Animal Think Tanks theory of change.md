@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/animal-think-tanks-theory-of-change/","created":"2024-10-07T12:51:03.790+01:00","updated":"2025-10-10T23:49:30.776+01:00"}
+{"dg-publish":true,"permalink":"/animal-think-tanks-theory-of-change/","tags":["#narratives"],"created":"2025-10-23T17:42:47.695+01:00","updated":"2025-10-23T18:06:08.730+01:00"}
 ---
 
 #narratives 

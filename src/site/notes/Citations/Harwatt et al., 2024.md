@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/harwatt-et-al-2024/","created":"2024-03-16T20:48:02.000+00:00","updated":"2025-09-28T23:47:03.130+01:00"}
+{"dg-publish":true,"permalink":"/citations/harwatt-et-al-2024/","tags":["#citation","#environment_misc","#factory_farming"],"created":"2025-10-23T17:42:47.034+01:00","updated":"2025-10-23T18:06:08.971+01:00"}
 ---
 
 #citation #environment_misc #factory_farming 

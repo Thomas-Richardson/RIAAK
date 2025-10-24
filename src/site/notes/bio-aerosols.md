@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bio-aerosols/","created":"2024-04-22T12:45:39.000+01:00","updated":"2025-10-10T23:52:44.870+01:00"}
+{"dg-publish":true,"permalink":"/bio-aerosols/","tags":["#health_disease","#factory_farming"],"created":"2025-10-23T17:42:43.462+01:00","updated":"2025-10-23T18:06:08.670+01:00"}
 ---
 
 #health_disease

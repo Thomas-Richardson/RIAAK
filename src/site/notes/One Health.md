@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/one-health/","created":"2024-04-22T13:01:10.000+01:00","updated":"2025-09-29T00:20:42.688+01:00"}
+{"dg-publish":true,"permalink":"/one-health/","tags":["#farming","#health_nutrition"],"created":"2025-10-23T17:42:43.660+01:00","updated":"2025-10-23T18:06:08.673+01:00"}
 ---
 
 #farming #health_nutrition

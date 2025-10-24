@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vegan-leather/","created":"2025-03-17T12:51:54.232+00:00","updated":"2025-09-29T00:31:54.180+01:00"}
+{"dg-publish":true,"permalink":"/vegan-leather/","tags":["#materials"],"created":"2025-10-23T17:42:42.172+01:00","updated":"2025-10-23T18:06:08.624+01:00"}
 ---
 
 #materials 

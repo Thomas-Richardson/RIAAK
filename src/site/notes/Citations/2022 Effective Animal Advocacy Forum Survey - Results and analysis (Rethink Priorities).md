@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/2022-effective-animal-advocacy-forum-survey-results-and-analysis-rethink-priorities/","tags":["#strategy","#movement_building"],"created":"2025-10-23T13:59:39.473+01:00","updated":"2025-10-23T17:21:08.227+01:00"}
+{"dg-publish":true,"permalink":"/citations/2022-effective-animal-advocacy-forum-survey-results-and-analysis-rethink-priorities/","tags":["#strategy","#movement_building"],"created":"2025-10-23T17:42:44.663+01:00","updated":"2025-10-23T17:42:44.663+01:00"}
 ---
 
 ### Key Takeaways

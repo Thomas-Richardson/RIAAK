@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/dominguez-oliva-et-al-2023/","created":"2024-03-10T16:27:04.000+00:00","updated":"2025-09-28T23:40:37.092+01:00"}
+{"dg-publish":true,"permalink":"/citations/dominguez-oliva-et-al-2023/","tags":["#animal_feed","#pet_food","#citation"],"created":"2025-10-23T17:42:46.864+01:00","updated":"2025-10-23T19:18:51.108+01:00"}
 ---
 
 #pet_food #citation

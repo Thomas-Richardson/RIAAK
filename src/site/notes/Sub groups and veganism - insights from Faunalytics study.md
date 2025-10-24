@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sub-groups-and-veganism-insights-from-faunalytics-study/","created":"2024-01-12T13:41:23.000+00:00","updated":"2025-09-29T00:29:36.163+01:00"}
+{"dg-publish":true,"permalink":"/sub-groups-and-veganism-insights-from-faunalytics-study/","tags":["#consumer_attitudes","#psychology"],"created":"2025-10-23T17:42:47.300+01:00","updated":"2025-10-23T18:06:08.706+01:00"}
 ---
 
 Dashboard here: https://faunalytics.shinyapps.io/comparing-pro-animal-openness/

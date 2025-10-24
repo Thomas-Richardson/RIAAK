@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eco-labelling-has-weak-effects/","created":"2025-01-19T20:52:28.769+00:00","updated":"2025-09-28T23:50:49.669+01:00"}
+{"dg-publish":true,"permalink":"/eco-labelling-has-weak-effects/","tags":["#labelling"],"created":"2025-10-23T17:42:47.868+01:00","updated":"2025-10-23T18:06:08.736+01:00"}
 ---
 
 #labelling 

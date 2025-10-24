@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/food-security-risks-that-could-come-from-scaling-up-animal-agriculture-in-lmi-cs/","tags":["environment_land"],"created":"2025-10-23T09:44:09.246+01:00","updated":"2025-10-23T09:44:09.247+01:00"}
+{"dg-publish":true,"permalink":"/food-security-risks-that-could-come-from-scaling-up-animal-agriculture-in-lmi-cs/","tags":["#animal_feed - environment_land","#mfa_food_sec"],"created":"2025-10-23T17:42:47.134+01:00","updated":"2025-10-23T19:18:51.146+01:00"}
 ---
 
 # Food security risks that could come from scaling up animal agriculture in LMICs

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/forecasting-farmed-animal-numbers-in-2033-rethink-priorities/","created":"2025-10-23T11:14:09.354+01:00","updated":"2025-10-23T11:14:09.368+01:00"}
+{"dg-publish":true,"permalink":"/citations/forecasting-farmed-animal-numbers-in-2033-rethink-priorities/","created":"2025-10-23T17:42:46.800+01:00","updated":"2025-10-23T18:12:10.262+01:00"}
 ---
 
 We produced **rough-and-ready forecasts of the number of animals farmed in 2033** with the aim of helping advocates and funders with prioritization decisions. **We focus on the most numerous groups of farmed animals: broiler chickens, finfishes, shrimps, and select insect species.**

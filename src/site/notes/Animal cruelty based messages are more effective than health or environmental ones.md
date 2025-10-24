@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/animal-cruelty-based-messages-are-more-effective-than-health-or-environmental-ones/","created":"2024-04-22T12:45:48.000+01:00","updated":"2025-10-10T23:49:01.704+01:00"}
+{"dg-publish":true,"permalink":"/animal-cruelty-based-messages-are-more-effective-than-health-or-environmental-ones/","tags":["#behaviour_change","#health_nutrition","#environment_land","#environment_ghg","#environment_pollution","#persuasion"],"created":"2025-10-23T17:42:43.736+01:00","updated":"2025-10-23T18:06:08.678+01:00"}
 ---
 
 #behaviour_change #health_nutrition  #environment_land #environment_ghg #environment_pollution  #persuasion 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fur/","created":"2025-03-16T22:40:41.470+00:00","updated":"2025-09-28T23:53:30.396+01:00"}
+{"dg-publish":true,"permalink":"/fur/","tags":["#wild_animals","#materials"],"created":"2025-10-23T17:42:43.712+01:00","updated":"2025-10-23T19:20:34.070+01:00"}
 ---
 
 #materials 

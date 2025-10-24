@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/duck-down-feathers/","created":"2025-01-19T20:47:26.538+00:00","updated":"2025-09-28T23:50:44.074+01:00"}
+{"dg-publish":true,"permalink":"/duck-down-feathers/","tags":["#materials"],"created":"2025-10-23T17:42:41.962+01:00","updated":"2025-10-23T18:06:08.617+01:00"}
 ---
 
 #materials 

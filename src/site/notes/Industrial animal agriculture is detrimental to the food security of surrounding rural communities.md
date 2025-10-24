@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/industrial-animal-agriculture-is-detrimental-to-the-food-security-of-surrounding-rural-communities/","created":"2024-09-05T16:26:18.554+01:00","updated":"2025-09-29T00:15:51.577+01:00"}
+{"dg-publish":true,"permalink":"/industrial-animal-agriculture-is-detrimental-to-the-food-security-of-surrounding-rural-communities/","tags":["#animal_feed","#mfa_food_sec"],"created":"2025-10-23T17:42:42.749+01:00","updated":"2025-10-23T19:18:51.150+01:00"}
 ---
 
 #mfa_food_sec 

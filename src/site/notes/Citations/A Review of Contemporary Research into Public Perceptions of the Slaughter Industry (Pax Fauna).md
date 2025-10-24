@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/a-review-of-contemporary-research-into-public-perceptions-of-the-slaughter-industry-pax-fauna/","tags":["#narratives"],"created":"2024-08-20T13:36:40.347+01:00","updated":"2025-10-01T19:28:51.525+01:00"}
+{"dg-publish":true,"permalink":"/citations/a-review-of-contemporary-research-into-public-perceptions-of-the-slaughter-industry-pax-fauna/","tags":["#narratives"],"created":"2025-10-23T17:42:44.253+01:00","updated":"2025-10-23T17:42:44.253+01:00"}
 ---
 
 

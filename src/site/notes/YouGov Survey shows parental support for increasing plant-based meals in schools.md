@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/you-gov-survey-shows-parental-support-for-increasing-plant-based-meals-in-schools/","created":"2025-10-21T08:54:48.932+01:00","updated":"2025-10-21T08:54:49.021+01:00"}
+{"dg-publish":true,"permalink":"/you-gov-survey-shows-parental-support-for-increasing-plant-based-meals-in-schools/","created":"2025-10-23T17:42:43.970+01:00","updated":"2025-10-23T18:12:10.090+01:00"}
 ---
 
 …

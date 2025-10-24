@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/arnt-et-al-2022/","created":"2024-04-22T15:34:01.000+01:00","updated":"2025-10-10T23:54:40.706+01:00"}
+{"dg-publish":true,"permalink":"/citations/arnt-et-al-2022/","tags":["#environment_ghg","#cows","#citation"],"created":"2025-10-23T17:42:46.753+01:00","updated":"2025-10-23T18:06:08.954+01:00"}
 ---
 
 #environment_ghg #cows #citation 

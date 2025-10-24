@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/big-grain-companies/","created":"2025-10-23T10:06:09.500+01:00","updated":"2025-10-23T10:06:09.500+01:00"}
+{"dg-publish":true,"permalink":"/big-grain-companies/","tags":["#cawf_food_sec","#usa"],"created":"2025-10-23T17:42:41.791+01:00","updated":"2025-10-23T18:06:08.612+01:00"}
 ---
 
 #cawf_food_sec #usa 

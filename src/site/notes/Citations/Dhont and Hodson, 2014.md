@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/dhont-and-hodson-2014/","created":"2023-10-21T17:39:18.000+01:00","updated":"2025-10-10T23:56:08.140+01:00"}
+{"dg-publish":true,"permalink":"/citations/dhont-and-hodson-2014/","tags":["#citation","#politics","#meat","#psychology"],"created":"2025-10-23T17:42:44.790+01:00","updated":"2025-10-23T18:06:08.799+01:00"}
 ---
 
 #citation #politics #meat #psychology 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-role-of-small-scale-livestock-in-food-security-in-low-and-middle-income-countries/","created":"2024-09-05T16:26:18.539+01:00","updated":"2025-09-29T00:30:46.330+01:00"}
+{"dg-publish":true,"permalink":"/the-role-of-small-scale-livestock-in-food-security-in-low-and-middle-income-countries/","tags":["#animal_feed","#mfa_food_sec"],"created":"2025-10-23T17:42:44.110+01:00","updated":"2025-10-23T19:18:51.184+01:00"}
 ---
 
 # The role of small-scale Livestock in food security in low and middle income countries

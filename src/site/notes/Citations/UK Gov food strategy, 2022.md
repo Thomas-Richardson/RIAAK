@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/uk-gov-food-strategy-2022/","created":"2024-12-05T10:47:09.914+00:00","updated":"2025-10-10T23:59:25.636+01:00"}
+{"dg-publish":true,"permalink":"/citations/uk-gov-food-strategy-2022/","tags":["#citation","#uk","#food_security","#policy"],"created":"2025-10-23T17:42:45.043+01:00","updated":"2025-10-23T18:06:08.812+01:00"}
 ---
 
 #citation #uk #food_security #policy 

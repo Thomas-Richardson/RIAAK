@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/today-s-chickens-may-be-fatter-than-in-previous-generations/","created":"2024-04-22T13:03:39.000+01:00","updated":"2025-09-29T00:31:04.491+01:00"}
+{"dg-publish":true,"permalink":"/today-s-chickens-may-be-fatter-than-in-previous-generations/","tags":["#chicken","#health_nutrition"],"created":"2025-10-23T17:42:47.166+01:00","updated":"2025-10-23T18:06:08.702+01:00"}
 ---
 
 #chicken #health_nutrition

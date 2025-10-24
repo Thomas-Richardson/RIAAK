@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/stewart-et-al-2021/","created":"2024-03-10T17:06:44.000+00:00","updated":"2025-09-28T23:48:59.282+01:00"}
+{"dg-publish":true,"permalink":"/citations/stewart-et-al-2021/","tags":["#citation","#meat"],"created":"2025-10-23T17:42:44.355+01:00","updated":"2025-10-23T18:06:08.772+01:00"}
 ---
 
 #citation #meat 

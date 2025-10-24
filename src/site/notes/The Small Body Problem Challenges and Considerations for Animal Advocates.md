@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-small-body-problem-challenges-and-considerations-for-animal-advocates/","created":"2024-03-19T14:20:10.000+00:00","updated":"2025-09-29T00:30:49.329+01:00"}
+{"dg-publish":true,"permalink":"/the-small-body-problem-challenges-and-considerations-for-animal-advocates/","tags":["#bryant_insight","#fish","#chickens"],"created":"2025-10-23T17:42:47.489+01:00","updated":"2025-10-23T18:06:08.719+01:00"}
 ---
 
 #bryant_insight #fish #chickens 

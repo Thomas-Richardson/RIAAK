@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/future-of-the-industry-2024-balanced-protein-nectar/","created":"2025-10-21T13:12:59.899+01:00","updated":"2025-10-21T13:12:59.900+01:00"}
+{"dg-publish":true,"permalink":"/citations/future-of-the-industry-2024-balanced-protein-nectar/","created":"2025-10-23T17:42:46.457+01:00","updated":"2025-10-23T17:42:46.459+01:00"}
 ---
 
 

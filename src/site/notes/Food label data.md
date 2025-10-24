@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/food-label-data/","created":"2024-09-10T22:26:27.133+01:00","updated":"2025-09-28T23:52:44.566+01:00"}
+{"dg-publish":true,"permalink":"/food-label-data/","tags":["#data"],"created":"2025-10-23T17:42:43.264+01:00","updated":"2025-10-23T18:06:08.666+01:00"}
 ---
 
 #data 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/agriculture-in-the-uk-2023/","created":"2024-11-28T19:50:45.228+00:00","updated":"2025-10-10T23:19:17.450+01:00"}
+{"dg-publish":true,"permalink":"/citations/agriculture-in-the-uk-2023/","tags":["#uk","#cawf_food_sec"],"created":"2025-10-23T17:42:46.258+01:00","updated":"2025-10-23T18:06:08.928+01:00"}
 ---
 
 #uk #cawf_food_sec 

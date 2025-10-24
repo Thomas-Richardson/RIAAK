@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/caf-os-appear-economical-but-aren-t/","tags":["factory_farming","economics"],"created":"2024-04-24T16:52:25.000+01:00","updated":"2025-10-10T23:52:37.315+01:00"}
+{"dg-publish":true,"permalink":"/caf-os-appear-economical-but-aren-t/","tags":["#factory_farming","#economics","#to_clean"],"created":"2025-10-23T17:42:42.871+01:00","updated":"2025-10-23T17:42:42.872+01:00"}
 ---
 
 #factory_farming  #to_clean  #economics

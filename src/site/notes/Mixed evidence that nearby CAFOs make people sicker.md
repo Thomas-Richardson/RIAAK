@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mixed-evidence-that-nearby-caf-os-make-people-sicker/","created":"2024-06-27T10:56:28.494+01:00","updated":"2025-09-29T00:20:06.003+01:00"}
+{"dg-publish":true,"permalink":"/mixed-evidence-that-nearby-caf-os-make-people-sicker/","tags":["#health_disease"],"created":"2025-10-23T17:42:41.436+01:00","updated":"2025-10-23T18:06:08.597+01:00"}
 ---
 
 #health_disease 

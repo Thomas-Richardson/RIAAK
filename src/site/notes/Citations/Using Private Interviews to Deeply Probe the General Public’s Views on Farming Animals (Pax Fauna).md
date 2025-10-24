@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/using-private-interviews-to-deeply-probe-the-general-public-s-views-on-farming-animals-pax-fauna/","tags":["#narratives"],"created":"2024-08-20T13:34:02.371+01:00","updated":"2025-10-01T19:29:06.566+01:00"}
+{"dg-publish":true,"permalink":"/citations/using-private-interviews-to-deeply-probe-the-general-public-s-views-on-farming-animals-pax-fauna/","tags":["#narratives"],"created":"2025-10-23T17:42:44.342+01:00","updated":"2025-10-23T17:42:44.343+01:00"}
 ---
 
 

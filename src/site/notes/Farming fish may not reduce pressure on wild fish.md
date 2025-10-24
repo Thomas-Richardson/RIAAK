@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/farming-fish-may-not-reduce-pressure-on-wild-fish/","created":"2024-10-28T11:13:18.026+00:00","updated":"2025-09-28T23:52:11.284+01:00"}
+{"dg-publish":true,"permalink":"/farming-fish-may-not-reduce-pressure-on-wild-fish/","tags":["#fish"],"created":"2025-10-23T17:42:47.555+01:00","updated":"2025-10-23T18:06:08.726+01:00"}
 ---
 
 #fish 

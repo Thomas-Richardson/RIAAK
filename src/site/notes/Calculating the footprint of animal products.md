@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/calculating-the-footprint-of-animal-products/","created":"2024-06-10T15:27:53.300+01:00","updated":"2025-09-28T23:45:42.014+01:00"}
+{"dg-publish":true,"permalink":"/calculating-the-footprint-of-animal-products/","tags":["#environment_ghg","#environment_land"],"created":"2025-10-23T17:42:42.156+01:00","updated":"2025-10-23T18:06:08.623+01:00"}
 ---
 
 #environment_ghg #environment_land 

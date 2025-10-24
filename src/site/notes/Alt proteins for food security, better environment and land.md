@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/alt-proteins-for-food-security-better-environment-and-land/","created":"2025-01-22T15:42:26.199+00:00","updated":"2025-10-10T23:50:01.210+01:00"}
+{"dg-publish":true,"permalink":"/alt-proteins-for-food-security-better-environment-and-land/","tags":["#environment_land","#environment_ghg","#alternative_proteins","#lower_middle_income_countries","#food_security"],"created":"2025-10-23T17:42:47.731+01:00","updated":"2025-10-23T18:06:08.731+01:00"}
 ---
 
 #environment_land #environment_ghg #alternative_proteins #lower_middle_income_countries #food_security 

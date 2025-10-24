@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mac-innis-and-hodson-2017/","created":"2024-10-19T22:20:05.587+01:00","updated":"2025-09-29T00:19:39.363+01:00"}
+{"dg-publish":true,"permalink":"/mac-innis-and-hodson-2017/","tags":["#veganism","#psychology"],"created":"2025-10-23T17:42:43.282+01:00","updated":"2025-10-23T18:06:08.666+01:00"}
 ---
 
 #veganism #psychology 

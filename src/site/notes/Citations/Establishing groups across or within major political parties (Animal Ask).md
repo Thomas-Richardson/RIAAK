@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/establishing-groups-across-or-within-major-political-parties-animal-ask/","created":"2025-10-01T10:18:52.507+01:00","updated":"2025-10-01T10:53:22.994+01:00"}
+{"dg-publish":true,"permalink":"/citations/establishing-groups-across-or-within-major-political-parties-animal-ask/","created":"2025-10-23T17:42:44.602+01:00","updated":"2025-10-23T17:42:44.602+01:00"}
 ---
 
 In this report, we ask whether the animal advocacy movement should invest more resources into forming _party groups_ focused on animal welfare. For context, we usually encourage animal advocacy organisations to pursue legislative lobbying in general, and there are guides offering advice on how to conduct legislative lobbying for animal advocacy (1,2).

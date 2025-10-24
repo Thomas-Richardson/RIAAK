@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-egg-industry-in-the-uk/","created":"2025-10-23T09:46:01.856+01:00","updated":"2025-10-23T09:46:01.857+01:00"}
+{"dg-publish":true,"permalink":"/the-egg-industry-in-the-uk/","tags":["#eggs","#uk"],"created":"2025-10-23T17:42:42.621+01:00","updated":"2025-10-23T18:06:08.636+01:00"}
 ---
 
 #eggs #uk 

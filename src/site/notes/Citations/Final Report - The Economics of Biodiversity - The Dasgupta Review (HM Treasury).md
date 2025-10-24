@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/final-report-the-economics-of-biodiversity-the-dasgupta-review-hm-treasury/","created":"2025-10-10T16:46:57.889+01:00","updated":"2025-10-10T16:46:57.962+01:00"}
+{"dg-publish":true,"permalink":"/citations/final-report-the-economics-of-biodiversity-the-dasgupta-review-hm-treasury/","created":"2025-10-23T17:42:44.503+01:00","updated":"2025-10-23T18:12:10.178+01:00"}
 ---
 
 The Dasgupta Review is an independent, global review on the Economics of Biodiversity led by Professor Sir Partha Dasgupta (Frank Ramsey Professor Emeritus, University of Cambridge). The Review was commissioned in 2019 by HM Treasury and has been supported by an Advisory Panel drawn from public policy, science, economics, finance and business.

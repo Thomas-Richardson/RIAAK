@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/willingness-to-pay/","created":"2024-06-21T11:26:55.023+01:00","updated":"2025-09-29T00:33:03.998+01:00"}
+{"dg-publish":true,"permalink":"/willingness-to-pay/","tags":["#economics","#statistics","#research_methods"],"created":"2025-10-23T17:42:44.151+01:00","updated":"2025-10-23T18:06:08.696+01:00"}
 ---
 
 #economics  #statistics #research_methods 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/corporate-cage-free-campaigns/","tags":["corporate_campaigns"],"created":"2025-10-22T22:54:44.980+01:00","updated":"2025-10-22T22:54:44.981+01:00"}
+{"dg-publish":true,"permalink":"/corporate-cage-free-campaigns/","tags":["#corporate_campaigns","#chicken","#farming","#eggs"],"created":"2025-10-23T17:42:44.171+01:00","updated":"2025-10-23T18:06:08.697+01:00"}
 ---
 
 #chicken #farming #eggs 

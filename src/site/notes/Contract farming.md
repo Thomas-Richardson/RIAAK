@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contract-farming/","created":"2025-10-23T12:01:41.960+01:00","updated":"2025-10-23T12:01:41.960+01:00"}
+{"dg-publish":true,"permalink":"/contract-farming/","tags":["#farming","#chicken","#usa"],"created":"2025-10-23T17:42:47.535+01:00","updated":"2025-10-23T18:06:08.724+01:00"}
 ---
 
 #farming #chicken #usa 

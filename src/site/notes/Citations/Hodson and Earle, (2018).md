@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/hodson-and-earle-2018/","created":"2024-03-10T17:06:44.000+00:00","updated":"2025-09-28T23:47:07.108+01:00"}
+{"dg-publish":true,"permalink":"/citations/hodson-and-earle-2018/","tags":["#citation","#politics","#animal_advocacy"],"created":"2025-10-23T17:42:46.296+01:00","updated":"2025-10-23T18:06:08.932+01:00"}
 ---
 
 #citation #politics #animal_advocacy 

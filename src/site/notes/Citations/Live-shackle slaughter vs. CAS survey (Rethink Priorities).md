@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/live-shackle-slaughter-vs-cas-survey-rethink-priorities/","tags":["#USA"],"created":"2025-10-23T14:19:17.655+01:00","updated":"2025-10-23T14:19:17.705+01:00"}
+{"dg-publish":true,"permalink":"/citations/live-shackle-slaughter-vs-cas-survey-rethink-priorities/","tags":["#USA"],"created":"2025-10-23T17:42:44.860+01:00","updated":"2025-10-23T18:06:54.420+01:00"}
 ---
 
 Rethink Priorities conducted a survey to see how live shackle slaughter resonates with consumers to engender support for reforming this practice. We also tested whether controlled atmosphere systems are a popular alternative.

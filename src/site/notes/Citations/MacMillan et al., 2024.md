@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/mac-millan-et-al-2024/","created":"2024-12-04T14:07:16.789+00:00","updated":"2025-09-28T23:47:38.896+01:00"}
+{"dg-publish":true,"permalink":"/citations/mac-millan-et-al-2024/","tags":["#citation","#cultivated_meat","#farmers"],"created":"2025-10-23T17:42:45.443+01:00","updated":"2025-10-23T18:06:08.853+01:00"}
 ---
 
 #citation #cultivated_meat #farmers 

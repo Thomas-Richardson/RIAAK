@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/imports-to-meet-swiss-animal-welfare-standards-animal-ask/","created":"2025-10-01T10:43:03.765+01:00","updated":"2025-10-01T10:53:28.723+01:00"}
+{"dg-publish":true,"permalink":"/citations/imports-to-meet-swiss-animal-welfare-standards-animal-ask/","created":"2025-10-23T17:42:46.146+01:00","updated":"2025-10-23T17:42:46.146+01:00"}
 ---
 
 # Imports to Meet Swiss Animal Welfare Standards — Exact Summary (with key stats)

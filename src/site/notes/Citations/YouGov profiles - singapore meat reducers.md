@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/you-gov-profiles-singapore-meat-reducers/","created":"2024-07-03T11:48:07.563+01:00","updated":"2025-09-28T23:42:08.064+01:00"}
+{"dg-publish":true,"permalink":"/citations/you-gov-profiles-singapore-meat-reducers/","tags":["#citation","#alternative_proteins","#asia","#good_growth_social_listening"],"created":"2025-10-23T17:42:45.269+01:00","updated":"2025-10-23T18:06:08.831+01:00"}
 ---
 
 #citation #alternative_proteins #asia #good_growth_social_listening 

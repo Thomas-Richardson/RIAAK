@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health-effects-of-chicken/","created":"2024-04-22T12:55:43.000+01:00","updated":"2025-09-29T00:15:15.365+01:00"}
+{"dg-publish":true,"permalink":"/health-effects-of-chicken/","tags":["#chicken","#health_nutrition"],"created":"2025-10-23T17:42:43.120+01:00","updated":"2025-10-23T18:06:08.659+01:00"}
 ---
 
 #chicken #health_nutrition  

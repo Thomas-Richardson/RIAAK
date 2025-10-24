@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/factors-that-predict-sticking-with-veganism/","created":"2023-11-23T17:07:21.000+00:00","updated":"2025-09-28T23:52:06.015+01:00"}
+{"dg-publish":true,"permalink":"/factors-that-predict-sticking-with-veganism/","tags":["#veganism","#psychology"],"created":"2025-10-23T17:42:42.332+01:00","updated":"2025-10-23T18:06:08.630+01:00"}
 ---
 
 #veganism #psychology 

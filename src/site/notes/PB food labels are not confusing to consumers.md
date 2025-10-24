@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pb-food-labels-are-not-confusing-to-consumers/","created":"2024-01-12T11:22:42.000+00:00","updated":"2025-09-29T00:20:46.870+01:00"}
+{"dg-publish":true,"permalink":"/pb-food-labels-are-not-confusing-to-consumers/","tags":["#veganism","#labelling"],"created":"2025-10-23T17:42:47.493+01:00","updated":"2025-10-23T18:06:08.720+01:00"}
 ---
 
 #veganism #labelling 

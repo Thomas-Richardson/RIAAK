@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/farvid-et-al-2021/","created":"2024-03-10T17:02:47.000+00:00","updated":"2025-09-28T23:40:44.164+01:00"}
+{"dg-publish":true,"permalink":"/citations/farvid-et-al-2021/","tags":["#citation","#meat","#cows"],"created":"2025-10-23T17:42:46.757+01:00","updated":"2025-10-23T18:06:08.955+01:00"}
 ---
 
 #citation #meat #cows

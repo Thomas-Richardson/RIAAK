@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/transparent-farms/","created":"2024-06-21T14:41:34.367+01:00","updated":"2025-09-29T00:31:06.745+01:00"}
+{"dg-publish":true,"permalink":"/transparent-farms/","tags":["#data"],"created":"2025-10-23T17:42:43.897+01:00","updated":"2025-10-23T18:06:08.681+01:00"}
 ---
 
 #data

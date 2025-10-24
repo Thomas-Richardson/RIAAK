@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/we-eat-too-many-animal-products/","created":"2024-04-22T13:03:05.000+01:00","updated":"2025-09-29T00:31:59.881+01:00"}
+{"dg-publish":true,"permalink":"/we-eat-too-many-animal-products/","tags":["#farming","#health_nutrition","#meat","#fish","#red_meat","#chicken","#eggs","#dairy"],"created":"2025-10-23T17:42:42.463+01:00","updated":"2025-10-23T18:06:08.636+01:00"}
 ---
 
 #farming #health_nutrition #meat 

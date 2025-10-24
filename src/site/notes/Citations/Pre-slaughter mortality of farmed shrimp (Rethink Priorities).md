@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/pre-slaughter-mortality-of-farmed-shrimp-rethink-priorities/","tags":["shrimp crustaceans"],"created":"2025-10-23T11:04:22.928+01:00","updated":"2025-10-23T11:04:22.949+01:00"}
+{"dg-publish":true,"permalink":"/citations/pre-slaughter-mortality-of-farmed-shrimp-rethink-priorities/","tags":["#shrimp crustaceans"],"created":"2025-10-23T17:42:46.907+01:00","updated":"2025-10-23T18:12:10.265+01:00"}
 ---
 
 ## Executive summary

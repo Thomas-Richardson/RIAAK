@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/do-countries-comply-with-eu-animal-welfare-laws-rethink-priorities/","tags":["#EU"],"created":"2025-10-23T14:19:55.669+01:00","updated":"2025-10-23T14:19:55.697+01:00"}
+{"dg-publish":true,"permalink":"/citations/do-countries-comply-with-eu-animal-welfare-laws-rethink-priorities/","tags":["#EU"],"created":"2025-10-23T17:42:46.690+01:00","updated":"2025-10-23T18:12:10.259+01:00"}
 ---
 
 ## Summary

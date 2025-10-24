@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/red-and-processed-meat-and-obesity/","created":"2024-04-22T13:00:36.000+01:00","updated":"2025-09-29T00:23:08.520+01:00"}
+{"dg-publish":true,"permalink":"/red-and-processed-meat-and-obesity/","tags":["#meat","#health_nutrition","#red_meat"],"created":"2025-10-23T17:42:43.782+01:00","updated":"2025-10-23T18:06:08.679+01:00"}
 ---
 
 #meat #health_nutrition #red_meat 

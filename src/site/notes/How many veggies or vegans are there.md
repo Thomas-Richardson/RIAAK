@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/how-many-veggies-or-vegans-are-there/","created":"2024-05-25T13:12:34.001+01:00","updated":"2025-09-29T00:15:33.111+01:00"}
+{"dg-publish":true,"permalink":"/how-many-veggies-or-vegans-are-there/","created":"2025-10-23T17:42:47.486+01:00","updated":"2025-10-23T18:06:08.719+01:00"}
 ---
-
 
 - This [2018 review](https://animalcharityevaluators.org/blog/is-the-percentage-of-vegetarians-and-vegans-in-the-u-s-increasing/#review) seems to include most of the main sources
 	- Complicated by the fact that [[Some veggie-vegans eat meat\|Some veggie-vegans eat meat]]

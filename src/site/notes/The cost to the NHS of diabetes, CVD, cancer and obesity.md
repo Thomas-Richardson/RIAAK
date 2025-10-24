@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-cost-to-the-nhs-of-diabetes-cvd-cancer-and-obesity/","created":"2024-04-22T13:03:43.000+01:00","updated":"2025-09-29T00:29:57.079+01:00"}
+{"dg-publish":true,"permalink":"/the-cost-to-the-nhs-of-diabetes-cvd-cancer-and-obesity/","tags":["#economics","#health_nutrition"],"created":"2025-10-23T17:42:42.028+01:00","updated":"2025-10-23T18:06:08.620+01:00"}
 ---
 
 #economics #health_nutrition

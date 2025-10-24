@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/which-message-frames-improve-attitudes-towards-animal-treatment-animal-think-tank/","created":"2025-10-23T15:06:55.198+01:00","updated":"2025-10-23T15:06:55.198+01:00"}
+{"dg-publish":true,"permalink":"/citations/which-message-frames-improve-attitudes-towards-animal-treatment-animal-think-tank/","created":"2025-10-23T17:42:44.975+01:00","updated":"2025-10-23T17:42:44.975+01:00"}
 ---
 
 

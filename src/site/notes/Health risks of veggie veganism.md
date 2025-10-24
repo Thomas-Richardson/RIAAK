@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health-risks-of-veggie-veganism/","created":"2024-04-25T12:39:07.000+01:00","updated":"2025-09-29T00:15:18.609+01:00"}
+{"dg-publish":true,"permalink":"/health-risks-of-veggie-veganism/","tags":["#veganism","#health_nutrition"],"created":"2025-10-23T17:42:41.969+01:00","updated":"2025-10-23T18:06:08.618+01:00"}
 ---
 
 #veganism #health_nutrition 

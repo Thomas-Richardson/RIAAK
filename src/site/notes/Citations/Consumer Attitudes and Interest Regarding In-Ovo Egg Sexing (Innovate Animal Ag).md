@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/consumer-attitudes-and-interest-regarding-in-ovo-egg-sexing-innovate-animal-ag/","created":"2025-10-23T14:56:56.885+01:00","updated":"2025-10-23T14:56:56.886+01:00"}
+{"dg-publish":true,"permalink":"/citations/consumer-attitudes-and-interest-regarding-in-ovo-egg-sexing-innovate-animal-ag/","created":"2025-10-23T17:42:45.105+01:00","updated":"2025-10-23T17:42:45.106+01:00"}
 ---
 
 

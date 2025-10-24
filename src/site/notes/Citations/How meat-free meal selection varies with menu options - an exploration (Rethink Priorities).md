@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/how-meat-free-meal-selection-varies-with-menu-options-an-exploration-rethink-priorities/","tags":["#nudging"],"created":"2025-10-23T14:03:04.139+01:00","updated":"2025-10-23T14:03:04.244+01:00"}
+{"dg-publish":true,"permalink":"/citations/how-meat-free-meal-selection-varies-with-menu-options-an-exploration-rethink-priorities/","tags":["#nudging"],"created":"2025-10-23T17:42:46.902+01:00","updated":"2025-10-23T18:12:10.264+01:00"}
 ---
 
 ## Non-technical summary

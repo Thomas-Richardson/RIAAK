@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/social-listening-for-animal-orgs-things-we-ve-learned/","created":"2024-10-05T09:07:03.409+01:00","updated":"2025-09-29T00:29:22.545+01:00"}
+{"dg-publish":true,"permalink":"/social-listening-for-animal-orgs-things-we-ve-learned/","tags":["#good_growth_social_listening","#blog_in_progress"],"created":"2025-10-23T17:42:48.056+01:00","updated":"2025-10-23T18:06:08.743+01:00"}
 ---
 
 #good_growth_social_listening #blog_in_progress 

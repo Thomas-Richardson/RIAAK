@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wild-animal-initiative-research-library/","tags":["external_resource","wild_animals"],"created":"2025-10-23T11:38:34.983+01:00","updated":"2025-10-23T11:39:23.575+01:00"}
+{"dg-publish":true,"permalink":"/wild-animal-initiative-research-library/","tags":["#external_resource","#wild_animals"],"created":"2025-10-23T17:42:47.147+01:00","updated":"2025-10-23T17:42:47.147+01:00"}
 ---
 
 

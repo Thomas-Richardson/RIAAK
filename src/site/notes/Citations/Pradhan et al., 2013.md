@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/citations/pradhan-et-al-2013/","tags":["farming","citation","SE_asia"],"created":"2025-10-23T12:04:14.597+01:00","updated":"2025-10-23T12:04:14.597+01:00"}
+{"dg-publish":true,"permalink":"/citations/pradhan-et-al-2013/","tags":["#animal_feed - farming - citation - SE_asia"],"created":"2025-10-23T17:42:44.360+01:00","updated":"2025-10-23T19:18:51.116+01:00"}
 ---
- 
 
 https://iopscience.iop.org/article/10.1088/1748-9326/8/4/044044/meta
 

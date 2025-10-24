@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/springmann-et-al-2021/","created":"2023-11-17T22:37:39.000+00:00","updated":"2025-10-10T23:59:04.503+01:00"}
+{"dg-publish":true,"permalink":"/citations/springmann-et-al-2021/","tags":["#citation","#veganism","#economics"],"created":"2025-10-23T17:42:45.244+01:00","updated":"2025-10-23T18:06:08.829+01:00"}
 ---
 
 #citation #veganism #economics 

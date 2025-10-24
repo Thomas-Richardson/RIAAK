@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/can-we-build-support-for-welfare-enforcement-animal-think-tank/","created":"2025-10-23T15:18:21.941+01:00","updated":"2025-10-23T15:18:21.941+01:00"}
+{"dg-publish":true,"permalink":"/citations/can-we-build-support-for-welfare-enforcement-animal-think-tank/","created":"2025-10-23T17:42:45.577+01:00","updated":"2025-10-23T17:42:45.578+01:00"}
 ---
 
 

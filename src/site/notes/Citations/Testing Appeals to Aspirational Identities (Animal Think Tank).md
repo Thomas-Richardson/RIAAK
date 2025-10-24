@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/testing-appeals-to-aspirational-identities-animal-think-tank/","created":"2025-10-23T15:09:11.843+01:00","updated":"2025-10-23T15:09:11.844+01:00"}
+{"dg-publish":true,"permalink":"/citations/testing-appeals-to-aspirational-identities-animal-think-tank/","created":"2025-10-23T17:42:44.949+01:00","updated":"2025-10-23T17:42:44.949+01:00"}
 ---
 
 

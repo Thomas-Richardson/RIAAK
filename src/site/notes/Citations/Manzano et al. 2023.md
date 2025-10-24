@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/manzano-et-al-2023/","created":"2023-10-19T14:20:33.000+01:00","updated":"2025-09-28T23:47:42.343+01:00"}
+{"dg-publish":true,"permalink":"/citations/manzano-et-al-2023/","tags":["#citation","#environment_misc","#farming"],"created":"2025-10-23T17:42:46.235+01:00","updated":"2025-10-23T18:06:08.927+01:00"}
 ---
 
 #citation #environment_misc #farming

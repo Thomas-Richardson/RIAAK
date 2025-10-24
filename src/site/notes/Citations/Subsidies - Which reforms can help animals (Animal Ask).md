@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/subsidies-which-reforms-can-help-animals-animal-ask/","created":"2025-10-01T10:36:07.742+01:00","updated":"2025-10-01T10:53:41.209+01:00"}
+{"dg-publish":true,"permalink":"/citations/subsidies-which-reforms-can-help-animals-animal-ask/","tags":["#animal_feed"],"created":"2025-10-23T17:42:44.743+01:00","updated":"2025-10-24T09:48:28.662+01:00"}
 ---
 
 To do as much good for animals as we can, it is important to understand the systems that are causing animals to suffer and die - and how to reform those systems to help animals.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/han-et-al-2019/","created":"2024-04-22T12:57:19.000+01:00","updated":"2025-09-28T23:47:01.196+01:00"}
+{"dg-publish":true,"permalink":"/citations/han-et-al-2019/","tags":["#citation","#health_nutrition","#meat"],"created":"2025-10-23T17:42:46.728+01:00","updated":"2025-10-23T18:06:08.954+01:00"}
 ---
 
 #citation #health_nutrition  #meat 

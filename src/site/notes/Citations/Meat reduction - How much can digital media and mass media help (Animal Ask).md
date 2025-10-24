@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/meat-reduction-how-much-can-digital-media-and-mass-media-help-animal-ask/","created":"2025-10-01T10:17:51.054+01:00","updated":"2025-10-01T10:53:35.707+01:00"}
+{"dg-publish":true,"permalink":"/citations/meat-reduction-how-much-can-digital-media-and-mass-media-help-animal-ask/","created":"2025-10-23T17:42:45.030+01:00","updated":"2025-10-23T17:42:45.030+01:00"}
 ---
 
 The animal advocacy movement regularly invests resources into campaigns that aim to reduce people's consumption of meat and/or animal products. Many of these campaigns are conducted using digital media (e.g. social media ads) and/or mass media (e.g. radio, TV, newspapers).

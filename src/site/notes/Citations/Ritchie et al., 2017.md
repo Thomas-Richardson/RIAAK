@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/ritchie-et-al-2017/","created":"2023-10-13T12:59:33.000+01:00","updated":"2025-09-28T23:41:53.191+01:00"}
+{"dg-publish":true,"permalink":"/citations/ritchie-et-al-2017/","tags":["#citation","#meat","#dairy","#environment_misc"],"created":"2025-10-23T17:42:46.992+01:00","updated":"2025-10-23T18:06:08.967+01:00"}
 ---
 
 #citation #meat #dairy #environment_misc 

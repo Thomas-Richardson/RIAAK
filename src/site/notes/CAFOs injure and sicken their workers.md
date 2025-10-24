@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/caf-os-injure-and-sicken-their-workers/","tags":["factory_farming","health_disease"],"created":"2024-04-22T12:47:50.000+01:00","updated":"2025-10-23T08:10:29.824+01:00"}
+{"dg-publish":true,"permalink":"/caf-os-injure-and-sicken-their-workers/","tags":["#factory_farming","#health_disease","#chickens","#pigs"],"created":"2025-10-23T17:42:42.933+01:00","updated":"2025-10-23T17:42:42.934+01:00"}
 ---
 
 #factory_farming #health_disease  #chickens #pigs

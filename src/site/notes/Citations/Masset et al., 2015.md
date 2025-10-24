@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/masset-et-al-2015/","created":"2024-04-22T13:02:06.000+01:00","updated":"2025-09-28T23:47:45.765+01:00"}
+{"dg-publish":true,"permalink":"/citations/masset-et-al-2015/","tags":["#mfa_food_sec","#citation","#health_nutrition","#lower_middle_income_countries"],"created":"2025-10-23T17:42:45.145+01:00","updated":"2025-10-23T18:06:08.818+01:00"}
 ---
 
 #mfa_food_sec #citation #health_nutrition #lower_middle_income_countries 

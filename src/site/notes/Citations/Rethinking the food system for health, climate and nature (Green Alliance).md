@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/rethinking-the-food-system-for-health-climate-and-nature-green-alliance/","created":"2025-10-01T13:59:40.979+01:00","updated":"2025-10-01T13:59:41.037+01:00"}
+{"dg-publish":true,"permalink":"/citations/rethinking-the-food-system-for-health-climate-and-nature-green-alliance/","created":"2025-10-23T17:42:44.944+01:00","updated":"2025-10-23T17:42:44.944+01:00"}
 ---
 
 The 2021 UK National Food Strategy Review combined data driven evidence with wide stakeholder engagement to diagnose serious problems caused by the food system, develop policy recommendations to tackle them and build a social and political mandate to act. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/harwatt-and-hayek-2019/","created":"2024-04-24T11:14:25.000+01:00","updated":"2025-09-28T23:47:02.580+01:00"}
+{"dg-publish":true,"permalink":"/citations/harwatt-and-hayek-2019/","tags":["#animal_feed","#wild_animals","#citation","#environment_ghg","#environment_land","#food_security","#cawf_food_sec"],"created":"2025-10-23T17:42:44.331+01:00","updated":"2025-10-23T19:20:34.046+01:00"}
 ---
 
 #citation #environment_ghg #environment_land #food_security #cawf_food_sec 

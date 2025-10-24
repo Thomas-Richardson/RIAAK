@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/animal-advocacy-strategy-forum-2023-summary-rethink-priorities/","tags":["movement_building strategy"],"created":"2025-10-23T11:02:30.516+01:00","updated":"2025-10-23T11:02:30.559+01:00"}
+{"dg-publish":true,"permalink":"/citations/animal-advocacy-strategy-forum-2023-summary-rethink-priorities/","tags":["#wild_animals - \"movement_building strategy\""],"created":"2025-10-23T17:42:46.406+01:00","updated":"2025-10-23T19:20:34.041+01:00"}
 ---
 
 In July 2023, the Animal Advocacy Strategy Forum was held over three days to bring together key decision-makers in the animal advocacy community to connect, coordinate, and strategize. At the end of the forum, 35 out of 44 participants completed a survey to understand the future needs of effective animal advocacy groups and their perceptions of crucial focus areas.

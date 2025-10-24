@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/latunde-dada-et-al-2023/","tags":["health_nutrition","alternative_proteins","plant_based_alternative_proteins"],"created":"2025-10-22T22:54:20.206+01:00","updated":"2025-10-22T22:54:20.206+01:00"}
+{"dg-publish":true,"permalink":"/citations/latunde-dada-et-al-2023/","tags":["#health_nutrition","#alternative_proteins","#plant_based_alternative_proteins"],"created":"2025-10-23T17:42:45.281+01:00","updated":"2025-10-23T17:42:45.281+01:00"}
 ---
 
 Increasing numbers of individuals follow plant-based diets. This has sparked interest in the nutritional evaluation of the meat substitute sector. Nutritional understanding of these products is vital as plant-based eating becomes more common. For example, animal products are rich sources of iron and zinc, and plant-based foods could be inadequate in these minerals. 

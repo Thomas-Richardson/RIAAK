@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/institutional-food-systems-transformation-quantitative-analysis-of-coolfood-s-intervention-framework-rethink-priorities/","tags":["institutional_change case_study"],"created":"2025-10-23T11:00:00.275+01:00","updated":"2025-10-23T11:00:00.299+01:00"}
+{"dg-publish":true,"permalink":"/citations/institutional-food-systems-transformation-quantitative-analysis-of-coolfood-s-intervention-framework-rethink-priorities/","tags":["#institutional_change case_study"],"created":"2025-10-23T17:42:46.683+01:00","updated":"2025-10-23T18:12:10.259+01:00"}
 ---
 
 ### Case study profile

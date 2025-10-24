@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/saldivar-et-al-2022/","created":"2024-04-22T13:06:04.000+01:00","updated":"2025-09-28T23:48:34.363+01:00"}
+{"dg-publish":true,"permalink":"/citations/saldivar-et-al-2022/","tags":["#citation","#case_study","#health_nutrition","#veganism","#study_idea"],"created":"2025-10-23T17:42:45.059+01:00","updated":"2025-10-23T18:06:08.813+01:00"}
 ---
 
 #citation #case_study #health_nutrition #veganism 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/livestock-in-africa/","created":"2024-03-14T11:24:08.000+00:00","updated":"2025-09-29T00:19:31.381+01:00"}
+{"dg-publish":true,"permalink":"/livestock-in-africa/","tags":["#lower_middle_income_countries","#farming","#meat"],"created":"2025-10-23T17:42:47.958+01:00","updated":"2025-10-23T18:06:08.739+01:00"}
 ---
 
 #lower_middle_income_countries #farming #meat 

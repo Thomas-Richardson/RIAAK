@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/understanding-the-plant-based-market-in-china-consumption-trends-and-customer-personas-good-growth-io/","created":"2025-10-23T14:44:14.859+01:00","updated":"2025-10-23T14:44:14.859+01:00"}
+{"dg-publish":true,"permalink":"/citations/understanding-the-plant-based-market-in-china-consumption-trends-and-customer-personas-good-growth-io/","created":"2025-10-23T17:42:46.323+01:00","updated":"2025-10-23T17:42:46.323+01:00"}
 ---
 
 

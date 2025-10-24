@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/research-summary-the-subjective-experience-of-time-rethink-priorities/","tags":["#sentience"],"created":"2025-10-23T14:20:42.138+01:00","updated":"2025-10-23T14:20:42.196+01:00"}
+{"dg-publish":true,"permalink":"/citations/research-summary-the-subjective-experience-of-time-rethink-priorities/","tags":["#wild_animals - \"sentience\""],"created":"2025-10-23T17:42:44.705+01:00","updated":"2025-10-23T19:20:34.062+01:00"}
 ---
 
 _Considering differences in the subjective experience of time may affect the proportion of resources we wish to allocate to different species. I’ve recently written two pieces on the subject, [here](https://forum.effectivealtruism.org/posts/qEsDhFL8mQARFw6Fj/the-subjective-experience-of-time-welfare-implications) and [here](https://forum.effectivealtruism.org/posts/DAKivjBpvQhHYGqBH/does-critical-flicker-fusion-frequency-track-the-subjective). Counting somewhat conservatively, the two posts total more than 23,000 words. In this (much shorter) post I attempt to succinctly introduce the topic and convey my main conclusions. The aim is to create a digestible overview of my current thinking that imposes a smaller time burden on readers._

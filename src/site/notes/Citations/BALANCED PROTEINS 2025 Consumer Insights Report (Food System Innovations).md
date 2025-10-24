@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/balanced-proteins-2025-consumer-insights-report-food-system-innovations/","created":"2025-10-21T13:12:17.533+01:00","updated":"2025-10-21T13:12:17.534+01:00"}
+{"dg-publish":true,"permalink":"/citations/balanced-proteins-2025-consumer-insights-report-food-system-innovations/","created":"2025-10-23T17:42:45.300+01:00","updated":"2025-10-23T17:42:45.300+01:00"}
 ---
 
 

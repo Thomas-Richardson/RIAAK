@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/securing-scale-up-funding-for-alternative-proteins-ambitious-impact/","created":"2025-10-23T11:32:53.019+01:00","updated":"2025-10-23T11:32:53.020+01:00"}
+{"dg-publish":true,"permalink":"/citations/securing-scale-up-funding-for-alternative-proteins-ambitious-impact/","created":"2025-10-23T17:42:44.512+01:00","updated":"2025-10-23T17:42:44.513+01:00"}
 ---
 
 

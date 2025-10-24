@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psychological-factors-in-cultivated-meat-acceptance/","tags":["#cultivated_meat","psychology"],"created":"2024-03-10T16:33:27.000+00:00","updated":"2025-10-10T23:30:40.368+01:00"}
+{"dg-publish":true,"permalink":"/psychological-factors-in-cultivated-meat-acceptance/","tags":["#cultivated_meat","#psychology","#bryant_research"],"created":"2025-10-23T17:42:47.551+01:00","updated":"2025-10-23T18:06:08.725+01:00"}
 ---
 
 #cultivated_meat #psychology #bryant_research 

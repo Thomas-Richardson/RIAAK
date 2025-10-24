@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/berners-lee-watson-and-hewitt-2018/","created":"2024-04-25T12:40:15.000+01:00","updated":"2025-10-10T23:54:55.421+01:00"}
+{"dg-publish":true,"permalink":"/citations/berners-lee-watson-and-hewitt-2018/","tags":["#animal_feed","#citation","#farming","#food_security","#environment_land"],"created":"2025-10-23T17:42:45.924+01:00","updated":"2025-10-23T19:18:51.105+01:00"}
 ---
 
 #citation #farming #food_security  #environment_land 

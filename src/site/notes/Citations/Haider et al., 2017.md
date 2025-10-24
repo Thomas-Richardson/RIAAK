@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/haider-et-al-2017/","created":"2024-04-22T12:55:50.000+01:00","updated":"2025-09-28T23:47:00.731+01:00"}
+{"dg-publish":true,"permalink":"/citations/haider-et-al-2017/","tags":["#citation","#veganism","#health_nutrition"],"created":"2025-10-23T17:42:44.732+01:00","updated":"2025-10-23T18:06:08.796+01:00"}
 ---
 
 #citation #veganism #health_nutrition  

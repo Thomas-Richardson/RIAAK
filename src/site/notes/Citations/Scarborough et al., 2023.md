@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/scarborough-et-al-2023/","created":"2023-12-18T14:31:44.000+00:00","updated":"2025-10-10T23:58:17.888+01:00"}
+{"dg-publish":true,"permalink":"/citations/scarborough-et-al-2023/","tags":["#citation","#environment_misc"],"created":"2025-10-23T17:42:44.800+01:00","updated":"2025-10-23T18:06:08.800+01:00"}
 ---
 
 #citation #environment_misc 

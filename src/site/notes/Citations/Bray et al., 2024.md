@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/bray-et-al-2024/","created":"2024-11-15T21:14:50.550+00:00","updated":"2025-09-28T23:39:19.307+01:00"}
+{"dg-publish":true,"permalink":"/citations/bray-et-al-2024/","tags":["#citation","#economics"],"created":"2025-10-23T17:42:46.872+01:00","updated":"2025-10-23T18:06:08.960+01:00"}
 ---
 
 #citation #economics 

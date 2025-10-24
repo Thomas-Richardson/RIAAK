@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/cruel-products-import-ban-animal-ask/","created":"2025-10-01T10:34:03.067+01:00","updated":"2025-10-01T10:53:15.521+01:00"}
+{"dg-publish":true,"permalink":"/citations/cruel-products-import-ban-animal-ask/","created":"2025-10-23T17:42:46.464+01:00","updated":"2025-10-23T17:42:46.465+01:00"}
 ---
 
 # Executive summary — Switzerland “cruel products” import ban

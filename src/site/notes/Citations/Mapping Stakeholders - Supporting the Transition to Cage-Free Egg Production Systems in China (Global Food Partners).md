@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/mapping-stakeholders-supporting-the-transition-to-cage-free-egg-production-systems-in-china-global-food-partners/","created":"2025-10-23T14:49:53.305+01:00","updated":"2025-10-23T14:49:53.306+01:00"}
+{"dg-publish":true,"permalink":"/citations/mapping-stakeholders-supporting-the-transition-to-cage-free-egg-production-systems-in-china-global-food-partners/","created":"2025-10-23T17:42:46.493+01:00","updated":"2025-10-23T17:42:46.493+01:00"}
 ---
 
 

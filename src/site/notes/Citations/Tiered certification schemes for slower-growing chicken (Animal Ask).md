@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/tiered-certification-schemes-for-slower-growing-chicken-animal-ask/","created":"2025-10-16T10:59:55.620+01:00","updated":"2025-10-16T10:59:55.933+01:00"}
+{"dg-publish":true,"permalink":"/citations/tiered-certification-schemes-for-slower-growing-chicken-animal-ask/","created":"2025-10-23T17:42:45.016+01:00","updated":"2025-10-23T18:12:10.199+01:00"}
 ---
 
 A *tiered certification and labelling* scheme is a system where products are assigned different labels, depending on each product's performance on a particular attribute. A product's label can indicate one of multiple levels—for animal welfare, a tiered system assigns each product to one of multiple different categories of welfare conditions during farming. Tiered schemes can be contrasted with binary schemes, in which there is only one label and each product is simply labelled or not labelled. Tiered labelling schemes can also be called *graded*, *multi-tier* or *multi-level* labelling schemes.

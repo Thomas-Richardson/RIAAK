@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-nature-and-biodiversity-cost-of-our-diets-a-recipe-for-extinction-food-foundation/","created":"2025-10-10T16:47:45.621+01:00","updated":"2025-10-10T16:47:45.679+01:00"}
+{"dg-publish":true,"permalink":"/citations/the-nature-and-biodiversity-cost-of-our-diets-a-recipe-for-extinction-food-foundation/","created":"2025-10-23T17:42:45.975+01:00","updated":"2025-10-23T18:12:10.231+01:00"}
 ---
 
 Nature and biodiversity are critical for both planetary and human health - and yet we are facing a global crisis. Our food system is severely damaging the planet, contributing heavily to both greenhouse gas emissions, nature and biodiversity loss, and exerting pressure on ecosystems in multiple, interlinked ways.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/quantifying-attitudes-and-narratives-about-other-animals-aninof-29-think-tank/","created":"2025-10-23T15:20:54.978+01:00","updated":"2025-10-23T15:20:54.979+01:00"}
+{"dg-publish":true,"permalink":"/citations/quantifying-attitudes-and-narratives-about-other-animals-aninof-29-think-tank/","created":"2025-10-23T17:42:45.330+01:00","updated":"2025-10-23T17:42:45.331+01:00"}
 ---
 
 

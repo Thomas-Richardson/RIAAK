@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/insider-activism-animal-ask/","created":"2025-10-01T10:13:42.412+01:00","updated":"2025-10-01T10:53:30.943+01:00"}
+{"dg-publish":true,"permalink":"/citations/insider-activism-animal-ask/","created":"2025-10-23T17:42:47.097+01:00","updated":"2025-10-23T17:42:47.097+01:00"}
 ---
 
 Although often seen as outsiders, activists represent values that can be found in all strata of society including the very institutions that are targeted by social movements. Individuals inside these institutions are often faced with uncomfortable moral dilemmas when their values as citizens conflict with their responsibilities at work. While some respond by repressing or compartmentalising these conflicts many will push against the problems in the system from the inside. There have been many instances of these insiders coordinating internal interest groups or cooperating with external organisations to help create change, including within animal advocacy.

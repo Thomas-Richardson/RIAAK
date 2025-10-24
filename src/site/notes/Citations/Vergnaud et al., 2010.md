@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/vergnaud-et-al-2010/","created":"2024-04-22T13:03:23.000+01:00","updated":"2025-09-28T23:49:12.145+01:00"}
+{"dg-publish":true,"permalink":"/citations/vergnaud-et-al-2010/","tags":["#citation","#meat","#health_nutrition","#chicken"],"created":"2025-10-23T17:42:45.334+01:00","updated":"2025-10-23T18:06:08.835+01:00"}
 ---
 
 #citation #meat #health_nutrition  #chicken 

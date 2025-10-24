@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/choosing-tactics-evidence-from-social-movement-theory-animal-ask/","created":"2025-10-01T10:16:01.137+01:00","updated":"2025-10-01T10:53:13.838+01:00"}
+{"dg-publish":true,"permalink":"/citations/choosing-tactics-evidence-from-social-movement-theory-animal-ask/","created":"2025-10-23T17:42:46.656+01:00","updated":"2025-10-23T17:42:46.656+01:00"}
 ---
 
 In the pursuit of social change, social movements have used a variety of tactics to attempt to reform institutions and change public opinion. Here we define tactics as *specific methods that an organisation might use to whip up public support or apply political pressure when conducting a campaign towards a given ask*.

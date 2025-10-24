@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-impact-of-corporate-social-responsibility-on-animal-welfare-standards-evidence-from-the-cage-free-egg-industry-rethink-priorities/","tags":["coprorate_campaigns"],"created":"2025-10-23T11:03:47.267+01:00","updated":"2025-10-23T11:03:47.442+01:00"}
+{"dg-publish":true,"permalink":"/citations/the-impact-of-corporate-social-responsibility-on-animal-welfare-standards-evidence-from-the-cage-free-egg-industry-rethink-priorities/","tags":["#coprorate_campaigns"],"created":"2025-10-23T17:42:46.985+01:00","updated":"2025-10-23T18:12:10.266+01:00"}
 ---
 
 ### Executive Summary

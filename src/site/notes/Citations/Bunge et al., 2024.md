@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/bunge-et-al-2024/","created":"2024-04-22T12:47:45.000+01:00","updated":"2025-09-28T23:46:53.613+01:00"}
+{"dg-publish":true,"permalink":"/citations/bunge-et-al-2024/","tags":["#citation","#environment_land","#environment_ghg","#health_nutrition","#economics","#alternative_proteins"],"created":"2025-10-23T17:42:45.985+01:00","updated":"2025-10-23T17:42:45.986+01:00"}
 ---
 
 #citation #environment_land #environment_ghg  #health_nutrition  #economics #alternative_proteins 

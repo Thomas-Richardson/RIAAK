@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/nutrition-misinformation-in-the-digital-age-2024-2025-rooted-research-collective-et-al/","created":"2025-10-22T13:11:51.217+01:00","updated":"2025-10-22T13:11:51.218+01:00"}
+{"dg-publish":true,"permalink":"/citations/nutrition-misinformation-in-the-digital-age-2024-2025-rooted-research-collective-et-al/","created":"2025-10-23T17:42:44.845+01:00","updated":"2025-10-23T17:42:44.846+01:00"}
 ---
 
 

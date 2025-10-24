@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/alt-proteins-and-uk-farming-policy/","created":"2025-01-23T15:51:23.431+00:00","updated":"2025-10-10T23:50:05.107+01:00"}
+{"dg-publish":true,"permalink":"/alt-proteins-and-uk-farming-policy/","tags":["#alternative_proteins","#farming","#policy"],"created":"2025-10-23T17:42:47.727+01:00","updated":"2025-10-23T18:06:08.731+01:00"}
 ---
 
 #alternative_proteins #farming #policy 

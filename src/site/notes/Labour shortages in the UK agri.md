@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/labour-shortages-in-the-uk-agri/","created":"2025-10-23T09:43:41.050+01:00","updated":"2025-10-23T09:43:41.050+01:00"}
+{"dg-publish":true,"permalink":"/labour-shortages-in-the-uk-agri/","tags":["#cawf_food_sec","#uk"],"created":"2025-10-23T17:42:41.596+01:00","updated":"2025-10-23T18:06:08.605+01:00"}
 ---
 
 #cawf_food_sec #uk 

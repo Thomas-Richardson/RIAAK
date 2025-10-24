@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/reduction-in-owned-cats-outdoors-in-canada-and-the-us-and-animal-welfare-rethink-priorities/","tags":["companion_animals USA Canada"],"created":"2025-10-23T11:19:02.526+01:00","updated":"2025-10-23T11:19:02.587+01:00"}
+{"dg-publish":true,"permalink":"/citations/reduction-in-owned-cats-outdoors-in-canada-and-the-us-and-animal-welfare-rethink-priorities/","tags":["#wild_animals - \"companion_animals USA Canada\""],"created":"2025-10-23T17:42:45.344+01:00","updated":"2025-10-23T19:20:34.061+01:00"}
 ---
 
 ## Summary

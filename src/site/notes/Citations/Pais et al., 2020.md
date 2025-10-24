@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/pais-et-al-2020/","created":"2023-11-01T14:25:15.000+00:00","updated":"2025-09-28T23:47:54.808+01:00"}
+{"dg-publish":true,"permalink":"/citations/pais-et-al-2020/","tags":["#citation","#economics","#veganism","#meat"],"created":"2025-10-23T17:42:45.168+01:00","updated":"2025-10-23T18:06:08.821+01:00"}
 ---
 
 #citation #economics #veganism #meat 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/malan-et-al-2022/","created":"2024-03-10T17:07:33.000+00:00","updated":"2025-09-28T23:47:40.078+01:00"}
+{"dg-publish":true,"permalink":"/citations/malan-et-al-2022/","tags":["#citation","#animal_advocacy","#alternative_proteins","#behaviour_change"],"created":"2025-10-23T17:42:45.205+01:00","updated":"2025-10-23T18:06:08.824+01:00"}
 ---
 
 #citation #animal_advocacy #alternative_proteins  #behaviour_change 

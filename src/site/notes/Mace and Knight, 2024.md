@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mace-and-knight-2024/","created":"2024-10-08T11:40:03.837+01:00","updated":"2025-09-29T00:19:38.263+01:00"}
+{"dg-publish":true,"permalink":"/mace-and-knight-2024/","tags":["#chicken"],"created":"2025-10-23T17:42:41.815+01:00","updated":"2025-10-23T18:06:08.614+01:00"}
 ---
 
 #chicken 

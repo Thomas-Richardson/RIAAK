@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/uk-governmental-food-security-review-2024/","created":"2024-12-17T11:28:49.444+00:00","updated":"2025-10-10T23:59:28.671+01:00"}
+{"dg-publish":true,"permalink":"/citations/uk-governmental-food-security-review-2024/","tags":["#animal_feed","#citation","#uk","#food_security","#cawf_farming"],"created":"2025-10-23T17:42:46.272+01:00","updated":"2025-10-23T19:18:51.121+01:00"}
 ---
 
 #citation #uk #food_security #cawf_farming 

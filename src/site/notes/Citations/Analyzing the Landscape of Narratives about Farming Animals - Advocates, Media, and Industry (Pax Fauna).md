@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/analyzing-the-landscape-of-narratives-about-farming-animals-advocates-media-and-industry-pax-fauna/","tags":["#narratives"],"created":"2024-08-20T13:37:56.615+01:00","updated":"2025-10-01T19:28:51.529+01:00"}
+{"dg-publish":true,"permalink":"/citations/analyzing-the-landscape-of-narratives-about-farming-animals-advocates-media-and-industry-pax-fauna/","tags":["#narratives"],"created":"2025-10-23T17:42:44.520+01:00","updated":"2025-10-23T17:42:44.520+01:00"}
 ---
 
 

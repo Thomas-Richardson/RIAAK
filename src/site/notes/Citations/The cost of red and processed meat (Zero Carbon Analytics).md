@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-cost-of-red-and-processed-meat-zero-carbon-analytics/","created":"2025-10-22T14:37:32.275+01:00","updated":"2025-10-22T14:37:32.275+01:00"}
+{"dg-publish":true,"permalink":"/citations/the-cost-of-red-and-processed-meat-zero-carbon-analytics/","created":"2025-10-23T17:42:44.301+01:00","updated":"2025-10-23T17:42:44.302+01:00"}
 ---
 
 

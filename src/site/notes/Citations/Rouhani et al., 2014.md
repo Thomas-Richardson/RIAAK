@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/rouhani-et-al-2014/","created":"2024-04-22T13:07:40.000+01:00","updated":"2025-09-28T23:48:31.286+01:00"}
+{"dg-publish":true,"permalink":"/citations/rouhani-et-al-2014/","tags":["#citation","#meat","#health_nutrition"],"created":"2025-10-23T17:42:44.888+01:00","updated":"2025-10-23T18:06:08.803+01:00"}
 ---
 
 #citation #meat #health_nutrition

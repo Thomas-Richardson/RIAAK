@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/szejda-2023/","created":"2024-06-11T13:15:18.084+01:00","updated":"2025-09-28T23:42:00.308+01:00"}
+{"dg-publish":true,"permalink":"/citations/szejda-2023/","tags":["#citation","#materials"],"created":"2025-10-23T17:42:46.361+01:00","updated":"2025-10-23T18:06:08.935+01:00"}
 ---
 
 #citation #materials

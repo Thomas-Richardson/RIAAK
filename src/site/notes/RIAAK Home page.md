@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/riaak-home-page/","tags":["#wild_animals","#bryant_research","#farming","#health_disease","gardenEntry"],"created":"2025-10-23T17:42:41.615+01:00","updated":"2025-10-23T19:20:34.078+01:00"}
+{"dg-publish":true,"permalink":"/riaak-home-page/","tags":["wild_animals","gardenEntry"],"created":"2025-10-23T17:42:41.615+01:00","updated":"2025-10-24T10:06:57.863+01:00"}
 ---
 
 This is the homepage for Richie's Impactful Animal Advocacy Knowledge-base, aka RIAAK!
@@ -82,3 +82,5 @@ On the left side, you will also see the main folders and all the files inside th
 --- 
 
 If you have questions or contributions for this site, or spot a mistake, email me at richie@bryantresearch.co.uk
+
+<meta name="google-site-verification" content="__q6gih0iemHgOU3Ra4-PzE9tfrlmkKbqqsbWxlWGjo" />

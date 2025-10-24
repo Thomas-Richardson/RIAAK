@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/how-we-frame-the-problem-affects-public-support-for-animal-freedom-animal-think-tank/","created":"2025-10-23T15:00:22.438+01:00","updated":"2025-10-23T15:00:22.439+01:00"}
+{"dg-publish":true,"permalink":"/citations/how-we-frame-the-problem-affects-public-support-for-animal-freedom-animal-think-tank/","created":"2025-10-23T17:42:46.075+01:00","updated":"2025-10-23T17:42:46.076+01:00"}
 ---
 
 

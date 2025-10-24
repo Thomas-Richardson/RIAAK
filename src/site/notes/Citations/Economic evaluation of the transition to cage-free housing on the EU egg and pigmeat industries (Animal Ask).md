@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/economic-evaluation-of-the-transition-to-cage-free-housing-on-the-eu-egg-and-pigmeat-industries-animal-ask/","created":"2025-10-01T10:35:50.388+01:00","updated":"2025-10-01T10:53:19.777+01:00"}
+{"dg-publish":true,"permalink":"/citations/economic-evaluation-of-the-transition-to-cage-free-housing-on-the-eu-egg-and-pigmeat-industries-animal-ask/","created":"2025-10-23T17:42:47.024+01:00","updated":"2025-10-23T17:42:47.024+01:00"}
 ---
 
 This report aims to provide an objective economic analysis of the transition to cage-free housing in the European Union's egg and pigmeat industries. This report is based on the strongest and most relevant available scientific studies, as identified by a global systematic literature review. From several thousand publications, including both peer-reviewed studies and grey literature, we identified 13 high-quality sources for estimating the costs of egg production; 10 for the costs of pigmeat production; and 4 for consumer prices.

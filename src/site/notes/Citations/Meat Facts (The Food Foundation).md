@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/meat-facts-the-food-foundation/","created":"2025-10-21T09:30:03.198+01:00","updated":"2025-10-21T09:30:03.198+01:00"}
+{"dg-publish":true,"permalink":"/citations/meat-facts-the-food-foundation/","created":"2025-10-23T17:42:45.506+01:00","updated":"2025-10-23T17:42:45.506+01:00"}
 ---
 
 

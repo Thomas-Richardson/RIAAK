@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usda-s-agricultural-projections-to-2031/","created":"2024-04-18T15:45:35.000+01:00","updated":"2025-09-29T00:31:39.759+01:00"}
+{"dg-publish":true,"permalink":"/usda-s-agricultural-projections-to-2031/","tags":["#farming","#mfa_food_sec","#meat","#chicken","#dairy"],"created":"2025-10-23T17:42:43.917+01:00","updated":"2025-10-23T18:06:08.681+01:00"}
 ---
 
 #farming #mfa_food_sec #meat 

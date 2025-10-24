@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/citations/leroy-et-al-2023/","created":"2024-03-10T17:06:44.000+00:00","updated":"2025-09-28T23:47:29.092+01:00"}
+{"dg-publish":true,"permalink":"/citations/leroy-et-al-2023/","tags":["#wild_animals","#citation","#animal_advocacy","#eggs"],"created":"2025-10-23T17:42:45.401+01:00","updated":"2025-10-23T19:20:34.054+01:00"}
 ---
 
 #citation #animal_advocacy 
-
-- [[Refuting the Dublin declaration\|Refuting the Dublin declaration]]
 
 ## The role of meat in the human diet: evolutionary aspects and nutritional value
 

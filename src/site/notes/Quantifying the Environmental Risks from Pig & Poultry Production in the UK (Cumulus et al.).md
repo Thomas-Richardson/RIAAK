@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/quantifying-the-environmental-risks-from-pig-and-poultry-production-in-the-uk-cumulus-et-al/","created":"2025-10-21T08:09:08.317+01:00","updated":"2025-10-21T08:09:08.317+01:00"}
+{"dg-publish":true,"permalink":"/quantifying-the-environmental-risks-from-pig-and-poultry-production-in-the-uk-cumulus-et-al/","tags":["#animal_feed"],"created":"2025-10-23T17:42:43.937+01:00","updated":"2025-10-23T19:18:51.167+01:00"}
 ---
-
 
 This report contains an executive summary. As requested, it is reproduced here exactly.
 

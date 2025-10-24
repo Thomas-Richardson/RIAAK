@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/rethink-priorities-poll-us-attitudes-towards-insects-rethink-priorities/","tags":["#insects","#USA","#public_opinion"],"created":"2025-10-23T14:15:14.045+01:00","updated":"2025-10-23T14:15:14.284+01:00"}
+{"dg-publish":true,"permalink":"/citations/rethink-priorities-poll-us-attitudes-towards-insects-rethink-priorities/","tags":["#insects","#USA","#public_opinion"],"created":"2025-10-23T17:42:45.722+01:00","updated":"2025-10-23T18:12:10.222+01:00"}
 ---
 
 Rethink Priorities conducted a US national poll of 4,446 Americans, adjusted to match a US nationally representative likely voter electorate by weighing on race, age, gender, education, income, socioeconomic status, region, 2016 Presidential vote, and religious attitudes. The raw margin of error is +/-2 points with 95% confidence.

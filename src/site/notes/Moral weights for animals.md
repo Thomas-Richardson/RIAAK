@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/moral-weights-for-animals/","created":"2024-03-22T10:51:54.000+00:00","updated":"2025-09-29T00:20:09.803+01:00"}
+{"dg-publish":true,"permalink":"/moral-weights-for-animals/","tags":["#animal_ethics","#effective_altruism"],"created":"2025-10-23T17:42:42.953+01:00","updated":"2025-10-23T18:06:08.649+01:00"}
 ---
 
 #animal_ethics #effective_altruism 

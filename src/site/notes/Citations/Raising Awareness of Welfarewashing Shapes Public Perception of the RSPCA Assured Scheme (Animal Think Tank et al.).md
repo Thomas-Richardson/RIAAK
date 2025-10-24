@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/raising-awareness-of-welfarewashing-shapes-public-perception-of-the-rspca-assured-scheme-animal-think-tank-et-al/","created":"2025-10-23T15:02:13.092+01:00","updated":"2025-10-23T15:02:13.093+01:00"}
+{"dg-publish":true,"permalink":"/citations/raising-awareness-of-welfarewashing-shapes-public-perception-of-the-rspca-assured-scheme-animal-think-tank-et-al/","created":"2025-10-23T17:42:44.613+01:00","updated":"2025-10-23T17:42:44.613+01:00"}
 ---
 
 

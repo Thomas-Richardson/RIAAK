@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/image-and-slogan-message-testing-research-report-animal-think-tank/","created":"2025-10-23T15:20:15.037+01:00","updated":"2025-10-23T15:20:15.038+01:00"}
+{"dg-publish":true,"permalink":"/citations/image-and-slogan-message-testing-research-report-animal-think-tank/","created":"2025-10-23T17:42:45.728+01:00","updated":"2025-10-23T17:42:45.729+01:00"}
 ---
 
 

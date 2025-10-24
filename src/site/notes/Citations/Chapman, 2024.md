@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/chapman-2024/","created":"2024-03-10T17:07:33.000+00:00","updated":"2025-09-28T23:41:00.943+01:00"}
+{"dg-publish":true,"permalink":"/citations/chapman-2024/","tags":["#citation","#meat","#alternative_proteins"],"created":"2025-10-23T17:42:46.167+01:00","updated":"2025-10-23T18:06:08.924+01:00"}
 ---
 
 #citation #meat #alternative_proteins 

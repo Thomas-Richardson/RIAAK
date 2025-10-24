@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-economics-of-fish-farming-and-fish-welfare-in-europe-animal-ask/","created":"2025-10-01T10:07:50.097+01:00","updated":"2025-10-01T10:53:42.754+01:00"}
+{"dg-publish":true,"permalink":"/citations/the-economics-of-fish-farming-and-fish-welfare-in-europe-animal-ask/","created":"2025-10-23T17:42:45.668+01:00","updated":"2025-10-23T17:42:45.669+01:00"}
 ---
 
 Several organisations, including Rethink Priorities, Welfare Footprint, Animal Ask, and others, are conducting a year-long project to guide the strategy of the fish welfare movement for the coming decades. Building on previous work's interest and work in European farmed fish welfare by advocacy groups and expert scientists.

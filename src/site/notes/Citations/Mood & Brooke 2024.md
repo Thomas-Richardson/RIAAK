@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/mood-and-brooke-2024/","created":"2024-02-14T13:36:55.000+00:00","updated":"2025-09-28T23:47:49.680+01:00"}
+{"dg-publish":true,"permalink":"/citations/mood-and-brooke-2024/","tags":["#wild_animals","#citation","#fish"],"created":"2025-10-23T17:42:45.794+01:00","updated":"2025-10-23T19:20:34.058+01:00"}
 ---
 
 #citation #fish 

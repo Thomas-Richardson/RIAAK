@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/towards-food-policies-that-support-healthy-and-sustainable-consumption-agora-agriculture/","created":"2025-10-21T09:50:02.469+01:00","updated":"2025-10-21T09:50:02.546+01:00"}
+{"dg-publish":true,"permalink":"/citations/towards-food-policies-that-support-healthy-and-sustainable-consumption-agora-agriculture/","created":"2025-10-23T17:42:45.431+01:00","updated":"2025-10-23T18:12:10.213+01:00"}
 ---
 
 ## Preface

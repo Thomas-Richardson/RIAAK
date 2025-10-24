@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/latino-et-al-2020/","created":"2024-03-10T17:13:36.000+00:00","updated":"2025-09-28T23:47:25.627+01:00"}
+{"dg-publish":true,"permalink":"/citations/latino-et-al-2020/","tags":["#citation","#lower_middle_income_countries","#meat"],"created":"2025-10-23T17:42:47.008+01:00","updated":"2025-10-23T18:06:08.969+01:00"}
 ---
 
 #citation #lower_middle_income_countries #meat 

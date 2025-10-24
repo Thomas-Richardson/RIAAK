@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/toward-a-global-map-of-industrial-pig-and-poultry-farms-a-pilot-study/","created":"2025-10-23T14:53:29.826+01:00","updated":"2025-10-23T14:53:29.828+01:00"}
+{"dg-publish":true,"permalink":"/citations/toward-a-global-map-of-industrial-pig-and-poultry-farms-a-pilot-study/","created":"2025-10-23T17:42:45.352+01:00","updated":"2025-10-23T17:42:45.354+01:00"}
 ---
 
 

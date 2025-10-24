@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/silk-production-global-scale-and-animal-welfare-issues-rethink-priorities/","tags":["#materials","#animal_welfare","#insects"],"created":"2025-10-23T14:16:17.984+01:00","updated":"2025-10-23T14:16:28.688+01:00"}
+{"dg-publish":true,"permalink":"/citations/silk-production-global-scale-and-animal-welfare-issues-rethink-priorities/","tags":["#wild_animals - materials - animal_welfare - insects"],"created":"2025-10-23T17:42:46.808+01:00","updated":"2025-10-23T19:20:34.064+01:00"}
 ---
 
 At least 420 billion to 1 trillion silkworms are killed annually to produce silk.

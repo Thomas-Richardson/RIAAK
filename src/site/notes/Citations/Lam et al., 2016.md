@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/lam-et-al-2016/","created":"2024-03-21T15:42:52.000+00:00","updated":"2025-09-28T23:47:24.292+01:00"}
+{"dg-publish":true,"permalink":"/citations/lam-et-al-2016/","tags":["#factory_farming","#citation","#lower_middle_income_countries"],"created":"2025-10-23T17:42:44.638+01:00","updated":"2025-10-23T18:06:08.788+01:00"}
 ---
 
 #factory_farming #citation #lower_middle_income_countries 

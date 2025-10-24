@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/barriers-to-the-transformation-of-south-africa-s-food-system-animal-law-reform-south-africa/","tags":["lower_middle_income_countries","movement_building","#africa"],"created":"2025-10-01T10:10:59.936+01:00","updated":"2025-10-12T14:53:23.048+01:00"}
+{"dg-publish":true,"permalink":"/citations/barriers-to-the-transformation-of-south-africa-s-food-system-animal-law-reform-south-africa/","tags":["#wild_animals - lower_middle_income_countries - movement_building - \"#africa\""],"created":"2025-10-23T17:42:45.980+01:00","updated":"2025-10-23T19:20:34.042+01:00"}
 ---
 
 ## Executive summary

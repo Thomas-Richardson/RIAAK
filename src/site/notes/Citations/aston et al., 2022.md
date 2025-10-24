@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/aston-et-al-2022/","created":"2024-04-22T16:48:37.000+01:00","updated":"2025-09-28T23:39:11.373+01:00"}
+{"dg-publish":true,"permalink":"/citations/aston-et-al-2022/","tags":["#citation","#environment_ghg","#health_nutrition","#red_meat"],"created":"2025-10-23T17:42:45.548+01:00","updated":"2025-10-23T18:06:08.874+01:00"}
 ---
 
 #citation #environment_ghg  #health_nutrition  #red_meat 

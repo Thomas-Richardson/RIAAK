@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/a-new-land-dividend-green-alliance/","created":"2025-10-23T13:52:33.577+01:00","updated":"2025-10-23T13:52:33.578+01:00"}
+{"dg-publish":true,"permalink":"/citations/a-new-land-dividend-green-alliance/","created":"2025-10-23T17:42:46.000+01:00","updated":"2025-10-23T17:42:46.000+01:00"}
 ---
 
 

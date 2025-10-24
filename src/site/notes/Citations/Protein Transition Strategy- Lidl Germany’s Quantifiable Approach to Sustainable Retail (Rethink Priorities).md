@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/protein-transition-strategy-lidl-germany-s-quantifiable-approach-to-sustainable-retail-rethink-priorities/","tags":["retailers"],"created":"2025-10-23T11:14:45.544+01:00","updated":"2025-10-23T11:14:45.571+01:00"}
+{"dg-publish":true,"permalink":"/citations/protein-transition-strategy-lidl-germany-s-quantifiable-approach-to-sustainable-retail-rethink-priorities/","tags":["#retailers"],"created":"2025-10-23T17:42:46.882+01:00","updated":"2025-10-23T18:12:10.264+01:00"}
 ---
 
 ## Editorial Note

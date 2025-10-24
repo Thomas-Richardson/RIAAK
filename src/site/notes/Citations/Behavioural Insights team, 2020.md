@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/behavioural-insights-team-2020/","created":"2024-04-21T23:02:25.000+01:00","updated":"2025-10-12T14:56:05.875+01:00"}
+{"dg-publish":true,"permalink":"/citations/behavioural-insights-team-2020/","tags":["#psychology","#citation","#alternative_proteins","#behaviour_change"],"created":"2025-10-23T17:42:46.089+01:00","updated":"2025-10-23T18:06:08.920+01:00"}
 ---
 
 #psychology #citation #alternative_proteins #behaviour_change

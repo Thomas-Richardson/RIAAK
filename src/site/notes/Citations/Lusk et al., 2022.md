@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/lusk-et-al-2022/","tags":["cows"],"created":"2024-03-14T16:11:21.000+00:00","updated":"2025-10-23T17:33:19.610+01:00"}
+{"dg-publish":true,"permalink":"/citations/lusk-et-al-2022/","tags":["#cows"],"created":"2025-10-23T17:42:46.562+01:00","updated":"2025-10-23T17:42:46.562+01:00"}
 ---
 
 - [[Do vegan products reduce demand for ASFs\|Do vegan products reduce demand for ASFs]]

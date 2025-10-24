@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/eu-farmed-fish-policy-reform-roadmap-brief-rethink-priorities/","tags":["#fish policy eu"],"created":"2025-10-23T13:58:49.308+01:00","updated":"2025-10-23T13:58:49.593+01:00"}
+{"dg-publish":true,"permalink":"/citations/eu-farmed-fish-policy-reform-roadmap-brief-rethink-priorities/","tags":["#fish policy eu"],"created":"2025-10-23T17:42:45.234+01:00","updated":"2025-10-23T18:12:10.207+01:00"}
 ---
 
 - The report argues that the highest value objective is **improving the conditions of the species of fish farmed in the largest numbers of individuals and life-years in the EU: sea bass, sea bream, and (small) rainbow trout.**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/strategies-for-helping-farmed-shrimp-rethink-priorities/","tags":["shrimp crustaceans"],"created":"2025-10-23T11:09:12.130+01:00","updated":"2025-10-23T11:09:12.153+01:00"}
+{"dg-publish":true,"permalink":"/citations/strategies-for-helping-farmed-shrimp-rethink-priorities/","tags":["#shrimp crustaceans"],"created":"2025-10-23T17:42:46.712+01:00","updated":"2025-10-23T18:12:10.260+01:00"}
 ---
 
 ### Summary

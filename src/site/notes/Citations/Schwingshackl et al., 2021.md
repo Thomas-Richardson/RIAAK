@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/schwingshackl-et-al-2021/","created":"2024-04-22T13:05:18.000+01:00","updated":"2025-10-10T23:58:33.956+01:00"}
+{"dg-publish":true,"permalink":"/citations/schwingshackl-et-al-2021/","tags":["#citation","#health_nutrition"],"created":"2025-10-23T17:42:45.223+01:00","updated":"2025-10-23T18:06:08.826+01:00"}
 ---
 
 #citation #health_nutrition

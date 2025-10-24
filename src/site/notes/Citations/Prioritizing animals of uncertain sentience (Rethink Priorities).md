@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/prioritizing-animals-of-uncertain-sentience-rethink-priorities/","tags":["sentience shrimp insects"],"created":"2025-10-23T11:49:05.337+01:00","updated":"2025-10-23T11:49:05.365+01:00"}
+{"dg-publish":true,"permalink":"/citations/prioritizing-animals-of-uncertain-sentience-rethink-priorities/","tags":["#sentience shrimp insects"],"created":"2025-10-23T17:42:46.841+01:00","updated":"2025-10-23T18:12:10.263+01:00"}
 ---
 
 Expected value (EV) maximization is a common method for making decisions across different cause areas. The EV of an action is an average of the possible outcomes of that action, weighted by the probability of those outcomes occurring if the action is performed.

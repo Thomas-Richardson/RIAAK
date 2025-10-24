@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/non-human-animal-consciousness/","created":"2024-03-10T16:35:48.000+00:00","updated":"2025-09-29T00:20:31.623+01:00"}
+{"dg-publish":true,"permalink":"/non-human-animal-consciousness/","tags":["#animal_ethics"],"created":"2025-10-23T17:42:41.230+01:00","updated":"2025-10-23T18:06:08.590+01:00"}
 ---
 
 #animal_ethics 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/modelling-the-outcomes-of-animal-welfare-interventions-animal-ask/","created":"2025-10-01T10:12:58.082+01:00","updated":"2025-10-01T10:53:37.955+01:00"}
+{"dg-publish":true,"permalink":"/citations/modelling-the-outcomes-of-animal-welfare-interventions-animal-ask/","tags":["#wild_animals"],"created":"2025-10-23T17:42:46.216+01:00","updated":"2025-10-23T19:20:34.057+01:00"}
 ---
 
 Executive summary

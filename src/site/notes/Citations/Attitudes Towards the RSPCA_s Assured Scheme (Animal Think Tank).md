@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/attitudes-towards-the-rspca-s-assured-scheme-animal-think-tank/","created":"2025-10-23T15:22:26.826+01:00","updated":"2025-10-23T15:22:26.830+01:00"}
+{"dg-publish":true,"permalink":"/citations/attitudes-towards-the-rspca-s-assured-scheme-animal-think-tank/","created":"2025-10-23T17:42:44.585+01:00","updated":"2025-10-23T17:42:44.585+01:00"}
 ---
 
 

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/international-trade-in-animal-products-and-feed/","tags":["economics","usa","SE_asia"],"created":"2025-10-23T12:04:27.109+01:00","updated":"2025-10-23T12:04:27.109+01:00"}
+{"dg-publish":true,"permalink":"/international-trade-in-animal-products-and-feed/","tags":["#animal_feed - economics - usa - SE_asia"],"created":"2025-10-23T17:42:42.147+01:00","updated":"2025-10-23T19:18:51.152+01:00"}
 ---
-
 
 - [[Bryant Confidential/MFA Food sec MOC\|MFA Food sec MOC]] 
 - [[Animal feed misc\|Animal feed misc]] 

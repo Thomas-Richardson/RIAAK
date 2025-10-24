@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/corporate-campaigns-affect-9-to-120-years-of-chicken-life-per-dollar-spent-rethink-priorities/","tags":["chickens coporate_campaigns"],"created":"2025-10-23T11:47:25.111+01:00","updated":"2025-10-23T11:47:25.147+01:00"}
+{"dg-publish":true,"permalink":"/citations/corporate-campaigns-affect-9-to-120-years-of-chicken-life-per-dollar-spent-rethink-priorities/","tags":["#wild_animals - \"chickens coporate_campaigns\""],"created":"2025-10-23T17:42:44.995+01:00","updated":"2025-10-23T19:20:34.043+01:00"}
 ---
 
 In this article, I estimate how many chickens will be affected by corporate cage-free\u00a0[1] and broiler welfare\u00a0[2] commitments won by all charities, in all countries, during all the years between 2005 and the end of 2018. According to my estimate, for every dollar spent, 9 to 120 years of chicken life will be affected. However, the estimate doesn’t take into account indirect effects which could be more important.

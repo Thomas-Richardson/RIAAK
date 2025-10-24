@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cage-free-hens/","tags":["chickens"],"created":"2024-04-02T13:03:36.000+01:00","updated":"2025-10-10T23:51:49.566+01:00"}
+{"dg-publish":true,"permalink":"/cage-free-hens/","tags":["#chickens","#farming","#eggs","#chicken"],"created":"2025-10-23T17:42:41.307+01:00","updated":"2025-10-23T18:06:08.592+01:00"}
 ---
 
 #farming #eggs #chicken 

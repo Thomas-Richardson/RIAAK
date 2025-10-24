@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/schlesinger-et-al-2019/","created":"2024-04-22T13:05:47.000+01:00","updated":"2025-10-10T23:58:24.320+01:00"}
+{"dg-publish":true,"permalink":"/citations/schlesinger-et-al-2019/","tags":["#citation","#health_nutrition","#meat"],"created":"2025-10-23T17:42:45.868+01:00","updated":"2025-10-23T18:06:08.908+01:00"}
 ---
 
 #citation #health_nutrition #meat 

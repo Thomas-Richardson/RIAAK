@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/chan-franks-and-hayek-2022/","created":"2024-03-10T17:02:43.000+00:00","updated":"2025-09-28T23:40:22.417+01:00"}
+{"dg-publish":true,"permalink":"/citations/chan-franks-and-hayek-2022/","tags":["#citation","#chickens"],"created":"2025-10-23T17:42:46.224+01:00","updated":"2025-10-23T18:06:08.926+01:00"}
 ---
 
 #citation #chickens 

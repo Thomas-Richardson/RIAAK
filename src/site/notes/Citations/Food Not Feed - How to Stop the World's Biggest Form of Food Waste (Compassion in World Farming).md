@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/food-not-feed-how-to-stop-the-world-s-biggest-form-of-food-waste-compassion-in-world-farming/","tags":["food_security animal_feed factory_farming"],"created":"2025-10-23T13:16:46.243+01:00","updated":"2025-10-23T13:16:46.905+01:00"}
+{"dg-publish":true,"permalink":"/citations/food-not-feed-how-to-stop-the-world-s-biggest-form-of-food-waste-compassion-in-world-farming/","tags":["#food_security animal_feed factory_farming"],"created":"2025-10-23T17:42:45.496+01:00","updated":"2025-10-23T18:12:10.216+01:00"}
 ---
 
 NOTE: this report is an interactive online one, I highly advice clicking onto the original website

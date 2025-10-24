@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/narratives-for-animal-freedom-research-report-animal-think-tank/","created":"2025-10-23T15:03:17.959+01:00","updated":"2025-10-23T15:03:17.959+01:00"}
+{"dg-publish":true,"permalink":"/citations/narratives-for-animal-freedom-research-report-animal-think-tank/","created":"2025-10-23T17:42:46.660+01:00","updated":"2025-10-23T17:42:46.661+01:00"}
 ---
 
 

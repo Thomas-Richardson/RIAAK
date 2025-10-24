@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/state-of-food-and-agriculture-report-food-and-agriculture-organization-of-the-united-nations-fao/","created":"2025-10-10T16:37:11.796+01:00","updated":"2025-10-10T16:37:12.057+01:00"}
+{"dg-publish":true,"permalink":"/citations/state-of-food-and-agriculture-report-food-and-agriculture-organization-of-the-united-nations-fao/","created":"2025-10-23T17:42:46.282+01:00","updated":"2025-10-23T18:12:10.241+01:00"}
 ---
 
 taken from a vegconomist article because the actual pdf doesn't work with my clipper

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/inconsistent-evidence-for-price-substitution-between-butter-and-margarine-a-shallow-review-rethink-priorities/","created":"2025-10-21T09:02:00.147+01:00","updated":"2025-10-21T09:02:00.171+01:00"}
+{"dg-publish":true,"permalink":"/citations/inconsistent-evidence-for-price-substitution-between-butter-and-margarine-a-shallow-review-rethink-priorities/","created":"2025-10-23T17:42:47.066+01:00","updated":"2025-10-23T18:12:10.271+01:00"}
 ---
 
 ## Executive summary

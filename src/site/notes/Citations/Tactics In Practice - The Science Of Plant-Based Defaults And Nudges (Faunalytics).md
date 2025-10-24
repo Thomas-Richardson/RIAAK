@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/tactics-in-practice-the-science-of-plant-based-defaults-and-nudges-faunalytics/","tags":["nudging","behaviour_change"],"created":"2025-10-01T13:43:43.714+01:00","updated":"2025-10-12T14:55:45.962+01:00"}
+{"dg-publish":true,"permalink":"/citations/tactics-in-practice-the-science-of-plant-based-defaults-and-nudges-faunalytics/","tags":["#nudging","#behaviour_change"],"created":"2025-10-23T17:42:45.405+01:00","updated":"2025-10-23T17:42:45.407+01:00"}
 ---
 
 This is basically a review on plant-based defaults. 

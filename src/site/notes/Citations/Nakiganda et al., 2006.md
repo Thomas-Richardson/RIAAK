@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/nakiganda-et-al-2006/","created":"2024-03-14T19:58:32.000+00:00","updated":"2025-09-28T23:47:52.745+01:00"}
+{"dg-publish":true,"permalink":"/citations/nakiganda-et-al-2006/","tags":["#citation","#lower_middle_income_countries","#cows","#dairy","#mfa_food_sec"],"created":"2025-10-23T17:42:46.441+01:00","updated":"2025-10-23T18:06:08.940+01:00"}
 ---
 
 #citation #lower_middle_income_countries #cows #dairy #mfa_food_sec 

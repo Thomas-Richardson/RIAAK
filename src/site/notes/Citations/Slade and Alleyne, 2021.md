@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/slade-and-alleyne-2021/","created":"2024-04-24T12:18:40.000+01:00","updated":"2025-09-28T23:48:50.394+01:00"}
+{"dg-publish":true,"permalink":"/citations/slade-and-alleyne-2021/","tags":["#citation","#factory_farming","#psychology"],"created":"2025-10-23T17:42:46.978+01:00","updated":"2025-10-23T18:06:08.965+01:00"}
 ---
 
 #citation #factory_farming #psychology 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/beyond-burger-kings-beyond-burger-discourse-analysis-of-starbucks-and-kfc-plant-based-meat-launches-in-china/","created":"2025-10-23T14:52:19.851+01:00","updated":"2025-10-23T14:52:19.852+01:00"}
+{"dg-publish":true,"permalink":"/citations/beyond-burger-kings-beyond-burger-discourse-analysis-of-starbucks-and-kfc-plant-based-meat-launches-in-china/","created":"2025-10-23T17:42:45.778+01:00","updated":"2025-10-23T17:42:45.779+01:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proximity-to-caf-os-and-house-prices/","created":"2024-06-27T21:32:28.715+01:00","updated":"2025-09-29T00:22:32.935+01:00"}
+{"dg-publish":true,"permalink":"/proximity-to-caf-os-and-house-prices/","tags":["#factory_farming","#economics"],"created":"2025-10-23T17:42:42.043+01:00","updated":"2025-10-23T18:06:08.620+01:00"}
 ---
 
 #factory_farming #economics 

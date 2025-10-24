@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/pawlak-lester-and-toyin-2014/","created":"2024-04-22T13:01:07.000+01:00","updated":"2025-09-28T23:48:12.525+01:00"}
+{"dg-publish":true,"permalink":"/citations/pawlak-lester-and-toyin-2014/","tags":["#citation","#veganism","#health_nutrition"],"created":"2025-10-23T17:42:45.595+01:00","updated":"2025-10-23T18:06:08.887+01:00"}
 ---
 
 #citation #veganism #health_nutrition

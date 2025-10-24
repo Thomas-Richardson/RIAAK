@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/red-and-processed-meat-are-bad-for-you/","created":"2024-04-22T13:00:28.000+01:00","updated":"2025-09-29T00:23:09.040+01:00"}
+{"dg-publish":true,"permalink":"/red-and-processed-meat-are-bad-for-you/","tags":["#health_nutrition","#diet","#red_meat"],"created":"2025-10-23T17:42:47.907+01:00","updated":"2025-10-23T18:06:08.738+01:00"}
 ---
 
 #health_nutrition  #diet #red_meat

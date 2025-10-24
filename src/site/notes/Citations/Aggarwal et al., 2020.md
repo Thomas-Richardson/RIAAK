@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/aggarwal-et-al-2020/","created":"2024-04-22T12:44:28.000+01:00","updated":"2025-10-10T23:54:28.991+01:00"}
+{"dg-publish":true,"permalink":"/citations/aggarwal-et-al-2020/","tags":["#citation","#health_nutrition","#veganism","#case_study"],"created":"2025-10-23T17:42:44.624+01:00","updated":"2025-10-23T18:06:08.787+01:00"}
 ---
 
 #citation #health_nutrition  #veganism 

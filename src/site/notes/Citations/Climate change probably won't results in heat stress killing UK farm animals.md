@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/climate-change-probably-won-t-results-in-heat-stress-killing-uk-farm-animals/","created":"2024-12-17T16:04:19.225+00:00","updated":"2025-09-28T23:40:46.429+01:00"}
+{"dg-publish":true,"permalink":"/citations/climate-change-probably-won-t-results-in-heat-stress-killing-uk-farm-animals/","tags":["#citation","#environment_ghg"],"created":"2025-10-23T17:42:46.783+01:00","updated":"2025-10-23T18:06:08.956+01:00"}
 ---
 
 #citation #environment_ghg 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/shaping-uk-land-use-green-alliance/","created":"2024-12-06T10:51:19.842+00:00","updated":"2025-10-01T10:32:07.643+01:00"}
+{"dg-publish":true,"permalink":"/citations/shaping-uk-land-use-green-alliance/","tags":["#wild_animals","#citation","#environment_land","#alternative_proteins","#farming"],"created":"2025-10-23T17:42:45.322+01:00","updated":"2025-10-23T19:20:34.064+01:00"}
 ---
 
 #citation #environment_land #alternative_proteins #farming 

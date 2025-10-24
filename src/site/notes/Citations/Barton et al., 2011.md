@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/barton-et-al-2011/","created":"2024-04-22T12:46:59.000+01:00","updated":"2025-09-28T23:39:13.440+01:00"}
+{"dg-publish":true,"permalink":"/citations/barton-et-al-2011/","tags":["#citation","#health_nutrition"],"created":"2025-10-23T17:42:46.182+01:00","updated":"2025-10-23T18:06:08.924+01:00"}
 ---
 
 #citation #health_nutrition 

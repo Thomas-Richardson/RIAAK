@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/peacock-2023/","created":"2024-03-10T17:07:33.000+00:00","updated":"2025-10-10T23:57:47.923+01:00"}
+{"dg-publish":true,"permalink":"/citations/peacock-2023/","tags":["#citation","#animal_advocacy","#alternative_proteins"],"created":"2025-10-23T17:42:46.310+01:00","updated":"2025-10-23T18:06:08.933+01:00"}
 ---
 
 #citation #animal_advocacy #alternative_proteins 

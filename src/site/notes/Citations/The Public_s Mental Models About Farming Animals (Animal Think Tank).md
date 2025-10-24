@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-public-s-mental-models-about-farming-animals-animal-think-tank/","created":"2025-10-23T15:34:10.094+01:00","updated":"2025-10-23T15:34:10.094+01:00"}
+{"dg-publish":true,"permalink":"/citations/the-public-s-mental-models-about-farming-animals-animal-think-tank/","created":"2025-10-23T17:42:47.086+01:00","updated":"2025-10-23T17:42:47.086+01:00"}
 ---
 
 

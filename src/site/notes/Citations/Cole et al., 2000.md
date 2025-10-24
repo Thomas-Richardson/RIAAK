@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/cole-et-al-2000/","created":"2024-04-22T12:48:21.000+01:00","updated":"2025-09-28T23:40:30.543+01:00"}
+{"dg-publish":true,"permalink":"/citations/cole-et-al-2000/","tags":["#citation","#pigs","#health_disease"],"created":"2025-10-23T17:42:45.863+01:00","updated":"2025-10-23T18:06:08.908+01:00"}
 ---
 
 #citation #pigs #health_disease 

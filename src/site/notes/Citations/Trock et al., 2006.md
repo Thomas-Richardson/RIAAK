@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/trock-et-al-2006/","created":"2025-10-13T23:09:03.232+01:00","updated":"2025-10-13T23:09:03.272+01:00"}
+{"dg-publish":true,"permalink":"/citations/trock-et-al-2006/","created":"2025-10-23T17:42:46.112+01:00","updated":"2025-10-23T18:12:10.236+01:00"}
 ---
 
 **Background:** High intake of soy foods has been proposed to contribute to the low breast cancer risk in Asian countries. However, results of epidemiologic studies of this association are highly variable, and experimental data suggest that soy constituents can be estrogenic and potentially risk enhancing. Thus, rigorous evaluation of available epidemiologic data is necessary before appropriate recommendations can be made, especially for women at high risk of breast cancer or those who have survived the disease.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/springmann-et-al-2016/","created":"2024-09-30T14:34:02.637+01:00","updated":"2025-10-10T23:59:00.086+01:00"}
+{"dg-publish":true,"permalink":"/citations/springmann-et-al-2016/","tags":["#citation","#economics","#health_nutrition","#lower_middle_income_countries"],"created":"2025-10-23T17:42:46.291+01:00","updated":"2025-10-23T18:06:08.931+01:00"}
 ---
 
 #citation #economics #health_nutrition 

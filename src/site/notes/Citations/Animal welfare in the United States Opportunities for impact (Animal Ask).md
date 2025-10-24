@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/animal-welfare-in-the-united-states-opportunities-for-impact-animal-ask/","created":"2025-10-01T10:13:09.326+01:00","updated":"2025-10-01T10:53:12.303+01:00"}
+{"dg-publish":true,"permalink":"/citations/animal-welfare-in-the-united-states-opportunities-for-impact-animal-ask/","created":"2025-10-23T17:42:46.996+01:00","updated":"2025-10-23T17:42:46.996+01:00"}
 ---
 
 In this report, we give an overview of animal production in the United States. We explore which industries are responsible for the largest amount of animal exploitation in the United States. We touch on all major farmed and wild-caught sectors in the country, before taking a deeper look at egg production and chicken meat production.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/prophetic-promotion/","created":"2024-03-10T17:06:45.000+00:00","updated":"2025-09-29T00:22:09.868+01:00"}
+{"dg-publish":true,"permalink":"/prophetic-promotion/","tags":["#animal_advocacy"],"created":"2025-10-23T17:42:43.868+01:00","updated":"2025-10-23T18:06:08.681+01:00"}
 ---
 
 #animal_advocacy 

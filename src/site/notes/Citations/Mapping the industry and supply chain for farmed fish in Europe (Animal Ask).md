@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/mapping-the-industry-and-supply-chain-for-farmed-fish-in-europe-animal-ask/","created":"2025-10-01T10:08:43.941+01:00","updated":"2025-10-01T10:53:34.339+01:00"}
+{"dg-publish":true,"permalink":"/citations/mapping-the-industry-and-supply-chain-for-farmed-fish-in-europe-animal-ask/","created":"2025-10-23T17:42:44.417+01:00","updated":"2025-10-23T17:42:44.417+01:00"}
 ---
 
 Several organisations, including Rethink Priorities, Welfare Footprint, Animal Ask, and others, are conducting a year-long project to guide the strategy of the fish welfare movement for the coming decades.

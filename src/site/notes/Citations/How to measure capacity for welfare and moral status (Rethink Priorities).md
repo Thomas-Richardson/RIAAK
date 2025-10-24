@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/how-to-measure-capacity-for-welfare-and-moral-status-rethink-priorities/","tags":["#sentience"],"created":"2025-10-23T14:22:28.613+01:00","updated":"2025-10-23T14:22:28.658+01:00"}
+{"dg-publish":true,"permalink":"/citations/how-to-measure-capacity-for-welfare-and-moral-status-rethink-priorities/","tags":["#sentience"],"created":"2025-10-23T17:42:47.075+01:00","updated":"2025-10-23T18:12:10.271+01:00"}
 ---
 
 An animal’s capacity for welfare is how good or bad its life can go. An animal’s moral status is the degree to which an animal’s experiences or interests matter morally. It’s plausible that animals differ in their capacity for welfare and/or their moral status. These differences could affect the way we ought to allocate resources across interventions and/or cause areas. Unfortunately, measuring capacity for welfare and moral status is tremendously difficult.

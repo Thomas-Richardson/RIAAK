@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/animal-advocacy-in-canada-animal-ask/","created":"2025-10-01T10:10:59.936+01:00","updated":"2025-10-01T10:53:09.856+01:00"}
+{"dg-publish":true,"permalink":"/citations/animal-advocacy-in-canada-animal-ask/","created":"2025-10-23T17:42:45.049+01:00","updated":"2025-10-23T17:42:45.049+01:00"}
 ---
 
 ## Executive summary

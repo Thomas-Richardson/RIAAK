@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/cassidy-et-al-2013/","created":"2024-04-19T16:57:32.000+01:00","updated":"2025-09-28T23:39:22.046+01:00"}
+{"dg-publish":true,"permalink":"/citations/cassidy-et-al-2013/","tags":["#animal_feed","#citation","#farming","#environment_land"],"created":"2025-10-23T17:42:44.668+01:00","updated":"2025-10-23T19:18:51.106+01:00"}
 ---
 
 #citation #farming #environment_land 

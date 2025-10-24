@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/land-use-change-rewilding-grazing-and-rainforests/","created":"2024-11-22T14:29:42.967+00:00","updated":"2025-09-29T00:19:22.666+01:00"}
+{"dg-publish":true,"permalink":"/land-use-change-rewilding-grazing-and-rainforests/","tags":["#animal_feed","#environment_land","#cawf_food_sec"],"created":"2025-10-23T17:42:47.985+01:00","updated":"2025-10-23T19:18:51.155+01:00"}
 ---
 
 #environment_land #cawf_food_sec 

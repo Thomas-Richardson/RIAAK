@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/advocating-for-60-40-plant-animal-protein-sales-ratios-by-2040-ambitious-impact/","created":"2025-10-23T11:30:56.273+01:00","updated":"2025-10-23T11:30:56.273+01:00"}
+{"dg-publish":true,"permalink":"/citations/advocating-for-60-40-plant-animal-protein-sales-ratios-by-2040-ambitious-impact/","created":"2025-10-23T17:42:47.070+01:00","updated":"2025-10-23T17:42:47.071+01:00"}
 ---
 
 

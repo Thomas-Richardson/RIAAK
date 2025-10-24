@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pro-animal-messaging/","created":"2025-02-26T10:15:14.072+00:00","updated":"2025-09-29T00:22:03.624+01:00"}
+{"dg-publish":true,"permalink":"/pro-animal-messaging/","tags":["#messaging"],"created":"2025-10-23T17:42:44.045+01:00","updated":"2025-10-23T18:06:08.689+01:00"}
 ---
 
 #messaging 

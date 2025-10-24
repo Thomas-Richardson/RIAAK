@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/reist-et-al-2023/","created":"2023-11-23T14:58:10.000+00:00","updated":"2025-09-28T23:48:18.891+01:00"}
+{"dg-publish":true,"permalink":"/citations/reist-et-al-2023/","tags":["#citation","#psychology","#veganism"],"created":"2025-10-23T17:42:44.282+01:00","updated":"2025-10-23T18:06:08.769+01:00"}
 ---
 
 #citation #psychology #veganism 

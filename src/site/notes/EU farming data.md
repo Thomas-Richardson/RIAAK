@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eu-farming-data/","created":"2024-10-03T11:14:25.467+01:00","updated":"2025-09-28T23:51:10.791+01:00"}
+{"dg-publish":true,"permalink":"/eu-farming-data/","tags":["#europe","#farming","#data"],"created":"2025-10-23T17:42:48.109+01:00","updated":"2025-10-23T18:06:08.748+01:00"}
 ---
 
 #europe #farming #data 

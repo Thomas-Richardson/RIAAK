@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-rodent-birth-control-landscape-rethink-priorities/","tags":["#rodents wild_animals"],"created":"2025-10-23T14:05:42.328+01:00","updated":"2025-10-23T14:05:42.378+01:00"}
+{"dg-publish":true,"permalink":"/citations/the-rodent-birth-control-landscape-rethink-priorities/","tags":["#rodents wild_animals"],"created":"2025-10-23T17:42:46.837+01:00","updated":"2025-10-23T18:12:10.263+01:00"}
 ---
 
 ## At-a-glance

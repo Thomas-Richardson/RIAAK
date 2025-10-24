@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/party-politics-for-animal-advocacy-part-1-animal-focused-minor-political-parties-animal-ask/","created":"2025-10-01T10:19:49.623+01:00","updated":"2025-10-01T10:47:49.549+01:00"}
+{"dg-publish":true,"permalink":"/citations/party-politics-for-animal-advocacy-part-1-animal-focused-minor-political-parties-animal-ask/","created":"2025-10-23T17:42:46.100+01:00","updated":"2025-10-23T17:42:46.100+01:00"}
 ---
 
 ## **Key Points**

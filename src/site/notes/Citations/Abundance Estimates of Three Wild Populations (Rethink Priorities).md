@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/abundance-estimates-of-three-wild-populations-rethink-priorities/","tags":["wild_animals"],"created":"2025-10-23T11:08:50.500+01:00","updated":"2025-10-23T11:08:50.582+01:00"}
+{"dg-publish":true,"permalink":"/citations/abundance-estimates-of-three-wild-populations-rethink-priorities/","tags":["#wild_animals - \"wild_animals\""],"created":"2025-10-23T17:42:45.094+01:00","updated":"2025-10-23T19:20:34.040+01:00"}
 ---
 
 ### Executive Summary

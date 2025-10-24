@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/luick-et-al-2023/","created":"2024-03-14T14:33:28.000+00:00","updated":"2025-09-28T23:47:34.747+01:00"}
+{"dg-publish":true,"permalink":"/citations/luick-et-al-2023/","tags":["#citation","#veganism"],"created":"2025-10-23T17:42:44.692+01:00","updated":"2025-10-23T18:06:08.793+01:00"}
 ---
 
 #citation #veganism 

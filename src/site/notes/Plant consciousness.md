@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/plant-consciousness/","created":"2024-03-10T16:35:48.000+00:00","updated":"2025-09-29T00:21:47.843+01:00"}
+{"dg-publish":true,"permalink":"/plant-consciousness/","tags":["#animal_ethics"],"created":"2025-10-23T17:42:47.307+01:00","updated":"2025-10-23T18:06:08.707+01:00"}
 ---
 
 #animal_ethics 

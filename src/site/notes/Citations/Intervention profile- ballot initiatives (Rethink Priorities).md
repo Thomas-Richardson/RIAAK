@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/intervention-profile-ballot-initiatives-rethink-priorities/","tags":["#policy"],"created":"2025-10-23T14:25:13.389+01:00","updated":"2025-10-23T14:25:13.437+01:00"}
+{"dg-publish":true,"permalink":"/citations/intervention-profile-ballot-initiatives-rethink-priorities/","tags":["#policy"],"created":"2025-10-23T17:42:44.326+01:00","updated":"2025-10-23T18:12:10.173+01:00"}
 ---
 
 Ballot initiatives are a form of direct democracy in which citizens can gather signatures to qualify a proposed piece of legislation for the ballot, which is then subject to a binding up-or-down vote by the general electorate. Ballot initiatives are possible in Switzerland, Taiwan, many U.S. states and cities, and elsewhere. Ballot initiatives appear to maintain several advantages over more traditional policy lobbying, including lower barriers to entry and more direct control over the final legislation. However, the ultimate cost-effectiveness of a ballot initiative campaign depends on several factors, many of which are difficult to specify precisely. Although ballot initiatives hold enough promise to warrant additional investigation, it is not yet possible to say to what extent ballot initiative campaigns ought to be pursued by the effective altruism community.

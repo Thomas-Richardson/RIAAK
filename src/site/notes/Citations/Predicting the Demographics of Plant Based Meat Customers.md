@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/predicting-the-demographics-of-plant-based-meat-customers/","created":"2025-10-23T14:46:21.410+01:00","updated":"2025-10-23T14:46:21.411+01:00"}
+{"dg-publish":true,"permalink":"/citations/predicting-the-demographics-of-plant-based-meat-customers/","created":"2025-10-23T17:42:45.175+01:00","updated":"2025-10-23T17:42:45.176+01:00"}
 ---
 
 

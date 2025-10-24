@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/measuring-animal-welfare-animal-ask/","created":"2025-10-01T10:32:42.335+01:00","updated":"2025-10-01T10:53:33.143+01:00"}
+{"dg-publish":true,"permalink":"/citations/measuring-animal-welfare-animal-ask/","created":"2025-10-23T17:42:45.067+01:00","updated":"2025-10-23T17:42:45.069+01:00"}
 ---
 
 **Executive Summary**

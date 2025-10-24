@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/schwingshackl-et-al-2016/","created":"2024-04-22T13:05:33.000+01:00","updated":"2025-10-10T23:58:27.089+01:00"}
+{"dg-publish":true,"permalink":"/citations/schwingshackl-et-al-2016/","tags":["#citation","#dairy","#health_nutrition"],"created":"2025-10-23T17:42:46.300+01:00","updated":"2025-10-23T18:06:08.932+01:00"}
 ---
 
 #citation #dairy #health_nutrition 

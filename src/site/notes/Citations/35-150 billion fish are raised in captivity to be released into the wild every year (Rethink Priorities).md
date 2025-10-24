@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/35-150-billion-fish-are-raised-in-captivity-to-be-released-into-the-wild-every-year-rethink-priorities/","tags":["fish"],"created":"2025-10-23T11:47:36.221+01:00","updated":"2025-10-23T11:47:36.238+01:00"}
+{"dg-publish":true,"permalink":"/citations/35-150-billion-fish-are-raised-in-captivity-to-be-released-into-the-wild-every-year-rethink-priorities/","tags":["#fish"],"created":"2025-10-23T17:42:45.471+01:00","updated":"2025-10-23T18:12:10.215+01:00"}
 ---
 
 Fish stocking[1] is the practice of raising fish in hatcheries and releasing them into rivers, lakes, or the ocean.

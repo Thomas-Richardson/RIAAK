@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/imports-to-meet-uk-animal-welfare-standards-animal-ask/","created":"2025-10-01T10:39:15.793+01:00","updated":"2025-10-01T10:53:29.358+01:00"}
+{"dg-publish":true,"permalink":"/citations/imports-to-meet-uk-animal-welfare-standards-animal-ask/","created":"2025-10-23T17:42:46.502+01:00","updated":"2025-10-23T17:42:46.503+01:00"}
 ---
 
 ## OVERVIEW

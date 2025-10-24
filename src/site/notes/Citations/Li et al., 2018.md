@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/li-et-al-2018/","created":"2025-10-13T23:08:24.215+01:00","updated":"2025-10-13T23:08:24.239+01:00"}
+{"dg-publish":true,"permalink":"/citations/li-et-al-2018/","created":"2025-10-23T17:42:45.009+01:00","updated":"2025-10-23T18:12:10.198+01:00"}
 ---
 
 ## Abstract

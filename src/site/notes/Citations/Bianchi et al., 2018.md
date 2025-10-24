@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/bianchi-et-al-2018/","created":"2024-04-21T15:08:49.000+01:00","updated":"2025-09-28T23:39:15.455+01:00"}
+{"dg-publish":true,"permalink":"/citations/bianchi-et-al-2018/","tags":["#citation","#meat","#behaviour_change"],"created":"2025-10-23T17:42:45.340+01:00","updated":"2025-10-23T18:06:08.836+01:00"}
 ---
 
 #citation #meat #behaviour_change 

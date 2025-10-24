@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/labelling-peanut-butter-isn-t-butter-and-no-one-cares/","created":"2025-05-02T12:01:43.903+01:00","updated":"2025-09-29T00:19:18.549+01:00"}
+{"dg-publish":true,"permalink":"/labelling-peanut-butter-isn-t-butter-and-no-one-cares/","tags":["#labelling"],"created":"2025-10-23T17:42:43.442+01:00","updated":"2025-10-23T18:06:08.669+01:00"}
 ---
 
 #labelling 

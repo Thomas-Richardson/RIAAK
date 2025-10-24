@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/rethinking-plant-based-meat-alternatives-the-food-foundation/","created":"2025-10-23T13:55:56.225+01:00","updated":"2025-10-23T13:55:56.227+01:00"}
+{"dg-publish":true,"permalink":"/citations/rethinking-plant-based-meat-alternatives-the-food-foundation/","created":"2025-10-23T17:42:44.684+01:00","updated":"2025-10-23T17:42:44.684+01:00"}
 ---
 
 

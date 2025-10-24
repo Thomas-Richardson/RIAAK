@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/ciwf-and-you-gov-2022/","created":"2024-07-30T19:11:07.523+01:00","updated":"2025-10-10T23:55:50.874+01:00"}
+{"dg-publish":true,"permalink":"/citations/ciwf-and-you-gov-2022/","tags":["#citation","#factory_farming","#environment_ghg"],"created":"2025-10-23T17:42:45.034+01:00","updated":"2025-10-23T18:06:08.812+01:00"}
 ---
 
 #citation #factory_farming #environment_ghg 

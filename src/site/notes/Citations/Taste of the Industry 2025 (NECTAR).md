@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/taste-of-the-industry-2025-nectar/","created":"2025-10-21T09:33:11.338+01:00","updated":"2025-10-21T09:33:11.339+01:00"}
+{"dg-publish":true,"permalink":"/citations/taste-of-the-industry-2025-nectar/","created":"2025-10-23T17:42:44.780+01:00","updated":"2025-10-23T17:42:44.781+01:00"}
 ---
 
 

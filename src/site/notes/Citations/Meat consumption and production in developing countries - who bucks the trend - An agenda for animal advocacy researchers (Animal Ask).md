@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/meat-consumption-and-production-in-developing-countries-who-bucks-the-trend-an-agenda-for-animal-advocacy-researchers-animal-ask/","created":"2025-10-01T10:21:34.095+01:00","updated":"2025-10-12T14:40:15.480+01:00"}
+{"dg-publish":true,"permalink":"/citations/meat-consumption-and-production-in-developing-countries-who-bucks-the-trend-an-agenda-for-animal-advocacy-researchers-animal-ask/","created":"2025-10-23T17:42:45.989+01:00","updated":"2025-10-23T17:42:45.989+01:00"}
 ---
 
 **Executive Summary**

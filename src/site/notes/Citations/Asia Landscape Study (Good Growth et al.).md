@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/asia-landscape-study-good-growth-et-al/","created":"2025-10-23T14:42:54.472+01:00","updated":"2025-10-23T14:42:54.473+01:00"}
+{"dg-publish":true,"permalink":"/citations/asia-landscape-study-good-growth-et-al/","created":"2025-10-23T17:42:45.758+01:00","updated":"2025-10-23T17:42:45.759+01:00"}
 ---
 
 

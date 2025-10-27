@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/more-productive-dairy-cattle-does-not-mean-less-land-used/","tags":["#farming","#environment_land"],"created":"2025-10-23T17:42:41.672+01:00","updated":"2025-10-23T18:06:08.609+01:00"}
+{"dg-publish":true,"permalink":"/more-productive-dairy-cattle-does-not-mean-less-land-used/","created":"2025-10-23T17:42:41.672+01:00","updated":"2025-10-23T18:06:08.609+01:00"}
 ---
 
 #farming #environment_land 

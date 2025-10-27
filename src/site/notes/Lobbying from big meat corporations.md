@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lobbying-from-big-meat-corporations/","tags":["#cawf_food_sec"],"created":"2025-10-23T17:42:41.287+01:00","updated":"2025-10-23T18:06:08.592+01:00"}
+{"dg-publish":true,"permalink":"/lobbying-from-big-meat-corporations/","created":"2025-10-23T17:42:41.287+01:00","updated":"2025-10-23T18:06:08.592+01:00"}
 ---
 
 #cawf_food_sec 

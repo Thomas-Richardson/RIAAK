@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/estimates-of-lives-and-saved-by-moving-away-from-meat/","tags":["#economics","#health_nutrition"],"created":"2025-10-23T17:42:42.272+01:00","updated":"2025-10-23T18:06:08.628+01:00"}
+{"dg-publish":true,"permalink":"/estimates-of-lives-and-saved-by-moving-away-from-meat/","created":"2025-10-23T17:42:42.272+01:00","updated":"2025-10-23T18:06:08.628+01:00"}
 ---
 
 #economics #health_nutrition 

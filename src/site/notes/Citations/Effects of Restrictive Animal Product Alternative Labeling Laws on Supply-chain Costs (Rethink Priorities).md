@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/effects-of-restrictive-animal-product-alternative-labeling-laws-on-supply-chain-costs-rethink-priorities/","tags":["#alternative_proteins"],"created":"2025-10-23T17:42:44.215+01:00","updated":"2025-10-23T18:12:10.170+01:00"}
+{"dg-publish":true,"permalink":"/citations/effects-of-restrictive-animal-product-alternative-labeling-laws-on-supply-chain-costs-rethink-priorities/","tags":["alternative_proteins"],"created":"2025-10-23T17:42:44.215+01:00","updated":"2025-10-23T18:12:10.170+01:00"}
 ---
 
 ## Short Summary

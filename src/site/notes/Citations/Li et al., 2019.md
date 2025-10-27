@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/li-et-al-2019/","tags":["#health_disease","#citation"],"created":"2025-10-23T17:42:45.461+01:00","updated":"2025-10-23T18:06:08.857+01:00"}
+{"dg-publish":true,"permalink":"/citations/li-et-al-2019/","created":"2025-10-23T17:42:45.461+01:00","updated":"2025-10-23T18:06:08.857+01:00"}
 ---
 
 #health_disease  #citation 

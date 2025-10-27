@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/using-ai-to-increase-effectiveness-of-human-wildlife-conflict-mitigations-for-waw-rethink-priorities/","tags":["#wild_animals - \"wild_animals\""],"created":"2025-10-23T17:42:45.004+01:00","updated":"2025-10-23T19:20:34.067+01:00"}
+{"dg-publish":true,"permalink":"/citations/using-ai-to-increase-effectiveness-of-human-wildlife-conflict-mitigations-for-waw-rethink-priorities/","tags":["wild_animals - \"wild_animals\""],"created":"2025-10-23T17:42:45.004+01:00","updated":"2025-10-23T19:20:34.067+01:00"}
 ---
 
 ## 1. Overview

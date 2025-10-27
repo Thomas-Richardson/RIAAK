@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vegan-diets-best-across-a-wide-range-of-metrics/","tags":["#veganism"],"created":"2025-10-23T17:42:42.004+01:00","updated":"2025-10-23T18:06:08.619+01:00"}
+{"dg-publish":true,"permalink":"/vegan-diets-best-across-a-wide-range-of-metrics/","created":"2025-10-23T17:42:42.004+01:00","updated":"2025-10-23T18:06:08.619+01:00"}
 ---
 
 #veganism 

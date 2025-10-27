@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/protein-diversification/","tags":["#alternative_proteins","#cawf_food_sec","#food_security"],"created":"2025-10-23T17:42:44.105+01:00","updated":"2025-10-23T18:06:08.691+01:00"}
+{"dg-publish":true,"permalink":"/protein-diversification/","created":"2025-10-23T17:42:44.105+01:00","updated":"2025-10-23T18:06:08.691+01:00"}
 ---
 
 #alternative_proteins #cawf_food_sec 

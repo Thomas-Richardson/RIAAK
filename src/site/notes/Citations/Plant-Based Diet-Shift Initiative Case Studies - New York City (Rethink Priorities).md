@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/plant-based-diet-shift-initiative-case-studies-new-york-city-rethink-priorities/","tags":["#case_study institutional_change"],"created":"2025-10-23T17:42:44.794+01:00","updated":"2025-10-23T18:12:10.191+01:00"}
+{"dg-publish":true,"permalink":"/citations/plant-based-diet-shift-initiative-case-studies-new-york-city-rethink-priorities/","tags":["case_study institutional_change"],"created":"2025-10-23T17:42:44.794+01:00","updated":"2025-10-23T18:12:10.191+01:00"}
 ---
 
 ### Case study profile

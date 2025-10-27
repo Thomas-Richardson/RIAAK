@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/anima-international-2023/","tags":["#farmers"],"created":"2025-10-23T17:42:45.152+01:00","updated":"2025-10-23T18:06:08.820+01:00"}
+{"dg-publish":true,"permalink":"/citations/anima-international-2023/","created":"2025-10-23T17:42:45.152+01:00","updated":"2025-10-23T18:06:08.820+01:00"}
 ---
 
  #farmers 

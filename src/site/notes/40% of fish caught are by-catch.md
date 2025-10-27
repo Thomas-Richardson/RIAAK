@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-of-fish-caught-are-by-catch/","tags":["#fish"],"created":"2025-10-23T17:42:47.442+01:00","updated":"2025-10-23T17:42:47.442+01:00"}
+{"dg-publish":true,"permalink":"/40-of-fish-caught-are-by-catch/","created":"2025-10-23T17:42:47.442+01:00","updated":"2025-10-23T17:42:47.442+01:00"}
 ---
 
 #fish 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/arrazat-et-al-2024/","tags":["#citation","#institutional_change"],"created":"2025-10-23T17:42:45.053+01:00","updated":"2025-10-23T18:06:08.813+01:00"}
+{"dg-publish":true,"permalink":"/citations/arrazat-et-al-2024/","created":"2025-10-23T17:42:45.053+01:00","updated":"2025-10-23T18:06:08.813+01:00"}
 ---
 
 #citation #institutional_change 

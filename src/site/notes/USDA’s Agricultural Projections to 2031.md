@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/usda-s-agricultural-projections-to-2031/","tags":["#farming","#mfa_food_sec","#meat","#chicken","#dairy"],"created":"2025-10-23T17:42:43.917+01:00","updated":"2025-10-23T18:06:08.681+01:00"}
+{"dg-publish":true,"permalink":"/usda-s-agricultural-projections-to-2031/","created":"2025-10-23T17:42:43.917+01:00","updated":"2025-10-26T00:57:31.905+01:00"}
 ---
 
 #farming #mfa_food_sec #meat 
 
 https://www.usda.gov/sites/default/files/documents/USDA-Agricultural-Projections-to-2031.pdf
 ## Poultry
-#chicken 
+#chickens 
 - Most poultry export growth will come from Brazil, the US, Europe and Thailand in that order.
 - Brazil will remain the world’s largest chicken exporter for the next 10 years. Brazil may account for 32.5% of global export growth over the next decade, with shipments rising 19.6% to 5.2 million tonnes by 2031. US chicken exports could increase 13.9% to 4.3 million tonnes next decade. The EU is expected to grow poultry foreign trade by 15.9% to almost 2.9 million tonnes, while Thailand, favoured by its geographical location, should up by 31.7% to 1.4 million tons in the interim.
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-changing-diets-in-the-global-north-impact-food-security-across-the-world/","tags":["#SE_asia","#mfa_food_sec"],"created":"2025-10-23T17:42:42.865+01:00","updated":"2025-10-23T18:06:08.643+01:00"}
+{"dg-publish":true,"permalink":"/how-changing-diets-in-the-global-north-impact-food-security-across-the-world/","tags":["SE_asia"],"created":"2025-10-23T17:42:42.865+01:00","updated":"2025-10-23T18:06:08.643+01:00"}
 ---
 
 #mfa_food_sec 

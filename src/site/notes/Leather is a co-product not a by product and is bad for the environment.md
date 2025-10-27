@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/leather-is-a-co-product-not-a-by-product-and-is-bad-for-the-environment/","tags":["#animal_advocacy","#cows","#materials"],"created":"2025-10-23T17:42:41.723+01:00","updated":"2025-10-23T18:06:08.610+01:00"}
+{"dg-publish":true,"permalink":"/leather-is-a-co-product-not-a-by-product-and-is-bad-for-the-environment/","created":"2025-10-23T17:42:41.723+01:00","updated":"2025-10-23T18:06:08.610+01:00"}
 ---
 
 #animal_advocacy #cows #materials 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/small-scale-farming-for-people-in-lmics/","tags":["#farming","#lower_middle_income_countries","#mfa_food_sec"],"created":"2025-10-23T17:42:43.323+01:00","updated":"2025-10-23T18:06:08.667+01:00"}
+{"dg-publish":true,"permalink":"/small-scale-farming-for-people-in-lmics/","created":"2025-10-23T17:42:43.323+01:00","updated":"2025-10-23T18:06:08.667+01:00"}
 ---
 
 #farming #lower_middle_income_countries #mfa_food_sec 

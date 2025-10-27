@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misc-strengths-and-issues-of-the-alt-protein-sector/","tags":["#alternative_proteins","#plant_based_alternative_proteins"],"created":"2025-10-23T17:42:48.089+01:00","updated":"2025-10-23T18:06:08.747+01:00"}
+{"dg-publish":true,"permalink":"/misc-strengths-and-issues-of-the-alt-protein-sector/","tags":["alternative_proteins","plant_based_alternative_proteins"],"created":"2025-10-23T17:42:48.089+01:00","updated":"2025-10-23T18:06:08.747+01:00"}
 ---
 
 - [[alt proteins and VC funding\|alt proteins and VC funding]]

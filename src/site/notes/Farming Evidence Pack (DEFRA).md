@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/farming-evidence-pack-defra/","tags":["#farming","#cawf_farming","#uk","#fish"],"created":"2025-10-23T17:42:47.497+01:00","updated":"2025-10-23T18:06:08.721+01:00"}
+{"dg-publish":true,"permalink":"/farming-evidence-pack-defra/","created":"2025-10-23T17:42:47.497+01:00","updated":"2025-10-23T18:06:08.721+01:00"}
 ---
 
 #farming #cawf_farming #uk 
@@ -53,7 +53,7 @@ Iowa lost nearly 90 percent of its hog farms from 1982 to 2017, as rapid factory
 just three cooperatives market more than 80 percent of all fluid milk in the country[^3] 
 
 ## Europe
-- Some great stats in [[Citations/Greenpeace, 2019\|Greenpeace, 2019]] and [[Greenpeace, 2024\|Greenpeace, 2024]]
+- Some great stats in [[Citations/Feeding the problem (Greenpeace, 2019)\|Feeding the problem (Greenpeace, 2019)]] and [[Greenpeace, 2024\|Greenpeace, 2024]]
 
 
 ## [[Farming Evidence Pack (DEFRA)\|UK]]

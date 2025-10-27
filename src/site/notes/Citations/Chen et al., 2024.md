@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/chen-et-al-2024/","tags":["#anthropology","#health_nutrition","#citation"],"created":"2025-10-23T17:42:46.436+01:00","updated":"2025-10-23T18:06:08.939+01:00"}
+{"dg-publish":true,"permalink":"/citations/chen-et-al-2024/","created":"2025-10-23T17:42:46.436+01:00","updated":"2025-10-23T18:06:08.939+01:00"}
 ---
 
 #anthropology #health_nutrition  #citation 

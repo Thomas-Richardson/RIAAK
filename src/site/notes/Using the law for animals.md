@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/using-the-law-for-animals/","tags":["#law"],"created":"2025-10-23T17:42:41.643+01:00","updated":"2025-10-23T18:06:08.608+01:00"}
+{"dg-publish":true,"permalink":"/using-the-law-for-animals/","created":"2025-10-23T17:42:41.643+01:00","updated":"2025-10-23T18:06:08.608+01:00"}
 ---
 
 #law 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/influential-respected-authorities-giving-pro-animal-advo-messaging/","tags":["#persuasion","#meat","#health_nutrition","#environment_misc"],"created":"2025-10-23T17:42:43.125+01:00","updated":"2025-10-23T18:06:08.660+01:00"}
+{"dg-publish":true,"permalink":"/influential-respected-authorities-giving-pro-animal-advo-messaging/","created":"2025-10-23T17:42:43.125+01:00","updated":"2025-10-23T18:06:08.660+01:00"}
 ---
 
 #persuasion #meat #health_nutrition #environment_misc 

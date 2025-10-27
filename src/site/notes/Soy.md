@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/soy/","tags":["#animal_feed - environment_land","#alternative_proteins"],"created":"2025-10-23T17:42:41.464+01:00","updated":"2025-10-23T19:18:51.177+01:00"}
+{"dg-publish":true,"permalink":"/soy/","tags":["#environment_land","#animal_feed","alternative_proteins"],"created":"2025-10-23T17:42:41.464+01:00","updated":"2025-10-27T14:32:51.882+00:00"}
 ---
-
-#alternative_proteins 
 
 - [[Animal agriculture drives deforestation#Animal feed mainly soy\|soy drives deforestation]]
 - For a great report on soy in UK livestock feed, see [[Citations/The Landworkers’ Alliance, Pasture for Life, Sustain and Hodmedod (2023)\|The Landworkers’ Alliance, Pasture for Life, Sustain and Hodmedod (2023)]] 

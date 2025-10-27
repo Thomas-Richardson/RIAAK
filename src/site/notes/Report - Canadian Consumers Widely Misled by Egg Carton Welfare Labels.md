@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/report-canadian-consumers-widely-misled-by-egg-carton-welfare-labels/","tags":["#bryant_insight","#eggs","#consumer_attitudes","#labelling"],"created":"2025-10-23T17:42:41.694+01:00","updated":"2025-10-23T18:06:08.609+01:00"}
+{"dg-publish":true,"permalink":"/report-canadian-consumers-widely-misled-by-egg-carton-welfare-labels/","created":"2025-10-23T17:42:41.694+01:00","updated":"2025-10-23T18:06:08.609+01:00"}
 ---
 
 #bryant_insight #eggs #consumer_attitudes #labelling 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-lie-of-regenerative-animal-agriculture/","tags":["#wild_animals","#animal_advocacy","#farming"],"created":"2025-10-23T17:42:42.811+01:00","updated":"2025-10-23T19:20:34.080+01:00"}
+{"dg-publish":true,"permalink":"/the-lie-of-regenerative-animal-agriculture/","tags":["wild_animals"],"created":"2025-10-23T17:42:42.811+01:00","updated":"2025-10-26T17:25:25.143+00:00"}
 ---
 
 #animal_advocacy #farming 
@@ -8,6 +8,8 @@
 ## Reading
 - read: https://grazingfacts.com/
 - https://sentientmedia.org/regenerative-agriculture/
+
+Regenerative beef takes like 2.5 times as much land so even if the benefits are as high as people claim, we just don't have the land for it 
 
 The scope of livestock production consistent with agro-ecological principles is miniscule, and cannot scale up to meet existing demand (Eshel, 2021).
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/red-and-processed-meat-and-cvd/","tags":["#diet","#health_nutrition","#red_meat"],"created":"2025-10-23T17:42:42.375+01:00","updated":"2025-10-23T18:06:08.632+01:00"}
+{"dg-publish":true,"permalink":"/red-and-processed-meat-and-cvd/","created":"2025-10-23T17:42:42.375+01:00","updated":"2025-10-23T18:06:08.632+01:00"}
 ---
 
 #diet #health_nutrition #red_meat

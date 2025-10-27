@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-inefficiency-of-animal-products/","tags":["#environment_land","#environment_misc","#meat"],"created":"2025-10-23T17:42:44.180+01:00","updated":"2025-10-23T18:06:08.697+01:00"}
+{"dg-publish":true,"permalink":"/the-inefficiency-of-animal-products/","tags":["environment_land"],"created":"2025-10-23T17:42:44.180+01:00","updated":"2025-10-23T18:06:08.697+01:00"}
 ---
 
 #environment_misc #meat 

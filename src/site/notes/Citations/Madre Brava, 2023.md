@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/madre-brava-2023/","tags":["#asia","#good_growth_social_listening","#citation"],"created":"2025-10-23T17:42:45.609+01:00","updated":"2025-10-23T18:06:08.890+01:00"}
+{"dg-publish":true,"permalink":"/citations/madre-brava-2023/","created":"2025-10-23T17:42:45.609+01:00","updated":"2025-10-23T18:06:08.890+01:00"}
 ---
 
 #asia  #good_growth_social_listening #citation 

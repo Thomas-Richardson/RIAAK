@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/kortleve-et-al-2024/","tags":["#animal_feed","#citation"],"created":"2025-10-23T17:42:44.884+01:00","updated":"2025-10-23T19:18:51.112+01:00"}
+{"dg-publish":true,"permalink":"/citations/kortleve-et-al-2024/","tags":["animal_feed"],"created":"2025-10-23T17:42:44.884+01:00","updated":"2025-10-23T19:18:51.112+01:00"}
 ---
 
 #citation 

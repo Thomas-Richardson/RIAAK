@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/testing-social-media-advertisements-for-animal-advocacy/","tags":["#bryant_insight"],"created":"2025-10-23T17:42:42.124+01:00","updated":"2025-10-23T18:06:08.622+01:00"}
+{"dg-publish":true,"permalink":"/testing-social-media-advertisements-for-animal-advocacy/","created":"2025-10-23T17:42:42.124+01:00","updated":"2025-10-23T18:06:08.622+01:00"}
 ---
 
 #bryant_insight 

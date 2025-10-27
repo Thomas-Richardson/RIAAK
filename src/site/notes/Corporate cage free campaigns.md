@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/corporate-cage-free-campaigns/","tags":["#corporate_campaigns","#chicken","#farming","#eggs"],"created":"2025-10-23T17:42:44.171+01:00","updated":"2025-10-23T18:06:08.697+01:00"}
+{"dg-publish":true,"permalink":"/corporate-cage-free-campaigns/","tags":["corporate_campaigns"],"created":"2025-10-23T17:42:44.171+01:00","updated":"2025-10-26T00:57:31.825+01:00"}
 ---
 
-#chicken #farming #eggs 
+#chickens #farming #eggs 
 
 - [[Cage free hens\|Cage free hens]] 
 

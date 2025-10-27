@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/change-in-demand-for-animal-products-worldwide/","tags":["#mfa_food_sec","#meat","#chicken","#high_income_countries"],"created":"2025-10-23T17:42:41.654+01:00","updated":"2025-10-23T18:06:08.608+01:00"}
+{"dg-publish":true,"permalink":"/change-in-demand-for-animal-products-worldwide/","created":"2025-10-23T17:42:41.654+01:00","updated":"2025-10-26T00:57:31.778+01:00"}
 ---
 
 #mfa_food_sec #meat 
@@ -10,7 +10,7 @@
 - [[How would reduced demand for ASFs in HICs affect food security\|How would reduced demand for ASFs in HICs affect food security]]
 
 ## Globally on average meat consumption is increasing
-The world now produces more than three times the quantity of meat as it did fifty years ago, with production rising fastest for #chicken ([[Citations/Ritchie et al., 2017\|Ritchie et al., 2017]])
+The world now produces more than three times the quantity of meat as it did fifty years ago, with production rising fastest for #chickens ([[Citations/Ritchie et al., 2017\|Ritchie et al., 2017]])
 
 The demand for meat in LMICs is expected to grow 80% by 2030 over 200% by 2050 [FAO (2018)](https://www.fao.org/3/i8384en/I8384EN.pdf)
 

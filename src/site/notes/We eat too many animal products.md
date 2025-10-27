@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/we-eat-too-many-animal-products/","tags":["#farming","#health_nutrition","#meat","#fish","#red_meat","#chicken","#eggs","#dairy"],"created":"2025-10-23T17:42:42.463+01:00","updated":"2025-10-23T18:06:08.636+01:00"}
+{"dg-publish":true,"permalink":"/we-eat-too-many-animal-products/","created":"2025-10-23T17:42:42.463+01:00","updated":"2025-10-26T00:57:31.910+01:00"}
 ---
 
 #farming #health_nutrition #meat 
@@ -11,7 +11,7 @@ Globally, compared to the amounts recommended in the EAT Lancet diet, we are ove
 We [already eat more](https://ourworldindata.org/grapher/eat-lancet-diet-animal-products?country=EAT-Lancet~GBR) animal products than [[Citations/EAT Lancet\|EAT Lancet]] recommends. As of 2017 British consumption data we ate:
 - 9.14 (128 vs 14g) times more #red_meat than recommended
 - 1.92 (54g vs 28g) times more #fish than recommended
-- 3.03 (88g vs 29g) times more #chicken than recommended
+- 3.03 (88g vs 29g) times more #chickens than recommended
 - 2.385 (31g vs 13g) times more #eggs than recommended
 - 2.45 (613g vs 250g) times more #dairy than recommended
 Since then red meat has decreased but white meat has increased: [[Citations/Stewart et al., 2021\|Stewart et al., 2021]]

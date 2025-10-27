@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/agroecology/","tags":["#farming"],"created":"2025-10-23T17:42:47.992+01:00","updated":"2025-10-23T18:06:08.741+01:00"}
+{"dg-publish":true,"permalink":"/agroecology/","created":"2025-10-23T17:42:47.992+01:00","updated":"2025-10-23T18:06:08.741+01:00"}
 ---
 
 #farming 

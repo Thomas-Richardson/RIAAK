@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uk-agricultural-subsidies/","tags":["#uk","#farming"],"created":"2025-10-23T17:42:42.367+01:00","updated":"2025-10-23T18:06:08.631+01:00"}
+{"dg-publish":true,"permalink":"/uk-agricultural-subsidies/","created":"2025-10-23T17:42:42.367+01:00","updated":"2025-10-23T18:06:08.631+01:00"}
 ---
 
 #uk #farming 

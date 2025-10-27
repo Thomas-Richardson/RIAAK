@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/food-habits-in-se-asia/","tags":["#asia","#SE_asia"],"created":"2025-10-23T17:42:42.339+01:00","updated":"2025-10-23T18:06:08.630+01:00"}
+{"dg-publish":true,"permalink":"/food-habits-in-se-asia/","created":"2025-10-23T17:42:42.339+01:00","updated":"2025-10-23T18:06:08.630+01:00"}
 ---
 
 #asia #SE_asia 

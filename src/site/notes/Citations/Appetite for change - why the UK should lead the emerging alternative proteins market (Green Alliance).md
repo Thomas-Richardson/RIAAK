@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/appetite-for-change-why-the-uk-should-lead-the-emerging-alternative-proteins-market-green-alliance/","tags":["#alternative_proteins","#economics","#farming","#citation","#cultivated_meat","#environment_ghg","#environment_land"],"created":"2025-10-23T17:42:45.191+01:00","updated":"2025-10-23T17:42:45.193+01:00"}
+{"dg-publish":true,"permalink":"/citations/appetite-for-change-why-the-uk-should-lead-the-emerging-alternative-proteins-market-green-alliance/","tags":["alternative_proteins","economics","farming"],"created":"2025-10-23T17:42:45.191+01:00","updated":"2025-10-23T17:42:45.193+01:00"}
 ---
 
 #citation #cultivated_meat #alternative_proteins 

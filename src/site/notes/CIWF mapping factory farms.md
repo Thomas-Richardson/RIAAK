@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ciwf-mapping-factory-farms/","tags":["#factory_farming","#uk","#cawf_farming"],"created":"2025-10-23T17:42:47.349+01:00","updated":"2025-10-23T18:06:08.710+01:00"}
+{"dg-publish":true,"permalink":"/ciwf-mapping-factory-farms/","tags":["factory_farming","uk"],"created":"2025-10-23T17:42:47.349+01:00","updated":"2025-10-23T18:06:08.710+01:00"}
 ---
 
 #factory_farming #cawf_farming

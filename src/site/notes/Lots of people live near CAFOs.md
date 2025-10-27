@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lots-of-people-live-near-caf-os/","tags":["#factory_farming","#usa"],"created":"2025-10-23T17:42:43.690+01:00","updated":"2025-10-23T18:06:08.674+01:00"}
+{"dg-publish":true,"permalink":"/lots-of-people-live-near-caf-os/","created":"2025-10-23T17:42:43.690+01:00","updated":"2025-10-23T18:06:08.674+01:00"}
 ---
 
 #factory_farming #usa 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/use-the-catch-re-catch-method-to-estimate-the-size-of-a-population-with-just-2-samples/","tags":["#statistics","#research_methods"],"created":"2025-10-23T17:42:44.070+01:00","updated":"2025-10-23T18:06:08.689+01:00"}
+{"dg-publish":true,"permalink":"/use-the-catch-re-catch-method-to-estimate-the-size-of-a-population-with-just-2-samples/","created":"2025-10-23T17:42:44.070+01:00","updated":"2025-10-23T18:06:08.689+01:00"}
 ---
 
 #statistics #research_methods 

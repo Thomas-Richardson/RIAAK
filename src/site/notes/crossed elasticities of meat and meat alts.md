@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/crossed-elasticities-of-meat-and-meat-alts/","tags":["#excalidraw","#economics","#alternative_proteins"],"created":"2025-10-23T17:42:42.161+01:00","updated":"2025-10-23T17:42:42.166+01:00"}
+{"dg-publish":true,"permalink":"/crossed-elasticities-of-meat-and-meat-alts/","tags":["excalidraw"],"created":"2025-10-23T17:42:42.161+01:00","updated":"2025-10-23T17:42:42.166+01:00"}
 ---
 
 #economics #alternative_proteins 

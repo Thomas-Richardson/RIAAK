@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/insect-farming-investment-trends-and-projected-production-capacity-rethink-priorities/","tags":["#insects"],"created":"2025-10-23T17:42:46.546+01:00","updated":"2025-10-23T18:12:10.253+01:00"}
+{"dg-publish":true,"permalink":"/citations/insect-farming-investment-trends-and-projected-production-capacity-rethink-priorities/","tags":["insects"],"created":"2025-10-23T17:42:46.546+01:00","updated":"2025-10-23T18:12:10.253+01:00"}
 ---
 
 ## Short summary

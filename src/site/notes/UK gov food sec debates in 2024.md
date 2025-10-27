@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uk-gov-food-sec-debates-in-2024/","tags":["#cawf_food_sec","#uk"],"created":"2025-10-23T17:42:42.876+01:00","updated":"2025-10-23T18:06:08.644+01:00"}
+{"dg-publish":true,"permalink":"/uk-gov-food-sec-debates-in-2024/","created":"2025-10-23T17:42:42.876+01:00","updated":"2025-10-23T18:06:08.644+01:00"}
 ---
 
 #cawf_food_sec #uk 

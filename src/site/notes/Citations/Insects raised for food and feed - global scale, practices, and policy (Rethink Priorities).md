@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/insects-raised-for-food-and-feed-global-scale-practices-and-policy-rethink-priorities/","tags":["#animal_feed - \"insects\" - \"policy\""],"created":"2025-10-23T17:42:45.763+01:00","updated":"2025-10-23T19:18:51.111+01:00"}
+{"dg-publish":true,"permalink":"/citations/insects-raised-for-food-and-feed-global-scale-practices-and-policy-rethink-priorities/","tags":["animal_feed - \"insects\" - \"policy\""],"created":"2025-10-23T17:42:45.763+01:00","updated":"2025-10-23T19:18:51.111+01:00"}
 ---
 
 Currently, 1 trillion to 1.2 trillion insects are raised on farms annually for food and animal feed.

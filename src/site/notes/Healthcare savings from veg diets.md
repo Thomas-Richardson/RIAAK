@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/healthcare-savings-from-veg-diets/","tags":["#economics","#veganism"],"created":"2025-10-23T17:42:47.509+01:00","updated":"2025-10-23T18:06:08.722+01:00"}
+{"dg-publish":true,"permalink":"/healthcare-savings-from-veg-diets/","created":"2025-10-23T17:42:47.509+01:00","updated":"2025-10-23T18:06:08.722+01:00"}
 ---
 
 #economics #veganism 

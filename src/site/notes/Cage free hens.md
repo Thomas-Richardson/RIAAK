@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/cage-free-hens/","tags":["#chickens","#farming","#eggs","#chicken"],"created":"2025-10-23T17:42:41.307+01:00","updated":"2025-10-23T18:06:08.592+01:00"}
+{"dg-publish":true,"permalink":"/cage-free-hens/","tags":["chickens"],"created":"2025-10-23T17:42:41.307+01:00","updated":"2025-10-26T00:57:31.771+01:00"}
 ---
 
-#farming #eggs #chicken 
+#farming #eggs #chickens 
 
 - [[Corporate cage free campaigns\|Corporate cage free campaigns]]
 - [[The horrible conditions battery hens are in\|The horrible conditions battery hens are in]]

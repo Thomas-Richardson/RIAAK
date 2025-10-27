@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/case-study-mega-dairy-and-the-decline-of-the-colorado-river/","tags":["#animal_feed","#case_study","#dairy","#factory_farming","#high_income_countries","#environment_pollution","#usa"],"created":"2025-10-23T17:42:43.764+01:00","updated":"2025-10-23T19:18:51.102+01:00"}
+{"dg-publish":true,"permalink":"/case-study-mega-dairy-and-the-decline-of-the-colorado-river/","tags":["animal_feed"],"created":"2025-10-23T17:42:43.764+01:00","updated":"2025-10-23T19:18:51.102+01:00"}
 ---
 
 #case_study #dairy #factory_farming #high_income_countries #environment_pollution #usa  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/van-der-vliet-et-al-2024/","tags":["#alternative_proteins","#citation"],"created":"2025-10-23T17:42:45.734+01:00","updated":"2025-10-23T18:06:08.899+01:00"}
+{"dg-publish":true,"permalink":"/citations/van-der-vliet-et-al-2024/","created":"2025-10-23T17:42:45.734+01:00","updated":"2025-10-23T18:06:08.899+01:00"}
 ---
 
 #alternative_proteins #citation 

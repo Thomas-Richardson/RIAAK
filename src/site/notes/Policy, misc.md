@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/policy-misc/","tags":["#policy"],"created":"2025-10-23T17:42:43.011+01:00","updated":"2025-10-23T18:06:08.654+01:00"}
+{"dg-publish":true,"permalink":"/policy-misc/","created":"2025-10-23T17:42:43.011+01:00","updated":"2025-10-23T18:06:08.654+01:00"}
 ---
 
 #policy 

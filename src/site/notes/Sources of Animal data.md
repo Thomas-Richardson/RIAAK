@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources-of-animal-data/","tags":["#data"],"created":"2025-10-23T17:42:41.564+01:00","updated":"2025-10-23T18:06:08.603+01:00"}
+{"dg-publish":true,"permalink":"/sources-of-animal-data/","created":"2025-10-23T17:42:41.564+01:00","updated":"2025-10-23T18:06:08.603+01:00"}
 ---
 
 #data 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/does-veganuary-increase-demand-for-veggie-products/","tags":["#veganism","#behaviour_change"],"created":"2025-10-23T17:42:42.400+01:00","updated":"2025-10-23T18:06:08.633+01:00"}
+{"dg-publish":true,"permalink":"/does-veganuary-increase-demand-for-veggie-products/","created":"2025-10-23T17:42:42.400+01:00","updated":"2025-10-23T18:06:08.633+01:00"}
 ---
 
 #veganism #behaviour_change 

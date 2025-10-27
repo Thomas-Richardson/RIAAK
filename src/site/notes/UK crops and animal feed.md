@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uk-crops-and-animal-feed/","tags":["#animal_feed","#uk","#farming"],"created":"2025-10-23T17:42:41.471+01:00","updated":"2025-10-23T19:18:51.191+01:00"}
+{"dg-publish":true,"permalink":"/uk-crops-and-animal-feed/","tags":["animal_feed"],"created":"2025-10-23T17:42:41.471+01:00","updated":"2025-10-23T19:18:51.191+01:00"}
 ---
 
 #uk #farming 

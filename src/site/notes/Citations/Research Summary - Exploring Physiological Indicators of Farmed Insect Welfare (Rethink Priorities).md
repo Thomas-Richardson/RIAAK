@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/research-summary-exploring-physiological-indicators-of-farmed-insect-welfare-rethink-priorities/","tags":["#insects animal_welfare"],"created":"2025-10-23T17:42:45.875+01:00","updated":"2025-10-23T18:12:10.228+01:00"}
+{"dg-publish":true,"permalink":"/citations/research-summary-exploring-physiological-indicators-of-farmed-insect-welfare-rethink-priorities/","tags":["insects animal_welfare"],"created":"2025-10-23T17:42:45.875+01:00","updated":"2025-10-23T18:12:10.228+01:00"}
 ---
 
 Over 2.5 trillion insects are reared annually for food and feed, and this upward trend is projected to continue. However, little research is available on farmed insect welfare compared to vertebrates. This paper aims to guide efforts to fill this knowledge gap by evaluating physiological indicators of farmed insect welfare, assessing their correctness, usefulness, and feasibility to prioritize future research. These operational indicators are categorized as 'short-term' (correct and feasible on farms), 'long-term' (correct but not feasible on farms), or 'low' priority.

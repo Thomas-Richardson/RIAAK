@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/solutions-to-the-small-body-problem-insight-piece/","tags":["#animal_feed","#wild_animals - SE_asia","#bryant_insight"],"created":"2025-10-23T17:42:47.213+01:00","updated":"2025-10-23T19:20:34.079+01:00"}
+{"dg-publish":true,"permalink":"/solutions-to-the-small-body-problem-insight-piece/","tags":["animal_feed","wild_animals - SE_asia"],"created":"2025-10-23T17:42:47.213+01:00","updated":"2025-10-23T19:20:34.079+01:00"}
 ---
 
 #bryant_insight 

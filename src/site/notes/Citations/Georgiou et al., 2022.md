@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/georgiou-et-al-2022/","tags":["#citation","#environment_ghg"],"created":"2025-10-23T17:42:44.768+01:00","updated":"2025-10-23T18:06:08.799+01:00"}
+{"dg-publish":true,"permalink":"/citations/georgiou-et-al-2022/","created":"2025-10-23T17:42:44.768+01:00","updated":"2025-10-23T18:06:08.799+01:00"}
 ---
 
 #citation #environment_ghg 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/positive-health-effects-of-going-veggie-or-vegan/","tags":["#animal_advocacy","#health_nutrition","#veganism"],"created":"2025-10-23T17:42:44.078+01:00","updated":"2025-10-23T18:06:08.689+01:00"}
+{"dg-publish":true,"permalink":"/positive-health-effects-of-going-veggie-or-vegan/","created":"2025-10-23T17:42:44.078+01:00","updated":"2025-10-23T18:06:08.689+01:00"}
 ---
 
 #animal_advocacy #health_nutrition #veganism 

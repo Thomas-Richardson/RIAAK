@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/plant-based-hospitals/","tags":["#behaviour_change","#health_nutrition","#environment_misc","#veganism","#institutional_change"],"created":"2025-10-23T17:42:42.063+01:00","updated":"2025-10-23T18:06:08.621+01:00"}
+{"dg-publish":true,"permalink":"/plant-based-hospitals/","created":"2025-10-23T17:42:42.063+01:00","updated":"2025-10-23T18:06:08.621+01:00"}
 ---
 
 #behaviour_change #health_nutrition #environment_misc #veganism #institutional_change 

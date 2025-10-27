@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/farmers-transitioning-from-asfs-to-plants/","tags":["#animal_feed - farming - farmers - cultivated_meat - alternative_proteins - precision_fermentation - environment_land","#cultivated_meat","#alternative_proteins"],"created":"2025-10-23T17:42:42.405+01:00","updated":"2025-10-23T19:18:51.203+01:00"}
+{"dg-publish":true,"permalink":"/farmers-transitioning-from-asfs-to-plants/","tags":["animal_feed - farming - farmers - cultivated_meat - alternative_proteins - precision_fermentation - environment_land"],"created":"2025-10-23T17:42:42.405+01:00","updated":"2025-10-23T19:18:51.203+01:00"}
 ---
 
 - [[The economic value of alternative proteins\|The economic value of alternative proteins]]

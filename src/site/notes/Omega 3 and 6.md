@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/omega-3-and-6/","tags":["#health_nutrition"],"created":"2025-10-23T17:42:47.711+01:00","updated":"2025-10-23T18:06:08.730+01:00"}
+{"dg-publish":true,"permalink":"/omega-3-and-6/","created":"2025-10-23T17:42:47.711+01:00","updated":"2025-10-23T18:06:08.730+01:00"}
 ---
 
 #health_nutrition 

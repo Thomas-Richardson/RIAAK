@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-growth-of-animal-ag-and-meat-eating/","tags":["#animal_advocacy"],"created":"2025-10-23T17:42:43.031+01:00","updated":"2025-10-23T18:06:08.656+01:00"}
+{"dg-publish":true,"permalink":"/the-growth-of-animal-ag-and-meat-eating/","created":"2025-10-23T17:42:43.031+01:00","updated":"2025-10-23T18:06:08.656+01:00"}
 ---
 
 #animal_advocacy 

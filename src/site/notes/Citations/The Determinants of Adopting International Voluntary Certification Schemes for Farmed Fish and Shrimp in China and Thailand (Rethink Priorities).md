@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-determinants-of-adopting-international-voluntary-certification-schemes-for-farmed-fish-and-shrimp-in-china-and-thailand-rethink-priorities/","tags":["#fish shrimp China"],"created":"2025-10-23T17:42:47.003+01:00","updated":"2025-10-23T18:12:10.267+01:00"}
+{"dg-publish":true,"permalink":"/citations/the-determinants-of-adopting-international-voluntary-certification-schemes-for-farmed-fish-and-shrimp-in-china-and-thailand-rethink-priorities/","tags":["fish shrimp China"],"created":"2025-10-23T17:42:47.003+01:00","updated":"2025-10-23T18:12:10.267+01:00"}
 ---
 
 This shallow literature review addresses the determinants considered by exporting farmers in China and Thailand when adopting international voluntary certification schemes for farmed fish and shrimp.

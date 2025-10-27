@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/conservatism-and-animal-advocacy/","tags":["#animal_advocacy","#politics"],"created":"2025-10-23T17:42:47.204+01:00","updated":"2025-10-23T18:06:08.703+01:00"}
+{"dg-publish":true,"permalink":"/conservatism-and-animal-advocacy/","created":"2025-10-23T17:42:47.204+01:00","updated":"2025-10-23T18:06:08.703+01:00"}
 ---
 
 #animal_advocacy #politics

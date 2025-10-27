@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/brachem-et-al-2019/","tags":["#citation","#veganism","#behaviour_change"],"created":"2025-10-23T17:42:46.957+01:00","updated":"2025-10-23T18:06:08.965+01:00"}
+{"dg-publish":true,"permalink":"/citations/brachem-et-al-2019/","created":"2025-10-23T17:42:46.957+01:00","updated":"2025-10-23T18:06:08.965+01:00"}
 ---
 
 #citation #veganism #behaviour_change 

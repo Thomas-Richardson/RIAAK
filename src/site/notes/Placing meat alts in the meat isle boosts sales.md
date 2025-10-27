@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/placing-meat-alts-in-the-meat-isle-boosts-sales/","tags":["#alternative_proteins","#behaviour_change"],"created":"2025-10-23T17:42:42.989+01:00","updated":"2025-10-23T18:06:08.653+01:00"}
+{"dg-publish":true,"permalink":"/placing-meat-alts-in-the-meat-isle-boosts-sales/","created":"2025-10-23T17:42:42.989+01:00","updated":"2025-10-23T18:06:08.653+01:00"}
 ---
 
 #alternative_proteins #behaviour_change 

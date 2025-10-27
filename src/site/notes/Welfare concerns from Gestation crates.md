@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welfare-concerns-from-gestation-crates/","tags":["#animal_advocacy"],"created":"2025-10-23T17:42:41.619+01:00","updated":"2025-10-23T18:06:08.606+01:00"}
+{"dg-publish":true,"permalink":"/welfare-concerns-from-gestation-crates/","created":"2025-10-23T17:42:41.619+01:00","updated":"2025-10-23T18:06:08.606+01:00"}
 ---
 
 #animal_advocacy 

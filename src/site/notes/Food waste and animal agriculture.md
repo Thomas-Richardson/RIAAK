@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/food-waste-and-animal-agriculture/","tags":["#environment_misc"],"created":"2025-10-23T17:42:41.587+01:00","updated":"2025-10-23T18:06:08.604+01:00"}
+{"dg-publish":true,"permalink":"/food-waste-and-animal-agriculture/","created":"2025-10-23T17:42:41.587+01:00","updated":"2025-10-23T18:06:08.604+01:00"}
 ---
 
 #environment_misc 

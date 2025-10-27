@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/factory-farmed-animals-cause-pandemics-and-zoonotic-disease/","tags":["#factory_farming","#health_disease"],"created":"2025-10-23T17:42:43.485+01:00","updated":"2025-10-23T18:06:08.671+01:00"}
+{"dg-publish":true,"permalink":"/factory-farmed-animals-cause-pandemics-and-zoonotic-disease/","tags":["factory_farming"],"created":"2025-10-23T17:42:43.485+01:00","updated":"2025-10-23T18:06:08.671+01:00"}
 ---
 
 #factory_farming #health_disease  

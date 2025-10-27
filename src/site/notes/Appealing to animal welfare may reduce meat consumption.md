@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/appealing-to-animal-welfare-may-reduce-meat-consumption/","tags":["#psychology","#behaviour_change"],"created":"2025-10-23T17:42:47.945+01:00","updated":"2025-10-23T18:06:08.738+01:00"}
+{"dg-publish":true,"permalink":"/appealing-to-animal-welfare-may-reduce-meat-consumption/","created":"2025-10-23T17:42:47.945+01:00","updated":"2025-10-23T18:06:08.738+01:00"}
 ---
 
 #psychology #behaviour_change 

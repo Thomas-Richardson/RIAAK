@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/diet-and-diabetes/","tags":["#health_nutrition","#meat"],"created":"2025-10-23T17:42:44.190+01:00","updated":"2025-10-23T18:06:08.698+01:00"}
+{"dg-publish":true,"permalink":"/diet-and-diabetes/","created":"2025-10-23T17:42:44.190+01:00","updated":"2025-10-23T18:06:08.698+01:00"}
 ---
 
 #health_nutrition  #meat 

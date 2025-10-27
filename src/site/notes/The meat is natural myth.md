@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-meat-is-natural-myth/","tags":["#messaging","#meat"],"created":"2025-10-23T17:42:41.254+01:00","updated":"2025-10-23T18:06:08.591+01:00"}
+{"dg-publish":true,"permalink":"/the-meat-is-natural-myth/","created":"2025-10-23T17:42:41.254+01:00","updated":"2025-10-23T18:06:08.591+01:00"}
 ---
 
 #messaging #meat 

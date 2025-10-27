@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chewing-it-over-public-attitudes-to-alternative-proteins-and-meat-reduction/","tags":["#alternative_proteins","#consumer_attitudes","#bryant_insight","#cultivated_meat","#politics","#animal_welfare","#factory_farming","#environment_misc","#health_nutrition"],"created":"2025-10-23T17:42:42.227+01:00","updated":"2025-10-23T17:42:42.227+01:00"}
+{"dg-publish":true,"permalink":"/chewing-it-over-public-attitudes-to-alternative-proteins-and-meat-reduction/","tags":["alternative_proteins"],"created":"2025-10-23T17:42:42.227+01:00","updated":"2025-10-23T17:42:42.227+01:00"}
 ---
 
 #consumer_attitudes #alternative_proteins #bryant_insight #cultivated_meat #politics #animal_welfare #factory_farming #environment_misc #health_nutrition  #alternative_proteins 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/government-investment-in-alt-proteins/","tags":["#alternative_proteins","#usa"],"created":"2025-10-23T17:42:41.266+01:00","updated":"2025-10-23T18:06:08.592+01:00"}
+{"dg-publish":true,"permalink":"/government-investment-in-alt-proteins/","created":"2025-10-23T17:42:41.266+01:00","updated":"2025-10-23T18:06:08.592+01:00"}
 ---
 
 #alternative_proteins #usa 

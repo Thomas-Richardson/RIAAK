@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/low-welfare-imports/","tags":["#farming","#uk"],"created":"2025-10-23T17:42:43.163+01:00","updated":"2025-10-23T18:06:08.662+01:00"}
+{"dg-publish":true,"permalink":"/low-welfare-imports/","created":"2025-10-23T17:42:43.163+01:00","updated":"2025-10-23T18:06:08.662+01:00"}
 ---
 
 #farming #uk 

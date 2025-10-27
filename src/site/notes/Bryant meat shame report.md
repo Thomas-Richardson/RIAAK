@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bryant-meat-shame-report/","tags":["#bryant_research","#animal_advocacy","#psychology"],"created":"2025-10-23T17:42:41.861+01:00","updated":"2025-10-23T18:06:08.614+01:00"}
+{"dg-publish":true,"permalink":"/bryant-meat-shame-report/","created":"2025-10-23T17:42:41.861+01:00","updated":"2025-10-23T18:06:08.614+01:00"}
 ---
 
 #bryant_research #animal_advocacy #psychology 

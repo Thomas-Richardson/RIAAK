@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health-effects-of-eggs/","tags":["#health_nutrition","#eggs"],"created":"2025-10-23T17:42:48.099+01:00","updated":"2025-10-23T18:06:08.747+01:00"}
+{"dg-publish":true,"permalink":"/health-effects-of-eggs/","created":"2025-10-23T17:42:48.099+01:00","updated":"2025-10-23T18:06:08.747+01:00"}
 ---
 
 #health_nutrition  #eggs 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/why-people-care-about-animals-but-don-t-do-anything-about-it/","tags":["#factory_farming","#narratives"],"created":"2025-10-23T17:42:42.984+01:00","updated":"2025-10-23T18:06:08.653+01:00"}
+{"dg-publish":true,"permalink":"/why-people-care-about-animals-but-don-t-do-anything-about-it/","created":"2025-10-23T17:42:42.984+01:00","updated":"2025-10-23T18:06:08.653+01:00"}
 ---
 
 #factory_farming #narratives 

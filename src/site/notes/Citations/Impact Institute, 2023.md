@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/impact-institute-2023/","tags":["#citation","#economics","#cawf_farming"],"created":"2025-10-23T17:42:46.059+01:00","updated":"2025-10-23T18:06:08.917+01:00"}
+{"dg-publish":true,"permalink":"/citations/impact-institute-2023/","created":"2025-10-23T17:42:46.059+01:00","updated":"2025-10-23T18:06:08.917+01:00"}
 ---
 
 #citation #economics  #cawf_farming 

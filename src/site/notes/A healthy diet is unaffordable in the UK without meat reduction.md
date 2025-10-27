@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/a-healthy-diet-is-unaffordable-in-the-uk-without-meat-reduction/","tags":["#animal_feed - health_nutrition - uk - food_security","#lower_middle_income_countries"],"created":"2025-10-23T17:42:43.503+01:00","updated":"2025-10-23T19:18:51.077+01:00"}
+{"dg-publish":true,"permalink":"/a-healthy-diet-is-unaffordable-in-the-uk-without-meat-reduction/","tags":["animal_feed - health_nutrition - uk - food_security"],"created":"2025-10-23T17:42:43.503+01:00","updated":"2025-10-23T19:18:51.077+01:00"}
 ---
 
 # The UK gov's recommended healthy diet is unfeasibly expensive for the poorest

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/good-food-institute-gfi-clean-meat-course/","tags":["#animal_advocacy","#plant_based_alternative_proteins"],"created":"2025-10-23T17:42:47.789+01:00","updated":"2025-10-23T18:06:08.734+01:00"}
+{"dg-publish":true,"permalink":"/good-food-institute-gfi-clean-meat-course/","tags":["animal_advocacy","plant_based_alternative_proteins"],"created":"2025-10-23T17:42:47.789+01:00","updated":"2025-10-23T18:06:08.734+01:00"}
 ---
 
 We've only explored 8% of the worlds plant proteins as potential meat sources, or 1% of the 150 crops used in agriculture. GFI have been looking at neglected crops . Candidates need to respond well to gelations, emulsification and stabilisation.

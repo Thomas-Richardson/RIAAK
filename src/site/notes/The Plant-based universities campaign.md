@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-plant-based-universities-campaign/","tags":["#institutional_change"],"created":"2025-10-23T17:42:41.602+01:00","updated":"2025-10-23T18:06:08.605+01:00"}
+{"dg-publish":true,"permalink":"/the-plant-based-universities-campaign/","created":"2025-10-23T17:42:41.602+01:00","updated":"2025-10-23T18:06:08.605+01:00"}
 ---
 
 #institutional_change 

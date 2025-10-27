@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/health-effects-of-chicken/","tags":["#chicken","#health_nutrition"],"created":"2025-10-23T17:42:43.120+01:00","updated":"2025-10-23T18:06:08.659+01:00"}
+{"dg-publish":true,"permalink":"/health-effects-of-chicken/","created":"2025-10-23T17:42:43.120+01:00","updated":"2025-10-26T00:57:31.913+01:00"}
 ---
 
-#chicken #health_nutrition  
+#chickens #health_nutrition  
 
 See also
 - [[health effects of dairy\|health effects of dairy]]

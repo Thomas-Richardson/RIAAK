@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/us-public-support-for-radical-action-against-factory-farming-in-the-name-of-animal-welfare-rethink-priorities/","tags":["#USA factory_farming"],"created":"2025-10-23T17:42:46.401+01:00","updated":"2025-10-23T18:12:10.248+01:00"}
+{"dg-publish":true,"permalink":"/citations/us-public-support-for-radical-action-against-factory-farming-in-the-name-of-animal-welfare-rethink-priorities/","tags":["USA factory_farming"],"created":"2025-10-23T17:42:46.401+01:00","updated":"2025-10-23T18:12:10.248+01:00"}
 ---
 
 ## Summary 

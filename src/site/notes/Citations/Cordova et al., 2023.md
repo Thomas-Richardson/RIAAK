@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/cordova-et-al-2023/","tags":["#health_nutrition","#alternative_proteins","#citation"],"created":"2025-10-23T17:42:45.581+01:00","updated":"2025-10-23T18:06:08.883+01:00"}
+{"dg-publish":true,"permalink":"/citations/cordova-et-al-2023/","created":"2025-10-23T17:42:45.581+01:00","updated":"2025-10-23T18:06:08.883+01:00"}
 ---
 
 #health_nutrition  #alternative_proteins #citation 

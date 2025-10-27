@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/awareness-of-factory-farming/","tags":["#consumer_attitudes","#factory_farming","#uk","#UK"],"created":"2025-10-23T17:42:47.981+01:00","updated":"2025-10-23T18:06:08.740+01:00"}
+{"dg-publish":true,"permalink":"/awareness-of-factory-farming/","tags":["consumer_attitudes","factory_farming","uk"],"created":"2025-10-23T17:42:47.981+01:00","updated":"2025-10-23T18:06:08.740+01:00"}
 ---
 
 #factory_farming 

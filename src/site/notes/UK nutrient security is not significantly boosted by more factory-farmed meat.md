@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uk-nutrient-security-is-not-significantly-boosted-by-more-factory-farmed-meat/","tags":["#factory_farming","#food_security","#uk","#health_nutrition"],"created":"2025-10-23T17:42:47.891+01:00","updated":"2025-10-23T18:06:08.737+01:00"}
+{"dg-publish":true,"permalink":"/uk-nutrient-security-is-not-significantly-boosted-by-more-factory-farmed-meat/","tags":["factory_farming","food_security","uk","health_nutrition"],"created":"2025-10-23T17:42:47.891+01:00","updated":"2025-10-23T18:06:08.737+01:00"}
 ---
 
 The [UK government's 2024 food security report](https://www.gov.uk/government/statistics/united-kingdom-food-security-report-2024/united-kingdom-food-security-report-2024-theme-4-food-security-at-household-level#sub-theme-3-diet-and-nutrition) notes that the UK population is not meeting the [Eatwell Guide (EWG)](https://www.gov.uk/government/publications/the-eatwell-guide) recommendations for fruits vegetables and fibre more generally. In fact, just 7% of the population met fibre recommendations, and 74% were not eating enough fruits and vegetables.

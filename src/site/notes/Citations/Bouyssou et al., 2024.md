@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/bouyssou-et-al-2024/","tags":["#citation","#economics","#meat"],"created":"2025-10-23T17:42:46.135+01:00","updated":"2025-10-23T18:06:08.923+01:00"}
+{"dg-publish":true,"permalink":"/citations/bouyssou-et-al-2024/","created":"2025-10-23T17:42:46.135+01:00","updated":"2025-10-23T18:06:08.923+01:00"}
 ---
 
 #citation #economics #meat 

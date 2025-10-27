@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestral-human-diets/","tags":["#anthropology"],"created":"2025-10-23T17:42:47.751+01:00","updated":"2025-10-23T18:06:08.733+01:00"}
+{"dg-publish":true,"permalink":"/ancestral-human-diets/","created":"2025-10-23T17:42:47.751+01:00","updated":"2025-10-23T18:06:08.733+01:00"}
 ---
 
 #anthropology 

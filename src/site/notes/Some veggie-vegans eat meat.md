@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/some-veggie-vegans-eat-meat/","tags":["#veganism","#psychology"],"created":"2025-10-23T17:42:41.574+01:00","updated":"2025-10-23T18:06:08.603+01:00"}
+{"dg-publish":true,"permalink":"/some-veggie-vegans-eat-meat/","created":"2025-10-23T17:42:41.574+01:00","updated":"2025-10-23T18:06:08.603+01:00"}
 ---
 
 #veganism #psychology 

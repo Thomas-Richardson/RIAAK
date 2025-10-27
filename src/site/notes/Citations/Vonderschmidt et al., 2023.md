@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/vonderschmidt-et-al-2023/","tags":["#citation","#meat","#behaviour_change"],"created":"2025-10-23T17:42:45.453+01:00","updated":"2025-10-23T18:06:08.856+01:00"}
+{"dg-publish":true,"permalink":"/citations/vonderschmidt-et-al-2023/","created":"2025-10-23T17:42:45.453+01:00","updated":"2025-10-23T18:06:08.856+01:00"}
 ---
 
 #citation #meat #behaviour_change 

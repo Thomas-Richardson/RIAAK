@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/meat-taxes/","tags":["#meat","#economics"],"created":"2025-10-23T17:42:48.105+01:00","updated":"2025-10-23T18:06:08.747+01:00"}
+{"dg-publish":true,"permalink":"/meat-taxes/","created":"2025-10-23T17:42:48.105+01:00","updated":"2025-10-23T18:06:08.747+01:00"}
 ---
 
 #meat #economics 

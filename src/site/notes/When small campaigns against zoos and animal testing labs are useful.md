@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/when-small-campaigns-against-zoos-and-animal-testing-labs-are-useful/","tags":["#movement_building"],"created":"2025-10-23T17:42:43.470+01:00","updated":"2025-10-23T18:06:08.670+01:00"}
+{"dg-publish":true,"permalink":"/when-small-campaigns-against-zoos-and-animal-testing-labs-are-useful/","created":"2025-10-23T17:42:43.470+01:00","updated":"2025-10-23T18:06:08.670+01:00"}
 ---
 
 #movement_building 

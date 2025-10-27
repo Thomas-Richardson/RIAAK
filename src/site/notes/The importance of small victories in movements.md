@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-importance-of-small-victories-in-movements/","tags":["#movement_building"],"created":"2025-10-23T17:42:41.780+01:00","updated":"2025-10-23T18:06:08.612+01:00"}
+{"dg-publish":true,"permalink":"/the-importance-of-small-victories-in-movements/","created":"2025-10-23T17:42:41.780+01:00","updated":"2025-10-23T18:06:08.612+01:00"}
 ---
 
 #movement_building 

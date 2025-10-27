@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-efra-select-committee-2023/","tags":["#citation","#uk","#food_security","#cawf_food_sec"],"created":"2025-10-23T17:42:46.208+01:00","updated":"2025-10-23T18:06:08.925+01:00"}
+{"dg-publish":true,"permalink":"/citations/the-efra-select-committee-2023/","created":"2025-10-23T17:42:46.208+01:00","updated":"2025-10-23T18:06:08.925+01:00"}
 ---
 
 #citation #uk #food_security #cawf_food_sec 

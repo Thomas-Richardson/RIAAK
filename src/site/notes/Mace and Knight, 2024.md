@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/mace-and-knight-2024/","tags":["#chicken"],"created":"2025-10-23T17:42:41.815+01:00","updated":"2025-10-23T18:06:08.614+01:00"}
+{"dg-publish":true,"permalink":"/mace-and-knight-2024/","created":"2025-10-23T17:42:41.815+01:00","updated":"2025-10-26T00:57:31.850+01:00"}
 ---
 
-#chicken 
+#chickens 
 
 Mace, J. L., & Knight, A. (2024). From the Backyard to Our Beds: The Spectrum of Care, Attitudes, Relationship Types, and Welfare in Non-Commercial Chicken Care. _Animals_, _14_(2), 288.
 

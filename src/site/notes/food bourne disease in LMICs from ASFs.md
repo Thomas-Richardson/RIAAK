@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/food-bourne-disease-in-lmi-cs-from-as-fs/","tags":["#mfa_food_sec","#health_disease","#lower_middle_income_countries"],"created":"2025-10-23T17:42:42.255+01:00","updated":"2025-10-23T18:06:08.627+01:00"}
+{"dg-publish":true,"permalink":"/food-bourne-disease-in-lmi-cs-from-as-fs/","created":"2025-10-23T17:42:42.255+01:00","updated":"2025-10-23T18:06:08.627+01:00"}
 ---
 
 #mfa_food_sec #health_disease 

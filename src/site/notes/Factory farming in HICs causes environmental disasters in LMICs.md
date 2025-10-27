@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/factory-farming-in-hi-cs-causes-environmental-disasters-in-lmi-cs/","tags":["#factory_farming","#mfa_food_sec","#lower_middle_income_countries","#environment_ghg"],"created":"2025-10-23T17:42:43.139+01:00","updated":"2025-10-23T18:06:08.660+01:00"}
+{"dg-publish":true,"permalink":"/factory-farming-in-hi-cs-causes-environmental-disasters-in-lmi-cs/","tags":["factory_farming"],"created":"2025-10-23T17:42:43.139+01:00","updated":"2025-10-23T18:06:08.660+01:00"}
 ---
 
 #mfa_food_sec #lower_middle_income_countries #environment_ghg  #factory_farming 

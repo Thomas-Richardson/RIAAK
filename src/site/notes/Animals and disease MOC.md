@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/animals-and-disease-moc/","tags":["#health_disease","#factory_farming","#food_security","#economics"],"created":"2025-10-23T17:42:47.379+01:00","updated":"2025-10-23T18:06:08.712+01:00"}
+{"dg-publish":true,"permalink":"/animals-and-disease-moc/","created":"2025-10-23T17:42:47.379+01:00","updated":"2025-10-23T18:06:08.712+01:00"}
 ---
 
 #health_disease #factory_farming 

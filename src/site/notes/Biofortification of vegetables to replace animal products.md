@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/biofortification-of-vegetables-to-replace-animal-products/","tags":["#health_nutrition"],"created":"2025-10-23T17:42:47.248+01:00","updated":"2025-10-23T18:06:08.705+01:00"}
+{"dg-publish":true,"permalink":"/biofortification-of-vegetables-to-replace-animal-products/","created":"2025-10-23T17:42:47.248+01:00","updated":"2025-10-23T18:06:08.705+01:00"}
 ---
 
 #health_nutrition  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-landworkers-alliance-pasture-for-life-sustain-and-hodmedod-2023/","tags":["#animal_feed","#environment_land","#citation","#cawf_food_sec"],"created":"2025-10-23T17:42:45.588+01:00","updated":"2025-10-23T19:18:51.120+01:00"}
+{"dg-publish":true,"permalink":"/citations/the-landworkers-alliance-pasture-for-life-sustain-and-hodmedod-2023/","tags":["animal_feed"],"created":"2025-10-23T17:42:45.588+01:00","updated":"2025-10-23T19:18:51.120+01:00"}
 ---
 
 #environment_land #citation #cawf_food_sec 

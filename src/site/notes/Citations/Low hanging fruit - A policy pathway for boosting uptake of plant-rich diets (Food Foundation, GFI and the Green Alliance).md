@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/low-hanging-fruit-a-policy-pathway-for-boosting-uptake-of-plant-rich-diets-food-foundation-gfi-and-the-green-alliance/","tags":["#uk"],"created":"2025-10-23T17:42:47.053+01:00","updated":"2025-10-23T17:42:47.053+01:00"}
+{"dg-publish":true,"permalink":"/citations/low-hanging-fruit-a-policy-pathway-for-boosting-uptake-of-plant-rich-diets-food-foundation-gfi-and-the-green-alliance/","tags":["uk"],"created":"2025-10-23T17:42:47.053+01:00","updated":"2025-10-23T17:42:47.053+01:00"}
 ---
 
 This policy pathway, produced in collaboration with Green Alliance and The Good Food Institute, outlines a series of pragmatic and easily implementable policy recommendations for the government to include in the forthcoming Food Strategy. 

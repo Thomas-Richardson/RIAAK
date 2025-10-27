@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vertical-farming/","tags":["#farming"],"created":"2025-10-23T17:42:47.809+01:00","updated":"2025-10-23T18:06:08.735+01:00"}
+{"dg-publish":true,"permalink":"/vertical-farming/","created":"2025-10-23T17:42:47.809+01:00","updated":"2025-10-23T18:06:08.735+01:00"}
 ---
 
 #farming 

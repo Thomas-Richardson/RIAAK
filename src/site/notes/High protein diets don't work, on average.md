@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/high-protein-diets-don-t-work-on-average/","tags":["#diet","#health_nutrition","#meat"],"created":"2025-10-23T17:42:42.023+01:00","updated":"2025-10-23T18:06:08.619+01:00"}
+{"dg-publish":true,"permalink":"/high-protein-diets-don-t-work-on-average/","created":"2025-10-23T17:42:42.023+01:00","updated":"2025-10-23T18:06:08.619+01:00"}
 ---
 
 #diet #health_nutrition #meat 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/smallhold-farming/","tags":["#farming","#lower_middle_income_countries"],"created":"2025-10-23T17:42:47.392+01:00","updated":"2025-10-23T18:06:08.712+01:00"}
+{"dg-publish":true,"permalink":"/smallhold-farming/","created":"2025-10-23T17:42:47.392+01:00","updated":"2025-10-23T18:06:08.712+01:00"}
 ---
 
 #farming #lower_middle_income_countries 

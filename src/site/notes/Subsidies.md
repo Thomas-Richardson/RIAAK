@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/subsidies/","tags":["#meat","#farming","#politics"],"created":"2025-10-23T17:42:42.245+01:00","updated":"2025-10-23T18:06:08.626+01:00"}
+{"dg-publish":true,"permalink":"/subsidies/","tags":["#meat","#farming","#politics"],"created":"2025-10-23T17:42:42.245+01:00","updated":"2025-10-27T14:10:16.631+00:00"}
 ---
 
 #meat #farming #politics 
@@ -27,7 +27,7 @@
 
 ## EU subsidies
 - Documented here: https://farmsubsidy.org/
-- [[Citations/Greenpeace, 2019\|Greenpeace, 2019]] document the subsidies attached to livestock
+- [[Citations/Feeding the problem (Greenpeace, 2019)\|Feeding the problem (Greenpeace, 2019)]] document the subsidies attached to livestock
 - A recent Nature paper by [[Citations/Kortleve et al., (2024)\|Kortleve et al., (2024)]] found that 82% of EU CAP subsidies goes towards animal agriculture, 38% directly and 44% for animal feed.
 
 ![Pasted image 20240502134433.png](/img/user/Pasted%20image%2020240502134433.png) 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uk-meat-prices-have-risen-faster-than-prices-of-pb-alts-in-recent-years/","tags":["#animal_feed","#blog_in_progress","#bryant_research","#veganism","#economics"],"created":"2025-10-23T17:42:47.625+01:00","updated":"2025-10-23T19:18:51.190+01:00"}
+{"dg-publish":true,"permalink":"/uk-meat-prices-have-risen-faster-than-prices-of-pb-alts-in-recent-years/","tags":["animal_feed"],"created":"2025-10-23T17:42:47.625+01:00","updated":"2025-10-23T19:18:51.190+01:00"}
 ---
 
 #blog_in_progress #bryant_research #veganism #economics 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/food-stability-for-people-in-lmi-cs-and-animal-agriculture/","tags":["#mfa_food_sec"],"created":"2025-10-23T17:42:43.747+01:00","updated":"2025-10-23T18:06:08.678+01:00"}
+{"dg-publish":true,"permalink":"/food-stability-for-people-in-lmi-cs-and-animal-agriculture/","created":"2025-10-23T17:42:43.747+01:00","updated":"2025-10-23T18:06:08.678+01:00"}
 ---
 
 #mfa_food_sec 

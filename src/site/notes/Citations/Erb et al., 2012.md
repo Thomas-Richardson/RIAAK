@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/erb-et-al-2012/","tags":["#citation","#food_security"],"created":"2025-10-23T17:42:44.459+01:00","updated":"2025-10-23T18:06:08.779+01:00"}
+{"dg-publish":true,"permalink":"/citations/erb-et-al-2012/","created":"2025-10-23T17:42:44.459+01:00","updated":"2025-10-23T18:06:08.779+01:00"}
 ---
 
 #citation #food_security 

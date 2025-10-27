@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/food-frontier-2023/","tags":["#alternative_proteins","#good_growth_social_listening","#asia","#citation","#cultivated_meat","#precision_fermentation","#SE_asia"],"created":"2025-10-23T17:42:46.947+01:00","updated":"2025-10-23T17:42:46.947+01:00"}
+{"dg-publish":true,"permalink":"/citations/food-frontier-2023/","tags":["alternative_proteins","good_growth_social_listening","asia","citation","cultivated_meat","precision_fermentation","SE_asia"],"created":"2025-10-23T17:42:46.947+01:00","updated":"2025-10-23T17:42:46.947+01:00"}
 ---
  
 

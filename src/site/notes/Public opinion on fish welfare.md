@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public-opinion-on-fish-welfare/","tags":["#fish","#consumer_attitudes","#labelling"],"created":"2025-10-23T17:42:47.314+01:00","updated":"2025-10-23T18:06:08.707+01:00"}
+{"dg-publish":true,"permalink":"/public-opinion-on-fish-welfare/","created":"2025-10-23T17:42:47.314+01:00","updated":"2025-10-23T18:06:08.707+01:00"}
 ---
 
 #fish #consumer_attitudes 

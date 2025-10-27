@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/duluins-et-al-2022/","tags":["#economics","#citation","#cows","#dairy","#case_study"],"created":"2025-10-23T17:42:45.365+01:00","updated":"2025-10-23T18:06:08.839+01:00"}
+{"dg-publish":true,"permalink":"/citations/duluins-et-al-2022/","created":"2025-10-23T17:42:45.365+01:00","updated":"2025-10-23T18:06:08.839+01:00"}
 ---
 
 #economics #citation #cows #dairy #case_study

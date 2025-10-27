@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-effects-of-the-protein-transition-on-the-macro-economy/","tags":["#veganism","#economics"],"created":"2025-10-23T17:42:43.685+01:00","updated":"2025-10-23T18:06:08.674+01:00"}
+{"dg-publish":true,"permalink":"/the-effects-of-the-protein-transition-on-the-macro-economy/","created":"2025-10-23T17:42:43.685+01:00","updated":"2025-10-23T18:06:08.674+01:00"}
 ---
 
 #veganism #economics 

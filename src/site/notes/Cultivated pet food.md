@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cultivated-pet-food/","tags":["#cultivated_meat","#pet_food"],"created":"2025-10-23T17:42:48.072+01:00","updated":"2025-10-23T17:42:48.072+01:00"}
+{"dg-publish":true,"permalink":"/cultivated-pet-food/","tags":["#cultivated_meat","pet_food"],"created":"2025-10-23T17:42:48.072+01:00","updated":"2025-10-23T17:42:48.072+01:00"}
 ---
 
 #cultivated_meat #pet_food 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/animal-advo-and-religion/","tags":["#movement_building"],"created":"2025-10-23T17:42:44.034+01:00","updated":"2025-10-23T18:06:08.688+01:00"}
+{"dg-publish":true,"permalink":"/animal-advo-and-religion/","created":"2025-10-23T17:42:44.034+01:00","updated":"2025-10-23T18:06:08.688+01:00"}
 ---
 
 #movement_building 

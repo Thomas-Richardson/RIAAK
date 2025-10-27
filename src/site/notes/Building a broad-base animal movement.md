@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/building-a-broad-base-animal-movement/","tags":["#narratives","#movement_building"],"created":"2025-10-23T17:42:47.924+01:00","updated":"2025-10-23T18:06:08.738+01:00"}
+{"dg-publish":true,"permalink":"/building-a-broad-base-animal-movement/","created":"2025-10-23T17:42:47.924+01:00","updated":"2025-10-23T18:06:08.738+01:00"}
 ---
 
 #narratives #movement_building 

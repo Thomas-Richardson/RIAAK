@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/comparisons-of-capacity-for-welfare-and-moral-status-across-species-rethink-priorities/","tags":["#sentience"],"created":"2025-10-23T17:42:45.100+01:00","updated":"2025-10-23T18:07:04.387+01:00"}
+{"dg-publish":true,"permalink":"/citations/comparisons-of-capacity-for-welfare-and-moral-status-across-species-rethink-priorities/","tags":["sentience"],"created":"2025-10-23T17:42:45.100+01:00","updated":"2025-10-23T18:07:04.387+01:00"}
 ---
 
 Effective altruism aims to allocate resources so as to promote the most good in the world. To achieve the most efficient allocation of resources, we need to be able to compare interventions that target different species, including humans, cows, chickens, fish, lobsters, and many others.

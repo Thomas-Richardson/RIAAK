@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/are-pb-diets-cheaper-than-omni-diets/","tags":["#animal_advocacy","#veganism","#economics"],"created":"2025-10-23T17:42:41.244+01:00","updated":"2025-10-23T18:06:08.591+01:00"}
+{"dg-publish":true,"permalink":"/are-pb-diets-cheaper-than-omni-diets/","created":"2025-10-23T17:42:41.244+01:00","updated":"2025-10-23T18:06:08.591+01:00"}
 ---
 
 #animal_advocacy #veganism #economics 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/is-reducitarian-messaging-effective/","tags":["#behaviour_change","#messaging"],"created":"2025-10-23T17:42:41.379+01:00","updated":"2025-10-23T18:06:08.594+01:00"}
+{"dg-publish":true,"permalink":"/is-reducitarian-messaging-effective/","created":"2025-10-23T17:42:41.379+01:00","updated":"2025-10-23T18:06:08.594+01:00"}
 ---
 
 #behaviour_change #messaging 

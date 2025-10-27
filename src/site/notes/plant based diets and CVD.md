@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/plant-based-diets-and-cvd/","tags":["#veganism","#health_nutrition"],"created":"2025-10-23T17:42:43.081+01:00","updated":"2025-10-23T18:06:08.657+01:00"}
+{"dg-publish":true,"permalink":"/plant-based-diets-and-cvd/","created":"2025-10-23T17:42:43.081+01:00","updated":"2025-10-23T18:06:08.657+01:00"}
 ---
 
 #veganism #health_nutrition

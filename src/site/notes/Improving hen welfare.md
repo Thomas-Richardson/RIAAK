@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/improving-hen-welfare/","tags":["#chicken","#animal_welfare"],"created":"2025-10-23T17:42:47.274+01:00","updated":"2025-10-23T18:06:08.706+01:00"}
+{"dg-publish":true,"permalink":"/improving-hen-welfare/","created":"2025-10-23T17:42:47.274+01:00","updated":"2025-10-26T00:57:31.830+01:00"}
 ---
 
-#chicken #animal_welfare 
+#chickens #animal_welfare 
 
 - [[The Better Chicken Commitment\|The Better Chicken Commitment]]
 - [[Quantifying animal suffering\|Quantifying animal suffering]]

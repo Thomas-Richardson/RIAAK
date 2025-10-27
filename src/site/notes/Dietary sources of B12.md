@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dietary-sources-of-b12/","tags":["#health_nutrition"],"created":"2025-10-23T17:42:44.006+01:00","updated":"2025-10-23T18:06:08.687+01:00"}
+{"dg-publish":true,"permalink":"/dietary-sources-of-b12/","created":"2025-10-23T17:42:44.006+01:00","updated":"2025-10-23T18:06:08.687+01:00"}
 ---
 
 #health_nutrition 

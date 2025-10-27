@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/stehfest-et-al-2009/","tags":["#citation","#environment_land","#environment_ghg","#meat"],"created":"2025-10-23T17:42:44.247+01:00","updated":"2025-10-23T18:06:08.767+01:00"}
+{"dg-publish":true,"permalink":"/citations/stehfest-et-al-2009/","created":"2025-10-23T17:42:44.247+01:00","updated":"2025-10-23T18:06:08.767+01:00"}
 ---
 
 #citation #environment_land #environment_ghg  #meat 

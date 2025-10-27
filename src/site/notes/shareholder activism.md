@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shareholder-activism/","tags":["#economics","#Sinergia_defunding_project"],"created":"2025-10-23T17:42:43.187+01:00","updated":"2025-10-23T18:06:08.663+01:00"}
+{"dg-publish":true,"permalink":"/shareholder-activism/","created":"2025-10-23T17:42:43.187+01:00","updated":"2025-10-23T18:06:08.663+01:00"}
 ---
 
 #economics #Sinergia_defunding_project 

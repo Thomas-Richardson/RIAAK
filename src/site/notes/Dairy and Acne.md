@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dairy-and-acne/","tags":["#dairy"],"created":"2025-10-23T17:42:41.984+01:00","updated":"2025-10-23T18:06:08.618+01:00"}
+{"dg-publish":true,"permalink":"/dairy-and-acne/","created":"2025-10-23T17:42:41.984+01:00","updated":"2025-10-23T18:06:08.618+01:00"}
 ---
 
 #dairy 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/banning-meat-advertisements/","tags":["#meat","#behaviour_change","#animal_friendly_policy"],"created":"2025-10-23T17:42:41.233+01:00","updated":"2025-10-23T18:06:08.590+01:00"}
+{"dg-publish":true,"permalink":"/banning-meat-advertisements/","created":"2025-10-23T17:42:41.233+01:00","updated":"2025-10-23T18:06:08.590+01:00"}
 ---
 
 #meat #behaviour_change #animal_friendly_policy

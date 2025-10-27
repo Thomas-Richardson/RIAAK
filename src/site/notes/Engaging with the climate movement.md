@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/engaging-with-the-climate-movement/","tags":["#environment_ghg","#environment_land","#environment_misc","#movement_building"],"created":"2025-10-23T17:42:42.822+01:00","updated":"2025-10-23T18:06:08.641+01:00"}
+{"dg-publish":true,"permalink":"/engaging-with-the-climate-movement/","created":"2025-10-23T17:42:42.822+01:00","updated":"2025-10-23T18:06:08.641+01:00"}
 ---
 
 #environment_ghg #environment_land #environment_misc #movement_building 

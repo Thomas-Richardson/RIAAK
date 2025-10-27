@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/how-much-do-europeans-care-about-fish-welfare-an-analysis-of-relevant-surveys-rethink-priorities/","tags":["#wild_animals - \"fish\" - \"attitudes\" - \"EU\""],"created":"2025-10-23T17:42:46.582+01:00","updated":"2025-10-23T19:20:34.052+01:00"}
+{"dg-publish":true,"permalink":"/citations/how-much-do-europeans-care-about-fish-welfare-an-analysis-of-relevant-surveys-rethink-priorities/","tags":["wild_animals - \"fish\" - \"attitudes\" - \"EU\""],"created":"2025-10-23T17:42:46.582+01:00","updated":"2025-10-23T19:20:34.052+01:00"}
 ---
 
 Animal advocates have achieved a lot of change for chickens. However, some advocates are concerned that the same approach could not be used to achieve similar changes for fish because people care about fish welfare much less than about chicken welfare. In this article I analyze whether this intuition holds up to scrutiny when it comes to Europe. Here is what I found:

@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/greenpeace-2024/","tags":["#farmers"],"created":"2025-10-23T17:42:48.078+01:00","updated":"2025-10-23T18:06:08.746+01:00"}
+{"dg-publish":true,"permalink":"/greenpeace-2024/","tags":["#farmers"],"created":"2025-10-23T17:42:48.078+01:00","updated":"2025-10-27T14:10:16.626+00:00"}
 ---
 
 #farmers 
 
 - [[The consolidation and intensification of farms\|The consolidation and intensification of farms]]
-- [[Citations/Greenpeace, 2019\|Greenpeace, 2019]]
+- [[Citations/Feeding the problem (Greenpeace, 2019)\|Feeding the problem (Greenpeace, 2019)]]
 
 https://www.greenpeace.org/static/planet4-eu-unit-stateless/2024/10/20241003-Go-big-or-go-bust-Greenpeace-report-on-how-EU-farmers-are-pushed-to-produce-more-to-stay-in-business.pdf
 

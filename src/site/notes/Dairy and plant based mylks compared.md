@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dairy-and-plant-based-mylks-compared/","tags":["#health_nutrition","#environment_misc"],"created":"2025-10-23T17:42:47.290+01:00","updated":"2025-10-23T18:06:08.706+01:00"}
+{"dg-publish":true,"permalink":"/dairy-and-plant-based-mylks-compared/","created":"2025-10-23T17:42:47.290+01:00","updated":"2025-10-23T18:06:08.706+01:00"}
 ---
 
 #health_nutrition #environment_misc 

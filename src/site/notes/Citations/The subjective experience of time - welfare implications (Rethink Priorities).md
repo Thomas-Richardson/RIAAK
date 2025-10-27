@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-subjective-experience-of-time-welfare-implications-rethink-priorities/","tags":["#sentience"],"created":"2025-10-23T17:42:45.210+01:00","updated":"2025-10-23T18:12:10.206+01:00"}
+{"dg-publish":true,"permalink":"/citations/the-subjective-experience-of-time-welfare-implications-rethink-priorities/","tags":["sentience"],"created":"2025-10-23T17:42:45.210+01:00","updated":"2025-10-23T18:12:10.206+01:00"}
 ---
 
 The subjective experience of time refers to how slow or fast time appears to pass for an individual. Animals with faster rates of subjective experience undergo more subjective moments per objective unit of time than animals with slower rates of subjective experience. Roughly speaking, animals with faster rates of subjective experience perceive the world as if it were slowed down compared to the perceptions of animals with slower rates of subjective experience. Based on human reports of alterations in the subjective experience of time, as well as general differences in behavior, neurology, and temporal resolution across animals, I estimate there is a ~70% chance that there exist morally relevant differences in the subjective experience of time across species.

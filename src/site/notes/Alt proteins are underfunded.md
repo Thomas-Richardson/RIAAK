@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/alt-proteins-are-underfunded/","tags":["#environment_ghg","#alternative_proteins"],"created":"2025-10-23T17:42:41.739+01:00","updated":"2025-10-23T18:06:08.611+01:00"}
+{"dg-publish":true,"permalink":"/alt-proteins-are-underfunded/","created":"2025-10-23T17:42:41.739+01:00","updated":"2025-10-23T18:06:08.611+01:00"}
 ---
 
 #environment_ghg  #alternative_proteins 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uk-consumer-attitudes-towards-the-egg-industry/","tags":["#eggs","#bryant_insight","#consumer_attitudes","#uk"],"created":"2025-10-23T17:42:43.249+01:00","updated":"2025-10-23T18:06:08.665+01:00"}
+{"dg-publish":true,"permalink":"/uk-consumer-attitudes-towards-the-egg-industry/","created":"2025-10-23T17:42:43.249+01:00","updated":"2025-10-23T18:06:08.665+01:00"}
 ---
 
 #eggs #bryant_insight #consumer_attitudes #uk 

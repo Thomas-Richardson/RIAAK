@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/animal-advo-in-asia/","tags":["#lower_middle_income_countries","#asia","#movement_building","#health_nutrition","#cultivated_meat"],"created":"2025-10-23T17:42:42.412+01:00","updated":"2025-10-23T18:06:08.634+01:00"}
+{"dg-publish":true,"permalink":"/animal-advo-in-asia/","created":"2025-10-23T17:42:42.412+01:00","updated":"2025-10-23T18:06:08.634+01:00"}
 ---
 
 #lower_middle_income_countries  #asia

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gfi-europe-2024/","tags":["#cultivated_meat","#consumer_attitudes"],"created":"2025-10-23T17:42:41.804+01:00","updated":"2025-10-23T18:06:08.613+01:00"}
+{"dg-publish":true,"permalink":"/gfi-europe-2024/","created":"2025-10-23T17:42:41.804+01:00","updated":"2025-10-23T18:06:08.613+01:00"}
 ---
 
 #cultivated_meat #consumer_attitudes 

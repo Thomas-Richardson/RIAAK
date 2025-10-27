@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/thompson-et-al-2023/","tags":["#citation","#animal_advocacy","#environment_misc","#biodiversity"],"created":"2025-10-23T17:42:44.989+01:00","updated":"2025-10-23T18:06:08.806+01:00"}
+{"dg-publish":true,"permalink":"/citations/thompson-et-al-2023/","created":"2025-10-23T17:42:44.989+01:00","updated":"2025-10-23T18:06:08.806+01:00"}
 ---
 
 #citation #animal_advocacy #environment_misc #biodiversity 

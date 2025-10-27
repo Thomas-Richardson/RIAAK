@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/welfare-considerations-for-farmed-shrimp-rethink-priorities/","tags":["#wild_animals - \"crustaceans shrimp\""],"created":"2025-10-23T17:42:46.027+01:00","updated":"2025-10-23T19:20:34.067+01:00"}
+{"dg-publish":true,"permalink":"/citations/welfare-considerations-for-farmed-shrimp-rethink-priorities/","tags":["wild_animals - \"crustaceans shrimp\""],"created":"2025-10-23T17:42:46.027+01:00","updated":"2025-10-23T19:20:34.067+01:00"}
 ---
 
 Rethink Priorities’ Shrimp Welfare Sequence is a series that addresses whether and how best to protect the welfare of shrimp. At any time, more shrimp are alive on farms than any other group of farmed animals. But is the large size of the industry an issue? After all, farmers might treat shrimp well, and shrimp may not even be sentient. In upcoming reports, we explore a cause for concern: a large percentage of these individuals die before they are old enough to be slaughtered. After describing farming practices that help explain high mortality rates, we use a quantitative model to explain why the most urgent issues are not necessarily the ones that have attracted the most attention.

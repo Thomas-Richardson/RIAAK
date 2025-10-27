@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-small-body-problem/","tags":["#animal_feed","#fish","#eggs","#environment_misc","#health_nutrition","#uk"],"created":"2025-10-23T17:42:47.875+01:00","updated":"2025-10-23T19:18:51.187+01:00"}
+{"dg-publish":true,"permalink":"/the-small-body-problem/","tags":["animal_feed"],"created":"2025-10-23T17:42:47.875+01:00","updated":"2025-10-23T19:18:51.187+01:00"}
 ---
 
 #fish #eggs #environment_misc #health_nutrition 

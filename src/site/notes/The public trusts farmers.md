@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-public-trusts-farmers/","tags":["#farming","#farmers","#uk"],"created":"2025-10-23T17:42:47.742+01:00","updated":"2025-10-23T18:06:08.732+01:00"}
+{"dg-publish":true,"permalink":"/the-public-trusts-farmers/","created":"2025-10-23T17:42:47.742+01:00","updated":"2025-10-23T18:06:08.732+01:00"}
 ---
 
 #farming #farmers #uk 

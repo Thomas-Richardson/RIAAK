@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-intersection-between-ai-and-animals/","tags":["#AI","#animal_welfare"],"created":"2025-10-23T17:42:41.235+01:00","updated":"2025-10-23T18:06:08.590+01:00"}
+{"dg-publish":true,"permalink":"/the-intersection-between-ai-and-animals/","created":"2025-10-23T17:42:41.235+01:00","updated":"2025-10-23T18:06:08.590+01:00"}
 ---
 
 #AI #animal_welfare 

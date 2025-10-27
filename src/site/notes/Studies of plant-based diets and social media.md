@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/studies-of-plant-based-diets-and-social-media/","tags":["#good_growth_social_listening"],"created":"2025-10-23T17:42:42.772+01:00","updated":"2025-10-23T18:06:08.639+01:00"}
+{"dg-publish":true,"permalink":"/studies-of-plant-based-diets-and-social-media/","created":"2025-10-23T17:42:42.772+01:00","updated":"2025-10-23T18:06:08.639+01:00"}
 ---
 
 #good_growth_social_listening 

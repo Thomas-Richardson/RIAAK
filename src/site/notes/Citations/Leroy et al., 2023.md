@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/leroy-et-al-2023/","tags":["#wild_animals","#citation","#animal_advocacy","#eggs"],"created":"2025-10-23T17:42:45.401+01:00","updated":"2025-10-23T19:20:34.054+01:00"}
+{"dg-publish":true,"permalink":"/citations/leroy-et-al-2023/","tags":["wild_animals"],"created":"2025-10-23T17:42:45.401+01:00","updated":"2025-10-23T19:20:34.054+01:00"}
 ---
 
 #citation #animal_advocacy 

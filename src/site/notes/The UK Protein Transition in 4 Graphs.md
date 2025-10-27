@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-uk-protein-transition-in-4-graphs/","tags":["#bryant_insight","#meat","#veganism","#uk"],"created":"2025-10-23T17:42:42.311+01:00","updated":"2025-10-23T18:06:08.629+01:00"}
+{"dg-publish":true,"permalink":"/the-uk-protein-transition-in-4-graphs/","created":"2025-10-23T17:42:42.311+01:00","updated":"2025-10-23T18:06:08.629+01:00"}
 ---
 
 #bryant_insight #meat #veganism #uk 

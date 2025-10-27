@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neglected-causes-in-animal-advocacy/","tags":["#animal_advocacy","#effective_altruism","#movement_building","#fish","#farming","#alternative_proteins"],"created":"2025-10-23T17:42:41.427+01:00","updated":"2025-10-23T18:06:08.597+01:00"}
+{"dg-publish":true,"permalink":"/neglected-causes-in-animal-advocacy/","created":"2025-10-23T17:42:41.427+01:00","updated":"2025-10-23T18:06:08.597+01:00"}
 ---
 
 #animal_advocacy #effective_altruism #movement_building 

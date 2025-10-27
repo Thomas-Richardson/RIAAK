@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-many-animals-are-farmed-and-slaughtered-each-year/","tags":["#animal_advocacy","#factory_farming","#fish","#cawf_farming"],"created":"2025-10-23T17:42:41.838+01:00","updated":"2025-10-23T18:06:08.614+01:00"}
+{"dg-publish":true,"permalink":"/how-many-animals-are-farmed-and-slaughtered-each-year/","created":"2025-10-23T17:42:41.838+01:00","updated":"2025-10-23T18:06:08.614+01:00"}
 ---
 
 #animal_advocacy #factory_farming 

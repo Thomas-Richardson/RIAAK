@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/feed-food-competition/","tags":["#animal_feed","#mfa_food_sec","#farming"],"created":"2025-10-23T17:42:43.236+01:00","updated":"2025-10-23T19:18:51.138+01:00"}
+{"dg-publish":true,"permalink":"/feed-food-competition/","tags":["animal_feed"],"created":"2025-10-23T17:42:43.236+01:00","updated":"2025-10-23T19:18:51.138+01:00"}
 ---
 
 #mfa_food_sec #farming 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/what-percentage-of-uk-cattle-are-kept-indoors-their-whole-life/","tags":["#cows","#uk","#factory_farming"],"created":"2025-10-23T17:42:42.692+01:00","updated":"2025-10-23T18:06:08.637+01:00"}
+{"dg-publish":true,"permalink":"/what-percentage-of-uk-cattle-are-kept-indoors-their-whole-life/","created":"2025-10-23T17:42:42.692+01:00","updated":"2025-10-23T18:06:08.637+01:00"}
 ---
 
 #cows #uk #factory_farming 

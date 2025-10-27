@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/what-do-canadians-think-about-caged-eggs-q/","tags":["#bryant_research","#consumer_attitudes","#eggs"],"created":"2025-10-23T17:42:42.976+01:00","updated":"2025-10-23T18:06:08.652+01:00"}
+{"dg-publish":true,"permalink":"/what-do-canadians-think-about-caged-eggs-q/","created":"2025-10-23T17:42:42.976+01:00","updated":"2025-10-23T18:06:08.652+01:00"}
 ---
 
 #bryant_research #consumer_attitudes #eggs 

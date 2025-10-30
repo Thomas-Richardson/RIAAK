@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-effects-of-climate-change-on-uk-agriculture/","tags":["#uk","#environment_ghg","#food_security","#cawf_food_sec"],"created":"2025-10-23T17:42:48.009+01:00","updated":"2025-10-23T18:06:08.741+01:00"}
+{"dg-publish":true,"permalink":"/the-effects-of-climate-change-on-uk-agriculture/","created":"2025-10-23T17:42:48.009+01:00","updated":"2025-10-23T18:06:08.741+01:00"}
 ---
 
 #uk #environment_ghg #food_security #cawf_food_sec 

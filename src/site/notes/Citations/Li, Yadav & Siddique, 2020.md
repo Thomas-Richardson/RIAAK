@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/li-yadav-and-siddique-2020/","tags":["#citation","#health_nutrition","#lower_middle_income_countries"],"created":"2025-10-23T17:42:45.664+01:00","updated":"2025-10-23T18:06:08.895+01:00"}
+{"dg-publish":true,"permalink":"/citations/li-yadav-and-siddique-2020/","created":"2025-10-23T17:42:45.664+01:00","updated":"2025-10-23T18:06:08.895+01:00"}
 ---
 
 #citation #health_nutrition  #lower_middle_income_countries 

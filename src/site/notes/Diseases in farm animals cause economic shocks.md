@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/diseases-in-farm-animals-cause-economic-shocks/","tags":["#wild_animals","#health_disease","#factory_farming","#uk","#cawf_food_sec"],"created":"2025-10-23T17:42:43.453+01:00","updated":"2025-10-23T19:20:34.069+01:00"}
+{"dg-publish":true,"permalink":"/diseases-in-farm-animals-cause-economic-shocks/","tags":["wild_animals","health_disease","economics","food_security"],"created":"2025-10-23T17:42:43.453+01:00","updated":"2025-10-24T12:44:59.882+01:00"}
 ---
 
 #health_disease #factory_farming 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/crippa-et-al-2021/","tags":["#environment_ghg","#environment_land","#citation"],"created":"2025-10-23T17:42:44.714+01:00","updated":"2025-10-23T18:06:08.794+01:00"}
+{"dg-publish":true,"permalink":"/citations/crippa-et-al-2021/","created":"2025-10-23T17:42:44.714+01:00","updated":"2025-10-23T18:06:08.794+01:00"}
 ---
 
 #environment_ghg #environment_land  #citation 

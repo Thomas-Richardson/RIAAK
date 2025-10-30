@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/reynolds-et-al-2022/","tags":["#citation","#health_nutrition","#economics","#veganism"],"created":"2025-10-23T17:42:44.387+01:00","updated":"2025-10-23T18:06:08.773+01:00"}
+{"dg-publish":true,"permalink":"/citations/reynolds-et-al-2022/","created":"2025-10-23T17:42:44.387+01:00","updated":"2025-10-23T18:06:08.773+01:00"}
 ---
 
 #citation #health_nutrition #economics #veganism 

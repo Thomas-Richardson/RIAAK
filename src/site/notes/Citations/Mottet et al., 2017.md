@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/mottet-et-al-2017/","tags":["#animal_feed","#citation","#farming","#mfa_food_sec"],"created":"2025-10-23T17:42:44.746+01:00","updated":"2025-10-23T19:18:51.116+01:00"}
+{"dg-publish":true,"permalink":"/citations/mottet-et-al-2017/","tags":["animal_feed"],"created":"2025-10-23T17:42:44.746+01:00","updated":"2025-10-23T19:18:51.116+01:00"}
 ---
 
 #citation #farming #mfa_food_sec 

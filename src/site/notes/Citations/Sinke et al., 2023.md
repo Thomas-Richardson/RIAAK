@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/sinke-et-al-2023/","tags":["#citation","#cultivated_meat","#environment_land","#environment_ghg"],"created":"2025-10-23T17:42:46.519+01:00","updated":"2025-10-23T18:06:08.944+01:00"}
+{"dg-publish":true,"permalink":"/citations/sinke-et-al-2023/","created":"2025-10-23T17:42:46.519+01:00","updated":"2025-10-23T18:06:08.944+01:00"}
 ---
 
 #citation #cultivated_meat #environment_land #environment_ghg 

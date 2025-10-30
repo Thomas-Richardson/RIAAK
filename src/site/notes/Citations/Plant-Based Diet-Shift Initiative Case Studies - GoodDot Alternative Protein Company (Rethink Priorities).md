@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/plant-based-diet-shift-initiative-case-studies-good-dot-alternative-protein-company-rethink-priorities/","tags":["#case_study"],"created":"2025-10-23T17:42:44.873+01:00","updated":"2025-10-23T18:12:10.193+01:00"}
+{"dg-publish":true,"permalink":"/citations/plant-based-diet-shift-initiative-case-studies-good-dot-alternative-protein-company-rethink-priorities/","tags":["case_study"],"created":"2025-10-23T17:42:44.873+01:00","updated":"2025-10-23T18:12:10.193+01:00"}
 ---
 
 This case study focuses on GoodDot, an Indian alternative protein company. Founded in 2016 by Abhishek Sinha and Deepak Parihar, who were motivated by compassion for animals, the company has become one of India’s largest alternative protein businesses by capital raised (GFI India, 2024), and now sells 65,000 plant-based meat substitutes each day.

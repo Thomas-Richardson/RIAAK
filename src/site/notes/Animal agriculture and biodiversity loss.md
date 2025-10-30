@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/animal-agriculture-and-biodiversity-loss/","tags":["#biodiversity","#alternative_proteins"],"created":"2025-10-23T17:42:47.343+01:00","updated":"2025-10-23T18:06:08.710+01:00"}
+{"dg-publish":true,"permalink":"/animal-agriculture-and-biodiversity-loss/","created":"2025-10-23T17:42:47.343+01:00","updated":"2025-10-23T18:06:08.710+01:00"}
 ---
 
 #biodiversity 

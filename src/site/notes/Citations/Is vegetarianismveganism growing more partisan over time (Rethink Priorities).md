@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/is-vegetarianismveganism-growing-more-partisan-over-time-rethink-priorities/","tags":["#veg_diets"],"created":"2025-10-23T17:42:44.450+01:00","updated":"2025-10-23T18:12:10.177+01:00"}
+{"dg-publish":true,"permalink":"/citations/is-vegetarianismveganism-growing-more-partisan-over-time-rethink-priorities/","tags":["veg_diets"],"created":"2025-10-23T17:42:44.450+01:00","updated":"2025-10-23T18:12:10.177+01:00"}
 ---
 
 ## Key Points

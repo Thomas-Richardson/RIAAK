@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/kwok-et-al-2019/","tags":["#citation","#health_nutrition","#meat","#alternative_proteins","#dairy","#eggs"],"created":"2025-10-23T17:42:46.140+01:00","updated":"2025-10-23T18:06:08.924+01:00"}
+{"dg-publish":true,"permalink":"/citations/kwok-et-al-2019/","created":"2025-10-23T17:42:46.140+01:00","updated":"2025-10-23T18:06:08.924+01:00"}
 ---
 
 #citation #health_nutrition  #meat #alternative_proteins #dairy #eggs

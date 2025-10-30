@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/neuenschwander-et-al-2023/","tags":["#citation","#health_nutrition","#meat","#veganism"],"created":"2025-10-23T17:42:46.820+01:00","updated":"2025-10-23T18:06:08.958+01:00"}
+{"dg-publish":true,"permalink":"/citations/neuenschwander-et-al-2023/","created":"2025-10-23T17:42:46.820+01:00","updated":"2025-10-23T18:06:08.958+01:00"}
 ---
 
 #citation #health_nutrition #meat #veganism 

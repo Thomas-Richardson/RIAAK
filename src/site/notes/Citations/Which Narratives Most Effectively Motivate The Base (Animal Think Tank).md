@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/which-narratives-most-effectively-motivate-the-base-animal-think-tank/","tags":["#wild_animals"],"created":"2025-10-23T17:42:44.774+01:00","updated":"2025-10-23T19:20:34.068+01:00"}
+{"dg-publish":true,"permalink":"/citations/which-narratives-most-effectively-motivate-the-base-animal-think-tank/","tags":["wild_animals"],"created":"2025-10-23T17:42:44.774+01:00","updated":"2025-10-23T19:20:34.068+01:00"}
 ---
 
 This research examined the effectiveness of different messages in encouraging support for a ban on factory farming among vegans and vegetarians in the UK. A total of 3,948 participants, recruited through Prolific, were presented with one of 19 messages and asked to rate their likelihood of joining a protest calling for a ban on factory farming. Participants were categorised into two main datasets: the 'base' dataset (2,665 participants highly concerned with animal rights) and the 'middle' dataset (1,283 participants less concerned with animal rights). Additionally, a subset of participants who identified strictly as vegan or vegetarian was analysed separately.

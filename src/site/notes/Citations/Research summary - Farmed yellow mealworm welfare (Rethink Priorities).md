@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/research-summary-farmed-yellow-mealworm-welfare-rethink-priorities/","tags":["#insects"],"created":"2025-10-23T17:42:46.972+01:00","updated":"2025-10-23T18:12:10.266+01:00"}
+{"dg-publish":true,"permalink":"/citations/research-summary-farmed-yellow-mealworm-welfare-rethink-priorities/","tags":["insects"],"created":"2025-10-23T17:42:46.972+01:00","updated":"2025-10-23T18:12:10.266+01:00"}
 ---
 
 - As of 2020, around 300 billion yellow mealworms (_Tenebrio molitor_) are farmed annually (though recent estimates now put this figure at over 3 trillion individuals (Pells, 2023)).

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/mason-d-croz-et-al-2022/","tags":["#citation","#cows","#meat","#alternative_proteins","#economics","#mfa_food_sec"],"created":"2025-10-23T17:42:45.396+01:00","updated":"2025-10-23T18:06:08.843+01:00"}
+{"dg-publish":true,"permalink":"/citations/mason-d-croz-et-al-2022/","created":"2025-10-23T17:42:45.396+01:00","updated":"2025-10-23T18:06:08.843+01:00"}
 ---
 
 #citation #cows #meat #alternative_proteins #economics #mfa_food_sec 

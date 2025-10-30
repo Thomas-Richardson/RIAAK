@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/contract-farming/","tags":["#farming","#chicken","#usa"],"created":"2025-10-23T17:42:47.535+01:00","updated":"2025-10-23T18:06:08.724+01:00"}
+{"dg-publish":true,"permalink":"/contract-farming/","created":"2025-10-23T17:42:47.535+01:00","updated":"2025-10-26T00:57:31.813+01:00"}
 ---
 
-#farming #chicken #usa 
+#farming #chickens #usa 
 
 - [[CAFOS reduce employment and provide low quality jobs\|CAFOS reduce employment and provide low quality jobs]]
 - [[CAFOs distort markets\|CAFOs distort markets]]

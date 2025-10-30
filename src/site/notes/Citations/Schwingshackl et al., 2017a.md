@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/schwingshackl-et-al-2017a/","tags":["#citation","#health_nutrition","#fish","#meat","#dairy"],"created":"2025-10-23T17:42:45.539+01:00","updated":"2025-10-23T18:06:08.872+01:00"}
+{"dg-publish":true,"permalink":"/citations/schwingshackl-et-al-2017a/","created":"2025-10-23T17:42:45.539+01:00","updated":"2025-10-23T18:06:08.872+01:00"}
 ---
 
 #citation #health_nutrition #fish #meat #dairy 

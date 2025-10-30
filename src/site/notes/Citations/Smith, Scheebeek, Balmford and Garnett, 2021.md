@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/smith-scheebeek-balmford-and-garnett-2021/","tags":["#citation","#meat","#uk"],"created":"2025-10-23T17:42:46.525+01:00","updated":"2025-10-23T18:06:08.944+01:00"}
+{"dg-publish":true,"permalink":"/citations/smith-scheebeek-balmford-and-garnett-2021/","created":"2025-10-23T17:42:46.525+01:00","updated":"2025-10-23T18:06:08.944+01:00"}
 ---
 
 #citation #meat #uk 

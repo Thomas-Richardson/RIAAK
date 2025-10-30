@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/monaco-et-al-2024/","tags":["#citation","#insects","#cultivated_meat","#review"],"created":"2025-10-23T17:42:46.191+01:00","updated":"2025-10-23T18:06:08.925+01:00"}
+{"dg-publish":true,"permalink":"/citations/monaco-et-al-2024/","created":"2025-10-23T17:42:46.191+01:00","updated":"2025-10-23T18:06:08.925+01:00"}
 ---
 
 #citation #insects #cultivated_meat #review

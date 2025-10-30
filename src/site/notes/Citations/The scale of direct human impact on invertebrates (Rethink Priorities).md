@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-scale-of-direct-human-impact-on-invertebrates-rethink-priorities/","tags":["#insect"],"created":"2025-10-23T17:42:45.572+01:00","updated":"2025-10-23T18:12:10.218+01:00"}
+{"dg-publish":true,"permalink":"/citations/the-scale-of-direct-human-impact-on-invertebrates-rethink-priorities/","tags":["insect"],"created":"2025-10-23T17:42:45.572+01:00","updated":"2025-10-23T18:12:10.218+01:00"}
 ---
 
 ## Summary

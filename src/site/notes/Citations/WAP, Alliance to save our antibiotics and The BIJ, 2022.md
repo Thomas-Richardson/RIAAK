@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/wap-alliance-to-save-our-antibiotics-and-the-bij-2022/","tags":["#citation","#health_disease","#uk","#environment_pollution"],"created":"2025-10-23T17:42:45.995+01:00","updated":"2025-10-23T18:06:08.914+01:00"}
+{"dg-publish":true,"permalink":"/citations/wap-alliance-to-save-our-antibiotics-and-the-bij-2022/","created":"2025-10-23T17:42:45.995+01:00","updated":"2025-10-23T18:06:08.914+01:00"}
 ---
 
 #citation #health_disease #uk #environment_pollution 

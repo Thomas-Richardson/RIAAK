@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/willits-smith-et-al-2020/","tags":["#citation","#veganism","#environment_ghg"],"created":"2025-10-23T17:42:46.567+01:00","updated":"2025-10-23T18:06:08.946+01:00"}
+{"dg-publish":true,"permalink":"/citations/willits-smith-et-al-2020/","created":"2025-10-23T17:42:46.567+01:00","updated":"2025-10-23T18:06:08.946+01:00"}
 ---
 
 #citation #veganism #environment_ghg 

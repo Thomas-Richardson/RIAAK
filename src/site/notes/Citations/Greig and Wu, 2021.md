@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/greig-and-wu-2021/","tags":["#citation","#cows","#economics"],"created":"2025-10-23T17:42:44.544+01:00","updated":"2025-10-23T18:06:08.784+01:00"}
+{"dg-publish":true,"permalink":"/citations/greig-and-wu-2021/","created":"2025-10-23T17:42:44.544+01:00","updated":"2025-10-23T18:06:08.784+01:00"}
 ---
 
 #citation #cows #economics 

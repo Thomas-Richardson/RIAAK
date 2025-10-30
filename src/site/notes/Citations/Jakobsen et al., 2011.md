@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/jakobsen-et-al-2011/","tags":["#fish","#citation"],"created":"2025-10-23T17:42:46.669+01:00","updated":"2025-10-23T18:06:08.952+01:00"}
+{"dg-publish":true,"permalink":"/citations/jakobsen-et-al-2011/","created":"2025-10-23T17:42:46.669+01:00","updated":"2025-10-23T18:06:08.952+01:00"}
 ---
 
 #fish #citation 

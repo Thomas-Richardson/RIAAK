@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/royal-society-2023/","tags":["#uk","#environment_land","#food_security"],"created":"2025-10-23T17:42:46.739+01:00","updated":"2025-10-23T17:42:46.740+01:00"}
+{"dg-publish":true,"permalink":"/citations/royal-society-2023/","tags":["uk","environment_land","food_security"],"created":"2025-10-23T17:42:46.739+01:00","updated":"2025-10-23T17:42:46.740+01:00"}
 ---
 
 Globally, there are increasing demands on land to feed and house a growing and increasingly wealthy population, sequester carbon to mitigate climate change, restore biodiversity, and improve resilience in the face of extreme weather and global shocks such as pandemics and war. Successfully navigating these intersecting challenges will require science and innovation to increase the sustainable productivity of land for the multiple outputs society wants and needs — including those that have market value, such as agricultural produce, and those with no or partial market value, such as biodiversity.

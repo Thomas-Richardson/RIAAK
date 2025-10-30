@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/citations/scarborough-et-al-2012/","tags":["#citation","#environment_misc","#health_nutrition","#chicken","#meat"],"created":"2025-10-23T17:42:44.421+01:00","updated":"2025-10-23T18:06:08.776+01:00"}
+{"dg-publish":true,"permalink":"/citations/scarborough-et-al-2012/","created":"2025-10-23T17:42:44.421+01:00","updated":"2025-10-26T00:57:31.801+01:00"}
 ---
 
-#citation #environment_misc #health_nutrition #chicken #meat 
+#citation #environment_misc #health_nutrition #chickens #meat 
 
 Scarborough, P., Allender, S., Clarke, D., Wickramasinghe, K., & Rayner, M. (2012). Modelling the health impact of environmentally sustainable dietary scenarios in the UK. _European journal of clinical nutrition_, _66_(6), 710-715.
 

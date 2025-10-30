@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/rosenfeld-and-tomiyama-2019/","tags":["#veganism","#psychology","#citation"],"created":"2025-10-23T17:42:46.124+01:00","updated":"2025-10-23T18:06:08.923+01:00"}
+{"dg-publish":true,"permalink":"/citations/rosenfeld-and-tomiyama-2019/","created":"2025-10-23T17:42:46.124+01:00","updated":"2025-10-23T18:06:08.923+01:00"}
 ---
 
 #veganism #psychology #citation 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/springlea-2022/","tags":["#animal_feed","#citation","#policy","#economics"],"created":"2025-10-23T17:42:45.439+01:00","updated":"2025-10-23T19:18:51.118+01:00"}
+{"dg-publish":true,"permalink":"/citations/springlea-2022/","tags":["animal_feed"],"created":"2025-10-23T17:42:45.439+01:00","updated":"2025-10-23T19:18:51.118+01:00"}
 ---
 
 #citation #policy #economics 

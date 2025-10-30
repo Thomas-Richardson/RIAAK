@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/most-of-the-world-is-lactose-intolerant/","tags":["#dairy","#health_nutrition","#lower_middle_income_countries"],"created":"2025-10-23T17:42:43.811+01:00","updated":"2025-10-23T18:06:08.680+01:00"}
+{"dg-publish":true,"permalink":"/most-of-the-world-is-lactose-intolerant/","created":"2025-10-23T17:42:43.811+01:00","updated":"2025-10-23T18:06:08.680+01:00"}
 ---
 
 #dairy #health_nutrition #lower_middle_income_countries 

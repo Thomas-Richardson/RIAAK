@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/research-summary-the-evolution-of-nociception-in-arthropods-rethink-priorities/","tags":["#insects"],"created":"2025-10-23T17:42:45.909+01:00","updated":"2025-10-23T18:12:10.228+01:00"}
+{"dg-publish":true,"permalink":"/citations/research-summary-the-evolution-of-nociception-in-arthropods-rethink-priorities/","tags":["insects"],"created":"2025-10-23T17:42:45.909+01:00","updated":"2025-10-23T18:12:10.228+01:00"}
 ---
 
 **Executive Summary**

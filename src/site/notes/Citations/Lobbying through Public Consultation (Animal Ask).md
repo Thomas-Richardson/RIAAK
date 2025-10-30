@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/lobbying-through-public-consultation-animal-ask/","tags":["#wild_animals"],"created":"2025-10-23T17:42:45.640+01:00","updated":"2025-10-23T19:20:34.055+01:00"}
+{"dg-publish":true,"permalink":"/citations/lobbying-through-public-consultation-animal-ask/","tags":["wild_animals"],"created":"2025-10-23T17:42:45.640+01:00","updated":"2025-10-23T19:20:34.055+01:00"}
 ---
 
 Governments often conduct public consultations in which stakeholders can submit their view on a proposed policy. This is especially common in Western democracies such as Australia, Canada, New Zealand, the United States, and the European Union. Perhaps because of pressure for governments to be perceived as more participatory, their use has become more prevalent over time (Kerley and Starr 2000). Additionally, they are often practised by sub jurisdictions within countries, such as states, provinces or cities.

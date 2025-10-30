@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/mariotti-and-gardner-2019/","tags":["#citation","#veganism","#health_nutrition"],"created":"2025-10-23T17:42:44.595+01:00","updated":"2025-10-23T18:06:08.786+01:00"}
+{"dg-publish":true,"permalink":"/citations/mariotti-and-gardner-2019/","created":"2025-10-23T17:42:44.595+01:00","updated":"2025-10-23T18:06:08.786+01:00"}
 ---
 
 #citation #veganism #health_nutrition

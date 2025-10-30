@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/pendrill-et-al-2019/","tags":["#citation","#environment_misc","#cows"],"created":"2025-10-23T17:42:44.468+01:00","updated":"2025-10-23T18:06:08.779+01:00"}
+{"dg-publish":true,"permalink":"/citations/pendrill-et-al-2019/","created":"2025-10-23T17:42:44.468+01:00","updated":"2025-10-23T18:06:08.779+01:00"}
 ---
 
 #citation #environment_misc #cows 

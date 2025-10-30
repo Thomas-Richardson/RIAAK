@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/world-animal-protection-2024/","tags":["#citation","#factory_farming","#uk"],"created":"2025-10-23T17:42:46.104+01:00","updated":"2025-10-23T18:06:08.921+01:00"}
+{"dg-publish":true,"permalink":"/citations/world-animal-protection-2024/","created":"2025-10-23T17:42:46.104+01:00","updated":"2025-10-23T18:06:08.921+01:00"}
 ---
 
 #citation #factory_farming #uk 

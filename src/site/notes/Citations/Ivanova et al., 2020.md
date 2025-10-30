@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/ivanova-et-al-2020/","tags":["#environment_ghg","#meat","#citation"],"created":"2025-10-23T17:42:46.245+01:00","updated":"2025-10-23T18:06:08.927+01:00"}
+{"dg-publish":true,"permalink":"/citations/ivanova-et-al-2020/","created":"2025-10-23T17:42:46.245+01:00","updated":"2025-10-23T18:06:08.927+01:00"}
 ---
 
 #environment_ghg  #meat #citation 

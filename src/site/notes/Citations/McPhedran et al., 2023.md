@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/mc-phedran-et-al-2023/","tags":["#citation","#veganism","#behaviour_change"],"created":"2025-10-23T17:42:46.535+01:00","updated":"2025-10-23T18:06:08.945+01:00"}
+{"dg-publish":true,"permalink":"/citations/mc-phedran-et-al-2023/","created":"2025-10-23T17:42:46.535+01:00","updated":"2025-10-23T18:06:08.945+01:00"}
 ---
 
 #citation #veganism #behaviour_change 

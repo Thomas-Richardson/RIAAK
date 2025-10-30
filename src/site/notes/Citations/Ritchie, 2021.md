@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/ritchie-2021/","tags":["#animal_feed","#citation","#farming","#environment_land","#lower_middle_income_countries"],"created":"2025-10-23T17:42:45.264+01:00","updated":"2025-10-23T19:18:51.117+01:00"}
+{"dg-publish":true,"permalink":"/citations/ritchie-2021/","tags":["animal_feed"],"created":"2025-10-23T17:42:45.264+01:00","updated":"2025-10-23T19:18:51.117+01:00"}
 ---
 
 #citation #farming #environment_land #lower_middle_income_countries 

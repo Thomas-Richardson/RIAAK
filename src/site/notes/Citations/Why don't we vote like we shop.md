@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/why-don-t-we-vote-like-we-shop/","tags":["#economics","#policy","#citation"],"created":"2025-10-23T17:42:47.104+01:00","updated":"2025-10-23T18:06:08.975+01:00"}
+{"dg-publish":true,"permalink":"/citations/why-don-t-we-vote-like-we-shop/","created":"2025-10-23T17:42:47.104+01:00","updated":"2025-10-23T18:06:08.975+01:00"}
 ---
 
 #economics #policy #citation 

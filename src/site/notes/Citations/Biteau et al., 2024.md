@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/biteau-et-al-2024/","tags":["#insects","#citation"],"created":"2025-10-23T17:42:44.728+01:00","updated":"2025-10-23T18:06:08.795+01:00"}
+{"dg-publish":true,"permalink":"/citations/biteau-et-al-2024/","created":"2025-10-23T17:42:44.728+01:00","updated":"2025-10-23T18:06:08.795+01:00"}
 ---
 
 #insects #citation 

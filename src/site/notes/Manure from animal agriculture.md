@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/manure-from-animal-agriculture/","tags":["#farming","#environment_misc","#factory_farming"],"created":"2025-10-23T17:42:47.776+01:00","updated":"2025-10-23T18:06:08.733+01:00"}
+{"dg-publish":true,"permalink":"/manure-from-animal-agriculture/","created":"2025-10-23T17:42:47.776+01:00","updated":"2025-10-23T18:06:08.733+01:00"}
 ---
 
 #farming #environment_misc 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/three-preconditions-for-helping-wild-animals-at-scale-rethink-priorities/","tags":["#wild_animals - \"wild_animals\""],"created":"2025-10-23T17:42:46.470+01:00","updated":"2025-10-23T19:20:34.066+01:00"}
+{"dg-publish":true,"permalink":"/citations/three-preconditions-for-helping-wild-animals-at-scale-rethink-priorities/","tags":["wild_animals - \"wild_animals\""],"created":"2025-10-23T17:42:46.470+01:00","updated":"2025-10-23T19:20:34.066+01:00"}
 ---
 
 ## Executive Summary

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jahn-furchheim-and-straessner-2021/","tags":["#alternative_proteins"],"created":"2025-10-23T17:42:43.837+01:00","updated":"2025-10-23T18:06:08.680+01:00"}
+{"dg-publish":true,"permalink":"/jahn-furchheim-and-straessner-2021/","created":"2025-10-23T17:42:43.837+01:00","updated":"2025-10-23T18:06:08.680+01:00"}
 ---
 
 #alternative_proteins 

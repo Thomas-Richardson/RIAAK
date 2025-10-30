@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-economic-value-of-alternative-proteins/","tags":["#alternative_proteins","#economics","#cultivated_meat"],"created":"2025-10-23T17:42:47.546+01:00","updated":"2025-10-23T18:06:08.725+01:00"}
+{"dg-publish":true,"permalink":"/the-economic-value-of-alternative-proteins/","tags":["alternative_proteins","economics","cultivated_meat"],"created":"2025-10-23T17:42:47.546+01:00","updated":"2025-10-23T18:06:08.725+01:00"}
 ---
 
 #economics #alternative_proteins 

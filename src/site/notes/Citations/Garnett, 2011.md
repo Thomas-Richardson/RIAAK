@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/garnett-2011/","tags":["#citation","#environment_ghg","#farming"],"created":"2025-10-23T17:42:46.277+01:00","updated":"2025-10-23T18:06:08.930+01:00"}
+{"dg-publish":true,"permalink":"/citations/garnett-2011/","created":"2025-10-23T17:42:46.277+01:00","updated":"2025-10-23T18:06:08.930+01:00"}
 ---
 
 #citation #environment_ghg  #farming 

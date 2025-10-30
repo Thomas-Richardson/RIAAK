@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/shrimp-the-animals-most-commonly-used-and-killed-for-food-production-rethink-priorities/","tags":["#shrimp crustaceans"],"created":"2025-10-23T17:42:44.348+01:00","updated":"2025-10-23T18:12:10.174+01:00"}
+{"dg-publish":true,"permalink":"/citations/shrimp-the-animals-most-commonly-used-and-killed-for-food-production-rethink-priorities/","tags":["shrimp crustaceans"],"created":"2025-10-23T17:42:44.348+01:00","updated":"2025-10-23T18:12:10.174+01:00"}
 ---
 
 ### Summary

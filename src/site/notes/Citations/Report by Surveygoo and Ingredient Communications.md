@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/report-by-surveygoo-and-ingredient-communications/","tags":["#citation","#report","#meat","#labelling"],"created":"2025-10-23T17:42:44.756+01:00","updated":"2025-10-23T18:06:08.798+01:00"}
+{"dg-publish":true,"permalink":"/citations/report-by-surveygoo-and-ingredient-communications/","created":"2025-10-23T17:42:44.756+01:00","updated":"2025-10-23T18:06:08.798+01:00"}
 ---
 
 #citation #report #meat #labelling 

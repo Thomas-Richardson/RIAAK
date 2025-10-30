@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/invasive-spongy-moth-outbreaks-a-neglected-wild-animal-welfare-issue-rethink-priorities/","tags":["#wild_animals - \"insects\""],"created":"2025-10-23T17:42:47.029+01:00","updated":"2025-10-23T19:20:34.053+01:00"}
+{"dg-publish":true,"permalink":"/citations/invasive-spongy-moth-outbreaks-a-neglected-wild-animal-welfare-issue-rethink-priorities/","tags":["wild_animals - \"insects\""],"created":"2025-10-23T17:42:47.029+01:00","updated":"2025-10-23T19:20:34.053+01:00"}
 ---
 
 One aim of wild animal welfare research is to identify situations where large numbers of wild animals are managed by humans in ways that have significant welfare impacts. If the number of individuals is large and the welfare impacts significant, the issue is important. As humans are managing these animals, it is possible the welfare impacts could be moderated to reduce their suffering. The massive scale of invasive (e.g., non-native) *Lymantria dispar dispar* (spongy moth) outbreaks represents an unappreciated wild animal welfare issue, and thus deserves further attention from a welfare (not simply an invasive species-control) perspective.

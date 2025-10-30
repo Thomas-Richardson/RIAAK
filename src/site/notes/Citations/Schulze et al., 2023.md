@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/schulze-et-al-2023/","tags":["#citation","#health_nutrition","#meat"],"created":"2025-10-23T17:42:44.865+01:00","updated":"2025-10-23T18:06:08.802+01:00"}
+{"dg-publish":true,"permalink":"/citations/schulze-et-al-2023/","created":"2025-10-23T17:42:44.865+01:00","updated":"2025-10-23T18:06:08.802+01:00"}
 ---
 
 #citation #health_nutrition #meat 

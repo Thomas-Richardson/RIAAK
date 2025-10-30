@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/springmann-and-freund-2022/","tags":["#citation","#environment_ghg","#economics"],"created":"2025-10-23T17:42:45.501+01:00","updated":"2025-10-23T18:06:08.869+01:00"}
+{"dg-publish":true,"permalink":"/citations/springmann-and-freund-2022/","created":"2025-10-23T17:42:45.501+01:00","updated":"2025-10-23T18:06:08.869+01:00"}
 ---
 
 #citation #environment_ghg #economics 

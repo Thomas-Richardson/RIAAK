@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/scarborough-et-al-2010/","tags":["#citation","#health_nutrition","#meat"],"created":"2025-10-23T17:42:46.597+01:00","updated":"2025-10-23T18:06:08.948+01:00"}
+{"dg-publish":true,"permalink":"/citations/scarborough-et-al-2010/","created":"2025-10-23T17:42:46.597+01:00","updated":"2025-10-23T18:06:08.948+01:00"}
 ---
 
 #citation #health_nutrition #meat 

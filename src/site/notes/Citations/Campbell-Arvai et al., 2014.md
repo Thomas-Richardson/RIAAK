@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/campbell-arvai-et-al-2014/","tags":["#citation","#behaviour_change"],"created":"2025-10-23T17:42:45.604+01:00","updated":"2025-10-23T18:06:08.888+01:00"}
+{"dg-publish":true,"permalink":"/citations/campbell-arvai-et-al-2014/","created":"2025-10-23T17:42:45.604+01:00","updated":"2025-10-23T18:06:08.888+01:00"}
 ---
 
 #citation #behaviour_change

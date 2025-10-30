@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/mace-and-knight-2023/","tags":["#citation","#chickens","#pigs","#health_disease","#factory_farming"],"created":"2025-10-23T17:42:46.602+01:00","updated":"2025-10-23T18:06:08.948+01:00"}
+{"dg-publish":true,"permalink":"/citations/mace-and-knight-2023/","created":"2025-10-23T17:42:46.602+01:00","updated":"2025-10-23T18:06:08.948+01:00"}
 ---
 
 #citation #chickens #pigs #health_disease  #factory_farming 

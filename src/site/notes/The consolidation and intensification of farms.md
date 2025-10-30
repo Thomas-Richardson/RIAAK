@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-consolidation-and-intensification-of-farms/","tags":["#animal_feed","#factory_farming","#usa","#lower_middle_income_countries"],"created":"2025-10-23T17:42:43.114+01:00","updated":"2025-10-23T19:18:51.181+01:00"}
+{"dg-publish":true,"permalink":"/the-consolidation-and-intensification-of-farms/","tags":["animal_feed"],"created":"2025-10-23T17:42:43.114+01:00","updated":"2025-10-27T14:10:16.633+00:00"}
 ---
 
 #factory_farming #usa 
@@ -14,7 +14,7 @@ Iowa lost nearly 90 percent of its hog farms from 1982 to 2017, as rapid factory
 just three cooperatives market more than 80 percent of all fluid milk in the country[^3] 
 
 ## Europe
-- Some great stats in [[Citations/Greenpeace, 2019\|Greenpeace, 2019]] and [[Greenpeace, 2024\|Greenpeace, 2024]]
+- Some great stats in [[Citations/Feeding the problem (Greenpeace, 2019)\|Feeding the problem (Greenpeace, 2019)]] and [[Greenpeace, 2024\|Greenpeace, 2024]]
 
 
 ## [[Farming Evidence Pack (DEFRA)\|UK]]

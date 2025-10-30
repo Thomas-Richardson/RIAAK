@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/meat-industry-climate-washing/","tags":["#environment_ghg","#environment_pollution"],"created":"2025-10-23T17:42:47.423+01:00","updated":"2025-10-23T18:06:08.713+01:00"}
+{"dg-publish":true,"permalink":"/meat-industry-climate-washing/","created":"2025-10-23T17:42:47.423+01:00","updated":"2025-10-23T18:06:08.713+01:00"}
 ---
 
 #environment_ghg #environment_pollution 

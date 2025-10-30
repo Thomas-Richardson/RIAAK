@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/do-the-global-poor-need-nutrients-from-animal-products/","tags":["#health_nutrition","#lower_middle_income_countries"],"created":"2025-10-23T17:42:41.683+01:00","updated":"2025-10-23T18:06:08.609+01:00"}
+{"dg-publish":true,"permalink":"/do-the-global-poor-need-nutrients-from-animal-products/","created":"2025-10-23T17:42:41.683+01:00","updated":"2025-10-23T18:06:08.609+01:00"}
 ---
 
 #health_nutrition #lower_middle_income_countries 

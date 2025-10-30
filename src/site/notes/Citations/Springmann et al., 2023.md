@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/springmann-et-al-2023/","tags":["#citation","#environment_misc","#veganism","#health_nutrition"],"created":"2025-10-23T17:42:45.680+01:00","updated":"2025-10-23T18:06:08.896+01:00"}
+{"dg-publish":true,"permalink":"/citations/springmann-et-al-2023/","created":"2025-10-23T17:42:45.680+01:00","updated":"2025-10-23T18:06:08.896+01:00"}
 ---
 
 #citation #environment_misc #veganism #health_nutrition

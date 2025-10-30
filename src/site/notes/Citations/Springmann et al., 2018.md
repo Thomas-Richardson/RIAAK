@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/springmann-et-al-2018/","tags":["#citation","#animal_advocacy","#economics","#meat","#health_nutrition"],"created":"2025-10-23T17:42:46.762+01:00","updated":"2025-10-23T18:06:08.955+01:00"}
+{"dg-publish":true,"permalink":"/citations/springmann-et-al-2018/","created":"2025-10-23T17:42:46.762+01:00","updated":"2025-10-23T18:06:08.955+01:00"}
 ---
 
 #citation #animal_advocacy #economics #meat #health_nutrition

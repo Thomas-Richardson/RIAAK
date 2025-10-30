@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/crazy-shit-that-peta-has-done/","tags":["#movement_building"],"created":"2025-10-23T17:42:47.151+01:00","updated":"2025-10-23T18:06:08.701+01:00"}
+{"dg-publish":true,"permalink":"/crazy-shit-that-peta-has-done/","created":"2025-10-23T17:42:47.151+01:00","updated":"2025-10-23T18:06:08.701+01:00"}
 ---
 
 #movement_building 

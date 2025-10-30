@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/zeijmans-2024/","tags":["#citation","#economics"],"created":"2025-10-23T17:42:45.307+01:00","updated":"2025-10-23T18:06:08.833+01:00"}
+{"dg-publish":true,"permalink":"/citations/zeijmans-2024/","created":"2025-10-23T17:42:45.307+01:00","updated":"2025-10-23T18:06:08.833+01:00"}
 ---
 
 #citation #economics 

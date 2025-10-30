@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/labour-s-plans-for-farming/","tags":["#cawf_farming"],"created":"2025-10-23T17:42:42.079+01:00","updated":"2025-10-23T18:06:08.622+01:00"}
+{"dg-publish":true,"permalink":"/labour-s-plans-for-farming/","created":"2025-10-23T17:42:42.079+01:00","updated":"2025-10-23T18:06:08.622+01:00"}
 ---
 
 #cawf_farming 

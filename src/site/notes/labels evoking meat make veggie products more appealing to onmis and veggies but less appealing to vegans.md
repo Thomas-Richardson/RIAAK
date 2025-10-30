@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/labels-evoking-meat-make-veggie-products-more-appealing-to-onmis-and-veggies-but-less-appealing-to-vegans/","tags":["#consumer_attitudes","#alternative_proteins","#labelling","#plant_based_alternative_proteins"],"created":"2025-10-23T17:42:44.040+01:00","updated":"2025-10-23T18:06:08.688+01:00"}
+{"dg-publish":true,"permalink":"/labels-evoking-meat-make-veggie-products-more-appealing-to-onmis-and-veggies-but-less-appealing-to-vegans/","tags":["consumer_attitudes","alternative_proteins","labelling","plant_based_alternative_proteins"],"created":"2025-10-23T17:42:44.040+01:00","updated":"2025-10-23T18:06:08.688+01:00"}
 ---
 
 - [[Citations/Report by Surveygoo and Ingredient Communications\|Report by Surveygoo and Ingredient Communications]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/eu-farmed-animal-welfare-policy-strategic-assessment-rethink-priorities/","tags":["#EU strategy"],"created":"2025-10-23T17:42:44.528+01:00","updated":"2025-10-23T18:12:10.179+01:00"}
+{"dg-publish":true,"permalink":"/citations/eu-farmed-animal-welfare-policy-strategic-assessment-rethink-priorities/","tags":["EU strategy"],"created":"2025-10-23T17:42:44.528+01:00","updated":"2025-10-23T18:12:10.179+01:00"}
 ---
 
 This report contains a **comprehensive analysis of the current EU political landscape and its implications for farmed animal welfare policy advancement**. This assessment, authored by Neil Dullaghan (Senior Research Manager), examines the significant shifts in the EU’s political environment following recent elections and institutional changes, providing strategic insights for advocates and funders working in this space.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/lusk-and-tonsor-2016/","tags":["#citation","#meat","#economics","#usa"],"created":"2025-10-23T17:42:45.944+01:00","updated":"2025-10-23T18:06:08.911+01:00"}
+{"dg-publish":true,"permalink":"/citations/lusk-and-tonsor-2016/","created":"2025-10-23T17:42:45.944+01:00","updated":"2025-10-23T18:06:08.911+01:00"}
 ---
 
 #citation #meat #economics #usa 

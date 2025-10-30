@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/monitoring-wild-animal-welfare-via-vocalizations-rethink-priorities/","tags":["#wild_animals - \"wild_animals\""],"created":"2025-10-23T17:42:45.255+01:00","updated":"2025-10-23T19:20:34.057+01:00"}
+{"dg-publish":true,"permalink":"/citations/monitoring-wild-animal-welfare-via-vocalizations-rethink-priorities/","tags":["wild_animals - \"wild_animals\""],"created":"2025-10-23T17:42:45.255+01:00","updated":"2025-10-23T19:20:34.057+01:00"}
 ---
 
 This article describes how various types and features of vocalizations could act as welfare metrics for wild animals and how a remote acoustic sensing network could be used to collect this type of data non-invasively.

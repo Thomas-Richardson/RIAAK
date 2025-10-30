@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/prospective-cost-effectiveness-of-farmed-fish-stunning-corporate-commitments-in-europe-rethink-priorities/","tags":["#fish","#EU"],"created":"2025-10-23T17:42:45.949+01:00","updated":"2025-10-23T17:42:45.950+01:00"}
+{"dg-publish":true,"permalink":"/citations/prospective-cost-effectiveness-of-farmed-fish-stunning-corporate-commitments-in-europe-rethink-priorities/","tags":["fish","EU"],"created":"2025-10-23T17:42:45.949+01:00","updated":"2025-10-23T17:42:45.950+01:00"}
 ---
 
 - **I estimated how cost-effective seeking farmed fish slaughter commitments from retailers might be in Europe** using a Monte Carlo simulation model. I focused on France, Italy, and Spain because of the large scale of consumption of farmed fish species (Gilthead Seabream, European Seabass, and small Rainbow Trout) that don't benefit from stunning in these countries.

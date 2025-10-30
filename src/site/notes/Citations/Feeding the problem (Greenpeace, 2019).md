@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/feeding-the-problem-greenpeace-2019/","tags":["#animal_feed","#environment_land"],"created":"2025-10-23T17:42:45.259+01:00","updated":"2025-10-27T14:10:37.961+00:00"}
+{"dg-publish":true,"permalink":"/citations/feeding-the-problem-greenpeace-2019/","tags":["animal_feed","environment_land"],"created":"2025-10-23T17:42:45.259+01:00","updated":"2025-10-27T14:10:37.961+00:00"}
 ---
 
 https://www.greenpeace.org/static/planet4-eu-unit-stateless/2019/02/83254ee1-190212-feeding-the-problem-dangerous-intensification-of-animal-farming-in-europe.pdf

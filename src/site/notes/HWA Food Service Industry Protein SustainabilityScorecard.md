@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hwa-food-service-industry-protein-sustainability-scorecard/","tags":["#institutional_change"],"created":"2025-10-23T17:42:42.293+01:00","updated":"2025-10-23T17:42:42.294+01:00"}
+{"dg-publish":true,"permalink":"/hwa-food-service-industry-protein-sustainability-scorecard/","tags":["institutional_change"],"created":"2025-10-23T17:42:42.293+01:00","updated":"2025-10-23T17:42:42.294+01:00"}
 ---
 
 # Executive Summary

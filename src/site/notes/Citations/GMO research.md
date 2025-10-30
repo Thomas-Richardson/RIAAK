@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/gmo-research/","tags":["#citation","#asia","#lower_middle_income_countries"],"created":"2025-10-23T17:42:46.770+01:00","updated":"2025-10-23T18:06:08.956+01:00"}
+{"dg-publish":true,"permalink":"/citations/gmo-research/","created":"2025-10-23T17:42:46.770+01:00","updated":"2025-10-23T18:06:08.956+01:00"}
 ---
 
 #citation #asia #lower_middle_income_countries 

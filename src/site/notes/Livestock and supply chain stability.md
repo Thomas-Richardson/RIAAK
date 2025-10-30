@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/livestock-and-supply-chain-stability/","tags":["#cawf_food_sec","#food_security"],"created":"2025-10-23T17:42:44.186+01:00","updated":"2025-10-23T18:06:08.698+01:00"}
+{"dg-publish":true,"permalink":"/livestock-and-supply-chain-stability/","created":"2025-10-23T17:42:44.186+01:00","updated":"2025-10-23T18:06:08.698+01:00"}
 ---
 
 #cawf_food_sec #food_security 

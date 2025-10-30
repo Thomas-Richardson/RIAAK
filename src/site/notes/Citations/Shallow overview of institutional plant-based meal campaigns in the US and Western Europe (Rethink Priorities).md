@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/shallow-overview-of-institutional-plant-based-meal-campaigns-in-the-us-and-western-europe-rethink-priorities/","tags":["#institutional_change EU USA"],"created":"2025-10-23T17:42:44.272+01:00","updated":"2025-10-23T18:12:10.171+01:00"}
+{"dg-publish":true,"permalink":"/citations/shallow-overview-of-institutional-plant-based-meal-campaigns-in-the-us-and-western-europe-rethink-priorities/","tags":["institutional_change EU USA"],"created":"2025-10-23T17:42:44.272+01:00","updated":"2025-10-23T18:12:10.171+01:00"}
 ---
 
 ### Executive summary

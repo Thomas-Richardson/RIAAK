@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/world-bank-2024/","tags":["#citation","#environment_ghg","#cows","#alternative_proteins","#environment_land"],"created":"2025-10-23T17:42:44.373+01:00","updated":"2025-10-23T18:06:08.773+01:00"}
+{"dg-publish":true,"permalink":"/citations/world-bank-2024/","created":"2025-10-23T17:42:44.373+01:00","updated":"2025-10-23T18:06:08.773+01:00"}
 ---
 
 #citation #environment_ghg #cows #alternative_proteins #environment_land 

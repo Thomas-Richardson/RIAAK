@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/paths-to-reducing-rodenticide-use-in-the-u-s-rethink-priorities/","tags":["#rodents wild_animals"],"created":"2025-10-23T17:42:45.081+01:00","updated":"2025-10-23T18:12:10.202+01:00"}
+{"dg-publish":true,"permalink":"/citations/paths-to-reducing-rodenticide-use-in-the-u-s-rethink-priorities/","tags":["rodents wild_animals"],"created":"2025-10-23T17:42:45.081+01:00","updated":"2025-10-23T18:12:10.202+01:00"}
 ---
 
 This is the third report in a sequence of reports on reducing the use of rodenticide poisons. It is not necessary to have read the previous reports to read this one, although this report will take for granted conclusions that were discussed and weighed in depth in the previous reports. Part 1 describes why rodenticides are crueler to rodents and more dangerous for human children, pets, and wildlife than most alternative methods for removing rodents from homes, businesses, and farms. Part 2 explains why both consumers and businesses have strong incentives to continue relying on rodenticides. This report describes and ranks interventions to reduce rodenticide use in the U.S. according to their expected impact, neglectedness, and tractability. We leave aside how the interventions we discuss might change attitudes toward pest populations in the long term due to a lack of relevant evidence.

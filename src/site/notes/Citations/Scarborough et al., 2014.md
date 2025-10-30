@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/scarborough-et-al-2014/","tags":["#citation","#environment_misc","#meat","#veganism","#uk"],"created":"2025-10-23T17:42:46.476+01:00","updated":"2025-10-23T18:06:08.942+01:00"}
+{"dg-publish":true,"permalink":"/citations/scarborough-et-al-2014/","created":"2025-10-23T17:42:46.476+01:00","updated":"2025-10-23T18:06:08.942+01:00"}
 ---
 
 #citation #environment_misc #meat #veganism #uk 

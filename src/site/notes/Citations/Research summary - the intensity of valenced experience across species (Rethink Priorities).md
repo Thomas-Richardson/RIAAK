@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/research-summary-the-intensity-of-valenced-experience-across-species-rethink-priorities/","tags":["#sentience"],"created":"2025-10-23T17:42:46.240+01:00","updated":"2025-10-23T18:12:10.240+01:00"}
+{"dg-publish":true,"permalink":"/citations/research-summary-the-intensity-of-valenced-experience-across-species-rethink-priorities/","tags":["sentience"],"created":"2025-10-23T17:42:46.240+01:00","updated":"2025-10-23T18:12:10.240+01:00"}
 ---
 
 ### Preamble

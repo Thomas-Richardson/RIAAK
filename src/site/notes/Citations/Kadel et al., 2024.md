@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/kadel-et-al-2024/","tags":["#citation","#messaging","#veganism","#good_growth_social_listening"],"created":"2025-10-23T17:42:45.620+01:00","updated":"2025-10-23T18:06:08.891+01:00"}
+{"dg-publish":true,"permalink":"/citations/kadel-et-al-2024/","created":"2025-10-23T17:42:45.620+01:00","updated":"2025-10-23T18:06:08.891+01:00"}
 ---
 
 #citation #messaging #veganism #good_growth_social_listening 

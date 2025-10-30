@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/espinosa-et-al-2024/","tags":["#citation","#health_nutrition","#environment_ghg"],"created":"2025-10-23T17:42:44.554+01:00","updated":"2025-10-23T18:06:08.785+01:00"}
+{"dg-publish":true,"permalink":"/citations/espinosa-et-al-2024/","created":"2025-10-23T17:42:44.554+01:00","updated":"2025-10-23T18:06:08.785+01:00"}
 ---
 
 #citation #health_nutrition  #environment_ghg 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/most-fishing-is-unsustainable/","tags":["#fish","#food_security"],"created":"2025-10-23T17:42:48.083+01:00","updated":"2025-10-23T18:06:08.746+01:00"}
+{"dg-publish":true,"permalink":"/most-fishing-is-unsustainable/","created":"2025-10-23T17:42:48.083+01:00","updated":"2025-10-23T18:06:08.746+01:00"}
 ---
 
 #fish 

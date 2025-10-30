@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/historical-farmed-animal-welfare-ballot-initiatives-rethink-priorities/","tags":["#wild_animals"],"created":"2025-10-23T17:42:44.761+01:00","updated":"2025-10-23T19:20:34.049+01:00"}
+{"dg-publish":true,"permalink":"/citations/historical-farmed-animal-welfare-ballot-initiatives-rethink-priorities/","tags":["chickens","usa"],"created":"2025-10-23T17:42:44.761+01:00","updated":"2025-10-24T12:45:56.272+01:00"}
 ---
 
 ## Executive Summary

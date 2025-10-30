@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/lri-and-cgiar-2021/","tags":["#citation","#farming"],"created":"2025-10-23T17:42:44.658+01:00","updated":"2025-10-23T18:06:08.790+01:00"}
+{"dg-publish":true,"permalink":"/citations/lri-and-cgiar-2021/","created":"2025-10-23T17:42:44.658+01:00","updated":"2025-10-23T18:06:08.790+01:00"}
 ---
 
 #citation #farming 

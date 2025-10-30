@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/putting-money-on-carbon-emissions/","tags":["#botec","#environment_ghg"],"created":"2025-10-23T17:42:41.892+01:00","updated":"2025-10-23T18:06:08.615+01:00"}
+{"dg-publish":true,"permalink":"/putting-money-on-carbon-emissions/","created":"2025-10-23T17:42:41.892+01:00","updated":"2025-10-23T18:06:08.615+01:00"}
 ---
 
 #botec #environment_ghg 

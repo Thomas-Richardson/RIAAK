@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/simoes-et-al-2022/","tags":["#citation","#factory_farming","#health_disease"],"created":"2025-10-23T17:42:44.258+01:00","updated":"2025-10-23T18:06:08.768+01:00"}
+{"dg-publish":true,"permalink":"/citations/simoes-et-al-2022/","created":"2025-10-23T17:42:44.258+01:00","updated":"2025-10-23T18:06:08.768+01:00"}
 ---
 
 #citation #factory_farming #health_disease 

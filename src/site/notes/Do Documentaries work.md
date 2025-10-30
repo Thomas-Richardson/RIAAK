@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/do-documentaries-work/","tags":["#behaviour_change"],"created":"2025-10-23T17:42:42.429+01:00","updated":"2025-10-23T18:06:08.634+01:00"}
+{"dg-publish":true,"permalink":"/do-documentaries-work/","created":"2025-10-23T17:42:42.429+01:00","updated":"2025-10-23T18:06:08.634+01:00"}
 ---
 
 #behaviour_change 

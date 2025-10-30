@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/lindberg-et-al-2024/","tags":["#citation","#health_nutrition"],"created":"2025-10-23T17:42:46.064+01:00","updated":"2025-10-23T18:06:08.918+01:00"}
+{"dg-publish":true,"permalink":"/citations/lindberg-et-al-2024/","created":"2025-10-23T17:42:46.064+01:00","updated":"2025-10-23T18:06:08.918+01:00"}
 ---
 
 #citation #health_nutrition 

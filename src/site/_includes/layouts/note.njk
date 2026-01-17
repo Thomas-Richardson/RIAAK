@@ -85,7 +85,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
           const resultsDiv = document.getElementById('ai-results');
           resultsDiv.innerHTML = "Searching...";
           
-          const VERCEL_URL = window.location.origin; 
+          const VERCEL_URL = "https://riaak.vercel.app/"; 
           
           try {
             const response = await fetch(`${VERCEL_URL}/api/search?q=${encodeURIComponent(query)}`);
@@ -136,6 +136,15 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     {% for imp in dynamics.notes.footer %}
       {% include imp %}
     {% endfor %}
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <script src="//unpkg.com/force-graph"></script>
+    
     {%include "components/lucideIcons.njk"%}
+    <script>
+      // Initialize icons after library is loaded
+      lucide.createIcons();
+    </script>
+  </body>
+</html>
   </body>
 </html>

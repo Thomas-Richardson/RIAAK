@@ -6,25 +6,30 @@ from pinecone import Pinecone
 from openai import OpenAI
 
 class handler(BaseHTTPRequestHandler):
-    def do_OPTIONS(self):
-        self.send_response(200)
+    def _send_cors_headers(self):
+        """Helper to send CORS headers for every response"""
         self.send_header('Access-Control-Allow-Origin', '*')
         self.send_header('Access-Control-Allow-Methods', 'GET, POST, OPTIONS')
         self.send_header('Access-Control-Allow-Headers', 'Content-Type')
+
+    def do_OPTIONS(self):
+        self.send_response(200)
+        self._send_cors_headers()
         self.end_headers()
 
     def do_GET(self):
-        # Parse query params
-        query_components = parse_qs(urlparse(self.path).query)
-        user_query = query_components.get('q', [None])[0]
-
-        if not user_query:
-            self.send_response(400)
-            self.end_headers()
-            self.wfile.write(json.dumps({"error": "Missing query parameter 'q'"}).encode())
-            return
-
         try:
+            # Parse query params
+            query_components = parse_qs(urlparse(self.path).query)
+            user_query = query_components.get('q', [None])[0]
+
+            if not user_query:
+                self.send_response(400)
+                self._send_cors_headers()
+                self.end_headers()
+                self.wfile.write(json.dumps({"error": "Missing query parameter 'q'"}).encode())
+                return
+
             # Initialize Clients
             pc = Pinecone(api_key=os.environ["PINECONE_API_KEY"])
             client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
@@ -53,11 +58,13 @@ class handler(BaseHTTPRequestHandler):
 
             self.send_response(200)
             self.send_header('Content-type', 'application/json')
-            self.send_header('Access-Control-Allow-Origin', '*')
+            self._send_cors_headers()
             self.end_headers()
             self.wfile.write(json.dumps({"results": matches}).encode())
 
         except Exception as e:
+            # Catch crashes and send them as JSON so we can debug
             self.send_response(500)
+            self._send_cors_headers()
             self.end_headers()
             self.wfile.write(json.dumps({"error": str(e)}).encode())

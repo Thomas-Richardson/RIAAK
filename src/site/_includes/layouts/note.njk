@@ -67,6 +67,56 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {% for imp in dynamics.notes.beforeContent %}
         {% include imp %}
       {% endfor %}
+      <!-- ... existing code (dynamic imports) ... -->
+      {% for imp in dynamics.notes.beforeContent %}
+        {% include imp %}
+      {% endfor %}
+      <style>
+        #ai-search-box { width: 100%; padding: 10px; margin-bottom: 20px; border: 1px solid #ccc; border-radius: 5px; font-family: var(--font-text); }
+        .search-result { background: var(--background-secondary); padding: 10px; margin-bottom: 10px; border-radius: 4px; border: 1px solid var(--background-modifier-border); }
+        .search-result a { font-weight: bold; color: var(--text-accent); text-decoration: none; display: block; margin-bottom: 4px; }
+        .search-result p { margin: 0; font-size: 0.9em; color: var(--text-normal); }
+        .search-result small { color: var(--text-muted); font-size: 0.8em; }
+      </style>
+
+      <div class="search-wrapper" style="margin-top: 1rem; margin-bottom: 1rem;">
+        <input type="text" id="ai-search-box" placeholder="Ask your digital garden..." onkeydown="if(event.key === 'Enter') runSearch()">
+        <div id="ai-results"></div>
+      </div>
+      <script>
+        async function runSearch() {
+          const query = document.getElementById('ai-search-box').value;
+          const resultsDiv = document.getElementById('ai-results');
+          resultsDiv.innerHTML = "Searching...";
+          
+          // Replace with your actual Vercel URL after deployment
+          const VERCEL_URL = "https://YOUR-VERCEL-PROJECT.vercel.app"; 
+          
+          try {
+            const response = await fetch(`${VERCEL_URL}/api/search?q=${encodeURIComponent(query)}`);
+            const data = await response.json();
+            
+            resultsDiv.innerHTML = "";
+            if(data.results && data.results.length > 0) {
+              data.results.forEach(item => {
+                const div = document.createElement('div');
+                div.className = 'search-result';
+                div.innerHTML = `
+                  <a href="${item.url}">${item.file_path}</a>
+                  <p>${item.text.substring(0, 150)}...</p>
+                  <small>Match: ${Math.round(item.score * 100)}%</small>
+                `;
+                resultsDiv.appendChild(div);
+              });
+            } else {
+              resultsDiv.innerHTML = "No results found.";
+            }
+          } catch (e) {
+            resultsDiv.innerHTML = "Error searching. Please try again.";
+            console.error(e);
+          }
+        }
+      </script>
       {{ content | hideDataview | taggify | link | safe}}
       {% for imp in dynamics.common.afterContent %}
         {% include imp %}

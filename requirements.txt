@@ -1,0 +1,5 @@
+pinecone-client
+openai
+langchain-text-splitters
+python-frontmatter
+tiktoken

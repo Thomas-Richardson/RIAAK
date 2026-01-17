@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/most-of-the-world-is-lactose-intolerant/","created":"2025-10-23T17:42:43.811+01:00","updated":"2025-10-23T18:06:08.680+01:00"}
+{"dg-publish":true,"permalink":"/most-of-the-world-is-lactose-intolerant/","tags":["Health/Nutrition","dairy"],"created":"2025-10-23T17:42:43.811+01:00","updated":"2025-11-05T15:23:09.050+00:00"}
 ---
-
-#dairy #health_nutrition #lower_middle_income_countries 
 
 - [[Dairy Farming in Developing Countries Could Rapidly Take Off\|Dairy Farming in Developing Countries Could Rapidly Take Off]]
 - [[health effects of dairy\|health effects of dairy]]
+- [[Dairy and plant based mylks compared\|Dairy and plant based mylks compared]]
+- [[Dairy and Acne\|Dairy and Acne]]
 
 Meta analyses show that 68% of the world are lactose intolerant[^1]
 

@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/haider-et-al-2017/","created":"2025-10-23T17:42:44.732+01:00","updated":"2025-10-23T18:06:08.796+01:00"}
+{"dg-publish":true,"permalink":"/citations/haider-et-al-2017/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:44.732+01:00","updated":"2025-10-30T23:44:54.001+00:00"}
 ---
 
-#citation #veganism #health_nutrition  
+
+
 
 - [[Health risks of veggie veganism\|Health risks of veggie veganism]] 
 

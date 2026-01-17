@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/do-documentaries-work/","created":"2025-10-23T17:42:42.429+01:00","updated":"2025-10-23T18:06:08.634+01:00"}
+{"dg-publish":true,"permalink":"/do-documentaries-work/","tags":[null,null,null,null],"created":"2025-10-23T17:42:42.429+01:00","updated":"2025-10-30T23:44:53.167+00:00"}
 ---
 
-#behaviour_change 
+
+
 
 - Key study: [[Citations/Thomas et al., 2025\|Thomas et al., 2025]]
 - Also related: [[Citations/Meat reduction - How much can digital media and mass media help (Animal Ask)\|Meat reduction - How much can digital media and mass media help (Animal Ask)]]

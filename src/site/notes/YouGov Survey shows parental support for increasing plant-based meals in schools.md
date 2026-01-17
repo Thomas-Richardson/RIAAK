@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/you-gov-survey-shows-parental-support-for-increasing-plant-based-meals-in-schools/","created":"2025-10-23T17:42:43.970+01:00","updated":"2025-10-23T18:12:10.090+01:00"}
+{"dg-publish":true,"permalink":"/you-gov-survey-shows-parental-support-for-increasing-plant-based-meals-in-schools/","tags":["institutional_change","policy/food-policy","plant-based/school-meals","High_Income_Countries/UK","research/yougov","ProVeg"],"created":"2025-11-11T23:43:58.652+00:00","updated":"2025-12-10T12:59:35.396+00:00"}
 ---
 
 …
@@ -83,3 +83,11 @@ jade.chapman@proveg.org
 ![](https://proveg.org/uk/wp-content/themes/proveg-b2c/images/logo-proveg-white.svg)
 
 10 October 2025
+
+# AI suggested related notes
+
+These notes appear semantically similar based on Smart Connections embeddings:
+
+- [[Citations/Low hanging fruit - A policy pathway for boosting uptake of plant-rich diets (Food Foundation, GFI and the Green Alliance)\|Low hanging fruit - A policy pathway for boosting uptake of plant-rich diets (Food Foundation, GFI and the Green Alliance)]] (similarity: 66.1%)
+- [[Flexitarian trends Shifting diets and changing preferences  AHDB\|Flexitarian trends Shifting diets and changing preferences  AHDB]] (similarity: 66.0%)
+- [[Plant-based hospitals\|Plant-based hospitals]] (similarity: 63.8%)

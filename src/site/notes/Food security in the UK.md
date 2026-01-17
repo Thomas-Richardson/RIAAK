@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/food-security-in-the-uk/","tags":["animal_feed - food_security - uk - cawf_food_sec - cultivated_meat - environment_land"],"created":"2025-10-23T17:42:42.845+01:00","updated":"2025-10-23T19:18:51.143+01:00"}
+{"dg-publish":true,"permalink":"/food-security-in-the-uk/","tags":["animal_feed","food_security","High_Income_Countries/UK","Bryant/Project/cawf_food_sec","alternative_proteins/Cultivated_Meat","Environment/Land","farming","Economics/jobs"],"created":"2025-10-23T17:42:42.845+01:00","updated":"2025-12-10T12:59:35.272+00:00"}
 ---
 
 - [[Farming Evidence Pack (DEFRA)\|Farming Evidence Pack (DEFRA)]] 

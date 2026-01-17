@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/eat-and-globe-scan-2022/","created":"2025-10-23T17:42:44.508+01:00","updated":"2025-10-23T18:06:08.782+01:00"}
+{"dg-publish":true,"permalink":"/citations/eat-and-globe-scan-2022/","tags":["citation","food_security","Bryant/Project/good_growth_social_listening","lower_middle_income_countries"],"created":"2025-10-23T17:42:44.508+01:00","updated":"2025-11-04T12:11:15.421+00:00"}
 ---
 
-#good_growth_social_listening #lower_middle_income_countries #food_security #citation 
+
+
 
 - [x] Reviewed
 

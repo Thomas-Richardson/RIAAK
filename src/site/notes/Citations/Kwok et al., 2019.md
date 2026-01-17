@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/kwok-et-al-2019/","created":"2025-10-23T17:42:46.140+01:00","updated":"2025-10-23T18:06:08.924+01:00"}
+{"dg-publish":true,"permalink":"/citations/kwok-et-al-2019/","tags":[null,null,null,null,null,null,null,null,null],"created":"2025-10-23T17:42:46.140+01:00","updated":"2025-10-30T23:44:54.177+00:00"}
 ---
 
-#citation #health_nutrition  #meat #alternative_proteins #dairy #eggs
+
+
 
 Kwok, C. S., Gulati, M., Michos, E. D., Potts, J., Wu, P., Watson, L., ... & Mamas, M. A. (2019). Dietary components and risk of cardiovascular disease and all-cause mortality: a review of evidence from meta-analyses. _European journal of preventive cardiology_, _26_(13), 1415-1429
 

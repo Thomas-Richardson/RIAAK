@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/the-case-for-vegan-pet-food/","created":"2025-10-23T17:42:47.639+01:00","updated":"2025-10-23T18:06:08.729+01:00"}
+{"dg-publish":true,"permalink":"/the-case-for-vegan-pet-food/","tags":[null,null,null,null],"created":"2025-10-23T17:42:47.639+01:00","updated":"2025-10-30T23:44:53.775+00:00"}
 ---
 
-#companion_animals 
+
+
 
 - [[vegan pets are just as healthy as non vegan pets\|vegan pets are just as healthy as non vegan pets]]
 - [[vegan pets could be much better for the environment\|vegan pets could be much better for the environment]]

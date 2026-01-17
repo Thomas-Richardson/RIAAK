@@ -1,15 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-cost-of-red-and-processed-meat-zero-carbon-analytics/","created":"2025-10-23T17:42:44.301+01:00","updated":"2025-10-23T17:42:44.302+01:00"}
+{"dg-publish":true,"permalink":"/citations/the-cost-of-red-and-processed-meat-zero-carbon-analytics/","tags":["Health/Nutrition"],"created":"2025-10-23T17:42:44.301+01:00","updated":"2025-11-06T09:50:39.030+00:00"}
 ---
-
-
-This report contains a summary, which is reproduced here exactly as requested.
-
-***
-
-### **Summary**
-
-#### **The cost of consuming red and processed meat**
 
 A wealth of evidence directly links the consumption of red and processed meat to an increased risk of chronic diseases, including type II diabetes, cardiovascular disease and cancer. In 2021 alone, processed meat consumption was responsible for 295,000 deaths and 10.4 million years of healthy life lost globally, while red meat caused 334,000 deaths and 9.63 million years of healthy life lost.
 
@@ -18,7 +9,6 @@ Yet despite the well-established risks to our health, global meat consumption ha
 In addition to loss of life and years of well-being, the preventable disease burden caused by eating meat represents a significant economic strain on societies. The estimated health-related costs of consuming red and processed meat hit USD 285 billion globally in 2020. This demand on national healthcare budgets comes at a time of a global economic slowdown: declines in government health spending have been reported across all country income groups.
 
 #### **What ZCA found**
-
 Against this landscape, ZCA undertook a fresh analysis of the latest and most comprehensive data from the Global Burden of Disease study to estimate where reduced red and processed meat consumption could yield the greatest health and economic returns. To do this, we:
 
 *   Identified which countries are spending the most per year of healthy life lost from high consumption of red and processed meat. These represent high-priority candidates for shifting to a preventative healthcare approach.
@@ -46,3 +36,11 @@ ZCA’s analysis found that shifting focus from treatment to prevention would of
 Reducing the amount of red and processed meat in our diets is the most reliable way to curb the disease burden caused by meat consumption. This could, in turn, allow a redirection of healthcare spending from treatment to prevention that would yield significant human health and fiscal returns. Strong precedents further highlight the cost-effectiveness of a focus on prevention over treatment: in the US, a salt reduction policy was estimated to cost USD 332 per DALY averted, while treatment with statins cost USD 37,000 per DALY averted.
 
 This health-focused report is the first in a series of Zero Carbon Analytics (ZCA) research papers exploring the economic, environmental and social costs of the modern livestock industry. Future reports will focus on emissions, water use, and water and air pollution. Sign up for our newsletter to receive updates on ZCA research and analysis.
+
+# Evaluation of the study
+They used a clever hack to figure out how much money red meat costs the healthcare system. The way they did this was that they figured out how many DALLIES red meat and processed meat are responsible for. And then they calculated the percentage of a country's total DALLIES or disease burden that is accounted for by red and processed meat. Then, they assumed that the cost would be somewhere in the realms of that same percentage of a country's total healthcare budget. So if red and processed meat are responsible for 2% of DALLIES in Germany, then they cost 2% of the budget. 
+
+This is definitely not true for a few reasons:
+- DALY percentage, which is what they use as a proxy of healthcare cost percentage, doesn't take into account how treatable a disease is. It just takes into account how much suffering it causes. However, we spend more on diseases that we can treat. For example, chronic back pain and heart disease might have similar levels of DALYs, but we spend a lot more on heart disease than we do on chronic back pain because we don't have very good treatments for chronic back pain. 
+	- Specific to the study: colorectal cancer and type 2 diabetes probably receive a lot more money than their DALY percentage would suggest because colorectal cancer has expensive surgery, chemotherapy, and radiotherapy, and type 2 diabetes requires ongoing medication and monitoring, which is expensive. 
+- It also systematically underestimates these things because meat-related diseases are all expensive to treat. For example, cancer, diabetes, kidney disease, and cardiovascular disease are all expensive. There are no cheap diseases that meat causes to balance this out 

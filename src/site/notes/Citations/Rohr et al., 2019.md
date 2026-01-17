@@ -1,12 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/citations/rohr-et-al-2019/","created":"2025-10-23T17:42:46.263+01:00","updated":"2025-10-23T18:06:08.929+01:00"}
+{"dg-publish":true,"permalink":"/citations/rohr-et-al-2019/","tags":["Health/Disease"],"created":"2025-10-23T17:42:46.263+01:00","updated":"2025-11-11T23:24:51.638+00:00"}
 ---
 
-#health_disease #citation 
-
 - [[Factory farmed animals cause pandemics and zoonotic disease\|Factory farmed animals cause pandemics and zoonotic disease]]
-
-https://www.nature.com/articles/s41893-019-0293-3.pdf
 
 Rohr, J. R., Barrett, C. B., Civitello, D. J., Craft, M. E., Delius, B., DeLeo, G. A., ... & Tilman, D. (2019). Emerging human infectious diseases and the links to global food production. _Nature sustainability_, _2_(6), 445-456.
 

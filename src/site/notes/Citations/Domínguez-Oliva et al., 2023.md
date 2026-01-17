@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/dominguez-oliva-et-al-2023/","tags":["animal_feed"],"created":"2025-10-23T17:42:46.864+01:00","updated":"2025-10-23T19:18:51.108+01:00"}
+{"dg-publish":true,"permalink":"/citations/dominguez-oliva-et-al-2023/","tags":["animal_feed","citation","pet_food","companion_animals"],"created":"2025-11-11T23:30:07.119+00:00","updated":"2025-11-11T23:30:07.119+00:00"}
 ---
 
-#pet_food #citation
+
+
 
 Domínguez-Oliva, A., Mota-Rojas, D., Semendric, I., & Whittaker, A. L. (2023). The impact of vegan diets on indicators of health in dogs and cats: a systematic review. _Veterinary Sciences_, 
 _10_(1), 52.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/towards-a-strategy-for-humane-fishing-in-the-uk-fishcount-org-uk/","tags":["fish","UK"],"created":"2025-10-26T17:22:22.212+00:00","updated":"2025-10-26T17:22:22.250+00:00"}
+{"dg-publish":true,"permalink":"/citations/towards-a-strategy-for-humane-fishing-in-the-uk-fishcount-org-uk/","tags":["fish","High_Income_Countries/UK"],"created":"2025-10-26T17:22:22.212+00:00","updated":"2025-12-10T12:59:34.508+00:00"}
 ---
 
 We urge the UK authorities and food businesses to develop more humane commercial fishing. Current practices result in poor welfare to very large numbers of fishes. With the growing importance of fish welfare to UK and global consumers, this is a major opportunity to develop welfare-quality branding for UK fishing and to benefit a huge number of sentient animals.

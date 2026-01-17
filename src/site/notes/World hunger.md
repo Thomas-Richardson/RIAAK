@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/world-hunger/","created":"2025-10-23T17:42:41.508+01:00","updated":"2025-10-23T18:06:08.600+01:00"}
+{"dg-publish":true,"permalink":"/world-hunger/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:41.508+01:00","updated":"2025-10-30T23:44:52.957+00:00"}
 ---
 
-#mfa_food_sec #health_nutrition #lower_middle_income_countries 
+
+
 
 - [[Malnutrition\|Malnutrition]]
 

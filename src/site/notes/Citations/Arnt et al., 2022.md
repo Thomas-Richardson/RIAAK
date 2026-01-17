@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/arnt-et-al-2022/","created":"2025-10-23T17:42:46.753+01:00","updated":"2025-10-23T18:06:08.954+01:00"}
+{"dg-publish":true,"permalink":"/citations/arnt-et-al-2022/","tags":["Environment/GHG","citation","cows"],"created":"2025-10-31T14:40:38.991+00:00","updated":"2025-10-31T14:40:38.991+00:00"}
 ---
 
-#environment_ghg #cows #citation 
+
+
 
 <mark style="background: #FFF3A3A6;">If we fully adopt 100% of ruminant methane reducing initiatives, we will meet our GHG taget for 2030 but it still will not be enough for 2050.</mark>
 

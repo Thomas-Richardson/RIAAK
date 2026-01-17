@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/greenpeace-2024/","created":"2025-10-23T17:42:48.078+01:00","updated":"2025-10-27T14:10:16.626+00:00"}
+{"dg-publish":true,"permalink":"/greenpeace-2024/","tags":[null,null,null,null],"created":"2025-10-23T17:42:48.078+01:00","updated":"2025-10-30T23:44:53.840+00:00"}
 ---
 
-#farmers 
+
+
 
 - [[The consolidation and intensification of farms\|The consolidation and intensification of farms]]
 - [[Citations/Feeding the problem (Greenpeace, 2019)\|Feeding the problem (Greenpeace, 2019)]]

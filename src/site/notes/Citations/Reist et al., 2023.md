@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/reist-et-al-2023/","created":"2025-10-23T17:42:44.282+01:00","updated":"2025-10-23T18:06:08.769+01:00"}
+{"dg-publish":true,"permalink":"/citations/reist-et-al-2023/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:44.282+01:00","updated":"2025-10-30T23:44:53.912+00:00"}
 ---
 
-#citation #psychology #veganism 
+
+
 
 https://www.sciencedirect.com/science/article/pii/S0195666323025473?via%3Dihub
 

@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/report-canadian-consumers-widely-misled-by-egg-carton-welfare-labels/","created":"2025-10-23T17:42:41.694+01:00","updated":"2025-10-23T18:06:08.609+01:00"}
+{"dg-publish":true,"permalink":"/report-canadian-consumers-widely-misled-by-egg-carton-welfare-labels/","tags":[null,null,null,null,null,null,null],"created":"2025-10-23T17:42:41.694+01:00","updated":"2025-10-30T23:44:52.992+00:00"}
 ---
 
-#bryant_insight #eggs #consumer_attitudes #labelling 
+
+
 
 - link here: https://animaljustice.ca/uncategorized/consumers-widely-misled-egg-labels
 - [[Canadians Support An End to Cage Confinement for Egg-Laying Hens\|Canadians Support An End to Cage Confinement for Egg-Laying Hens]]

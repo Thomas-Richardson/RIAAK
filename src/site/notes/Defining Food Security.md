@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/defining-food-security/","created":"2025-10-23T17:42:43.335+01:00","updated":"2025-10-23T18:06:08.667+01:00"}
+{"dg-publish":true,"permalink":"/defining-food-security/","tags":[null,null,null,null],"created":"2025-10-23T17:42:43.335+01:00","updated":"2025-10-30T23:44:53.413+00:00"}
 ---
 
-#mfa_food_sec 
+
+
 
 [[MFA Livestock and Food security finished\|MFA Livestock and Food security finished]]
 Based on the [1996 World Food Summit](https://www.fao.org/3/al936e/al936e00.pdf), Food security is defined as: the state in which all people, at all times, have physical, social, and economic access to sufficient, safe, and nutritious food that meets their dietary needs and food preferences for an active and healthy life. This definition, established by the Food and Agriculture Organization (FAO) of the United Nations, encompasses four key dimensions:

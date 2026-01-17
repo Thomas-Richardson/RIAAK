@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/solutions-to-the-small-body-problem-insight-piece/","tags":["animal_feed","wild_animals - SE_asia"],"created":"2025-10-23T17:42:47.213+01:00","updated":"2025-10-23T19:20:34.079+01:00"}
+{"dg-publish":true,"permalink":"/solutions-to-the-small-body-problem-insight-piece/","tags":[null,null,null,"SE_asia"],"created":"2025-10-23T17:42:47.213+01:00","updated":"2025-10-30T23:44:53.636+00:00"}
 ---
 
-#bryant_insight 
+
+
 
 - [[The small body problem\|The small body problem]]
 - [[The Small Body Problem Challenges and Considerations for Animal Advocates\|The Small Body Problem Challenges and Considerations for Animal Advocates]]

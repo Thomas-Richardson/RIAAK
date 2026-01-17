@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/studies-of-plant-based-diets-and-social-media/","created":"2025-10-23T17:42:42.772+01:00","updated":"2025-10-23T18:06:08.639+01:00"}
+{"dg-publish":true,"permalink":"/studies-of-plant-based-diets-and-social-media/","tags":[null,null,null,null],"created":"2025-10-23T17:42:42.772+01:00","updated":"2025-10-30T23:44:53.212+00:00"}
 ---
 
-#good_growth_social_listening 
+
+
 
 [Montalbano & Anderson, (2021)](https://faunalytics.org/twitter-trends/)  analysed 1 year of Twitter data (February 2019 to March 2020) and found that: 
 - tweets about veganism were far more frequent than any other kind of posts, and

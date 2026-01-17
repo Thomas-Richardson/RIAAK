@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/conservatism-and-animal-advocacy/","created":"2025-10-23T17:42:47.204+01:00","updated":"2025-10-23T18:06:08.703+01:00"}
+{"dg-publish":true,"permalink":"/conservatism-and-animal-advocacy/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:47.204+01:00","updated":"2025-10-30T23:44:53.634+00:00"}
 ---
 
-#animal_advocacy #politics
+
+
 
 [Report by Fauna](https://faunalytics.org/bridging-u-s-conservative-values-and-animal-protection/) identifying 70 US conservative values and the 20 or so that we can leverage: 
 

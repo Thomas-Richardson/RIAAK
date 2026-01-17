@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/eating-insects-will-not-solve-our-problems/","created":"2025-10-23T17:42:42.422+01:00","updated":"2025-10-23T18:06:08.634+01:00"}
+{"dg-publish":true,"permalink":"/eating-insects-will-not-solve-our-problems/","tags":["#insects","#Environment"],"created":"2025-10-23T17:42:42.422+01:00","updated":"2026-01-17T18:02:43.202+00:00"}
 ---
 
-#insects 
 
 # Dustin Crummett's Insect Institute paper:
 The papers are:
@@ -17,3 +16,4 @@ We also have [this paper](https://ecoevorxiv.org/repository/view/6919/), which p
 - Most insects are used in baked goods not meat alternatives, which completed negates their climate impacts because bread and cake wasn't that bad for the environment to begin with.
 - Most farmed insects are instead fed to other animals. Companies rearing insects at scale generally rely on materials that could be fed directly to other animals or used by other sectors, and, due to practical challenges, this is not likely to change in the future. Instead of saving the world, insect farming mostly adds an inefficient and expensive layer to the food system we already have.
 
+- [A report by DEFRA](https://www.eurogroupforanimals.org/news/insects-feed-wont-lead-sustainable-food-systems-government-funded-study-shows?utm_source=substack&utm_medium=email) concluded that insect animal feed has a higher environmental impact than the grains they replace.

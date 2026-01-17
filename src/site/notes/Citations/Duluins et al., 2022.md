@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/duluins-et-al-2022/","created":"2025-10-23T17:42:45.365+01:00","updated":"2025-10-23T18:06:08.839+01:00"}
+{"dg-publish":true,"permalink":"/citations/duluins-et-al-2022/","tags":["Note","Type","case_study","citation","cows","dairy","economics","undefined"],"created":"2025-10-23T17:42:45.365+01:00","updated":"2025-10-31T14:42:34.585+00:00"}
 ---
 
-#economics #citation #cows #dairy #case_study
+
+
 
 Duluins, O., Riera, A., Schuster, M., Baret, P. V., & Van den Broeck, G. (2022). Economic implications of a protein transition: evidence from Walloon beef and dairy farms. _Frontiers in Sustainable Food Systems_, _6_, 96.
 

@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/moral-weights-for-animals/","created":"2025-10-23T17:42:42.953+01:00","updated":"2025-10-23T18:06:08.649+01:00"}
+{"dg-publish":true,"permalink":"/moral-weights-for-animals/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:42.953+01:00","updated":"2025-10-30T23:44:53.235+00:00"}
 ---
 
-#animal_ethics #effective_altruism 
+
+
 
 - [[Preventing the most animal suffering\|Preventing the most animal suffering]]
 - 

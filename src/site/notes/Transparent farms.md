@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/transparent-farms/","created":"2025-10-23T17:42:43.897+01:00","updated":"2025-10-23T18:06:08.681+01:00"}
+{"dg-publish":true,"permalink":"/transparent-farms/","tags":[null,null,null,null],"created":"2025-10-23T17:42:43.897+01:00","updated":"2025-10-30T23:44:53.551+00:00"}
 ---
 
-#data
+
+
 ## What they say about their data
 
 We only cover a subset of farms and it's based what data is available from the government. We build it from a few sources:

@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/willingness-to-pay/","created":"2025-10-23T17:42:44.151+01:00","updated":"2025-10-23T18:06:08.696+01:00"}
+{"dg-publish":true,"permalink":"/willingness-to-pay/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:44.151+01:00","updated":"2025-10-30T23:44:53.596+00:00"}
 ---
 
-#economics  #statistics #research_methods 
+
+
 
 - Willingness to pay is the highest value a consumer will pay for a product
 - Generally its best to compute willingness to pay relative to your main competitor, but you may often have too many to benchmark or none at all

@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/the-grass-fed-beef-is-carbon-neutral-because-its-circular-myth/","created":"2025-10-23T17:42:41.480+01:00","updated":"2025-10-23T18:06:08.599+01:00"}
+{"dg-publish":true,"permalink":"/the-grass-fed-beef-is-carbon-neutral-because-its-circular-myth/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:41.480+01:00","updated":"2025-10-30T23:44:52.954+00:00"}
 ---
 
-#environment_ghg #cows #beef 
+
+
 
 - [[Grass fed beef is not better for the environment\|Grass fed beef is not better for the environment]]
 - [[grass fed beef is not a good source of omega fatty acids\|grass fed beef is not a good source of omega fatty acids]]

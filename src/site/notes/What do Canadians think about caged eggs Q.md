@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/what-do-canadians-think-about-caged-eggs-q/","created":"2025-10-23T17:42:42.976+01:00","updated":"2025-10-23T18:06:08.652+01:00"}
+{"dg-publish":true,"permalink":"/what-do-canadians-think-about-caged-eggs-q/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:42.976+01:00","updated":"2026-01-06T10:37:15.366+00:00"}
 ---
 
-#bryant_research #consumer_attitudes #eggs 
 
- - [[Acceptability of Common Farming Practices\|Acceptability of Common Farming Practices]]
+
+
+ - [[Acceptability of Farming Practices\|Acceptability of Farming Practices]]
  - [[Cage free hens\|Cage free hens]]
 
 > [!NOTE] TLDR

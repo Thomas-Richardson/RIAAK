@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/what-is-the-difference-between-a-factory-farm-and-a-mega-farm-q/","tags":["factory_farming"],"created":"2025-10-23T17:42:42.191+01:00","updated":"2025-10-23T18:06:08.624+01:00"}
+{"dg-publish":true,"permalink":"/what-is-the-difference-between-a-factory-farm-and-a-mega-farm-q/","tags":[null,null],"created":"2025-10-23T17:42:42.191+01:00","updated":"2025-10-30T23:44:53.138+00:00"}
 ---
 
-#blog_in_progress #factory_farming 
+
+
 
 Send to Compassion in World farming for review.
 

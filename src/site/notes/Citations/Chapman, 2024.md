@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/chapman-2024/","created":"2025-10-23T17:42:46.167+01:00","updated":"2025-10-23T18:06:08.924+01:00"}
+{"dg-publish":true,"permalink":"/citations/chapman-2024/","tags":["Note","Type","Alternative_Proteins","citation","Meat","undefined"],"created":"2025-10-23T17:42:46.167+01:00","updated":"2025-12-10T12:58:35.603+00:00"}
 ---
 
-#citation #meat #alternative_proteins 
+
+
 
 - [[ultraprocessed is misleading\|ultraprocessed is misleading]]
 - [[The Ultra-Processed Myth\|The Ultra-Processed Myth]]

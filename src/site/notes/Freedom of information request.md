@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/freedom-of-information-request/","created":"2025-10-23T17:42:42.358+01:00","updated":"2025-10-23T18:06:08.631+01:00"}
+{"dg-publish":true,"permalink":"/freedom-of-information-request/","tags":[null,null,null,null],"created":"2025-10-23T17:42:42.358+01:00","updated":"2025-10-30T23:44:53.156+00:00"}
 ---
 
-#data 
+
+
 
 You don't have to if they've already responded to one. Check their website for responses to previous FOI requests. This is sometimes known as a ‘disclosure log’. You can search for published responses to FOI requests from government departments, agencies and arms length bodies.
 
@@ -34,3 +35,11 @@ Please do not hesitate to get in touch if you require any further clarification 
 Thank you in advance for your attention to this matter. 
 
 Yours sincerely,
+
+# AI suggested related notes
+
+These notes appear semantically similar based on Smart Connections embeddings:
+
+- [[Transparent farms\|Transparent farms]] (similarity: 50.7%)
+- [[Faunalytics open datasets\|Faunalytics open datasets]] (similarity: 48.2%)
+- [[Sources of Animal data\|Sources of Animal data]] (similarity: 46.9%)

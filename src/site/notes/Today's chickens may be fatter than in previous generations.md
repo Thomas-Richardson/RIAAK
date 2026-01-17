@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/today-s-chickens-may-be-fatter-than-in-previous-generations/","created":"2025-10-23T17:42:47.166+01:00","updated":"2025-10-26T00:57:31.895+01:00"}
+{"dg-publish":true,"permalink":"/today-s-chickens-may-be-fatter-than-in-previous-generations/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:47.166+01:00","updated":"2025-10-30T23:44:53.632+00:00"}
 ---
 
-#chickens #health_nutrition
+
+
 
 > [!NOTE] TLDR
 > There is moderate evidence now that modern chickens contain more fat than chickens did in the past. Whether its due to diet or genetics I couldn't figure out. Modern chickens common suffer from "white striping" where their breastmeat contains fatty white stripes.

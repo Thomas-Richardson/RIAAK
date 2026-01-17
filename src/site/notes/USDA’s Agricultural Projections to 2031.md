@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/usda-s-agricultural-projections-to-2031/","created":"2025-10-23T17:42:43.917+01:00","updated":"2025-10-26T00:57:31.905+01:00"}
+{"dg-publish":true,"permalink":"/usda-s-agricultural-projections-to-2031/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:43.917+01:00","updated":"2025-10-30T23:44:53.555+00:00"}
 ---
 
-#farming #mfa_food_sec #meat 
+
+
 
 https://www.usda.gov/sites/default/files/documents/USDA-Agricultural-Projections-to-2031.pdf
 ## Poultry

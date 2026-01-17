@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/neuenschwander-et-al-2023/","created":"2025-10-23T17:42:46.820+01:00","updated":"2025-10-23T18:06:08.958+01:00"}
+{"dg-publish":true,"permalink":"/citations/neuenschwander-et-al-2023/","tags":["Health/Nutrition"],"created":"2025-10-23T17:42:46.820+01:00","updated":"2025-12-29T16:30:16.375+00:00"}
 ---
 
-#citation #health_nutrition #meat #veganism 
-
 - [[Citations/Neuenschwander et al., 2023\|Neuenschwander et al., 2023]]
-- [[health effects of eggs\|health effects of eggs]]
+- [[Health effects of eggs\|Health effects of eggs]]
 - [[Citations/Schwingshackl et al., 2017a\|Schwingshackl et al., 2017a]]
 - [[health effects of dairy\|health effects of dairy]]
 - [[Red and processed meat are bad for you\|Red and processed meat are bad for you]]

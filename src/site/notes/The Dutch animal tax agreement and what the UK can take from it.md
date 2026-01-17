@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/the-dutch-animal-tax-agreement-and-what-the-uk-can-take-from-it/","created":"2025-10-23T17:42:42.961+01:00","updated":"2025-10-23T18:06:08.650+01:00"}
+{"dg-publish":true,"permalink":"/the-dutch-animal-tax-agreement-and-what-the-uk-can-take-from-it/","tags":[null,null,null,null,"Economics/jobs"],"created":"2025-10-23T17:42:42.961+01:00","updated":"2025-11-06T18:43:07.078+00:00"}
 ---
 
-#farming
+
+
 
 Source: https://ieep.uk/news/blog-what-should-and-shouldnt-the-uk-take-from-the-danish-tax-on-ghg-emissions-from-agriculture/
 - **The Green Tripartite Agreement** also includes: 
@@ -21,3 +22,11 @@ Source: https://ieep.uk/news/blog-what-should-and-shouldnt-the-uk-take-from-the-
 - Quick fattening and early slaughter is the only way for NI cattle farmers to benefit from the scheme.
 - The impact of feed production is also out of scope in the Danish Tax. Whether the tax will incentivise increased feed use (as an attempt to reduce on farm emissions via earlier slaughter) or reduce it by lowering livestock numbers should be monitored as should the consequential whole-system greenhouse gas impact.
 - The Danish Tripartite Agreement has been [criticised](https://www.arc2020.eu/political-deal-reached-on-denmarks-green-tripartite-whats-in-it-and-whats-not/) for setting the effective rate too low (less than half that of other industries); its reliance on relatively untested technologies to reduce emissions per animal; the lack of an overall systems approach; and for not being ambitious enough on nitrogen to meet the Water Framework Directive targets for 2027.
+
+# AI suggested related notes
+
+These notes appear semantically similar based on Smart Connections embeddings:
+
+- [[Citations/Jacobs et al., 2022\|Jacobs et al., 2022]] (similarity: 64.1%)
+- [[Manure from animal agriculture\|Manure from animal agriculture]] (similarity: 62.1%)
+- [[Citations/Denmark’s Agricultural Transition Policy– Fiscal Mechanisms for Plant-Based Sector Development (Rethink Priorities)\|Denmark’s Agricultural Transition Policy– Fiscal Mechanisms for Plant-Based Sector Development (Rethink Priorities)]] (similarity: 61.7%)

@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/harwatt-et-al-2024/","created":"2025-10-23T17:42:47.034+01:00","updated":"2025-10-23T18:06:08.971+01:00"}
+{"dg-publish":true,"permalink":"/citations/harwatt-et-al-2024/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:47.034+01:00","updated":"2025-10-30T23:44:54.267+00:00"}
 ---
 
-#citation #environment_misc #factory_farming 
+
+
 
 https://animal.law.harvard.edu/wp-content/uploads/Paris-compliant-livestock-report.pdf
 - Covered and explained here: https://www.ciwf.org.uk/news/2024/03/experts-agree-intensification-wont-solve-climate-crisis?utm_campaign=factoryfarming&utm_source=linkedin&utm_medium=ciwf

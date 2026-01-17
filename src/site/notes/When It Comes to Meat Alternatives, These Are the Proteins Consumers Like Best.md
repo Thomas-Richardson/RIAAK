@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/when-it-comes-to-meat-alternatives-these-are-the-proteins-consumers-like-best/","tags":["alternative_proteins","consumer_attitudes","cultivated_meat","plant_based_alternative_proteins"],"created":"2025-10-23T17:42:47.223+01:00","updated":"2025-10-23T17:42:47.223+01:00"}
+{"dg-publish":true,"permalink":"/when-it-comes-to-meat-alternatives-these-are-the-proteins-consumers-like-best/","tags":["Alternative_Proteins","consumer_research","alternative_proteins/Cultivated_Meat","Alternative_Proteins/Plant_Based"],"created":"2025-10-23T17:42:47.223+01:00","updated":"2025-12-10T12:56:24.916+00:00"}
 ---
 
 [![Green Queen](https://www.greenqueen.com.hk/wp-content/uploads/2024/09/green-queen-logo-short-main.png)](https://www.greenqueen.com.hk/)
@@ -81,3 +81,11 @@ Regardless, the protein source “exerts a significant influence” on consumer 
 “Strategic selection and labelling of already accepted protein sources by product developers and marketers has the potential to enhance the appeal of meat alternatives and facilitate their wider acceptance,” they noted.
 
 “To achieve broader acceptance, the taste and texture of plant-based meat alternatives must be improved and aligned with consumer preferences.”
+
+# AI suggested related notes
+
+These notes appear semantically similar based on Smart Connections embeddings:
+
+- [[Citations/Bhattacharya, Bryant and Couture 2023\|Bhattacharya, Bryant and Couture 2023]] (similarity: 69.7%)
+- [[Good food institute GFI Clean meat course\|Good food institute GFI Clean meat course]] (similarity: 68.2%)
+- [[Consumer perceptions of alternative proteins\|Consumer perceptions of alternative proteins]] (similarity: 67.8%)

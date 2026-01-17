@@ -1,12 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/citations/reynolds-et-al-2022/","created":"2025-10-23T17:42:44.387+01:00","updated":"2025-10-23T18:06:08.773+01:00"}
+{"dg-publish":true,"permalink":"/citations/reynolds-et-al-2022/","tags":["Economics/costs"],"created":"2025-10-23T17:42:44.387+01:00","updated":"2025-11-12T13:53:45.124+00:00"}
 ---
 
-#citation #health_nutrition #economics #veganism 
-
 Reynolds, A. N., Mhurchu, C. N., Kok, Z. Y., & Cleghorn, C. (2023). The neglected potential of red and processed meat replacement with alternative protein sources: Simulation modelling and systematic review. _Eclinicalmedicine_, _56_.
-
-https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(22)00503-X/fulltext
 
 -[[Are PB diets cheaper than omni diets\|Are PB diets cheaper than omni diets]]
 

@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/the-cost-to-the-nhs-of-diabetes-cvd-cancer-and-obesity/","created":"2025-10-23T17:42:42.028+01:00","updated":"2025-10-23T18:06:08.620+01:00"}
+{"dg-publish":true,"permalink":"/the-cost-to-the-nhs-of-diabetes-cvd-cancer-and-obesity/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:42.028+01:00","updated":"2025-10-30T23:44:53.118+00:00"}
 ---
 
-#economics #health_nutrition
+
+
 
 - [[Bryant Confidential/CAWF NHS report MOC\|CAWF NHS report MOC]]
 

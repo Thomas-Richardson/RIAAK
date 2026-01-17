@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/agriculture-in-the-uk-2023/","created":"2025-10-23T17:42:46.258+01:00","updated":"2025-10-23T18:06:08.928+01:00"}
+{"dg-publish":true,"permalink":"/citations/agriculture-in-the-uk-2023/","tags":[null,null],"created":"2025-10-23T17:42:46.258+01:00","updated":"2025-10-31T14:43:31.391+00:00"}
 ---
 
-#uk #cawf_food_sec 
+
+
 
 | Trade in food, feed and drink in real terms at 2023 prices  | 2021    | 2022    | 2023   |
 |-------------------------------------------------------------|---------|---------|--------|

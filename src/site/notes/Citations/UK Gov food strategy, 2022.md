@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/uk-gov-food-strategy-2022/","created":"2025-10-23T17:42:45.043+01:00","updated":"2025-10-23T18:06:08.812+01:00"}
+{"dg-publish":true,"permalink":"/citations/uk-gov-food-strategy-2022/","tags":["citation","food_security","policy","High_Income_Countries/UK"],"created":"2025-10-23T17:42:45.043+01:00","updated":"2025-12-10T12:59:34.524+00:00"}
 ---
 
-#citation #uk #food_security #policy 
+
+
 
 - [[UK farmland use\|UK farmland use]]
 - [[UK agricultural subsidies\|UK agricultural subsidies]]

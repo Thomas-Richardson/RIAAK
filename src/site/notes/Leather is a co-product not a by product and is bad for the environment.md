@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/leather-is-a-co-product-not-a-by-product-and-is-bad-for-the-environment/","created":"2025-10-23T17:42:41.723+01:00","updated":"2025-10-23T18:06:08.610+01:00"}
+{"dg-publish":true,"permalink":"/leather-is-a-co-product-not-a-by-product-and-is-bad-for-the-environment/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:41.723+01:00","updated":"2025-10-30T23:44:52.994+00:00"}
 ---
 
-#animal_advocacy #cows #materials 
+
+
 
 - [[Wool\|Wool]]
 - [[Vegan Leather\|Vegan Leather]] 

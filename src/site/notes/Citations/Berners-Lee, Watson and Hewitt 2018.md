@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/berners-lee-watson-and-hewitt-2018/","tags":["animal_feed"],"created":"2025-10-23T17:42:45.924+01:00","updated":"2025-10-23T19:18:51.105+01:00"}
+{"dg-publish":true,"permalink":"/citations/berners-lee-watson-and-hewitt-2018/","tags":["animal_feed","citation","Environment/Land","farming","food_security"],"created":"2025-10-23T17:42:45.924+01:00","updated":"2025-11-04T12:10:04.084+00:00"}
 ---
 
-#citation #farming #food_security  #environment_land 
+
+
 
 https://online.ucpress.edu/elementa/article/doi/10.1525/elementa.310/112838/Current-global-food-production-is-sufficient-to
 

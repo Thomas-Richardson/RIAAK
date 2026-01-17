@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/marques-et-al-2018/","created":"2025-10-23T17:42:44.399+01:00","updated":"2025-10-23T18:06:08.774+01:00"}
+{"dg-publish":true,"permalink":"/citations/marques-et-al-2018/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:44.399+01:00","updated":"2025-10-30T23:44:53.937+00:00"}
 ---
 
-#citation #economics 
+
+
 
 - [[The effects of the protein transition on the macro economy\|The effects of the protein transition on the macro economy]]
 

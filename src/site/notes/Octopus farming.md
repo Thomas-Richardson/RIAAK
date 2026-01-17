@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/octopus-farming/","created":"2025-10-23T17:42:47.517+01:00","updated":"2025-10-23T18:06:08.723+01:00"}
+{"dg-publish":true,"permalink":"/octopus-farming/","tags":[null,null,null,null],"created":"2025-10-23T17:42:47.517+01:00","updated":"2025-10-30T23:44:53.746+00:00"}
 ---
 
-#animal_advocacy 
+
+
 
 - They need to be fed 3x their weight in fish to raise and they're picky eaters
 - farmed Salmon must be fed 120 wild caught anchovies.
@@ -22,3 +23,11 @@
 - Technically yes, but most foods are. An apple is a source of nutrients.
 - People use this statement to imply something very different
 - indeed it is indisputably proven that you do not need meat to get all vital nutrients. If you supplement B12 or eat foods fortified with B12 like plant milks, then it's also true that you do not need any animal products to get all vital nutrients.
+
+# AI suggested related notes
+
+These notes appear semantically similar based on Smart Connections embeddings:
+
+- [[The small body problem\|The small body problem]] (similarity: 66.6%)
+- [[Citations/Welfare Issues in Farmed Atlantic Salmon (Fish Welfare Initiative)\|Welfare Issues in Farmed Atlantic Salmon (Fish Welfare Initiative)]] (similarity: 65.9%)
+- [[Most fishing is unsustainable\|Most fishing is unsustainable]] (similarity: 65.5%)

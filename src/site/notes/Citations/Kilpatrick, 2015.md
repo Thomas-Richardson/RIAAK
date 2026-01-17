@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/kilpatrick-2015/","created":"2025-10-23T17:42:45.653+01:00","updated":"2025-10-23T18:06:08.893+01:00"}
+{"dg-publish":true,"permalink":"/citations/kilpatrick-2015/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:45.653+01:00","updated":"2025-10-30T23:44:54.122+00:00"}
 ---
 
-#citation #factory_farming #economics 
+
+
 
 - [[Proximity to CAFOs and house prices\|Proximity to CAFOs and house prices]]
 

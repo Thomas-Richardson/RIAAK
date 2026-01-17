@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/small-scale-farming-for-people-in-lmics/","created":"2025-10-23T17:42:43.323+01:00","updated":"2025-10-23T18:06:08.667+01:00"}
+{"dg-publish":true,"permalink":"/small-scale-farming-for-people-in-lmics/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:43.323+01:00","updated":"2025-10-30T23:44:53.409+00:00"}
 ---
 
-#farming #lower_middle_income_countries #mfa_food_sec 
+
+
 
 - [[Manure from animal agriculture\|Manure from animal agriculture]]
 - [[Do the global poor need nutrients from animal products\|Do the global poor need nutrients from animal products]]

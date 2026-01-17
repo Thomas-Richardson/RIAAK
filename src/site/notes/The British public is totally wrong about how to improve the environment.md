@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/the-british-public-is-totally-wrong-about-how-to-improve-the-environment/","created":"2025-10-23T17:42:47.371+01:00","updated":"2025-10-23T18:06:08.711+01:00"}
+{"dg-publish":true,"permalink":"/the-british-public-is-totally-wrong-about-how-to-improve-the-environment/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:47.371+01:00","updated":"2025-10-30T23:44:53.669+00:00"}
 ---
 
-#politics #animal_advocacy #uk 
+
+
 
 - [[Eating local makes only small improvement to your environmental impact\|Eating local makes only small improvement to your environmental impact]]
 - [[UK Consumer Attitudes Towards the Egg Industry\|UK Consumer Attitudes Towards the Egg Industry]]

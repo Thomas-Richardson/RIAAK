@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/thompson-et-al-2023/","created":"2025-10-23T17:42:44.989+01:00","updated":"2025-10-23T18:06:08.806+01:00"}
+{"dg-publish":true,"permalink":"/citations/thompson-et-al-2023/","tags":[null,null,null,null,null,null,null],"created":"2025-10-23T17:42:44.989+01:00","updated":"2025-10-30T23:44:54.038+00:00"}
 ---
 
-#citation #animal_advocacy #environment_misc #biodiversity 
+
+
 
 [Ecosystem management using livestock: embracing diversity and respecting ecological principles | Animal Frontiers | Oxford Academic](https://academic.oup.com/af/article/13/2/28/7123478) 
 

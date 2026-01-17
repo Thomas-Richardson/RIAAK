@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/vegan-leather/","created":"2025-10-23T17:42:42.172+01:00","updated":"2025-10-23T18:06:08.624+01:00"}
+{"dg-publish":true,"permalink":"/vegan-leather/","tags":[null,null,null,null],"created":"2025-10-23T17:42:42.172+01:00","updated":"2025-10-30T23:44:53.135+00:00"}
 ---
 
-#materials 
+
+
 
 - [[Leather is a co-product not a by product and is bad for the environment\|Leather is a co-product not a by product and is bad for the environment]]
 

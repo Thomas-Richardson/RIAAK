@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/ritchie-2021/","tags":["animal_feed"],"created":"2025-10-23T17:42:45.264+01:00","updated":"2025-10-23T19:18:51.117+01:00"}
+{"dg-publish":true,"permalink":"/citations/ritchie-2021/","tags":["animal_feed","citation","Environment/Land","farming","lower_middle_income_countries"],"created":"2025-10-23T17:42:45.264+01:00","updated":"2025-11-04T12:10:04.149+00:00"}
 ---
 
-#citation #farming #environment_land #lower_middle_income_countries 
+
+
 
 https://ourworldindata.org/soy
 

@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/european-dairy-and-mgv-exports-to-west-africa/","created":"2025-10-23T17:42:42.957+01:00","updated":"2025-10-23T18:06:08.649+01:00"}
+{"dg-publish":true,"permalink":"/european-dairy-and-mgv-exports-to-west-africa/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:42.957+01:00","updated":"2025-10-30T23:44:53.236+00:00"}
 ---
 
-#economics #lower_middle_income_countries 
+
+
 
 - [[International trade in animal products and feed\|International trade in animal products and feed]]
 - [[Livestock in Africa\|Livestock in Africa]]

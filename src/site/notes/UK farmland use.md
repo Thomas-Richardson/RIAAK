@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/uk-farmland-use/","created":"2025-10-23T17:42:42.949+01:00","updated":"2025-10-23T18:06:08.648+01:00"}
+{"dg-publish":true,"permalink":"/uk-farmland-use/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:42.949+01:00","updated":"2025-10-30T23:44:53.235+00:00"}
 ---
 
-#farming #uk 
+
+
 
 - [[Farming Evidence Pack (DEFRA)\|Farming Evidence Pack (DEFRA)]]
 

@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/subsidies/","created":"2025-10-23T17:42:42.245+01:00","updated":"2025-10-27T14:10:16.631+00:00"}
+{"dg-publish":true,"permalink":"/subsidies/","tags":[null,null,null],"created":"2025-10-23T17:42:42.245+01:00","updated":"2025-11-07T12:30:49.842+00:00"}
 ---
 
-#meat #farming #politics 
+
+
 
 - [[Meat taxes\|Meat taxes]]
-- [[The economics of meat\|The economics of meat]]
+- [[The economics of meat MOC\|The economics of meat MOC]]
 - [[CAWF 2- subsidies paid to IMPs\|CAWF 2- subsidies paid to IMPs]] 
 
 ## Reading

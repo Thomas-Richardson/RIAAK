@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/georgiou-et-al-2022/","created":"2025-10-23T17:42:44.768+01:00","updated":"2025-10-23T18:06:08.799+01:00"}
+{"dg-publish":true,"permalink":"/citations/georgiou-et-al-2022/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:44.768+01:00","updated":"2025-10-30T23:44:54.011+00:00"}
 ---
 
-#citation #environment_ghg 
+
+
 
 https://www.nature.com/articles/s41467-022-31540-9
 

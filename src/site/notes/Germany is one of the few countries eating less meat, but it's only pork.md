@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/germany-is-one-of-the-few-countries-eating-less-meat-but-it-s-only-pork/","created":"2025-10-23T17:42:47.462+01:00","updated":"2025-10-23T18:06:08.716+01:00"}
+{"dg-publish":true,"permalink":"/germany-is-one-of-the-few-countries-eating-less-meat-but-it-s-only-pork/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:47.462+01:00","updated":"2025-10-30T23:44:53.717+00:00"}
 ---
 
-#europe #meat 
+
+
 
 https://www.vox.com/future-perfect/23273338/germany-less-meat-plant-based-vegan-vegetarian-flexitarian
 
@@ -13,3 +14,10 @@ https://www.vox.com/future-perfect/23273338/germany-less-meat-plant-based-vegan-
 - Germans are eating about the same amount of beef as they were in 2011, but far less pork.
 - The steep decline in pork only resulted in a reduction of about one-sixth of a pig per person. However, the 12.5 percent increase in poultry consumption, which looks modest on the chart below, has resulted in almost one extra chicken farmed for each of Germany’s 83 million residents because chickens are so small.
 
+# AI suggested related notes
+
+These notes appear semantically similar based on Smart Connections embeddings:
+
+- [[The UK Protein Transition in 4 Graphs\|The UK Protein Transition in 4 Graphs]] (similarity: 63.2%)
+- [[Change in demand for animal products worldwide\|Change in demand for animal products worldwide]] (similarity: 62.4%)
+- [[uk meat consumption\|uk meat consumption]] (similarity: 60.3%)

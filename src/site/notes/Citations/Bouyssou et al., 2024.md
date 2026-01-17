@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/bouyssou-et-al-2024/","created":"2025-10-23T17:42:46.135+01:00","updated":"2025-10-23T18:06:08.923+01:00"}
+{"dg-publish":true,"permalink":"/citations/bouyssou-et-al-2024/","tags":["Note","Type","citation","economics","Meat","undefined"],"created":"2025-10-23T17:42:46.135+01:00","updated":"2025-12-10T12:58:35.585+00:00"}
 ---
 
-#citation #economics #meat 
+
+
 
 Bouyssou, C. G., Jensen, J. D., & Yu, W. (2024). Food for thought: A meta-analysis of animal food demand elasticities across world regions. _Food Policy_, _122_, 102581.
 

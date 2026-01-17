@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/how-does-uk-meat-consumption-and-production-differ-from-europe/","created":"2025-10-23T17:42:43.299+01:00","updated":"2025-10-23T18:06:08.666+01:00"}
+{"dg-publish":true,"permalink":"/how-does-uk-meat-consumption-and-production-differ-from-europe/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:43.299+01:00","updated":"2025-10-30T23:44:53.401+00:00"}
 ---
 
-#uk #europe #meat 
+
+
 
 
 | Meat    | UK        | EU         | Percent |

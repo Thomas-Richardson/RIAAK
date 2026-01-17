@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/we-need-both-studies-of-both-theoretical-and-applied-ghg-emissions-from-pb-and-omnivores/","created":"2025-10-23T17:42:41.995+01:00","updated":"2025-10-23T18:06:08.618+01:00"}
+{"dg-publish":true,"permalink":"/we-need-both-studies-of-both-theoretical-and-applied-ghg-emissions-from-pb-and-omnivores/","tags":[null,null,null,null],"created":"2025-10-23T17:42:41.995+01:00","updated":"2025-10-30T23:44:53.109+00:00"}
 ---
 
-#environment 
+
+
 
 - [[Modest meat reduction can have significant environmental benefits\|modest meat reduction can have significant environmental benefits]]
 - [[Going vegan is good for the environment\|Going vegan is good for the environment]]

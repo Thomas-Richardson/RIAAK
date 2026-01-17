@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/mac-innis-and-hodson-2017/","created":"2025-10-23T17:42:43.282+01:00","updated":"2025-10-23T18:06:08.666+01:00"}
+{"dg-publish":true,"permalink":"/mac-innis-and-hodson-2017/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:43.282+01:00","updated":"2025-10-30T23:44:53.394+00:00"}
 ---
 
-#veganism #psychology 
+
+
 
 - [[Prejudice against vegans\|Prejudice against vegans]]
 

@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/schwingshackl-et-al-2021/","created":"2025-10-23T17:42:45.223+01:00","updated":"2025-10-23T18:06:08.826+01:00"}
+{"dg-publish":true,"permalink":"/citations/schwingshackl-et-al-2021/","tags":[null,null],"created":"2025-10-23T17:42:45.223+01:00","updated":"2025-10-31T14:43:31.360+00:00"}
 ---
 
-#citation #health_nutrition
+
+
 
 https://karger.com/anm/article/77/1/4/42873
 

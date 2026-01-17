@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/mathur-et-al-2021/","created":"2025-10-23T17:42:46.185+01:00","updated":"2025-10-23T18:06:08.925+01:00"}
+{"dg-publish":true,"permalink":"/citations/mathur-et-al-2021/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:46.185+01:00","updated":"2025-10-30T23:44:54.183+00:00"}
 ---
 
-#psychology #behaviour_change #citation 
+
+
 
 - [[Strategies for reducing animal product consumption\|Strategies for reducing animal product consumption]]
 

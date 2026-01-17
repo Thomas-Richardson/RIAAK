@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/measuring-ghg-emissions/","created":"2025-10-23T17:42:41.248+01:00","updated":"2025-10-23T18:06:08.591+01:00"}
+{"dg-publish":true,"permalink":"/measuring-ghg-emissions/","tags":[null,null,null,null],"created":"2025-10-23T17:42:41.248+01:00","updated":"2025-10-30T23:44:52.911+00:00"}
 ---
 
-#environment_misc
+
+
 
 - [[The "Grass fed beef is carbon neutral because its circular" myth\|The "Grass fed beef is carbon neutral because its circular" myth]]
 

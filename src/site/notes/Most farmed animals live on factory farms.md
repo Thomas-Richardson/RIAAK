@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/most-farmed-animals-live-on-factory-farms/","tags":["factory_farming"],"created":"2025-10-23T17:42:47.612+01:00","updated":"2025-10-23T18:06:08.727+01:00"}
+{"dg-publish":true,"permalink":"/most-farmed-animals-live-on-factory-farms/","tags":[null],"created":"2025-10-23T17:42:47.612+01:00","updated":"2025-10-30T23:44:53.766+00:00"}
 ---
 
-#factory_farming 
+
+
 
 [[International trade in animal products and feed\|International trade in animal products and feed]]
 [[The scale of industrial animal agriculture\|The scale of industrial animal agriculture]]

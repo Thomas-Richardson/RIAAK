@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/malnutrition/","created":"2025-10-23T17:42:47.746+01:00","updated":"2025-10-23T18:06:08.732+01:00"}
+{"dg-publish":true,"permalink":"/malnutrition/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:47.746+01:00","updated":"2025-10-30T23:44:53.784+00:00"}
 ---
 
-#health_nutrition #mfa_food_sec 
+
+
 
 - [[Do the global poor need nutrients from animal products\|Do the global poor need nutrients from animal products]]
 - [[UN 2030 SDGs\|UN 2030 SDGs]]

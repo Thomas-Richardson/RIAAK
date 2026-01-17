@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/use-the-catch-re-catch-method-to-estimate-the-size-of-a-population-with-just-2-samples/","created":"2025-10-23T17:42:44.070+01:00","updated":"2025-10-23T18:06:08.689+01:00"}
+{"dg-publish":true,"permalink":"/use-the-catch-re-catch-method-to-estimate-the-size-of-a-population-with-just-2-samples/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:44.070+01:00","updated":"2025-10-30T23:44:53.583+00:00"}
 ---
 
-#statistics #research_methods 
+
+
 
 - Have a team sample X data points and tag them with an ID
 - Have the team later take a second sample Y and record how many have a tag Z
@@ -37,3 +38,11 @@ print(f"The estimated population size is: {estimated_population}")
 - The population is closed so does not change during the study
 - Marked and unmarked individuals have an equal chance of being captured in the second sample
 - Marks are not lost or overlooked
+
+# AI suggested related notes
+
+These notes appear semantically similar based on Smart Connections embeddings:
+
+- [[Citations/35-150 billion fish are raised in captivity to be released into the wild every year (Rethink Priorities)\|35-150 billion fish are raised in captivity to be released into the wild every year (Rethink Priorities)]] (similarity: 40.6%)
+- [[Citations/Abundance Estimates of Three Wild Populations (Rethink Priorities)\|Abundance Estimates of Three Wild Populations (Rethink Priorities)]] (similarity: 39.9%)
+- [[Bryant Confidential/A sampling strategy to maximise representativeness and sub group analysis\|A sampling strategy to maximise representativeness and sub group analysis]] (similarity: 37.7%)

@@ -1,13 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/animals-and-disease-moc/","created":"2025-10-23T17:42:47.379+01:00","updated":"2025-10-23T18:06:08.712+01:00"}
+{"dg-publish":true,"permalink":"/animals-and-disease-moc/","tags":[null,null,null,null],"created":"2025-11-11T23:29:44.229+00:00","updated":"2026-01-06T10:07:59.486+00:00"}
 ---
-
-#health_disease #factory_farming 
 
 There are 4 primary but separate ways that animal agriculture contributes to disease:
 
 1.  [[Factory farmed animals cause pandemics and zoonotic disease\|Zoonoses are where a disease jumps from animals to humans]]
-	- [[Eating Our Way To The Next Pandemic\|Eating Our Way To The Next Pandemic]]
 2. Working in or living near CAFOs can cause sickness due to unsanitary conditions
 	- [[CAFOs injure and sicken their workers\|CAFOs injure and sicken their workers]]
 	- [[CAFOs wreck domestic rural communities#Make local communities sicker\|CAFOs make rural communities sick]]

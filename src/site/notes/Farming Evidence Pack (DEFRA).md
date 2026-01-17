@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/farming-evidence-pack-defra/","created":"2025-10-23T17:42:47.497+01:00","updated":"2025-10-23T18:06:08.721+01:00"}
+{"dg-publish":true,"permalink":"/farming-evidence-pack-defra/","tags":[null,null,null],"created":"2025-10-23T17:42:47.497+01:00","updated":"2025-10-30T23:44:53.734+00:00"}
 ---
 
-#farming #cawf_farming #uk 
+
+
 
 - [[CAWF 2- subsidies paid to IMPs\|CAWF 2- subsidies paid to IMPs]]
 - [[How animals are kept\|How animals are kept]] 
@@ -41,7 +42,8 @@ Factory farms in the UK
 
 
 
-#factory_farming #usa 
+
+
 
 - [[CAFOs wreck domestic rural communities\|CAFOs wreck domestic rural communities]]
 ## The spread of US CAFOs

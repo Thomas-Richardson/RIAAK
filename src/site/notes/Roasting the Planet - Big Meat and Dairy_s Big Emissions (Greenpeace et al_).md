@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/roasting-the-planet-big-meat-and-dairy-s-big-emissions-greenpeace-et-al/","created":"2025-10-23T17:42:41.943+01:00","updated":"2025-10-23T17:42:41.944+01:00"}
+{"dg-publish":true,"permalink":"/roasting-the-planet-big-meat-and-dairy-s-big-emissions-greenpeace-et-al/","created":"2025-10-23T17:42:41.943+01:00","updated":"2025-10-30T23:40:01.729+00:00"}
 ---
 
 
@@ -42,3 +42,11 @@ The research presented here demonstrates the need for Big Meat and Dairy compani
 Every fraction of a degree matters to limit the worst impacts of climate change and avoid disastrous tipping points. This is a global emergency and bold, decisive action is needed. Governments must apply the brakes on global warming by taking on the power of the global meat and dairy industry. Our future depends on it.
 
 EVERY FRACTION OF A DEGREE MATTERS...
+
+# AI suggested related notes
+
+These notes appear semantically similar based on Smart Connections embeddings:
+
+- [[Roasting the Planet - Big Meat and Dairy_s Big Emissions (Greenpeace_ Foodrise_ Friends of the Earth_ Institute for Agriculture _ Trade Policy)\|Roasting the Planet - Big Meat and Dairy_s Big Emissions (Greenpeace_ Foodrise_ Friends of the Earth_ Institute for Agriculture _ Trade Policy)]] (similarity: 95.0%)
+- [[NGO import script result 1\|NGO import script result 1]] (similarity: 88.4%)
+- [[Citations/World Bank, 2024\|World Bank, 2024]] (similarity: 73.6%)

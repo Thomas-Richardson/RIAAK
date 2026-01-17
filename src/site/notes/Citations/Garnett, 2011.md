@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/garnett-2011/","created":"2025-10-23T17:42:46.277+01:00","updated":"2025-10-23T18:06:08.930+01:00"}
+{"dg-publish":true,"permalink":"/citations/garnett-2011/","tags":[null,null,null],"created":"2025-10-23T17:42:46.277+01:00","updated":"2025-10-31T14:43:31.392+00:00"}
 ---
 
-#citation #environment_ghg  #farming 
+
+
 
 - [[Better livestock practices will not offset emissions from livestock\|Better livestock practices will not offset emissions from livestock]]
 

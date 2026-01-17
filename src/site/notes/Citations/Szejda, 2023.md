@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/szejda-2023/","created":"2025-10-23T17:42:46.361+01:00","updated":"2025-10-23T18:06:08.935+01:00"}
+{"dg-publish":true,"permalink":"/citations/szejda-2023/","tags":["Note","Type","citation","materials","undefined"],"created":"2025-10-23T17:42:46.361+01:00","updated":"2025-10-31T14:42:34.593+00:00"}
 ---
 
-#citation #materials
+
+
 
 - [[Leather is a co-product not a by product and is bad for the environment\|Leather is a co-product not a by product and is bad for the environment]]
 - [[Bryant Confidential/Material innovation inititative\|Material innovation inititative]]

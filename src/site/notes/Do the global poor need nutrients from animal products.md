@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/do-the-global-poor-need-nutrients-from-animal-products/","created":"2025-10-23T17:42:41.683+01:00","updated":"2025-10-23T18:06:08.609+01:00"}
+{"dg-publish":true,"permalink":"/do-the-global-poor-need-nutrients-from-animal-products/","tags":["Health/Nutrition","food_security","Economics/jobs"],"created":"2025-11-08T14:55:47.915+00:00","updated":"2025-11-08T14:55:47.915+00:00"}
 ---
 
-#health_nutrition #lower_middle_income_countries 
+
+
 
 - [[Bryant Confidential/MFA Food sec MOC\|MFA Food sec MOC]]
 - [[Malnutrition\|Malnutrition]] 

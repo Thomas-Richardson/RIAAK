@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/uk-crops-and-animal-feed/","tags":["animal_feed"],"created":"2025-10-23T17:42:41.471+01:00","updated":"2025-10-23T19:18:51.191+01:00"}
+{"dg-publish":true,"permalink":"/uk-crops-and-animal-feed/","tags":[null,null,null],"created":"2025-10-23T17:42:41.471+01:00","updated":"2025-10-30T23:44:52.949+00:00"}
 ---
 
-#uk #farming 
+
+
 
 - [[Soy\|Soy]]
 - [[Convert animal feed cropland to growing vegetables for UK nutrition security\|Convert animal feed cropland to growing vegetables for UK nutrition security]]

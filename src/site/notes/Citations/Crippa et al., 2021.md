@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/crippa-et-al-2021/","created":"2025-10-23T17:42:44.714+01:00","updated":"2025-10-23T18:06:08.794+01:00"}
+{"dg-publish":true,"permalink":"/citations/crippa-et-al-2021/","tags":["Environment/GHG","Note","Type","citation","Environment/Land","undefined"],"created":"2025-10-23T17:42:44.714+01:00","updated":"2025-11-04T12:10:04.099+00:00"}
 ---
 
-#environment_ghg #environment_land  #citation 
+
+
 
 https://www.nature.com/articles/s43016-021-00225-9
 

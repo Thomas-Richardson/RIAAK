@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/new-research-database-for-evidence-based-meat-reduction/","created":"2025-10-30T16:19:09.099+00:00","updated":"2025-10-30T16:19:09.190+00:00"}
+{"dg-publish":true,"permalink":"/new-research-database-for-evidence-based-meat-reduction/","tags":["Meat/meat_reduction"],"created":"2025-10-30T16:19:09.099+00:00","updated":"2025-12-10T12:58:41.860+00:00"}
 ---
+
 
 ### A comprehensive collection of meat reduction research is waiting for researchers, advocates, and funders to unlock its potential
 
@@ -79,3 +80,11 @@ Every contribution—no matter the size—helps us remain independent, responsiv
 [^1]: Disclosure: This piece was drafted by Elisa Autric with support from an AI assistant (in line with our AI use policy). Our team reviewed it for accuracy, clarity, and tone. We use this approach to produce high-quality work while optimizing our resources.
 
 [^2]: List of volunteers who helped screen the sources for eligibility (listed alphabetically by surname): Tara A., Hasan Alparslan Bayrak, Elena Bräu, Kenneth Diao, AnnaLise Hoopes, Steven Mai, Karan Makkar, Emily MacNintch, Dung Nguyen, John Nyabwari Nyambane, Sada Rice, Sian Richards, Tapinder Sadu, Elena Schaller, Ranjan Sharangpani, Ethan Terrill, Timea Tarczy, Sofia Estefania Vera Verduzco, and Geoffrey Yip.
+
+# AI suggested related notes
+
+These notes appear semantically similar based on Smart Connections embeddings:
+
+- [[Citations/Database of sources investigating interventions to reduce meat and animal product consumption (Rethink Priorities)\|Database of sources investigating interventions to reduce meat and animal product consumption (Rethink Priorities)]] (similarity: 82.7%)
+- [[Citations/Meat consumption and production in developing countries - who bucks the trend - An agenda for animal advocacy researchers (Animal Ask)\|Meat consumption and production in developing countries - who bucks the trend - An agenda for animal advocacy researchers (Animal Ask)]] (similarity: 68.5%)
+- [[Citations/Meat reduction - How much can digital media and mass media help (Animal Ask)\|Meat reduction - How much can digital media and mass media help (Animal Ask)]] (similarity: 68.1%)

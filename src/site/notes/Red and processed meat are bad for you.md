@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/red-and-processed-meat-are-bad-for-you/","created":"2025-10-23T17:42:47.907+01:00","updated":"2025-10-23T18:06:08.738+01:00"}
+{"dg-publish":true,"permalink":"/red-and-processed-meat-are-bad-for-you/","tags":[null,null,null,null,null,null,null],"created":"2025-10-23T17:42:47.907+01:00","updated":"2026-01-13T13:41:38.463+00:00"}
 ---
-
-#health_nutrition  #diet #red_meat
 
 - [[Bryant Confidential/CAWF NHS report MOC\|CAWF NHS report MOC]]
 - [[Red and processed meat and CVD\|Red and processed meat and CVD]]
 - [[red and processed  meat and cancer\|red and processed  meat and cancer]] 
 - [[Diet and diabetes\|Diet and diabetes]]
 - [[red and processed meat and obesity\|red and processed meat and obesity]]
+
+between 2010 and 2021, the global health burden linked to red meat nearly doubled, rising by about 44%.
 
  In addition to being linked with cancer, stroke[^3], type 2 diabetes mellitus[^4][^7], and overall mortality[^5][^6] (see also [[Citations/Schwingshackl et al., 2017a\|Schwingshackl et al., 2017a]] for best evidence).
 

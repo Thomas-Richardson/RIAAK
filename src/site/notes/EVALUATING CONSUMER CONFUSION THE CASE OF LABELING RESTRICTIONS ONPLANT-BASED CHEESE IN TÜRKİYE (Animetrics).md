@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/evaluating-consumer-confusion-the-case-of-labeling-restrictions-onplant-based-cheese-in-t-ue-rkiye-animetrics/","tags":["Middle_East"],"created":"2025-10-23T17:42:41.240+01:00","updated":"2025-10-23T17:42:41.241+01:00"}
+{"dg-publish":true,"permalink":"/evaluating-consumer-confusion-the-case-of-labeling-restrictions-onplant-based-cheese-in-t-ue-rkiye-animetrics/","tags":["Middle_East"],"created":"2025-10-23T17:42:41.240+01:00","updated":"2025-10-30T23:40:01.476+00:00"}
 ---
 
 https://drive.google.com/file/d/1HD8FhZDRV3Nekqlh7adJQNyLbXxsTtfl/view
@@ -63,3 +63,11 @@ understanding the problem; it is about
 making progress. Let’s use what we know
 to move forward together; rooted in
 evidence, committed to change.
+
+# AI suggested related notes
+
+These notes appear semantically similar based on Smart Connections embeddings:
+
+- [[Citations/BUEC, 2020\|BUEC, 2020]] (similarity: 69.9%)
+- [[Citations/Effects of Restrictive Animal Product Alternative Labeling Laws on Supply-chain Costs (Rethink Priorities)\|Effects of Restrictive Animal Product Alternative Labeling Laws on Supply-chain Costs (Rethink Priorities)]] (similarity: 68.5%)
+- [[Citations/Institute for Sustainable Futures, 2022\|Institute for Sustainable Futures, 2022]] (similarity: 67.5%)

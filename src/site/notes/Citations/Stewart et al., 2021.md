@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/citations/stewart-et-al-2021/","created":"2025-10-23T17:42:44.355+01:00","updated":"2025-10-23T18:06:08.772+01:00"}
+{"dg-publish":true,"permalink":"/citations/stewart-et-al-2021/","tags":["High_Income_Countries/UK","Meat/meat_consumption"],"created":"2025-10-23T17:42:44.355+01:00","updated":"2025-12-10T12:59:34.481+00:00"}
 ---
-
-#citation #meat 
 
 - [[Change in demand for animal products worldwide#The UK\|Change in UK demand for meat]]
 - [[Citations/Vonderschmidt et al., 2023\|Vonderschmidt et al., 2023]]
 - Note that [[Citations/Smith, Scheebeek, Balmford and Garnett, 2021\|Smith, Scheebeek, Balmford and Garnett, 2021]]
 
 Stewart, C., Piernas, C., Cook, B., & Jebb, S. A. (2021). Trends in UK meat consumption: analysis of data from years 1–11 (2008–09 to 2018–19) of the National Diet and Nutrition Survey rolling programme. _The Lancet Planetary Health_, _5_(10), e699-e708.
-
-[Trends in UK meat consumption: analysis of data from years 1–11 (2008–09 to 2018–19) of the National Diet and Nutrition Survey rolling programme - The Lancet Planetary Health](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(21)00228-X/fulltext)
 
 - Using 4 day food diary data from the National Diet and Nutrition Survey (NDNS) 2018/19
 - By a team at the Nuffield Department of Primary Care Health Sciences (University of Oxford) 

@@ -1,11 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/banning-meat-advertisements/","created":"2025-10-23T17:42:41.233+01:00","updated":"2025-10-23T18:06:08.590+01:00"}
+{"dg-publish":true,"permalink":"/banning-meat-advertisements/","tags":["#behaviour_change","#marketing"],"created":"2025-10-23T17:42:41.233+01:00","updated":"2025-10-30T22:59:50.707+00:00"}
 ---
 
-#meat #behaviour_change #animal_friendly_policy
-
-- [[Institutional Change\|Institutional Change]]
-- 
+- [[Institutional Change\|Institutional Change]] 
 
 The Dutch city of Haarlem is planning banning meat advertisements
 

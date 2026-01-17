@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-future-of-food-security-in-the-uk-conservative-animal-welfare-foundation/","created":"2025-10-28T12:06:07.665+00:00","updated":"2025-10-28T12:06:07.666+00:00"}
+{"dg-publish":true,"permalink":"/citations/the-future-of-food-security-in-the-uk-conservative-animal-welfare-foundation/","tags":["farming"],"created":"2025-10-28T12:06:07.665+00:00","updated":"2025-10-30T23:40:40.275+00:00"}
 ---
 
 

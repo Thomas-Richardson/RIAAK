@@ -1,12 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/citations/springmann-et-al-2021/","created":"2025-10-23T17:42:45.244+01:00","updated":"2025-10-23T18:06:08.829+01:00"}
+{"dg-publish":true,"permalink":"/citations/springmann-et-al-2021/","tags":["Economics/costs"],"created":"2025-10-23T17:42:45.244+01:00","updated":"2025-11-07T12:24:55.477+00:00"}
 ---
-
-#citation #veganism #economics 
-
-https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(21)00251-5/fulltext
-
-Springmann, M., Clark, M. A., Rayner, M., Scarborough, P., & Webb, P. (2021). The global and regional costs of healthy and sustainable dietary patterns: a modelling study. _The Lancet Planetary Health_, _5_(11), e797-e807.
 
 - [[Are PB diets cheaper than omni diets\|Are PB diets cheaper than omni diets]] 
 - [[A climate and health friendly diet is affordable for developed countries\|A climate and health friendly diet is affordable for developed countries]]

@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/the-gfi-and-foodsteps-alternative-protein-automated-lca-software/","tags":["#environment_ghg","#environment_land","#environment_misc","#alternative_proteins"],"created":"2025-10-23T17:42:43.362+01:00","updated":"2025-10-23T18:06:08.668+01:00"}
+{"dg-publish":true,"permalink":"/the-gfi-and-foodsteps-alternative-protein-automated-lca-software/","tags":[null,null,null,null,"#Environment/Land","#Environment","#alternative_proteins"],"created":"2025-10-23T17:42:43.362+01:00","updated":"2025-11-04T12:10:11.550+00:00"}
 ---
 
-#environment_ghg #environment_land #environment_misc #alternative_proteins 
+
+
 
 - [[Alt proteins for food security, better environment and land\|Alt proteins for food security, better environment and land]]
 

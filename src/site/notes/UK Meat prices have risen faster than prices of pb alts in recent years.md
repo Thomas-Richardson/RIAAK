@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/uk-meat-prices-have-risen-faster-than-prices-of-pb-alts-in-recent-years/","tags":["animal_feed"],"created":"2025-10-23T17:42:47.625+01:00","updated":"2025-10-23T19:18:51.190+01:00"}
+{"dg-publish":true,"permalink":"/uk-meat-prices-have-risen-faster-than-prices-of-pb-alts-in-recent-years/","tags":["animal_feed","Economics/costs","alternative_proteins"],"created":"2025-10-23T17:42:47.625+01:00","updated":"2025-10-30T23:26:37.517+00:00"}
 ---
 
-#blog_in_progress #bryant_research #veganism #economics 
+
 
 - Generally, meat has not shown higher price volatility than other goods (though we only have historical data on limited goods, see [[Citations/Gilbert and Morgan, 2010\|Gilbert and Morgan, 2010]])
 - Price volatility in grain increases volatility of meat prices[^1]

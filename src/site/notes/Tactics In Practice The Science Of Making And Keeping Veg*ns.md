@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tactics-in-practice-the-science-of-making-and-keeping-veg-ns/","created":"2025-10-23T17:42:47.329+01:00","updated":"2025-10-23T18:06:08.709+01:00"}
+{"dg-publish":true,"permalink":"/tactics-in-practice-the-science-of-making-and-keeping-veg-ns/","tags":["tactics","behaviour_change","research/faunalytics","diet-change","strategy","retention"],"created":"2025-11-11T23:42:24.601+00:00","updated":"2025-12-10T12:56:43.526+00:00"}
 ---
 
 [Photo by Alora Griffiths on Unsplash](https://unsplash.com/photos/woman-eats-burger-bOAI4f9_lBE)
@@ -297,3 +297,11 @@ If you’re not already receiving our updates on the latest research, please sig
 Faunalytics would like to thank the following individuals for contributing their thoughts to help shape this infographic and article:
 
 *Björn Ólafsson; Dr. Jo Anderson, Carleton University; Chris Bryant, Bryant Research; Jill Eckart, Physicians Committee; Christopher Eubanks, Apex Advocacy; Eva Hamer, Pax Fauna; Melanie Joy, Beyond Carnism; Brian Kateman, Reducetarian; Tobias Leenaert, ProVeg International; David Meyer, Humane America Animal Foundation*
+
+# AI suggested related notes
+
+These notes appear semantically similar based on Smart Connections embeddings:
+
+- [[blogs and articles/Tactics In Practice The Science Of Protests And Demonstrations\|Tactics In Practice The Science Of Protests And Demonstrations]] (similarity: 73.7%)
+- [[orphaned files output\|orphaned files output]] (similarity: 69.2%)
+- [[Why You (Probably) Don’t Need to Worry About Ex-Vegan Celebrities\|Why You (Probably) Don’t Need to Worry About Ex-Vegan Celebrities]] (similarity: 67.4%)

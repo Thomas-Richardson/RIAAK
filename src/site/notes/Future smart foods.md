@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/future-smart-foods/","created":"2025-10-23T17:42:43.003+01:00","updated":"2025-10-23T18:06:08.654+01:00"}
+{"dg-publish":true,"permalink":"/future-smart-foods/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:43.003+01:00","updated":"2025-10-30T23:44:53.294+00:00"}
 ---
 
-#health_nutrition  #lower_middle_income_countries 
+
+
 
 - [[Malnutrition\|Malnutrition]]
 - [[Do the global poor need nutrients from animal products\|Do the global poor need nutrients from animal products]]

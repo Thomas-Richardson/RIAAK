@@ -3,7 +3,7 @@
 ---
 
 - [[RIAAK Home page\|RIAAK Home page]]
-- [[Citations/RIAK tag (topic) list\|RIAK tag (topic) list]] 
+- [[RIAK tag (topic) list\|RIAK tag (topic) list]] 
 # How did you make this?
 This is my Obsidian.md vault published as a static site using Netlify and Github site.
 # Why did you do this?

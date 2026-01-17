@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/ritchie-et-al-2017/","created":"2025-10-23T17:42:46.992+01:00","updated":"2025-10-23T18:06:08.967+01:00"}
+{"dg-publish":true,"permalink":"/citations/ritchie-et-al-2017/","tags":["Note","Type","citation","dairy","Environment","Meat","undefined"],"created":"2025-10-23T17:42:46.992+01:00","updated":"2025-12-10T12:58:35.767+00:00"}
 ---
 
-#citation #meat #dairy #environment_misc 
+
+
 
 Hannah Ritchie, Pablo Rosado and Max Roser (2017) - "Meat and Dairy Production". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/meat-production' [Online Resource]
 

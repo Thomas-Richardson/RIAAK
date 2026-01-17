@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/svanes-et-al-2024/","tags":["animal_feed"],"created":"2025-10-23T17:42:45.276+01:00","updated":"2025-10-23T19:18:51.119+01:00"}
+{"dg-publish":true,"permalink":"/citations/svanes-et-al-2024/","tags":[null,null,null],"created":"2025-10-23T17:42:45.276+01:00","updated":"2025-10-30T23:44:54.075+00:00"}
 ---
 
-#citation #environment_misc 
+
+
 
 https://www-sciencedirect-com.ezproxy.is.ed.ac.uk/science/article/pii/S2352550924000241?via%3Dihub
 

@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/influential-respected-authorities-giving-pro-animal-advo-messaging/","created":"2025-10-23T17:42:43.125+01:00","updated":"2025-10-23T18:06:08.660+01:00"}
+{"dg-publish":true,"permalink":"/influential-respected-authorities-giving-pro-animal-advo-messaging/","tags":[null,null,null,null,null,null,null],"created":"2025-10-23T17:42:43.125+01:00","updated":"2026-01-17T18:05:48.261+00:00"}
 ---
-
-#persuasion #meat #health_nutrition #environment_misc 
 
 # Health bodies
 - [The WHO recommends limiting processed meat](https://www.who.int/news-room/questions-and-answers/item/cancer-carcinogenicity-of-the-consumption-of-red-meat-and-processed-meat), because [[Red and processed meat are bad for you\|Red and processed meat are bad for you]]
 - [The Academy of Nutrition and Dietetics](https://www.jandonline.org/article/S2212-2672(25)00042-5/pdf) (US based, the world's largest organization of food and nutrition professionals.)
+- [Dutch dietary guidelines](https://www.greenqueen.com.hk/dutch-food-based-dietary-guidelines-netherlands-health-plant-based/?utm_source=green-queen-future-food-weekly.beehiiv.com&utm_medium=newsletter&utm_campaign=8-5m-for-designer-fats-future-food-weekly) 
+- UK gov commissioned independent report: In 2023, the Scientific Advisory Committee on Nutrition (SACN) published a [position statement on processed foods and health](https://www.gov.uk/government/publications/sacn-statement-on-processed-foods-and-health): "*analyses suggest that UPF categories, including meat and animal products and sweetened drinks, tend to be associated with an increased risk of adverse health outcomes. In contrast, UPF categories including vegetarian alternatives were not associated with adverse health outcomes.*"
 - [The Swedish dietary guidelines](https://www.livsmedelsverket.se/globalassets/publikationsdatabas/andra-sprak/kostrad-eng.pdf?id=8140&AspxAutoDetectCookieSupport=1) explicitly advocate for less meat, particularly red meat, and more legumes and vegetables
 - [Nordic diet recommendations](https://vegconomist.com/health/nordic-nutrition-recommendations-plant-based/)
 - [Canada's food guide](https://food-guide.canada.ca/en/healthy-eating-recommendations/make-it-a-habit-to-eat-vegetables-fruit-whole-grains-and-protein-foods/eat-protein-foods/) has a section on protein foods that says: "Protein foods, including plant-based protein foods, are an important part of healthy eating. Include foods such as beans, lentils, nuts, seeds, lean meats and poultry, fish, shellfish, eggs, lower fat milk and lower fat dairy products."

@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/fur/","tags":["wild_animals"],"created":"2025-10-23T17:42:43.712+01:00","updated":"2025-10-23T19:20:34.070+01:00"}
+{"dg-publish":true,"permalink":"/fur/","tags":[null,null],"created":"2025-10-23T17:42:43.712+01:00","updated":"2025-10-30T23:44:53.499+00:00"}
 ---
 
-#materials 
+
+
 
 Source: https://www.goodsignal.com/p/the-curse-of-fur
 - 90% of animals used for fur come from factory farms.[3](https://www.goodsignal.com/p/the-curse-of-fur#footnote-3-147394111)

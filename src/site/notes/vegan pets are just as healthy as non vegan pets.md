@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/vegan-pets-are-just-as-healthy-as-non-vegan-pets/","created":"2025-10-23T17:42:42.852+01:00","updated":"2025-10-23T18:06:08.643+01:00"}
+{"dg-publish":true,"permalink":"/vegan-pets-are-just-as-healthy-as-non-vegan-pets/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:42.852+01:00","updated":"2025-10-30T23:44:53.223+00:00"}
 ---
 
-#companion_animals #pet_food 
+
+
 
 - See [[Citations/Domínguez-Oliva et al., 2023\|Domínguez-Oliva et al., 2023]]
 

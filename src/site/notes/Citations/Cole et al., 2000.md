@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/citations/cole-et-al-2000/","created":"2025-10-23T17:42:45.863+01:00","updated":"2025-10-23T18:06:08.908+01:00"}
+{"dg-publish":true,"permalink":"/citations/cole-et-al-2000/","tags":["Health/Disease","pigs"],"created":"2025-10-23T17:42:45.863+01:00","updated":"2025-11-11T23:28:08.491+00:00"}
 ---
-
-#citation #pigs #health_disease 
 
 Cole, D., Todd, L., & Wing, S. (2000). Concentrated swine feeding operations and public health: a review of occupational and community health effects. _Environmental health perspectives_, _108_(8), 685-699.
 

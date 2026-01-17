@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/modest-meat-reduction-can-have-significant-environmental-benefits/","created":"2025-10-23T17:42:41.323+01:00","updated":"2025-10-23T18:06:08.592+01:00"}
+{"dg-publish":true,"permalink":"/modest-meat-reduction-can-have-significant-environmental-benefits/","tags":[null,null,null,null,null,null,null],"created":"2025-11-11T23:30:07.738+00:00","updated":"2025-11-11T23:30:07.738+00:00"}
 ---
 
-#meat #environment_land #environment_ghg  
+
+
 
 
 - A stronger version of this argument can be found here: [[Going vegan is good for the environment\|Going vegan is good for the environment]]

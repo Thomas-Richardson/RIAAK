@@ -1,15 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/animal-agriculture-is-a-big-source-of-air-pollution/","created":"2025-10-23T17:42:44.136+01:00","updated":"2025-10-23T18:06:08.694+01:00"}
+{"dg-publish":true,"permalink":"/animal-agriculture-is-a-big-source-of-air-pollution/","tags":["Environment/Pollution"],"created":"2025-10-23T17:42:44.136+01:00","updated":"2025-12-10T12:59:34.332+00:00"}
 ---
 
-#environment_pollution  #health_disease  
+
+
 
 > [!NOTE] Eye catching
-> In the US, animal products are [8.74% of calories](https://ourworldindata.org/grapher/share-of-calories-from-animal-protein-vs-gdp-per-capita?tab=table&country=~USA) yet cause 80% of deaths from food related air pollution
+> In the #High_Income_Countries/USA, animal products are [8.74% of calories](https://ourworldindata.org/grapher/share-of-calories-from-animal-protein-vs-gdp-per-capita?tab=table&country=~USA) yet cause 80% of deaths from food related air pollution
 
 - [[Calculating the environmental damage caused by UK factory farms\|Calculating the environmental damage caused by UK factory farms]] 
 ## What are air pollutants?
-- [See UK government primer on particulate matter](https://www.gov.uk/government/statistics/air-quality-statistics/concentrations-of-particulate-matter-pm10-and-pm25).
+- [See UK government primer on particulate matter](https://www.gov.uk/government/statistics/air-quality-statistics/concentrations-of-particulate-matter-pm10-and-pm25). 
 The pollution responsible for most early deaths (at least from agriculture?) are methane and ammonia emissions cause Particulate matter (mainly pm2.5), nitrogen dioxide and ground level ozone 
 
 Nitrogen-containing compounds (NO2, NO, NH3, N2O) are emitted to the atmosphere from agricultural activities. In the case of ammonia (NH3) and nitrous oxide (N2O), agricultural sources are the main contributors, comprising 88% and 68% respectively of annual UK emissions in 2016. In addition, agricultural soils are becoming a significant source of nitric oxide (NO) (projected to be 6% of UK NOx emissions by 2030) as emissions from combustion sources are reduced by control measures.
@@ -26,7 +27,7 @@ Ground level ozone is often caused by nitrogen oxide emissions.
 
 generally it kills you through chronic obstructive pulmonary disease (COPD), heart disease and strokes.
 
-### #UK
+### #High_Income_Countries/UK
 - In the UK, [2.5% of deaths](https://ourworldindata.org/outdoor-air-pollution) were attributable to air pollution.
 - The mortality burden of the air pollution mixture (based on both particulate matter (PM2.5) and nitrogen dioxide (NO2)) in the UK, is equivalent to 29,000 to 43,000 deaths
 ## Agriculture is a big source of air pollution 
@@ -36,8 +37,6 @@ generally it kills you through chronic obstructive pulmonary disease (COPD), hea
 - [[Citations/Domingo et al., 2021\|Domingo et al., 2021]] finds that 80% of the 15,900 annual deaths in the US that result from food-related fine particulate matter (PM2.5) pollution are attributable to animal-based foods.
 - In the UK, Cattle are the largest source of ammonia, but it is also associated with chicken and pig farms, and with slurry and fertiliser use.
 
-
-
 ## Low meat diets reduce air pollution
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/citations/springmann-et-al-2023/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -45,7 +44,8 @@ generally it kills you through chronic obstructive pulmonary disease (COPD), hea
 
 
 
-#citation #environment_misc #veganism #health_nutrition
+
+
 
 - [[Animal agriculture is a big source of air pollution\|Animal agriculture is a big source of air pollution]] 
 

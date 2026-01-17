@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/stehfest-et-al-2009/","created":"2025-10-23T17:42:44.247+01:00","updated":"2025-10-23T18:06:08.767+01:00"}
+{"dg-publish":true,"permalink":"/citations/stehfest-et-al-2009/","tags":[null,null,null,null,null,null,null],"created":"2025-10-23T17:42:44.247+01:00","updated":"2025-10-30T23:44:53.911+00:00"}
 ---
 
-#citation #environment_land #environment_ghg  #meat 
+
+
 
 Stehfest, E., Bouwman, L., Van Vuuren, D. P., Den Elzen, M. G., Eickhout, B., & Kabat, P. (2009). Climate benefits of changing diet. _Climatic change_, _95_(1-2), 83-102.
 

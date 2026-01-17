@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/silk/","created":"2025-10-23T17:42:43.509+01:00","updated":"2025-10-23T18:06:08.672+01:00"}
+{"dg-publish":true,"permalink":"/silk/","tags":[null,null,null,null],"created":"2025-10-23T17:42:43.509+01:00","updated":"2025-10-30T23:44:53.469+00:00"}
 ---
 
-#materials 
+
+
 
 - [[Leather is a co-product not a by product and is bad for the environment\|Leather is a co-product not a by product and is bad for the environment]]
 - [[Duck Down feathers\|Duck Down feathers]]

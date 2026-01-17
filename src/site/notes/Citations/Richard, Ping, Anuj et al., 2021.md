@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/richard-ping-anuj-et-al-2021/","tags":["citation","alternative_proteins","asia","consumer_attitudes","good_growth_social_listening","SE_asia"],"created":"2025-10-23T17:42:46.898+01:00","updated":"2025-10-23T18:06:08.961+01:00"}
+{"dg-publish":true,"permalink":"/citations/richard-ping-anuj-et-al-2021/","tags":["citation","Alternative_Proteins","asia","consumer_research","Bryant/Project/good_growth_social_listening","SE_asia"],"created":"2025-10-23T17:42:46.898+01:00","updated":"2025-12-10T12:56:24.870+00:00"}
 ---
 
 - [x] reviewed

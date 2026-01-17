@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/giant-herds-of-herbivores-are-not-the-natural-state-of-things/","tags":["wild_animals"],"created":"2025-10-23T17:42:47.718+01:00","updated":"2025-10-23T19:20:34.070+01:00"}
+{"dg-publish":true,"permalink":"/giant-herds-of-herbivores-are-not-the-natural-state-of-things/","tags":[null,null],"created":"2025-10-23T17:42:47.718+01:00","updated":"2025-10-30T23:44:53.778+00:00"}
 ---
 
-#environment_land 
+
+
 
 - [[The meat is natural myth\|The meat is natural myth]]
 

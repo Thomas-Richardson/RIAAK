@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/farming-fish-may-not-reduce-pressure-on-wild-fish/","created":"2025-10-23T17:42:47.555+01:00","updated":"2025-10-23T18:06:08.726+01:00"}
+{"dg-publish":true,"permalink":"/farming-fish-may-not-reduce-pressure-on-wild-fish/","tags":[null,null,null,null],"created":"2025-10-23T17:42:47.555+01:00","updated":"2025-10-30T23:44:53.765+00:00"}
 ---
 
-#fish 
+
+
 
 - [[Most fishing is unsustainable\|Most fishing is unsustainable]]
 

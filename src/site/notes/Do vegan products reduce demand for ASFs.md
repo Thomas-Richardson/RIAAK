@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/do-vegan-products-reduce-demand-for-as-fs/","created":"2025-10-23T17:42:47.506+01:00","updated":"2025-10-23T18:06:08.722+01:00"}
+{"dg-publish":true,"permalink":"/do-vegan-products-reduce-demand-for-as-fs/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:47.506+01:00","updated":"2025-10-30T23:44:53.745+00:00"}
 ---
 
-#meat #alternative_proteins #economics 
+
+
 
 Also see Bryant Insight [[Alternative Meats Displace Demand for Animal Products\|Alternative Meats Displace Demand for Animal Products]] 
 

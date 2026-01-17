@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/kadel-et-al-2024/","created":"2025-10-23T17:42:45.620+01:00","updated":"2025-10-23T18:06:08.891+01:00"}
+{"dg-publish":true,"permalink":"/citations/kadel-et-al-2024/","tags":[null,null,null,null,null,null,null],"created":"2025-10-23T17:42:45.620+01:00","updated":"2025-10-30T23:44:54.120+00:00"}
 ---
 
-#citation #messaging #veganism #good_growth_social_listening 
+
+
 
 https://www.sciencedirect.com/science/article/pii/S0195666324003210?via%3Dihub
 

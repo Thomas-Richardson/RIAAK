@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/eat-lancet/","created":"2025-10-23T17:42:46.572+01:00","updated":"2025-10-23T18:06:08.947+01:00"}
+{"dg-publish":true,"permalink":"/citations/eat-lancet/","tags":["citation","Environment","Health/Nutrition"],"created":"2025-10-23T17:42:46.572+01:00","updated":"2025-11-04T12:13:06.650+00:00"}
 ---
 
-#health_nutrition  #environment_misc #citation 
+
+
 
 https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)31788-4/fulltext
 

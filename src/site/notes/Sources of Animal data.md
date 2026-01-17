@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/sources-of-animal-data/","created":"2025-10-23T17:42:41.564+01:00","updated":"2025-10-23T18:06:08.603+01:00"}
+{"dg-publish":true,"permalink":"/sources-of-animal-data/","tags":[null,null,null,null],"created":"2025-10-23T17:42:41.564+01:00","updated":"2025-10-30T23:44:52.967+00:00"}
 ---
 
-#data 
+
+
 
 - [[Faunalytics open datasets\|Faunalytics open datasets]]
 - OWID: https://ourworldindata.org/animal-welfare

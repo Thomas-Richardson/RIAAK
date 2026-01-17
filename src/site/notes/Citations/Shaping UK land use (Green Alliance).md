@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/shaping-uk-land-use-green-alliance/","tags":["wild_animals"],"created":"2025-10-23T17:42:45.322+01:00","updated":"2025-10-23T19:20:34.064+01:00"}
+{"dg-publish":true,"permalink":"/citations/shaping-uk-land-use-green-alliance/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:45.322+01:00","updated":"2025-10-30T23:44:54.081+00:00"}
 ---
 
-#citation #environment_land #alternative_proteins #farming 
+
+
 
 https://green-alliance.org.uk/wp-content/uploads/2023/01/Shaping-UK-land-use.pdf
 

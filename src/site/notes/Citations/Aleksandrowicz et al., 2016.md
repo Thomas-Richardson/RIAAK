@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/aleksandrowicz-et-al-2016/","created":"2025-10-23T17:42:45.490+01:00","updated":"2025-10-23T18:06:08.866+01:00"}
+{"dg-publish":true,"permalink":"/citations/aleksandrowicz-et-al-2016/","tags":[null,null,null,null],"created":"2025-10-23T17:42:45.490+01:00","updated":"2025-10-31T14:43:31.368+00:00"}
 ---
 
-#citation #environment_ghg #environment_land  #meat 
+
+
 
 - [[Modest meat reduction can have significant environmental benefits\|Modest meat reduction can have significant environmental benefits]]
 

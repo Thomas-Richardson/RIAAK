@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soy/","tags":["#environment_land","#animal_feed","alternative_proteins"],"created":"2025-10-23T17:42:41.464+01:00","updated":"2025-10-27T14:32:51.882+00:00"}
+{"dg-publish":true,"permalink":"/soy/","tags":["#Environment/Land","#animal_feed","alternative_proteins"],"created":"2025-10-23T17:42:41.464+01:00","updated":"2025-11-04T12:10:04.312+00:00"}
 ---
 
 - [[Animal agriculture drives deforestation#Animal feed mainly soy\|soy drives deforestation]]

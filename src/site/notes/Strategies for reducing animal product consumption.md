@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/strategies-for-reducing-animal-product-consumption/","created":"2025-10-23T17:42:41.751+01:00","updated":"2025-10-23T18:06:08.611+01:00"}
+{"dg-publish":true,"permalink":"/strategies-for-reducing-animal-product-consumption/","tags":[null,null,null,null],"created":"2025-10-23T17:42:41.751+01:00","updated":"2025-10-30T23:44:53.005+00:00"}
 ---
 
-#behaviour_change 
+
+
 
 The flip side of [[Getting people to eat more meat alternatives\|Getting people to eat more meat alternatives]]
 

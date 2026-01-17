@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/un-2030-sd-gs/","created":"2025-10-23T17:42:41.879+01:00","updated":"2025-10-23T18:06:08.615+01:00"}
+{"dg-publish":true,"permalink":"/un-2030-sd-gs/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:41.879+01:00","updated":"2025-10-30T23:44:53.037+00:00"}
 ---
 
-#health_nutrition #lower_middle_income_countries #environment_misc 
+
+
 
 https://sdgs.un.org/goals
 

@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/most-fishing-is-unsustainable/","created":"2025-10-23T17:42:48.083+01:00","updated":"2025-10-23T18:06:08.746+01:00"}
+{"dg-publish":true,"permalink":"/most-fishing-is-unsustainable/","tags":[null,null,null,null],"created":"2025-10-23T17:42:48.083+01:00","updated":"2025-10-30T23:44:53.841+00:00"}
 ---
 
-#fish 
+
+
 
 - [[We eat too many animal products\|We eat too many animal products]]
 - [[The scale of industrial animal agriculture\|The scale of industrial animal agriculture]]

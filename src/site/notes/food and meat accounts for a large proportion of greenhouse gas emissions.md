@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/food-and-meat-accounts-for-a-large-proportion-of-greenhouse-gas-emissions/","created":"2025-10-23T17:42:41.579+01:00","updated":"2025-10-23T18:06:08.604+01:00"}
+{"dg-publish":true,"permalink":"/food-and-meat-accounts-for-a-large-proportion-of-greenhouse-gas-emissions/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:41.579+01:00","updated":"2025-10-30T23:44:52.969+00:00"}
 ---
 
-#environment_ghg  #farming 
+
+
 
 - Our food system as a whole accounts for 1/3 of our total GHG emissions ([[Citations/Crippa et al., 2021\|Crippa et al., 2021]])
 	- 60% of that comes from meat and dairy, despite them providing just 18% of calories and 37% of protein ([[Citations/Poore and Nemecek 2018\|Poore and Nemecek 2018]]))

@@ -1,15 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/citations/schwingshackl-et-al-2017a/","created":"2025-10-23T17:42:45.539+01:00","updated":"2025-10-23T18:06:08.872+01:00"}
+{"dg-publish":true,"permalink":"/citations/schwingshackl-et-al-2017a/","tags":["review"],"created":"2025-11-06T09:41:39.698+00:00","updated":"2025-11-07T12:12:09.741+00:00"}
 ---
-
-#citation #health_nutrition #fish #meat #dairy 
 
 - [[Citations/Neuenschwander et al., 2023\|Neuenschwander et al., 2023]]
 - [[health effects of dairy\|health effects of dairy]]
 - [[Red and processed meat are bad for you\|Red and processed meat are bad for you]]
-- [[health effects of eggs\|health effects of eggs]]
-
-https://www.cabdirect.org/globalhealth/abstract/20173254768
+- [[Health effects of eggs\|Health effects of eggs]]
 
 Schwingshackl, L., Schwedhelm, C., Hoffmann, G., Lampousi, A. M., Knüppel, S., Iqbal, K., ... & Boeing, H. (2017). Food groups and risk of all-cause mortality: a systematic review and meta-analysis of prospective studies. _The American journal of clinical nutrition_, _105_(6), 1462-1473.
 

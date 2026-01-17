@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/mace-and-knight-2024/","created":"2025-10-23T17:42:41.815+01:00","updated":"2025-10-26T00:57:31.850+01:00"}
+{"dg-publish":true,"permalink":"/mace-and-knight-2024/","tags":[null,null,null,null],"created":"2025-10-23T17:42:41.815+01:00","updated":"2025-10-30T23:44:53.025+00:00"}
 ---
 
-#chickens 
+
+
 
 Mace, J. L., & Knight, A. (2024). From the Backyard to Our Beds: The Spectrum of Care, Attitudes, Relationship Types, and Welfare in Non-Commercial Chicken Care. _Animals_, _14_(2), 288.
 
@@ -23,3 +24,11 @@ https://pubmed.ncbi.nlm.nih.gov/38254457/
 - Moreover, 68.0% had not heard of Suprelorin® implants, and only 6.3% used implants. 
 - Most (76.4%) chicken carers followed an omnivorous diet that includes chicken meat/eggs. 
 - The results reinforced previous findings concerning a need for more avian-specialist, locally available, and affordable veterinary care for chickens. Research into Suprelorin® implants, rooster-specific care, and tailored requirements of caring for ex-commercial chickens is recommended.
+
+# AI suggested related notes
+
+These notes appear semantically similar based on Smart Connections embeddings:
+
+- [[Citations/Mace and Knight, 2023\|Mace and Knight, 2023]] (similarity: 65.0%)
+- [[Citations/Chan, Franks and Hayek, 2022\|Chan, Franks and Hayek, 2022]] (similarity: 64.4%)
+- [[Improving hen welfare\|Improving hen welfare]] (similarity: 63.6%)

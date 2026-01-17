@@ -1,15 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/most-people-strongly-support-animal-rights/","created":"2025-10-23T17:42:47.449+01:00","updated":"2025-10-23T18:06:08.715+01:00"}
+{"dg-publish":true,"permalink":"/most-people-strongly-support-animal-rights/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:47.449+01:00","updated":"2026-01-06T10:37:15.351+00:00"}
 ---
 
-#animal_welfare #consumer_attitudes 
+
+
 
 - [[Appealing to animal welfare may reduce meat consumption\|Appealing to animal welfare may reduce meat consumption]]
 
 Approximately three-quarters of respondents to a 2018 survey conducted for the National Chicken Council said they were concerned about how chickens are raised for meat.[^1]
 
 - [[Canadians Support An End to Cage Confinement for Egg-Laying Hens\|Canadians Support An End to Cage Confinement for Egg-Laying Hens]]
-- [[Acceptability of Common Farming Practices\|Acceptability of Common Farming Practices]]
+- [[Acceptability of Farming Practices\|Acceptability of Farming Practices]]
 - In [[UK Consumer Attitudes Towards the Egg Industry\|UK Consumer Attitudes Towards the Egg Industry]] Bryant showed the most UK consumers are unaware of male chick culling and oppose it, and have strong support for in ovo sexing
 - [[Citations/Bhattacharya, Bryant and Couture 2023#The public supports higher standards\|Bhattacharya, Bryant and Couture 2023#The public supports higher standards]]
 - A study of 14 countries around the world (unread) suggested that most people support better animal welfare[^2] non random sample, not enough to represent the population.

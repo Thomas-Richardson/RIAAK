@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/better-livestock-practices-will-not-offset-emissions-from-livestock/","created":"2025-10-23T17:42:41.516+01:00","updated":"2025-10-23T18:06:08.600+01:00"}
+{"dg-publish":true,"permalink":"/better-livestock-practices-will-not-offset-emissions-from-livestock/","tags":[null,null],"created":"2025-10-23T17:42:41.516+01:00","updated":"2025-11-03T14:28:36.886+00:00"}
 ---
 
-#environment_ghg  #farming 
+
+
 
 - [[Grass fed beef is not better for the environment\|Grass fed beef is not better for the environment]]
 - [[The British public is totally wrong about how to improve the environment\|The British public is totally wrong about how to improve the environment]]
@@ -11,7 +12,7 @@
 
 Even under generous assumptions and environmentally optimal management practices, we would only reduce emissions from ruminants [by 20-60%](https://www.nature.com/articles/nclimate2925). These practices can at best reduce total livestock emissions by 4%-11%. 
 
-If we fully adopt 100% of ruminant methane reducing initiatives, we will meet our GHG taget for 2030 but it still will not be enough for 2050 ([[Citations/Arnt et al., 2022\|Arnt et al., 2022]])
+If we fully adopt 100% of ruminant methane reducing initiatives, we will meet our GHG target for 2030 but it still will not be enough for 2050 ([[Citations/Arnt et al., 2022\|Arnt et al., 2022]])
 
 [Clark et al., (2020)](https://www.science.org/doi/10.1126/science.aba7357) 
 

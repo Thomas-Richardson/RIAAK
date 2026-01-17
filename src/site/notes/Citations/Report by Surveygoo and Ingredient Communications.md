@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/report-by-surveygoo-and-ingredient-communications/","created":"2025-10-23T17:42:44.756+01:00","updated":"2025-10-23T18:06:08.798+01:00"}
+{"dg-publish":true,"permalink":"/citations/report-by-surveygoo-and-ingredient-communications/","tags":["citation","labelling","Meat","report"],"created":"2025-10-23T17:42:44.756+01:00","updated":"2025-12-10T12:58:35.753+00:00"}
 ---
 
-#citation #report #meat #labelling 
+
+
 
 [[PB food labels are not confusing to consumers\|PB food labels are not confusing to consumers]]
 

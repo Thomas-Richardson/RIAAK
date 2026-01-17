@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/mason-d-croz-et-al-2022/","created":"2025-10-23T17:42:45.396+01:00","updated":"2025-10-23T18:06:08.843+01:00"}
+{"dg-publish":true,"permalink":"/citations/mason-d-croz-et-al-2022/","tags":[null,null,null,null,null,null,null,null,null],"created":"2025-10-23T17:42:45.396+01:00","updated":"2025-10-30T23:44:54.091+00:00"}
 ---
 
-#citation #cows #meat #alternative_proteins #economics #mfa_food_sec 
+
+
 
 - [[CAFOS reduce employment and provide low quality jobs\|CAFOS reduce employment and provide low quality jobs]]
 - [[Do vegan products reduce demand for ASFs\|Do vegan products reduce demand for ASFs]]

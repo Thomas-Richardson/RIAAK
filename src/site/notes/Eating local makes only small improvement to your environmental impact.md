@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/eating-local-makes-only-small-improvement-to-your-environmental-impact/","created":"2025-10-23T17:42:48.066+01:00","updated":"2025-10-23T18:06:08.744+01:00"}
+{"dg-publish":true,"permalink":"/eating-local-makes-only-small-improvement-to-your-environmental-impact/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:48.066+01:00","updated":"2025-10-30T23:44:53.837+00:00"}
 ---
 
-#veganism #environment_ghg  #to_clean 
+
+
 
 
 > [!NOTE] Summary

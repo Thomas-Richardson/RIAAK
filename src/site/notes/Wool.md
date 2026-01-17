@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/wool/","tags":["wild_animals"],"created":"2025-10-23T17:42:41.227+01:00","updated":"2025-10-23T19:20:34.084+01:00"}
+{"dg-publish":true,"permalink":"/wool/","tags":[null,null,null],"created":"2025-10-23T17:42:41.227+01:00","updated":"2025-11-04T12:10:11.554+00:00"}
 ---
 
-#animal_advocacy #materials 
+
+
 
 - [[Leather is a co-product not a by product and is bad for the environment\|Leather is a co-product not a by product and is bad for the environment]]
 - [[Duck Down feathers\|Duck Down feathers]]
@@ -12,7 +13,7 @@ Over the course of a year, a sheep typically produces 4.5 kilograms (about 10 
 - Wool, accounting for 25% of global supply
 - The global wool market is currently valued at $35 billion and is expected to reach $47 billion in the next decade.
 ## Negative environmental effects
-#environment_misc 
+#Environment 
 To name just one example, a 2021 [study](https://www.dropbox.com/scl/fi/4tyqsnuof548f1wio7dgf/Factors_Allowing_Users_to_Influence_the_Environmen.pdf?rlkey=3b5cznl1ss1eahdq655ucprtf&dl=0) using data from the Swiss sustainability assessment nonprofit [Ecoinvent](https://ecoinvent.org/the-ecoinvent-association/) found that wool had far higher greenhouse gas emissions than alternatives for the same amount of fabric, including nearly nine times more than polyester.
 
 According to one analysis of wool production in Australia, by far the world’s top exporter, the wool required to make one knit sweater is responsible for [27 times more](https://circumfauna.org/wool-v-cotton-emissions) greenhouse gases than a comparable Australian cotton sweater, and requires [247 times](https://circumfauna.org/fibre-land-comparisons) more land.

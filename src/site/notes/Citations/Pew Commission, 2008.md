@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/pew-commission-2008/","created":"2025-10-23T17:42:45.768+01:00","updated":"2025-10-23T18:06:08.903+01:00"}
+{"dg-publish":true,"permalink":"/citations/pew-commission-2008/","tags":["citation","factory_farming","farming","pigs"],"created":"2025-11-11T23:29:28.827+00:00","updated":"2025-11-11T23:29:28.827+00:00"}
 ---
 
-#citation #factory_farming #farming 
+
+
 
 - [[CAFOs wreck domestic rural communities\|CAFOs wreck domestic rural communities]]
 

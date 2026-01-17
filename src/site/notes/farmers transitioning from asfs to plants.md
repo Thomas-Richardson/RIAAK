@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/farmers-transitioning-from-asfs-to-plants/","tags":["animal_feed - farming - farmers - cultivated_meat - alternative_proteins - precision_fermentation - environment_land"],"created":"2025-10-23T17:42:42.405+01:00","updated":"2025-10-23T19:18:51.203+01:00"}
+{"dg-publish":true,"permalink":"/farmers-transitioning-from-asfs-to-plants/","tags":["animal_feed - farming - farmers - cultivated_meat - Alternative_Proteins - precision_fermentation - environment_land - Economics/jobs"],"created":"2025-11-06T16:26:27.331+00:00","updated":"2025-11-06T16:26:27.331+00:00"}
 ---
 
 - [[The economic value of alternative proteins\|The economic value of alternative proteins]]
@@ -31,7 +31,7 @@
 ## Positives
 - [A survey of 51 scottish farmers](https://stockfreefarming.org/survey-report/) found that 86% of farmers were willing to change their practices to reduce climate change. Around 70% of farmers also said they would be at least somewhat willing to grow crops for human consumption, rewild “unfavorable” farming land, or try non-traditional agriculture practices with a financial incentive.
 ## Alternatives for farmers
-- peas, oats, mung beans, and other legumes, which they could grow, but also #cultivated_meat and #alternative_proteins often need algae, seaweed fungi and yeast which makes the transition difficult[^1]
+- peas, oats, mung beans, and other legumes, which they could grow, but also #alternative_proteins/Cultivated_Meat and #alternative_proteins often need algae, seaweed fungi and yeast which makes the transition difficult[^1]
 	- [[algae farming for alt proteins\|algae farming for alt proteins]] 
 - Land that’s unsuitable for growing any plants can be repurposed to agroforestry or possibly ecotourism.
 	- Farmers on large grazing land being paid to plant lots of trees

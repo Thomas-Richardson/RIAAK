@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-hidden-harms-of-factory-farms-conservative-animal-welfare-foundation/","created":"2025-10-28T12:09:39.443+00:00","updated":"2025-10-28T12:09:39.445+00:00"}
+{"dg-publish":true,"permalink":"/citations/the-hidden-harms-of-factory-farms-conservative-animal-welfare-foundation/","tags":["Economics/jobs","pigs"],"created":"2025-11-11T23:29:30.431+00:00","updated":"2025-11-11T23:29:30.431+00:00"}
 ---
 
 

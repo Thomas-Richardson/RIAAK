@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/how-to-create-a-vegan-world/","created":"2025-10-23T17:42:43.654+01:00","updated":"2025-10-23T18:06:08.673+01:00"}
+{"dg-publish":true,"permalink":"/how-to-create-a-vegan-world/","created":"2025-10-23T17:42:43.654+01:00","updated":"2025-10-30T23:40:02.237+00:00"}
 ---
 
-#book_notes #veganism 
-
-Tobias Leenaert
+By Tobias Leenaert
 
 The animal advo movement is not exactly like other social justice groups, because unlike POC or women, animals will never revolt or advocate for themselves
 
@@ -26,4 +24,12 @@ I'm less concerned that people will stop at vegetarianism, I'm more concerned th
 
 If you *knew* that getting angry at someone for eating meat would make them a lifelong enemy of the movement would you do it?
 
-If we 
+If we
+
+# AI suggested related notes
+
+These notes appear semantically similar based on Smart Connections embeddings:
+
+- [[Pro-animal messaging\|Pro-animal messaging]] (similarity: 73.3%)
+- [[Incremental small scale changes for reducing animal products\|Incremental small scale changes for reducing animal products]] (similarity: 69.3%)
+- [[Animal Think Tanks theory of change\|Animal Think Tanks theory of change]] (similarity: 66.0%)

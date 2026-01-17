@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/traditional-farming-systems-are-not-inherently-higher-welfare/","created":"2025-10-23T17:42:43.379+01:00","updated":"2025-10-23T18:06:08.668+01:00"}
+{"dg-publish":true,"permalink":"/traditional-farming-systems-are-not-inherently-higher-welfare/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:43.379+01:00","updated":"2025-10-30T23:44:53.424+00:00"}
 ---
 
-#farming #factory_farming 
+
+
 
 - [[Smallhold farming\|Smallhold farming]]
 - [[Is pastoralism the solution to the problems food security and animal agriculture\|Is pastoralism the solution to the problems food security and animal agriculture]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hwa-food-service-industry-protein-sustainability-scorecard/","tags":["institutional_change"],"created":"2025-10-23T17:42:42.293+01:00","updated":"2025-10-23T17:42:42.294+01:00"}
+{"dg-publish":true,"permalink":"/hwa-food-service-industry-protein-sustainability-scorecard/","tags":["institutional_change"],"created":"2025-10-23T17:42:42.293+01:00","updated":"2025-10-30T23:40:01.939+00:00"}
 ---
 
 # Executive Summary
@@ -38,3 +38,11 @@ The fourth annual **Food Service Industry Protein Sustainability Scorecard (Apri
 
 ## Bottom line
 The transition is **accelerating but uneven**. A critical mass of major contractors now has measurable plant-based and protein-reduction goals, with several already delivering **quantifiable emissions reductions** through menu design and operations. Persistent **non-reporting and weak transparency** remain barriers to sector-wide progress.
+
+# AI suggested related notes
+
+These notes appear semantically similar based on Smart Connections embeddings:
+
+- [[HWA Food Service Scorecard 2025\|HWA Food Service Scorecard 2025]] (similarity: 75.0%)
+- [[Citations/Feeding Change - Building a Resilient Food System Through Protein Diversification (FAIRR)\|Feeding Change - Building a Resilient Food System Through Protein Diversification (FAIRR)]] (similarity: 72.6%)
+- [[Citations/Advocating for 60-40 plant-animal Protein Sales Ratios by 2040 (Ambitious Impact)\|Advocating for 60-40 plant-animal Protein Sales Ratios by 2040 (Ambitious Impact)]] (similarity: 69.7%)

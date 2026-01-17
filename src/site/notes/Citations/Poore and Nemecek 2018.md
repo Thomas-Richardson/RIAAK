@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/poore-and-nemecek-2018/","created":"2025-10-23T17:42:44.565+01:00","updated":"2025-10-23T18:06:08.785+01:00"}
+{"dg-publish":true,"permalink":"/citations/poore-and-nemecek-2018/","tags":[null,null,null,null],"created":"2025-10-23T17:42:44.565+01:00","updated":"2025-10-31T14:43:31.341+00:00"}
 ---
 
-#environment_misc #citation #farming #meat 
+
+
 
 - [[The inefficiency of animal products\|The inefficiency of animal products]]
 - [[Grass fed beef is not better for the environment\|Grass fed beef is not better for the environment]]

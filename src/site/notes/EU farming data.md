@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/eu-farming-data/","created":"2025-10-23T17:42:48.109+01:00","updated":"2025-10-23T18:06:08.748+01:00"}
+{"dg-publish":true,"permalink":"/eu-farming-data/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:48.109+01:00","updated":"2025-10-30T23:44:53.842+00:00"}
 ---
 
-#europe #farming #data 
+
+
 
 The Farm Accountancy Data Network (FADN). FADN collects annual surveys carried out by EU countries. It is the only source of microeconomic data that is harmonised at the European level. 
 

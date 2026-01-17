@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/animal-farming-makes-the-effects-of-crop-diseases-worse/","tags":["animal_feed"],"created":"2025-10-23T17:42:43.623+01:00","updated":"2025-10-23T19:18:51.082+01:00"}
+{"dg-publish":true,"permalink":"/animal-farming-makes-the-effects-of-crop-diseases-worse/","tags":[null,null,null,null],"created":"2025-11-11T23:26:11.191+00:00","updated":"2025-11-11T23:26:11.191+00:00"}
 ---
 
-#health_disease #food_security 
+
+
 
 - [[Diseases in farm animals cause economic shocks\|Diseases in farm animals cause economic shocks]]
 - [[Factory farmed animals cause pandemics and zoonotic disease\|Factory farmed animals cause pandemics and zoonotic disease]]

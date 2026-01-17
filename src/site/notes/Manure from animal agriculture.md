@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/manure-from-animal-agriculture/","created":"2025-10-23T17:42:47.776+01:00","updated":"2025-10-23T18:06:08.733+01:00"}
+{"dg-publish":true,"permalink":"/manure-from-animal-agriculture/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:47.776+01:00","updated":"2025-10-30T23:44:53.790+00:00"}
 ---
 
-#farming #environment_misc 
+
+
 
 - [[Bio gas\|Bio gas]]
 - [[Animal agro and soil health\|Animal agro and soil health]]

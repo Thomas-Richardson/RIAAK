@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/schlesinger-et-al-2019/","created":"2025-10-23T17:42:45.868+01:00","updated":"2025-10-23T18:06:08.908+01:00"}
+{"dg-publish":true,"permalink":"/citations/schlesinger-et-al-2019/","tags":[null,null,null],"created":"2025-10-23T17:42:45.868+01:00","updated":"2025-10-31T14:43:31.381+00:00"}
 ---
 
-#citation #health_nutrition #meat 
+
+
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6416048/
 

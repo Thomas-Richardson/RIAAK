@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/big-meat-corporations-in-the-uk/","created":"2025-10-23T17:42:47.631+01:00","updated":"2025-10-23T18:06:08.728+01:00"}
+{"dg-publish":true,"permalink":"/big-meat-corporations-in-the-uk/","tags":[null,null],"created":"2025-10-23T17:42:47.631+01:00","updated":"2025-10-30T23:59:27.831+00:00"}
 ---
 
-#uk #factory_farming 
+
+
 
 - [[How many animals are farmed and slaughtered each year#UK\|How many animals are farmed and slaughtered each year in the UK]]
 

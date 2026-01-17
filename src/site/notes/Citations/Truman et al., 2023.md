@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/truman-et-al-2023/","created":"2025-10-23T17:42:45.163+01:00","updated":"2025-10-23T18:06:08.821+01:00"}
+{"dg-publish":true,"permalink":"/citations/truman-et-al-2023/","tags":[null,null,null,null,null,null,null],"created":"2025-10-23T17:42:45.163+01:00","updated":"2025-10-30T23:44:54.058+00:00"}
 ---
 
-#citation #veganism #case_study #uk 
+
+
 
 
 > [!NOTE] TLDR

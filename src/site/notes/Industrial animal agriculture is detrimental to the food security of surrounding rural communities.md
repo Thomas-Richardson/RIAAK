@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/industrial-animal-agriculture-is-detrimental-to-the-food-security-of-surrounding-rural-communities/","tags":["animal_feed"],"created":"2025-10-23T17:42:42.749+01:00","updated":"2025-10-23T19:18:51.150+01:00"}
+{"dg-publish":true,"permalink":"/industrial-animal-agriculture-is-detrimental-to-the-food-security-of-surrounding-rural-communities/","tags":[null,null,"Economics/jobs"],"created":"2025-11-06T16:38:11.739+00:00","updated":"2025-11-06T16:38:11.739+00:00"}
 ---
 
-#mfa_food_sec 
+
+
 [[MFA Livestock and Food security finished\|MFA Livestock and Food security finished]]
 In this next section, I focus on confined animal feeding operations (CAFOs) that are the hallmark of industrial animal agriculture, and how they impact the food security of surrounding communities.
 

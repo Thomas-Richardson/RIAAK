@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/hirvonen-et-al-2019/","created":"2025-10-23T17:42:45.753+01:00","updated":"2025-10-23T18:06:08.901+01:00"}
+{"dg-publish":true,"permalink":"/citations/hirvonen-et-al-2019/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:45.753+01:00","updated":"2025-10-30T23:44:54.132+00:00"}
 ---
 
-#health_nutrition  #environment_misc #citation 
+
+
 
 https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(19)30447-4/fulltext
 

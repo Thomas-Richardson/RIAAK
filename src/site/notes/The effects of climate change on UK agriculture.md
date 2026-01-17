@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/the-effects-of-climate-change-on-uk-agriculture/","created":"2025-10-23T17:42:48.009+01:00","updated":"2025-10-23T18:06:08.741+01:00"}
+{"dg-publish":true,"permalink":"/the-effects-of-climate-change-on-uk-agriculture/","tags":[null,null,null,null,null,null,null],"created":"2025-10-23T17:42:48.009+01:00","updated":"2025-10-30T23:44:53.830+00:00"}
 ---
 
-#uk #environment_ghg #food_security #cawf_food_sec 
+
+
 
 # Wet
 [Wettest 18 month period](https://www.gov.uk/government/publications/water-situation-national-monthly-reports-for-england-2024/water-situation-march-2024-summary) on record between October 2022 to March 2024. [Carbon Brief](https://www.carbonbrief.org/analysis-how-uk-winters-are-getting-warmer-and-wetter/) analysis shows that UK winters have become 1C warmer and 15% wetter in the past century.

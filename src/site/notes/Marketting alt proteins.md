@@ -1,13 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/marketting-alt-proteins/","tags":["alternative_proteins","marketing","plant_based_alternative_proteins"],"created":"2025-10-23T17:42:43.258+01:00","updated":"2025-10-23T18:06:08.665+01:00"}
+{"dg-publish":true,"permalink":"/marketting-alt-proteins/","tags":["marketing","Alternative_Proteins/Plant_Based","alternative_proteins"],"created":"2025-10-23T17:42:43.258+01:00","updated":"2026-01-15T10:30:24.419+00:00"}
 ---
 
 Good ideas here: https://downloads.mintel.com/private/BMCE2/files/889404/
 
-"natural source of iron"
-"contains all amino acids"
-terms like "whole"
+# Terms
+- "natural source of iron"
+- "contains all amino acids"
+- terms like "whole"
+- "Plant protein": good take by [Balanced](https://www.dropbox.com/scl/fi/dorsqzqaxxr9hxoy47gy6/Plant-Protein-Messaging-Guide.pdf?rlkey=34p8z325x1ofep6sdqksy5b47&e=9&dl=0) here.
+	- Avoids negative framing: fake, alt, replacement, mock
+	- Counters protein myth in the name
+	- covers plants and meat alts
+	- 
 
+# Campaigns
 "To support its new plant-based burger launch (Rebel Whopper and Rebel Chicken King) in 2019, for instance,
 Burger King Sweden introduced a new 50/50 mystery menu. Customers order a Whopper without knowing whether it will be a meat or plant-based burger"
 

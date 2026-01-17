@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/omega-3-and-6/","created":"2025-10-23T17:42:47.711+01:00","updated":"2025-10-23T18:06:08.730+01:00"}
+{"dg-publish":true,"permalink":"/omega-3-and-6/","tags":[null,null,null,null],"created":"2025-10-23T17:42:47.711+01:00","updated":"2025-10-30T23:44:53.777+00:00"}
 ---
 
-#health_nutrition 
+
+
 
 - [[grass fed beef is not a good source of omega fatty acids\|grass fed beef is not a good source of omega fatty acids]]
 

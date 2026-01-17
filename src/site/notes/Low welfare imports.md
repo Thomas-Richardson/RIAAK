@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/low-welfare-imports/","created":"2025-10-23T17:42:43.163+01:00","updated":"2025-10-23T18:06:08.662+01:00"}
+{"dg-publish":true,"permalink":"/low-welfare-imports/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:43.163+01:00","updated":"2025-10-30T23:44:53.376+00:00"}
 ---
 
-#farming #uk 
+
+
 
 - [[Post-Brexit Trade Deals and Low Welfare Imports - An urgent cautionary warning for the UK\|Post-Brexit Trade Deals and Low Welfare Imports - An urgent cautionary warning for the UK]]
 - [[Farming Evidence Pack (DEFRA)\|Farming Evidence Pack (DEFRA)]]

@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/aston-et-al-2022/","created":"2025-10-23T17:42:45.548+01:00","updated":"2025-10-23T18:06:08.874+01:00"}
+{"dg-publish":true,"permalink":"/citations/aston-et-al-2022/","tags":["Environment/GHG","Note","Type","citation","Health/Nutrition","Meat/red_meat","undefined"],"created":"2025-10-23T17:42:45.548+01:00","updated":"2025-11-04T12:16:30.681+00:00"}
 ---
 
-#citation #environment_ghg  #health_nutrition  #red_meat 
+
+
 
 - [[Red and processed meat are bad for you\|Red and processed meat are bad for you]]
 - [[red and processed  meat and cancer\|red and processed  meat and cancer]]

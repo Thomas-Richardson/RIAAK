@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/erb-et-al-2012/","created":"2025-10-23T17:42:44.459+01:00","updated":"2025-10-23T18:06:08.779+01:00"}
+{"dg-publish":true,"permalink":"/citations/erb-et-al-2012/","tags":["Note","Type","citation","food_security","undefined","Economics/jobs"],"created":"2025-10-23T17:42:44.459+01:00","updated":"2025-11-06T18:35:39.222+00:00"}
 ---
 
-#citation #food_security 
+
+
 
 https://www.gastronomiaycia.com/wp-content/uploads/2012/10/informe_producion_ganadera_seguridad-alimentaria.pdf
 Brief here: https://www.ciwf.org.uk/media/3758836/Food-security-and-farm-animal-welfare-report.pdf

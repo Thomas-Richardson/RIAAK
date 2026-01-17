@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/douglas-et-al-2018/","created":"2025-10-23T17:42:45.524+01:00","updated":"2025-10-23T18:06:08.870+01:00"}
+{"dg-publish":true,"permalink":"/citations/douglas-et-al-2018/","tags":["Note","Type","citation","factory_farming","Health/Disease","undefined","review"],"created":"2025-11-06T09:41:40.740+00:00","updated":"2025-11-06T09:41:40.740+00:00"}
 ---
 
-#citation #health_disease  #factory_farming 
+
+
 
 https://www.sciencedirect.com/science/article/pii/S1438463917305667
 

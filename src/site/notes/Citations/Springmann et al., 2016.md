@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/springmann-et-al-2016/","created":"2025-10-23T17:42:46.291+01:00","updated":"2025-10-23T18:06:08.931+01:00"}
+{"dg-publish":true,"permalink":"/citations/springmann-et-al-2016/","tags":[null,null,null],"created":"2025-10-23T17:42:46.291+01:00","updated":"2025-10-31T14:43:31.392+00:00"}
 ---
 
-#citation #economics #health_nutrition 
+
+
 
 https://www.pnas.org/doi/10.1073/pnas.1523119113
 

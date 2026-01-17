@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/fairr-initiative-a-global-network-of-investors-addressing-materiality-risks-in-protein-supply-chains/","created":"2025-10-29T09:18:32.715+00:00","updated":"2025-10-29T09:18:33.020+00:00"}
+{"dg-publish":true,"permalink":"/fairr-initiative-a-global-network-of-investors-addressing-materiality-risks-in-protein-supply-chains/","tags":["Economics/jobs"],"created":"2025-10-29T09:18:32.715+00:00","updated":"2025-11-06T18:39:02.439+00:00"}
 ---
+
 
 ![Standard Header](https://images.ctfassets.net/kc2xclar6nri/1LeGIWo8mu2imGaPPWaYk8/8584f1b616831b8e40e5f6ee65e7bcc4/Header_-_Standard2.webp?w=2800&h=1200&fit=crop) ![Banner-Alternative-Proteins Promo](https://images.ctfassets.net/kc2xclar6nri/7ngjKOB2qGCJvCvOWhjua2/af2c08d1e2b95369ca19d2081b9c1bff/Banner-Alternative_Proteins.webp?w=2800&h=600&fit=fill)
 
@@ -425,3 +426,11 @@ Multiple themes
 ---
 
 ---
+
+# AI suggested related notes
+
+These notes appear semantically similar based on Smart Connections embeddings:
+
+- [[orphaned files output\|orphaned files output]] (similarity: 64.9%)
+- [[Citations/Feeding Change - Building a Resilient Food System Through Protein Diversification (FAIRR)\|Feeding Change - Building a Resilient Food System Through Protein Diversification (FAIRR)]] (similarity: 63.8%)
+- [[Citations/Low hanging fruit - A policy pathway for boosting uptake of plant-rich diets (Food Foundation, GFI and the Green Alliance)\|Low hanging fruit - A policy pathway for boosting uptake of plant-rich diets (Food Foundation, GFI and the Green Alliance)]] (similarity: 60.2%)

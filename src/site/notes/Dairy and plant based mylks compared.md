@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/dairy-and-plant-based-mylks-compared/","created":"2025-10-23T17:42:47.290+01:00","updated":"2025-10-23T18:06:08.706+01:00"}
+{"dg-publish":true,"permalink":"/dairy-and-plant-based-mylks-compared/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:47.290+01:00","updated":"2025-10-30T23:44:53.645+00:00"}
 ---
 
-#health_nutrition #environment_misc 
+
+
 
 - [[health effects of dairy\|health effects of dairy]]
 - 

@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/40-of-fish-caught-are-by-catch/","created":"2025-10-23T17:42:47.442+01:00","updated":"2025-10-23T17:42:47.442+01:00"}
+{"dg-publish":true,"permalink":"/40-of-fish-caught-are-by-catch/","tags":[null],"created":"2025-10-23T17:42:47.442+01:00","updated":"2025-10-30T23:59:27.824+00:00"}
 ---
 
-#fish 
+
+
 
 - [[Most fishing is unsustainable\|Most fishing is unsustainable]]
 

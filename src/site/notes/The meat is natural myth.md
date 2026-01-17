@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/the-meat-is-natural-myth/","created":"2025-10-23T17:42:41.254+01:00","updated":"2025-10-23T18:06:08.591+01:00"}
+{"dg-publish":true,"permalink":"/the-meat-is-natural-myth/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:41.254+01:00","updated":"2025-10-30T23:44:52.912+00:00"}
 ---
 
-#messaging #meat 
+
+
 
 - [[Giant herds of herbivores are not the natural state of things\|Giant herds of herbivores are not the natural state of things]]
 - [[The Ultra-Processed Myth\|The Ultra-Processed Myth]]

@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/citations/bianchi-et-al-2018/","created":"2025-10-23T17:42:45.340+01:00","updated":"2025-10-23T18:06:08.836+01:00"}
+{"dg-publish":true,"permalink":"/citations/bianchi-et-al-2018/","tags":["behaviour_change","Meat/meat_reduction","review"],"created":"2025-10-23T17:42:45.340+01:00","updated":"2025-12-10T12:58:41.847+00:00"}
 ---
-
-#citation #meat #behaviour_change 
 
 - [[Strategies for reducing animal product consumption\|Strategies for reducing animal product consumption]]
 

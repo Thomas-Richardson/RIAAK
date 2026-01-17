@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/alt-proteins-and-vc-funding/","tags":["alternative_proteins","cultivated_meat","precision_fermentation"],"created":"2025-10-23T17:42:43.254+01:00","updated":"2025-10-23T17:42:43.254+01:00"}
+{"dg-publish":true,"permalink":"/alt-proteins-and-vc-funding/","tags":["alternative_proteins"],"created":"2025-10-23T17:42:43.254+01:00","updated":"2025-11-04T12:09:49.702+00:00"}
 ---
- 
+
 
 - In its infancy, much of the sector focused on plant-based CPG products
 - Timelines to bring those products to market were a reasonably good fit with VC expectations. The risk was often moderate, early consumer adoption was promising, and there was demonstrated interest from retail and foodservice

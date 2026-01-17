@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/schwingshackl-et-al-2017b/","created":"2025-10-23T17:42:45.853+01:00","updated":"2025-10-23T18:06:08.907+01:00"}
+{"dg-publish":true,"permalink":"/citations/schwingshackl-et-al-2017b/","tags":[null,null,null,null],"created":"2025-10-23T17:42:45.853+01:00","updated":"2025-10-31T14:43:31.381+00:00"}
 ---
 
-#citation #health_nutrition #meat #eggs 
+
+
 
 [Food groups and risk of type 2 diabetes mellitus: a systematic review and meta-analysis of prospective studies | European Journal of Epidemiology](https://link.springer.com/article/10.1007/s10654-017-0246-y)
 

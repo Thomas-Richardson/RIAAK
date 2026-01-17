@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/leonard-et-al-2024/","created":"2025-10-23T17:42:46.856+01:00","updated":"2025-10-23T18:06:08.959+01:00"}
+{"dg-publish":true,"permalink":"/citations/leonard-et-al-2024/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:46.856+01:00","updated":"2025-10-30T23:44:54.253+00:00"}
 ---
 
-#citation #health_nutrition 
+
+
 
 https://www.sciencedirect.com/science/article/pii/S0002916524000479
 

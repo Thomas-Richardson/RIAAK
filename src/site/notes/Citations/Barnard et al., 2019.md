@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/barnard-et-al-2019/","created":"2025-10-23T17:42:44.198+01:00","updated":"2025-10-23T18:06:08.765+01:00"}
+{"dg-publish":true,"permalink":"/citations/barnard-et-al-2019/","tags":["Note","Type","citation","eggs","Health/Nutrition","undefined","review"],"created":"2025-11-06T09:41:44.132+00:00","updated":"2025-11-06T09:41:44.132+00:00"}
 ---
 
-#citation #eggs #health_nutrition 
+
+
 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC7958219/
 

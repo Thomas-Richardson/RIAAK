@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/how-many-animals-are-farmed-and-slaughtered-each-year/","created":"2025-10-23T17:42:41.838+01:00","updated":"2025-10-23T18:06:08.614+01:00"}
+{"dg-publish":true,"permalink":"/how-many-animals-are-farmed-and-slaughtered-each-year/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:41.838+01:00","updated":"2025-11-04T12:04:44.251+00:00"}
 ---
 
-#animal_advocacy #factory_farming 
+
+
 ## Globally
 - 80 Billion [[Citations/Ritchie et al., 2017\|Ritchie et al., 2017]] 
 - [[Few livestock are farmed in poor countries\|Few livestock are farmed in poor countries]]
@@ -27,7 +28,7 @@ https://committees.parliament.uk/writtenevidence/23622/pdf/
 
 ![Pasted image 20240802125911.png|600](/img/user/Pasted%20image%2020240802125911.png)
 
-For #cawf_farming we estimated using data from [[Citations/WWF, 2022\|WWF, 2022]], numbers were close enough except dairy cattle.
+For #Bryant/Project/cawf_hidden_harms we estimated using data from [[Citations/WWF, 2022\|WWF, 2022]], numbers were close enough except dairy cattle.
 
 ## Other sources to check
 - https://fishcount.org.uk/

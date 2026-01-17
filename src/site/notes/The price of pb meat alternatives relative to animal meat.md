@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/the-price-of-pb-meat-alternatives-relative-to-animal-meat/","tags":["alternative_proteins","economics"],"created":"2025-10-23T17:42:43.104+01:00","updated":"2025-10-23T18:06:08.659+01:00"}
+{"dg-publish":true,"permalink":"/the-price-of-pb-meat-alternatives-relative-to-animal-meat/","tags":[null,null,null,"economics"],"created":"2025-10-23T17:42:43.104+01:00","updated":"2025-10-30T23:44:53.350+00:00"}
 ---
 
-#alternative_proteins #economics #meat 
+
+
 
 - [[Are meat alternatives healthier than meat\|Are meat alternatives healthier than meat]]
 - [[Are PB diets cheaper than omni diets\|Are PB diets cheaper than omni diets]]

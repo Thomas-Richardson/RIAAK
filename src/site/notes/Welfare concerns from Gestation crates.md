@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/welfare-concerns-from-gestation-crates/","created":"2025-10-23T17:42:41.619+01:00","updated":"2025-10-23T18:06:08.606+01:00"}
+{"dg-publish":true,"permalink":"/welfare-concerns-from-gestation-crates/","tags":[null,null,null,null],"created":"2025-10-23T17:42:41.619+01:00","updated":"2026-01-06T10:37:15.361+00:00"}
 ---
 
-#animal_advocacy 
+
+
 
 - [[Cage free hens\|Cage free hens]]
-- [[Acceptability of Common Farming Practices\|Acceptability of Common Farming Practices]]
+- [[Acceptability of Farming Practices\|Acceptability of Farming Practices]]
 
 - During one hour of observation, [92.6%](https://www.supremecourt.gov/DocketPDF/21/21-468/233565/20220815174931670_Broom%20et%20al.%20amicus%20brief%20-%20Natl%20Pork%20v.%20Ross%20-%20No.%2021-468.pdf) of confined pigs exhibited stereotypies.
 - Sham chewing is one stereotypic behavior that occupies [50-75%](https://pubmed.ncbi.nlm.nih.gov/35565610/) of their waking hours.

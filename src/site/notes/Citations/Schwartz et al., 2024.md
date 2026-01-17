@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/schwartz-et-al-2024/","created":"2025-10-23T17:42:48.027+01:00","updated":"2025-10-23T18:06:08.742+01:00"}
+{"dg-publish":true,"permalink":"/citations/schwartz-et-al-2024/","tags":[null,null,null,null,null,null,null],"created":"2025-10-23T17:42:48.027+01:00","updated":"2025-10-30T23:44:54.262+00:00"}
 ---
 
-#citation #Sinergia_defunding_project #economics #environment 
+
+
 
 - [[Social license to operate in defunding campaigns\|Social license to operate in defunding campaigns]]
 

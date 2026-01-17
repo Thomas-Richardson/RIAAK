@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/how-changing-diets-in-the-global-north-impact-food-security-across-the-world/","tags":["SE_asia"],"created":"2025-10-23T17:42:42.865+01:00","updated":"2025-10-23T18:06:08.643+01:00"}
+{"dg-publish":true,"permalink":"/how-changing-diets-in-the-global-north-impact-food-security-across-the-world/","tags":[null,null],"created":"2025-10-23T17:42:42.865+01:00","updated":"2025-10-30T23:44:53.224+00:00"}
 ---
 
-#mfa_food_sec 
+
+
 - [[MFA Livestock and Food security finished\|MFA Livestock and Food security finished]]
 - 
 In the last section of this report, I discuss the global food security implications of animal source food (ASF) consumption in high income countries (HICs). First, I discuss the possibility that industrial animal agriculture has negatively impacted food security around the world by contributing to climate change. Second, I discuss what will happen to food security as citizens in HICs reduce their consumption of animal products. I discuss the effects on food security in developing countries, but also domestic food security

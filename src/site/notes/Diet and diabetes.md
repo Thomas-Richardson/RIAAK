@@ -1,13 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/diet-and-diabetes/","created":"2025-10-23T17:42:44.190+01:00","updated":"2025-10-23T18:06:08.698+01:00"}
+{"dg-publish":true,"permalink":"/diet-and-diabetes/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:44.190+01:00","updated":"2025-11-07T12:12:09.746+00:00"}
 ---
 
-#health_nutrition  #meat 
+
+
 
 - [[Citations/Schwingshackl et al., 2017b\|Schwingshackl et al., 2017b]]
 - [[Bryant Confidential/CAWF NHS report MOC\|CAWF NHS report MOC]]
 - [[Red and processed meat are bad for you\|Red and processed meat are bad for you]]
-- [[health effects of eggs\|health effects of eggs]]
+- [[Health effects of eggs\|Health effects of eggs]]
 - [[health effects of dairy\|health effects of dairy]]
 - [[health effects of chicken\|health effects of chicken]]
 

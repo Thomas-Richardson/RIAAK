@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/barton-et-al-2011/","created":"2025-10-23T17:42:46.182+01:00","updated":"2025-10-23T18:06:08.924+01:00"}
+{"dg-publish":true,"permalink":"/citations/barton-et-al-2011/","tags":["Note","Type","citation","Health/Nutrition","undefined"],"created":"2025-10-23T17:42:46.182+01:00","updated":"2025-11-04T12:13:06.536+00:00"}
 ---
 
-#citation #health_nutrition 
+
+
 
 https://www.bmj.com/content/343/bmj.d4044.short
 

@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/the-importance-of-small-victories-in-movements/","created":"2025-10-23T17:42:41.780+01:00","updated":"2025-10-23T18:06:08.612+01:00"}
+{"dg-publish":true,"permalink":"/the-importance-of-small-victories-in-movements/","tags":[null,null,null,null],"created":"2025-10-23T17:42:41.780+01:00","updated":"2025-10-30T23:44:53.011+00:00"}
 ---
 
-#movement_building 
+
+
 
 - When Social Change Lab did a [survey of 100+ political scientists and sociologists](https://www.apollosurveys.org/social-change-and-protests/), something that cropped up was the importance of having achievable demands.
 - A lack of wins means you lose activists lose motivation and leave
@@ -13,3 +14,11 @@
 - Now, you might be thinking: "But what about movements like Extinction Rebellion or Occupy Wall Street? They achieved significant impact without highly specific or achievable demands." This is a fair point which I think is worth covering.
 - There's a crucial drawback of these more symbolic goals: these groups often struggle with longevity. In my experience, without concrete wins to sustain motivation, these movements tend to experience a high turnover of volunteers and soon enough, declining participation.
 - Once groups like Extinction Rebellion have done the groundwork of establishing climate change as a key issue in the UK and shifting discourse, Just Stop Oil can step in to achieve some tangible legislative victories.
+
+# AI suggested related notes
+
+These notes appear semantically similar based on Smart Connections embeddings:
+
+- [[When small campaigns against zoos and animal testing labs are useful\|When small campaigns against zoos and animal testing labs are useful]] (similarity: 65.5%)
+- [[social change misc\|social change misc]] (similarity: 61.2%)
+- [[Animal Think Tanks theory of change\|Animal Think Tanks theory of change]] (similarity: 61.1%)

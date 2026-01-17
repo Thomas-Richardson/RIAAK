@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blogs-and-articles/madre-brava-euro-doctors-alarmed-over-meat-consumption-survey/","tags":["health_disease"],"created":"2025-10-23T17:42:47.583+01:00","updated":"2025-10-23T17:42:47.583+01:00"}
+{"dg-publish":true,"permalink":"/blogs-and-articles/madre-brava-euro-doctors-alarmed-over-meat-consumption-survey/","tags":["Health/Disease"],"created":"2025-10-23T17:42:47.583+01:00","updated":"2025-11-04T12:13:13.314+00:00"}
 ---
 
 ## Euro doctors alarmed over meat consumption - survey

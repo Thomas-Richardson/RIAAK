@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/mac-millan-et-al-2024/","created":"2025-10-23T17:42:45.443+01:00","updated":"2025-10-23T18:06:08.853+01:00"}
+{"dg-publish":true,"permalink":"/citations/mac-millan-et-al-2024/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:45.443+01:00","updated":"2025-10-30T23:44:54.097+00:00"}
 ---
 
-#citation #cultivated_meat #farmers 
+
+
 
 MacMillan, T.C., Lewis, K., Dooley, J.J., Morgans, L.C., Sexton, A.E., Ali, M., Allan, S., Argyle, I., Dunsford, I., Goodman, M.K., Lynch, J., Manning, L., Ranawana, V., Rose, D.C., Rothman, R., Sibly, W., Vasilopoulos, A., Wylie, A. (2024). Culture Clash? What cultured meat could mean for UK farming. Transforming UK Food Production. July 2024.
 

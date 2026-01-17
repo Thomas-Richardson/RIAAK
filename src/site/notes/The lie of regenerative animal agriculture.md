@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/the-lie-of-regenerative-animal-agriculture/","tags":["wild_animals"],"created":"2025-10-23T17:42:42.811+01:00","updated":"2025-10-26T17:25:25.143+00:00"}
+{"dg-publish":true,"permalink":"/the-lie-of-regenerative-animal-agriculture/","tags":[null,null,null],"created":"2025-10-23T17:42:42.811+01:00","updated":"2025-10-30T23:44:53.216+00:00"}
 ---
 
-#animal_advocacy #farming 
+
+
 
 - [[Citations/Thompson et al., 2023\|Thompson et al., 2023]]
 ## Reading

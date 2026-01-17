@@ -1,0 +1,12 @@
+---
+{"dg-publish":true,"permalink":"/citations/animal-rising-s-grand-national-protest-social-change-lab/","created":"2025-11-25T14:58:57.391+00:00","updated":"2025-11-25T14:58:57.462+00:00"}
+---
+
+Animal Rising disrupted the 2023 Grand National, the biggest horse racing event in the UK, causing a delayed start to the race and kickstarting a national conversation about society’s relationship with animals. The effect of such disruptive protest tactics on public opinion is currently not well understood. [Social Change Lab](https://www.socialchangelab.org/) assessed the impact of Animal Rising’s Grand National protest on people’s attitudes towards animals (e.g., how acceptable it is to use animals for entertainment/food), towards bans that protect animals (e.g., on factory farming), and towards veganism, by conducting a nationally representative poll before and after the protest. The key analyses related the extent to which people had heard about Animal Rising or the protest to changes (before vs. after the protest) in people’s attitudes towards animals. Some of our key findings include:
+
+*   The protest sparked a national conversation about animal welfare and animal rights: the more that people reported having heard of Animal Rising and their protest, the more they reported thinking about animal welfare/rights issues.
+*   The protest seems to have sparked a sharp increase in sign-ups to take action with Animal Rising and in direct donations to Animal Rising, indicating some positive impacts on movement building and mobilisation for Animal Rising.
+*   However, we observed negative attitudinal effects on several items (e.g. less agreement that society has a broken relationship with animals and needs to change how we treat them; higher agreement that it is acceptable to use animals for entertainment) and no statistically significant effects on others.
+*   Exploratory analyses suggest a degree of polarisation; that is, people with relatively negative pre-existing views towards animals were affected particularly negatively by the protest, whereas people with relatively positive pre-existing views towards animals were affected positively.
+
+Additional follow-ups later this year will reveal to which extent these immediate negative effects persist or change over time as further protest campaigns unfold.

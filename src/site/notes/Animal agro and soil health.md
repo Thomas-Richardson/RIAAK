@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/animal-agro-and-soil-health/","tags":["environment_land"],"created":"2025-10-23T17:42:43.396+01:00","updated":"2025-10-23T17:42:43.396+01:00"}
+{"dg-publish":true,"permalink":"/animal-agro-and-soil-health/","tags":[null,null,null],"created":"2025-10-23T17:42:43.396+01:00","updated":"2025-12-10T12:59:34.335+00:00"}
 ---
 
-#environment_pollution #farming 
+
+
 
 - [[Manure from animal agriculture\|Manure from animal agriculture]]
 - [[Water pollution from animal ag\|Water pollution from animal ag]] 
@@ -19,7 +20,7 @@ One review ([Centeri, 2022](https://www.mdpi.com/2306-5338/9/2/34)) found that w
 - Production of the high grade rock form of phosphorous is concentrated in just a handful of countries, and it is estimated that three quarters of the remaining reserve is in Morocco. 
 - Nitrogen will never be scarce thanks to the [Haber Bosch process](https://en.wikipedia.org/wiki/Haber_process), which enables us to make nitrogen out of thin air, but at considerable energy cost: it consumes around three to five per cent of the world’s annual natural gas output.
 
-## #UK
+## #High_Income_Countries/UK
 [Soils in every region in England](https://www.gov.uk/government/statistics/soil-nutrient-balances-for-the-regions-of-england-2020/soil-nutrient-balances-england-regions-2020#:~:text=Key%20points%20are%3A,seen%20in%20the%20North%20East.) are oversaturated with nitrogen and all but one has a surplus of phosphorus.
 
 # Why is soil important?

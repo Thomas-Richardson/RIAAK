@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/peacock-2023/","created":"2025-10-23T17:42:46.310+01:00","updated":"2025-10-23T18:06:08.933+01:00"}
+{"dg-publish":true,"permalink":"/citations/peacock-2023/","tags":["alternative_proteins","animal_advocacy","citation"],"created":"2025-10-23T17:42:46.310+01:00","updated":"2025-10-31T14:43:31.394+00:00"}
 ---
 
-#citation #animal_advocacy #alternative_proteins 
+
+
 [https://static1.squarespace.com/static/6035868111c9bd46c176042b/t/64dbe1fa1906bb2bc3f3e3f7/1692131835247/Peacock-2023-PTC+%281%29.pdf](https://static1.squarespace.com/static/6035868111c9bd46c176042b/t/64dbe1fa1906bb2bc3f3e3f7/1692131835247/Peacock-2023-PTC+%281%29.pdf)
 
 - [[The price of pb meat alternatives relative to animal meat\|The price of pb meat alternatives relative to animal meat]]

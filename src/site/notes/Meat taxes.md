@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/meat-taxes/","created":"2025-10-23T17:42:48.105+01:00","updated":"2025-10-23T18:06:08.747+01:00"}
+{"dg-publish":true,"permalink":"/meat-taxes/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:48.105+01:00","updated":"2025-11-07T12:01:37.972+00:00"}
 ---
 
-#meat #economics 
+
+
 
 - [[Red and processed meat are bad for you\|Red and processed meat are bad for you]]
 

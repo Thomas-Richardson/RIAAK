@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/citations/lusk-and-tonsor-2016/","created":"2025-10-23T17:42:45.944+01:00","updated":"2025-10-23T18:06:08.911+01:00"}
+{"dg-publish":true,"permalink":"/citations/lusk-and-tonsor-2016/","tags":[null,null,null,null,null,null,null],"created":"2025-10-23T17:42:45.944+01:00","updated":"2025-11-07T12:30:49.834+00:00"}
 ---
 
-#citation #meat #economics #usa 
 
-- [[The economics of meat\|The economics of meat]] 
+
+
+- [[The economics of meat MOC\|The economics of meat MOC]] 
 https://onlinelibrary.wiley.com/doi/full/10.1093/aepp/ppv050
 
 Lusk, J. L., & Tonsor, G. T. (2016). How meat demand elasticities vary with price, income, and product category. _Applied Economic Perspectives and Policy_, _38_(4), 673-711.

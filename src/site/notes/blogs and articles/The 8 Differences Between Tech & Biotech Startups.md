@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blogs-and-articles/the-8-differences-between-tech-and-biotech-startups/","tags":["precision_fermentation","alternative_proteins"],"created":"2025-10-23T17:42:47.591+01:00","updated":"2025-10-23T17:42:47.591+01:00"}
+{"dg-publish":true,"permalink":"/blogs-and-articles/the-8-differences-between-tech-and-biotech-startups/","tags":["alternative_proteins/Precision_Fermentation","alternative_proteins"],"created":"2025-10-23T17:42:47.591+01:00","updated":"2025-11-04T12:18:21.976+00:00"}
 ---
 
 > *“There are many paths to the top of the mountain, but the view is always the same.”*
@@ -69,3 +69,11 @@ The advent of artificial intelligence will no doubt shift norms and best practic
 ![](https://www.goodsignal.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/ff396085-21e2-4e4c-8c44-0335d42573cb_3052x1655.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:790,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:369687,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.goodsignal.com/i/173753817?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fff396085-21e2-4e4c-8c44-0335d42573cb_3052x1655.png%22,%22isProcessing%22:false,%22align%22:null,%22offset%22:false})
 
 *This article was inspired by a longer piece written by [Mark van Zee](https://www.linkedin.com/in/mark-van-zee-089910154/) titled “Biotechnology versus Technology Companies”. We thank him for sharing his insights with us.*
+
+# AI suggested related notes
+
+These notes appear semantically similar based on Smart Connections embeddings:
+
+- [[What Alt proteins can learn from Tesla\|What Alt proteins can learn from Tesla]] (similarity: 57.8%)
+- [[alt proteins and VC funding\|alt proteins and VC funding]] (similarity: 55.8%)
+- [[Misc Strengths and issues of the alt protein sector\|Misc Strengths and issues of the alt protein sector]] (similarity: 55.2%)

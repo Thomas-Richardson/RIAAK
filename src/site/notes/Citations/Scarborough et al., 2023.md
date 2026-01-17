@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/scarborough-et-al-2023/","created":"2025-10-23T17:42:44.800+01:00","updated":"2025-10-23T18:06:08.800+01:00"}
+{"dg-publish":true,"permalink":"/citations/scarborough-et-al-2023/","tags":[null,null],"created":"2025-10-23T17:42:44.800+01:00","updated":"2025-10-31T00:00:29.555+00:00"}
 ---
 
-#citation #environment_misc 
+
+
 
 - [[Citations/Scarborough et al., 2014\|Scarborough et al., 2014]]
 

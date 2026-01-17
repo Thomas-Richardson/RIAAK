@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/water-pollution-from-animal-ag/","created":"2025-10-23T17:42:41.459+01:00","updated":"2025-10-23T18:06:08.598+01:00"}
+{"dg-publish":true,"permalink":"/water-pollution-from-animal-ag/","tags":[null,null,null,null],"created":"2025-10-23T17:42:41.459+01:00","updated":"2025-10-30T23:44:52.939+00:00"}
 ---
 
-#environment_pollution 
+
+
 
 - [[Animal agriculture is a big source of air pollution\|Animal agriculture is a big source of air pollution]]
 - [[Calculating the environmental damage caused by UK factory farms\|Calculating the environmental damage caused by UK factory farms]]

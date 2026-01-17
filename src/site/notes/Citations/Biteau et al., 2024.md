@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/biteau-et-al-2024/","created":"2025-10-23T17:42:44.728+01:00","updated":"2025-10-23T18:06:08.795+01:00"}
+{"dg-publish":true,"permalink":"/citations/biteau-et-al-2024/","tags":["Note","Type","citation","insects","undefined"],"created":"2025-10-23T17:42:44.728+01:00","updated":"2025-10-31T14:42:34.580+00:00"}
 ---
 
-#insects #citation 
+
+
 
 https://www.sciencedirect.com/science/article/pii/S235255092400191X?via%3Dihub
 

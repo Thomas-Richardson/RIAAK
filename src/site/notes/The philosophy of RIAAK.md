@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/the-philosophy-of-riaak/","created":"2025-10-23T17:42:47.233+01:00","updated":"2025-10-23T18:06:08.704+01:00"}
+{"dg-publish":true,"permalink":"/the-philosophy-of-riaak/","tags":["research"],"created":"2025-10-23T17:42:47.233+01:00","updated":"2025-10-30T23:40:02.516+00:00"}
 ---
-
-#pkm #research 
 
 - A core problem of researchers these days is managing knowledge: you read so many papers that remembering everything is impossible.
 - At its core, we all need a place to store our notes. But a modern note taking system is far more than that:
@@ -28,4 +26,12 @@ Citations are notes on papers, reports and occasionally blogs I've read. Anythin
 Micro-content is basically piece of writing by me. They collect together 
 
 - Using AI-embedding driven links
-- 
+-
+
+# AI suggested related notes
+
+These notes appear semantically similar based on Smart Connections embeddings:
+
+- [[RIAAK Home page\|RIAAK Home page]] (similarity: 71.6%)
+- [[RIAAK hits 180 notes\|RIAAK hits 180 notes]] (similarity: 69.0%)
+- [[RIAAK FAQ\|RIAAK FAQ]] (similarity: 67.0%)

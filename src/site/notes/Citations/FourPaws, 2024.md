@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/four-paws-2024/","created":"2025-10-23T17:42:46.415+01:00","updated":"2025-10-23T18:06:08.939+01:00"}
+{"dg-publish":true,"permalink":"/citations/four-paws-2024/","tags":["citation","consumer_research","materials"],"created":"2025-10-23T17:42:46.415+01:00","updated":"2025-12-10T12:56:24.848+00:00"}
 ---
 
-#citation #materials #consumer_attitudes 
+
+
 
 - 
 

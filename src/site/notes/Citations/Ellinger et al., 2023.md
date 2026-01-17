@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/ellinger-et-al-2023/","created":"2025-10-23T17:42:44.412+01:00","updated":"2025-10-23T18:06:08.775+01:00"}
+{"dg-publish":true,"permalink":"/citations/ellinger-et-al-2023/","tags":["Note","Type","citation","Health/Nutrition","Meat","undefined","review"],"created":"2025-11-06T09:41:43.060+00:00","updated":"2025-12-10T12:58:35.625+00:00"}
 ---
 
-#citation #meat #health_nutrition  
+
+
 
 https://link.springer.com/article/10.1007/s00394-023-03220-x#Sec2
 

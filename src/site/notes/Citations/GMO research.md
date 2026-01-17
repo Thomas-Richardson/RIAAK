@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/gmo-research/","created":"2025-10-23T17:42:46.770+01:00","updated":"2025-10-23T18:06:08.956+01:00"}
+{"dg-publish":true,"permalink":"/citations/gmo-research/","tags":["Note","Type","asia","citation","lower_middle_income_countries","undefined"],"created":"2025-10-23T17:42:46.770+01:00","updated":"2025-10-31T14:42:34.596+00:00"}
 ---
 
-#citation #asia #lower_middle_income_countries 
+
+
 
 https://leverfoundation.org/wp-content/uploads/2025/06/PHL-Plant-Based-Food-Consumer-Attitude-Survey.pdf
 

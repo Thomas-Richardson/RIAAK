@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/animal-agriculture-and-biodiversity-loss/","created":"2025-10-23T17:42:47.343+01:00","updated":"2025-10-23T18:06:08.710+01:00"}
+{"dg-publish":true,"permalink":"/animal-agriculture-and-biodiversity-loss/","tags":[null],"created":"2025-10-23T17:42:47.343+01:00","updated":"2025-11-04T12:05:56.873+00:00"}
 ---
 
-#biodiversity 
+
+
 
 - [[The lie of regenerative animal agriculture\|The lie of regenerative animal agriculture]]
 - 
@@ -13,5 +14,5 @@ Of the 28,000 species evaluated to be threatened with extinction on the IUCN Red
 
 - [Meta analysis](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13527): Across all animals, livestock exclusion increased abundance and diversity 
 - [Smallholder farms can be better](https://www.nature.com/articles/s41893-021-00699-2)
-- GFI on how #alternative_proteins [are a biodiversity solution](https://gfi.org/initiatives/biodiversity/?utm_source=reimagining_protein&utm_medium=email&utm_campaign=biodiversity)
+- GFI on how #Alternative_Proteins [are a biodiversity solution](https://gfi.org/initiatives/biodiversity/?utm_source=reimagining_protein&utm_medium=email&utm_campaign=biodiversity)
 - 

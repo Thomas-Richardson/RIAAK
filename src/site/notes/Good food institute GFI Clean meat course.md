@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/good-food-institute-gfi-clean-meat-course/","tags":["animal_advocacy","plant_based_alternative_proteins"],"created":"2025-10-23T17:42:47.789+01:00","updated":"2025-10-23T18:06:08.734+01:00"}
+{"dg-publish":true,"permalink":"/good-food-institute-gfi-clean-meat-course/","tags":["animal_advocacy","Alternative_Proteins/Plant_Based"],"created":"2025-10-23T17:42:47.789+01:00","updated":"2025-11-04T12:15:48.449+00:00"}
 ---
 
 We've only explored 8% of the worlds plant proteins as potential meat sources, or 1% of the 150 crops used in agriculture. GFI have been looking at neglected crops . Candidates need to respond well to gelations, emulsification and stabilisation.
@@ -29,3 +29,11 @@ Most meats contain blends of fats, some are liquid at room temp and some are not
 The cost of cell culture media is the biggest factor in scaling clean meat.
 
 Clean meat can be scaffolded onto plants like jackfruit. We use scaffolds in artificial organs
+
+# AI suggested related notes
+
+These notes appear semantically similar based on Smart Connections embeddings:
+
+- [[Misc Strengths and issues of the alt protein sector\|Misc Strengths and issues of the alt protein sector]] (similarity: 68.2%)
+- [[When It Comes to Meat Alternatives, These Are the Proteins Consumers Like Best\|When It Comes to Meat Alternatives, These Are the Proteins Consumers Like Best]] (similarity: 68.2%)
+- [[Cultivated meat MOC\|Cultivated meat MOC]] (similarity: 67.9%)

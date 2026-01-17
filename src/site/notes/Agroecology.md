@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/agroecology/","created":"2025-10-23T17:42:47.992+01:00","updated":"2025-10-23T18:06:08.741+01:00"}
+{"dg-publish":true,"permalink":"/agroecology/","tags":[null],"created":"2025-10-23T17:42:47.992+01:00","updated":"2025-10-30T23:59:27.845+00:00"}
 ---
 
-#farming 
+
+
 
 The Food and Agriculture Organization (FAO) of the United Nations (UN) is invested in agroecology as a sustainable and socially equitable alternative to industrialised farming practices.
 

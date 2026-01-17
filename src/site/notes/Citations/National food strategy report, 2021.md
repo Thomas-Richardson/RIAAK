@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/national-food-strategy-report-2021/","created":"2025-10-23T17:42:46.345+01:00","updated":"2025-10-23T18:06:08.935+01:00"}
+{"dg-publish":true,"permalink":"/citations/national-food-strategy-report-2021/","tags":["citation","Health/Nutrition","High_Income_Countries/UK"],"created":"2025-10-23T17:42:46.345+01:00","updated":"2025-12-10T12:59:34.439+00:00"}
 ---
 
-#citation #health_nutrition #uk
+
+
 
 [The National Food Strategy - The Plan](https://www.nationalfoodstrategy.org/)
 

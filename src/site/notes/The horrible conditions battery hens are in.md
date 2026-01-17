@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/the-horrible-conditions-battery-hens-are-in/","created":"2025-10-23T17:42:48.001+01:00","updated":"2025-10-26T00:57:31.878+01:00"}
+{"dg-publish":true,"permalink":"/the-horrible-conditions-battery-hens-are-in/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:48.001+01:00","updated":"2025-10-30T23:44:53.827+00:00"}
 ---
 
-#chickens #chickens  #eggs 
+
+
 
 from [Do better cages or cage-free environments really improve the lives of hens? - Our World in Data](https://ourworldindata.org/do-better-cages-or-cage-free-environments-really-improve-the-lives-of-hens)
 

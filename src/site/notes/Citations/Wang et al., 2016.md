@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/wang-et-al-2016/","created":"2025-10-23T17:42:45.904+01:00","updated":"2025-10-23T18:06:08.909+01:00"}
+{"dg-publish":true,"permalink":"/citations/wang-et-al-2016/","tags":[null,null,null,null,null,null,null],"created":"2025-10-23T17:42:45.904+01:00","updated":"2025-10-30T23:44:54.146+00:00"}
 ---
 
-#citation #meat  #health_nutrition #red_meat 
+
+
 
 - [[Red and processed meat and CVD\|Red and processed meat and CVD]]
 - [[Red and processed meat are bad for you\|Red and processed meat are bad for you]]

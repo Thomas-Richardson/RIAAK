@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/citations/rodriguez-lopez-et-al-2025/","created":"2025-12-10T18:25:56.156+00:00","updated":"2025-12-10T18:25:57.051+00:00"}
+---
+
+## Abstract
+Water and manure management from industrial poultry and swine farms in Yucatan, Mexico, is driving socioenvironmental conflicts due to policies that largely ignore the karstic landscape’s limited capacity to recycle manure nutrients and prevent the pollution of groundwater, the only freshwater source in the region. Mexico’s trade agreements favor the access to export markets and conditions for rapid industrial farm expansion. According to an analysis of the secondary information on industrial swine and poultry production in 21 municipalities, 11,559 metric tons of excreted nitrogen was generated in 2020. We estimate that 85% of this nitrogen remains in a reactive form and pollutes the environment. An open, evidence-based dialog among stakeholders is needed on water and manure management policies and strategies to ensure sustainability and equity.

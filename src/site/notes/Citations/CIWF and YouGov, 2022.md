@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/ciwf-and-you-gov-2022/","created":"2025-10-23T17:42:45.034+01:00","updated":"2025-10-23T18:06:08.812+01:00"}
+{"dg-publish":true,"permalink":"/citations/ciwf-and-you-gov-2022/","tags":["Environment/GHG","citation","factory_farming"],"created":"2025-10-23T17:42:45.034+01:00","updated":"2025-10-31T14:43:31.355+00:00"}
 ---
 
-#citation #factory_farming #environment_ghg 
+
+
 
 https://commercial.yougov.com/rs/464-VHH-988/images/World-framing-results
 

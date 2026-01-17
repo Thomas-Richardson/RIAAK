@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/red-and-processed-meat-and-cvd/","created":"2025-10-23T17:42:42.375+01:00","updated":"2025-10-23T18:06:08.632+01:00"}
+{"dg-publish":true,"permalink":"/red-and-processed-meat-and-cvd/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:42.375+01:00","updated":"2026-01-13T13:41:28.662+00:00"}
 ---
 
-#diet #health_nutrition #red_meat
-
+- [[Red and processed meat are bad for you\|Red and processed meat are bad for you]] 
 - [[plant based diets and CVD\|plant based diets and CVD]] 
 - [[red and processed  meat and cancer\|red and processed  meat and cancer]]
 - [[Diet and diabetes\|Diet and diabetes]]

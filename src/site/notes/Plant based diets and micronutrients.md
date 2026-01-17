@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/plant-based-diets-and-micronutrients/","tags":["#alternative_proteins","#health_nutrition"],"created":"2025-10-23T17:42:42.648+01:00","updated":"2025-10-23T17:42:42.648+01:00"}
+{"dg-publish":true,"permalink":"/plant-based-diets-and-micronutrients/","tags":["#alternative_proteins","#Health/Nutrition"],"created":"2025-10-23T17:42:42.648+01:00","updated":"2025-11-04T12:13:06.860+00:00"}
 ---
 
 - [[Citations/Leonard et al., 2024\|Leonard et al., 2024]]: Systematic review of literature between 2011 and 2022. They found that shifts towards environmentally friendly diets (i.e. PB ones) was often associated with lower levels Zinc, Calcium, B12 and Vit D, but higher levels of iron and folate.

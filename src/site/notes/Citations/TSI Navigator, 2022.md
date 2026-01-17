@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/tsi-navigator-2022/","created":"2025-10-23T17:42:44.653+01:00","updated":"2025-10-23T18:06:08.789+01:00"}
+{"dg-publish":true,"permalink":"/citations/tsi-navigator-2022/","tags":["asia","citation","Bryant/Project/good_growth_social_listening"],"created":"2025-10-23T17:42:44.653+01:00","updated":"2025-11-04T12:12:37.141+00:00"}
 ---
 
-#asia #good_growth_social_listening #citation
+
+
 
 https://b9193735-1610-4074-923d-3832f64c744f.filesusr.com/ugd/d001e9_21766101d7a3485793ab0f2743662c3d.pdf
 

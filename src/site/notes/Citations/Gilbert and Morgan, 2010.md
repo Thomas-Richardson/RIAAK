@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/gilbert-and-morgan-2010/","created":"2025-10-23T17:42:46.934+01:00","updated":"2025-10-23T18:06:08.964+01:00"}
+{"dg-publish":true,"permalink":"/citations/gilbert-and-morgan-2010/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:46.934+01:00","updated":"2025-10-30T23:44:54.258+00:00"}
 ---
 
-#citation  #economics #meat 
+
+
 
 - [[UK Meat prices have risen faster than prices of pb alts in recent years\|UK Meat prices have risen faster than prices of pb alts in recent years]]
 

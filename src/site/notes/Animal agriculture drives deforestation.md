@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/animal-agriculture-drives-deforestation/","created":"2025-10-23T17:42:42.382+01:00","updated":"2025-10-23T18:06:08.632+01:00"}
+{"dg-publish":true,"permalink":"/animal-agriculture-drives-deforestation/","tags":[null,null],"created":"2025-10-23T17:42:42.382+01:00","updated":"2025-10-30T23:59:27.758+00:00"}
 ---
 
-#environment_land  #cows 
+
+
 
 - [[Citations/Pendrill et al., 2019\|Pendrill et al., 2019]]
 - See also https://ourworldindata.org/what-are-drivers-deforestation

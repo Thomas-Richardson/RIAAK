@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/meat-free-mondays/","created":"2025-10-23T17:42:43.070+01:00","updated":"2025-10-23T18:06:08.657+01:00"}
+{"dg-publish":true,"permalink":"/meat-free-mondays/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:43.070+01:00","updated":"2025-11-04T12:15:34.359+00:00"}
 ---
 
-#veganism #behaviour_change 
+
+
 
 “Meat Free Monday” has been encouraging people to have at least one meat-free day per week since 2009 (www.meatfreemondays.com).
 
@@ -38,7 +39,7 @@ When the Norwegian military tried to introduce Meatless Monday's in 2013 it met 
 
 Doing it on Monday is a good idea because people are more likely to contemplate healthier choices at the start of the week ([here](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/1761921) and [here](https://www.sciencedirect.com/science/article/abs/pii/S0749379714000993) both unread)
 
-Research idea: replicate this[^2] but for meat free Mondays or Veganuary #project_idea
+Research idea: replicate this[^2] but for meat free Mondays or Veganuary #Bryant/Project/Idea
 Another idea: Environmental impact of meat free Mondays compared to eating local.
 
 [[Citations/Lombardini & Lankoski (2013)\|Lombardini & Lankoski (2013)]] discusses a mandatory Meat free Monday implemented in Helsinki schools

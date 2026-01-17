@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/plant-based-diets-and-cvd/","created":"2025-10-23T17:42:43.081+01:00","updated":"2025-10-23T18:06:08.657+01:00"}
+{"dg-publish":true,"permalink":"/plant-based-diets-and-cvd/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:43.081+01:00","updated":"2025-10-30T23:44:53.342+00:00"}
 ---
 
-#veganism #health_nutrition
+
+
 
 - [[Red and processed meat and CVD\|Red and processed meat and CVD]]
 - [[The cost to the NHS of diabetes, CVD, cancer and obesity\|The cost to the NHS of diabetes, CVD, cancer and obesity]]

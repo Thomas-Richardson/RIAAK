@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/are-rural-communities-dependent-on-animal-agriculture-for-jobs/","created":"2025-10-23T17:42:43.437+01:00","updated":"2025-10-23T18:06:08.669+01:00"}
+{"dg-publish":true,"permalink":"/are-rural-communities-dependent-on-animal-agriculture-for-jobs/","tags":["Economics/jobs"],"created":"2025-10-23T17:42:43.437+01:00","updated":"2025-11-06T16:12:51.774+00:00"}
 ---
-
-#farmers 
 
 - [[Farming jobs lost to to industrialisation\|Farming jobs lost to to industrialisation]]
 - [[CAFOS reduce employment and provide low quality jobs\|CAFOS reduce employment and provide low quality jobs]]
+- [[Citations/Vittis et al., 2025\|Vittis et al., 2025]]
 
 ## UK
 No, while rural areas support around half a million businesses, most are unrelated to farming. Small and micro enterprises (such as pubs, cafés, hospitality, arts and education) employed about 70% of the workers in rural

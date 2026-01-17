@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/jakobsen-et-al-2011/","created":"2025-10-23T17:42:46.669+01:00","updated":"2025-10-23T18:06:08.952+01:00"}
+{"dg-publish":true,"permalink":"/citations/jakobsen-et-al-2011/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:46.669+01:00","updated":"2025-10-30T23:44:54.230+00:00"}
 ---
 
-#fish #citation 
+
+
 
 Jakobsen, M. U., Due, K. M., Dethlefsen, C., Halkjaer, J., Holst, C., Forouhi, N. G., ... & Overvad, K. (2012). Fish consumption does not prevent increase in waist circumference in European women and men. _British journal of nutrition_, _108_(5), 924-931.
 

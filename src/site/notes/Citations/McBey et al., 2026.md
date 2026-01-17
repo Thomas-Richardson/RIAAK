@@ -1,0 +1,12 @@
+---
+{"dg-publish":true,"permalink":"/citations/mc-bey-et-al-2026/","created":"2025-11-12T15:51:21.384+00:00","updated":"2025-11-12T15:51:21.599+00:00"}
+---
+
+## Highlights
+* Four distinct segments to meat reduction identified using latent class analysis.
+* Policies targeting cost and appeal of plant-based foods rated as most effective across all groups.
+* Many open to reducing meat, but few show significant behaviour change.
+* Universal policies more effective than targeted interventions.
+
+## Abstract
+Meat consumption in many high-income countries exceeds planetary boundaries, with red and processed meat often eaten at levels linked to health risks. This study examined how attitudes to meat consumption relate to the perceived effectiveness of reduction policies and interventions. A survey of 1590 adults in Scotland, using the Capabilities, Opportunities, and Motivations of Behaviour (COM-B) framework, assessed meat consumption attitudes and behaviours. Participants completed a Best-Worst Scaling (BWS) task to rank the effectiveness of 25 potential policies and interventions. Latent class analysis identified four attitudinal subgroups: Resistant, Ambivalent, Open, and Active meat reducers. Meat was consumed on average five days per week. 51.1 % reported no intention to change their consumption, while 42.7 % were open to, or actively reducing intake. The frequency of meat consumption was lower in the Active group. Across the sample and classes, measures that lower the price of plant-based options and improve their appeal, variety, and availability were rated most effective, while information-only approaches (for example, flyers, weekly messages, celebrity endorsement) were consistently rated lowest. Class differences were modest; for example, the Resistant group rated fiscal and legislative levers slightly higher. These results support population-level changes to the food environment, especially pricing support and improving the appeal and choice of plant-based foods, over information-only strategies. COM-B segmentation can inform how these measures are framed for different audiences. Because ratings reflect perceived rather than tested effectiveness, they should guide policy and intervention prioritisation and design alongside experimental and implementation evidence.

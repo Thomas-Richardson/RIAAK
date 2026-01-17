@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/prophetic-promotion/","created":"2025-10-23T17:42:43.868+01:00","updated":"2025-10-23T18:06:08.681+01:00"}
+{"dg-publish":true,"permalink":"/prophetic-promotion/","tags":[null,null,null,null],"created":"2025-10-23T17:42:43.868+01:00","updated":"2025-10-30T23:44:53.548+00:00"}
 ---
 
-#animal_advocacy 
+
+
 
 - [[Protests\|Protests]] 
 

@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/sustain-2024/","created":"2025-10-23T17:42:44.607+01:00","updated":"2025-10-23T18:06:08.787+01:00"}
+{"dg-publish":true,"permalink":"/citations/sustain-2024/","tags":["citation","Environment/Pollution","factory_farming","High_Income_Countries/UK"],"created":"2025-10-23T17:42:44.607+01:00","updated":"2025-12-10T12:59:34.486+00:00"}
 ---
 
-#citation #factory_farming #uk #environment_pollution 
+
+
 
 https://www.foodfortheplanet.org.uk/stink-or-swim/
 

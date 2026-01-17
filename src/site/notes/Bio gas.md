@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/bio-gas/","created":"2025-10-23T17:42:42.883+01:00","updated":"2025-10-23T18:06:08.645+01:00"}
+{"dg-publish":true,"permalink":"/bio-gas/","tags":[null,null,null],"created":"2025-10-23T17:42:42.883+01:00","updated":"2025-10-30T23:59:27.771+00:00"}
 ---
 
-#environment_ghg #environment_pollution  #factory_farming 
+
+
 
 - [[Manure from animal agriculture\|Manure from animal agriculture]] 
 

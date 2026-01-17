@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/the-small-body-problem-might-be-a-positive-sign/","created":"2025-10-23T17:42:41.919+01:00","updated":"2025-10-26T00:57:31.884+01:00"}
+{"dg-publish":true,"permalink":"/the-small-body-problem-might-be-a-positive-sign/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:41.919+01:00","updated":"2025-10-30T23:44:53.051+00:00"}
 ---
 
-#fish #chickens 
+
+
 
 - [[The small body problem\|The small body problem]]
 

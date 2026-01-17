@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/feeding-the-world-nutrition-over-calories-plants-over-animals/","tags":["animal_feed"],"created":"2025-10-23T17:42:47.258+01:00","updated":"2025-10-23T19:18:51.142+01:00"}
+{"dg-publish":true,"permalink":"/feeding-the-world-nutrition-over-calories-plants-over-animals/","tags":[null,null,null],"created":"2025-10-23T17:42:47.258+01:00","updated":"2025-10-30T23:44:53.644+00:00"}
 ---
 
-#mfa_food_sec #health_nutrition 
+
+
 
 - [[Solutions to micronutrient deficiencies in LMICs\|Solutions to micronutrient deficiencies in LMICs]] 
 

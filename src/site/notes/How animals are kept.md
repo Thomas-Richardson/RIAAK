@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/how-animals-are-kept/","created":"2025-10-23T17:42:41.298+01:00","updated":"2025-10-23T18:06:08.592+01:00"}
+{"dg-publish":true,"permalink":"/how-animals-are-kept/","tags":[null,null,null,null],"created":"2025-10-23T17:42:41.298+01:00","updated":"2025-10-30T23:44:52.913+00:00"}
 ---
 
-#farming 
+
+
 
 ## Pigs
 - Can be bred outdoors

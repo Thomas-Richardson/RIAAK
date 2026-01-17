@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/schulze-et-al-2023/","created":"2025-10-23T17:42:44.865+01:00","updated":"2025-10-23T18:06:08.802+01:00"}
+{"dg-publish":true,"permalink":"/citations/schulze-et-al-2023/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:44.865+01:00","updated":"2025-10-30T23:44:54.019+00:00"}
 ---
 
-#citation #health_nutrition #meat 
+
+
 
 https://link.springer.com/article/10.1007/s00394-023-03234-5
 

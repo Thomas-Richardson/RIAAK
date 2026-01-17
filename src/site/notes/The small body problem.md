@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/the-small-body-problem/","tags":["animal_feed"],"created":"2025-10-23T17:42:47.875+01:00","updated":"2025-10-23T19:18:51.187+01:00"}
+{"dg-publish":true,"permalink":"/the-small-body-problem/","tags":["fish","chickens","eggs","Environment/GHG","Health/Nutrition"],"created":"2025-10-23T17:42:47.875+01:00","updated":"2025-12-10T12:59:35.330+00:00"}
 ---
-
-#fish #eggs #environment_misc #health_nutrition 
 
 - [[Most fishing is unsustainable\|Most fishing is unsustainable]]
 - [[The Small Body Problem Challenges and Considerations for Animal Advocates\|The Small Body Problem Challenges and Considerations for Animal Advocates]]
@@ -12,7 +10,7 @@
 ## What is the small body problem?
 The small body problem occurs when we convince people to shift their diet from red meat to fish and poultry (and occasionally, insects). Though this reduces GHG emissions and probably makes them healthier, it results in far more animals dying. This is because fish and chickens have small bodies and as such provide relatively little meat per animal killed. A cow can feed a village, whereas a single bucket of chicken wings is a lot of dead chickens. As such, while the shift is positive from a health and environment point of view, it could be disastrous from an animal suffering point of view.
 
-Fish, chicken and [[health effects of eggs\|eggs]] are not that bad for the environment and are may not that bad for your health. This raises the uncomfortable conclusion that, if you don't care about animal suffering, most health and environmental effects of animal agriculture could be offset by a move from beef and pork to chicken and fish. Unfortunately, this is also likely to be an easier change to make than going plant-based. As such we need to have arguments ready to respond to this.
+Fish, chicken and [[Health effects of eggs\|eggs]] are not that bad for the environment and are may not that bad for your health. This raises the uncomfortable conclusion that, if you don't care about animal suffering, most health and environmental effects of animal agriculture could be offset by a move from beef and pork to chicken and fish. Unfortunately, this is also likely to be an easier change to make than going plant-based. As such we need to have arguments ready to respond to this.
 
 
 ![Pasted image 20240611113649.png|400](/img/user/Pasted%20image%2020240611113649.png)
@@ -60,7 +58,7 @@ We need to reframe the debate to "If you care about animal suffering, the enviro
 - [This study](https://www.science.org/doi/10.1126/sciadv.add6681) argues that replacing beef with chicken increases zoonosis risk.
 ## Environment
 - [[Citations/Willits-Smith et al., 2020\|Willits-Smith et al., 2020]] finds that whilst switching from beef to chicken does reduce GHG, going veggie even more.
-- For the #uk we can focus on [pollution of rivers](https://www.theguardian.com/environment/2023/may/30/river-wye-has-health-status-downgraded-by-natural-england-after-wildlife-assessment)
+- For the #High_Income_Countries/UK we can focus on [pollution of rivers](https://www.theguardian.com/environment/2023/may/30/river-wye-has-health-status-downgraded-by-natural-england-after-wildlife-assessment)
 - Deforestation: [[Citations/Ritchie, 2021\|Ritchie, 2021]]
 
 ## Alt proteins as the solution

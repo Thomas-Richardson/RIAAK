@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/behavioural-insights-team-2020/","created":"2025-10-23T17:42:46.089+01:00","updated":"2025-10-23T18:06:08.920+01:00"}
+{"dg-publish":true,"permalink":"/citations/behavioural-insights-team-2020/","tags":["Alternative_Proteins","behaviour_change","citation","psychology"],"created":"2025-10-23T17:42:46.089+01:00","updated":"2025-11-04T12:05:56.911+00:00"}
 ---
 
-#psychology #citation #alternative_proteins #behaviour_change
+
+
 
 - [[Strategies for reducing animal product consumption\|Strategies for reducing animal product consumption]]
 - 

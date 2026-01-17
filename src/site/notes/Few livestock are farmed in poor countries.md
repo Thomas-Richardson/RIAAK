@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/few-livestock-are-farmed-in-poor-countries/","created":"2025-10-23T17:42:42.704+01:00","updated":"2025-10-23T18:06:08.637+01:00"}
+{"dg-publish":true,"permalink":"/few-livestock-are-farmed-in-poor-countries/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:42.704+01:00","updated":"2025-10-30T23:44:53.190+00:00"}
 ---
 
-#farming #lower_middle_income_countries
+
+
 
 - [[How many animals are farmed and slaughtered each year\|How many animals are farmed and slaughtered each year]]
 

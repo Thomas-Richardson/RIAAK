@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/maki-et-al-2012/","created":"2025-10-23T17:42:45.636+01:00","updated":"2025-10-23T18:06:08.893+01:00"}
+{"dg-publish":true,"permalink":"/citations/maki-et-al-2012/","tags":[null,null,null,null,null,null,null,null,null],"created":"2025-10-23T17:42:45.636+01:00","updated":"2025-10-30T23:44:54.121+00:00"}
 ---
 
-#citation #meat #health_nutrition  #chickens #fish #cows 
+
+
 
 https://pubmed.ncbi.nlm.nih.gov/22836072/
 

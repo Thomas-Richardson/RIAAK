@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/alt-proteins-are-underfunded/","created":"2025-10-23T17:42:41.739+01:00","updated":"2025-10-23T18:06:08.611+01:00"}
+{"dg-publish":true,"permalink":"/alt-proteins-are-underfunded/","tags":[null,null],"created":"2025-10-23T17:42:41.739+01:00","updated":"2025-10-30T23:56:12.471+00:00"}
 ---
 
-#environment_ghg  #alternative_proteins 
+
+
 
 GFI estimated in 2023 that [[food and meat accounts for a large proportion of greenhouse gas emissions\|Meat contributes ~15% of global GHG]] but alt proteins account for less than 0.5% of climate financing. See also [[Alternative proteins are better for the environment\|Alternative proteins are better for the environment]]
 

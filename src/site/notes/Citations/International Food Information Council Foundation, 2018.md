@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/international-food-information-council-foundation-2018/","created":"2025-10-23T17:42:46.392+01:00","updated":"2025-10-23T18:06:08.937+01:00"}
+{"dg-publish":true,"permalink":"/citations/international-food-information-council-foundation-2018/","tags":["citation","consumer_research","dairy","labelling"],"created":"2025-10-23T17:42:46.392+01:00","updated":"2025-12-10T12:56:24.860+00:00"}
 ---
 
-#citation #dairy #consumer_attitudes #labelling 
+
+
 
 [[PB food labels are not confusing to consumers\|PB food labels are not confusing to consumers]]
 

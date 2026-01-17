@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/citations/fechner-et-al-2025/","created":"2025-11-05T12:55:38.927+00:00","updated":"2025-11-05T12:55:39.036+00:00"}
+---
+
+Eating less meat when dining out can help mitigate climate change. Plant-based meats can facilitate the transition to a more environmentally sustainable tourism sector. However, uptake of these products remains low. Building on the capability-opportunity-motivation behaviour model, this study identifies the main reasons for the general population of restaurant patrons to reject plant-based meats: they prefer meat and traditional vegetable dishes; they are concerned about not enjoying plant-based meat dishes; they perceive plant-based meat dishes as too expensive. Accounting for heterogeneity among diners leads to the identification of six distinct consumer segments, which differ in their reasons for not ordering plant-based meat dishes in restaurants. From these empirical insights, we derive recommendations for tourism professionals on how to entice specific consumer segments to order plant-based meat dishes and identify future avenues for research.

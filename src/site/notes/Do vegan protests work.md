@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/do-vegan-protests-work/","created":"2025-10-23T17:42:47.130+01:00","updated":"2025-10-23T18:06:08.700+01:00"}
+{"dg-publish":true,"permalink":"/do-vegan-protests-work/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:47.130+01:00","updated":"2025-10-30T23:44:53.623+00:00"}
 ---
 
-#veganism #behaviour_change #politics 
+
+
 
 - master::[[The radical flank effect in protests\|The radical flank effect in protests]]
 - master::[[Protests\|Protests]]

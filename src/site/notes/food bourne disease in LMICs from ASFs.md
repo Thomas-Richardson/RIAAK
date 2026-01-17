@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/food-bourne-disease-in-lmi-cs-from-as-fs/","created":"2025-10-23T17:42:42.255+01:00","updated":"2025-10-23T18:06:08.627+01:00"}
+{"dg-publish":true,"permalink":"/food-bourne-disease-in-lmi-cs-from-as-fs/","tags":["food_safety","Health/Disease"],"created":"2025-11-11T23:26:04.347+00:00","updated":"2025-11-11T23:26:04.348+00:00"}
 ---
-
-#mfa_food_sec #health_disease 
 
 - [[Factory farmed animals cause pandemics and zoonotic disease\|Factory farmed animals cause pandemics and zoonotic disease]]
 

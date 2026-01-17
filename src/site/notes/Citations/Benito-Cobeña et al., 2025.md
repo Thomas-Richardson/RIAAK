@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/citations/benito-cobena-et-al-2025/","created":"2025-11-19T14:18:45.477+00:00","updated":"2025-11-19T14:18:45.715+00:00"}
+---
+
+## Highlights
+* Sixteen environmental indicators and a weighted composite score were assessed.
+* The successive Catalan school meal guidelines reduced their environmental impact.
+* Trade-offs were found between healthy recommendations and environmental indicators.
+* Moderating not only meat but also fish is necessary for environmental reasons.
+* This study provides a framework for healthy and sustainable dietary guidelines.
+
+## Abstract
+Transitioning to healthy diets with low environmental impact is crucial for achieving sustainable food systems and reducing health issues. Promoting healthy dietary habits and raising awareness are key actions in this shift, with governments playing a significant role through public procurement and food-based dietary guidelines. Specifically, school dietary guidelines can foster sustainable eating behaviors among children. This article examines Catalonia, a North-East Spanish region, where the Public Health Agency (ASPCAT) has issued school dietary guidelines since 2005, updated in 2012, 2017, and 2020. The goal of this study was to assess the progressive changes in the environmental impacts of school menus for children aged 7–12 years following the four versions of ASPCAT guidelines. Additionally, it aimed to identify trade-offs among various environmental metrics, pinpoint food groups contributing most to environmental impacts, and propose strategies to further reduce the environmental impact of school meals. The Life Cycle Assessment (LCA) methodology was applied. Inventories were obtained from Agribalyse v3.2 database, and characterized through sixteen individual environmental indicators and the composite one from the Product Environmental Footprint v3.1 methodology. Results showed a decrease in environmental impacts with each guideline update. Menus aligned with the 2020 guidelines had 23 % lower environmental impacts compared to those based on the 2017 guidelines, and 40 % lower than those based on the 2005 guidelines. All individual environmental indicators showed reductions in 2020 compared to 2005, ranging from 5 % to 52 %. Second dishes, mainly meat and fish, contributed most to environmental impacts. Replacing meat and fish with plant-based proteins, combined with a more diversified cereal intake, could reduce dietary environmental impacts by approximately 50 %. By identifying major contributors and suggesting potential improvements, our findings can contribute to the revision of the guidelines of Spain for healthy and sustainable school meals.

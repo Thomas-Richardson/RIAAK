@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/the-plant-based-universities-campaign/","created":"2025-10-23T17:42:41.602+01:00","updated":"2025-10-23T18:06:08.605+01:00"}
+{"dg-publish":true,"permalink":"/the-plant-based-universities-campaign/","tags":[null,null,null,null],"created":"2025-10-23T17:42:41.602+01:00","updated":"2025-10-30T23:44:52.974+00:00"}
 ---
 
-#institutional_change 
+
+
 
 - [[Institutional Change\|Institutional Change]]
 - [[Plant-based hospitals\|Plant-based hospitals]]

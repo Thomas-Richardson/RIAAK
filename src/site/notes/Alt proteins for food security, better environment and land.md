@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/alt-proteins-for-food-security-better-environment-and-land/","created":"2025-10-23T17:42:47.731+01:00","updated":"2025-10-23T18:06:08.731+01:00"}
+{"dg-publish":true,"permalink":"/alt-proteins-for-food-security-better-environment-and-land/","tags":[null,null,null,null,null,"Economics/jobs"],"created":"2025-10-23T17:42:47.731+01:00","updated":"2025-11-06T18:30:30.389+00:00"}
 ---
 
-#environment_land #environment_ghg #alternative_proteins #lower_middle_income_countries #food_security 
+
+
 
 A GFI factsheet
 ## The World Bank (May 2024)

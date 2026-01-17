@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/is-pastoralism-the-solution-to-the-problems-food-security-and-animal-agriculture/","tags":["animal_feed - environment_land"],"created":"2025-10-23T17:42:43.723+01:00","updated":"2025-10-23T19:18:51.153+01:00"}
+{"dg-publish":true,"permalink":"/is-pastoralism-the-solution-to-the-problems-food-security-and-animal-agriculture/","tags":[null,null,"Environment/Land"],"created":"2025-10-23T17:42:43.723+01:00","updated":"2025-11-04T12:10:04.291+00:00"}
 ---
 
-#mfa_food_sec 
+
+
 
 More reading here, didn't have enough time to work this into the review: https://collections.unu.edu/eserv/UNU:8319/stavi_etal_2022_final.pdf
 ## Advantages of pastoralism

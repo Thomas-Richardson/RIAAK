@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/hodson-and-earle-2018/","created":"2025-10-23T17:42:46.296+01:00","updated":"2025-10-23T18:06:08.932+01:00"}
+{"dg-publish":true,"permalink":"/citations/hodson-and-earle-2018/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:46.296+01:00","updated":"2025-10-30T23:44:54.197+00:00"}
 ---
 
-#citation #politics #animal_advocacy 
+
+
 
 [Conservatism predicts lapses from vegetarian/vegan diets to meat consumption (through lower social justice concerns and social support) - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0195666316308923) 
 

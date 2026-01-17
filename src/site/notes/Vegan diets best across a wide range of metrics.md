@@ -1,10 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/vegan-diets-best-across-a-wide-range-of-metrics/","created":"2025-10-23T17:42:42.004+01:00","updated":"2025-10-23T18:06:08.619+01:00"}
+{"dg-publish":true,"permalink":"/vegan-diets-best-across-a-wide-range-of-metrics/","tags":[null,null,null,null],"created":"2025-10-23T17:42:42.004+01:00","updated":"2025-10-30T23:44:53.112+00:00"}
 ---
 
-#veganism 
+
+
 
 https://www.sciencedirect.com/science/article/pii/S0048969725009490
 
 Food production and dietary patterns play a central role in the myriad interactions among human, animal, and environmental health, emphasising the need for a One Health approach, and this study aims to evaluate dietary patterns within this framework. A cross-sectional dietary survey of adults was undertaken (2021) with a sample size of 957 respondents, representative of the population of Ireland. Subsequently, a farm-to-fork life cycle assessment (LCA) was employed to assess nine human health and environmental impacts (fine particulate matter formation, freshwater and marine ecotoxicity and eutrophication, human carcinogenic and non-carcinogenic toxicity and terrestrial acidification and ecotoxicity) across thirteen distinct dietary patterns: total population, rural, urban, omnivore, flexitarian, pescatarian, vegetarian, vegan, ‘meat-focused’, ‘dairy/ovo-focused’, ‘vegetable-focused’, ‘seafood-focused’, and ‘potato-focused’, employing the daily weight of consumed food (g/per capita/day) as the functional unit. Results indicate the ‘meat-focused’ diet exhibited the highest impact for fine particulate matter formation (8.00 × 10−3 kg PM2.5 eq person−1 day−1), marine eutrophication (6.60 × 10−3 kg N eq person−1 day−1), and terrestrial acidification (0.054 kg SO2 eq person−1 day−1). The ‘seafood-focused’ diet had the highest impact on freshwater (0.056 kg 1,4-DCB person−1 day−1) and marine ecotoxicity (0.069 kg 1,4-DCB person−1 day−1), freshwater eutrophication (8.36 × 10−4 kg P eq person−1 day−1), and human carcinogenic toxicity (0.144 kg 1,4-DCB person−1 day−1). In comparison, the ‘potato-focused’ diet exhibited the highest human non-carcinogenic (6.87 kg 1,4-DCB person−1 day−1) and terrestrial ecotoxicity (2.01 kg 1,4-DCB person−1 day−1). Transitioning from the “mean” diet to a vegan diet showed the highest percent decrease across all nine impacts (60.4 % - 107.3 %), followed by the ‘vegetable-focused’ diet (28.5 % - 66.2 %). Findings indicate adopting sustainable diets—’vegetable-focused’, vegetarian, and vegan—can improve human, environmental, and animal health; however, trade-offs should be considered. Effective consumer communication and policies can enhance awareness of the interconnectedness of diets within the One Health framework, supporting both environmental and health goals.
 
+# AI suggested related notes
+
+These notes appear semantically similar based on Smart Connections embeddings:
+
+- [[Going vegan is good for the environment\|Going vegan is good for the environment]] (similarity: 73.9%)
+- [[Positive health effects of going veggie or vegan\|Positive health effects of going veggie or vegan]] (similarity: 72.3%)
+- [[Citations/Scarborough et al., 2023\|Scarborough et al., 2023]] (similarity: 70.8%)

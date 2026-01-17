@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/scarborough-et-al-2014/","created":"2025-10-23T17:42:46.476+01:00","updated":"2025-10-23T18:06:08.942+01:00"}
+{"dg-publish":true,"permalink":"/citations/scarborough-et-al-2014/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:46.476+01:00","updated":"2025-10-31T14:43:31.397+00:00"}
 ---
 
-#citation #environment_misc #meat #veganism #uk 
+
+
 
 - [[Going vegan is good for the environment\|Going vegan is good for the environment]]
 - A much smaller, UK based version of [[Citations/Scarborough et al., 2023\|Scarborough et al., 2023]]

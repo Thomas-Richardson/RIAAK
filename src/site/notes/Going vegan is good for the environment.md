@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/going-vegan-is-good-for-the-environment/","created":"2025-10-23T17:42:44.163+01:00","updated":"2025-10-23T18:06:08.697+01:00"}
+{"dg-publish":true,"permalink":"/going-vegan-is-good-for-the-environment/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:44.163+01:00","updated":"2025-10-30T23:44:53.605+00:00"}
 ---
 
-#veganism  #environment_misc 
+
+
 
 - A milder version of this argument: [[Modest meat reduction can have significant environmental benefits\|Modest meat reduction can have significant environmental benefits]] 
 - [[vegan pets could be much better for the environment\|vegan pets could be much better for the environment]]

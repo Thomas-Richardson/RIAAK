@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/vegan-pets-could-be-much-better-for-the-environment/","created":"2025-10-23T17:42:43.670+01:00","updated":"2025-10-23T18:06:08.673+01:00"}
+{"dg-publish":true,"permalink":"/vegan-pets-could-be-much-better-for-the-environment/","tags":[null,null,null,null,null,null,null],"created":"2025-10-23T17:42:43.670+01:00","updated":"2025-10-30T23:44:53.486+00:00"}
 ---
 
-#veganism #companion_animals #environment_misc #pet_food 
+
+
 
 - [[The case for vegan pet food\|The case for vegan pet food]]
 

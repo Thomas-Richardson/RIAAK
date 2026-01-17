@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/baldi-et-al-2021/","tags":["animal_feed"],"created":"2025-10-23T17:42:45.895+01:00","updated":"2025-10-23T19:18:51.104+01:00"}
+{"dg-publish":true,"permalink":"/citations/baldi-et-al-2021/","tags":["Alternative_Proteins","animal_feed","citation","economics","food_security"],"created":"2025-10-23T17:42:45.895+01:00","updated":"2025-11-04T12:05:56.898+00:00"}
 ---
 
-#citation #economics #alternative_proteins #food_security 
+
+
 
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3940081
 

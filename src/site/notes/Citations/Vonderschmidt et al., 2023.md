@@ -1,10 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/citations/vonderschmidt-et-al-2023/","created":"2025-10-23T17:42:45.453+01:00","updated":"2025-10-23T18:06:08.856+01:00"}
+{"dg-publish":true,"permalink":"/citations/vonderschmidt-et-al-2023/","tags":["High_Income_Countries/UK","Meat/meat_consumption"],"created":"2025-10-23T17:42:45.453+01:00","updated":"2025-12-10T12:59:34.660+00:00"}
 ---
-
-#citation #meat #behaviour_change 
-
-https://eprints.gla.ac.uk/321942/1/321942.pdf
 
 Bellows, A., Jaacks, L., Alexander, P., & Stewart, C. (2023). Contribution of meat-free days, meat-free meals, and portion sizes to UK meat consumption declines. _European Journal of Public Health_, _33_(Supplement_2), ckad160-250.
 
@@ -30,7 +26,7 @@ Using NDNS rolling programme (2008/09-2018/19) data, we evaluated changes in: 1)
 
 ## Conclusions
 
-Our findings suggest the decrease in UK meat consumption can be largely attributed to smaller portion sizes of meat (note [[Citations/Bianchi et al., 2018\|Bianchi et al., 2018]] also finds that random assingment to smaller portions works too). Understanding the nuances of meat consumption behaviours (i.e., “meat-free days” vs. “meat-free meals” vs. “low-meat meals”) could help tailor behaviour change interventions by showing the need for a focus on promoting low-meat meals to accelerate reductions in meat consumption toward population and environmental health goals.
+Our findings suggest the decrease in UK meat consumption can be largely attributed to smaller portion sizes of meat (note [[Citations/Bianchi et al., 2018\|Bianchi et al., 2018]] also finds that random assignment to smaller portions works too). Understanding the nuances of meat consumption behaviours (i.e., “meat-free days” vs. “meat-free meals” vs. “low-meat meals”) could help tailor behaviour change interventions by showing the need for a focus on promoting low-meat meals to accelerate reductions in meat consumption toward population and environmental health goals.
 
 Key messages
 

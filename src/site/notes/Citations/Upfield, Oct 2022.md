@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/upfield-oct-2022/","created":"2025-10-23T17:42:46.748+01:00","updated":"2025-10-23T18:06:08.954+01:00"}
+{"dg-publish":true,"permalink":"/citations/upfield-oct-2022/","tags":[null,null,null],"created":"2025-10-23T17:42:46.748+01:00","updated":"2025-10-31T14:43:31.405+00:00"}
 ---
 
-#citation #dairy #labelling 
+
+
 
 [[PB food labels are not confusing to consumers\|PB food labels are not confusing to consumers]]
 

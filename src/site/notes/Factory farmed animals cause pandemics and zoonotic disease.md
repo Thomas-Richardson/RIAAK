@@ -1,13 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/factory-farmed-animals-cause-pandemics-and-zoonotic-disease/","tags":["factory_farming"],"created":"2025-10-23T17:42:43.485+01:00","updated":"2025-10-23T18:06:08.671+01:00"}
+{"dg-publish":true,"permalink":"/factory-farmed-animals-cause-pandemics-and-zoonotic-disease/","tags":[null,null,null],"created":"2025-11-11T23:29:30.141+00:00","updated":"2026-01-06T10:07:45.607+00:00"}
 ---
-
-#factory_farming #health_disease  
 
 - See [[Citations/Mace and Knight, 2023\|Mace and Knight, 2023]] for a review in chickens and pigs
 - [[Diseases in farm animals cause economic shocks\|Diseases in farm animals cause economic shocks]]
-- See ProVeg's report, covered by Faunalytics here: [[Eating Our Way To The Next Pandemic\|Eating Our Way To The Next Pandemic]] 
-- Richie also did a public speech on this (ask him)
+- See ProVeg's report, covered by Faunalytics "Eating Our Way To The Next Pandemic"
+	- Richie also did a public speech on this (ask him)
 - [[Citations/Rohr et al., 2019\|Rohr et al., 2019]] livestoock in general may be responsible for over 50% of zoonoses in general
 - [Goldstein et al., 2022](https://iopscience.iop.org/article/10.1088/1748-9326/ac74d4) review evidence that agricultural expansion and intensification are key drivers of zoonotic spillover from animals to humans in China and SE asia
 

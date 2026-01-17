@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/kortleve-et-al-2024/","tags":["animal_feed"],"created":"2025-10-23T17:42:44.884+01:00","updated":"2025-10-23T19:18:51.112+01:00"}
+{"dg-publish":true,"permalink":"/citations/kortleve-et-al-2024/","tags":[null,null],"created":"2025-10-23T17:42:44.884+01:00","updated":"2025-10-30T23:44:54.024+00:00"}
 ---
 
-#citation 
+
+
 
 https://www-nature-com.eux.idm.oclc.org/articles/s43016-024-00949-4.pdf
 

@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/enahoro-et-al-2019/","created":"2025-10-23T17:42:45.481+01:00","updated":"2025-10-23T18:06:08.865+01:00"}
+{"dg-publish":true,"permalink":"/citations/enahoro-et-al-2019/","tags":["Note","Type","citation","economics","undefined"],"created":"2025-10-23T17:42:45.481+01:00","updated":"2025-10-31T14:42:34.586+00:00"}
 ---
 
-#citation #economics 
+
+
 
 https://www.sciencedirect.com/science/article/pii/S2211912418300464?ref=pdf_download&fr=RR-2&rr=86fad532fb186359
 

@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/appetite-for-change-why-the-uk-should-lead-the-emerging-alternative-proteins-market-green-alliance/","tags":["alternative_proteins","economics","farming"],"created":"2025-10-23T17:42:45.191+01:00","updated":"2025-10-23T17:42:45.193+01:00"}
+{"dg-publish":true,"permalink":"/citations/appetite-for-change-why-the-uk-should-lead-the-emerging-alternative-proteins-market-green-alliance/","tags":[null,null,null,"economics","farming","Economics/jobs"],"created":"2025-10-23T17:42:45.191+01:00","updated":"2025-11-06T18:33:58.668+00:00"}
 ---
 
-#citation #cultivated_meat #alternative_proteins 
+
+
 
 - [[Citations/Shaping UK land use (Green Alliance)\|Shaping UK land use (Green Alliance)]]
 
@@ -47,7 +48,7 @@ An Oxford Economic Analysis projects that the UK market will grow to between £8
 See Reference 24 for job creation including farming and manufacturing. Importantly, job creation in alternative proteins is distributed around the country and is likely to be concentrated in rural regions with the value added accruing locally. 
 
 ## Environment 
-#environment_ghg #environment_land 
+#Environment/GHG #Environment/Land 
 
 
 ## Economic

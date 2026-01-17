@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/crossed-elasticities-of-meat-and-meat-alts/","tags":["excalidraw"],"created":"2025-10-23T17:42:42.161+01:00","updated":"2025-10-23T17:42:42.166+01:00"}
+{"dg-publish":true,"permalink":"/crossed-elasticities-of-meat-and-meat-alts/","tags":[null,null,null],"created":"2025-10-23T17:42:42.161+01:00","updated":"2025-10-30T23:44:53.134+00:00"}
 ---
 
-#economics #alternative_proteins 
+
+
 
 - [[Do vegan products reduce demand for ASFs\|Do vegan products reduce demand for ASFs]]
 

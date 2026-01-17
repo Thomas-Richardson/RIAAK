@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/why-does-red-and-processed-meat-cause-cancer-q/","created":"2025-10-23T17:42:47.467+01:00","updated":"2025-10-23T18:06:08.717+01:00"}
+{"dg-publish":true,"permalink":"/why-does-red-and-processed-meat-cause-cancer-q/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:47.467+01:00","updated":"2025-10-30T23:44:53.722+00:00"}
 ---
 
-#health_nutrition #red_meat
+
+
 
 - [[Red and processed meat are bad for you\|Red and processed meat are bad for you]]
 

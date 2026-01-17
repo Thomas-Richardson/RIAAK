@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/red-and-processed-meat-and-obesity/","created":"2025-10-23T17:42:43.782+01:00","updated":"2025-10-23T18:06:08.679+01:00"}
+{"dg-publish":true,"permalink":"/red-and-processed-meat-and-obesity/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:43.782+01:00","updated":"2025-10-30T23:44:53.533+00:00"}
 ---
 
-#meat #health_nutrition #red_meat 
+
+
 
 - [[Bryant Confidential/CAWF NHS report MOC\|CAWF NHS report MOC]]
 - [[Red and processed meat are bad for you\|Red and processed meat are bad for you]]

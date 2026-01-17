@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/wap-alliance-to-save-our-antibiotics-and-the-bij-2022/","created":"2025-10-23T17:42:45.995+01:00","updated":"2025-10-23T18:06:08.914+01:00"}
+{"dg-publish":true,"permalink":"/citations/wap-alliance-to-save-our-antibiotics-and-the-bij-2022/","tags":["Note","Type","citation","Environment/Pollution","Health/Disease","High_Income_Countries/UK","undefined"],"created":"2025-10-23T17:42:45.995+01:00","updated":"2025-12-10T12:59:34.725+00:00"}
 ---
 
-#citation #health_disease #uk #environment_pollution 
+
+
 
 - [[Antimicrobial resistance\|Antimicrobial resistance]]
 

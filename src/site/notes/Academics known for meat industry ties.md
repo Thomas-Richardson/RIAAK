@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/academics-known-for-meat-industry-ties/","tags":["meat_industry"],"created":"2025-10-23T17:42:41.224+01:00","updated":"2025-10-23T17:42:41.224+01:00"}
+{"dg-publish":true,"permalink":"/academics-known-for-meat-industry-ties/","tags":["meat_industry"],"created":"2025-10-23T17:42:41.224+01:00","updated":"2025-12-10T13:01:05.055+00:00"}
 ---
 
 - [[Citations/Morris et al., 2024\|Morris et al., 2024]]
+- [[Meat industry Climate washing\|Meat industry Climate washing]]
 
 # Researchers
 - Frank Mitloehner

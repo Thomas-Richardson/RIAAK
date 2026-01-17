@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/lombardini-and-lankoski-2013/","created":"2025-10-23T17:42:45.182+01:00","updated":"2025-10-23T18:06:08.822+01:00"}
+{"dg-publish":true,"permalink":"/citations/lombardini-and-lankoski-2013/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:45.182+01:00","updated":"2025-10-30T23:44:54.059+00:00"}
 ---
 
-#veganism #behaviour_change #citation 
+
+
 
 - [[Meat free Mondays\|Meat free Mondays]]
 

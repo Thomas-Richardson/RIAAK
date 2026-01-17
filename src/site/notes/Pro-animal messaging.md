@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/pro-animal-messaging/","created":"2025-10-23T17:42:44.045+01:00","updated":"2025-10-23T18:06:08.689+01:00"}
+{"dg-publish":true,"permalink":"/pro-animal-messaging/","tags":[null,null,null,null],"created":"2025-10-23T17:42:44.045+01:00","updated":"2025-10-30T23:44:53.582+00:00"}
 ---
 
-#messaging 
+
+
 
 - [[Is reducitarian messaging effective\|Is reducitarian messaging effective]]
 - [[Animal cruelty based messages are more effective than health or environmental ones\|Animal cruelty based messages are more effective than health or environmental ones]]

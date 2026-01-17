@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/mental-health-in-agriculture/","created":"2025-10-23T17:42:43.057+01:00","updated":"2025-10-23T18:06:08.656+01:00"}
+{"dg-publish":true,"permalink":"/mental-health-in-agriculture/","tags":[null,null,null,null,null,"Economics/jobs",null],"created":"2025-11-11T23:29:30.115+00:00","updated":"2025-11-11T23:29:30.115+00:00"}
 ---
 
-#farmers #food_security 
+
+
 
 - [[CAFOS reduce employment and provide low quality jobs\|CAFOS reduce employment and provide low quality jobs]]
 - [[CAFOs injure and sicken their workers\|CAFOs injure and sicken their workers]]

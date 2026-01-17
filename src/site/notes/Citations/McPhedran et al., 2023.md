@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/mc-phedran-et-al-2023/","created":"2025-10-23T17:42:46.535+01:00","updated":"2025-10-23T18:06:08.945+01:00"}
+{"dg-publish":true,"permalink":"/citations/mc-phedran-et-al-2023/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:46.535+01:00","updated":"2025-10-30T23:44:54.219+00:00"}
 ---
 
-#citation #veganism #behaviour_change 
+
+
 
 https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3626EAA8987FBD49CB1841ECE4C74B5C/S2398063X23000271a.pdf/effects_of_veganuary_on_meal_choices_in_workplace_cafeterias_an_interrupted_time_series_analysis.pdf
 

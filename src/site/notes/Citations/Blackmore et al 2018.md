@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/blackmore-et-al-2018/","created":"2025-10-23T17:42:44.320+01:00","updated":"2025-10-23T18:06:08.770+01:00"}
+{"dg-publish":true,"permalink":"/citations/blackmore-et-al-2018/","tags":["Note","Type","citation","farming","lower_middle_income_countries","undefined"],"created":"2025-10-23T17:42:44.320+01:00","updated":"2025-10-31T14:42:34.576+00:00"}
 ---
 
-#citation #farming #lower_middle_income_countries 
+
+
 
 https://www.tandfonline.com/doi/abs/10.1080/19439342.2018.1452777
 

@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/feinberg-et-al-2020/","created":"2025-10-23T17:42:44.478+01:00","updated":"2025-10-23T18:06:08.780+01:00"}
+{"dg-publish":true,"permalink":"/citations/feinberg-et-al-2020/","tags":["Note","Type","citation","movement_building","undefined"],"created":"2025-10-23T17:42:44.478+01:00","updated":"2025-10-31T14:42:34.577+00:00"}
 ---
 
-#citation #movement_building 
+
+
 
 
 https://scholar.google.com/scholar_url?url=https://psycnet.apa.org/journals/psp/119/5/1086/&hl=en&sa=T&oi=gsb&ct=res&cd=0&d=6388071224466603912&ei=c2SNZ4nmLLiM6rQPj8zeuAM&scisig=AFWwaea-aSrs9MOHmJOdm2QQ8fI4

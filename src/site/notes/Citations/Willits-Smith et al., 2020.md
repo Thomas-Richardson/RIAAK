@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/willits-smith-et-al-2020/","created":"2025-10-23T17:42:46.567+01:00","updated":"2025-10-23T18:06:08.946+01:00"}
+{"dg-publish":true,"permalink":"/citations/willits-smith-et-al-2020/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:46.567+01:00","updated":"2025-10-30T23:44:54.223+00:00"}
 ---
 
-#citation #veganism #environment_ghg 
+
+
 
 Willits-Smith, A., Aranda, R., Heller, M. C., & Rose, D. (2020). Addressing the carbon footprint, healthfulness, and costs of self-selected diets in the USA: a population-based cross-sectional study. _The Lancet Planetary Health_, _4_(3), e98-e106.
 

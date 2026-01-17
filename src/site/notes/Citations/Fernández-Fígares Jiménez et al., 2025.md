@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/citations/fernandez-figares-jimenez-et-al-2025/","tags":["Health/Nutrition","UPF","Alternative_Proteins/Plant_Based"],"created":"2025-11-03T14:12:12.134+00:00","updated":"2025-12-29T16:30:57.319+00:00"}
+---
+
+ ### Purpose of the Review
+This review aims to compare the impact of unprocessed animal foods with ultra-processed plant-based alternatives, particularly plant-based milks, plant-based meat analogs, and margarine, on cardiometabolic risk factors, chronic diseases, and mortality.
+
+### Recent Findings
+The ultra-processed food category is highly heterogeneous, encompassing products with varying ingredients and nutrient profiles. Plant-based milks, plant-based meat analogs, and margarine, typically classified as ultra-processed foods, differ markedly from their unprocessed animal-based counterparts: they do not contain cholesterol or heme iron, have lower concentrations of saturated fat, sulfur, and branched-chain amino acids, and provide dietary fiber, which is absent in animal-based foods. Replacing dairy milk with soymilk have been shown to reduce total cholesterol (TC), LDL cholesterol (LDL-C), and C-reactive protein (CRP), and is associated with a lower risk of breast cancer. Compared to unprocessed animal-based products, plant-based meat analogs are associated with reductions in TC, LDL-C, body weight, plasma ammonia, and trimethylamine oxide (TMAO). Substituting butter with soft margarine reduces TC and LDL-C, and is associated with a lower risk of cardiovascular events and mortality.
+
+### Summary
+While ultra-processed plant-based foods are less healthy than whole plant foods, they may offer better cardiometabolic outcomes than unprocessed animal-based products. As transitional tools, products such as plant-based milks, meat analogs, and margarine may facilitate dietary shifts. Public health guidance should reflect these nuances to support realistic, health-promoting transitions.
+
+[[Are meat alternatives healthier than meat\|Are meat alternatives healthier than meat]]

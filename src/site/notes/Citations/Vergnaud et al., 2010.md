@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/vergnaud-et-al-2010/","created":"2025-10-23T17:42:45.334+01:00","updated":"2025-10-26T00:57:31.808+01:00"}
+{"dg-publish":true,"permalink":"/citations/vergnaud-et-al-2010/","tags":[null,null,null,null,null,null,null],"created":"2025-10-23T17:42:45.334+01:00","updated":"2025-10-30T23:44:54.082+00:00"}
 ---
 
-#citation #meat #health_nutrition  #chickens 
+
+
 
 https://pubmed.ncbi.nlm.nih.gov/20592131/
 

@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/alt-proteins-in-asia/","created":"2025-10-23T17:42:47.402+01:00","updated":"2025-10-23T18:06:08.712+01:00"}
+{"dg-publish":true,"permalink":"/alt-proteins-in-asia/","tags":[null,null,null,null],"created":"2025-10-23T17:42:47.402+01:00","updated":"2025-10-30T23:59:27.822+00:00"}
 ---
 
-#lower_middle_income_countries #asia  #movement_building #alternative_proteins 
+
+
 
 - [[Animal advo in Asia\|Animal advo in Asia]]
 - [[Citations/Good Growth and GFI, 2024\|Good Growth and GFI, 2024]] 

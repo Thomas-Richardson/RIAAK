@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/proximity-to-caf-os-and-house-prices/","created":"2025-10-23T17:42:42.043+01:00","updated":"2025-10-23T18:06:08.620+01:00"}
+{"dg-publish":true,"permalink":"/proximity-to-caf-os-and-house-prices/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:42.043+01:00","updated":"2025-10-30T23:44:53.119+00:00"}
 ---
 
-#factory_farming #economics 
+
+
 
 - [[Decreased property values from living near IMPs\|Decreased property values from living near IMPs]]
 

@@ -1,10 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/citations/berners-lee-et-al-2012/","created":"2025-10-23T17:42:44.960+01:00","updated":"2025-10-23T18:06:08.805+01:00"}
+{"dg-publish":true,"permalink":"/citations/berners-lee-et-al-2012/","tags":["Environment/GHG","veganism","Economics/costs"],"created":"2025-10-23T17:42:44.960+01:00","updated":"2025-11-07T16:23:37.347+00:00"}
 ---
-
-#citation #environment_ghg  #economics #veganism 
-
-Berners-Lee, M., Hoolohan, C., Cammack, H., Hewitt, C.N., 2012. The relative greenhouse gas impacts of realistic dietary choices. Energ Policy 43, 184–190. http://dx.doi.org/10.1016/j.enpol.2011.12.054.
 
 - [[Are PB diets cheaper than omni diets\|Are PB diets cheaper than omni diets]]
 
@@ -23,15 +19,17 @@ Keeping calories the same, they calculated the GHG of the average UK diet, then 
 
 Modelled 6 veggie/ vegan scenarios and found that all of them cost less compared to the average British diet, with savings on weekly food bill ranging from 5.0% to 14.6%. Largest savings were seen in diets that are arguably less realistic (one simply replaced all protein from meat with protein from dairy products for example). Following a hypothetical veggie diet resulted in significant food bill savings of 12.3%, and using real consumption data from US veggies (UK data was not available at the time) still resulted in an 8.8% decrease.
 
-| Diet                   | Daily spend (£) | Weekly spend (£) | Percentage saving compared to UK Average |
-|------------------------|-----------------|------------------|------------------------------------------|
-| UK average             | 6.59            | 46.13            | 0                                        |
-| Dairy heavy veggie     | 5.63            | 39.41            | 0.146                                    |
-| Actual US veggie       | 6.01            | 42.07            | 0.088                                    |
-| Thoughtful veggie      | 5.78            | 40.46            | 0.122                                    |
-| Undiscriminating vegan | 5.65            | 39.55            | 0.142                                    |
-| Actual US vegan        | 6.26            | 43.82            | 0.050                                    |
-| Thoughtful vegan       | 5.99            | 41.93            | 0.091                                    |
+| Scenario type | Scenario                                                                                                                                     | Cost at checkout (£ p/person/day | Cost saving vs staus quo | % cost saving |
+|---------------|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|--------------------------|---------------|
+| Baseline      | Current average per capita UK food supply of 3458 kcal day−1                                                                                 | £6.59                            | £0.00                    | 0.00%         |
+| Vegetarian    | 2: US average vegetarian diet, normalised to UK food supply per capita energy                                                                | £6.01                            | £0.58                    | 9.65%         |
+| Vegetarian    | 3: UK average diet with meat energy replaced by “healthy” non-dairy alternatives, normalised to UK food supply per capita energy             | £5.78                            | £0.81                    | 14.01%        |
+| Vegan         | 4: UK average diet with meat and dairy energy replaced by all plant-based alternatives, normalised to UK food supply per capita energy       | £5.65                            | £0.94                    | 16.64%        |
+| Vegan         | 5: US vegan diet, normalised to UK food supply per capita energy                                                                             | £6.26                            | £0.33                    | 5.27%         |
+| Vegan         | 6: UK average diet with meat and diary energy replaced by “healthy” plant-based alternatives, normalised to UK food supply per capita energy | £5.99                            | £0.60                    | 10.02%        |
+| Vegetarian    | Average                                                                                                                                      | £5.90                            | £0.70                    | 11.83%        |
+| Vegan         | Average                                                                                                                                      | £5.97                            | £0.62                    | 10.64%        |
+
 
 Diet data was from 2010 National Diet and Nutrition Survey (NDNS, 2010)
 

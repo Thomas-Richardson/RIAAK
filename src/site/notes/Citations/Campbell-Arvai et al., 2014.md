@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/campbell-arvai-et-al-2014/","created":"2025-10-23T17:42:45.604+01:00","updated":"2025-10-23T18:06:08.888+01:00"}
+{"dg-publish":true,"permalink":"/citations/campbell-arvai-et-al-2014/","tags":["behaviour_change"],"created":"2025-10-23T17:42:45.604+01:00","updated":"2026-01-06T20:22:37.854+00:00"}
 ---
 
-#citation #behaviour_change
+
+
 
 https://journals.sagepub.com/doi/abs/10.1177/0013916512469099 
 

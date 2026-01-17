@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/algae-farming-for-alt-proteins/","created":"2025-10-23T17:42:43.773+01:00","updated":"2025-10-23T18:06:08.679+01:00"}
+{"dg-publish":true,"permalink":"/algae-farming-for-alt-proteins/","tags":[null,"Economics/jobs"],"created":"2025-11-06T16:28:13.296+00:00","updated":"2025-11-06T16:28:13.297+00:00"}
 ---
 
-#alternative_proteins 
+
+
 
 - [[farmers transitioning from asfs to plants\|farmers transitioning from asfs to plants]]
 

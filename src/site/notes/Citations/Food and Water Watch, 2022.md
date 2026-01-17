@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/food-and-water-watch-2022/","created":"2025-10-23T17:42:44.536+01:00","updated":"2025-10-23T18:06:08.784+01:00"}
+{"dg-publish":true,"permalink":"/citations/food-and-water-watch-2022/","tags":["citation","factory_farming","farming","pigs"],"created":"2025-10-23T17:42:44.536+01:00","updated":"2025-10-31T14:43:31.341+00:00"}
 ---
 
-#citation #pigs #factory_farming #farming 
+
+
 
 https://www.foodandwaterwatch.org/wp-content/uploads/2022/05/RPT2_2205_IowaHogs-WEB4.pdf
 

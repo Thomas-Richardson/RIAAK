@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/caf-os-wreck-domestic-rural-communities/","tags":["farmers","factory_farming"],"created":"2025-10-23T17:42:43.925+01:00","updated":"2025-10-23T17:42:43.926+01:00"}
+{"dg-publish":true,"permalink":"/caf-os-wreck-domestic-rural-communities/","tags":[null,null,null,"factory_farming","Economics/jobs",null],"created":"2025-11-11T23:29:29.759+00:00","updated":"2025-11-11T23:29:29.759+00:00"}
 ---
 
-#factory_farming #economics 
+
+
 
 - [[The consolidation and intensification of farms\|The consolidation and intensification of farms]]
 - [[CAFOS reduce employment and provide low quality jobs\|CAFOS reduce employment and provide low quality jobs]]

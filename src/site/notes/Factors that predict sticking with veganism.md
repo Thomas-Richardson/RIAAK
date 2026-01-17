@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/factors-that-predict-sticking-with-veganism/","created":"2025-10-23T17:42:42.332+01:00","updated":"2025-10-23T18:06:08.630+01:00"}
+{"dg-publish":true,"permalink":"/factors-that-predict-sticking-with-veganism/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:42.332+01:00","updated":"2025-10-30T23:44:53.154+00:00"}
 ---
 
-#veganism #psychology 
+
+
 
 women, moral concern for animals, feeling disgusted by meat, seeing being a vege-tarian as central to one\'s identity, and length of vegetarianism.
 

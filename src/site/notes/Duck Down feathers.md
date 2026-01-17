@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/duck-down-feathers/","created":"2025-10-23T17:42:41.962+01:00","updated":"2025-10-23T18:06:08.617+01:00"}
+{"dg-publish":true,"permalink":"/duck-down-feathers/","tags":[null,null,null,null],"created":"2025-10-23T17:42:41.962+01:00","updated":"2025-10-30T23:44:53.059+00:00"}
 ---
 
-#materials 
+
+
 
 - [[Wool\|Wool]]
 - [[Silk\|Silk]]

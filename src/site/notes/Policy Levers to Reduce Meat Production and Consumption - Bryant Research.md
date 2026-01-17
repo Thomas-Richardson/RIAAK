@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/policy-levers-to-reduce-meat-production-and-consumption-bryant-research/","created":"2025-10-23T17:42:44.125+01:00","updated":"2025-10-23T18:06:08.692+01:00"}
+{"dg-publish":true,"permalink":"/policy-levers-to-reduce-meat-production-and-consumption-bryant-research/","created":"2025-10-23T17:42:44.125+01:00","updated":"2025-11-04T12:03:45.529+00:00"}
 ---
 
 author:: Bryant Research
@@ -7,7 +7,7 @@ source:: [Policy Levers to Reduce Meat Production and Consumption - Bryant Resea
 clipped:: [[2024-10-16\|2024-10-16]]
 published:: 
 
-#bryant_insight 
+#Bryant/Insight 
 ## **Policy Levers to Reduce Meat Production and Consumption**
 
 > “The summary outlines various policy approaches aimed at reducing meat production and consumption in wealthy nations, highlighting their potential benefits for the environment, public health, economy, food security, and animal welfare. – *Chris Bryant* 

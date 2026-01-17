@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/sinergia-animal-2023/","created":"2025-10-23T17:42:44.487+01:00","updated":"2025-10-23T18:06:08.781+01:00"}
+{"dg-publish":true,"permalink":"/citations/sinergia-animal-2023/","tags":["asia","citation","Bryant/Project/good_growth_social_listening"],"created":"2025-10-23T17:42:44.487+01:00","updated":"2025-11-04T12:12:37.131+00:00"}
 ---
 
-#asia #good_growth_social_listening #citation 
+
+
 
 - [[RIAAK Good Growth Plant based messaging/Potential segments in SE asia to target to encourage PB eating\|Potential segments in SE asia to target to encourage PB eating]]
 

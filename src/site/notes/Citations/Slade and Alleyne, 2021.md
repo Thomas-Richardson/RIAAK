@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/slade-and-alleyne-2021/","created":"2025-10-23T17:42:46.978+01:00","updated":"2025-10-23T18:06:08.965+01:00"}
+{"dg-publish":true,"permalink":"/citations/slade-and-alleyne-2021/","tags":[null,null,null,null,null,null,"Economics/jobs"],"created":"2025-10-23T17:42:46.978+01:00","updated":"2025-11-06T18:35:18.117+00:00"}
 ---
 
-#citation #factory_farming #psychology 
+
+
 
 Slade, J., & Alleyne, E. (2023). The psychological impact of slaughterhouse employment: A systematic literature review. _Trauma, Violence, & Abuse_, _24_(2), 429-440.
 

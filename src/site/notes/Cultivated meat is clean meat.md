@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cultivated-meat-is-clean-meat/","tags":["#cultivated_meat","narratives"],"created":"2025-10-23T17:42:47.858+01:00","updated":"2025-10-23T17:42:47.859+01:00"}
+{"dg-publish":true,"permalink":"/cultivated-meat-is-clean-meat/","tags":[null,"narratives"],"created":"2025-10-23T17:42:47.858+01:00","updated":"2025-10-30T23:44:53.796+00:00"}
 ---
 
-#cultivated_meat 
+
+
 
 - [[Psychological factors in cultivated meat acceptance\|Psychological factors in cultivated meat acceptance]]
 

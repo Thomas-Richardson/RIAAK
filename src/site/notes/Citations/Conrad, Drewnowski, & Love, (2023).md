@@ -1,12 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/citations/conrad-drewnowski-and-love-2023/","created":"2025-10-23T17:42:46.508+01:00","updated":"2025-10-23T18:06:08.943+01:00"}
+{"dg-publish":true,"permalink":"/citations/conrad-drewnowski-and-love-2023/","tags":["veganism","Economics/costs","Environment/GHG"],"created":"2025-10-23T17:42:46.508+01:00","updated":"2025-11-07T14:52:39.330+00:00"}
 ---
-
-#citation #animal_advocacy #environment_misc #veganism 
-
-Conrad, Z., Drewnowski, A., & Love, D. C. (2023). Greater adherence to the Dietary Guidelines for Americans is associated with lower diet-related greenhouse gas emissions but higher costs. _Frontiers in Nutrition_, _10_.
-
-https://pubmed.ncbi.nlm.nih.gov/37599695/
 
 An NHANES study of 8k Americans between 2008 and 2017 (1022 plant-based) found that a plant based diet was <mark style="background: #FFF3A3A6;">cheaper</mark> than all other popular diets examined (Low grain, low carb, low fat, and fasting). 
 

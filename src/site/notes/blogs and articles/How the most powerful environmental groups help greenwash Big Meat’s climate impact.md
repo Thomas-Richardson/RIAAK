@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blogs-and-articles/how-the-most-powerful-environmental-groups-help-greenwash-big-meat-s-climate-impact/","tags":["animal_feed","wild_animals"],"created":"2025-10-23T17:42:47.596+01:00","updated":"2025-10-23T19:20:34.095+01:00"}
+{"dg-publish":true,"permalink":"/blogs-and-articles/how-the-most-powerful-environmental-groups-help-greenwash-big-meat-s-climate-impact/","tags":["animal_feed","wild_animals","Economics/jobs","environment/climate-change","greenwashing","meat_industry"],"created":"2025-10-23T17:42:47.596+01:00","updated":"2025-12-10T12:57:22.844+00:00"}
 ---
 
 ## Free speech needs fearless journalism
@@ -133,7 +133,7 @@ Tyson’s misleading marketing is predictable — the USDA, which also helped [f
 
 But what’s more troubling is that Tyson didn’t act on its own — it got help from the Nature Conservancy and Environmental Defense Fund, both of which provided technical assistance. Tyson also benefited in another way: The company mentions the organizations on its [website](https://www.tysonfoods.com/climate-smart-beef-program) and in its [advertising](https://deloitte.wsj.com/articles/how-tyson-foods-uses-big-data-to-make-lower-emissions-beef-7c9234a7) to boost the credibility of its climate-friendly claim.
 
-When I asked [Michael Wironen](https://www.nature.org/en-us/about-us/who-we-are/our-people/michael-wironen/), director of corporate engagement for food and water at the Nature Conservancy, if he had any concerns over his group’s inclusion in Tyson’s advertising, he said that companies should be scrutinized for greenwashing but that he doesn’t “have an opinion one way or the other about how \[Tyson\] should be branding that product.”
+When I asked [Michael Wironen](https://www.nature.org/en-us/about-us/who-we-are/our-people/michael-wironen/), director of corporate engagement for food and water at the Nature Conservancy, if he had any concerns over his group’s inclusion in Tyson’s advertising, he said that companies should be scrutinized for greenwashing but that he doesn’t “have an opinion one way or the other about how \[Tyson] should be branding that product.”
 
 The Nature Conservancy was paid a nominal fee for its work, according to a spokesperson, who declined to share the amount. The spokesperson also said the organization’s Arkansas chapter had received money from Tyson Foods for local conservation work and declined to answer whether TNC has received money from other meat companies.
 
@@ -273,7 +273,7 @@ One of the current EDF employees I spoke with said that the organization’s sol
 
 Elizabeth Sturcken, managing director of business at EDF, said over email that in the US “there are no prospects” for companies, especially in food and agriculture, to be required through regulation to reduce methane emissions. “Voluntary corporate action can help fill in this gap.”
 
-When I asked WWF about its goals related to agriculture, I was told the organization aims to reduce the climate, water pollution, and biodiversity impacts of animal protein in the US by a staggering 50 percent by 2030 against 2005 levels. The goal, the organization says, will be achieved through the adoption of “responsibly sourced, regeneratively produced cattle, poultry, swine, and aquaculture \[fish farm\] products.”
+When I asked WWF about its goals related to agriculture, I was told the organization aims to reduce the climate, water pollution, and biodiversity impacts of animal protein in the US by a staggering 50 percent by 2030 against 2005 levels. The goal, the organization says, will be achieved through the adoption of “responsibly sourced, regeneratively produced cattle, poultry, swine, and aquaculture \[fish farm] products.”
 
 After repeated requests for details on how it would measure this goal and its progress so far, a spokesperson said, “We are in the process of revising and finalizing our long-term goals to ensure they are measurable. As part of this process we are examining what is possible to track, in what regions we are working, and how to set baselines in animal protein systems.”
 
@@ -283,7 +283,7 @@ WWF’s Bonini said as much: “We encourage companies to work on all fronts, pa
 
 As one of the current EDF employees I spoke to put it, “EDF provides cover for businesses by letting them set their own ambition.”
 
-But systemic change is hard, and through such collaborations the organizations get to show their donors what appears to be a win, said Secchi, the University of Iowa sustainability professor. Pennington, the former WWF lead scientist, said that for the corporations,“the biggest benefit with partnering with these large \[nonprofits\] is having your name, having your logos together on the same document.”
+But systemic change is hard, and through such collaborations the organizations get to show their donors what appears to be a win, said Secchi, the University of Iowa sustainability professor. Pennington, the former WWF lead scientist, said that for the corporations,“the biggest benefit with partnering with these large \[nonprofits] is having your name, having your logos together on the same document.”
 
 Last year, Sturcken of EDF said in an [interview](https://civileats.com/2023/11/15/walmart-and-edf-forged-an-unlikely-partnership-17-years-later-whats-changed/) with the news outlet Civil Eats that “PR benefits” were one of the benefits to businesses embracing food sustainability.
 
@@ -293,7 +293,7 @@ WWF-UK [canceled](https://www.theguardian.com/environment/2024/mar/02/wwf-shelve
 
 “I don’t think that it creates a conflict of interest,” said Bonini of WWF when asked about its corporate donations in general — not about Tesco specifically. “We’ve seen a lot of positive momentum working and collaborating with companies, but we continue to push them. That’s our job. And if we don’t see them making progress, we will walk away.”
 
-“Wherever your funding comes from has an effect on your work, and to say anything else is insanity at this point,” said [Jennifer Jacquet](https://jenniferjacquet.com/), a professor of environmental science and policy at the University of Miami and author of a book on greenwashing, [*The Playbook*](https://www.penguinrandomhouse.com/books/534048/the-playbook-by-jennifer-jacquet/). “Greenwashing serves a lot of purposes. It’s not just about \[preventing\] regulation — that’s always part of it. But it’s about maintaining the social license to operate … the economic license, the moral license.”
+“Wherever your funding comes from has an effect on your work, and to say anything else is insanity at this point,” said [Jennifer Jacquet](https://jenniferjacquet.com/), a professor of environmental science and policy at the University of Miami and author of a book on greenwashing, [*The Playbook*](https://www.penguinrandomhouse.com/books/534048/the-playbook-by-jennifer-jacquet/). “Greenwashing serves a lot of purposes. It’s not just about \[preventing] regulation — that’s always part of it. But it’s about maintaining the social license to operate … the economic license, the moral license.”
 
 Sometimes, industry players will say that quiet part out loud. In a 2022 [news release](https://perma.cc/7Z89-LZD8) issued by a cattle breeding association about a project to change cattle genetics to lower their emissions, an industry-aligned academic said “This is going to help us maintain the license to operate. I think that is a key term we all need to understand.”
 
@@ -351,7 +351,7 @@ The proposal has been tabled indefinitely, Shuman said, which he thinks is becau
 
 The Sierra Club declined to comment on Shuman’s efforts, but [shared information](https://www.sierraclub.org/farm-bill-2023) about a few federal bills the organization has endorsed in recent years that challenge the factory farming system.
 
-“If you can’t get the Sierra Club to \[support a methane tax\], how the fuck are you going to get anyone else in society to do that?” Shuman told me in exasperation. “If your environmental organizations — that people expect to kind of lead on this — are too scared to do that, what hope is there for our species on this planet?”
+“If you can’t get the Sierra Club to \[support a methane tax], how the fuck are you going to get anyone else in society to do that?” Shuman told me in exasperation. “If your environmental organizations — that people expect to kind of lead on this — are too scared to do that, what hope is there for our species on this planet?”
 
 ## Why meat is the third rail of public and personal politics
 
@@ -369,7 +369,7 @@ Of course, not every organization can take up every issue, and social movements 
 
 It’s a given in the environmental community that governments and corporations need to phase out — or at least drastically reduce — fossil fuel production. Despite scientific consensus that significant changes to the Western world’s meat and dairy production are necessary to meet global climate targets, few environmentalists are willing to go there.
 
-There’s no doubt it would be a difficult, even toxic fight. In Europe, which has long been more ambitious than the US on climate policy, farmers have [protested en masse](https://www.vox.com/future-perfect/24146466/europe-farmer-protests-eu-climate-environmental-policy-subsidies-livestock) against policies designed to cut livestock pollution. In the US and elsewhere, [conservatives](https://newrepublic.com/article/171781/meat-culture-war-crickets) have begun taking up [meat](https://www.theatlantic.com/health/archive/2018/08/the-peterson-family-meat-cleanse/567613/) as a [cause célèbre](https://www.vice.com/en/article/bjazz3/a-brief-history-of-conservatives-using-tofu-eating-as-an-insult?callback=in&code=MWM1OGQ4OTKTMTGYNI0ZNDYYLWJMODQTOTEZOTFKY2ZMZDGY&state=acb67b499b7a4f3e90a862b02568f503) of the [culture war](https://www.vox.com/policy-and-politics/2021/4/26/22403599/biden-red-meat-ban-burger-kudlow). Even [liberals](https://www.vox.com/future-perfect/2024/5/8/24151435/john-fetterman-lab-grown-cultivated-meat-ron-desantis-florida-ban) occasionally join in, and only a handful of members of Congress can be counted on to introduce legislation to regulate factory farms or increase access to plant-based food.
+There’s no doubt it would be a difficult, even toxic fight. In Europe, which has long been more ambitious than the US on climate policy, farmers have [protested en masse](https://www.vox.com/future-perfect/24146466/europe-farmer-protests-eu-climate-environmental-policy-subsidies-livestock) against policies designed to cut livestock pollution. In the US and elsewhere, [conservatives](https://newrepublic.com/article/171781/meat-culture-war-crickets) have begun taking up [meat](https://www.theatlantic.com/health/archive/2018/08/the-peterson-family-meat-cleanse/) as a [cause célèbre](https://www.vice.com/en/article/bjazz3/a-brief-history-of-conservatives-using-tofu-eating-as-an-insult?callback=in&code=MWM1OGQ4OTKTMTGYNI0ZNDYYLWJMODQTOTEZOTFKY2ZMZDGY&state=acb67b499b7a4f3e90a862b02568f503) of the [culture war](https://www.vox.com/policy-and-politics/2021/4/26/22403599/biden-red-meat-ban-burger-kudlow). Even [liberals](https://www.vox.com/future-perfect/2024/5/8/24151435/john-fetterman-lab-grown-cultivated-meat-ron-desantis-florida-ban) occasionally join in, and only a handful of members of Congress can be counted on to introduce legislation to regulate factory farms or increase access to plant-based food.
 
 [![A tractor sitting in front of a tire fire.](https://platform.vox.com/wp-content/uploads/sites/2/2024/07/GettyImages-2113285179.jpg?quality=90&strip=all&crop=0%2C5.7291666666667%2C100%2C88.541666666667&w=2400)](https://platform.vox.com/wp-content/uploads/sites/2/2024/07/GettyImages-2113285179.jpg?quality=90&strip=all&crop=0,5.7291666666667,100,88.541666666667)
 
@@ -383,17 +383,17 @@ Some politicians paint calls to [stop pollution](https://www.vox.com/future-perf
 
 They’ve [certainly](https://www.worldwildlife.org/magazine/issues/winter-2019/articles/stewards-of-the-prairies) [influenced](https://blogs.edf.org/growingreturns/2022/10/14/farmers-see-value-in-agriculture-loans-that-reward-stewardship/) [some](https://www.youtube.com/watch?v=jTqV2jDQ_Ao) [environmental groups](https://audubonactionfund.org/news/recently-passed-federal-funding-package-makes-investments-in-natural-climate-solutions) and leaders.
 
-“\[Livestock groups\] are very sensitive to feeling criticized and demonized, and understandably so, because when you hear things like ‘meat is evil’... I think they feel that their whole identity is being attacked,” Ho of WWF-US said. “They don’t feel that people appreciate the hard work and toil that they do to grow food to feed people … it really cuts to the bone and they take it personally and I understand why.”
+“\[Livestock groups] are very sensitive to feeling criticized and demonized, and understandably so, because when you hear things like ‘meat is evil’... I think they feel that their whole identity is being attacked,” Ho of WWF-US said. “They don’t feel that people appreciate the hard work and toil that they do to grow food to feed people … it really cuts to the bone and they take it personally and I understand why.”
 
 Yet even while environmentalists recognize the fraught politics of challenging Big Meat, some believe it is nevertheless essential.
 
-“The planet doesn’t care what is politically tenable and what’s good on Fox News and what Twitter bots will come after you for,” said Foley. “Why do \[environmentalists\] keep on waving the white flag before we even fight the battle on this issue?”
+“The planet doesn’t care what is politically tenable and what’s good on Fox News and what Twitter bots will come after you for,” said Foley. “Why do \[environmentalists] keep on waving the white flag before we even fight the battle on this issue?”
 
-Sarah Lake, CEO of the philanthropy organization PlantWorks, is worried about how conflict-avoidant environmental groups are on the matter: “They bring the clout, the reputation, the ability to pivot an entire field, and them not being willing to \[call for\] meat reduction is quite problematic.”’
+Sarah Lake, CEO of the philanthropy organization PlantWorks, is worried about how conflict-avoidant environmental groups are on the matter: “They bring the clout, the reputation, the ability to pivot an entire field, and them not being willing to \[call for] meat reduction is quite problematic.”’
 
 There’s also the uncomfortable fact of personal habits. Being an environmentalist doesn’t require being a vegan, but several people I talked to speculated that environmentalists may not care to change America’s relationship to meat because they’re unwilling to change themselves.
 
-“People have told me about their \[organization’s\] leaders not willing to eat the vegan meal and going out and getting a steak or whatever,” one longtime activist told me, requesting anonymity due to the sensitive nature of the issue in the environmental movement. “I hear stories and I just think, ‘That’s like a person working on renewable energy and driving a Hummer.’ … If we can’t change ourselves in the environmental community, then how would we expect to change the general population?”
+“People have told me about their \[organization’s] leaders not willing to eat the vegan meal and going out and getting a steak or whatever,” one longtime activist told me, requesting anonymity due to the sensitive nature of the issue in the environmental movement. “I hear stories and I just think, ‘That’s like a person working on renewable energy and driving a Hummer.’ … If we can’t change ourselves in the environmental community, then how would we expect to change the general population?”
 
 Many environmentalists have come to criticize individual action as ineffectual and naive. The burden to mitigate climate change and pollution falls on politicians and corporations, [they argue](https://time.com/5669071/lifestyle-changes-climate-change/), not the average person. Leading climate voices, such as Michael Mann and David Wallace-Wells, have even [dismissed](https://newrepublic.com/article/159153/climate-change-dismiss-meat-emissions-wrong) meat reduction as “virtue signaling” and a “cop-out.”
 
@@ -409,7 +409,7 @@ Some [environmentalists](https://thebreakthrough.org/issues/food-agriculture-env
 
 Pete Smith, a [leading climate scientist](https://www.abdn.ac.uk/news/14907/), warns against the “swap beef for chicken” advice because poultry production also requires a significant amount of farmland to grow corn and soy to feed the birds.
 
-“They’re eating products that are grown on land that could be growing food for humans instead, so it’s still a really inefficient thing to do to swap out ruminant \[beef, lamb, goat\] products for other different types of meat,” Smith told me.
+“They’re eating products that are grown on land that could be growing food for humans instead, so it’s still a really inefficient thing to do to swap out ruminant \[beef, lamb, goat] products for other different types of meat,” Smith told me.
 
 Considering that much of the environmental movement also cares deeply about animal life, it’s worth noting that perhaps no farmed species is treated worse than chickens raised for [meat](https://www.vox.com/future-perfect/21437054/chickens-factory-farming-animal-cruelty-welfare). The birds’ genetics have been [significantly altered](https://www.vox.com/future-perfect/21437054/chickens-factory-farming-animal-cruelty-welfare) to make them grow bigger and faster, which in turn has reduced their carbon footprint. But it’s come at a severe cost to their welfare; their legs cannot handle the rapid growth of their breasts, making it difficult for many chickens to walk or even stand.
 
@@ -491,3 +491,11 @@ See More:
 - [Climate](https://www.vox.com/climate)
 - [Future Perfect](https://www.vox.com/future-perfect)
 - [The Future of Meat](https://www.vox.com/future-of-meat)
+
+# AI suggested related notes
+
+These notes appear semantically similar based on Smart Connections embeddings:
+
+- [[Better livestock practices will not offset emissions from livestock\|Better livestock practices will not offset emissions from livestock]] (similarity: 68.0%)
+- [[orphaned files output\|orphaned files output]] (similarity: 66.5%)
+- [[Roasting the Planet - Big Meat and Dairy_s Big Emissions (Greenpeace_ Foodrise_ Friends of the Earth_ Institute for Agriculture _ Trade Policy)\|Roasting the Planet - Big Meat and Dairy_s Big Emissions (Greenpeace_ Foodrise_ Friends of the Earth_ Institute for Agriculture _ Trade Policy)]] (similarity: 65.5%)

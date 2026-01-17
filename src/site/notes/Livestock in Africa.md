@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/livestock-in-africa/","created":"2025-10-23T17:42:47.958+01:00","updated":"2025-10-23T18:06:08.739+01:00"}
+{"dg-publish":true,"permalink":"/livestock-in-africa/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:47.958+01:00","updated":"2025-10-30T23:44:53.820+00:00"}
 ---
 
-#lower_middle_income_countries #farming #meat 
+
+
 
 - [[Animal advo in South Africa\|Animal advo in South Africa]]
 - [[Citations/Good Growth and Animal Advocacy Africa, 2022\|Good Growth and Animal Advocacy Africa, 2022]]

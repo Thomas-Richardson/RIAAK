@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/golub-et-al-2012/","created":"2025-10-23T17:42:45.713+01:00","updated":"2025-10-23T18:06:08.896+01:00"}
+{"dg-publish":true,"permalink":"/citations/golub-et-al-2012/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:45.713+01:00","updated":"2025-10-30T23:44:54.128+00:00"}
 ---
 
-#citation #environment_misc #farming 
+
+
 
 - [[International trade in animal products and feed\|International trade in animal products and feed]]
 

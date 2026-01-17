@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cafos-reduce-employment-and-provide-low-quality-jobs/","tags":["animal_feed - factory_farming - economics"],"created":"2025-10-23T17:42:42.719+01:00","updated":"2025-10-23T19:18:51.094+01:00"}
+{"dg-publish":true,"permalink":"/cafos-reduce-employment-and-provide-low-quality-jobs/","tags":[null,null,null,null,null,"factory_farming","economics","Economics/jobs"],"created":"2025-11-11T23:29:31.293+00:00","updated":"2026-01-15T11:05:50.824+00:00"}
 ---
 
-#economics #factory_farming #usa 
+
+
 
 - [[CAFOs injure and sicken their workers\|CAFOs injure and sicken their workers]]
 - [[The economic value of alternative proteins\|The economic value of alternative proteins]]
@@ -50,4 +51,4 @@ One community member gave a particularly harrowing anecdote: “There are worker
 ## Misc  on poor agri conditions
 - migrant Strawberry farmers in the UK capture like [7% of the value](https://www.sustainweb.org/reports/jul23-debt-migration-and-exploitation/) of what they produce.
 
-[[Citations/Impact Institute, 2023\|This report]] argues that underpayment of wages due to animal agriculture would cost the EU 10.5B euro a year. This is mostly because of labour abuse outside the EU that goes into growing animal feed consumed by European farm animals.
+[[Citations/External Costs of Animal Sourced Food in the EU ( Impact Institute, 2023)\|This report]] argues that underpayment of wages due to animal agriculture would cost the EU 10.5B euro a year. This is mostly because of labour abuse outside the EU that goes into growing animal feed consumed by European farm animals.

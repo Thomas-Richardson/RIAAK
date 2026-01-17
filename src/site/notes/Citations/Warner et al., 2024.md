@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/warner-et-al-2024/","created":"2025-10-23T17:42:46.481+01:00","updated":"2025-10-23T18:06:08.942+01:00"}
+{"dg-publish":true,"permalink":"/citations/warner-et-al-2024/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:46.481+01:00","updated":"2025-10-30T23:44:54.209+00:00"}
 ---
 
-#citation #alternative_proteins 
+
+
 
 https://www.new-foodinnovation.co.uk/price-parity
 

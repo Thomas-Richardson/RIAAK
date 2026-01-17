@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/classifying-livestock-systems/","tags":["animal_feed"],"created":"2025-10-23T17:42:42.763+01:00","updated":"2025-10-23T19:18:51.203+01:00"}
+{"dg-publish":true,"permalink":"/classifying-livestock-systems/","tags":[null,null,"Economics/jobs"],"created":"2025-10-23T17:42:42.763+01:00","updated":"2025-11-06T18:37:58.019+00:00"}
 ---
 
-#mfa_food_sec 
+
+
 
 
 ## Small-holder systems
@@ -27,7 +28,7 @@ A standard on livestock classification systems was developed by Seré et al (199
 	- Irrigated mixed-farming systems (MI). A subset of the mixed systems in which more than 10 percent of the value of non-livestock farm production comes from irrigated land use.”
 
 # MFA food sec Classifying livestock systems
-#mfa_food_sec 
+#Bryant/Project/MFA_Food_Securiy 
 [[MFA Livestock and Food security finished\|MFA Livestock and Food security finished]]
 
 The impacts of livestock on food security, economies and the environment strongly depends on the type of livestock system we consider. Here we consider 3 key types of livestock system: Small-scale or smallholder systems, extensive and pastoral systems, and intensive or industrial systems. Note that there is often overlap between categories, particularly small scale and extensive systems. Research can vary in how they define these systems, so where studies use these terms in specific ways, we will highlight the definition.

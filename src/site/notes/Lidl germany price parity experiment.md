@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/lidl-germany-price-parity-experiment/","created":"2025-10-23T17:42:47.321+01:00","updated":"2025-10-23T18:06:08.708+01:00"}
+{"dg-publish":true,"permalink":"/lidl-germany-price-parity-experiment/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:47.321+01:00","updated":"2025-10-30T23:44:53.657+00:00"}
 ---
 
-#case_study #veganism 
+
+
 
 - [[The price of pb meat alternatives relative to animal meat\|The price of pb meat alternatives relative to animal meat]]
 

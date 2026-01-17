@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/smallhold-farming/","created":"2025-10-23T17:42:47.392+01:00","updated":"2025-10-23T18:06:08.712+01:00"}
+{"dg-publish":true,"permalink":"/smallhold-farming/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:47.392+01:00","updated":"2025-10-30T23:44:53.673+00:00"}
 ---
 
-#farming #lower_middle_income_countries 
+
+
 
 - [[Small scale farming for people in LMICS\|Small scale farming for people in LMICS]]
 - [[The role of small-scale Livestock in food security in low and middle income countries\|The role of small-scale Livestock in food security in low and middle income countries]]

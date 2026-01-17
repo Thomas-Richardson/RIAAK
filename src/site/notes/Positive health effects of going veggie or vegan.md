@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/positive-health-effects-of-going-veggie-or-vegan/","created":"2025-10-23T17:42:44.078+01:00","updated":"2025-10-23T18:06:08.689+01:00"}
+{"dg-publish":true,"permalink":"/positive-health-effects-of-going-veggie-or-vegan/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:44.078+01:00","updated":"2025-10-30T23:44:53.584+00:00"}
 ---
 
-#animal_advocacy #health_nutrition #veganism 
+
+
 
 - [[Bryant Confidential/CAWF NHS report MOC\|CAWF NHS report MOC]]
 - [[Health risks of veggie veganism\|Health risks of veggie veganism]]

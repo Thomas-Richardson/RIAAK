@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/people-resist-talking-about-factory-farming/","tags":["factory_farming","psychology"],"created":"2025-10-23T17:42:48.043+01:00","updated":"2025-10-23T18:06:08.743+01:00"}
+{"dg-publish":true,"permalink":"/people-resist-talking-about-factory-farming/","tags":[null,"psychology"],"created":"2025-10-23T17:42:48.043+01:00","updated":"2026-01-16T11:08:48.726+00:00"}
 ---
 
-#factory_farming 
-
 - [[Awareness of factory farming\|Awareness of factory farming]]
+- 
 
 Global web searches on the topic of “intensive animal farming” (which includes search terms like “factory farming”) have stayed constant relative to other searches over the last two decades.
 

@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/world-animal-protection-2024/","created":"2025-10-23T17:42:46.104+01:00","updated":"2025-10-23T18:06:08.921+01:00"}
+{"dg-publish":true,"permalink":"/citations/world-animal-protection-2024/","tags":["Note","Type","citation","factory_farming","High_Income_Countries/UK","undefined"],"created":"2025-10-23T17:42:46.104+01:00","updated":"2025-12-10T12:59:34.962+00:00"}
 ---
 
-#citation #factory_farming #uk 
+
+
 
 https://www.worldanimalprotection.org.uk/siteassets/reports/confined-in-cruelty-report.pdf
 

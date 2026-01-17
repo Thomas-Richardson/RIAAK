@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quantifying-the-environmental-risks-from-pig-and-poultry-production-in-the-uk-cumulus-et-al/","tags":["animal_feed"],"created":"2025-10-23T17:42:43.937+01:00","updated":"2025-10-23T19:18:51.167+01:00"}
+{"dg-publish":true,"permalink":"/quantifying-the-environmental-risks-from-pig-and-poultry-production-in-the-uk-cumulus-et-al/","tags":["animal_feed"],"created":"2025-10-23T17:42:43.937+01:00","updated":"2025-10-30T23:40:02.300+00:00"}
 ---
 
 This report contains an executive summary. As requested, it is reproduced here exactly.
@@ -57,3 +57,11 @@ Focus to date on the environmental impacts of pig and poultry production has lar
 The environmental impacts associated with soil erosion, fertiliser application, and pesticide use on the significant land area associated with producing feed for pig and poultry units are likely significant, but currently fall outside of any reporting or permitting on the environmental impacts of pig and poultry units.
 
 The findings of this report also show that the majority of breeding sows in England fall outside the environmental permitting regulations, alongside significant proportions of other pig populations across the UK. This means that regulators lack a key route to managing the potential environmental impacts of these enterprises. In contrast, a high proportion of poultry is in larger units falling within the environmental permitting regulations. However, even where the permitting regime applies, not all producers appear to be adopting best practice in manure storage and application. The nutrient pollution issues in the River Wye catchment highlight the impacts that locally-concentrated manure applications in excess of crop need and soil capacity can bring.
+
+# AI suggested related notes
+
+These notes appear semantically similar based on Smart Connections embeddings:
+
+- [[Citations/The Hidden Harms of Factory Farms (Conservative Animal Welfare Foundation)\|The Hidden Harms of Factory Farms (Conservative Animal Welfare Foundation)]] (similarity: 74.1%)
+- [[Citations/The Future of Food Security in the UK (Conservative Animal Welfare Foundation)\|The Future of Food Security in the UK (Conservative Animal Welfare Foundation)]] (similarity: 72.8%)
+- [[Calculating the environmental damage caused by UK factory farms\|Calculating the environmental damage caused by UK factory farms]] (similarity: 71.1%)

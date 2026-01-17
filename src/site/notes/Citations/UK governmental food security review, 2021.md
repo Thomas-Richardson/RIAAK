@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/uk-governmental-food-security-review-2021/","tags":["animal_feed"],"created":"2025-10-23T17:42:45.960+01:00","updated":"2025-10-23T19:18:51.121+01:00"}
+{"dg-publish":true,"permalink":"/citations/uk-governmental-food-security-review-2021/","tags":["animal_feed","Bryant/Project/cawf_food_sec","citation","food_security","High_Income_Countries/UK"],"created":"2025-10-23T17:42:45.960+01:00","updated":"2025-12-10T12:59:34.635+00:00"}
 ---
 
-#citation #food_security #uk #cawf_food_sec 
+
+
 
 - [[Citations/UK governmental food security review, 2024\|UK governmental food security review, 2024]] 
 

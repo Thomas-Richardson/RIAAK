@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/social-change-misc/","created":"2025-10-23T17:42:43.821+01:00","updated":"2025-10-23T18:06:08.680+01:00"}
+{"dg-publish":true,"permalink":"/social-change-misc/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:43.821+01:00","updated":"2025-10-30T23:44:53.540+00:00"}
 ---
 
-#animal_advocacy #politics 
+
+
 
 - [[Prophetic promotion\|Prophetic promotion]]
 

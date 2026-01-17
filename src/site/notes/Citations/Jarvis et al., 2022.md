@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/jarvis-et-al-2022/","created":"2025-10-23T17:42:44.737+01:00","updated":"2025-10-23T18:06:08.796+01:00"}
+{"dg-publish":true,"permalink":"/citations/jarvis-et-al-2022/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:44.737+01:00","updated":"2025-10-30T23:44:54.002+00:00"}
 ---
 
-#citation #veganism #health_nutrition 
+
+
 
 https://cdnsciencepub.com/doi/full/10.1139/apnm-2022-0059?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org
 

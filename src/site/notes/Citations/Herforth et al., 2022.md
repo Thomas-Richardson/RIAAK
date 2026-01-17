@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/herforth-et-al-2022/","created":"2025-10-23T17:42:46.487+01:00","updated":"2025-10-23T18:06:08.942+01:00"}
+{"dg-publish":true,"permalink":"/citations/herforth-et-al-2022/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:46.487+01:00","updated":"2025-10-30T23:44:54.210+00:00"}
 ---
 
- #citation #economics #health_nutrition  
+
+
 
 World Bank, adapted from Herforth, A., Venkat, A., Bai, Y., Costlow, L., Holleman, C. & Masters, W.A. 2022. Methods and options to monitor globally the cost and affordability of a healthy diet. Background paper for The State of Food Security and Nutrition in the World 2022. Rome, FAO.
 

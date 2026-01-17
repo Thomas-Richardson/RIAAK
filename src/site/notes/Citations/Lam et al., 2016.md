@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/lam-et-al-2016/","created":"2025-10-23T17:42:44.638+01:00","updated":"2025-10-23T18:06:08.788+01:00"}
+{"dg-publish":true,"permalink":"/citations/lam-et-al-2016/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:44.638+01:00","updated":"2025-10-30T23:44:53.986+00:00"}
 ---
 
-#factory_farming #citation #lower_middle_income_countries 
+
+
 
 https://clf.jhsph.edu/sites/default/files/2019-01/IFAP-in-low-and-middle-income-countries-a-landscape-assessment.pdf
 

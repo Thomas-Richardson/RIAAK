@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/plenty-of-fish-in-the-sea-not-enough-to-feed-10-billion-people-sustainably/","title":"Plenty of fish in the sea? Not enough to feed 10 billion people sustainably.","tags":["wild_animals - light_read - important_read - listen_to - alternative_proteins - cultivated_meat"],"created":"2025-10-23T17:42:47.478+01:00","updated":"2025-10-23T19:20:34.076+01:00"}
+{"dg-publish":true,"permalink":"/plenty-of-fish-in-the-sea-not-enough-to-feed-10-billion-people-sustainably/","title":"Plenty of fish in the sea? Not enough to feed 10 billion people sustainably.","tags":["wild_animals - light_read - important_read - listen_to - alternative_proteins - cultivated_meat - Economics/jobs"],"created":"2025-10-23T17:42:47.478+01:00","updated":"2025-11-06T18:34:27.697+00:00"}
 ---
 
 ### Alternative seafood is an important tool to help our oceans thrive while feeding a growing population.
@@ -102,3 +102,11 @@ Scaling plant-based and cultivated seafood can help meet growing global demand w
 Building a better food system will require a diversity of solutions. Just as the conservation community must pursue every viable path to protect ocean health, the alternative protein industry must advance multiple technology platforms to produce seafood without the animal.
 
 Alternative seafood is the future of sustainable seafood. To scale this industry, we need bold innovators and committed champions—across climate, biodiversity, public health, and food security—who are ready to make it a global priority. An ocean of opportunity awaits.
+
+# AI suggested related notes
+
+These notes appear semantically similar based on Smart Connections embeddings:
+
+- [[The small body problem\|The small body problem]] (similarity: 70.9%)
+- [[Solutions to the small body problem (Insight piece)\|Solutions to the small body problem (Insight piece)]] (similarity: 70.6%)
+- [[Alternative proteins are better for the environment\|Alternative proteins are better for the environment]] (similarity: 68.1%)

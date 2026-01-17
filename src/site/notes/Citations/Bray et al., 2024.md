@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/bray-et-al-2024/","created":"2025-10-23T17:42:46.872+01:00","updated":"2025-10-23T18:06:08.960+01:00"}
+{"dg-publish":true,"permalink":"/citations/bray-et-al-2024/","tags":["Note","Type","citation","economics","undefined"],"created":"2025-10-23T17:42:46.872+01:00","updated":"2025-10-31T14:42:34.597+00:00"}
 ---
 
-#citation #economics 
+
+
 
 - [[crossed elasticities of meat and meat alts\|Crossed elasticities of meat and meat alts]]
 

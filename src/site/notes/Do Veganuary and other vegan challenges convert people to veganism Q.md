@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/do-veganuary-and-other-vegan-challenges-convert-people-to-veganism-q/","created":"2025-10-23T17:42:47.964+01:00","updated":"2025-10-23T18:06:08.740+01:00"}
+{"dg-publish":true,"permalink":"/do-veganuary-and-other-vegan-challenges-convert-people-to-veganism-q/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:47.964+01:00","updated":"2025-10-30T23:44:53.821+00:00"}
 ---
 
-#veganism #behaviour_change 
+
+
 
 - [[Does Veganuary increase demand for veggie products\|Does Veganuary increase demand for veggie products]] 
 

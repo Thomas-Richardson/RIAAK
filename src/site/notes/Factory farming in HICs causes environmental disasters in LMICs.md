@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/factory-farming-in-hi-cs-causes-environmental-disasters-in-lmi-cs/","tags":["factory_farming"],"created":"2025-10-23T17:42:43.139+01:00","updated":"2025-10-23T18:06:08.660+01:00"}
+{"dg-publish":true,"permalink":"/factory-farming-in-hi-cs-causes-environmental-disasters-in-lmi-cs/","tags":[null,null,null,null,"Economics/jobs"],"created":"2025-10-23T17:42:43.139+01:00","updated":"2025-11-06T18:40:59.190+00:00"}
 ---
 
-#mfa_food_sec #lower_middle_income_countries #environment_ghg  #factory_farming 
+
+
 
 - [[Food stability for people in LMICs and animal agriculture\|Food stability for people in LMICs and animal agriculture]]
 - [[Environmental damage caused by factory farms\|Environmental damage caused by factory farms]]

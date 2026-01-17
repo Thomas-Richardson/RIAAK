@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/the-netherlands-is-a-blueprint-of-vegetable-production-for-europe/","tags":["animal_feed"],"created":"2025-10-23T17:42:41.366+01:00","updated":"2025-10-23T19:18:51.180+01:00"}
+{"dg-publish":true,"permalink":"/the-netherlands-is-a-blueprint-of-vegetable-production-for-europe/","tags":[null,null,null,null,"Economics/jobs"],"created":"2025-10-23T17:42:41.366+01:00","updated":"2025-11-06T18:43:46.685+00:00"}
 ---
 
-#europe #food_security #cawf_food_sec 
+
+
 
 - [[Convert animal feed cropland to growing vegetables for UK nutrition security\|Convert animal feed cropland to growing vegetables for UK nutrition security]]
 

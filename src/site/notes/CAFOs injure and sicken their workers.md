@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/caf-os-injure-and-sicken-their-workers/","tags":["factory_farming","health_disease"],"created":"2025-10-23T17:42:42.933+01:00","updated":"2025-10-23T17:42:42.934+01:00"}
+{"dg-publish":true,"permalink":"/caf-os-injure-and-sicken-their-workers/","tags":[null,null,null,null,"Health/Disease","Economics/jobs"],"created":"2025-11-06T16:26:10.188+00:00","updated":"2025-11-06T16:26:10.188+00:00"}
 ---
 
-#factory_farming #health_disease  #chickens #pigs
+
+
 
 - [[CAFOs wreck domestic rural communities\|CAFOs wreck domestic rural communities]]
 - [[Environmental damage caused by factory farms\|Environmental damage caused by factory farms]] 

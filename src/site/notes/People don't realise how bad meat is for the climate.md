@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/people-don-t-realise-how-bad-meat-is-for-the-climate/","created":"2025-10-23T17:42:47.474+01:00","updated":"2025-10-23T18:06:08.718+01:00"}
+{"dg-publish":true,"permalink":"/people-don-t-realise-how-bad-meat-is-for-the-climate/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:47.474+01:00","updated":"2025-10-30T23:44:53.724+00:00"}
 ---
 
-#environment_misc #meat 
+
+
 
 - [[Meat is left out of the climate conversation\|Meat is left out of the climate conversation]]
 

@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/feed-food-competition/","tags":["animal_feed"],"created":"2025-10-23T17:42:43.236+01:00","updated":"2025-10-23T19:18:51.138+01:00"}
+{"dg-publish":true,"permalink":"/feed-food-competition/","tags":[null,null,null,"farming"],"created":"2025-10-23T17:42:43.236+01:00","updated":"2025-10-30T23:44:53.388+00:00"}
 ---
 
-#mfa_food_sec #farming 
+
+
 
 - [[Bryant Confidential/MFA Food sec MOC\|MFA Food sec MOC]]
 - [[The inefficiency of animal products\|The inefficiency of animal products]]

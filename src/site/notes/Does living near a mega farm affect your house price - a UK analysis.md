@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/does-living-near-a-mega-farm-affect-your-house-price-a-uk-analysis/","tags":["animal_feed"],"created":"2025-10-23T17:42:41.402+01:00","updated":"2025-10-23T19:18:51.135+01:00"}
+{"dg-publish":true,"permalink":"/does-living-near-a-mega-farm-affect-your-house-price-a-uk-analysis/","tags":[null,null,null],"created":"2025-10-23T17:42:41.402+01:00","updated":"2025-10-30T23:44:52.928+00:00"}
 ---
 
-#factory_farming #uk 
+
+
 
 - [[Proximity to CAFOs and house prices\|Proximity to CAFOs and house prices]]
 ## **3.4. Reductions in property values**

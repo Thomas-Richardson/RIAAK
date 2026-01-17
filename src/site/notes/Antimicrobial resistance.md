@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/antimicrobial-resistance/","created":"2025-10-23T17:42:43.016+01:00","updated":"2025-10-23T18:06:08.655+01:00"}
+{"dg-publish":true,"permalink":"/antimicrobial-resistance/","tags":[null,null,null],"created":"2025-11-11T23:26:09.665+00:00","updated":"2025-11-11T23:26:09.665+00:00"}
 ---
 
-#health_disease  #factory_farming 
+
+
 
 Key reference: https://ourworldindata.org/antibiotics-livestock
 

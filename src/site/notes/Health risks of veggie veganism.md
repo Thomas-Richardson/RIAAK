@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/health-risks-of-veggie-veganism/","created":"2025-10-23T17:42:41.969+01:00","updated":"2025-10-23T18:06:08.618+01:00"}
+{"dg-publish":true,"permalink":"/health-risks-of-veggie-veganism/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:41.969+01:00","updated":"2025-10-30T23:44:53.102+00:00"}
 ---
 
-#veganism #health_nutrition 
+
+
 
 - [[The inefficiency of animal products\|The inefficiency of animal products]] 
 - [[Positive health effects of going veggie or vegan\|Positive health effects of going veggie or vegan]]

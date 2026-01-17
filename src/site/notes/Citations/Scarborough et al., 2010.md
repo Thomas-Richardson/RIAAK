@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/scarborough-et-al-2010/","created":"2025-10-23T17:42:46.597+01:00","updated":"2025-10-23T18:06:08.948+01:00"}
+{"dg-publish":true,"permalink":"/citations/scarborough-et-al-2010/","tags":[null,null,null],"created":"2025-10-23T17:42:46.597+01:00","updated":"2025-10-31T14:43:31.400+00:00"}
 ---
 
-#citation #health_nutrition #meat 
+
+
 
 Scarborough, P., Clarke, D., Wickramasinghe, K., & Rayner, M. (2010). Modelling the health impacts of the diets described in ‘Eating the Planet’ published by Friends of the Earth and Compassion in World Farming. _British Heart Foundation Health Promotion Research Group_.
 

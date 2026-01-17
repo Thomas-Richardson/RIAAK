@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/the-growth-of-animal-ag-and-meat-eating/","created":"2025-10-23T17:42:43.031+01:00","updated":"2025-10-23T18:06:08.656+01:00"}
+{"dg-publish":true,"permalink":"/the-growth-of-animal-ag-and-meat-eating/","tags":[null,null,null,null],"created":"2025-10-23T17:42:43.031+01:00","updated":"2025-10-30T23:44:53.300+00:00"}
 ---
 
-#animal_advocacy 
+
+
 
 - [[Citations/Ritchie et al., 2017\|Ritchie et al., 2017]]
 

@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/dietary-sources-of-b12/","created":"2025-10-23T17:42:44.006+01:00","updated":"2025-10-23T18:06:08.687+01:00"}
+{"dg-publish":true,"permalink":"/dietary-sources-of-b12/","tags":[null,null,null,null],"created":"2025-10-23T17:42:44.006+01:00","updated":"2025-10-30T23:44:53.574+00:00"}
 ---
 
-#health_nutrition 
+
+
 
 - [[Health risks of veggie veganism\|Health risks of veggie veganism]]
 - [[Are animal products a good source of B12\|Are animal products a good source of B12]] 

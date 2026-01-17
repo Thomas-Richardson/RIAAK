@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/chan-franks-and-hayek-2022/","created":"2025-10-23T17:42:46.224+01:00","updated":"2025-10-23T18:06:08.926+01:00"}
+{"dg-publish":true,"permalink":"/citations/chan-franks-and-hayek-2022/","tags":["Note","Type","chickens","citation","undefined"],"created":"2025-10-23T17:42:46.224+01:00","updated":"2025-10-31T14:42:34.592+00:00"}
 ---
 
-#citation #chickens 
+
+
 
 - [[The inefficiency of animal products\|The inefficiency of animal products]]
 

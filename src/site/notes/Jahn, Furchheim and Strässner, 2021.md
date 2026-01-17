@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/jahn-furchheim-and-straessner-2021/","created":"2025-10-23T17:42:43.837+01:00","updated":"2025-10-23T18:06:08.680+01:00"}
+{"dg-publish":true,"permalink":"/jahn-furchheim-and-straessner-2021/","tags":[null,null,null,null],"created":"2025-10-23T17:42:43.837+01:00","updated":"2025-10-30T23:44:53.546+00:00"}
 ---
 
-#alternative_proteins 
+
+
 
 - [[Getting people to eat more meat alternatives\|Getting people to eat more meat alternatives]]
 ## Abstract

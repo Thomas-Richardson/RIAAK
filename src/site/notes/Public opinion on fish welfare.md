@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/public-opinion-on-fish-welfare/","created":"2025-10-23T17:42:47.314+01:00","updated":"2025-10-23T18:06:08.707+01:00"}
+{"dg-publish":true,"permalink":"/public-opinion-on-fish-welfare/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:47.314+01:00","updated":"2025-10-30T23:44:53.656+00:00"}
 ---
 
-#fish #consumer_attitudes 
+
+
 
 https://www.ciwf.org.uk/media/7458798/2024-eu-aquatic-animals-survey_ciwf_efa_sapience_results-slides_v3.pdf
 
@@ -24,4 +25,12 @@ The 12 countries included: China, Czech Republic, France, Germany, Greece, Italy
 - EU citizens seem to associate aquatic animal welfare considerations with sustainability labels #labelling 
 - They also show openness to having information about fish farming practices on the labels of fish products.
 - Their current knowledge on common labels is nevertheless poor: they either lack awareness or believe that these labels impose rigorous welfare standards.
-- 
+-
+
+# AI suggested related notes
+
+These notes appear semantically similar based on Smart Connections embeddings:
+
+- [[Citations/How much do Europeans care about fish welfare (An analysis of relevant surveys) (Rethink Priorities)\|How much do Europeans care about fish welfare (An analysis of relevant surveys) (Rethink Priorities)]] (similarity: 79.6%)
+- [[Most people strongly support animal rights\|Most people strongly support animal rights]] (similarity: 75.4%)
+- [[Citations/Looking Beneath the Surface - Fish Welfare in European Aquaculture (Eurogroup for Animals)\|Looking Beneath the Surface - Fish Welfare in European Aquaculture (Eurogroup for Animals)]] (similarity: 74.1%)

@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/prejudice-against-vegans/","created":"2025-10-23T17:42:43.152+01:00","updated":"2025-10-23T18:06:08.661+01:00"}
+{"dg-publish":true,"permalink":"/prejudice-against-vegans/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:43.152+01:00","updated":"2025-10-30T23:44:53.371+00:00"}
 ---
 
-#veganism #psychology 
+
+
 
 [Adamczyk and Maison 2023](https://www.tandfonline.com/doi/full/10.1080/00224545.2022.2136564#d1e392) is a study of 800 Polish adults found that men were perceived as less competent in a job role if they were described as vegan. Women were not. Neither were perceived as more or less warm. There was no effect of veganism on judgements of suitability for a job or willingness to hire.
 

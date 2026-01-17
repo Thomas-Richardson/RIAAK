@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/citations/vipham-et-al-2020/","created":"2025-10-23T17:42:46.034+01:00","updated":"2025-10-23T18:06:08.915+01:00"}
+{"dg-publish":true,"permalink":"/citations/vipham-et-al-2020/","tags":["food_safety"],"created":"2025-10-23T17:42:46.034+01:00","updated":"2025-11-11T23:23:40.788+00:00"}
 ---
-
-#citation #mfa_food_sec #health_disease  #farming 
 
 Vipham, J. L., Amenu, K., Alonso, S., Ndahetuye, J. B., Zereyesus, Y., Nishimwe, K., ... & Grace, D. (2020). No food security without food safety: Lessons from livestock related research. _Global Food Security_, _26_, 100382.
 

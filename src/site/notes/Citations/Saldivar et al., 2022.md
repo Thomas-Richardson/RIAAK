@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/saldivar-et-al-2022/","created":"2025-10-23T17:42:45.059+01:00","updated":"2025-10-23T18:06:08.813+01:00"}
+{"dg-publish":true,"permalink":"/citations/saldivar-et-al-2022/","tags":[null,null,null,null,null,null,null],"created":"2025-10-23T17:42:45.059+01:00","updated":"2025-11-04T12:17:45.783+00:00"}
 ---
 
-#citation #case_study #health_nutrition #veganism 
+
+
 
 Since 2018 The Florida University has had a plant-based menu for patients, families and employees
 
@@ -40,7 +41,7 @@ All medical staff are also advocates leading the charge which helps. Nursing sta
 patients receive educational materials about the role of diet and lifestyle choices and their impact on chronic illnesses. They are encouraged to watch documentaries on healthier eating on their inpatient televisions. 
 
 ## Ideas
-- A few plant based meals won't improve health, but if it introduces patients to good pb food then it could spillover into dietary change at home. I wonder if this has been measured? #study_idea
+- A few plant based meals won't improve health, but if it introduces patients to good pb food then it could spillover into dietary change at home. I wonder if this has been measured? #Bryant/Project/Idea
 
 ## Example menu
 ![u_o_florida_pb_hospital menu.jpg](/img/user/u_o_florida_pb_hospital%20menu.jpg)

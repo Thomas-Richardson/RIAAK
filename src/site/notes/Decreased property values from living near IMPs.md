@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/decreased-property-values-from-living-near-im-ps/","created":"2025-10-23T17:42:47.559+01:00","updated":"2025-10-23T18:06:40.018+01:00"}
+{"dg-publish":true,"permalink":"/decreased-property-values-from-living-near-im-ps/","tags":[null],"created":"2025-10-23T17:42:47.559+01:00","updated":"2025-10-30T23:59:27.830+00:00"}
 ---
 
-#cawf_farming 
+
+
 
 - [[Transparent farms\|Transparent farms]]
 - [[Proximity to CAFOs and house prices\|Proximity to CAFOs and house prices]]

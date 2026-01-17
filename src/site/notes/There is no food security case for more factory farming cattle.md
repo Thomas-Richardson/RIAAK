@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/there-is-no-food-security-case-for-more-factory-farming-cattle/","tags":["animal_feed - food_security - factory_farming - cows - environment_land"],"created":"2025-10-23T17:42:41.953+01:00","updated":"2025-10-23T19:18:51.189+01:00"}
+{"dg-publish":true,"permalink":"/there-is-no-food-security-case-for-more-factory-farming-cattle/","tags":[null,null,null,null,"food_security","factory_farming","cows","Environment/Land"],"created":"2025-10-23T17:42:41.953+01:00","updated":"2025-11-04T12:10:04.328+00:00"}
 ---
 
-#food_security #cawf_food_sec #uk 
+
+
 
 Currently, most cattle in the UK are not factory farmed, and graze on pasture for most of their lives.*However, [there is a rising trend](https://www.bbc.co.uk/news/articles/cy4ldkpz1klo) of "zero-grazing" cattle farms or cattle who are confined inside factory farms for their entire lives. Proponents argue that this trend is positive for UK food security, but there are several reasons why this is not the case:
 
@@ -33,3 +34,11 @@ Some cattle farmers will balk at the idea of moving away from cattle; they may f
 - The UK should require all beef and dairy imports to follow the same welfare and environmental standards as UK beef.
 - The UK government should provide grants or loans to cattle farmers looking to convert some land to solar panels.
 - The UK government should ensure a fair, reliable and easy to understand subsidy system for cattle farmers looking to convert grazing land to reforesting.
+
+# AI suggested related notes
+
+These notes appear semantically similar based on Smart Connections embeddings:
+
+- [[Food security in the UK\|Food security in the UK]] (similarity: 76.2%)
+- [[Citations/The Future of Food Security in the UK (Conservative Animal Welfare Foundation)\|The Future of Food Security in the UK (Conservative Animal Welfare Foundation)]] (similarity: 75.6%)
+- [[CAWF 3 food security planning\|CAWF 3 food security planning]] (similarity: 72.4%)

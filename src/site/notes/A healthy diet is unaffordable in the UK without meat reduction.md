@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/a-healthy-diet-is-unaffordable-in-the-uk-without-meat-reduction/","tags":["animal_feed - health_nutrition - uk - food_security"],"created":"2025-10-23T17:42:43.503+01:00","updated":"2025-10-23T19:18:51.077+01:00"}
+{"dg-publish":true,"permalink":"/a-healthy-diet-is-unaffordable-in-the-uk-without-meat-reduction/","tags":["food_security","High_Income_Countries/UK","Meat/meat_reduction","Economics/costs","fruit_veg"],"created":"2025-10-23T17:42:43.503+01:00","updated":"2025-12-10T12:59:34.301+00:00"}
 ---
 
 # The UK gov's recommended healthy diet is unfeasibly expensive for the poorest
@@ -8,7 +8,6 @@
 - Copied from: [[A climate and health friendly diet is affordable for developed countries\|A climate and health friendly diet is affordable for developed countries]]
 	- [[Citations/Hirvonen et al., 2019\|Hirvonen et al., 2019]] Find the [[Citations/EAT Lancet\|EAT Lancet]] is very affordable for developed countries
 	- [[Citations/Springmann et al., 2021\|Springmann et al., 2021]] finds that for most #lower_middle_income_countries,  all healthy and environmentally friendly diets were more expensive than current diets, but that vegan was most affordable
-
 # Food is not expensive in the UK compared to the rest of the world:
 An analysis by [Bain and company for the national food strategy](https://www.nationalfoodstrategy.org/wp-content/uploads/2021/09/Supplementary-Evidence-BAIN-Company.pdf) found that UK citizens have some of the lowest food bills in the world measured as a % of income, only notably exceeded by the US. 
 

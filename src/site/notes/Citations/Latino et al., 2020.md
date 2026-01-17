@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/latino-et-al-2020/","created":"2025-10-23T17:42:47.008+01:00","updated":"2025-10-23T18:06:08.969+01:00"}
+{"dg-publish":true,"permalink":"/citations/latino-et-al-2020/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:47.008+01:00","updated":"2025-10-30T23:44:54.262+00:00"}
 ---
 
-#citation #lower_middle_income_countries #meat 
+
+
 
 Latino, L. R., Pica-Ciamarra, U., & Wisser, D. (2020). Africa: The livestock revolution urbanizes. _Global food security_, _26_, 100399.
 

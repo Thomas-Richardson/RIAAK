@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/couture-hankins-and-bryant/","created":"2025-10-23T17:42:44.896+01:00","updated":"2025-10-23T18:06:08.803+01:00"}
+{"dg-publish":true,"permalink":"/citations/couture-hankins-and-bryant/","tags":["Bryant","citation"],"created":"2025-10-23T17:42:44.896+01:00","updated":"2025-11-04T12:03:59.429+00:00"}
 ---
 
-#citation #bryant_research 
+
+
 
 Preventing Factory Farming in Africa: Strategic Considerations
 

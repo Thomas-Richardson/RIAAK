@@ -1,16 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/diseases-in-farm-animals-cause-economic-shocks/","tags":["wild_animals","health_disease","economics","food_security"],"created":"2025-10-23T17:42:43.453+01:00","updated":"2025-10-24T12:44:59.882+01:00"}
+{"dg-publish":true,"permalink":"/diseases-in-farm-animals-cause-economic-shocks/","tags":["Health/Disease","economics","food_security","Turkeys","Geese","wild_animals","pigs"],"created":"2025-11-11T23:29:33.213+00:00","updated":"2025-12-10T12:59:35.033+00:00"}
 ---
-
-#health_disease #factory_farming 
 
 - [[Bryant Confidential/MFA draft\|MFA draft]] 
 - [[Factory farmed animals cause pandemics and zoonotic disease\|Factory farmed animals cause pandemics and zoonotic disease]]
 
-In 2023 [FAIRR](https://www.fairr.org/resources/reports/industry-reinfected-avian-flu) estimated that similar outbreaks in the U.S. have resulted in approximately 40 million animal losses with economic costs ranging from $2.5 to $3 billion.
+In 2023 [FAIRR](https://www.fairr.org/resources/reports/industry-reinfected-avian-flu) estimated that similar outbreaks in the #High_Income_Countries/USA have resulted in approximately 40 million animal losses with economic costs ranging from $2.5 to $3 billion.
 
-## #uk 
-#cawf_food_sec 
+## #High_Income_Countries/UK 
+#Bryant/Project/cawf_food_sec 
 
 ### Bird flu
 [Thought to have come from a Goose farm in China](https://www.theguardian.com/environment/2022/oct/06/bird-flu-an-urgent-warning-to-move-away-from-factory-farming),  
@@ -22,11 +20,11 @@ In 2022 Bird flu [half the UK’s free range turkeys](https://www.independent.co
 
 Ironically, despite the factory farms playing a key role in causing these diseases to emerge, it is small-scale, free range and high welfare systems also pay dearly. This is because they are less able to control how their animals are exposed.
 
-The UN and FAO[ have admitted](https://www.cms.int/sites/default/files/Scientific%20Task%20Force%20on%20Avian%20Influenza%20and%20Wild%20Birds%20H5N8%20HPAI_December%202016_FINAL.pdf) that that factory poultry farming is a key cause of HPAI. [One study ](https://archpublichealth.biomedcentral.com/articles/10.1186/s13690-017-0218-4)found that intensification of China's poultry sector may have led to HPAI.
+The UN and FAO[ have admitted](https://www.cms.int/sites/default/files/Scientific%20Task%20Force%20on%20Avian%20Influenza%20and%20Wild%20Birds%20H5N8%20HPAI_December%202016_FINAL.pdf) that that factory poultry farming is a key cause of HPAI. [One study ](https://archpublichealth.biomedcentral.com/articles/10.1186/s13690-017-0218-4)found that intensification of #China's poultry sector may have led to HPAI.
 ### Sea lice
-Sea lice prevents aqua farming being a food security silver bullet
+Sea lice prevents aquaculture being a food security silver bullet #fish/farmed 
 ### BSE and F&M
-There are noticeable dips in beef production in the mid-1990s and early 2000s, showing the effects of the bovine spongiform encephalopathy (BSE) and foot and mouth crises. 
+There are noticeable dips in #beef production in the mid-1990s and early 2000s, showing the effects of the bovine spongiform encephalopathy (BSE) and foot and mouth crises. 
 
 The numbers sold for beef dropped from 3.8 million to 2.4 million between 1995 to 1996 due to the impact of BSE on sales [[Citations/UK governmental food security review, 2021\|UK governmental food security review, 2021]]
 ## US

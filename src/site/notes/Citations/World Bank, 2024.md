@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/world-bank-2024/","created":"2025-10-23T17:42:44.373+01:00","updated":"2025-10-23T18:06:08.773+01:00"}
+{"dg-publish":true,"permalink":"/citations/world-bank-2024/","tags":["Environment/GHG","Note","Type","alternative_proteins","citation","cows","Environment/Land","undefined"],"created":"2025-10-23T17:42:44.373+01:00","updated":"2025-11-04T12:10:04.174+00:00"}
 ---
 
-#citation #environment_ghg #cows #alternative_proteins #environment_land 
+
+
 
 https://openknowledge.worldbank.org/entities/publication/406c71a3-c13f-49cd-8f3f-a071715858fb
 

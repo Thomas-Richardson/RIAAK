@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/gleckel-2020/","created":"2025-10-23T17:42:46.380+01:00","updated":"2025-10-23T18:06:08.937+01:00"}
+{"dg-publish":true,"permalink":"/citations/gleckel-2020/","tags":["labelling"],"created":"2025-10-23T17:42:46.380+01:00","updated":"2026-01-06T10:41:24.625+00:00"}
 ---
 
-#citation #dairy #consumer_attitudes #labelling 
+
+
 
 - [[PB food labels are not confusing to consumers\|PB food labels are not confusing to consumers]]
 

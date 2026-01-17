@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/caf-os-distort-markets/","tags":["animal_feed - factory_farming - economics"],"created":"2025-10-23T17:42:42.969+01:00","updated":"2025-10-23T19:18:51.094+01:00"}
+{"dg-publish":true,"permalink":"/caf-os-distort-markets/","tags":[null,null,"factory_farming","economics","pigs"],"created":"2025-11-11T23:29:30.529+00:00","updated":"2025-11-11T23:29:30.529+00:00"}
 ---
 
-#factory_farming 
+
+
 
 - [[Contract farming\|Contract farming]]
-- [[CAFOs appear economical but aren't\|CAFOs appear economical but aren't]]
+- [[Why factory farms may be less economical than we think\|Why factory farms may be less economical than we think]]
 
 [[Citations/Pew Commission, 2008\|Pew Commission, 2008]]
 

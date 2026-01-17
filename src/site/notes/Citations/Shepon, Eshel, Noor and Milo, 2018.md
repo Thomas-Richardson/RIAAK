@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/citations/shepon-eshel-noor-and-milo-2018/","created":"2025-10-23T17:42:45.424+01:00","updated":"2025-10-23T18:06:08.848+01:00"}
+{"dg-publish":true,"permalink":"/citations/shepon-eshel-noor-and-milo-2018/","tags":[null,null,null,null],"created":"2025-10-23T17:42:45.424+01:00","updated":"2026-01-12T19:51:18.057+00:00"}
 ---
-
-#citation #health_nutrition #farming #mfa_food_sec 
 
 - Says more or less the same thing as [[Citations/Berners-Lee, Watson and Hewitt 2018\|Berners-Lee, Watson and Hewitt 2018]]
 - [[The inefficiency of animal products\|The inefficiency of animal products]]

@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/nakiganda-et-al-2006/","created":"2025-10-23T17:42:46.441+01:00","updated":"2025-10-23T18:06:08.940+01:00"}
+{"dg-publish":true,"permalink":"/citations/nakiganda-et-al-2006/","tags":[null,null,null,null,null,null,null,null],"created":"2025-10-23T17:42:46.441+01:00","updated":"2025-10-30T23:44:54.207+00:00"}
 ---
 
-#citation #lower_middle_income_countries #cows #dairy #mfa_food_sec 
+
+
 
 - [[Small scale farming for people in LMICS\|Small scale farming for people in LMICS]] 
 

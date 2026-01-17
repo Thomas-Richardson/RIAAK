@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/rosenfeld-and-tomiyama-2019/","created":"2025-10-23T17:42:46.124+01:00","updated":"2025-10-23T18:06:08.923+01:00"}
+{"dg-publish":true,"permalink":"/citations/rosenfeld-and-tomiyama-2019/","tags":[null,null,null],"created":"2025-10-23T17:42:46.124+01:00","updated":"2025-10-31T14:43:31.387+00:00"}
 ---
 
-#veganism #psychology #citation 
+
+
 
 - [[Some veggie-vegans eat meat\|Some veggie-vegans eat meat]]
 

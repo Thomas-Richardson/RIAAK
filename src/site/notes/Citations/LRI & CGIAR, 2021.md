@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/lri-and-cgiar-2021/","created":"2025-10-23T17:42:44.658+01:00","updated":"2025-10-23T18:06:08.790+01:00"}
+{"dg-publish":true,"permalink":"/citations/lri-and-cgiar-2021/","tags":["Note","Type","citation","farming","undefined"],"created":"2025-10-23T17:42:44.658+01:00","updated":"2025-10-31T14:42:34.579+00:00"}
 ---
 
-#citation #farming 
+
+
 
  ILRI.(2021). Keeping livestock healthy and well cared for improves animal, human, environment and economic health. Livestock pathways to 2030: One Health Brief 5. Nairobi: International Livestock Research Institute. [https://cgspace.cgiar.org/items/e9f3e3bf-c95f-4731- 8595-502aa738a165](https://cgspace.cgiar.org/items/e9f3e3bf-c95f-4731-8595-502aa738a165)
 

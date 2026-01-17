@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/han-et-al-2019/","created":"2025-10-23T17:42:46.728+01:00","updated":"2025-10-23T18:06:08.954+01:00"}
+{"dg-publish":true,"permalink":"/citations/han-et-al-2019/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:46.728+01:00","updated":"2025-10-30T23:44:54.234+00:00"}
 ---
 
-#citation #health_nutrition  #meat 
+
+
 
 Han, M. A., Zeraatkar, D., Guyatt, G. H., Vernooij, R. W., El Dib, R., Zhang, Y., ... & Johnston, B. C. (2019). Reduction of red and processed meat intake and cancer mortality and incidence: a systematic review and meta-analysis of cohort studies. _Annals of Internal Medicine_, _171_(10), 711-720.
 

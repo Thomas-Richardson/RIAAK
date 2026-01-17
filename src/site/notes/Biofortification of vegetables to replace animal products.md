@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/biofortification-of-vegetables-to-replace-animal-products/","created":"2025-10-23T17:42:47.248+01:00","updated":"2025-10-23T18:06:08.705+01:00"}
+{"dg-publish":true,"permalink":"/biofortification-of-vegetables-to-replace-animal-products/","tags":[null],"created":"2025-10-23T17:42:47.248+01:00","updated":"2025-10-30T23:59:27.814+00:00"}
 ---
 
-#health_nutrition  
+
+
 
 ### biofortification of fruits and vegetables to address malnutrition
 Biofortification is the selective breeding (or genetic engineering) of crops, generally staple crops such as rice, maize and potatoes, to increase their micronutrient levels. For example, wheat and or rice and be bred to express[ higher levels of Zinc](https://express.adobe.com/page/374u3HdR8IqUY/).  This contrasts to standard fortification of foods, which involves adding micronutrients to them after the fact. An example of this is adding Iodine to table salt, a common practice around the world. The most prominent program in bioforitifaction is The [CGIAR HarvestPlus Program](https://ebrary.ifpri.org/digital/collection/p15738coll2/id/136342) which focusses on iron (Fe), zinc (Zn), and vitamin A as deficiency is highest amongst these in LMICs. HarvestPlus has at the time of writing deployed 293 varieties to over 100 million people in 30 countries ([See their website for an interactive map](https://www.harvestplus.org/home/global-reach/)). Notable examples of biofortified crops are shown below: 

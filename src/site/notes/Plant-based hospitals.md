@@ -1,13 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/plant-based-hospitals/","created":"2025-10-23T17:42:42.063+01:00","updated":"2025-10-23T18:06:08.621+01:00"}
+{"dg-publish":true,"permalink":"/plant-based-hospitals/","tags":[null,null,null,null,null,null,null,null],"created":"2025-10-23T17:42:42.063+01:00","updated":"2025-11-06T09:49:50.261+00:00"}
 ---
 
-#behaviour_change #health_nutrition #environment_misc #veganism #institutional_change 
+
+
 
 - [[Institutional Change\|Institutional Change]]
 - [[The Plant-based universities campaign\|The Plant-based universities campaign]]
 - [[The plant based councils campaign\|The plant based councils campaign]]
-- [[Healthcare savings from veg diets\|Healthcare savings from veg diets]]
+- [[Healthcare cost savings from shifting diets\|Healthcare cost savings from shifting diets]]
 - [[Plant-Based Initiatives Get Big Support in the Big Apple\|Plant-Based Initiatives Get Big Support in the Big Apple]]
 
 - The American College of Cardiology describes hospitalisation as a ‘teachable moment’ for patients as healthcare professionals can inform them about the benefits of a nutritious diet in aiding recovery.
@@ -39,17 +40,22 @@ King's college London Hospital interviewed over 100 patients about their opinion
 
 
 
-## Review of plant based hospital initiatives
-|                                            | Inpatient Menu             | Outpatient Menu | Other Initiatives                                                                                                                                                                                                                 |
-| ------------------------------------------ | -------------------------- | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Kaiser Permanente                          |                            | ✓               | Launched over 50 hospital- and clinic-related farmers markets in California. Developed virtual and on-site cardiac rehab program that provides kitchen basics.                                                                    |
-| Montefiore Health System                   | ✓                          | ✓               | Implemented “Meatless Mondays” in the hospital cafeterias. Has intensive outpatient Saturday plant-based immersion program.                                                                                                       |
-| National Jewish Health/St. Joseph Hospital | ✓                          | ✓               | Launched intensive plant-based cardiac rehabilitation program.                                                                                                                                                                    |
-| NYC Health + Hospitals/Bellevue            |                            |                 | Launched intensive outpatient plant-based lifestyle program for cardiometabolic risk reduction. Implemented a “Meatless Monday” option into hospital menus. Offer annual plant-based healthy eating challenge for hospital staff. |
-| Tampa Veterans Affairs                     | ✓                          | ✓               | Established the HEAL cardiology clinic, which provides intensive outpatient support for nutrition and health. A large portion of this discussion is centered around sleep and a whole foods plant-based diet.                                                                                                                     |
-| United Medical Center                      |                            | ✓               | Hosted plant-based lunch buffets accompanied by nutrition lectures. Offered taste tests to patients and replaced processed meat with meatless options.                                                                            |
-| University of Florida                      | ✓                          | ✓               | Launched an intensive outpatient prevention program to lower cardiovascular risk                                                                                                                                                  |
 
+## Abstract
+Poor dietary quality is a leading contributor to mortality in the United States, and to most cardiovascular risk factors. By providing education on lifestyle changes and, specifically, dietary changes, hospitals have the opportunity to use the patient experience as a “teachable moment.” The food options provided to inpatients and outpatients can be a paradigm for patients to follow upon discharge from the hospital. There are hospitals in the United States that are showcasing novel ways to increase awareness of optimal dietary patterns and can serve as a model for hospitals nationwide.
+
+# Notes
+*   Poor dietary quality is the leading contributor to premature mortality in the United States, with dietary patterns low in plant-foods being a primary factor.
+*   The report emphasizes that dietary patterns focusing on plant-based foods, as opposed to animal-derived products, are associated with significant reductions in cardiovascular risk.
+*   In 2017, the American Medical Association (AMA) called on U.S. hospitals to improve patient, staff, and visitor health by providing plant-based meals and eliminating processed meats from menus.
+*   The American College of Cardiology (ACC) has put forth similar standards, adding that plant-based meals should be actively offered and promoted within hospital settings.
+*   Legislative action is supporting this shift; in 2018, California mandated the availability of plant-based meals for hospital patients.
+*   The paper showcases several hospitals that have successfully implemented healthful nutrition programs by offering separate, 100% plant-based menus for inpatients.
+*   Pioneering institutions mentioned include the University of Florida's Shands Hospital, Montefiore Health System (Bronx, NY), Northwell's Lenox Hill Hospital (New York, NY), and the Tampa Veterans Administration (VA) hospital.
+*   Many hospitals are also introducing plant-forward options in outpatient settings and cafeterias, with programs like "Meatless Monday" being implemented at Montefiore and NYC Health + Hospitals/Bellevue.
+*   These initiatives extend beyond menus to include educational programs, such as outpatient lifestyle medicine clinics, cooking classes, and partnerships with local farmers markets (e.g., Kaiser Permanente).
+*   The report includes sample plant-based menus from hospitals, featuring dishes such as Tofu Scramble, Black Bean Burgers, Lentil Bolognese, and Tofu Vegetable Stir Fry as replacements for traditional meat-based options.
+*   The core argument is that hospitals can use a patient's stay as a "teachable moment" to introduce and model healthful dietary changes that patients can continue after discharge.
 
 </div></div>
  
@@ -60,12 +66,22 @@ King's college London Hospital interviewed over 100 patients about their opinion
 
 
 
-## NYC Health + Hospitals/Bellevue
-#case_study 
-A pilot outpatient program where patients work with a tveam of physicians, a dietitian, and a health coach to transition to a whole-foods, plant-based diet, increase physical activity, and learn stress-management techniques and sleep hygiene.
 
-In the first 3 months since the program launched, early clinical successes include significant reductions in glycosylated hemoglobin, lipids, and body weight. Patients have also reported improved energy, sleep, and motivation to cook healthy meals at home. Anecdotally, patient satisfaction is high. At the time of writing it was undergoing formal review
+## Abstract
+Poor dietary quality is a leading contributor to mortality in the United States, and to most cardiovascular risk factors. By providing education on lifestyle changes and, specifically, dietary changes, hospitals have the opportunity to use the patient experience as a “teachable moment.” The food options provided to inpatients and outpatients can be a paradigm for patients to follow upon discharge from the hospital. There are hospitals in the United States that are showcasing novel ways to increase awareness of optimal dietary patterns and can serve as a model for hospitals nationwide.
 
+# Notes
+*   Poor dietary quality is the leading contributor to premature mortality in the United States, with dietary patterns low in plant-foods being a primary factor.
+*   The report emphasizes that dietary patterns focusing on plant-based foods, as opposed to animal-derived products, are associated with significant reductions in cardiovascular risk.
+*   In 2017, the American Medical Association (AMA) called on U.S. hospitals to improve patient, staff, and visitor health by providing plant-based meals and eliminating processed meats from menus.
+*   The American College of Cardiology (ACC) has put forth similar standards, adding that plant-based meals should be actively offered and promoted within hospital settings.
+*   Legislative action is supporting this shift; in 2018, California mandated the availability of plant-based meals for hospital patients.
+*   The paper showcases several hospitals that have successfully implemented healthful nutrition programs by offering separate, 100% plant-based menus for inpatients.
+*   Pioneering institutions mentioned include the University of Florida's Shands Hospital, Montefiore Health System (Bronx, NY), Northwell's Lenox Hill Hospital (New York, NY), and the Tampa Veterans Administration (VA) hospital.
+*   Many hospitals are also introducing plant-forward options in outpatient settings and cafeterias, with programs like "Meatless Monday" being implemented at Montefiore and NYC Health + Hospitals/Bellevue.
+*   These initiatives extend beyond menus to include educational programs, such as outpatient lifestyle medicine clinics, cooking classes, and partnerships with local farmers markets (e.g., Kaiser Permanente).
+*   The report includes sample plant-based menus from hospitals, featuring dishes such as Tofu Scramble, Black Bean Burgers, Lentil Bolognese, and Tofu Vegetable Stir Fry as replacements for traditional meat-based options.
+*   The core argument is that hospitals can use a patient's stay as a "teachable moment" to introduce and model healthful dietary changes that patients can continue after discharge.
 
 </div></div>
 
@@ -75,9 +91,22 @@ In the first 3 months since the program launched, early clinical successes inclu
 
 
 
-## Kaiser Permanente
-In 2003, Kaiser Permanente launched its first farmers market to re-introduce the concept of food as medicine. Today, the Kaiser Permanente network in Southern California boasts over 50 hospital- and clinic-related farmers markets. Locally, Kaiser Permanente Riverside Medical Center has removed sugar-sweetened beverages and deep fryers from its medical center and offers vegan and vegetarian options for inpatient and outpatient eating selections, along with daily healthy choices, salad bars, and a variety of fruits.
 
+## Abstract
+Poor dietary quality is a leading contributor to mortality in the United States, and to most cardiovascular risk factors. By providing education on lifestyle changes and, specifically, dietary changes, hospitals have the opportunity to use the patient experience as a “teachable moment.” The food options provided to inpatients and outpatients can be a paradigm for patients to follow upon discharge from the hospital. There are hospitals in the United States that are showcasing novel ways to increase awareness of optimal dietary patterns and can serve as a model for hospitals nationwide.
+
+# Notes
+*   Poor dietary quality is the leading contributor to premature mortality in the United States, with dietary patterns low in plant-foods being a primary factor.
+*   The report emphasizes that dietary patterns focusing on plant-based foods, as opposed to animal-derived products, are associated with significant reductions in cardiovascular risk.
+*   In 2017, the American Medical Association (AMA) called on U.S. hospitals to improve patient, staff, and visitor health by providing plant-based meals and eliminating processed meats from menus.
+*   The American College of Cardiology (ACC) has put forth similar standards, adding that plant-based meals should be actively offered and promoted within hospital settings.
+*   Legislative action is supporting this shift; in 2018, California mandated the availability of plant-based meals for hospital patients.
+*   The paper showcases several hospitals that have successfully implemented healthful nutrition programs by offering separate, 100% plant-based menus for inpatients.
+*   Pioneering institutions mentioned include the University of Florida's Shands Hospital, Montefiore Health System (Bronx, NY), Northwell's Lenox Hill Hospital (New York, NY), and the Tampa Veterans Administration (VA) hospital.
+*   Many hospitals are also introducing plant-forward options in outpatient settings and cafeterias, with programs like "Meatless Monday" being implemented at Montefiore and NYC Health + Hospitals/Bellevue.
+*   These initiatives extend beyond menus to include educational programs, such as outpatient lifestyle medicine clinics, cooking classes, and partnerships with local farmers markets (e.g., Kaiser Permanente).
+*   The report includes sample plant-based menus from hospitals, featuring dishes such as Tofu Scramble, Black Bean Burgers, Lentil Bolognese, and Tofu Vegetable Stir Fry as replacements for traditional meat-based options.
+*   The core argument is that hospitals can use a patient's stay as a "teachable moment" to introduce and model healthful dietary changes that patients can continue after discharge.
 
 </div></div>
 
@@ -87,9 +116,22 @@ In 2003, Kaiser Permanente launched its first farmers market to re-introduce the
 
 
 
-## Montefiore Health System
-At Montefiore Health System in the Bronx, NY, the Cardiology Division has a plant-based prevention clinic that offers routine medical care in conjunction with intensive preventive counseling. As part of this initiative, the division offers free 4–5-hour long sessions on Saturday mornings, where a physician and a registered dietitian review plant-based nutrition in detail. The division encourages patients to come to the session with a friend or significant other who can support them in making this lifestyle change. In addition, at the meetings patients receive a plant-based meal, which is often the patients’ first introduction to plant-based foods. Montefiore also has a “Meatless Monday” option in their outpatient cafeterias.
 
+## Abstract
+Poor dietary quality is a leading contributor to mortality in the United States, and to most cardiovascular risk factors. By providing education on lifestyle changes and, specifically, dietary changes, hospitals have the opportunity to use the patient experience as a “teachable moment.” The food options provided to inpatients and outpatients can be a paradigm for patients to follow upon discharge from the hospital. There are hospitals in the United States that are showcasing novel ways to increase awareness of optimal dietary patterns and can serve as a model for hospitals nationwide.
+
+# Notes
+*   Poor dietary quality is the leading contributor to premature mortality in the United States, with dietary patterns low in plant-foods being a primary factor.
+*   The report emphasizes that dietary patterns focusing on plant-based foods, as opposed to animal-derived products, are associated with significant reductions in cardiovascular risk.
+*   In 2017, the American Medical Association (AMA) called on U.S. hospitals to improve patient, staff, and visitor health by providing plant-based meals and eliminating processed meats from menus.
+*   The American College of Cardiology (ACC) has put forth similar standards, adding that plant-based meals should be actively offered and promoted within hospital settings.
+*   Legislative action is supporting this shift; in 2018, California mandated the availability of plant-based meals for hospital patients.
+*   The paper showcases several hospitals that have successfully implemented healthful nutrition programs by offering separate, 100% plant-based menus for inpatients.
+*   Pioneering institutions mentioned include the University of Florida's Shands Hospital, Montefiore Health System (Bronx, NY), Northwell's Lenox Hill Hospital (New York, NY), and the Tampa Veterans Administration (VA) hospital.
+*   Many hospitals are also introducing plant-forward options in outpatient settings and cafeterias, with programs like "Meatless Monday" being implemented at Montefiore and NYC Health + Hospitals/Bellevue.
+*   These initiatives extend beyond menus to include educational programs, such as outpatient lifestyle medicine clinics, cooking classes, and partnerships with local farmers markets (e.g., Kaiser Permanente).
+*   The report includes sample plant-based menus from hospitals, featuring dishes such as Tofu Scramble, Black Bean Burgers, Lentil Bolognese, and Tofu Vegetable Stir Fry as replacements for traditional meat-based options.
+*   The core argument is that hospitals can use a patient's stay as a "teachable moment" to introduce and model healthful dietary changes that patients can continue after discharge.
 
 </div></div>
 

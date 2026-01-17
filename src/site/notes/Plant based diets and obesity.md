@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/plant-based-diets-and-obesity/","created":"2025-10-23T17:42:43.373+01:00","updated":"2025-10-23T18:06:08.668+01:00"}
+{"dg-publish":true,"permalink":"/plant-based-diets-and-obesity/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:43.373+01:00","updated":"2025-10-30T23:44:53.423+00:00"}
 ---
 
-#veganism #health_nutrition
+
+
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/citations/jarvis-et-al-2022/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -10,7 +11,8 @@
 
 
 
-#citation #veganism #health_nutrition 
+
+
 
 https://cdnsciencepub.com/doi/full/10.1139/apnm-2022-0059?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org
 

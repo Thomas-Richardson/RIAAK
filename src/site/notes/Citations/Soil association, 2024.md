@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/soil-association-2024/","created":"2025-10-23T17:42:44.855+01:00","updated":"2025-10-23T18:06:08.802+01:00"}
+{"dg-publish":true,"permalink":"/citations/soil-association-2024/","tags":["citation","Environment/Pollution"],"created":"2025-10-23T17:42:44.855+01:00","updated":"2025-11-04T13:50:34.649+00:00"}
 ---
 
-#citation #environment_pollution 
+
+
 
 - [[Water pollution from animal ag\|Water pollution from animal ag]]
 - [[Citations/Sustain, 2024\|Sustain, 2024]]

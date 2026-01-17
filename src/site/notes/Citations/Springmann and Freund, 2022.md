@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/springmann-and-freund-2022/","created":"2025-10-23T17:42:45.501+01:00","updated":"2025-10-23T18:06:08.869+01:00"}
+{"dg-publish":true,"permalink":"/citations/springmann-and-freund-2022/","tags":[null,null,null],"created":"2025-10-23T17:42:45.501+01:00","updated":"2025-10-31T14:43:31.368+00:00"}
 ---
 
-#citation #environment_ghg #economics 
+
+
 
 https://www.nature.com/articles/s41467-021-27645-2
 

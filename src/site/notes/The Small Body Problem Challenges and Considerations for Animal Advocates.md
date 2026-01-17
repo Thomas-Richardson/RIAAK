@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/the-small-body-problem-challenges-and-considerations-for-animal-advocates/","created":"2025-10-23T17:42:47.489+01:00","updated":"2025-10-23T18:06:08.719+01:00"}
+{"dg-publish":true,"permalink":"/the-small-body-problem-challenges-and-considerations-for-animal-advocates/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:47.489+01:00","updated":"2025-10-30T23:44:53.725+00:00"}
 ---
 
-#bryant_insight #fish #chickens 
+
+
 
 - [[The small body problem\|The small body problem]]
 

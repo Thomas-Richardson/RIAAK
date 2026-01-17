@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/leroy-et-al-2023/","tags":["wild_animals"],"created":"2025-10-23T17:42:45.401+01:00","updated":"2025-10-23T19:20:34.054+01:00"}
+{"dg-publish":true,"permalink":"/citations/leroy-et-al-2023/","tags":[null,null,null],"created":"2025-10-23T17:42:45.401+01:00","updated":"2025-10-30T23:44:54.092+00:00"}
 ---
 
-#citation #animal_advocacy 
+
+
 
 ## The role of meat in the human diet: evolutionary aspects and nutritional value
 

@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/pendrill-et-al-2019/","created":"2025-10-23T17:42:44.468+01:00","updated":"2025-10-23T18:06:08.779+01:00"}
+{"dg-publish":true,"permalink":"/citations/pendrill-et-al-2019/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:44.468+01:00","updated":"2025-10-30T23:44:53.949+00:00"}
 ---
 
-#citation #environment_misc #cows 
+
+
 
 https://www.sciencedirect.com/science/article/pii/S0959378018314365
 

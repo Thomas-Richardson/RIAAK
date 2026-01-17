@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/rouhani-et-al-2014/","created":"2025-10-23T17:42:44.888+01:00","updated":"2025-10-23T18:06:08.803+01:00"}
+{"dg-publish":true,"permalink":"/citations/rouhani-et-al-2014/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:44.888+01:00","updated":"2025-10-30T23:44:54.025+00:00"}
 ---
 
-#citation #meat #health_nutrition
+
+
 
 - [[red and processed meat and obesity\|red and processed meat and obesity]]
 

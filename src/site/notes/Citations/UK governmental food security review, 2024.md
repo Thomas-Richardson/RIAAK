@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/uk-governmental-food-security-review-2024/","tags":["animal_feed"],"created":"2025-10-23T17:42:46.272+01:00","updated":"2025-10-23T19:18:51.121+01:00"}
+{"dg-publish":true,"permalink":"/citations/uk-governmental-food-security-review-2024/","tags":["animal_feed","Bryant/Project/cawf_hidden_harms","citation","food_security","High_Income_Countries/UK","farming"],"created":"2025-10-23T17:42:46.272+01:00","updated":"2025-12-10T12:59:34.638+00:00"}
 ---
 
-#citation #uk #food_security #cawf_farming 
+
+
 
 https://assets.publishing.service.gov.uk/media/6756e355d89258d2868dae76/United_Kingdom_Food_Security_Report_2024_11dec2024_web_accessible.pdf
 

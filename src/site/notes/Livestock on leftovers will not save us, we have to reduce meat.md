@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/livestock-on-leftovers-will-not-save-us-we-have-to-reduce-meat/","tags":["animal_feed"],"created":"2025-10-23T17:42:42.803+01:00","updated":"2025-10-23T19:18:51.156+01:00"}
+{"dg-publish":true,"permalink":"/livestock-on-leftovers-will-not-save-us-we-have-to-reduce-meat/","tags":[null,null,null,null],"created":"2025-10-23T17:42:42.803+01:00","updated":"2025-10-30T23:44:53.214+00:00"}
 ---
 
-#food_security #environment_land #farming 
+
+
 
 Can it be done? Probably. Would it solve our problems? Not really.
 

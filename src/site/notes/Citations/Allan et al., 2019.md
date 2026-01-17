@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/allan-et-al-2019/","created":"2025-10-23T17:42:45.063+01:00","updated":"2025-10-23T18:06:08.814+01:00"}
+{"dg-publish":true,"permalink":"/citations/allan-et-al-2019/","tags":["citation","economics","farming"],"created":"2025-10-23T17:42:45.063+01:00","updated":"2025-10-31T14:43:31.355+00:00"}
 ---
 
-#citation #farming #economics 
+
+
 
 - [[The effects of the protein transition on the macro economy\|The effects of the protein transition on the macro economy]]
 

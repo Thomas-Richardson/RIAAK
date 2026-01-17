@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/mixed-evidence-that-nearby-caf-os-make-people-sicker/","created":"2025-10-23T17:42:41.436+01:00","updated":"2025-10-23T18:06:08.597+01:00"}
+{"dg-publish":true,"permalink":"/mixed-evidence-that-nearby-caf-os-make-people-sicker/","tags":[null,null,null,null],"created":"2025-10-23T17:42:41.436+01:00","updated":"2025-11-07T12:30:40.491+00:00"}
 ---
 
-#health_disease 
 
-- [[CAFOs appear economical but aren't\|CAFOs appear economical but aren't]]
+
+
+- [[Why factory farms may be less economical than we think\|Why factory farms may be less economical than we think]]
 - [[bio-aerosols\|bio-aerosols]]
 - [[CAFOs injure and sicken their workers\|CAFOs injure and sicken their workers]]
 - [[Public health damage from living near IMPs\|Public health damage from living near IMPs]]

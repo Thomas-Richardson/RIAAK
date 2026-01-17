@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/bioavailability-of-protein-in-veg-foods/","created":"2025-10-23T17:42:41.556+01:00","updated":"2025-10-23T18:06:08.602+01:00"}
+{"dg-publish":true,"permalink":"/bioavailability-of-protein-in-veg-foods/","tags":[null],"created":"2025-10-23T17:42:41.556+01:00","updated":"2025-10-30T23:59:27.726+00:00"}
 ---
 
-#health_nutrition 
+
+
 
 - [[Health risks of veggie veganism#Protein\|Health risks of veggie veganism#Protein]]
 

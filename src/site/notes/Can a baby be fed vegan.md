@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/can-a-baby-be-fed-vegan/","tags":["animal_feed"],"created":"2025-10-23T17:42:47.831+01:00","updated":"2025-10-23T19:18:51.100+01:00"}
+{"dg-publish":true,"permalink":"/can-a-baby-be-fed-vegan/","tags":[null,null,null],"created":"2025-10-23T17:42:47.831+01:00","updated":"2025-10-30T23:44:53.794+00:00"}
 ---
 
-#veganism #health_disease 
+
+
 
 - [[Health risks of veggie veganism\|Health risks of veggie veganism]]
 ## Unsupplemented diets are insuffient

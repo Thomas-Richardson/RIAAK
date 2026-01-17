@@ -1,12 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/citations/cordova-et-al-2023/","created":"2025-10-23T17:42:45.581+01:00","updated":"2025-10-23T18:06:08.883+01:00"}
+{"dg-publish":true,"permalink":"/citations/cordova-et-al-2023/","tags":["Note","Type","Alternative_Proteins","citation","Health/Nutrition","undefined"],"created":"2025-10-23T17:42:45.581+01:00","updated":"2025-12-29T16:32:57.502+00:00"}
 ---
-
-#health_nutrition  #alternative_proteins #citation 
-
-Cordova, R., Viallon, V., Fontvieille, E., Peruchet-Noray, L., Jansana, A., Wagner, K. H., ... & Freisling, H. (2023). Consumption of ultra-processed foods and risk of multimorbidity of cancer and cardiometabolic diseases: a multinational cohort study. _The Lancet Regional Health–Europe_.
-
-https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762%2823%2900190-4/fulltext
 
 - [[ultraprocessed is misleading\|ultraprocessed is misleading]]
 ## Summary
@@ -22,3 +16,5 @@ After <mark style="background: #FFF3A3A6;">a median of 11.2 years of follow-up</
 - Higher UPF consumption (per 1 standard deviation increment, ∼260 g/day without alcoholic drinks) was associated with an increased risk of multimorbidity of cancer and cardiometabolic diseases (HR: 1.09, 95% CI: 1.05, 1.12). 
 - Among UPF subgroups, <mark style="background: #FFF3A3A6;">associations were most notable for animal-based products</mark> (HR: 1.09, 95% CI: 1.05, 1.12), and artificially and sugar-sweetened beverages (HR: 1.09, 95% CI: 1.06, 1.12). 
 - Other subgroups such as ultra-processed breads and cereals (HR: 0.97, 95% CI: 0.94, 1.00) or <mark style="background: #FFF3A3A6;">plant-based alternatives </mark>(HR: 0.97, 95% CI: 0.91, 1.02) <mark style="background: #FFF3A3A6;">were not associated with risk.</mark>
+
+- [[Are meat alternatives healthier than meat\|Are meat alternatives healthier than meat]]

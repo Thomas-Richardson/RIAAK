@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/faunalytics-open-datasets/","created":"2025-10-23T17:42:42.939+01:00","updated":"2025-10-23T18:06:08.647+01:00"}
+{"dg-publish":true,"permalink":"/faunalytics-open-datasets/","tags":[null,null,null,null],"created":"2025-10-23T17:42:42.939+01:00","updated":"2025-10-30T23:44:53.234+00:00"}
 ---
 
-#data 
+
+
 
 https://faunalytics.org/datasets/
 

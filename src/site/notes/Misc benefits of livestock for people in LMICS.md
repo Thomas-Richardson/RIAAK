@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/misc-benefits-of-livestock-for-people-in-lmics/","created":"2025-10-23T17:42:47.531+01:00","updated":"2025-10-23T18:06:08.723+01:00"}
+{"dg-publish":true,"permalink":"/misc-benefits-of-livestock-for-people-in-lmics/","tags":[null,null,null,null],"created":"2025-10-23T17:42:47.531+01:00","updated":"2025-10-30T23:44:53.747+00:00"}
 ---
 
-#mfa_food_sec 
+
+
 
 - [[Bryant Confidential/MFA Food sec MOC\|MFA Food sec MOC]]
 - [[Small scale farming for people in LMICS\|Small scale farming for people in LMICS]]

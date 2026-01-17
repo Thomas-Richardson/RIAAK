@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/the-ultra-processed-myth/","created":"2025-10-23T17:42:41.934+01:00","updated":"2025-10-23T18:06:08.616+01:00"}
+{"dg-publish":true,"permalink":"/the-ultra-processed-myth/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:41.934+01:00","updated":"2025-10-30T23:44:53.056+00:00"}
 ---
 
-#bryant_insight #health_nutrition #alternative_proteins 
+
+
 
 - [[ultraprocessed is misleading\|ultraprocessed is misleading]]
 - [[Citations/Chapman, 2024\|Chapman, 2024]]

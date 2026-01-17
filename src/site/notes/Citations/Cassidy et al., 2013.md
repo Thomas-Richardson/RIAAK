@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/cassidy-et-al-2013/","tags":["animal_feed"],"created":"2025-10-23T17:42:44.668+01:00","updated":"2025-10-23T19:18:51.106+01:00"}
+{"dg-publish":true,"permalink":"/citations/cassidy-et-al-2013/","tags":["animal_feed","citation","Environment/Land","farming"],"created":"2025-10-23T17:42:44.668+01:00","updated":"2025-11-04T12:10:04.093+00:00"}
 ---
 
-#citation #farming #environment_land 
+
+
 
 https://iopscience.iop.org/article/10.1088/1748-9326/8/3/034015/pdf
 

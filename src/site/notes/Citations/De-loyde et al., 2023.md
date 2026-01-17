@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/de-loyde-et-al-2023/","created":"2025-10-23T17:42:45.774+01:00","updated":"2025-10-23T18:06:08.903+01:00"}
+{"dg-publish":true,"permalink":"/citations/de-loyde-et-al-2023/","tags":["Note","Type","citation","consumer_research","dairy","labelling","undefined"],"created":"2025-10-23T17:42:45.774+01:00","updated":"2025-12-10T12:56:24.833+00:00"}
 ---
 
-#citation #consumer_attitudes #dairy #labelling 
+
+
 
 - [[PB food labels are not confusing to consumers\|PB food labels are not confusing to consumers]]
 

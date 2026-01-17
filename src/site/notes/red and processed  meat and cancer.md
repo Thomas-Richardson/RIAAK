@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/red-and-processed-meat-and-cancer/","created":"2025-10-23T17:42:43.289+01:00","updated":"2025-10-23T18:06:08.666+01:00"}
+{"dg-publish":true,"permalink":"/red-and-processed-meat-and-cancer/","tags":[null,null,null,null,null,null,null],"created":"2025-10-23T17:42:43.289+01:00","updated":"2025-10-30T23:44:53.398+00:00"}
 ---
 
-#health_nutrition #diet #meat #red_meat 
+
+
 
 - [[Why does red and processed meat cause cancer (q)\|Why does red and processed meat cause cancer (q)]]
 - [[Bryant Confidential/CAWF NHS report MOC\|CAWF NHS report MOC]]

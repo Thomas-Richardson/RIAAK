@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/gwp-is-misleading-environmental-measure/","created":"2025-10-23T17:42:41.358+01:00","updated":"2025-10-23T18:06:08.594+01:00"}
+{"dg-publish":true,"permalink":"/gwp-is-misleading-environmental-measure/","tags":[null,null,null,null],"created":"2025-10-23T17:42:41.358+01:00","updated":"2025-10-30T23:44:52.919+00:00"}
 ---
 
-#environment_ghg 
+
+
 
 - [[Measuring GHG emissions\|Measuring GHG emissions]]
 - [[food and meat accounts for a large proportion of greenhouse gas emissions\|food and meat accounts for a large proportion of greenhouse gas emissions]]

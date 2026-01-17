@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/market-shocks-due-to-livestock-farming/","created":"2025-10-23T17:42:43.086+01:00","updated":"2025-10-23T18:06:08.658+01:00"}
+{"dg-publish":true,"permalink":"/market-shocks-due-to-livestock-farming/","tags":[null,null,null,null,null],"created":"2025-11-11T23:26:12.906+00:00","updated":"2025-11-11T23:26:12.906+00:00"}
 ---
 
-#economics 
+
+
 
 - [[Bryant Confidential/MFA Food sec MOC\|MFA Food sec MOC]]
 

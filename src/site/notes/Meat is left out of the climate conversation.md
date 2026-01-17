@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/meat-is-left-out-of-the-climate-conversation/","created":"2025-10-23T17:42:43.497+01:00","updated":"2025-10-23T18:06:08.671+01:00"}
+{"dg-publish":true,"permalink":"/meat-is-left-out-of-the-climate-conversation/","tags":[null,null,null,null],"created":"2025-10-23T17:42:43.497+01:00","updated":"2025-10-30T23:44:53.459+00:00"}
 ---
 
-#environment_ghg 
+
+
 
 - [[People don't realise how bad meat is for the climate\|People don't realise how bad meat is for the climate]]
 - [[food and meat accounts for a large proportion of greenhouse gas emissions\|food and meat accounts for a large proportion of greenhouse gas emissions]]
@@ -17,7 +18,8 @@
 
 
 
-#environment_ghg  #alternative_proteins 
+
+
 
 GFI estimated in 2023 that [[food and meat accounts for a large proportion of greenhouse gas emissions\|Meat contributes ~15% of global GHG]] but alt proteins account for less than 0.5% of climate financing. See also [[Alternative proteins are better for the environment\|Alternative proteins are better for the environment]]
 

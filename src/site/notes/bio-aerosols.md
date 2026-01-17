@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/bio-aerosols/","created":"2025-10-23T17:42:43.462+01:00","updated":"2025-10-23T18:06:08.670+01:00"}
+{"dg-publish":true,"permalink":"/bio-aerosols/","tags":[null],"created":"2025-10-23T17:42:43.462+01:00","updated":"2025-10-30T23:59:27.796+00:00"}
 ---
 
-#health_disease
+
+
 
 - [[CAFOs injure and sicken their workers\|CAFOs injure and sicken their workers]]
 - [[CAFOs wreck domestic rural communities\|CAFOs wreck domestic rural communities]]

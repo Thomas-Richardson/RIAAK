@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/citations/balanced-proteins-2025-consumer-insights-report-food-system-innovations/","created":"2025-10-23T17:42:45.300+01:00","updated":"2025-10-23T17:42:45.300+01:00"}
+{"dg-publish":true,"permalink":"/citations/balanced-proteins-2025-consumer-insights-report-food-system-innovations/","tags":["Alternative_Proteins/Balanced_Proteins"],"created":"2025-10-23T17:42:45.300+01:00","updated":"2026-01-15T10:23:12.981+00:00"}
 ---
 
-
+- [[Balanced or Hybrid Proteins MOC\|Balanced or Hybrid Proteins MOC]] 
 This report contains an executive summary. Here it is reproduced exactly.
 
 ***

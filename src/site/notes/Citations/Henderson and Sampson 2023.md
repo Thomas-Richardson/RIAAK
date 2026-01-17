@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/henderson-and-sampson-2023/","created":"2025-10-23T17:42:46.942+01:00","updated":"2025-10-23T18:06:08.964+01:00"}
+{"dg-publish":true,"permalink":"/citations/henderson-and-sampson-2023/","tags":["Economics/costs","Health/Nutrition","veganism"],"created":"2025-10-23T17:42:46.942+01:00","updated":"2025-11-06T09:48:03.468+00:00"}
 ---
 
-#health_nutrition  #citation #economics #veganism 
+
+
 
 https://www.medrxiv.org/content/10.1101/2023.12.26.23300536v1.full-text
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blogs-and-articles/tactics-in-practice-the-science-of-protests-and-demonstrations/","created":"2025-10-23T17:42:47.574+01:00","updated":"2025-10-23T18:06:08.976+01:00"}
+{"dg-publish":true,"permalink":"/blogs-and-articles/tactics-in-practice-the-science-of-protests-and-demonstrations/","tags":["tactics","research/faunalytics","activism","protest","strategy"],"created":"2025-10-23T17:42:47.574+01:00","updated":"2025-11-11T23:47:18.070+00:00"}
 ---
 
 [Photo by Chuko Cribb on Unsplash](https://unsplash.com/photos/woman-in-white-long-sleeve-shirt-and-black-skirt-sitting-on-chair-G7o5XQcykBI)
@@ -245,3 +245,11 @@ Other Forms Of Street Activism
 - [For Veg\*n Messaging, Timing Matters](https://faunalytics.org/for-vegn-messaging-timing-matters/)
 - [The Impact Of Leaflets: A Controlled Study](https://faunalytics.org/impact-leaflets-controlled-study/)
 - [Planting Seeds: The Impact Of Diet & Different Animal Advocacy Tactics](https://faunalytics.org/relative-effectiveness/)
+
+# AI suggested related notes
+
+These notes appear semantically similar based on Smart Connections embeddings:
+
+- [[Tactics In Practice The Science Of Making And Keeping Veg*ns\|Tactics In Practice The Science Of Making And Keeping Veg*ns]] (similarity: 73.7%)
+- [[A fundamental methodological flaw in the way we do pro-animal messaging studies\|A fundamental methodological flaw in the way we do pro-animal messaging studies]] (similarity: 66.9%)
+- [[orphaned files output\|orphaned files output]] (similarity: 66.7%)

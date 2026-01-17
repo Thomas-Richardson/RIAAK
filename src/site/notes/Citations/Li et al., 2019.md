@@ -1,10 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/citations/li-et-al-2019/","created":"2025-10-23T17:42:45.461+01:00","updated":"2025-10-23T18:06:08.857+01:00"}
+{"dg-publish":true,"permalink":"/citations/li-et-al-2019/","tags":["food_safety","Health/Disease"],"created":"2025-11-11T23:26:09.657+00:00","updated":"2025-11-11T23:26:09.657+00:00"}
 ---
-
-#health_disease  #citation 
-
-https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216545
 
 Li, M., Havelaar, A.H., Hoffmann, S., Hald, T., Kirk, M.D., Torgerson, P.R. et al., 2019. Global disease burden of pathogens in animal source foods, 2010. PLoS One. 2019;14(6):e0216545
 

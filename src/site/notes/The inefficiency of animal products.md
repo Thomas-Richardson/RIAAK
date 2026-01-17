@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/the-inefficiency-of-animal-products/","tags":["environment_land"],"created":"2025-10-23T17:42:44.180+01:00","updated":"2025-10-23T18:06:08.697+01:00"}
+{"dg-publish":true,"permalink":"/the-inefficiency-of-animal-products/","tags":[null,null,null],"created":"2025-10-23T17:42:44.180+01:00","updated":"2025-10-30T23:44:53.610+00:00"}
 ---
 
-#environment_misc #meat 
+
+
 
 - [[Animal agriculture takes up lots of land but provide few calories\|Animal agriculture takes up lots of land but provide few calories]]
 - [[Feed-food competition\|Feed-food competition]]

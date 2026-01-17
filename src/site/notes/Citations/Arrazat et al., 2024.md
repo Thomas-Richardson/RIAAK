@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/arrazat-et-al-2024/","created":"2025-10-23T17:42:45.053+01:00","updated":"2025-10-23T18:06:08.813+01:00"}
+{"dg-publish":true,"permalink":"/citations/arrazat-et-al-2024/","tags":["institutional_change"],"created":"2025-10-23T17:42:45.053+01:00","updated":"2025-11-04T12:14:48.694+00:00"}
 ---
 
-#citation #institutional_change 
+
+
 
 - [[Plant-based Schools\|Plant-based Schools]]
 - [[The Plant-based universities campaign\|The Plant-based universities campaign]]

@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/grass-fed-beef-is-not-better-for-the-environment/","tags":["animal_feed"],"created":"2025-10-23T17:42:41.744+01:00","updated":"2025-10-23T19:18:51.148+01:00"}
+{"dg-publish":true,"permalink":"/grass-fed-beef-is-not-better-for-the-environment/","tags":[null,null,null,null],"created":"2025-10-23T17:42:41.744+01:00","updated":"2025-10-30T23:44:52.997+00:00"}
 ---
 
-#animal_advocacy #environment_ghg #environment_land 
+
+
 
 - [[grass fed beef is not a good source of omega fatty acids\|grass fed beef is not a good source of omega fatty acids]]
 - [[The inefficiency of animal products\|The inefficiency of animal products]]

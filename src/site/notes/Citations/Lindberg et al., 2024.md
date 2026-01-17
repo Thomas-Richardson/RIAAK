@@ -1,10 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/citations/lindberg-et-al-2024/","created":"2025-10-23T17:42:46.064+01:00","updated":"2025-10-23T18:06:08.918+01:00"}
+{"dg-publish":true,"permalink":"/citations/lindberg-et-al-2024/","tags":["Health/Nutrition"],"created":"2025-10-23T17:42:46.064+01:00","updated":"2025-12-29T16:32:03.273+00:00"}
 ---
-
-#citation #health_nutrition 
-
-Lindberg, L., McCann, R. R., Smyth, B., Woodside, J. V., & Nugent, A. P. (2024). The environmental impact, ingredient composition, nutritional and health impact of meat alternatives: a systematic review. _Trends in Food Science & Technology_, 104483.
 
 ## Highlights
 - Meat alternatives have a lower environmental impact than beef and pork products.

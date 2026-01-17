@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/citations/malan-et-al-2022/","created":"2025-10-23T17:42:45.205+01:00","updated":"2025-10-23T18:06:08.824+01:00"}
+{"dg-publish":true,"permalink":"/citations/malan-et-al-2022/","tags":[null,null,null,null,null,null,null],"created":"2025-10-23T17:42:45.205+01:00","updated":"2025-10-30T23:44:54.061+00:00"}
 ---
 
-#citation #animal_advocacy #alternative_proteins  #behaviour_change 
+
+
 
 - [[Citations/Peacock, 2023\|Peacock, 2023]]
 - [[Do vegan products reduce demand for ASFs\|Do vegan products reduce demand for ASFs]]

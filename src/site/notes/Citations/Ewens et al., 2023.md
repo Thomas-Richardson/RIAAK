@@ -1,12 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/citations/ewens-et-al-2023/","created":"2025-10-23T17:42:44.825+01:00","updated":"2025-10-23T18:06:08.801+01:00"}
+{"dg-publish":true,"permalink":"/citations/ewens-et-al-2023/","tags":["Health/Nutrition","institutional_change"],"created":"2025-10-23T17:42:44.825+01:00","updated":"2025-11-05T15:19:55.246+00:00"}
 ---
 
-#citation #health_nutrition  #veganism 
-
 - [[Meat free Mondays\|Meat free Mondays]]
-
-https://www.mdpi.com/2072-6643/15/22/4797
 
 Ewens, E., Young, L., & Mackay, S. (2023). Meat-Free Mondays in Hospital Cafés in Aotearoa, New Zealand. _Nutrients_, _15_(22), 4797.
 

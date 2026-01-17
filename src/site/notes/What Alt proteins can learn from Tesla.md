@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/what-alt-proteins-can-learn-from-tesla/","tags":["alternative_proteins","cultivated_meat","marketing"],"created":"2025-10-23T17:42:42.980+01:00","updated":"2025-10-23T18:06:08.652+01:00"}
+{"dg-publish":true,"permalink":"/what-alt-proteins-can-learn-from-tesla/","tags":["Alternative_Proteins","alternative_proteins/Cultivated_Meat","marketing"],"created":"2025-10-23T17:42:42.980+01:00","updated":"2025-11-04T12:18:15.531+00:00"}
 ---
 
 - [[Marketting alt proteins\|Marketting alt proteins]]

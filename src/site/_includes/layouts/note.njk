@@ -67,10 +67,6 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {% for imp in dynamics.notes.beforeContent %}
         {% include imp %}
       {% endfor %}
-      <!-- ... existing code (dynamic imports) ... -->
-      {% for imp in dynamics.notes.beforeContent %}
-        {% include imp %}
-      {% endfor %}
       <style>
         #ai-search-box { width: 100%; padding: 10px; margin-bottom: 20px; border: 1px solid #ccc; border-radius: 5px; font-family: var(--font-text); }
         .search-result { background: var(--background-secondary); padding: 10px; margin-bottom: 10px; border-radius: 4px; border: 1px solid var(--background-modifier-border); }
@@ -89,8 +85,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
           const resultsDiv = document.getElementById('ai-results');
           resultsDiv.innerHTML = "Searching...";
           
-          // Replace with your actual Vercel URL after deployment
-          const VERCEL_URL = "https://riaak-p9uh3j5if-richies-projects-4c20223c.vercel.app"; 
+          const VERCEL_URL = window.location.origin; 
           
           try {
             const response = await fetch(`${VERCEL_URL}/api/search?q=${encodeURIComponent(query)}`);

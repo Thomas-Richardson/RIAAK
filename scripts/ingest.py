@@ -2,13 +2,14 @@ import os
 import hashlib
 import json
 import frontmatter
+from urllib.parse import quote
 from pinecone import Pinecone, ServerlessSpec
 from openai import OpenAI
 from langchain_text_splitters import MarkdownHeaderTextSplitter
 
 # Configuration
 INDEX_NAME = "digital-garden"
-NOTES_PATH = "src/site/notes" # <--- CHECK THIS PATH matches your repo
+NOTES_PATH = "src/site/notes" 
 EMBEDDING_MODEL = "text-embedding-3-small"
 
 # Initialize Clients
@@ -16,7 +17,7 @@ pc = Pinecone(api_key=os.environ["PINECONE_API_KEY"])
 client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 
 def get_file_hash(content):
-    return hashlib.md5(content.encode('utf-8')).hexdigest()
+    return hashlib.md5(content.encode('utf-8')).hexdigest() # turns notes to unique hashes. whenever the note changes, the hash changed and that's how we know to update the embedding (or not to, which saves money)
 
 def get_embedding(text):
     response = client.embeddings.create(input=text, model=EMBEDDING_MODEL)
@@ -51,14 +52,26 @@ def process_vault():
             
             content = post.content
             tags = post.get("tags", [])
-            if isinstance(tags, str): tags = [t.strip() for t in tags.split(',')]
+            
+            # --- Sanitize Tags ---
+            # Handle case where tags is None
+            if tags is None:
+                tags = []
+            # Handle comma-separated string
+            if isinstance(tags, str): 
+                tags = [t.strip() for t in tags.split(',')]
+            # Handle list containing None or non-string items
+            tags = [str(t) for t in tags if t is not None and str(t).strip() != ""]
             
             # 2. Check Hash to skip unchanged files
             current_hash = get_file_hash(content)
             
-            # We check the first chunk of this file to see if the hash matches
+            # ASCII-fy the path for the ID (Pinecone requirement)
+            # This turns "Strässner.md" into "Str%C3%A4ssner.md" for the ID only otherwise wierd characters will crash the model
+            ascii_path = quote(relative_path)
+            
             # ID format: "filename.md#0"
-            check_id = f"{relative_path}#0"
+            check_id = f"{ascii_path}#0"
             fetch_response = index.fetch(ids=[check_id])
             
             if check_id in fetch_response.vectors:
@@ -102,7 +115,7 @@ def process_vault():
                 metadata.update(chunk.metadata)
                 
                 vectors_to_upsert.append({
-                    "id": f"{relative_path}#{i}",
+                    "id": f"{ascii_path}#{i}",
                     "values": vector,
                     "metadata": metadata
                 })

@@ -64,6 +64,10 @@
             return;
         }
         const el = document.getElementById(id);
+        if (!el) {
+            console.warn(`Graph container element with id '${id}' not found`);
+            return;
+        }
         width = el.offsetWidth;
         height = el.offsetHeight;
         const highlightNodes = new Set();

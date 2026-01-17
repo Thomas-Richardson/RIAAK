@@ -13,9 +13,11 @@ class handler(BaseHTTPRequestHandler):
         self.send_header('Access-Control-Allow-Headers', 'Content-Type')
 
     def do_OPTIONS(self):
+        """Handle CORS preflight requests"""
         self.send_response(200)
         self._send_cors_headers()
         self.end_headers()
+        return
 
     def do_GET(self):
         try:
@@ -65,6 +67,11 @@ class handler(BaseHTTPRequestHandler):
         except Exception as e:
             # Catch crashes and send them as JSON so we can debug
             self.send_response(500)
+            self.send_header('Content-type', 'application/json')
             self._send_cors_headers()
             self.end_headers()
-            self.wfile.write(json.dumps({"error": str(e)}).encode())
+            error_response = {
+                "error": str(e),
+                "type": type(e).__name__
+            }
+            self.wfile.write(json.dumps(error_response).encode())

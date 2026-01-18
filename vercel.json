@@ -1,5 +1,6 @@
 {
-  "outputDirectory": "dist",
+  "buildCommand": "",
+  "outputDirectory": "api",
   "functions": {
     "api/**/*.py": {
       "memory": 1024,

@@ -1,6 +1,6 @@
 {
-  "buildCommand": "",
-  "outputDirectory": "api",
+  "buildCommand": "mkdir -p _site && echo 'API Only' > _site/index.html",
+  "outputDirectory": "_site",
   "functions": {
     "api/**/*.py": {
       "memory": 1024,

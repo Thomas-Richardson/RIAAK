@@ -1,5 +1,5 @@
-pinecone
-openai
-langchain-text-splitters
-python-frontmatter
-tiktoken
+pinecone>=5.0.0
+openai>=1.0.0
+langchain-text-splitters>=0.0.1
+python-frontmatter>=1.0.0
+tiktoken>=0.5.0

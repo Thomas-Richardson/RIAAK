@@ -1,4 +1,4 @@
-pinecone>=5.0.0
+pinecone[grpc]>=5.0.0
 openai>=1.0.0
 langchain-text-splitters>=0.0.1
 python-frontmatter>=1.0.0

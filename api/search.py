@@ -2,8 +2,6 @@ from http.server import BaseHTTPRequestHandler
 from urllib.parse import urlparse, parse_qs
 import json
 import os
-from pinecone import Pinecone
-from openai import OpenAI
 
 class handler(BaseHTTPRequestHandler):
     def _send_cors_headers(self):
@@ -27,26 +25,48 @@ class handler(BaseHTTPRequestHandler):
 
             if not user_query:
                 self.send_response(400)
+                self.send_header('Content-type', 'application/json')
                 self._send_cors_headers()
                 self.end_headers()
                 self.wfile.write(json.dumps({"error": "Missing query parameter 'q'"}).encode())
                 return
 
+            # Check for required environment variables
+            if "PINECONE_API_KEY" not in os.environ:
+                raise EnvironmentError("PINECONE_API_KEY not set")
+            if "OPENAI_API_KEY" not in os.environ:
+                raise EnvironmentError("OPENAI_API_KEY not set")
+
+            # Import here to catch import errors
+            from pinecone import Pinecone
+            from openai import OpenAI
+
             # Initialize Clients
             pc = Pinecone(api_key=os.environ["PINECONE_API_KEY"])
             client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
-            index = pc.Index("digital-garden")
+
+            # Check if index exists
+            try:
+                index = pc.Index("digital-garden")
+            except Exception as e:
+                raise Exception(f"Failed to connect to Pinecone index 'digital-garden': {str(e)}")
 
             # Embed Query
-            res = client.embeddings.create(input=user_query, model="text-embedding-3-small")
-            query_vector = res.data[0].embedding
+            try:
+                res = client.embeddings.create(input=user_query, model="text-embedding-3-small")
+                query_vector = res.data[0].embedding
+            except Exception as e:
+                raise Exception(f"Failed to create embedding: {str(e)}")
 
             # Search Pinecone
-            results = index.query(
-                vector=query_vector,
-                top_k=5,
-                include_metadata=True
-            )
+            try:
+                results = index.query(
+                    vector=query_vector,
+                    top_k=5,
+                    include_metadata=True
+                )
+            except Exception as e:
+                raise Exception(f"Failed to query Pinecone: {str(e)}")
 
             # Format Response
             matches = []

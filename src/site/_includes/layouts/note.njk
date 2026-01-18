@@ -83,14 +83,26 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
         async function runSearch() {
           const query = document.getElementById('ai-search-box').value;
           const resultsDiv = document.getElementById('ai-results');
+
+          if (!query.trim()) {
+            resultsDiv.innerHTML = "";
+            return;
+          }
+
           resultsDiv.innerHTML = "Searching...";
-          
-          const VERCEL_URL = "https://riaak.vercel.app"; 
-          
+
+          const VERCEL_URL = "https://riaak.vercel.app";
+
           try {
             const response = await fetch(`${VERCEL_URL}/api/search?q=${encodeURIComponent(query)}`);
+
+            if (!response.ok) {
+              const errorData = await response.json().catch(() => ({}));
+              throw new Error(`Server error (${response.status}): ${errorData.error || 'Unknown error'}\nType: ${errorData.type || 'Unknown'}`);
+            }
+
             const data = await response.json();
-            
+
             resultsDiv.innerHTML = "";
             if(data.results && data.results.length > 0) {
               data.results.forEach(item => {
@@ -107,8 +119,10 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
               resultsDiv.innerHTML = "No results found.";
             }
           } catch (e) {
-            resultsDiv.innerHTML = "Error searching. Please try again.";
-            console.error(e);
+            resultsDiv.innerHTML = `<div style="color: var(--text-error, red); padding: 10px; background: rgba(255,0,0,0.1); border-radius: 4px;">
+              <strong>Error:</strong> ${e.message}
+            </div>`;
+            console.error('Search error:', e);
           }
         }
       </script>

@@ -1,14 +1,15 @@
 {
-  "builds": [
-    {
-      "src": "api/**/*.py",
-      "use": "@vercel/python"
+  "functions": {
+    "api/**/*.py": {
+      "memory": 1024,
+      "maxDuration": 10
     }
-  ],
+  },
   "routes": [
     {
       "src": "/api/search",
-      "dest": "/api/search.py"
+      "dest": "/api/search.py",
+      "methods": ["GET", "OPTIONS"]
     }
   ],
   "headers": [

@@ -1,6 +1,8 @@
 import os
 import hashlib
 import json
+import re
+import unicodedata
 import frontmatter
 from urllib.parse import quote
 from pinecone import Pinecone, ServerlessSpec
@@ -22,6 +24,14 @@ def get_file_hash(content):
 def get_embedding(text):
     response = client.embeddings.create(input=text, model=EMBEDDING_MODEL)
     return response.data[0].embedding
+
+def slugify_text(value):
+    # Mirror Eleventy slugify behavior closely enough for URL fallbacks.
+    normalized = unicodedata.normalize("NFKD", value)
+    ascii_text = normalized.encode("ascii", "ignore").decode("ascii")
+    ascii_text = ascii_text.lower()
+    ascii_text = re.sub(r"[^a-z0-9]+", "-", ascii_text)
+    return ascii_text.strip("-")
 
 def setup_index():
     # Create index if it doesn't exist
@@ -62,6 +72,13 @@ def process_vault():
                 tags = [t.strip() for t in tags.split(',')]
             # Handle list containing None or non-string items
             tags = [str(t) for t in tags if t is not None and str(t).strip() != ""]
+
+            permalink = post.get("permalink")
+            if not permalink:
+                file_slug = os.path.splitext(os.path.basename(relative_path))[0]
+                permalink = f"/notes/{slugify_text(file_slug)}/"
+            if "gardenEntry" in tags:
+                permalink = "/"
             
             # 2. Check Hash to skip unchanged files
             current_hash = get_file_hash(content)
@@ -101,14 +118,14 @@ def process_vault():
                 # Semantic Boosting: Inject tags into text
                 text_to_embed = f"{chunk.page_content}\n\nContext Tags: {', '.join(tags)}"
                 vector = get_embedding(text_to_embed)
-                
+
                 # Metadata for the frontend
                 metadata = {
                     "file_path": relative_path,
                     "file_hash": current_hash,
                     "text": chunk.page_content,
                     "tags": tags,
-                    "url": f"/{relative_path.replace('.md', '')}" # Simple URL construction
+                    "url": permalink
                 }
                 
                 # Merge header metadata (H1, H2...)

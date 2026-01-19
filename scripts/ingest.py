@@ -82,18 +82,20 @@ def process_vault():
             
             # 2. Check Hash to skip unchanged files
             current_hash = get_file_hash(content)
-            
+
             # ASCII-fy the path for the ID (Pinecone requirement)
             # This turns "Strässner.md" into "Str%C3%A4ssner.md" for the ID only otherwise wierd characters will crash the model
             ascii_path = quote(relative_path)
-            
+
             # ID format: "filename.md#0"
             check_id = f"{ascii_path}#0"
             fetch_response = index.fetch(ids=[check_id])
-            
+
             if check_id in fetch_response.vectors:
-                stored_hash = fetch_response.vectors[check_id].metadata.get("file_hash")
-                if stored_hash == current_hash:
+                stored_metadata = fetch_response.vectors[check_id].metadata
+                stored_hash = stored_metadata.get("file_hash")
+                stored_url = stored_metadata.get("url")
+                if stored_hash == current_hash and stored_url == permalink:
                     print(f"Skipping {relative_path} (Unchanged)")
                     continue
 

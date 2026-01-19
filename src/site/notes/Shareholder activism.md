@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shareholder-activism/","tags":["#financial_activism"],"created":"2025-10-23T17:42:43.187+01:00","updated":"2026-01-16T22:25:12.122+00:00"}
+{"dg-publish":true,"permalink":"/shareholder-activism/","tags":["financial_activism"],"created":"2025-10-23T17:42:43.187+01:00","updated":"2026-01-16T22:25:12.122+00:00"}
 ---
 
 - [[Sinergia financial advocacy project MOC\|Sinergia financial advocacy project MOC]]

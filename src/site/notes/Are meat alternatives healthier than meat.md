@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/are-meat-alternatives-healthier-than-meat/","tags":["#Health/Nutrition","#Alternative_Proteins/Plant_Based"],"created":"2025-10-23T17:42:41.522+01:00","updated":"2026-01-17T18:04:45.615+00:00"}
+{"dg-publish":true,"permalink":"/are-meat-alternatives-healthier-than-meat/","tags":["Health/Nutrition","Alternative_Proteins/Plant_Based"],"created":"2025-10-23T17:42:41.522+01:00","updated":"2026-01-17T18:04:45.615+00:00"}
 ---
 
 - [[The price of pb meat alternatives relative to animal meat\|The price of pb meat alternatives relative to animal meat]]

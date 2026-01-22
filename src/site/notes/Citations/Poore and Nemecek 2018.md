@@ -1,18 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/citations/poore-and-nemecek-2018/","tags":[null,null,null,null],"created":"2025-10-23T17:42:44.565+01:00","updated":"2025-10-31T14:43:31.341+00:00"}
+{"dg-publish":true,"permalink":"/citations/poore-and-nemecek-2018/","tags":[null,null,null,null],"created":"2025-10-23T17:42:44.565+01:00","updated":"2026-01-21T15:12:45.335+00:00"}
 ---
-
-
-
 
 - [[The inefficiency of animal products\|The inefficiency of animal products]]
 - [[Grass fed beef is not better for the environment\|Grass fed beef is not better for the environment]]
 - [[Eating local makes only small improvement to your environmental impact\|Eating local makes only small improvement to your environmental impact]]
 
-Poore, J., & Nemecek, T. (2018). Reducing food’s environmental impacts through producers and consumers. _Science_, _360_(6392), 987-992.
-
-[https://josephpoore.com/Science 360 6392 987 - Accepted Manuscript.pdf](https://josephpoore.com/Science%20360%206392%20987%20-%20Accepted%20Manuscript.pdf)
-Explore the data on our world in data: https://ourworldindata.org/environmental-impacts-of-food#key-insights-on-the-environmental-impacts-of-food
+- [OWID has visualised the data here](https://ourworldindata.org/environmental-impacts-of-food#key-insights-on-the-environmental-impacts-of-food)
+- [Or the raw data here](https://ora.ox.ac.uk/objects/uuid:a63fb28c-98f8-4313-add6-e9eca99320a5)
 
 Food’s environmental impacts are created by millions of diverse producers. To identify solutions that are effective under this heterogeneity, we consolidated data covering five environmental indicators; <mark style="background: #FFF3A3A6;">38,700 farms; and 1600 processors, packaging types, and retailers. Impact can vary 50-fold among producers of the same product, creating substantial mitigation opportunities.</mark> However, mitigation is complicated by trade-offs, multiple ways for producers to achieve low impacts, and interactions throughout the supply chain. Producers have limits on how far they can reduce impacts. Most strikingly, <mark style="background: #FFF3A3A6;">impacts of the lowest-impact animal products typically exceed those of vegetable substitutes</mark>, providing new evidence for the importance of dietary change. Cumulatively, our findings support an approach where producers monitor their own impacts, flexibly meet environmental targets by choosing from multiple practices, and communicate their impacts to consumers.
 

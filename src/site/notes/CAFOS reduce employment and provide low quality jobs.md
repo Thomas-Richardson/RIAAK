@@ -1,9 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/cafos-reduce-employment-and-provide-low-quality-jobs/","tags":[null,null,null,null,null,"factory_farming","economics","Economics/jobs"],"created":"2025-11-11T23:29:31.293+00:00","updated":"2026-01-15T11:05:50.824+00:00"}
+{"dg-publish":true,"permalink":"/cafos-reduce-employment-and-provide-low-quality-jobs/","tags":["factory_farming","Economics/jobs"],"created":"2025-11-11T23:29:31.293+00:00","updated":"2026-01-19T15:50:05.459+00:00"}
 ---
-
-
-
 
 - [[CAFOs injure and sicken their workers\|CAFOs injure and sicken their workers]]
 - [[The economic value of alternative proteins\|The economic value of alternative proteins]]

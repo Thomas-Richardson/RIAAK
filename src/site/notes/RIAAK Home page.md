@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/riaak-home-page/","tags":["gardenEntry"],"created":"2025-10-23T17:42:41.615+01:00","updated":"2025-11-04T12:13:13.305+00:00"}
+{"dg-publish":true,"permalink":"/riaak-home-page/","tags":["#Bryant","#farming","#Health/Disease","gardenEntry"],"created":"2025-10-23T17:42:41.615+01:00","updated":"2026-01-24T10:37:23.919+00:00"}
 ---
 
 This is the homepage for Richie's Impactful Animal Advocacy Knowledge-base, aka RIAAK!
@@ -8,8 +8,9 @@ Here I publish my notes on Animal Advocacy that I use in my role as the Director
 
 ---
 # What's in RIAAK?
-- Brief summaries of useful studies (usually found in the Citations folder). Reviews, big reports, or useful single studies. I have an AI tool that will skim a report, extract the abstract or exec summary and make an entry here in RIAAK. If the report doesn't have one, it will use AI to read the report and write one. Bear in mind these may not always be 100% accurate! 
-- Micro-content I have written to help me quickly put together reports for clients.
+- Brief summaries of useful studies (usually found in the Citations folder). Reviews reports, or useful single studies. 
+	- I have an AI tool that will skim a report, extract the abstract or exec summary and make an entry here in RIAAK. If the report doesn't have one, it will use AI to read the report and write one. These may not always be 100% accurate, but I have never noticed a big error before.
+- "Micro-content" I have written to help me quickly put together reports for clients.
 - My scattered thoughts.
 ## Where I get my info from
 - Academic papers
@@ -28,23 +29,25 @@ Here I publish my notes on Animal Advocacy that I use in my role as the Director
 	- The Humane League, though they no longer publish research. 
 	- Wild Animal Initiative 
 	- Compassion in World Farming
-	- 
 
+**If you want to be added to this list, let me know!**
 
 ---
 # How to use RIAAK
 There are 6 ways you can navigate RIAAK:
 
-1. Use the search bar
-2. Use Links
-3. Use Local Graphs
-4. Use the Global Graph
-5. Use Tags
-6. Use Folders
-## The search bar
-- Probably the easiest way to search RIAAK
+1. Type keywords into the left search bar
+2. Use "semantic search"
+3. Use Links
+4. Use Local Graphs
+5. Use the Global Graph
+6. Use Tags
+7. Use Folders
+## The keyword search bar
 - The search bar only does exact word search, so if you search "alternative proteins healthier" it probably won't surface an article called "vegan meat is good for you".
 - I'd advise just putting in a bunch of keywords you're interested in and see what it turns up
+## Semantic search
+Whenever you see 
 ## Links
 - This knowledge base is organised a bit like Wikipedia: pages are connected by **links**.
 - You can surf RIAAK by clicking through the links on a given page. [[Red and processed meat are bad for you\|Try clicking this one]]
@@ -74,11 +77,13 @@ There are 6 ways you can navigate RIAAK:
 	- #Health/Disease  
 - Tags are a great way of diving into a high level topic
 - If you have suggestions for tags that you expected to find or would find useful, let me know!
-- [[RIAK tag (topic) list\|A list of all tags in RIAAK can be found here]]
 - [[RIAAK FAQ#Why don't you use folders like a normal person?\|An explainer of why I use tags rather than folders to organise this site]]
 
 ## Folders
 On the left side, you will also see the main folders and all the files inside them. Not a great way to search for a file, but might be useful.
+
+# Can't find what you're looking for? 
+Try [Faunalytics](https://faunalytics.org/?s=&post_type=post&orderby=post_date&order=desc&explore=true) they write accessible summaries of important research in the animal movement.
 
 ---- 
 ## [[RIAAK FAQ\|An FAQ can be found here]]

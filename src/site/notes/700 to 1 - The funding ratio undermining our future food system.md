@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/700-to-1-the-funding-ratio-undermining-our-future-food-system/","created":"2025-12-11T08:54:13.461+00:00","updated":"2025-12-11T08:54:14.681+00:00"}
+{"dg-publish":true,"permalink":"/700-to-1-the-funding-ratio-undermining-our-future-food-system/","created":"2025-12-11T08:54:13.461+00:00","updated":"2026-01-23T12:48:40.104+00:00"}
 ---
 
 Governments provide more than 700x more funding to animal agriculture than to the alternatives that could replace them. <sup><a href="https://www.claimingsteaks.com/700-to-1-the-funding-ratio-undermining-our-future-food-system/#footnote-1">[1]</a></sup>
@@ -66,3 +66,8 @@ The 700:1 funding ratio isn't inevitable. It's a policy choice renewed annually 
 	**Note:** This analysis largely covers explicit government support. Some more ‘variable’ support items with unclear attribution, like market price support (think price minimums), are excluded. I excluded them because i) they’re more variable and ii) they seem more complicated to grapple with, particularly how much government is paying for the support vs. consumers (through ‘artificially’ higher prices). If we did include market price support estimates, I suspect they would likely show even larger disparities favoring animal agriculture.
 2. The broader 700:1 ratio above uses 10-year averages (2014–2023) for all agricultural spending, which smooths volatility and missing data, while these R&D figures reflect the most recent year (2024) of a rapidly expanding category. Taken together, they show a consistent pattern: governments are still investing hundreds of times more in maintaining the old food system than in building the new one—but the R&D share is finally starting to move. For a like-for-like comparison, average annual public R&D funding for alternative proteins between 2015 and 2024 was about $91 million, equal to 0.6 % of global public agricultural R&D on average, rising to 1.8 % in the most recent year.
 3. Because methane’s radiative forcing is high but its atmospheric lifetime short (~10 years), early reductions deliver rapid temperature benefits, buying time for slower sectors. I think it would be reasonable to allocate $1 billion per year in R&D across complementary approaches - alternative proteins, anti-methanogenic feedstuffs, vaccines, and low-methane genetics.
+
+# Related
+- [[alt proteins and VC funding\|alt proteins and VC funding]]
+- [[Citations/Alternative protein Research and Innovation funding landscape analysis (gfi_Europe)\|Alternative protein Research and Innovation funding landscape analysis (gfi_Europe)]]
+- [[Citations/Appetite for change - why the UK should lead the emerging alternative proteins market (Green Alliance)\|Appetite for change - why the UK should lead the emerging alternative proteins market (Green Alliance)]]

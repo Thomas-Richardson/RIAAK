@@ -1,13 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/engaging-with-the-climate-movement/","tags":[null,null,null,null,null,null,null],"created":"2025-10-23T17:42:42.822+01:00","updated":"2025-10-30T23:44:53.217+00:00"}
+{"dg-publish":true,"permalink":"/engaging-with-the-climate-movement/","tags":["#movement_strategy"],"created":"2025-10-23T17:42:42.822+01:00","updated":"2026-01-23T12:52:54.243+00:00"}
 ---
 
-
-
-
-- [[Meat is left out of the climate conversation\|Meat is left out of the climate conversation]]
-- [[Meat industry Climate washing\|Meat industry Climate washing]]
-- [[1 hard-hitting paragraph on why reducing meat is the best thing to do for climate\|1 hard-hitting paragraph on why reducing meat is the best thing to do for climate]]
 ## Climate funders
 - Much bigger, slower and bureaucratic than animal funders: it can take a year to get that bread!
 - Actively listen to them about whether they're interested in practical details about you, or your mission.
@@ -22,3 +16,8 @@
 	- Ask about their values, and their KPIs?
 - Climate funders are wary of political spats with ranchers and such, so aim for more plants rather than less meat
 - We should draw attention to how quick our modern diet has change
+# Related
+- [[Meat is left out of the climate conversation\|Meat is left out of the climate conversation]]
+- [[Meat industry Climate washing\|Meat industry Climate washing]]
+- [[1 hard-hitting paragraph on why reducing meat is the best thing to do for climate\|1 hard-hitting paragraph on why reducing meat is the best thing to do for climate]]
+- [[People don't realise how bad meat is for the climate\|People don't realise how bad meat is for the climate]]

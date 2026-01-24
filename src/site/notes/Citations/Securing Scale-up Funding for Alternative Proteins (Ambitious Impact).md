@@ -1,11 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/citations/securing-scale-up-funding-for-alternative-proteins-ambitious-impact/","created":"2025-10-23T17:42:44.512+01:00","updated":"2025-10-23T17:42:44.513+01:00"}
+{"dg-publish":true,"permalink":"/citations/securing-scale-up-funding-for-alternative-proteins-ambitious-impact/","tags":["alternative_proteins"],"created":"2025-10-23T17:42:44.512+01:00","updated":"2026-01-23T12:48:26.480+00:00"}
 ---
-
-
-This report contains a summary on page 4, which is reproduced here exactly as requested.
-
-***
 
 ### Securing Scale-up Funding for Alternative Proteins / Summary
 
@@ -29,3 +24,9 @@ A new non-profit will identify policy opportunities, engage decision-makers, and
 
 **Neglectedness**
 The focus on scaling support for alternative proteins is highly neglected. GFI only has two FTE working on securing government commercialization funding. This leaves room for new actors to add significant value. Experts from GFI and Food Solutions Action believe that work alongside them would be synergistic with their efforts lobbying for financial incentives for R&D.
+
+# Related
+- [[700 to 1 - The funding ratio undermining our future food system\|700 to 1 - The funding ratio undermining our future food system]]
+- [[alt proteins and VC funding\|alt proteins and VC funding]]
+- [[Citations/Alternative protein Research and Innovation funding landscape analysis (gfi_Europe)\|Alternative protein Research and Innovation funding landscape analysis (gfi_Europe)]]
+- [[Citations/Appetite for change - why the UK should lead the emerging alternative proteins market (Green Alliance)\|Appetite for change - why the UK should lead the emerging alternative proteins market (Green Alliance)]]

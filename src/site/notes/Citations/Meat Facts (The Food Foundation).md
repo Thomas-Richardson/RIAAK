@@ -1,13 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/citations/meat-facts-the-food-foundation/","created":"2025-10-23T17:42:45.506+01:00","updated":"2025-10-23T17:42:45.506+01:00"}
+{"dg-publish":true,"permalink":"/citations/meat-facts-the-food-foundation/","created":"2025-10-23T17:42:45.506+01:00","updated":"2026-01-24T20:24:15.306+00:00"}
 ---
-
-
-This report does not contain an executive summary. Here is a summary of the key points and impactful statistics.
-
-***
-
-### **Summary of "MEAT FACTS: What meat is the UK eating and why does it matter?"**
 
 This report by The Food Foundation analyses meat consumption patterns in the UK, highlighting the significant health and environmental consequences of current diets and providing recommendations for shifting towards more plant-rich diets.
 

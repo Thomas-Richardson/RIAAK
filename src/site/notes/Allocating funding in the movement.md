@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/allocating-funding-in-the-movement/","tags":["#movement_building"],"created":"2026-01-23T12:48:42.420+00:00","updated":"2026-01-23T12:52:29.187+00:00"}
+{"dg-publish":true,"permalink":"/allocating-funding-in-the-movement/","tags":["movement_building"],"created":"2026-01-23T12:48:42.420+00:00","updated":"2026-01-23T12:52:29.187+00:00"}
 ---
 
 # Less effective things should be funded *less* but few things should not be funded

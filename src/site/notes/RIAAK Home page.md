@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/riaak-home-page/","tags":["#Bryant","#farming","#Health/Disease","gardenEntry"],"created":"2025-10-23T17:42:41.615+01:00","updated":"2026-01-24T10:37:23.919+00:00"}
+{"dg-publish":true,"permalink":"/riaak-home-page/","tags":["gardenEntry"],"created":"2025-10-23T17:42:41.615+01:00","updated":"2026-01-24T20:20:48.993+00:00"}
 ---
 
 This is the homepage for Richie's Impactful Animal Advocacy Knowledge-base, aka RIAAK!

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/vergnaud-et-al-2010/","tags":[null,null,null,null,null,null,null],"created":"2025-10-23T17:42:45.334+01:00","updated":"2025-10-30T23:44:54.082+00:00"}
+{"dg-publish":true,"permalink":"/citations/vergnaud-et-al-2010/","tags":[null,null,null,null,null,null,null],"created":"2025-10-23T17:42:45.334+01:00","updated":"2026-01-24T20:12:00.729+00:00"}
 ---
 
 
@@ -25,3 +25,9 @@ The cool things about this study
 **Results:** <mark style="background: #FFF3A3A6;">Total meat consumption was positively associated with weight gain</mark> in men and women, in normal-weight and overweight subjects, and in smokers and nonsmokers. <mark style="background: #FFF3A3A6;">With adjustment for estimated energy intake, an increase in meat intake of 250 g/d (eg, one steak at approximately 450 kcal) would lead to a 2-kg higher weight gain after 5 y</mark> (95% CI: 1.5, 2.7 kg). Positive associations were observed for red meat, <mark style="background: #FFF3A3A6;">poultry</mark>, and processed meat.
 
 **Conclusion:** Our results suggest that a decrease in meat consumption may improve weight management.
+
+# AI suggested related articles
+
+- [[health effects of chicken\|health effects of chicken]] (0.72)
+- [[Citations/Rouhani et al., 2014\|Citations/Rouhani et al., 2014]] (0.71)
+- [[Citations/Bonfiglio et al., 2025\|Citations/Bonfiglio et al., 2025]] (0.71)

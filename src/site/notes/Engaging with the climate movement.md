@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/engaging-with-the-climate-movement/","tags":["#movement_strategy"],"created":"2025-10-23T17:42:42.822+01:00","updated":"2026-01-23T12:52:54.243+00:00"}
+{"dg-publish":true,"permalink":"/engaging-with-the-climate-movement/","tags":["movement_strategy"],"created":"2025-10-23T17:42:42.822+01:00","updated":"2026-01-23T12:52:54.243+00:00"}
 ---
 
 ## Climate funders

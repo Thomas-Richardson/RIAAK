@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/changing-society/","tags":["#movement_strategy"],"created":"2026-01-23T12:50:24.294+00:00","updated":"2026-01-23T12:51:47.161+00:00"}
+{"dg-publish":true,"permalink":"/changing-society/","tags":["movement_strategy"],"created":"2026-01-23T12:50:24.294+00:00","updated":"2026-01-23T12:51:47.161+00:00"}
 ---
 
 # One theory of change for the movement

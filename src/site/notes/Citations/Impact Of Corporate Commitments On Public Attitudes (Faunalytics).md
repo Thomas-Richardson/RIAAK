@@ -1,0 +1,35 @@
+---
+{"dg-publish":true,"permalink":"/citations/impact-of-corporate-commitments-on-public-attitudes-faunalytics/","created":"2026-01-28T11:02:22.270+00:00","updated":"2026-01-28T11:02:22.298+00:00"}
+---
+
+### Background
+
+In recent years, corporate lobbying efforts have played an increasing role in animal advocacy. They have been successful in bringing about dozens of commitments to use or provide cage-free eggs and enact other welfare improvements. These changes have been attributed by the companies themselves to pressure from animal advocacy groups (Open Philanthropy, 2017).
+
+This research project addresses a question that arises from these lobbying efforts: **_What impact do these corporate commitments to switching to cage-free eggs have on public attitudes?_**
+
+More specifically, is there evidence of impact on:
+
+1.  Intended behavior,
+2.  Attitudes about animal welfare,
+3.  Attitudes about the corporation, or
+4.  Attitudes about animal advocates/advocacy?
+
+Public reaction is directly important to the extent that it influences consumer behavior—for instance, by increasing or decreasing egg sales—or influences corporations’ willingness to make additional welfare improvements. It may also be indirectly important if it influences attitudes toward animal advocates or advocacy organizations.
+
+### Project Overview
+
+To assess public reaction, we analyzed a naturalistic dataset of responses to announcements of restaurant corporations’ cage-free egg commitments on social media. This kind of dataset naturally weights itself to overrepresent larger, more visible corporations (e.g., McDonald’s) and comments from more outspoken, motivated people. This means that it is not representative of the full population, but it is more representative of the kind of public discourse that occurs when these announcements are made. There are pros and cons to either approach, but this one allows natural responses to float to the surface without the research process itself influencing the results.
+
+The comments were analyzed in two ways. First, a team of trained researchers read them and described a set of themes that emerged. This process allowed us to examine the range and relative frequency of themes. Second, comments from cage-free articles were compared against comments from a set of comparison articles on other topics using an automated text analysis. This analysis provides a benchmark against which frequencies of various themes can be interpreted—for instance, is the level of negativity in response to cage-free announcements higher or lower than we might expect on an average article?
+
+### Key Findings
+
+1.  **Comments were more positive on average than for comparable social-media articles on other topics.** Apathy, criticism, and enthusiasm in response to cage-free announcements by restaurant and fast-food corporations were all common, but any article will garner both positive and negative reactions. Results showed that the cage-free announcements had a higher proportion of positive reactions and a lower proportion of negative ones compared with other articles.
+2.  **Most criticisms focused on the long transition timeline or said the change does not go far enough—few people criticized the corporation for making the move.** Criticisms of the timeline were the most common theme in the dataset, followed by comments critical of the welfare implications of cage-free eggs. Those who were critical of the move itself were most often concerned about the potentially higher cost of cage-free eggs. Overall, this response to corporate animal welfare commitments is very encouraging.
+3.  **Neither criticism nor enthusiasm about animal welfare reform translated into behavior.** We had expected that we might see people *over*-claiming that they would increase or decrease their purchase behavior in response to the cage-free commitment. As it turned out, neither type of claim was common. This study provides tentative evidence that critical responses to animal welfare reform are unlikely to harm a corporation’s bottom line, but also that enthusiastic responses are unlikely to help it. Even in a social media context where over-claiming would be both easy to do and impossible to disprove, most people did not claim that they would change their behavior. However, to test impact directly, studies would need to examine real purchases of products advertised as cage-free in the context of potentially higher prices.
+4.  **The frequency of apathetic responses suggests that advocates should continue to emphasize corporate lobbying efforts.** Apathy (largely seen in jokes and dismissive comments) suggests that many members of the general public do not care one way or the other about these changes. While disheartening, frequent apathy provides empirical support for continuing to lobby corporations over individuals. Apathetic individuals are unlikely to resist further corporate lobbying efforts (or subsequent improvements to animal welfare) and would provide poor targets for direct intervention.
+5.  **Complacency was rare.** This common concern about incremental change was somewhat rejected by this study, in that almost no one made comments suggesting that these welfare reforms are sufficient or that no more action is needed; however, this may be because it did not come to mind.
+6.  **Animal advocates appear to be relatively invisible in these reforms, and that is probably a good thing.** Only a few commenters referred to animal advocates, advocacy groups, or vegans in their responses to the articles. Most of those few references were negative, and they tended to occur about articles that explicitly referred to advocacy groups or in response to other commenters with a clear advocacy agenda. This suggests that, as long as the media doesn’t play up advocates’ role in obtaining corporate commitments, it doesn’t come to mind for most people. Given that—when it did come to mind—the most common response was negative, we consider this a good thing and something to aim for.
+7.  **Concerns about the restriction of consumer choice or the transition hurting farmers were vanishingly rare.** We looked specifically for these concerns because they are brought up in some debates about corporate campaigns, but almost no one in the general public commented about these issues. Each of these themes appeared only once in our dataset.
+8.  **Few corporations had announced their cage-free commitments on their Facebook pages.** Only 10 out of 75 restaurant corporations listed on advocacy websites as having made the commitment announced their commitment on Facebook. We suspect that many corporations may have been concerned about public reaction, but the results of this study may reassure them about future commitments. Making a public commitment is a well-known way of ensuring follow-through, so we hope that these results can be used to encourage more openness in the future.

@@ -1,0 +1,12 @@
+---
+{"dg-publish":true,"permalink":"/citations/reforming-animal-agriculture-subsidies-a-guide-for-advocates-faunalytics/","created":"2026-01-28T10:49:49.148+00:00","updated":"2026-01-28T10:49:49.170+00:00"}
+---
+
+Animal agriculture subsidies create an uneven playing field for advocates and plant-based producers. Our study looks at successes and challenges in the fight to shift, reduce, or eliminate subsidies.
+
+### Key Findings
+
+1.  **Subsidization of animal agriculture is complicated, and the average person’s understanding of subsidies doesn’t reflect the reality of how advocates have to approach them**. Tackling subsidies directly is made complicated by Big Ag’s immense political influence. For these reasons, advocates have found more success by working to reform farm subsidies, such as by shifting them towards plant-based agriculture, rather than trying to reduce or eliminate government programs that give money to Big Ag. For other approaches, please see *Specific Goals*.
+2.  **Indirect subsidies are particularly important because they’re less obvious: Big Ag saves money by harming people, the environment, and farmed animals.** Some organizations have sued the government and Big Ag companies for failing to comply with environmental and antitrust laws, which is one approach to combating these indirect subsidies. Some advocates also work against them by campaigning for cage-free transitions or other welfare improvements, which requires the industry to invest more money into these changes and thus increases the cost of animal products.
+3.  **Litigation is an important yet less recognized tool for evening the playing field.** Organizations that have filed a lawsuit against Big Ag companies reported that doing so increased their ability to obtain meetings with politicians, media coverage of the harms of Big Ag, and legislative changes that minimize these harms. Importantly, all this became more feasible after filing a notice of suit, before or without having to enter the courtroom.
+4.  **Reforming Big Ag subsidies needs to be a collaborative effort between animal advocates, environmental advocates, and farmed animal producers.** Subsidizing Big Ag affects everyone—from non-human animals to small-scale farmers—so many organizations have had the most success in reforming farm subsidies by setting aside their differences and working with stakeholders outside the animal protection movement.

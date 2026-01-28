@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/citations/cross-movement-collaboration-for-farmed-animal-advocates-in-southeast-asia-faunalytics/","created":"2026-01-28T10:56:48.045+00:00","updated":"2026-01-28T10:56:48.076+00:00"}
+---
+
+The goals of animal advocacy organizations have the potential to benefit people and the environment, leading many to believe that increased cooperation between social movements may increase their impact. This study explores social movements in Southeast Asia, offering insight to help advocates there make collaboration easier and more effective.
+
+### Key Findings
+1.  **Environmental and health/development movements in Southeast Asia show the most promising opportunities for collaboration.** They share concerns with animal advocates particularly around diets, land-use change, antibiotic overuse and disease spillover in animal agriculture, and the environmental impact of factory farming, as well as the economic impacts of farming on the livelihoods of rural and lower-income communities.
+2.  **A significant level of collaboration already exists between and within movements, especially for climate, health, and intersectional issues.** Climate and health organizations often work together in complex coalitions covering multiple demographic groups and cause areas.
+3.  **Coalitions function through complementary roles, strategic negotiation, and diverse advocacy approaches.** Effective coalitions assign roles based on member strengths — some organizations focus on grassroots mobilization or institutional engagement, while others balance confrontational and diplomatic tactics depending on the context.
+4.  **Political and social factors create wide variation in movement strength and coalition potential across countries.** While countries like Thailand and the Philippines benefit from vibrant social movements and grassroots engagement, others, such as Singapore and Vietnam, face constraints due to limited civic space and restrictive political environments.
+5.  **Alignment and trust are crucial for effective collaboration.** Successful partnerships with other social movements require both strategic alignment and the establishment of credibility. Advocates must invest in finding common ground and building relationships and credibility.
+6.  **Social movements drive change through both top-down advocacy and bottom-up mobilization.** The former focuses on policy and corporate engagement, while the latter emphasizes grassroots action and cultural shifts.
+7.  **Collaboration across and within movements is often pragmatic and project-based.** Across Southeast Asia, advocates in climate and health/development movements frequently collaborate through joint events, shared research, treaty work, co-funded initiatives, and project-based partnerships.

@@ -1,0 +1,20 @@
+---
+{"dg-publish":true,"permalink":"/citations/u-s-beliefs-about-chickens-and-fish-and-their-relation-to-animal-positive-behaviors-faunalytics/","created":"2026-01-28T10:59:21.971+00:00","updated":"2026-01-28T10:59:22.033+00:00"}
+---
+
+## Background
+
+Animals used for food generally receive significantly less attention and funding than companion animals. Small-bodied animals like chickens and fish are killed in particularly massive numbers—there are over 200 times more chickens killed each year than cows, and over 3,000 times more fish killed than cows.
+
+Several reasons for this relative neglect have been proposed. Generally, these small-bodied animals are viewed as less intelligent and less “like us.” For example, chickens lay eggs, as do most fish. Chickens have beaks. Fish don’t breathe air. These differences are thought to make the suffering of these animals seem more distant from our own, and therefore make care and empathy for them less likely.
+
+The current study was created to help answer important questions regarding these animals: which beliefs do the public have about small-bodied animals, and which of these are associated with animal-positive behaviors? Specifically, we looked at how a number of beliefs related to both a willingness to sign a petition to reduce the suffering of each animal and a diet pledge to reduce the consumption of each. We believe that by answering these questions, advocacy efforts can become more targeted and effective.
+
+## Key Findings
+
+1.  **Some pro-animal beliefs are already reasonably common–for example, most people understand that air and water quality are important to chickens and fish.** These findings suggest that education on these topics is probably not needed, but that these beliefs can be invoked as necessary. For instance, showing people pictures of dirty farm living conditions may be effective in shifting perspectives further.
+2.  **The beliefs that had the largest correlations with signing a pledge to reduce fish consumption were that fish are more intelligent than people give them credit for, that many farms have horrible living conditions, and that fish are loving.** Focusing advocacy efforts on bolstering these fish-related beliefs may be the most effective way to obtain dietary pledges to reduce consumption.
+3.  **The beliefs that had the largest correlations with fish welfare petition signatures were that they are more intelligent than people give them credit for, that they are beautiful, and that many fish farms have horrible living conditions.** Advocates working on petitions for fish welfare may want to incorporate these themes in their messaging and presentation.
+4.  **The beliefs that had the largest correlations with signing a pledge to reduce chicken consumption were that chickens are beautiful, that they need room to explore and exercise, and that they are loving.** Those trying to get people to reduce their consumption of chicken may want to focus on these themes.
+5.  **The beliefs that had the largest correlations with chicken welfare petition signatures were that chickens need room to explore and exercise, that many chicken farms have horrible conditions, and that chickens are more intelligent than most people give them credit for.** Advocates working on corporate campaigns may find messaging around these beliefs leads to an increase in petition signatures for chicken causes.
+6.  **People were more likely to sign the petition than to take the dietary pledge.** People were more likely to sign a petition that calls for welfare reforms than to take the diet pledge to reduce their own consumption. We also found that people who eat more of each animal were less likely to take the diet pledge to reduce their consumption than those who eat less already. However, these high consumers were no less likely to sign a petition to help improve conditions.

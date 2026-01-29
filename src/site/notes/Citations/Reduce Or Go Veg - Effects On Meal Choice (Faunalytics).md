@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/reduce-or-go-veg-effects-on-meal-choice-faunalytics/","created":"2026-01-28T11:00:51.921+00:00","updated":"2026-01-28T11:00:51.934+00:00"}
+{"dg-publish":true,"permalink":"/citations/reduce-or-go-veg-effects-on-meal-choice-faunalytics/","created":"2026-01-28T11:00:51.921+00:00","updated":"2026-01-29T05:00:06.365+00:00"}
 ---
 
 ### Background
@@ -16,3 +16,9 @@ The advocacy method was as realistic as possible: The videos described the diver
     *   Second, there is strong evidence from many studies that well-done pledges increase follow-through on a desired behavior, whereas the evidence for well-done advocacy increasing uptake (willingness to go vegetarian or vegan) is, at best, weakly positive.
     *   Finally, this study found a small negative effect of vegetarian advocacy on meat consumption relative to the control condition, suggesting it may sometimes be harmful to the cause.
 5.  **The results show the importance of considering both uptake and follow-through when conducting research on campaign success.** When considering how successful a campaign is, researchers must take willingness to participate into account to avoid substantial bias.
+
+# AI suggested related articles
+
+- [[Citations/Planting Seeds- The Impact Of Diet & Different Animal Advocacy Tactics (Faunalytics)\|Citations/Planting Seeds- The Impact Of Diet & Different Animal Advocacy Tactics (Faunalytics)]] (0.81)
+- [[Citations/Going Vegan Or Vegetarian- Many Paths To One Goal (Faunalytics)\|Citations/Going Vegan Or Vegetarian- Many Paths To One Goal (Faunalytics)]] (0.80)
+- [[Citations/Advocating Meat Reduction And Vegetarianism To US Adults (Faunalytics)\|Citations/Advocating Meat Reduction And Vegetarianism To US Adults (Faunalytics)]] (0.80)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/exploring-gen-zs-attitudes-towards-animals-and-the-environment-faunalytics/","created":"2026-01-28T10:54:12.799+00:00","updated":"2026-01-28T10:54:13.010+00:00"}
+{"dg-publish":true,"permalink":"/citations/exploring-gen-zs-attitudes-towards-animals-and-the-environment-faunalytics/","created":"2026-01-28T10:54:12.799+00:00","updated":"2026-01-29T05:00:06.763+00:00"}
 ---
 
 Looking across the U.S., China, Indonesia, and Thailand, this study examines Gen Z’s attitudes, motivations, career considerations, and barriers to action, offering insights for those looking to engage and support the next generation of animal advocates.
@@ -13,3 +13,9 @@ Looking across the U.S., China, Indonesia, and Thailand, this study examines Gen
 6.  **Gen Z’s barriers to further action are practical and emotional, not ideological.** Participants frequently cited practical reasons (like financial barriers) and/or emotional reasons (like despair or futility) over ideological reasons (such as not believing in the cause) as major barriers to action.
 7.  **Perceived barriers and solutions to environmental and animal issues varied significantly by country.** Indonesian respondents almost universally cited lack of education and awareness as a primary barrier. Chinese respondents were most likely to highlight cultural attitudes as significant barriers. In contrast, respondents in the U.S. and Thailand were more likely to emphasize the roles of corporate interests and capitalist structures.
 8.  **Gen Z respondents usually attributed problems more to individual actions and attitudes rather than to systemic factors.** Respondents frequently blamed issues on ignorance, individual malevolence, or specific cultural practices, rather than the broader systemic problems.
+
+# AI suggested related articles
+
+- [[Citations/Different Strokes For Different Folks- Comparing U.S. Groups' Openness to Pro-Animal Actions (Faunalytics)\|Citations/Different Strokes For Different Folks- Comparing U.S. Groups' Openness to Pro-Animal Actions (Faunalytics)]] (0.77)
+- [[Citations/Chinese Consumers' Attitudes Toward Animal Welfare - Behaviors, Beliefs, and Responses to Messaging (Faunalytics)\|Citations/Chinese Consumers' Attitudes Toward Animal Welfare - Behaviors, Beliefs, and Responses to Messaging (Faunalytics)]] (0.75)
+- [[Citations/Chinese Consumers' Attitudes Toward Animal Welfare - Behaviors, Beliefs, and Responses to Messaging (Faunalytics) 1\|Citations/Chinese Consumers' Attitudes Toward Animal Welfare - Behaviors, Beliefs, and Responses to Messaging (Faunalytics) 1]] (0.75)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/research-and-data-as-tools-in-advocates-decision-making-faunalytics/","created":"2026-01-28T10:43:52.618+00:00","updated":"2026-01-28T10:43:52.773+00:00"}
+{"dg-publish":true,"permalink":"/citations/research-and-data-as-tools-in-advocates-decision-making-faunalytics/","created":"2026-01-28T10:43:52.618+00:00","updated":"2026-01-29T05:00:06.631+00:00"}
 ---
 
 This Faunalytics study looks at the benefits, barriers, and opportunities in animal advocates' use of research and data in their efforts.
@@ -12,3 +12,9 @@ This Faunalytics study looks at the benefits, barriers, and opportunities in ani
 5. **The most foundational gaps in the evidence base are related to how to effect change, especially regarding under-researched species and geographies.** More social science research and knowledge translation is needed on the impact and efficacy of behavioral nudges on one hand and social movement tactics on the other. Organizations also noted that gaps in the evidence base related to particular species, often those that are low economic value or not common in the Global North, and related to specific geographies, especially in the Global South.
 6. **Challenges to using existing research include having the time and expertise to translate complexity and ambiguity in research findings into actionable information.** More evidence is needed from evaluation and internal data collection about tactics that work AND tactics that do not work to achieve intended outcomes.
 7. **Many organizations seek out research both actively and passively.** Organizations access new information somewhat passively through extensive affinity networks, and intentionally through knowledge translation hubs and trusted individuals and organizations when seeking information for specific programming and communication purposes.
+
+# AI suggested related articles
+
+- [[Citations/Research And Data As Tools In Advocates’ Decision-Making- A Focus On China and Southeast Asia (Faunalytics)\|Citations/Research And Data As Tools In Advocates’ Decision-Making- A Focus On China and Southeast Asia (Faunalytics)]] (0.87)
+- [[Citations/Pathways To Impact - An International Study Of Advocates’ Strategies And Needs (Faunalytics)\|Citations/Pathways To Impact - An International Study Of Advocates’ Strategies And Needs (Faunalytics)]] (0.80)
+- [[Citations/Planting Seeds- The Impact Of Diet & Different Animal Advocacy Tactics (Faunalytics)\|Citations/Planting Seeds- The Impact Of Diet & Different Animal Advocacy Tactics (Faunalytics)]] (0.74)

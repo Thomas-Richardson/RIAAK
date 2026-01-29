@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/jurors-reflections-on-the-smithfield-piglet-rescue-trial-faunalytics/","created":"2026-01-28T10:44:42.082+00:00","updated":"2026-01-28T10:44:42.112+00:00"}
+{"dg-publish":true,"permalink":"/citations/jurors-reflections-on-the-smithfield-piglet-rescue-trial-faunalytics/","created":"2026-01-28T10:44:42.082+00:00","updated":"2026-01-29T05:00:06.505+00:00"}
 ---
 
 ### Background
@@ -14,3 +14,9 @@ In this study, we analyzed themes from interviews with five Smithfield Trial jur
 2.  **The jury members believed Wayne and Paul did not have the intent to steal.** Before their investigation of the Smithfield facility, Wayne said on video “if there’s something we’ll take it.” The jury interpreted the “if” as meaning the two activists did not enter the facility knowing they’d have the opportunity to take piglets. However, one juror noted that if the defendants had a pattern of doing this in the past, the jury might have been more likely to find them guilty.
 3.  **The participants all reported being more receptive to animal advocacy and animal welfare after the trial.** One participant reported that they no longer eat ham. Another reported that while they still believe that pigs are here to be eaten, as a result of the trial they now believe that pig welfare should be improved. Another was even inspired to pursue animal activism.
 4.  **Despite what media coverage indicates, the “right to rescue” was not a major factor in the jury’s decision**. Some media outlets (such as The Intercept and Democracy Now!) have characterized this trial as a test case for the “right to rescue” argument—the idea that one should be able to rescue animals, sometimes farmed animals, from distressing conditions. However, only two jurors mentioned this concept at all, and no jurors mentioned this idea as critical.
+
+# AI suggested related articles
+
+- [[Citations/Political Animals - How U.S. Voters Respond To Candidates Making Farmed Animal Policy Proposals (Faunalytics)\|Citations/Political Animals - How U.S. Voters Respond To Candidates Making Farmed Animal Policy Proposals (Faunalytics)]] (0.67)
+- [[Citations/Using Private Interviews to Deeply Probe the General Public’s Views on Farming Animals (Pax Fauna)\|Citations/Using Private Interviews to Deeply Probe the General Public’s Views on Farming Animals (Pax Fauna)]] (0.67)
+- [[Citations/Which Message Frames Improve Attitudes Towards Animal Treatment (Animal Think Tank)\|Citations/Which Message Frames Improve Attitudes Towards Animal Treatment (Animal Think Tank)]] (0.66)

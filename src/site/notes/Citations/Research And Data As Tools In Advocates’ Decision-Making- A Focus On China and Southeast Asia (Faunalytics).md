@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/research-and-data-as-tools-in-advocates-decision-making-a-focus-on-china-and-southeast-asia-faunalytics/","created":"2026-01-28T10:52:59.627+00:00","updated":"2026-01-28T10:52:59.657+00:00"}
+{"dg-publish":true,"permalink":"/citations/research-and-data-as-tools-in-advocates-decision-making-a-focus-on-china-and-southeast-asia-faunalytics/","created":"2026-01-28T10:52:59.627+00:00","updated":"2026-01-29T05:00:06.453+00:00"}
 ---
 
 This Faunalytics study uncovers both internal and external applications of research, examines why advocates do or don't incorporate research into their work, and presents a roadmap for enhancing research engagement across China, Southeast Asia, and beyond.
@@ -19,3 +19,9 @@ This study—Phase II of the same project—takes a deeper dive into research an
 5.  **Advocates frequently engage stakeholders such as farmers and corporations throughout the different stages of research to increase the use and usefulness of research efforts.** 
 6.  **Data consolidation, sharing, and tools may be promising ways to improve research access, use, and data collection efficiency.** Many advocates highlighted the need for more consolidated data and increased sharing among advocates to facilitate access to a broader range of resources, avoid duplicating efforts, and save time spent searching for materials.
 7.  **The most widely used scientific fields are welfare science and environmental research, but advocates also cite behavioral research, meta-level studies on advocacy approaches, and interdisciplinary crossovers as key subjects for further exploration.**
+
+# AI suggested related articles
+
+- [[Citations/Research And Data As Tools In Advocates’ Decision-Making (Faunalytics)\|Citations/Research And Data As Tools In Advocates’ Decision-Making (Faunalytics)]] (0.87)
+- [[Citations/Pathways To Impact - An International Study Of Advocates’ Strategies And Needs (Faunalytics)\|Citations/Pathways To Impact - An International Study Of Advocates’ Strategies And Needs (Faunalytics)]] (0.79)
+- [[Citations/Growing A Community- How To Support Farmed Animal Protection In China (Faunalytics)\|Citations/Growing A Community- How To Support Farmed Animal Protection In China (Faunalytics)]] (0.77)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/what-to-call-plant-based-meat-alternatives-a-labeling-study-faunalytics/","created":"2026-01-28T11:02:31.754+00:00","updated":"2026-01-28T11:02:31.776+00:00"}
+{"dg-publish":true,"permalink":"/citations/what-to-call-plant-based-meat-alternatives-a-labeling-study-faunalytics/","created":"2026-01-28T11:02:31.754+00:00","updated":"2026-01-29T05:00:06.743+00:00"}
 ---
 
 ### Background
@@ -27,3 +27,9 @@ In this three-phase project, we started off by crowd-sourcing a list of potentia
 4.  **To appeal to men, avoid *vegan* and *plant-based.*** Products targeting men—especially young men—should avoid these standard terms. By contrast, the label *direct protein* showed more promise with men.
 5.  **Older adults like *zero cholesterol.*** Although it didn’t perform well across the full sample, *zero cholesterol* held significant appeal for older adults.
 6.  **We need a range of strategies to appeal to a range of consumers.** As the findings above suggest, there is no one-size-fits-all approach to labeling. For advocates, this means targeting your messages to specific groups. For marketers, as more companies manufacture animal product alternatives, they can target different niches.
+
+# AI suggested related articles
+
+- [[Citations/Associations Between Consumption Of Meats And Animal Product Alternatives (Faunalytics)\|Citations/Associations Between Consumption Of Meats And Animal Product Alternatives (Faunalytics)]] (0.78)
+- [[Citations/Effects of Restrictive Animal Product Alternative Labeling Laws on Supply-chain Costs (Rethink Priorities)\|Citations/Effects of Restrictive Animal Product Alternative Labeling Laws on Supply-chain Costs (Rethink Priorities)]] (0.75)
+- [[When It Comes to Meat Alternatives, These Are the Proteins Consumers Like Best\|When It Comes to Meat Alternatives, These Are the Proteins Consumers Like Best]] (0.75)

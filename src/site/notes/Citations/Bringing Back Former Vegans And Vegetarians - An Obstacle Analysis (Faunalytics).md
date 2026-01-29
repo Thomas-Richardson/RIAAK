@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/bringing-back-former-vegans-and-vegetarians-an-obstacle-analysis-faunalytics/","created":"2026-01-28T10:50:14.128+00:00","updated":"2026-01-28T10:50:14.155+00:00"}
+{"dg-publish":true,"permalink":"/citations/bringing-back-former-vegans-and-vegetarians-an-obstacle-analysis-faunalytics/","created":"2026-01-28T10:50:14.128+00:00","updated":"2026-01-29T05:00:06.433+00:00"}
 ---
 
 This Faunalytics analysis looks at the obstacles faced by people who once pursued a veg*n diet, and what they would need to resume being veg*n, in their own words.
@@ -12,3 +12,9 @@ This Faunalytics analysis looks at the obstacles faced by people who once pursue
 5.  **Some obstacles, like social struggles and accessibility challenges, tend to co-occur, so overcoming one obstacle may improve other related issues.** Many people encountered certain obstacles in tandem. For instance, social struggles tended to co-occur with accessibility challenges: People who mentioned their loved ones posed challenges to their veg*n diets often had concerns about the time and effort it took to shop for, plan, and cook meals. As a result, helping veg*ns combat one obstacle, such as finding easy and tasty veg*n recipes for the whole family, may help combat other related issues.
 6.  **The older you are when you go veg*n, the better your veg*n experience.** People who adopted veg*n diets at a younger age faced more difficulties than those who adopted a veg*n diet at an older age. Younger people expressed more difficulty managing their health, lack of veg*n knowledge, issues related to their loved ones’ needs, and were less likely to mention having a positive experience with veg*nism. People who first tried a veg*n diet at a young age but were unsuccessful may have better luck a few years later. While the reason isn’t clear from these analyses, practical skills (e.g., cooking), self-knowledge, and self-reliance gained over time could be involved.
 7.  **Lapsed veg*ns eat fewer animal products overall, but those who eat the least tend to be older, have financial difficulties, and to have been vegan rather than vegetarian.** Our previous research (Faunalytics, 2014) showed that lapsed veg*ns eat fewer animal products than the general population, and in this analysis we looked at which factors predict how much they consume. Humans are complex, so our behaviors are bound to be influenced by many things. While there are likely other variables that we didn’t consider in this study that affect animal product consumption, our findings give an idea of what some of those influencing variables are: money, age, an initial commitment to a vegan diet, and maintaining a veg*n-friendly attitude even after lapsing.
+
+# AI suggested related articles
+
+- [[Citations/A Summary Of Faunalytics' Study Of Current And Former Vegetarians And Vegans (Faunalytics)\|Citations/A Summary Of Faunalytics' Study Of Current And Former Vegetarians And Vegans (Faunalytics)]] (0.84)
+- [[Citations/Going Vegan Or Vegetarian- Barriers And Strategies On The Path To Success (Faunalytics)\|Citations/Going Vegan Or Vegetarian- Barriers And Strategies On The Path To Success (Faunalytics)]] (0.82)
+- [[Citations/Going Vegan Or Vegetarian- Many Paths To One Goal (Faunalytics)\|Citations/Going Vegan Or Vegetarian- Many Paths To One Goal (Faunalytics)]] (0.81)

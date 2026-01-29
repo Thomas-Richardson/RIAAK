@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-animal-agriculture-industry-s-perspective-on-advocates-and-cage-free-reforms-faunalytics/","created":"2026-01-28T10:49:35.776+00:00","updated":"2026-01-28T10:49:35.860+00:00"}
+{"dg-publish":true,"permalink":"/citations/the-animal-agriculture-industry-s-perspective-on-advocates-and-cage-free-reforms-faunalytics/","created":"2026-01-28T10:49:35.776+00:00","updated":"2026-01-29T05:00:06.591+00:00"}
 ---
 
 ### Key Findings
@@ -18,3 +18,9 @@
 *   **Flip industry narratives about consumer choice and the welfare of lower-income consumers.** The industry is trying to portray animal protection as causing economic challenges for lower-income consumers and reducing consumers’ freedom to choose. Advocates may want to get ahead of this claim by developing strategies and narratives around the increased choice that comes from supporting plant-based agriculture as well as the tactics Big Ag uses to coerce small farmers, the public, and government into supporting their economic monopoly.
 *   **Collaborate with animal welfare scientists and veterinarians who are sympathetic to the cause of animal suffering.** Big Ag frequently criticizes animal advocates as being “anti-science” and emotionally manipulative. To reduce this negative stereotype, advocates can consider working with scholar-advocates like Our Honor and The Kimmela Centre, so that advocates have more empirical support behind their welfare asks.
 *   **Investigate how other lobbies can contribute to de-subsidizing animal agriculture and consider whether to support them.** As one example, these articles suggested that industry stakeholders are concerned about how subsidies for corn-based biofuel will increase costs to animal feed and thus lower their profit margins. Some types of energy subsidy or future subsidies in other industries may provide avenues to challenge animal agriculture indirectly, though caution is needed to ensure that harms don’t outweigh benefits.
+
+# AI suggested related articles
+
+- [[Citations/Reforming Animal Agriculture Subsidies - A Guide for Advocates (Faunalytics)\|Citations/Reforming Animal Agriculture Subsidies - A Guide for Advocates (Faunalytics)]] (0.82)
+- [[Citations/Domination And Exploitation- Industry Costs For Chicken, Egg, And Fish Products (Faunalytics)\|Citations/Domination And Exploitation- Industry Costs For Chicken, Egg, And Fish Products (Faunalytics)]] (0.79)
+- [[Citations/Planting Seeds- The Impact Of Diet & Different Animal Advocacy Tactics (Faunalytics)\|Citations/Planting Seeds- The Impact Of Diet & Different Animal Advocacy Tactics (Faunalytics)]] (0.76)

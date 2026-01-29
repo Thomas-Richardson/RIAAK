@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/pathways-to-impact-an-international-study-of-advocates-strategies-and-needs-faunalytics/","created":"2026-01-28T10:42:19.772+00:00","updated":"2026-01-28T10:42:19.824+00:00"}
+{"dg-publish":true,"permalink":"/citations/pathways-to-impact-an-international-study-of-advocates-strategies-and-needs-faunalytics/","created":"2026-01-28T10:42:19.772+00:00","updated":"2026-01-29T05:00:06.617+00:00"}
 ---
 
 Our survey of nearly 200 animal advocacy groups in 84 countries explores the diverse approaches taken by farmed animal advocates, focusing on how and why organizations pursue different strategies.
@@ -15,3 +15,9 @@ Our survey of nearly 200 animal advocacy groups in 84 countries explores the div
 8.  **Advocacy organizations may be more willing and able to expand on their existing approaches rather than branching into entirely new approaches.** Many advocates would prefer to scale up existing campaigns to cover additional geographies and species or adopt new media strategies to expand their existing individual messaging rather than adopt entirely new approaches.
 9.  **Funding is always front of mind for advocates.** Advocates indicate that funding is the most useful type of support, the most common barrier preventing organizations from expanding to more ambitious approaches, and the greatest challenge for current advocacy work. Complex, competitive grantmaking procedures can also be a hindrance that limits the ability of an organization to focus on its work, and concerns about the sustainability of funding may prevent organizations from expanding and diversifying their approaches.\"
     \"prompt_2\": \"Pathways To Impact - An International Study Of Advocates’ Strategies And Needs (Faunalytics)
+
+# AI suggested related articles
+
+- [[Citations/Planting Seeds- The Impact Of Diet & Different Animal Advocacy Tactics (Faunalytics)\|Citations/Planting Seeds- The Impact Of Diet & Different Animal Advocacy Tactics (Faunalytics)]] (0.81)
+- [[Citations/Research And Data As Tools In Advocates’ Decision-Making (Faunalytics)\|Citations/Research And Data As Tools In Advocates’ Decision-Making (Faunalytics)]] (0.80)
+- [[Citations/Research And Data As Tools In Advocates’ Decision-Making- A Focus On China and Southeast Asia (Faunalytics)\|Citations/Research And Data As Tools In Advocates’ Decision-Making- A Focus On China and Southeast Asia (Faunalytics)]] (0.79)

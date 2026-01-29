@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/effective-communication-with-political-staffers-a-framework-for-animal-advocates-faunalytics/","created":"2026-01-28T10:55:42.178+00:00","updated":"2026-01-28T10:55:42.230+00:00"}
+{"dg-publish":true,"permalink":"/citations/effective-communication-with-political-staffers-a-framework-for-animal-advocates-faunalytics/","created":"2026-01-28T10:55:42.178+00:00","updated":"2026-01-29T05:00:06.531+00:00"}
 ---
 
 This Faunalytics study identifies best practices for engaging with political staffers to strengthen legislative advocacy efforts to advance animal protection.
@@ -12,3 +12,9 @@ This Faunalytics study identifies best practices for engaging with political sta
 5. **Building a diverse coalition of advocates is essential.** Aligning animal protection policies with other issue areas can create opportunities for collaboration across advocacy groups, amplifying efforts and increasing the likelihood of success. Examples of prospective collaborators include climate groups, alternative protein companies, human and labor rights organizations, and even local animal farmers who are motivated to fight back against industrial farms.
 6. **Maintaining flexibility and being willing to accept compromise may lead to long-term success.** As participants shared, compromise is inherent to the legislative process, and windows of opportunity are always shifting. Legislative staffers expressed that animal advocates can compromise on their strategy without compromising on their ultimate goal of ending animal suffering and should be both flexible and persistent in their approach.
 7. **How an issue is framed can have a significant impact on buy-in.** Although the ultimate goal of advocating for a policy is to protect animals, framing the issue around priorities and interests that tend to have more bipartisan support, such as economic benefits or impacts to human well-being, can go a long way in generating the kind of broad support that is often needed to propel legislation forward.
+
+# AI suggested related articles
+
+- [[Citations/Communicating With U.S. Legislators- What Has The Greatest Impact (Faunalytics)\|Citations/Communicating With U.S. Legislators- What Has The Greatest Impact (Faunalytics)]] (0.79)
+- [[Citations/Bridging U.S. Conservative Values And Animal Protection (Faunalytics)\|Citations/Bridging U.S. Conservative Values And Animal Protection (Faunalytics)]] (0.75)
+- [[Citations/Pathways To Impact - An International Study Of Advocates’ Strategies And Needs (Faunalytics)\|Citations/Pathways To Impact - An International Study Of Advocates’ Strategies And Needs (Faunalytics)]] (0.75)

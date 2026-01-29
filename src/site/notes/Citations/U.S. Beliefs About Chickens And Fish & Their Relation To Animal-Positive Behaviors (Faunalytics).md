@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/u-s-beliefs-about-chickens-and-fish-and-their-relation-to-animal-positive-behaviors-faunalytics/","created":"2026-01-28T10:59:21.971+00:00","updated":"2026-01-28T10:59:22.033+00:00"}
+{"dg-publish":true,"permalink":"/citations/u-s-beliefs-about-chickens-and-fish-and-their-relation-to-animal-positive-behaviors-faunalytics/","created":"2026-01-28T10:59:21.971+00:00","updated":"2026-01-29T05:00:06.466+00:00"}
 ---
 
 ## Background
@@ -18,3 +18,9 @@ The current study was created to help answer important questions regarding these
 4.  **The beliefs that had the largest correlations with signing a pledge to reduce chicken consumption were that chickens are beautiful, that they need room to explore and exercise, and that they are loving.** Those trying to get people to reduce their consumption of chicken may want to focus on these themes.
 5.  **The beliefs that had the largest correlations with chicken welfare petition signatures were that chickens need room to explore and exercise, that many chicken farms have horrible conditions, and that chickens are more intelligent than most people give them credit for.** Advocates working on corporate campaigns may find messaging around these beliefs leads to an increase in petition signatures for chicken causes.
 6.  **People were more likely to sign the petition than to take the dietary pledge.** People were more likely to sign a petition that calls for welfare reforms than to take the diet pledge to reduce their own consumption. We also found that people who eat more of each animal were less likely to take the diet pledge to reduce their consumption than those who eat less already. However, these high consumers were no less likely to sign a petition to help improve conditions.
+
+# AI suggested related articles
+
+- [[Citations/Attitudes Towards Chickens & Fishes- A Study Of Brazil, Canada, China, & India (Faunalytics)\|Citations/Attitudes Towards Chickens & Fishes- A Study Of Brazil, Canada, China, & India (Faunalytics)]] (0.84)
+- [[Citations/Different Strokes For Different Folks- Comparing U.S. Groups' Openness to Pro-Animal Actions (Faunalytics)\|Citations/Different Strokes For Different Folks- Comparing U.S. Groups' Openness to Pro-Animal Actions (Faunalytics)]] (0.75)
+- [[Public opinion on fish welfare\|Public opinion on fish welfare]] (0.74)

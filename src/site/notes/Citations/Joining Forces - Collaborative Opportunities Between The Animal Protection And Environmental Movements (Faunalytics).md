@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/joining-forces-collaborative-opportunities-between-the-animal-protection-and-environmental-movements-faunalytics/","created":"2026-01-28T10:43:24.926+00:00","updated":"2026-01-28T10:43:24.976+00:00"}
+{"dg-publish":true,"permalink":"/citations/joining-forces-collaborative-opportunities-between-the-animal-protection-and-environmental-movements-faunalytics/","created":"2026-01-28T10:43:24.926+00:00","updated":"2026-01-29T05:00:06.690+00:00"}
 ---
 
 This Faunalytics study explores areas of overlap between animal and environmental advocacy and opportunities for our movements to work more closely together.
@@ -41,3 +41,9 @@ Given the overlap that exists between animal advocacy and climate and environmen
 *   **Invest time into understanding the animal protection movement and how it ties to the work you do.** The animal protection movement is as diverse as the environmental movement when it comes to the various focus areas of organizations and the strategies they implement. While this report primarily focuses on the potential to collaborate at the intersection of animal agriculture and the environment, there are many other ways the two movements are related (e.g., human-wildlife conflicts putting wild animals at risk of extinction; environmental degradation caused by free-roaming domestic animals; and the environmental consequences of research using lab animals).
 
     Learn about the different kinds of issues that animal advocates work on in the Faunalytics Library, stop by our Office Hours to chat about how your work relates to animal advocacy, or reach out to animal advocacy organizations whose work interests you to learn more about what they do and how you may be able to collaborate.
+
+# AI suggested related articles
+
+- [[Citations/Cross-Movement Collaboration For Farmed Animal Advocates In Southeast Asia (Faunalytics)\|Citations/Cross-Movement Collaboration For Farmed Animal Advocates In Southeast Asia (Faunalytics)]] (0.82)
+- [[Citations/Growing A Community- How To Support Farmed Animal Protection In China (Faunalytics)\|Citations/Growing A Community- How To Support Farmed Animal Protection In China (Faunalytics)]] (0.75)
+- [[Citations/Pathways To Impact - An International Study Of Advocates’ Strategies And Needs (Faunalytics)\|Citations/Pathways To Impact - An International Study Of Advocates’ Strategies And Needs (Faunalytics)]] (0.75)

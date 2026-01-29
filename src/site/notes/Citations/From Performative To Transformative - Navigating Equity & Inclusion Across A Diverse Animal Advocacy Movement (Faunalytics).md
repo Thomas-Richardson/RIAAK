@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/from-performative-to-transformative-navigating-equity-and-inclusion-across-a-diverse-animal-advocacy-movement-faunalytics/","created":"2026-01-28T10:57:09.317+00:00","updated":"2026-01-28T10:57:09.376+00:00"}
+{"dg-publish":true,"permalink":"/citations/from-performative-to-transformative-navigating-equity-and-inclusion-across-a-diverse-animal-advocacy-movement-faunalytics/","created":"2026-01-28T10:57:09.317+00:00","updated":"2026-01-29T05:00:06.683+00:00"}
 ---
 
 This report explores how farmed animal advocacy organizations can meaningfully integrate diversity, equity, and inclusion (DEI) principles into their missions and practices in ways that enhance strategic focus and intended impact. Grounded in qualitative interviews with BIPOC (Black, Indigenous, and People of Color) advocates and movement leaders, as well as desk research on over 200 organizations, the report examines persistent cultural and structural barriers to inclusion and offers pathways for transformation. It is intended for a wide range of farmed animal advocacy movement stakeholders- organizational leaders, movement members, funders, and especially BIPOC advocates navigating their roles within a predominantly white-led movement.
@@ -17,3 +17,9 @@ The report then offers two tailored sets of recommendations for organizations an
 *   **Table 2** provides **aspirational recommendations** by mission scope (Farmed Animal Welfare/Rights, Health and/or Environment, and Social Justice), encouraging deeper community engagement and cross-movement solidarity for organizations ready to lead beyond baseline inclusion and equity work.
 
 Ultimately, the report calls on all actors to move beyond symbolic DEI gestures toward strategies rooted in accountability, power-sharing, and value alignment. It is offered both as a resource and an invitation to help shape a more inclusive and justice-driven movement.
+
+# AI suggested related articles
+
+- [[Citations/Pathways To Impact - An International Study Of Advocates’ Strategies And Needs (Faunalytics)\|Citations/Pathways To Impact - An International Study Of Advocates’ Strategies And Needs (Faunalytics)]] (0.71)
+- [[Citations/Creating A More Equitable Movement- Compensation In The Farmed Animal Advocacy Sector (Faunalytics)\|Citations/Creating A More Equitable Movement- Compensation In The Farmed Animal Advocacy Sector (Faunalytics)]] (0.70)
+- [[Citations/Cross-Movement Collaboration For Farmed Animal Advocates In Southeast Asia (Faunalytics)\|Citations/Cross-Movement Collaboration For Farmed Animal Advocates In Southeast Asia (Faunalytics)]] (0.69)

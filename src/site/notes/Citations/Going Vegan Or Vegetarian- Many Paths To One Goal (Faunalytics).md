@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/going-vegan-or-vegetarian-many-paths-to-one-goal-faunalytics/","created":"2026-01-28T10:57:58.964+00:00","updated":"2026-01-28T10:58:01.032+00:00"}
+{"dg-publish":true,"permalink":"/citations/going-vegan-or-vegetarian-many-paths-to-one-goal-faunalytics/","created":"2026-01-28T10:57:58.964+00:00","updated":"2026-01-29T05:00:06.598+00:00"}
 ---
 
 ### Background
@@ -35,3 +35,9 @@ The Level of Commitment section of this report shows that more than 90% of the s
 *   **Encourage an early, specific commitment.** Participants’ level of commitment at the beginning of the study (i.e., how sure they were that they would continue the diet permanently) was a significant predictor of diet maintenance vs. abandonment. We recommend designing an effective pledge for your outreach campaigns to encourage accountability and commitment.
 *   **To fit individual lifestyles and needs, use tailored pledges rather than one-size-fits-all.** Individuals vary a lot. As we saw in this analysis, there are many successful routes to reducing animal suffering through diet, even for people with the same end goal. For instance, eliminating all animal products at once, eliminating foods one at a time until reaching a goal level, or increasing the number of veg*n meals per week until reaching a goal level. We recommend that you first determine individuals’ preferences, then follow the effective pledge guidelines to have them commit to that specifically tailored pledge, not a general one.
 *   **Acknowledge and validate the ways that personal circumstances can make change difficult and provide appropriate support if you can.** This study identified family circumstances (having a spouse and/or children) as a key barrier for many people. We suggest learning more about these barriers from those who experience them and by reading about other research on the subject. Helping people find ways to overcome barriers is important, but it is also important just to understand and validate the difficulty they pose so that people feel supported in their journey.
+
+# AI suggested related articles
+
+- [[Citations/Going Vegan Or Vegetarian- Barriers And Strategies On The Path To Success (Faunalytics)\|Citations/Going Vegan Or Vegetarian- Barriers And Strategies On The Path To Success (Faunalytics)]] (0.89)
+- [[Citations/Going Vegan Or Vegetarian- Barriers And Strategies On The Path To Success (Faunalytics) 1\|Citations/Going Vegan Or Vegetarian- Barriers And Strategies On The Path To Success (Faunalytics) 1]] (0.88)
+- [[Citations/Going Vegan Or Vegetarian- Motivations & Influences (Faunalytics)\|Citations/Going Vegan Or Vegetarian- Motivations & Influences (Faunalytics)]] (0.88)

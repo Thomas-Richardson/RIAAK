@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/attitudes-towards-chickens-and-fishes-a-study-of-brazil-canada-china-and-india-faunalytics/","created":"2026-01-28T10:56:18.614+00:00","updated":"2026-01-28T10:56:18.665+00:00"}
+{"dg-publish":true,"permalink":"/citations/attitudes-towards-chickens-and-fishes-a-study-of-brazil-canada-china-and-india-faunalytics/","created":"2026-01-28T10:56:18.614+00:00","updated":"2026-01-29T05:00:06.440+00:00"}
 ---
 
 Across the world, advocates are working to improve the welfare of animals and to reduce the consumption of animal products. A key front in this work is addressing the consumption of small-bodied animals — namely chickens and fishes — as they are consumed in the highest numbers, by several orders of magnitude. Reducing the consumption of chickens and fishes could result in billions of individuals being saved, and achieving that goal requires us to understand how consumers think of them.
@@ -7,3 +7,9 @@ Across the world, advocates are working to improve the welfare of animals and to
 Many of the countries we have surveyed in this line of research—which includes Brazil, Canada, China, India, and the United States—contribute in huge quantities to the enormous suffering of chickens and fishes. For example, China, the United States, and Brazil slaughtered more chickens than any other countries in 2018, with India not far behind. In terms of tons of fishes slaughtered, China ranked first in the world, while India was fourth and the U.S. was sixth. In total, the five countries considered in this research account for over 40% of the global chicken slaughter and more than a quarter of global fish slaughter.
 
 Because of cultural differences across different regions, it is important that advocates understand the context in which they are working rather than assuming that lessons from one part of the world can be applied to audiences in another. Despite the massive quantities of chicken and fish slaughter committed by each of these countries, it is not necessarily the case that their residents share similar beliefs about these animals. By comparing the country-level findings of this study, we can observe similarities and differences in beliefs across countries. This information may be helpful for animal advocates working in their respective national contexts, or in an international context.
+
+# AI suggested related articles
+
+- [[Citations/U.S. Beliefs About Chickens And Fish & Their Relation To Animal-Positive Behaviors (Faunalytics)\|Citations/U.S. Beliefs About Chickens And Fish & Their Relation To Animal-Positive Behaviors (Faunalytics)]] (0.84)
+- [[What Happens if the EU Bans Terms Like “Veggie Burger”? A New Consumer Study Explores\|What Happens if the EU Bans Terms Like “Veggie Burger”? A New Consumer Study Explores]] (0.78)
+- [[Citations/Chinese Consumers' Attitudes Toward Animal Welfare - Behaviors, Beliefs, and Responses to Messaging (Faunalytics)\|Citations/Chinese Consumers' Attitudes Toward Animal Welfare - Behaviors, Beliefs, and Responses to Messaging (Faunalytics)]] (0.76)

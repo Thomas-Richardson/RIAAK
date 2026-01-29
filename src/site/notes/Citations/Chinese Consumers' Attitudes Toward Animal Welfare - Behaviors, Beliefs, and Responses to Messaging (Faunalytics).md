@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/chinese-consumers-attitudes-toward-animal-welfare-behaviors-beliefs-and-responses-to-messaging-faunalytics/","created":"2026-01-28T10:48:19.906+00:00","updated":"2026-01-28T10:48:20.077+00:00"}
+{"dg-publish":true,"permalink":"/citations/chinese-consumers-attitudes-toward-animal-welfare-behaviors-beliefs-and-responses-to-messaging-faunalytics/","created":"2026-01-28T10:48:19.906+00:00","updated":"2026-01-29T05:00:06.749+00:00"}
 ---
 
 Our study of Chinese consumers finds broad interest in higher animal welfare products, but mostly for food quality and safety reasons.
@@ -11,3 +11,9 @@ Our study of Chinese consumers finds broad interest in higher animal welfare pro
 4.  **Meat is preferred for a variety of reasons, beyond just taste.** Participants mentioned the positive sensations associated with high-quality meat products, including being filling, mouthfeel, fragrance, and taste. For example, the term xiāng (香), often translated as “fragrant,” referring to either a good smell or a distinctive taste, is one of the most common words used to positively describe the sensation of eating meat. The concepts associated with these positive sensations were often culturally distinctive, and should be understood by advocates as aspects of food preferred by Chinese consumers.
 5.  **Perceptions of the human-animal relationship are distinctive and nuanced.** There are different ways that participants conceive of human-animal relationships, and this affects what level of welfare, if any, they feel an animal or animal species deserves. Ideas of emotional connections to humans, reciprocity (helping animals in response to a service they provide), that human and animal welfare are intertwined through ecology and food safety concerns, and the perceived purpose of animals all contribute to the perceptions of human-animal relations.
 6.  **Animal welfare was not generally seen as a foreign concept.** Contrary to what some China-based advocates suspected in our Phase 1 report, we found that most participants exposed to the concept and details of provisions for animal welfare did not generally see it as something foreign, Western, or associated with foreign values.
+
+# AI suggested related articles
+
+- [[Citations/Chinese Consumers' Attitudes Toward Animal Welfare - Behaviors, Beliefs, and Responses to Messaging (Faunalytics) 1\|Citations/Chinese Consumers' Attitudes Toward Animal Welfare - Behaviors, Beliefs, and Responses to Messaging (Faunalytics) 1]] (1.00)
+- [[Citations/Untitled\|Citations/Untitled]] (0.97)
+- [[Citations/Growing A Community- How To Support Farmed Animal Protection In China (Faunalytics)\|Citations/Growing A Community- How To Support Farmed Animal Protection In China (Faunalytics)]] (0.79)

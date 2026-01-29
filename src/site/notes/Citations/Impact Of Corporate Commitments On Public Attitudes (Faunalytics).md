@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/impact-of-corporate-commitments-on-public-attitudes-faunalytics/","created":"2026-01-28T11:02:22.270+00:00","updated":"2026-01-28T11:02:22.298+00:00"}
+{"dg-publish":true,"permalink":"/citations/impact-of-corporate-commitments-on-public-attitudes-faunalytics/","created":"2026-01-28T11:02:22.270+00:00","updated":"2026-01-29T05:00:06.400+00:00"}
 ---
 
 ### Background
@@ -33,3 +33,9 @@ The comments were analyzed in two ways. First, a team of trained researchers rea
 6.  **Animal advocates appear to be relatively invisible in these reforms, and that is probably a good thing.** Only a few commenters referred to animal advocates, advocacy groups, or vegans in their responses to the articles. Most of those few references were negative, and they tended to occur about articles that explicitly referred to advocacy groups or in response to other commenters with a clear advocacy agenda. This suggests that, as long as the media doesn’t play up advocates’ role in obtaining corporate commitments, it doesn’t come to mind for most people. Given that—when it did come to mind—the most common response was negative, we consider this a good thing and something to aim for.
 7.  **Concerns about the restriction of consumer choice or the transition hurting farmers were vanishingly rare.** We looked specifically for these concerns because they are brought up in some debates about corporate campaigns, but almost no one in the general public commented about these issues. Each of these themes appeared only once in our dataset.
 8.  **Few corporations had announced their cage-free commitments on their Facebook pages.** Only 10 out of 75 restaurant corporations listed on advocacy websites as having made the commitment announced their commitment on Facebook. We suspect that many corporations may have been concerned about public reaction, but the results of this study may reassure them about future commitments. Making a public commitment is a well-known way of ensuring follow-through, so we hope that these results can be used to encourage more openness in the future.
+
+# AI suggested related articles
+
+- [[Citations/The impact of Corporate Social Responsibility on animal welfare standards - Evidence from the cage-free egg industry (Rethink Priorities)\|Citations/The impact of Corporate Social Responsibility on animal welfare standards - Evidence from the cage-free egg industry (Rethink Priorities)]] (0.82)
+- [[Citations/Planting Seeds- The Impact Of Diet & Different Animal Advocacy Tactics (Faunalytics)\|Citations/Planting Seeds- The Impact Of Diet & Different Animal Advocacy Tactics (Faunalytics)]] (0.76)
+- [[Citations/The Animal Agriculture Industry’s Perspective On Advocates & Cage-Free Reforms (Faunalytics)\|Citations/The Animal Agriculture Industry’s Perspective On Advocates & Cage-Free Reforms (Faunalytics)]] (0.75)

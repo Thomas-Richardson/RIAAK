@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/local-action-for-animals-as-a-stepping-stone-to-state-protections-faunalytics/","created":"2026-01-28T10:48:40.598+00:00","updated":"2026-01-28T10:48:40.630+00:00"}
+{"dg-publish":true,"permalink":"/citations/local-action-for-animals-as-a-stepping-stone-to-state-protections-faunalytics/","created":"2026-01-28T10:48:40.598+00:00","updated":"2026-01-29T05:00:06.493+00:00"}
 ---
 
 This Faunalytics study looks at whether local laws have laid the groundwork for laws at the state level of government, and whether this is a viable avenue for creating meaningful change for animals.
@@ -17,3 +17,9 @@ To this end, we reviewed legal materials relating to animal welfare in the Unite
 3.  **Even when there is preemption, non-binding local resolutions may influence the state legislature, as can litigation in some situations.** When local governments’ power to create laws has been preempted, they can create non-binding resolutions to pressure higher levels of government to take action. This can bring awareness to state legislators about an issue the local community is concerned about, potentially inspiring legislators to consider the topic. We saw widespread use of resolutions in this review, with at least 7 resolutions that seemed likely to have influenced state legislation and another 16 that appeared to have influenced other municipalities—see the tables at the end of the full report for details. Lawsuits were less frequent, but *California Veterinary Medical Ass’n. v. City of West Hollywood* (2007) provides an example of litigation being used successfully to reaffirm a city’s power when state preemption was overly broad.
 4.  **Persistence is necessary, especially for animal issues with less local support.** We found that it took multiple attempts for many states to review and refine a bill pertaining to animal issues. Most state bills did not pass on their first introduction. State bills undergo an extensive process of reading, editing, and revision from the House and Senate chambers. Particularly when there are no similar bills or legislation enacted in other states or municipalities, it seems legislators may be wary of passing something without a clear base of support.
 5.  **Animal protection issues are at varying stages of success and are subject to different challenges.** While the primary goal of this report was to examine the influence of local action, an additional goal was to compile data about state and local laws for advocates to use as a starting point for additional research or to suggest actions they can take. State laws identified during our review are described in an Excel spreadsheet on the Open Science Framework.
+
+# AI suggested related articles
+
+- [[Citations/Support For Farmed Animal Welfare Legislation In Ten Key U.S. States (Faunalytics)\|Citations/Support For Farmed Animal Welfare Legislation In Ten Key U.S. States (Faunalytics)]] (0.76)
+- [[Citations/Pathways To Impact - An International Study Of Advocates’ Strategies And Needs (Faunalytics)\|Citations/Pathways To Impact - An International Study Of Advocates’ Strategies And Needs (Faunalytics)]] (0.74)
+- [[Citations/Planting Seeds- The Impact Of Diet & Different Animal Advocacy Tactics (Faunalytics)\|Citations/Planting Seeds- The Impact Of Diet & Different Animal Advocacy Tactics (Faunalytics)]] (0.72)

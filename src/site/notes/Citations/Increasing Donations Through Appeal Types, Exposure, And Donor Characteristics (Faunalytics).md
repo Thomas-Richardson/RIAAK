@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/increasing-donations-through-appeal-types-exposure-and-donor-characteristics-faunalytics/","created":"2026-01-28T11:00:38.265+00:00","updated":"2026-01-28T11:00:38.283+00:00"}
+{"dg-publish":true,"permalink":"/citations/increasing-donations-through-appeal-types-exposure-and-donor-characteristics-faunalytics/","created":"2026-01-28T11:00:38.265+00:00","updated":"2026-01-29T05:00:06.393+00:00"}
 ---
 
 Faunalytics’ experiment investigated whether messages and donor characteristics can increase donations to farmed and companion animals.
@@ -11,3 +11,9 @@ Faunalytics’ experiment investigated whether messages and donor characteristic
 *   **People who have previously donated to any animal charity gave 92% more money to farmed and companion animals than people who had not.** Therefore, the more it costs a charity to access each potential donor, the more cost-effective it becomes to tap into this group. For farmed animal charities in particular, previous donors to any animal cause are a valuable target group, as most will likely be new to farmed animal support.
 
 *   **There was no difference in donations whether the appeal used an identifiable victim or statistical victims**. This finding is similar to previous research with wild animals (Thomas-Walters & Raihani, 2016). Surprisingly, though, even appeals with no descriptive text at all performed as well as the rest. This finding points to minimal appeals as the most cost-effective messaging strategy for donations, as it suggests that lengthier ads may be unnecessary.
+
+# AI suggested related articles
+
+- [[Citations/The People Who Support Animal Causes- Descriptive Results (Faunalytics)\|Citations/The People Who Support Animal Causes- Descriptive Results (Faunalytics)]] (0.83)
+- [[Citations/People Who Support Animal Causes- Who Gives More (Faunalytics)\|Citations/People Who Support Animal Causes- Who Gives More (Faunalytics)]] (0.82)
+- [[Citations/Donor Segmentation- The People Who Donate To Non-Companion Animals (Faunalytics)\|Citations/Donor Segmentation- The People Who Donate To Non-Companion Animals (Faunalytics)]] (0.80)

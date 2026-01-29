@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/different-strokes-for-different-folks-comparing-u-s-groups-openness-to-pro-animal-actions-faunalytics/","created":"2026-01-28T10:51:00.423+00:00","updated":"2026-01-28T10:51:00.441+00:00"}
+{"dg-publish":true,"permalink":"/citations/different-strokes-for-different-folks-comparing-u-s-groups-openness-to-pro-animal-actions-faunalytics/","created":"2026-01-28T10:51:00.423+00:00","updated":"2026-01-29T05:00:06.696+00:00"}
 ---
 
 This Faunalytics study examines a broad range of demographics and shows how advocates working with specific groups can craft asks that are most likely to appeal to them.
@@ -10,3 +10,9 @@ This Faunalytics study examines a broad range of demographics and shows how advo
 3.  **Black, Indigenous, and People of the Global Majority (BIPGM) individuals are often more open to pro-animal actions than white people.** However, the degree of openness depends on the action. For example, Black participants reported the highest likelihood of removing beef and pork from their diets (27%), going pescatarian (21%), and going vegan (12%), but were not among the groups most open to most non-diet actions. Hispanic or Latino/a/x participants were the second most likely to share a post related to farm animal welfare on social media (45%) or attend a protest or demonstration (29%), and other BIPGM participants were among the most likely to use a plant-based protein as the main protein in a meal (58%), order a vegetarian entrée at a restaurant (52%), and purchase a meat substitute (43%). In contrast, white participants were not among the most likely groups to take any of the pro-animal actions studied.
 4.  **People are most open to simple actions that result in institutional change.** Overall, we estimate that people in the U.S. are most open to voting for a ballot measure designed to improve conditions for farmed animals, signing a petition aimed at improving farmed animal welfare, and supporting Meatless Mondays in schools. Over 60% of the U.S. public said they would vote for a farmed animal-focused ballot measure, sign a farmed animal-focused petition, or support a Meatless Mondays school lunch policy.
 5.  **Speciesism varies across characteristic groups.** Non-animal lovers, people who aren’t concerned about climate change, conservatives, and Republicans had the highest levels of speciesism, while people outside the gender binary, liberals, women, Hispanic or Latino/a/x people, and Democrats had the lowest levels of speciesism.
+
+# AI suggested related articles
+
+- [[Citations/Untitled 1\|Citations/Untitled 1]] (0.96)
+- [[Citations/Untitled 2\|Citations/Untitled 2]] (0.96)
+- [[Mintel, year unknown\|Mintel, year unknown]] (0.83)

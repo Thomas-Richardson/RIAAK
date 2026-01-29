@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/twitter-trends-cage-free-vegan-animal-rights-and-more-faunalytics/","created":"2026-01-28T10:59:00.988+00:00","updated":"2026-01-28T10:59:01.415+00:00"}
+{"dg-publish":true,"permalink":"/citations/twitter-trends-cage-free-vegan-animal-rights-and-more-faunalytics/","created":"2026-01-28T10:59:00.988+00:00","updated":"2026-01-29T05:00:06.446+00:00"}
 ---
 
 ### **Background**
@@ -16,3 +16,9 @@ Please note, when we talk about *keywords* throughout this report, it refers to 
 2.  **Use of diet keywords tended to spike in the first week of January, and this was particularly noticeable for ‘vegan’ and ‘plant-based.’** The use of ‘vegan’ almost doubled from 105k usages in the last week of December to 193k in the first week of January. ‘Plant-based’ is used much less often, but had a larger relative spike- from 11k in the last week of December to almost 29k by the second week of January. The beginning of the year is a good time to be active with those diet-related keywords and hashtags!
 3.  **Tweets about veganism are far more frequent than any of the other related dietary keywords**, including ‘vegetarian,’ ‘plant-based’, ‘reducetarian’, or ‘flexitarian’. This may reflect that vegans are more likely to be active advocates for diet change, or see it as a more important part of their identity, both of which have been shown in the literature. It may also reflect greater interest among the general population in engaging in conversation around veganism.
 4.  **Tweets about cultured meat were less frequent than other advocacy-related tweets, but they were used positively most of the time.** This is likely good news for those investigating how to market these products in the future! It is also notable that the term ‘lab meat’, while used frequently early on in the analysis period, dropped off substantially and continued to decline—this may be good news for advocates who have campaigned against the use of more clinical terms like “lab” and “in vitro”.
+
+# AI suggested related articles
+
+- [[Citations/How To Message Plant-Based Diets And Products In Southeast Asia- A Social Media Analysis (Faunalytics)\|Citations/How To Message Plant-Based Diets And Products In Southeast Asia- A Social Media Analysis (Faunalytics)]] (0.75)
+- [[Studies of plant-based diets and social media\|Studies of plant-based diets and social media]] (0.74)
+- [[Citations/Planting Seeds- The Impact Of Diet & Different Animal Advocacy Tactics (Faunalytics)\|Citations/Planting Seeds- The Impact Of Diet & Different Animal Advocacy Tactics (Faunalytics)]] (0.73)

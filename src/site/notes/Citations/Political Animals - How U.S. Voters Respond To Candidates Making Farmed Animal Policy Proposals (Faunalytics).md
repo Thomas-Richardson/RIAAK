@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/political-animals-how-u-s-voters-respond-to-candidates-making-farmed-animal-policy-proposals-faunalytics/","created":"2026-01-28T10:38:48.999+00:00","updated":"2026-01-28T10:38:49.041+00:00"}
+{"dg-publish":true,"permalink":"/citations/political-animals-how-u-s-voters-respond-to-candidates-making-farmed-animal-policy-proposals-faunalytics/","created":"2026-01-28T10:38:48.999+00:00","updated":"2026-01-29T05:00:06.736+00:00"}
 ---
 
 This Faunalytics study examines the impact on vote choice and perceptions of political candidates when those candidates propose changes to U.S. food policy. It focuses on voter responses to policy proposals aimed at supporting or opposing industrial animal agriculture.
@@ -11,3 +11,9 @@ This Faunalytics study examines the impact on vote choice and perceptions of pol
 4.  **Voters are wary of cultivated meat.** Candidates who proposed to “Increase public investment in cultivated meat (also known as cell-cultured meat)” performed poorly in terms of vote share, receiving only 45% of the vote, all else equal. This dropped to 40% among women and to 38% among conservatives. Candidates who endorsed a ban on “lab-grown meat” earned an expected 54% of the vote in a two-person race. This number rose to 57% among women and 62% among conservatives.
 5.  **A bipartisan coalition for farmed animals is possible.** Liberals, moderates, and conservatives were all willing to reward candidates who proposed to “Strengthen farm animal regulations to reduce the number of animals on factory farms.” All three groups also withheld votes from candidates who proposed to “Increase government subsidies to meat companies.” These findings suggest that certain farmed animal-related policy proposals would likely receive support across the political spectrum.
 6.  **Future research should use experimental methods like choice-based conjoint to isolate cause and effect, as well as the impact of specific attributes.** Self-reported data about a participant’s attitudes and beliefs can be a helpful tool. However, this information doesn’t always carry through to actual actions. Researchers working to refine political messaging to help animals should incorporate methods like choice-based conjoints that attempt to mimic reality. For example, these approaches could resemble messaging in the form of a speech or social media post, providing important information about how to make political communication as effective as possible. Experimental methods can also help isolate the effects of individual attributes in order to get a more accurate understanding of behavior.
+
+# AI suggested related articles
+
+- [[Citations/Different Strokes For Different Folks- Comparing U.S. Groups' Openness to Pro-Animal Actions (Faunalytics)\|Citations/Different Strokes For Different Folks- Comparing U.S. Groups' Openness to Pro-Animal Actions (Faunalytics)]] (0.79)
+- [[Citations/Bridging U.S. Conservative Values And Animal Protection (Faunalytics)\|Citations/Bridging U.S. Conservative Values And Animal Protection (Faunalytics)]] (0.78)
+- [[Citations/Support For Farmed Animal Welfare Legislation In Ten Key U.S. States (Faunalytics)\|Citations/Support For Farmed Animal Welfare Legislation In Ten Key U.S. States (Faunalytics)]] (0.78)

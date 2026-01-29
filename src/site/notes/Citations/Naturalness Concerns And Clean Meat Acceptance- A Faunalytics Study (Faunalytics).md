@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/naturalness-concerns-and-clean-meat-acceptance-a-faunalytics-study-faunalytics/","created":"2026-01-28T11:02:53.036+00:00","updated":"2026-01-28T11:02:53.070+00:00"}
+{"dg-publish":true,"permalink":"/citations/naturalness-concerns-and-clean-meat-acceptance-a-faunalytics-study-faunalytics/","created":"2026-01-28T11:02:53.036+00:00","updated":"2026-01-29T05:00:06.663+00:00"}
 ---
 
 ### Background
@@ -23,3 +23,9 @@ In a real-world context, consumers will not answer questions about their willing
 That being said, such an approach would represent a fairly aggressive stance towards conventional meat producers, which may not be an optimal strategy for advancing clean meat. Several conventional meat producers are already backing clean meat technology, so encouraging others to do so as well may be a better strategy than fighting them with legal challenges or marketing. This question warrants further consideration.
 
 Given the care that was taken in developing the experimental messages, and their lack of influence over the outcome variables, we believe it is reasonable to interpret these results as an indication that arguing for clean meat’s naturalness or the unimportance of naturalness are difficult strategies to use effectively.
+
+# AI suggested related articles
+
+- [[Citations/How Much Will Consumers Pay For Clean Meat (Faunalytics)\|Citations/How Much Will Consumers Pay For Clean Meat (Faunalytics)]] (0.77)
+- [[Citations/What To Call Plant-Based Meat Alternatives- A Labeling Study (Faunalytics)\|Citations/What To Call Plant-Based Meat Alternatives- A Labeling Study (Faunalytics)]] (0.72)
+- [[Citations/BUEC, 2020\|Citations/BUEC, 2020]] (0.72)

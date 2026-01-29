@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-people-who-support-animal-causes-descriptive-results-faunalytics/","created":"2026-01-28T11:02:28.576+00:00","updated":"2026-01-28T11:02:28.649+00:00"}
+{"dg-publish":true,"permalink":"/citations/the-people-who-support-animal-causes-descriptive-results-faunalytics/","created":"2026-01-28T11:02:28.576+00:00","updated":"2026-01-29T05:00:06.676+00:00"}
 ---
 
 ### **Background**
@@ -27,3 +27,9 @@ The second half covers **donor behavior:** how much animal-cause donors give, wh
 7.  **Animal-cause donors care about a variety of issues, human and animal.** Only 9% of respondents had donated exclusively to animal causes. The vast majority spread their donations around. Among animal-cause donors, the most supported human causes were for vulnerable populations- local social service organizations (e.g., food banks), children’s charities, and emergency relief efforts. Speculatively, highlighting animals’ vulnerability to human exploitation and abuse might increase the size or frequency of donations from existing donors.
 8.  **After online donations, which were made by 39% of the sample, the next most common donation methods were mail (25%) and in-person donations at a charity’s location (25%).** Given the increasing emphasis on online donations, it is important to note the majority of animal-cause donors who had not used that method in the past year. In addition, many respondents indicated that they prefer less-common donation options like adding a donation to their bill at a store.
 9.  **People who donate to animal causes are more likely to be vegan or vegetarian, to live with companion animals, and to go fishing regularly than the general population.** Although some animal-cause donors live more animal-friendly lives, many do not. In some ways, such as fishing, they are actually less animal-friendly on average.
+
+# AI suggested related articles
+
+- [[Citations/People Who Support Animal Causes- Who Gives More (Faunalytics)\|Citations/People Who Support Animal Causes- Who Gives More (Faunalytics)]] (0.90)
+- [[Citations/Donor Segmentation- The People Who Donate To Non-Companion Animals (Faunalytics)\|Citations/Donor Segmentation- The People Who Donate To Non-Companion Animals (Faunalytics)]] (0.85)
+- [[Citations/Increasing Donations Through Appeal Types, Exposure, And Donor Characteristics (Faunalytics)\|Citations/Increasing Donations Through Appeal Types, Exposure, And Donor Characteristics (Faunalytics)]] (0.83)

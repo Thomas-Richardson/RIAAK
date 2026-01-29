@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/quantifying-the-small-body-problem-a-meta-analysis-of-animal-product-reduction-interventions-faunalytics/","created":"2026-01-28T10:39:04.506+00:00","updated":"2026-01-28T10:39:04.534+00:00"}
+{"dg-publish":true,"permalink":"/citations/quantifying-the-small-body-problem-a-meta-analysis-of-animal-product-reduction-interventions-faunalytics/","created":"2026-01-28T10:39:04.506+00:00","updated":"2026-01-29T05:00:06.729+00:00"}
 ---
 
 When people reduce their consumption of large-bodied animals but consume more small-bodied animal products, animal suffering is increased, as more animal lives are impacted. Faunalytics and Bryant Research conducted a meta-analysis of the small body problem to evaluate its prevalence and offer recommendations for advocates.
@@ -9,3 +9,9 @@ When people reduce their consumption of large-bodied animals but consume more sm
 2.  **Overall, we found no evidence of the small-body substitution problem in response to animal product reduction interventions.** On the whole, people do not appear to increase their consumption of small-bodied animals (e.g., chickens, fishes) when exposed to animal product reduction interventions. However, this comes with the caveat that studies were highly variable, meaning that some interventions did actually result in greater small-bodied animal consumption, even when the overall result — with all studies considered — was null.
 3.  **Overall, people did not *decrease* their consumption of animal products (neither large- nor small-bodied) when exposed to animal product reduction interventions.** This may be alarming to advocates, as it implies that current advocacy strategies are ineffective. However, this is slightly reductive. Findings indicate that positive and negative results across the studies are canceling one another out, producing an overall null result. With this in mind, specific intervention types that do show success should be prioritized (see the fourth Key Finding). Moreover, new, innovative approaches ought to be considered.
 4.  **Despite no overall effect, some individual interventions did result in reduced animal product consumption. Choice architecture in particular was associated with reduced consumption of small-bodied animals.** We recommend advocates incorporate choice architecture into their efforts whenever possible to maximize impact.
+
+# AI suggested related articles
+
+- [[Citations/Planting Seeds- The Impact Of Diet & Different Animal Advocacy Tactics (Faunalytics)\|Citations/Planting Seeds- The Impact Of Diet & Different Animal Advocacy Tactics (Faunalytics)]] (0.78)
+- [[Citations/Reduce Or Go Veg - Effects On Meal Choice (Faunalytics)\|Citations/Reduce Or Go Veg - Effects On Meal Choice (Faunalytics)]] (0.78)
+- [[Citations/Mathur et al., 2021\|Citations/Mathur et al., 2021]] (0.76)

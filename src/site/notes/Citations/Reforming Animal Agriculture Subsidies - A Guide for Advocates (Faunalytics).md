@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/reforming-animal-agriculture-subsidies-a-guide-for-advocates-faunalytics/","created":"2026-01-28T10:49:49.148+00:00","updated":"2026-01-28T10:49:49.170+00:00"}
+{"dg-publish":true,"permalink":"/citations/reforming-animal-agriculture-subsidies-a-guide-for-advocates-faunalytics/","created":"2026-01-28T10:49:49.148+00:00","updated":"2026-01-29T05:00:06.558+00:00"}
 ---
 
 Animal agriculture subsidies create an uneven playing field for advocates and plant-based producers. Our study looks at successes and challenges in the fight to shift, reduce, or eliminate subsidies.
@@ -10,3 +10,9 @@ Animal agriculture subsidies create an uneven playing field for advocates and pl
 2.  **Indirect subsidies are particularly important because they’re less obvious: Big Ag saves money by harming people, the environment, and farmed animals.** Some organizations have sued the government and Big Ag companies for failing to comply with environmental and antitrust laws, which is one approach to combating these indirect subsidies. Some advocates also work against them by campaigning for cage-free transitions or other welfare improvements, which requires the industry to invest more money into these changes and thus increases the cost of animal products.
 3.  **Litigation is an important yet less recognized tool for evening the playing field.** Organizations that have filed a lawsuit against Big Ag companies reported that doing so increased their ability to obtain meetings with politicians, media coverage of the harms of Big Ag, and legislative changes that minimize these harms. Importantly, all this became more feasible after filing a notice of suit, before or without having to enter the courtroom.
 4.  **Reforming Big Ag subsidies needs to be a collaborative effort between animal advocates, environmental advocates, and farmed animal producers.** Subsidizing Big Ag affects everyone—from non-human animals to small-scale farmers—so many organizations have had the most success in reforming farm subsidies by setting aside their differences and working with stakeholders outside the animal protection movement.
+
+# AI suggested related articles
+
+- [[Citations/Subsidies - Which reforms can help animals (Animal Ask)\|Citations/Subsidies - Which reforms can help animals (Animal Ask)]] (0.82)
+- [[Citations/The Animal Agriculture Industry’s Perspective On Advocates & Cage-Free Reforms (Faunalytics)\|Citations/The Animal Agriculture Industry’s Perspective On Advocates & Cage-Free Reforms (Faunalytics)]] (0.82)
+- [[Citations/Big Ag, Big Bucks - How USDA Subsidies Feed Market Inequality And Political Influence (Faunalytics)\|Citations/Big Ag, Big Bucks - How USDA Subsidies Feed Market Inequality And Political Influence (Faunalytics)]] (0.81)

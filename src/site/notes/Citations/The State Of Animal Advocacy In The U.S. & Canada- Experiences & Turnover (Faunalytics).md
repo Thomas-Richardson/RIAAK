@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-state-of-animal-advocacy-in-the-u-s-and-canada-experiences-and-turnover-faunalytics/","created":"2026-01-28T10:59:51.152+00:00","updated":"2026-01-28T10:59:51.183+00:00"}
+{"dg-publish":true,"permalink":"/citations/the-state-of-animal-advocacy-in-the-u-s-and-canada-experiences-and-turnover-faunalytics/","created":"2026-01-28T10:59:51.152+00:00","updated":"2026-01-29T05:00:06.472+00:00"}
 ---
 
 ### Background
@@ -30,3 +30,9 @@ This study examined the experiences of advocates in the United States and Canada
     3.  Whether they had experienced harassment.
 6.  **Most unpaid advocates were satisfied with their organizations’ leadership and felt a strong sense of identification with advocacy, while 13% had experienced at least one incident of harassment, bullying, or abuse from other advocates or members of the public.** There was more room for improvement in certain aspects of the support or resources available to unpaid advocates: About a quarter did not feel understood by their supervisors, a third did not feel that they received enough training to do their job well, and more than half did not feel that they received enough support for career advancement.
 7.  **Finally, a substantial proportion of advocates had experienced one or more instances of discrimination or harassment in the past five years, and advocates who are members of marginalized groups were disproportionately impacted.** Overall, 49% of paid advocates and 28% of unpaid advocates had experienced discrimination or harassment. This included 50% of advocates with disabilities, 33% of female and non-binary advocates, 29% of advocates of color, and 14% of LGBTQ+ advocates who reported having experienced discrimination, unfair treatment, harassment, bullying, or abuse based on their group membership. (Though note that sample sizes for some of these groups were very small so the findings may not generalize well.)
+
+# AI suggested related articles
+
+- [[Citations/Creating A More Equitable Movement- Compensation In The Farmed Animal Advocacy Sector (Faunalytics)\|Citations/Creating A More Equitable Movement- Compensation In The Farmed Animal Advocacy Sector (Faunalytics)]] (0.79)
+- [[Citations/Pathways To Impact - An International Study Of Advocates’ Strategies And Needs (Faunalytics)\|Citations/Pathways To Impact - An International Study Of Advocates’ Strategies And Needs (Faunalytics)]] (0.77)
+- [[Citations/Advocates, Allies, Adversaries - 12 Years Of Faunalytics’ Animal Tracker (Faunalytics)\|Citations/Advocates, Allies, Adversaries - 12 Years Of Faunalytics’ Animal Tracker (Faunalytics)]] (0.75)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/covid-19-and-animals-what-the-public-does-and-doesn-t-know-faunalytics/","created":"2026-01-28T11:00:25.120+00:00","updated":"2026-01-28T11:00:25.159+00:00"}
+{"dg-publish":true,"permalink":"/citations/covid-19-and-animals-what-the-public-does-and-doesn-t-know-faunalytics/","created":"2026-01-28T11:00:25.120+00:00","updated":"2026-01-29T05:00:06.525+00:00"}
 ---
 
 ### Project Background
@@ -18,3 +18,9 @@ Before diving into respondents’ understanding of COVID-19, it is important to 
 5.  **Very few people are aware of the threats to life faced by animals used in research or those who depend on tourists for food.** However, almost all respondents were aware that companion animals are not generally spreading the virus.
 6.  **Unless food availability changes in the coming weeks, we should not expect overall animal product consumption to change substantially because of COVID-19, although some individuals may shift their behavior.** The proportions of people who said they are more likely to try plant-based eating or reduce their meat consumption because of the pandemic were similar to the proportion who said they were less likely to do so because of the pandemic, suggesting that average consumption is likely to remain similar.
 7.  **In a time of pandemic, some people are more likely to donate to animal charities, some are less likely.** Roughly equal proportions of respondents said they were more and less likely to donate to an animal charity because of the pandemic. Respondents also claimed that they were more likely than usual to donate to charity because of the pandemic, but we should treat these claims with skepticism, as data from the 2008 recession suggests that overall donations are likely to decrease substantially. There may also be more targeting of donations toward poverty-related causes, which could divert funding away from animal charities.
+
+# AI suggested related articles
+
+- [[Citations/The People Who Support Animal Causes- Descriptive Results (Faunalytics)\|Citations/The People Who Support Animal Causes- Descriptive Results (Faunalytics)]] (0.72)
+- [[Citations/Chinese Consumers' Attitudes Toward Animal Welfare - Behaviors, Beliefs, and Responses to Messaging (Faunalytics)\|Citations/Chinese Consumers' Attitudes Toward Animal Welfare - Behaviors, Beliefs, and Responses to Messaging (Faunalytics)]] (0.70)
+- [[Citations/Chinese Consumers' Attitudes Toward Animal Welfare - Behaviors, Beliefs, and Responses to Messaging (Faunalytics) 1\|Citations/Chinese Consumers' Attitudes Toward Animal Welfare - Behaviors, Beliefs, and Responses to Messaging (Faunalytics) 1]] (0.70)

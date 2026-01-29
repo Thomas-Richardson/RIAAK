@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/riaak-home-page/","tags":["gardenEntry"],"created":"2025-10-23T17:42:41.615+01:00","updated":"2026-01-24T20:20:48.993+00:00"}
+{"dg-publish":true,"permalink":"/riaak-home-page/","tags":["gardenEntry"],"created":"2025-10-23T17:42:41.615+01:00","updated":"2026-01-29T12:01:42.855+00:00"}
 ---
 
 This is the homepage for Richie's Impactful Animal Advocacy Knowledge-base, aka RIAAK!
@@ -83,7 +83,7 @@ Whenever you see
 On the left side, you will also see the main folders and all the files inside them. Not a great way to search for a file, but might be useful.
 
 # Can't find what you're looking for? 
-Try [Faunalytics](https://faunalytics.org/?s=&post_type=post&orderby=post_date&order=desc&explore=true) they write accessible summaries of important research in the animal movement.
+[[Other Resources to RIAAK\|Find more resources here!]]
 
 ---- 
 ## [[RIAAK FAQ\|An FAQ can be found here]]

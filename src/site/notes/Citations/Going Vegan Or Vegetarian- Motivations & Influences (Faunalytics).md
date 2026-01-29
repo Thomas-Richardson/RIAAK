@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/going-vegan-or-vegetarian-motivations-and-influences-faunalytics/","created":"2026-01-28T10:56:56.053+00:00","updated":"2026-01-28T10:56:56.136+00:00"}
+{"dg-publish":true,"permalink":"/citations/going-vegan-or-vegetarian-motivations-and-influences-faunalytics/","created":"2026-01-28T10:56:56.053+00:00","updated":"2026-01-29T05:00:06.578+00:00"}
 ---
 
 ### **Background**
@@ -25,3 +25,9 @@ Finally, apart from the general and the psychological, we also need to consider 
 *   **Encourage people to find and develop self-driven motivations.** Not only are they associated with greater success at following a veg*n diet but also with commitment to stick with the diet, and research from other domains has shown that when a goal is self-driven, it is more likely to be reached and maintained. For instance, you may be able to help people identify which of their existing personal or moral values align with their goal, or why it could make them feel good to achieve it. Try to avoid ideas of looking good to others or to meet others’ expectations.
 *   **Gently encourage people who are already motivated to go veg*n for health or environmental reasons to learn about the benefits of their actions for animals too.** More impactful experiences like those described in Key Finding #3 above are particularly likely to help, and can be framed as additional motivation to help them stick to their goals. This is important because as we know from Faunalytics’ 2014 study, many people who try to go veg*n give it up. Helping people maintain the change needs to be part of the support advocates offer.
 *   **When advocating for veganism, vegetarianism, or reduction, do not use health messaging alone, but do use it alongside animal protection and/or environmental messaging.** Health is the most common primary motivation for going veg*n, so mentioning the health benefits may encourage more people to try veg*nism. But at the same time, health motivations alone are not good for veg*n diet maintenance, so use those messages in conjunction with information about the benefits for animals and the environment—and keep that up as they take the first steps on their veg*n journey. Suggesting that they seek out media about factory farming, documentaries, or other animal advocacy materials may be particularly effective.
+
+# AI suggested related articles
+
+- [[Citations/Going Vegan Or Vegetarian- Many Paths To One Goal (Faunalytics)\|Citations/Going Vegan Or Vegetarian- Many Paths To One Goal (Faunalytics)]] (0.88)
+- [[Citations/Going Vegan Or Vegetarian- Barriers And Strategies On The Path To Success (Faunalytics)\|Citations/Going Vegan Or Vegetarian- Barriers And Strategies On The Path To Success (Faunalytics)]] (0.83)
+- [[Citations/Going Vegan Or Vegetarian- Barriers And Strategies On The Path To Success (Faunalytics) 1\|Citations/Going Vegan Or Vegetarian- Barriers And Strategies On The Path To Success (Faunalytics) 1]] (0.82)

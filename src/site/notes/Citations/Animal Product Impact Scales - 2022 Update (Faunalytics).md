@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/animal-product-impact-scales-2022-update-faunalytics/","created":"2026-01-28T10:49:13.069+00:00","updated":"2026-01-28T10:49:13.145+00:00"}
+{"dg-publish":true,"permalink":"/citations/animal-product-impact-scales-2022-update-faunalytics/","created":"2026-01-28T10:49:13.069+00:00","updated":"2026-01-29T05:00:06.769+00:00"}
 ---
 
 From fish filets to ice cream, we have updated our impact scales to include additional nuances, better estimates, and updated statistics.
@@ -14,3 +14,9 @@ With this data, which you can find on our updated hub page, you can see the impa
 *   A brief overview of where the estimates come from.
 
 We would also like to acknowledge and sincerely thank Clara Sanchez Garcia and Ali Ladak for volunteering many hours of their time for this project. We couldn’t have produced these resources without your support.
+
+# AI suggested related articles
+
+- [[Citations/Quantifying The Small Body Problem - A Meta-Analysis Of Animal Product Reduction Interventions (Faunalytics)\|Citations/Quantifying The Small Body Problem - A Meta-Analysis Of Animal Product Reduction Interventions (Faunalytics)]] (0.69)
+- [[Citations/Associations Between Consumption Of Meats And Animal Product Alternatives (Faunalytics)\|Citations/Associations Between Consumption Of Meats And Animal Product Alternatives (Faunalytics)]] (0.68)
+- [[Citations/Global Animal Slaughter Statistics & Charts (Faunalytics)\|Citations/Global Animal Slaughter Statistics & Charts (Faunalytics)]] (0.68)

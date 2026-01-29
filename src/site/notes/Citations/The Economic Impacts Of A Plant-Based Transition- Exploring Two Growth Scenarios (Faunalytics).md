@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-economic-impacts-of-a-plant-based-transition-exploring-two-growth-scenarios-faunalytics/","created":"2026-01-28T10:55:01.818+00:00","updated":"2026-01-28T10:55:01.914+00:00"}
+{"dg-publish":true,"permalink":"/citations/the-economic-impacts-of-a-plant-based-transition-exploring-two-growth-scenarios-faunalytics/","created":"2026-01-28T10:55:01.818+00:00","updated":"2026-01-29T05:00:06.551+00:00"}
 ---
 
 How would a shift towards large-scale plant-based meat consumption impact the economy of the United States? This Faunalytics study explores two hypothetical paths and outcomes.
@@ -8,3 +8,9 @@ How would a shift towards large-scale plant-based meat consumption impact the ec
 1.  **More plants, more jobs.** This report explores two scenarios for 2040: one in which plant-based foods become moderately more common in U.S. diets and one in which they become substantially more common. Under the assumptions of this analysis, our results suggest that shifting toward more plant-based eating could result in considerable job creation. A moderate growth scenario yields several thousand new jobs and a substantial growth scenario yields tens of thousands of new jobs — over 3% more than if animal agriculture maintained its current market share. In both scenarios, more plant-based eating corresponds to more job creation.
 2.  **A moderate shift toward plant-based foods would have small, but positive effects on the U.S. economy, while a more substantial shift would give the U.S. economy a noticeable boost.** In the smaller of our two growth scenarios, the industries affected by a plant-based shift would contribute about 0.3% more to GDP, 0.2% more to total tax revenue, and 0.4% more to total labor income versus a baseline scenario. In a much more optimistic growth scenario, these industries would contribute 4% more to GDP, 2% more to total tax revenue, and 4% more to total labor income versus a baseline scenario. Despite the prevalence of animal products in U.S. diets, the continued dominance of animal agriculture is not integral to the health of the country’s economy. Indeed, this analysis predicts that the economy may perform better if the U.S. moved away from animal agriculture.
 3.  **Plant-based foods need to become much more common to see considerable economic benefits.** Although jobs, GDP, and tax revenue all increase in a moderate growth scenario compared to their levels if plant-based foods remained at current levels of popularity, these changes are quite small. Our substantial growth scenario yields more notable growth. However, this scenario envisions plant-based milk, meat, and eggs all becoming multiple times more common in shoppers’ carts than they are today.
+
+# AI suggested related articles
+
+- [[Citations/Mason-D'Croz et al., 2022\|Citations/Mason-D'Croz et al., 2022]] (0.76)
+- [[Citations/Vittis et al., 2025\|Citations/Vittis et al., 2025]] (0.74)
+- [[Citations/The Rise Of Veg, The Fall Of Meat - A Restaurant Case Study (Faunalytics)\|Citations/The Rise Of Veg, The Fall Of Meat - A Restaurant Case Study (Faunalytics)]] (0.73)

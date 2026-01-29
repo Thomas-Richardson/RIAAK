@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/how-to-message-plant-based-diets-and-products-in-southeast-asia-a-social-media-analysis-faunalytics/","created":"2026-01-28T10:56:29.062+00:00","updated":"2026-01-28T10:56:29.121+00:00"}
+{"dg-publish":true,"permalink":"/citations/how-to-message-plant-based-diets-and-products-in-southeast-asia-a-social-media-analysis-faunalytics/","created":"2026-01-28T10:56:29.062+00:00","updated":"2026-01-29T05:00:06.637+00:00"}
 ---
 
 Southeast Asia is a critical region for animal advocacy, especially for plant-based diet change. This study identifies key audiences there, examines their influences, and pinpoints messages that may resonate best.
@@ -12,3 +12,9 @@ Southeast Asia is a critical region for animal advocacy, especially for plant-ba
 5.  **Negative perceptions of pro-plant-based advocates can create resistance, especially in Singapore and Thailand.** Roughly 10% of barrier-related posts expressed negative views of vegans and plant-based advocates, describing them as judgmental, overly critical, or idealistic.
 6.  **Meat cravings and taste preferences limit long-term adoption for some, particularly in the Philippines, but many who have embraced plant-based diets see taste more as a motivator than a barrier.** About 7% of barrier-related posts in the Philippines specifically referenced meat cravings, the highest among all study countries. Taste remains an issue, but mostly for those unfamiliar with plant-based alternatives. Among those who have embraced plant-based diets, taste was five times more likely to be mentioned as a motivation than a barrier in their social media posts.
 7.  **Key sources of influence for opinions on plant-based diets are celebrities (21% of total mentions), news and media (13%), and advocacy groups (12%).** Other sources included academia, brands, religious leaders, supranational organizations (e.g., the UN, WHO), local communities, and governments.
+
+# AI suggested related articles
+
+- [[Citations/Going Vegan Or Vegetarian- Motivations & Influences (Faunalytics)\|Citations/Going Vegan Or Vegetarian- Motivations & Influences (Faunalytics)]] (0.79)
+- [[Citations/Planting Seeds- The Impact Of Diet & Different Animal Advocacy Tactics (Faunalytics)\|Citations/Planting Seeds- The Impact Of Diet & Different Animal Advocacy Tactics (Faunalytics)]] (0.78)
+- [[Citations/Sinergia Animal, 2023\|Citations/Sinergia Animal, 2023]] (0.76)

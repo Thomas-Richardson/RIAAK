@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/fish-welfare-scoping-report-the-philippines-fish-welfare-initiative/","created":"2026-01-28T10:46:41.164+00:00","updated":"2026-01-28T10:46:41.199+00:00"}
+{"dg-publish":true,"permalink":"/citations/fish-welfare-scoping-report-the-philippines-fish-welfare-initiative/","created":"2026-01-28T10:46:41.164+00:00","updated":"2026-01-29T05:00:06.373+00:00"}
 ---
 
 Aquaculture production in the Philippines has been on an upward trend since the 1980s, increasing by over 400% from 1980 to 2018. In 2017, the country was reported as having the 3rd largest aquaculture industry in Southeast Asia, and the 7th largest in the world. Despite this projected growth, there is currently very little work being done for the welfare of farmed fish in the Philippines. A 3-month scoping study was initiated by Fish Welfare Initiative to collect data on the current culture systems in the country and, from these findings, assess the welfare status of farmed fishes. Data was gathered through a series of farm interviews/visits and a review of available literature/studies relevant to Philippine aquaculture and animal welfare. Listed below are the main findings of this work:
@@ -9,3 +9,9 @@ Aquaculture production in the Philippines has been on an upward trend since the 
 * Welfare issues. Data from farm visits/interviews (n=13) reveal the following welfare-related concerns: (1) a lack of water quality monitoring systems, (2) a lack of access to veterinary care, (3) the use of inhumane slaughter procedures, (4) the non-certification of farms, and (5) a lack of training opportunities for farmers. These concerns are most common among the small- to medium-scale producers that sell their produce to local wet markets. Nonetheless, the majority of the farms have expressed their willingness to collaborate with any institution to help them improve their culture systems and the living conditions of their fish.
 
 There are many opportunities for fish welfare work in the Philippines. The presence of a strong institutional support for sustainable aquaculture practices from both the government and non-governmental organizations (NGOs) can serve as a good foundation for welfare work to begin in the country. Our recommendations highlight the need for a collaborative approach to starting welfare work in the country, taking into consideration the viewpoints and concerns of multiple stakeholders in the aquaculture sector (farmers, retailers, end-consumers, government, and NGOs).
+
+# AI suggested related articles
+
+- [[Citations/Fish Welfare Scoping Report - Vietnam (Fish Welfare Initiative)\|Citations/Fish Welfare Scoping Report - Vietnam (Fish Welfare Initiative)]] (0.82)
+- [[Citations/Aquaculture in Asian Countries (Fish Welfare Initiative)\|Citations/Aquaculture in Asian Countries (Fish Welfare Initiative)]] (0.81)
+- [[Citations/Fish Welfare Improvements in Aquaculture (Fish Welfare Initiative)\|Citations/Fish Welfare Improvements in Aquaculture (Fish Welfare Initiative)]] (0.80)

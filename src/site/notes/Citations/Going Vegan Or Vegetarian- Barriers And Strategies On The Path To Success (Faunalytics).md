@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/going-vegan-or-vegetarian-barriers-and-strategies-on-the-path-to-success-faunalytics/","created":"2026-01-28T10:55:12.124+00:00","updated":"2026-01-28T10:55:12.217+00:00"}
+{"dg-publish":true,"permalink":"/citations/going-vegan-or-vegetarian-barriers-and-strategies-on-the-path-to-success-faunalytics/","created":"2026-01-28T10:55:12.124+00:00","updated":"2026-01-29T05:00:06.585+00:00"}
 ---
 
 ### Background
@@ -18,3 +18,9 @@ The Level of Commitment section of the first report shows that more than 90% of 
 5.  **Social strategies were helpful for people with one or more social barriers:** For people who were experiencing low autonomy support (support from friends and family), negative influence from one’s culture, or a small network of other veg*ns, social strategies helped them cut out animal products and get closer to their consumption goals.
 6.  **Strategies targeting ability barriers were somewhat effective, but not for people who needed the help most.** These strategies included attempts to improve access to veg*n food or ability to prepare it, such as researching products, switching grocery stores, or increasing one’s own cooking. Crucially, while these strategies were helpful to people with some unrelated barriers, they had no apparent effect on people who were actually having difficulty finding or preparing veg*n food or having low personal control over food.
 7.  **Though barriers can be a challenge, many people are able to lessen or overcome them with time.** For instance, at the beginning of the study, just 36% of participants identified strongly as veg*ns, and 46% believed society sees their diet positively. Six months later, 66% identified strongly as veg*ns and 67% believed society sees their diet positively.
+
+# AI suggested related articles
+
+- [[Citations/Going Vegan Or Vegetarian- Barriers And Strategies On The Path To Success (Faunalytics) 1\|Citations/Going Vegan Or Vegetarian- Barriers And Strategies On The Path To Success (Faunalytics) 1]] (1.00)
+- [[Citations/Going Vegan Or Vegetarian- Many Paths To One Goal (Faunalytics)\|Citations/Going Vegan Or Vegetarian- Many Paths To One Goal (Faunalytics)]] (0.89)
+- [[Citations/Going Vegan Or Vegetarian- Motivations & Influences (Faunalytics)\|Citations/Going Vegan Or Vegetarian- Motivations & Influences (Faunalytics)]] (0.83)

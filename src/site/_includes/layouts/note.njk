@@ -13,7 +13,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {% include imp %}
     {% endfor %}
   </head>
-  <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
+  <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {% if settings.dgShowFileTree !== true %}no-filetree{% endif %} {% if settings.dgHomeLink === true and settings.dgShowFileTree !== true %}has-navbar{% endif %} {{meta.bodyClasses}}">
     {%include "components/notegrowthhistory.njk"%}
     
     {% if settings.dgShowFileTree !== true %}
@@ -46,10 +46,10 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
           {%- if meta.timestampSettings.showCreated or meta.timestampSettings.showUpdated -%}
           <div class="timestamps">
             {%- if meta.timestampSettings.showCreated and created -%}
-            <div><i icon-name="calendar-plus"></i> <span class="human-date" data-date="{{created}}"></span></div>
+            <div><i data-lucide="calendar-plus"></i> <span class="human-date" data-date="{{created}}"></span></div>
             {%- endif -%}
             {%- if meta.timestampSettings.showUpdated and updated -%}
-            <div><i icon-name="calendar-clock"></i> <span class="human-date" data-date="{{updated}}"></span></div>
+            <div><i data-lucide="calendar-clock"></i> <span class="human-date" data-date="{{updated}}"></span></div>
             {%- endif -%}
           </div>
           {%- endif -%}
@@ -67,65 +67,6 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {% for imp in dynamics.notes.beforeContent %}
         {% include imp %}
       {% endfor %}
-      <style>
-        #ai-search-box { width: 100%; padding: 10px; margin-bottom: 20px; border: 1px solid #ccc; border-radius: 5px; font-family: var(--font-text); }
-        .search-result { background: var(--background-secondary); padding: 10px; margin-bottom: 10px; border-radius: 4px; border: 1px solid var(--background-modifier-border); }
-        .search-result a { font-weight: bold; color: var(--text-accent); text-decoration: none; display: block; margin-bottom: 4px; }
-        .search-result p { margin: 0; font-size: 0.9em; color: var(--text-normal); }
-        .search-result small { color: var(--text-muted); font-size: 0.8em; }
-      </style>
-
-      <div class="search-wrapper" style="margin-top: 1rem; margin-bottom: 1rem;">
-        <input type="text" id="ai-search-box" placeholder="Ask your digital garden..." onkeydown="if(event.key === 'Enter') runSearch()">
-        <div id="ai-results"></div>
-      </div>
-      <script>
-        async function runSearch() {
-          const query = document.getElementById('ai-search-box').value;
-          const resultsDiv = document.getElementById('ai-results');
-
-          if (!query.trim()) {
-            resultsDiv.innerHTML = "";
-            return;
-          }
-
-          resultsDiv.innerHTML = "Searching...";
-
-          const VERCEL_URL = "https://riaak.vercel.app";
-
-          try {
-            const response = await fetch(`${VERCEL_URL}/api/search?q=${encodeURIComponent(query)}`);
-
-            if (!response.ok) {
-              const errorData = await response.json().catch(() => ({}));
-              throw new Error(`Server error (${response.status}): ${errorData.error || 'Unknown error'}\nType: ${errorData.type || 'Unknown'}`);
-            }
-
-            const data = await response.json();
-
-            resultsDiv.innerHTML = "";
-            if(data.results && data.results.length > 0) {
-              data.results.forEach(item => {
-                const div = document.createElement('div');
-                div.className = 'search-result';
-                div.innerHTML = `
-                  <a href="${item.url}">${item.file_path}</a>
-                  <p>${item.text.substring(0, 150)}...</p>
-                  <small>Match: ${Math.round(item.score * 100)}%</small>
-                `;
-                resultsDiv.appendChild(div);
-              });
-            } else {
-              resultsDiv.innerHTML = "No results found.";
-            }
-          } catch (e) {
-            resultsDiv.innerHTML = `<div style="color: var(--text-error, red); padding: 10px; background: rgba(255,0,0,0.1); border-radius: 4px;">
-              <strong>Error:</strong> ${e.message}
-            </div>`;
-            console.error('Search error:', e);
-          }
-        }
-      </script>
       {{ content | hideDataview | taggify | link | safe}}
       {% for imp in dynamics.common.afterContent %}
         {% include imp %}
@@ -150,15 +91,9 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     {% for imp in dynamics.notes.footer %}
       {% include imp %}
     {% endfor %}
-    <script src="https://unpkg.com/lucide@latest"></script>
-    <script src="//unpkg.com/force-graph"></script>
-    
     {%include "components/lucideIcons.njk"%}
-    <script>
-      // Initialize icons after library is loaded
-      lucide.createIcons();
-    </script>
-  </body>
-</html>
+    {% if contentClasses and "canvas-page" in contentClasses %}
+      {%include "components/canvasScript.njk"%}
+    {% endif %}
   </body>
 </html>

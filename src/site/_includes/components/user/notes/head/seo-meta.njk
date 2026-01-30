@@ -1,0 +1,36 @@
+{# SEO Meta Tags for Digital Garden #}
+<meta name="description" content="{{ (content | striptags | truncate(155)) or (title + ' - RIAAK') }}">
+<link rel="canonical" href="https://riaak.netlify.app{{ page.url }}">
+
+{# Open Graph Tags #}
+<meta property="og:title" content="{{ title or 'RIAAK' }}">
+<meta property="og:description" content="{{ (content | striptags | truncate(155)) or 'Richie\\'s Impactful Animal Advocacy Knowledgebase' }}">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://riaak.netlify.app{{ page.url }}">
+<meta property="og:site_name" content="RIAAK">
+
+{# Twitter Card Tags #}
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="{{ title or 'RIAAK' }}">
+<meta name="twitter:description" content="{{ (content | striptags | truncate(155)) or 'Richie\\'s Impactful Animal Advocacy Knowledgebase' }}">
+
+{# Schema.org JSON-LD #}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ title | escape }}",
+  "url": "https://riaak.netlify.app{{ page.url }}",
+  "datePublished": "{{ page.date or 'now' | date('Y-m-d') }}",
+  "dateModified": "{{ page.date or 'now' | date('Y-m-d') }}",
+  "author": {
+    "@type": "Person",
+    "name": "Thomas Richardson"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "RIAAK"
+  },
+  "description": "{{ (content | striptags | truncate(200)) or 'Research and analysis on animal advocacy' }}"
+}
+</script>

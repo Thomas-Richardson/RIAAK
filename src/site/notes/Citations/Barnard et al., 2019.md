@@ -1,13 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/citations/barnard-et-al-2019/","tags":["Note","Type","citation","eggs","Health/Nutrition","undefined","review"],"created":"2025-11-06T09:41:44.132+00:00","updated":"2025-11-06T09:41:44.132+00:00"}
+{"dg-publish":true,"permalink":"/citations/barnard-et-al-2019/","tags":["eggs","Health/Nutrition","review"],"created":"2025-11-06T09:41:44.132+00:00","updated":"2026-02-03T13:27:21.527+00:00"}
 ---
-
-
-
-
-https://pmc.ncbi.nlm.nih.gov/articles/PMC7958219/
-
-Barnard, N. D., Long, M. B., Ferguson, J. M., Flores, R., & Kahleova, H. (2019). Industry funding and cholesterol research: a systematic review. _American Journal of Lifestyle Medicine_, 11;15(2):165-172 doi: [10.1177/1559827619892198](https://doi.org/10.1177/1559827619892198)
 
 > [!NOTE] TLDR
 > This review set out to examine **whether industry-funded studies were more likely than non-industry-funded studies to report conclusions that were not supported by their objective data.**
@@ -23,3 +16,7 @@ Barnard, N. D., Long, M. B., Ferguson, J. M., Flores, R., & Kahleova, H. (2019).
 	- **49% of industry-funded studies showed disagreement between their data and their conclusions (interpreting increases in cholesterol as favorable) versus 13% of non-industry-funded studies.** 
 	- Disagreement often involved non-statistically significant cholesterol increases being interpreted as no change or no negative impact.
 - The review’s authors give the example of college freshmen being given an addition of 2 eggs at breakfast 5 days a week for 14 weeks. This was associated with an LDL increase of 15 mg/dL, a non-statistically-significant change, but which does not rule out any negative effects of eggs. Instead of noting this, the study’s authors concluded that the egg addition did not negatively impact blood cholesterol levels.
+
+# Related
+- [[Health effects of eggs\|Health effects of eggs]] 
+- [[Animal Agriculture distorts research\|Animal Agriculture distorts research]] 

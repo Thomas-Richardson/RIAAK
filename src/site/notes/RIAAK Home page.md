@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/riaak-home-page/","tags":["gardenEntry"],"created":"2025-10-23T17:42:41.615+01:00","updated":"2026-01-29T12:01:42.855+00:00"}
+{"dg-publish":true,"permalink":"/riaak-home-page/","tags":["#Bryant","#farming","#Health/Disease","gardenEntry"],"created":"2025-10-23T17:42:41.615+01:00","updated":"2026-02-03T21:36:58.752+00:00"}
 ---
 
 This is the homepage for Richie's Impactful Animal Advocacy Knowledge-base, aka RIAAK!
@@ -21,6 +21,7 @@ Here I publish my notes on Animal Advocacy that I use in my role as the Director
 	- Ambitious Impact's assessments of promising animal advo interventions
 	- Faunalytics' original studies
 	- Animal Ask
+	- The Changing Market's Foundation
 	- Animal Think Tank
 	- Fish Welfare Initiative
 	- Bryant Research

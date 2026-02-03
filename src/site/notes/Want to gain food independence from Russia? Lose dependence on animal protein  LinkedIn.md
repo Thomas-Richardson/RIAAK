@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/want-to-gain-food-independence-from-russia-lose-dependence-on-animal-protein-linked-in/","created":"2026-01-29T11:36:03.109+00:00","updated":"2026-01-29T11:36:03.534+00:00"}
+{"dg-publish":true,"permalink":"/want-to-gain-food-independence-from-russia-lose-dependence-on-animal-protein-linked-in/","created":"2026-01-29T11:36:03.109+00:00","updated":"2026-01-30T05:14:35.866+00:00"}
 ---
 
 Want to reduce dependence on Russia's food and agriculture (and gas)?
@@ -90,3 +90,9 @@ Right now,[**less than one third**](https://www.fairr.org/sustainable-proteins/)
 Let’s move that needle in scale, by focusing on the big players in the food system, and move away from animal protein to address the dual crises of climate change and dependency on Russia.
 
 [**And the cows may actually thank you**](https://www.theonion.com/study-red-meat-takes-years-off-of-cows-life-1819573431)!
+
+# AI suggested related articles
+
+- [[700 to 1 - The funding ratio undermining our future food system\|700 to 1 - The funding ratio undermining our future food system]] (0.72)
+- [[Solutions to the small body problem (Insight piece)\|Solutions to the small body problem (Insight piece)]] (0.67)
+- [[Influential, respected authorities giving pro animal advo messaging\|Influential, respected authorities giving pro animal advo messaging]] (0.67)

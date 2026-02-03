@@ -1,11 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/citations/big-meat-and-dairy-myths-and-misinformation-changing-markets-foundation/","created":"2025-11-25T15:18:39.499+00:00","updated":"2025-11-25T15:18:39.499+00:00"}
+{"dg-publish":true,"permalink":"/citations/big-meat-and-dairy-myths-and-misinformation-changing-markets-foundation/","created":"2025-11-25T15:18:39.499+00:00","updated":"2026-02-03T13:30:26.588+00:00"}
 ---
-
-
-Here is a summary of the report. The report contains an "Overview" section which serves as an executive summary.
-
-### Overview
 
 Like many planet- and people-harming industries, Big Meat and Dairy companies are using an array of tactics to protect their businesses in the face of growing scrutiny over their climate impact. One key tactic involves deploying ‘narratives' in advertising, PR campaigns and lobbying that paint the industry as greener than it really is and frame the stakes as too high to change.
 

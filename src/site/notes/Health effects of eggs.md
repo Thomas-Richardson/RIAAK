@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/health-effects-of-eggs/","tags":["Health/Nutrition","eggs","nuts","Legumes"],"created":"2025-10-23T17:42:48.099+01:00","updated":"2025-11-07T12:12:13.630+00:00"}
+{"dg-publish":true,"permalink":"/health-effects-of-eggs/","tags":["Health/Nutrition","eggs","nuts","Legumes"],"created":"2025-10-23T17:42:48.099+01:00","updated":"2026-02-03T13:27:02.094+00:00"}
 ---
 
 - [[Citations/Kwok et al., 2019\|Kwok et al., 2019]] in a comprehensive review found inconclusive evidence for eggs on CVD and all cause mortality
+- [[Citations/Barnard et al., 2019\|Barnard et al., 2019]] found considerable industry influence on studies
 - [[Citations/Schwingshackl et al., 2017b\|Schwingshackl et al., 2017b]] Moderate evidence that eggs increase t2d rates
 - [[Citations/Schwingshackl et al., 2017c\|Schwingshackl et al., 2017c]] *might* have something to say about eggs, read the paper
 - [[Citations/Neuenschwander et al., 2023\|Neuenschwander et al., 2023]] finds

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/food-not-feed-how-to-stop-the-world-s-biggest-form-of-food-waste-compassion-in-world-farming/","tags":["food_security animal_feed factory_farming"],"created":"2025-10-23T17:42:45.496+01:00","updated":"2025-10-23T18:12:10.216+01:00"}
+{"dg-publish":true,"permalink":"/citations/food-not-feed-how-to-stop-the-world-s-biggest-form-of-food-waste-compassion-in-world-farming/","tags":["food_security animal_feed factory_farming"],"created":"2025-10-23T17:42:45.496+01:00","updated":"2026-02-05T12:49:16.000+00:00"}
 ---
 
 NOTE: this report is an interactive online one, I highly advice clicking onto the original website
@@ -15,3 +15,9 @@ It’s time to expose this injustice.
 Our hidden food waste report reveals the shocking truth: **factory farming is draining the world’s food supply**. Together, we can stop it. 
 
 This report reveals a shocking truth: globally, a colossal **766 million tonnes of grain are wasted by being fed to animals in factory farms** – more food than is wasted by households, restaurants or supermarkets.
+
+# AI suggested related articles
+
+- [[Citations/CIWF, 2022\|Citations/CIWF, 2022]] (0.72)
+- [[Citations/WWF, 2022\|Citations/WWF, 2022]] (0.71)
+- [[Food waste and animal agriculture\|Food waste and animal agriculture]] (0.70)

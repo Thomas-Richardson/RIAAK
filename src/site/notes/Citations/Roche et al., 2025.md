@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/roche-et-al-2025/","tags":["Economics"],"created":"2026-02-03T09:48:01.791+00:00","updated":"2026-02-03T13:26:39.757+00:00"}
+{"dg-publish":true,"permalink":"/citations/roche-et-al-2025/","tags":["Economics"],"created":"2026-02-03T09:48:01.791+00:00","updated":"2026-02-04T05:17:18.755+00:00"}
 ---
 
 
@@ -12,3 +12,9 @@ Understanding how food demand responds to household income and price changes is 
 
 # Related
 [[Citations/Bouyssou et al., 2024\|Bouyssou et al., 2024]]
+
+# AI suggested related articles
+
+- [[Citations/Bouyssou et al., 2024\|Citations/Bouyssou et al., 2024]] (0.80)
+- [[Citations/Taherzadeh et al., 2025\|Citations/Taherzadeh et al., 2025]] (0.67)
+- [[Citations/Bray et al., 2024\|Citations/Bray et al., 2024]] (0.66)

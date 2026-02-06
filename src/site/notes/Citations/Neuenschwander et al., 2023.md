@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/neuenschwander-et-al-2023/","tags":["Health/Nutrition"],"created":"2025-10-23T17:42:46.820+01:00","updated":"2025-12-29T16:30:16.375+00:00"}
+{"dg-publish":true,"permalink":"/citations/neuenschwander-et-al-2023/","tags":["Health/Nutrition"],"created":"2025-10-23T17:42:46.820+01:00","updated":"2026-02-05T12:49:15.954+00:00"}
 ---
 
 - [[Citations/Neuenschwander et al., 2023\|Neuenschwander et al., 2023]]
@@ -52,3 +52,9 @@ a reduction in type 2 diabetes of about 20% when 50g of processed meat daily was
 The risk of cardiovascular disease was about 25% lower when 50g of processed meat a day was replaced with nuts or legumes. Meanwhile, replacing one egg a day with 25g of nuts was linked to a 17% lower risk.
 
 switching 50g of processed meat a day for 28-50g of nuts was associated with a 21% lower risk of death from any cause in the studies assessed.
+
+# AI suggested related articles
+
+- [[Citations/Schwingshackl et al., 2017a\|Citations/Schwingshackl et al., 2017a]] (0.80)
+- [[Citations/Kwok et al., 2019\|Citations/Kwok et al., 2019]] (0.78)
+- [[Citations/Schwingshackl et al., 2017b\|Citations/Schwingshackl et al., 2017b]] (0.76)

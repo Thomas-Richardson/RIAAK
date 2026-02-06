@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/farming-jobs-lost-to-to-industrialisation/","tags":["Economics/jobs","farmers","factory_farming","Bryant/Project/cawf_hidden_harms"],"created":"2025-10-23T17:42:42.235+01:00","updated":"2025-11-06T16:12:38.811+00:00"}
 ---
 
-- [[CAWF 2 farming MOC.canvas|CAWF 2 farming MOC]]
+- [[CAWF 2 farming MOC.canvas\|CAWF 2 farming MOC]]
 - [[Are rural communities dependent on animal agriculture for jobs\|Are rural communities dependent on animal agriculture for jobs]]?
 
 Estimating the UK jobs lost / not created due to industrialisation is difficult for 2 reasons:

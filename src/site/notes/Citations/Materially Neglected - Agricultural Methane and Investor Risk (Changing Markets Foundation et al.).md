@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/materially-neglected-agricultural-methane-and-investor-risk-changing-markets-foundation-et-al/","created":"2026-02-03T20:29:28.482+00:00","updated":"2026-02-03T20:29:28.484+00:00"}
+{"dg-publish":true,"permalink":"/citations/materially-neglected-agricultural-methane-and-investor-risk-changing-markets-foundation-et-al/","created":"2026-02-03T20:29:28.482+00:00","updated":"2026-02-04T05:17:18.762+00:00"}
 ---
 
 
@@ -40,3 +40,10 @@ To address this critical blind spot, investors must:
 *   Set agriculture-specific methane reduction targets, aligned with science and covering the livestock value chain, that incentivise real-world methane reductions by portfolio companies.
 *   Align portfolio commitments with the Global Methane Pledge - to collectively cut global methane emissions by at least 30% by 2030 from 2020 levels.
 *   Shift capital toward sustainable proteins and resilient food systems, and away from high-emitting agriculture without a credible reduction plan.
+
+
+# AI suggested related articles
+
+- [[Citations/Methane Matters (Changing Markets Foundation et al.)\|Citations/Methane Matters (Changing Markets Foundation et al.)]] (0.84)
+- [[Citations/Blindspot (Changing Markets Foundation et al.)\|Citations/Blindspot (Changing Markets Foundation et al.)]] (0.83)
+- [[Citations/Big Emissions_ Empty Promises (Changing Markets Foundation)\|Citations/Big Emissions_ Empty Promises (Changing Markets Foundation)]] (0.79)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/caught-out-changing-markets-foundation-et-al/","created":"2026-02-03T21:35:55.024+00:00","updated":"2026-02-03T21:35:55.026+00:00"}
+{"dg-publish":true,"permalink":"/citations/caught-out-changing-markets-foundation-et-al/","created":"2026-02-03T21:35:55.024+00:00","updated":"2026-02-04T05:17:18.775+00:00"}
 ---
 
 
@@ -43,3 +43,10 @@ No retailer has a clear target for reducing – and ultimately eliminating – w
 
 ---
 ª This figure is based on the 103,000 tonnes of the top farmed species (salmon, trout, seabass, seabream, prawns and basa) consumed by the UK population in 2019. It was calculated by quantifying the wild fish needed to produce fish oil required for salmon, trout seabass and sea bream consumed by the UK population. In the model, prawns and basa were fed on fishmeal created in the process of producing fish oil. See Appendix A for full calculations.
+
+
+# AI suggested related articles
+
+- [[Citations/Until the Seas Run Dry (Changing Markets Foundation et al.)\|Citations/Until the Seas Run Dry (Changing Markets Foundation et al.)]] (0.80)
+- [[Citations/Fishing for Catastrophe (Changing Markets Foundation)\|Citations/Fishing for Catastrophe (Changing Markets Foundation)]] (0.79)
+- [[Citations/_Fishy Business - The Scottish salmon industry_s hidden appetite for wild fish and land (Feedback)_\|Citations/_Fishy Business - The Scottish salmon industry_s hidden appetite for wild fish and land (Feedback)_]] (0.78)

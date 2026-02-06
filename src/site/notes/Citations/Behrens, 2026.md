@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/citations/behrens-2026/","created":"2026-02-06T10:44:38.051+00:00","updated":"2026-02-06T10:44:38.419+00:00"}
+---
+
+The UK’s approach to food makes it increasingly vulnerable in an unstable world. A great food transformation with a focus on resilience is urgently needed, argues Paul Behrens. Last week the UK government released a national security assessment that should have sent shocks through the political establishment. The assessment, Global Biodiversity Loss, Ecosystem Collapse and National Security, applies the same analytical tools used for terrorism or nuclear threats to the ecological crisis. Its conclusion is stark: global ecosystem degradation poses a serious threat to UK food security, economic stability, and international security.
+
+So stark was the warning that the government allegedly blocked the report, at least temporarily, for being too negative—as reported last year. Indeed, journalists claim that even this newly released report has been abridged. Although this version has now been published and ever more research supports the radical changes needed, the implications for our food are yet to be properly digested by policymakers.
+
+Britain relies on imports of both food and fertiliser. We import around 40% of our food, with a quarter of imports sourced from the Mediterranean—an area under increasing climate stress and ecosystem loss. In recent years Spain has experienced flash floods that destroyed infrastructure, intense droughts that drove around a 40% decline in the olive harvest, and water scarcity that considerably reduced the yields of staple crops.

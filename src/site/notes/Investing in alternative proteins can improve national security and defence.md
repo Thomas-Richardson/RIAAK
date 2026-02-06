@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/investing-in-alternative-proteins-can-improve-national-security-and-defence/","tags":["alternative_proteins","food_security","alternative_proteins/Cultivated_Meat","alternative_proteins/Precision_Fermentation","High_Income_Countries/USA"],"created":"2025-10-23T17:42:47.884+01:00","updated":"2025-12-10T12:59:08.201+00:00"}
+{"dg-publish":true,"permalink":"/investing-in-alternative-proteins-can-improve-national-security-and-defence/","tags":["alternative_proteins","food_security","alternative_proteins/Cultivated_Meat","alternative_proteins/Precision_Fermentation","High_Income_Countries/USA"],"created":"2025-10-23T17:42:47.884+01:00","updated":"2026-02-05T12:55:35.159+00:00"}
 ---
 
 - [[Government investment in alt proteins\|Government investment in alt proteins]]
@@ -21,3 +21,9 @@ GFI argue here: https://gfi.org/wp-content/uploads/2023/12/DoD_DPA_Recommendatio
 
 ## References
 [^1]: Swanson, Zane, Caitlin Welsh, and Joseph Majkut. 2023. “Mitigating Risk and Capturing Opportunity: The Future of Alternative Proteins.” Washington, DC: Center for Strategic and International Studies. bit.ly/3KSBmyu.
+
+# Related articles
+- [[Citations/GFI, 2024\|Citations/GFI, 2024]] (0.68)
+- [[Alt proteins for food security, better environment and land\|Alt proteins for food security, better environment and land]] (0.66)
+
+

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/a-waste-of-fish-greenpeace/","created":"2026-02-03T21:31:34.617+00:00","updated":"2026-02-03T21:31:34.618+00:00"}
+{"dg-publish":true,"permalink":"/citations/a-waste-of-fish-greenpeace/","created":"2026-02-03T21:31:34.617+00:00","updated":"2026-02-04T05:17:18.725+00:00"}
 ---
 
 
@@ -24,3 +24,10 @@ The current situation is one of over-exploited and depleted fish stocks and a ra
 Urgent action must be taken to reduce the intensity of fishing in the region to environmentally sustainable levels and ensure that it first and foremost meets the food security and livelihood needs of local populations and fishing communities. Such action has been called for many times and must now be translated into concrete measures.
 
 ¹ In this report, "Greenpeace" refers to Greenpeace Africa and Greenpeace International
+
+
+# AI suggested related articles
+
+- [[Citations/Until the Seas Run Dry (Changing Markets Foundation et al.)\|Citations/Until the Seas Run Dry (Changing Markets Foundation et al.)]] (0.81)
+- [[Citations/Fishing for Catastrophe (Changing Markets Foundation)\|Citations/Fishing for Catastrophe (Changing Markets Foundation)]] (0.81)
+- [[Citations/_Fishy Business - The Scottish salmon industry_s hidden appetite for wild fish and land (Feedback)_\|Citations/_Fishy Business - The Scottish salmon industry_s hidden appetite for wild fish and land (Feedback)_]] (0.75)

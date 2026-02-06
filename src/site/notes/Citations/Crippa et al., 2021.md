@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/crippa-et-al-2021/","tags":["Environment/GHG","Note","Type","citation","Environment/Land","undefined"],"created":"2025-10-23T17:42:44.714+01:00","updated":"2025-11-04T12:10:04.099+00:00"}
+{"dg-publish":true,"permalink":"/citations/crippa-et-al-2021/","tags":["Environment/GHG","Note","Type","citation","Environment/Land","undefined"],"created":"2025-10-23T17:42:44.714+01:00","updated":"2026-02-05T12:49:15.966+00:00"}
 ---
 
 
@@ -12,3 +12,9 @@ Crippa, M., Solazzo, E., Guizzardi, D., Monforti-Ferrario, F., Tubiello, F. N., 
 - [[food and meat accounts for a large proportion of greenhouse gas emissions\|food and meat accounts for a large proportion of greenhouse gas emissions]]
 ## Abstract
 We have developed a new global food emissions database (EDGAR-FOOD) estimating greenhouse gas (GHG; CO2, CH4, N2O, fluorinated gases) emissions for the years 1990–2015, building on the Emissions Database of Global Atmospheric Research (EDGAR), complemented with land use/land-use change emissions from the FAOSTAT emissions database. EDGAR-FOOD provides a complete and consistent database in time and space of GHG emissions from the global food system, from production to consumption, including processing, transport and packaging. It responds to the lack of detailed data for many countries by providing sectoral contributions to food-system emissions that are essential for the design of effective mitigation actions. <mark style="background: #FFF3A3A6;">In 2015, food-system emissions</mark> amounted to 18 Gt CO2 equivalent per year globally, <mark style="background: #FFF3A3A6;">representing 34% of total GHG emissions</mark>. The largest contribution came from agriculture and land use/land-use change activities (71%), with the remaining were from supply chain activities: retail, transport, consumption, fuel production, waste management, industrial processes and packaging. Temporal trends and regional contributions of GHG emissions from the food system are also discussed.
+
+# AI suggested related articles
+
+- [[Citations/Taherzadeh et al., 2025\|Citations/Taherzadeh et al., 2025]] (0.69)
+- [[Citations/Pendrill et al., 2019\|Citations/Pendrill et al., 2019]] (0.69)
+- [[Citations/Poore and Nemecek 2018\|Citations/Poore and Nemecek 2018]] (0.68)

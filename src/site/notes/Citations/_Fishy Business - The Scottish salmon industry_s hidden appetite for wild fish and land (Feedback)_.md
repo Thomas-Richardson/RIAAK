@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/fishy-business-the-scottish-salmon-industry-s-hidden-appetite-for-wild-fish-and-land-feedback/","created":"2026-02-03T21:30:24.966+00:00","updated":"2026-02-03T21:30:24.966+00:00"}
+{"dg-publish":true,"permalink":"/citations/fishy-business-the-scottish-salmon-industry-s-hidden-appetite-for-wild-fish-and-land-feedback/","created":"2026-02-03T21:30:24.966+00:00","updated":"2026-02-04T05:17:18.749+00:00"}
 ---
 
 
@@ -20,3 +20,10 @@ In this report Feedback addresses the global sustainability equation, starting f
 Where and how this wild fish will be sustainably sourced is an unanswered question. While some progress on certification and use of by-products has been made, transparency is lacking to independently verify the industry's claims and to ensure that pressure on wild fish stocks will not negatively impact delicate ocean ecosystems, or human food security in the places where the wild fish is caught.
 
 We call for greater transparency from the industry on feed sourcing, including which types of fish are used, where they are sourced and to provide conclusive and independently verifiable answers to a central question hanging over the industry: what role should farmed salmon play within globally sustainable diets? And if there is a place for large-scale salmon aquaculture, is the industry willing to commit to the transparency and accountability which would justify its role?
+
+
+# AI suggested related articles
+
+- [[Citations/OFF THE MENU (Feedback)\|Citations/OFF THE MENU (Feedback)]] (0.88)
+- [[Citations/ON THE HOOK (Feedback)\|Citations/ON THE HOOK (Feedback)]] (0.87)
+- [[Citations/Until the Seas Run Dry (Changing Markets Foundation et al.)\|Citations/Until the Seas Run Dry (Changing Markets Foundation et al.)]] (0.83)

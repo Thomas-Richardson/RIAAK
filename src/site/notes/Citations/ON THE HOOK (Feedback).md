@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/on-the-hook-feedback/","created":"2026-02-03T21:33:28.378+00:00","updated":"2026-02-03T21:33:28.378+00:00"}
+{"dg-publish":true,"permalink":"/citations/on-the-hook-feedback/","created":"2026-02-03T21:33:28.378+00:00","updated":"2026-02-04T05:17:18.781+00:00"}
 ---
 
 
@@ -16,3 +16,10 @@ With the approach of natural limits to the growth of FMFO production, the Scotti
 ¹ From these wild fish, a volume of fishmeal can also be produced to be used in other feeds for prawns or pigs for example, but producing this fishmeal is inevitable if we are to produce the necessary volumes of fish oil.
 ² See Feedback 'Fishy Business: the Scottish salmon industry's hidden appetite for wild fish and land' (2019) for full calculations. Available at: https://feedbackglobal.org/wp-content/uploads/2019/06/Fishy-business-the-Scottish-salmon-industrys-hidden-appetite-for-wild-fish-and-land.pdf.
 ³ See Changing Markets Foundation and Feedback 'Caught Out: How UK retailers are tackling the use of wild fish in their aquaculture supply chains' (2020). Available at: https://feedbackglobal.org/wp-content/.
+
+
+# AI suggested related articles
+
+- [[Citations/OFF THE MENU (Feedback)\|Citations/OFF THE MENU (Feedback)]] (0.89)
+- [[Citations/_Fishy Business - The Scottish salmon industry_s hidden appetite for wild fish and land (Feedback)_\|Citations/_Fishy Business - The Scottish salmon industry_s hidden appetite for wild fish and land (Feedback)_]] (0.87)
+- [[Citations/Until the Seas Run Dry (Changing Markets Foundation et al.)\|Citations/Until the Seas Run Dry (Changing Markets Foundation et al.)]] (0.83)

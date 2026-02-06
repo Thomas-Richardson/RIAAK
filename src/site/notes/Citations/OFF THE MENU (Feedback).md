@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/off-the-menu-feedback/","created":"2026-02-03T21:32:29.614+00:00","updated":"2026-02-03T21:32:29.616+00:00"}
+{"dg-publish":true,"permalink":"/citations/off-the-menu-feedback/","created":"2026-02-03T21:32:29.614+00:00","updated":"2026-02-04T05:17:18.742+00:00"}
 ---
 
 
@@ -22,3 +22,10 @@ Salmon farming can provide a mechanism to prevent micronutrients from leaving th
 In high-income countries, where nutrition needs are generally well met and overconsumption of animal protein is both a health and environmental challenge, aquaculture can only be considered a sustainable approach to meeting nutritional needs if it does not rely on wild resources which could be directly eaten by people. This report re-frames debates concerning whether or not to eat fish and shows there is enough fish in the sea if marine resources are sustainably managed. Going beyond the question 'should we eat farmed salmon?' we get a richer more diverse scenario which could deliver a varied diet for human nutrition, more fish in the sea and a healthy prognosis for our ocean.
 
 ¹ Average production 2010-2018 (https://www.gov.scot/publications/scottish-fish-farm-production-survey-2018/pages/5/).
+
+
+# AI suggested related articles
+
+- [[Citations/ON THE HOOK (Feedback)\|Citations/ON THE HOOK (Feedback)]] (0.89)
+- [[Citations/_Fishy Business - The Scottish salmon industry_s hidden appetite for wild fish and land (Feedback)_\|Citations/_Fishy Business - The Scottish salmon industry_s hidden appetite for wild fish and land (Feedback)_]] (0.88)
+- [[Citations/Until the Seas Run Dry (Changing Markets Foundation et al.)\|Citations/Until the Seas Run Dry (Changing Markets Foundation et al.)]] (0.82)

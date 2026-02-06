@@ -1,14 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/duck-down-feathers/","tags":[null,null,null,null],"created":"2025-10-23T17:42:41.962+01:00","updated":"2025-10-30T23:44:53.059+00:00"}
+{"dg-publish":true,"permalink":"/duck-down-feathers/","tags":["materials"],"created":"2025-10-23T17:42:41.962+01:00","updated":"2026-02-04T11:49:17.999+00:00"}
 ---
-
-
-
 
 - [[Wool\|Wool]]
 - [[Silk\|Silk]]
 - [[Fur\|Fur]]
-- 
 
 Mostly taken from here: https://www.goodsignal.com/p/the-down-side
 
@@ -25,3 +21,6 @@ Mostly taken from here: https://www.goodsignal.com/p/the-down-side
 - Chemical treatments such as dyes, waterproofing, or anti-microbial finishes significantly reduce its biodegradability. Synthetic dyes release toxic substances that harm the environment while waterproofing agents like polyfluoroalkyl substances (PFAS) persist in the environment without readily degrading.[10](https://www.goodsignal.com/p/the-down-side#footnote-10-146050380)
 - Ethical down certifications include the [Responsible Down Standard](https://textileexchange.org/app/uploads/2021/02/RDS-101-V3.0-2019.07.01.pdf) (RDS) and the [Global Traceable Down Standard](https://www.nsf.org/knowledge-library/sustainable-down-certifications) (GTDS). Both certify farms where birds are free from unnecessary harm, including no live plucking or force-feeding, with respect for the [Five Freedoms](https://www.aspca.org/sites/default/files/upload/images/aspca_asv_five_freedoms_final1.ashx_.pdf) of animal welfare
 - Products that are RDS- or GTDS-certified are labeled as such and can be traced using the [Track My Down](http://trackmydown.com/) service to verify their authenticity.
+
+# Related
+- 

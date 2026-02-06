@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/what-lies-beneath-changing-markets-foundation/","created":"2026-02-03T21:34:35.688+00:00","updated":"2026-02-03T21:34:35.689+00:00"}
+{"dg-publish":true,"permalink":"/citations/what-lies-beneath-changing-markets-foundation/","created":"2026-02-03T21:34:35.688+00:00","updated":"2026-02-04T05:17:18.768+00:00"}
 ---
 
 
@@ -89,3 +89,10 @@ Companies have been reluctant to reveal the true extent of infections among thei
 We have also found evidence that TASA failed to report at least two Covid-19 cases in its workforce to the Peruvian Ministry of Health, suggesting the company is trying to cover up the true scale of infections among its workforce.
 
 This report lifts the veil on a deeply unsustainable industry that seems to stop at nothing - not even a global pandemic - in its pursuit of ever more wild-caught fish to feed the booming aquaculture sector. Mindful of shielding its reputation, it has instrumentalised certification standards, such as MarinTrust, to cover up its failings and improve its access to the lucrative global market. This report examines why Peru's FMFO industry is failing to live up to its sustainable image, and why its global customers in the feed and retail sectors should think twice about sourcing from Peru. Exposing a sector rife with environmental and social violations, it calls for a rapid phase-out of FMFO from the global aquaculture industry.
+
+
+# AI suggested related articles
+
+- [[Citations/Fishing for Catastrophe (Changing Markets Foundation)\|Citations/Fishing for Catastrophe (Changing Markets Foundation)]] (0.83)
+- [[Citations/Until the Seas Run Dry (Changing Markets Foundation et al.)\|Citations/Until the Seas Run Dry (Changing Markets Foundation et al.)]] (0.79)
+- [[Citations/Dead Loss - (Just Economics)\|Citations/Dead Loss - (Just Economics)]] (0.74)

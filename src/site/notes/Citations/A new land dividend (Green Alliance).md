@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/a-new-land-dividend-green-alliance/","created":"2025-10-23T17:42:46.000+01:00","updated":"2025-10-23T17:42:46.000+01:00"}
+{"dg-publish":true,"permalink":"/citations/a-new-land-dividend-green-alliance/","created":"2025-10-23T17:42:46.000+01:00","updated":"2026-02-05T12:49:15.992+00:00"}
 ---
 
 
@@ -31,3 +31,10 @@ In our ‘high innovation’ scenario, where alternative proteins come to repres
 > “The CAP must be reimagined as a new rural deal.”
 
 To ensure the social benefits of this change are realised, the CAP must be reimagined as a new rural deal, one which pays farmers and land managers for nature restoration and carbon removal, alongside food. Alternative proteins would be central to this new rural deal, as they create the space to avoid the difficult trade-offs that Europe will otherwise face in reconciling its food, climate, nature and rural economic goals.
+
+
+# AI suggested related articles
+
+- [[Citations/Green Alliance 2024\|Citations/Green Alliance 2024]] (0.90)
+- [[Citations/Crossing the divide (Green Alliance)\|Citations/Crossing the divide (Green Alliance)]] (0.76)
+- [[Citations/Land of opportunity - a new land use framework to restore nature and level up Britain (Green Alliance)\|Citations/Land of opportunity - a new land use framework to restore nature and level up Britain (Green Alliance)]] (0.75)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/salmon-on-soy-beans-deforestation-and-land-conflict-in-brazil-rainforest-foundation-norway-et-al/","created":"2026-02-03T21:29:28.050+00:00","updated":"2026-02-03T21:29:28.051+00:00"}
+{"dg-publish":true,"permalink":"/citations/salmon-on-soy-beans-deforestation-and-land-conflict-in-brazil-rainforest-foundation-norway-et-al/","created":"2026-02-03T21:29:28.050+00:00","updated":"2026-02-04T05:17:18.733+00:00"}
 ---
 
 
@@ -16,3 +16,10 @@ This report does not contain an executive summary. Here is a summary of the repo
 *   **Banned Pesticides:** Suppliers have been caught using banned and smuggled pesticides. The same farmer, Piccinin Junior, was sued for using an unauthorized, imported insecticide on his farm, from which soy was sold to Selecta and Caramuru.
 *   **Impact on Indigenous Peoples:** Soy expansion is encroaching on and causing conflict within indigenous lands. The report details soy cultivation inside the Panambizinho Indigenous Land, with the harvest sold to the C.Vale cooperative, a known supplier to Imcopa.
 *   **Lack of Transparency:** The report highlights a significant lack of transparency from the companies and the ProTerra certification scheme, which certifies most of the non-GM soy imported by Norway. Only Caramuru provided detailed responses to the allegations, while Selecta and Imcopa remained mostly silent. ProTerra declined to provide information on specific suppliers, citing confidentiality.
+
+
+# AI suggested related articles
+
+- [[Citations/_Fishy Business - The Scottish salmon industry_s hidden appetite for wild fish and land (Feedback)_\|Citations/_Fishy Business - The Scottish salmon industry_s hidden appetite for wild fish and land (Feedback)_]] (0.70)
+- [[Citations/Fishing for Catastrophe (Changing Markets Foundation)\|Citations/Fishing for Catastrophe (Changing Markets Foundation)]] (0.69)
+- [[Citations/Until the Seas Run Dry (Changing Markets Foundation et al.)\|Citations/Until the Seas Run Dry (Changing Markets Foundation et al.)]] (0.67)

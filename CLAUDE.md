@@ -47,14 +47,16 @@ python scripts/ingest.py          # Process vault and update Pinecone embeddings
 ### Semantic Search Pipeline
 
 **Ingestion (scripts/ingest.py)**:
-1. Walks `src/site/notes/` directory for `.md` files
-2. Parses frontmatter using `python-frontmatter`
-3. Computes MD5 hash of content to skip unchanged files
-4. Chunks notes using `MarkdownHeaderTextSplitter` (splits on H1, H2, H3)
-5. Embeds chunks using OpenAI `text-embedding-3-small` (1536 dimensions)
-6. Semantic boosting: Injects tags into embedding text as "Context Tags: ..."
-7. Upserts vectors to Pinecone with metadata (file_path, tags, url, text, file_hash)
-8. Uses URL-encoded file paths as vector IDs to handle special characters
+1. Scans vault and removes vectors for any deleted notes (cleanup step runs first)
+2. Walks `src/site/notes/` directory for `.md` files
+3. Parses frontmatter using `python-frontmatter`
+4. Computes MD5 hash of content to skip unchanged files
+5. Chunks notes using `MarkdownHeaderTextSplitter` (splits on H1, H2, H3)
+6. Embeds chunks using OpenAI `text-embedding-3-small` (1536 dimensions)
+7. Semantic boosting: Injects tags into embedding text as "Context Tags: ..."
+8. Upserts vectors to Pinecone with metadata (file_path, tags, url, text, file_hash)
+9. Uses URL-encoded file paths as vector IDs to handle special characters
+- Each vector stores metadata: `file_path`, `file_hash`, `text`, `tags`, `url`, plus header info (H1/H2/H3)
 
 **Query API (api/search.py)**:
 - Vercel serverless function (Python)

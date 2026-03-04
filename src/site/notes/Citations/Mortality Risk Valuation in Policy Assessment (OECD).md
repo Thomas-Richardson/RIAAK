@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/citations/mortality-risk-valuation-in-policy-assessment-oecd/","created":"2025-11-24T21:17:21.644+00:00","updated":"2025-11-24T21:17:21.646+00:00"}
+{"dg-publish":true,"permalink":"/citations/mortality-risk-valuation-in-policy-assessment-oecd/","created":"2025-11-24T21:17:21.644+00:00","updated":"2026-02-24T13:59:23.266+00:00"}
 ---
 
+- [[Calculating health costs two ways\|Calculating health costs two ways]] 
 
-The idea of associating human life with a monetary value is intuitively challenging and can seem insensitive or harsh. However, policymakers regularly face decisions that impact people’s risk of death. For example, setting stricter vehicle fuel efficiency standards may lead to higher costs for consumers and businesses but at the same time save lives through improved air quality in urban areas, thus creating a trade-off between economic costs and the value of saving lives.
+
+> [!NOTE] Title
+> The OECD carried out the largest meta-analyses ever of value of statistical life studies to basically come to a good average figure 
+
 
 The economic benefits of prevented fatalities can be expressed in terms of a “Value of Statistical Life” (VSL), which represents the value a given population places on avoiding the death of an unidentified individual, such as reducing the number of deaths from air pollution. Importantly, even if a change in mortality risk is not explicitly valued in monetary terms, it is implicitly valued through policy decisions with economic implications. However, such implicit values can vary considerably from case to case. While people may object to explicit valuations on ethical grounds, the use of implicit values is pervasive, even if these values are not always observable. Explicit values derived from carefully conducted valuation techniques improve the information available to decision makers by providing a consistent and transparent metric that can be applied across policy areas.
 

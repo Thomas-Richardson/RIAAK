@@ -65,8 +65,13 @@ def remove_deleted_notes(index, current_paths):
     for ids_batch in index.list():
         if not ids_batch:
             continue
-        for vec_id in ids_batch:
-            file_path = unquote(vec_id.rsplit("#", 1)[0])
+        for item in ids_batch:
+            # index.list() yields ListItem objects (use item.id); older SDK
+            # versions yielded plain string IDs — support both, skip null ids.
+            vec_id = item.id if hasattr(item, "id") else item
+            if not vec_id:
+                continue
+            file_path = unquote(str(vec_id).rsplit("#", 1)[0])
             if file_path and file_path not in current_paths:
                 paths_to_delete.add(file_path)
 

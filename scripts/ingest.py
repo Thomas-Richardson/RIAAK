@@ -4,7 +4,7 @@ import json
 import re
 import unicodedata
 import frontmatter
-from urllib.parse import quote
+from urllib.parse import quote, unquote
 from pinecone import Pinecone, ServerlessSpec
 from openai import OpenAI
 from langchain_text_splitters import MarkdownHeaderTextSplitter
@@ -57,30 +57,28 @@ def get_all_note_paths():
 
 def remove_deleted_notes(index, current_paths):
     """Remove vectors from Pinecone for notes that no longer exist in the vault."""
-    deleted_count = 0
-    # List all vectors in the index by querying for all unique file_paths
-    # Pinecone serverless supports listing vector IDs
+    # Vector IDs are built as f"{quote(relative_path)}#{chunk}", so the note's
+    # path can be recovered directly from the ID. We avoid index.fetch() here on
+    # purpose: fetching a whole page of long, URL-encoded IDs sends them as a GET
+    # query string and overflowed Pinecone's request-header limit (HTTP 431).
+    paths_to_delete = set()
     for ids_batch in index.list():
         if not ids_batch:
             continue
-        # Fetch metadata for these vectors
-        fetch_response = index.fetch(ids=list(ids_batch))
-        file_paths_to_delete = set()
-        for vec_id, vec_data in fetch_response.vectors.items():
-            file_path = vec_data.metadata.get("file_path")
+        for vec_id in ids_batch:
+            file_path = unquote(vec_id.rsplit("#", 1)[0])
             if file_path and file_path not in current_paths:
-                file_paths_to_delete.add(file_path)
+                paths_to_delete.add(file_path)
 
-        for file_path in file_paths_to_delete:
-            print(f"Removing deleted note from index: {file_path}")
-            try:
-                index.delete(filter={"file_path": {"$eq": file_path}})
-                deleted_count += 1
-            except Exception as e:
-                print(f"Warning: Could not delete vectors for {file_path}: {e}")
+    for file_path in paths_to_delete:
+        print(f"Removing deleted note from index: {file_path}")
+        try:
+            index.delete(filter={"file_path": {"$eq": file_path}})
+        except Exception as e:
+            print(f"Warning: Could not delete vectors for {file_path}: {e}")
 
-    if deleted_count:
-        print(f"Removed {deleted_count} deleted note(s) from index.")
+    if paths_to_delete:
+        print(f"Removed {len(paths_to_delete)} deleted note(s) from index.")
     else:
         print("No deleted notes to remove.")
 

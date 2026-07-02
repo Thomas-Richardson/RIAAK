@@ -4,8 +4,9 @@
 
 [[redirects]]
   from = "/api/*"
-  to = "/.netlify/functions/:splat"
+  to = "https://riaak.vercel.app/api/:splat"
   status = 200
+  force = true
 
 [[redirects]]
   from = "/*"

@@ -270,6 +270,11 @@
         window.docs = docs;
         window.index = index;
 
+        // Map url -> doc so semantic (Pinecone) results can be enriched with
+        // the offline index's title, tags and full content for rendering/preview.
+        window.docsByUrl = {};
+        docs.forEach((d) => { if (d && d.url) window.docsByUrl[d.url] = d; });
+
         // Keyboard shortcuts
         document.addEventListener('keydown', (e) => {
             if ((e.ctrlKey || e.metaKey) && e.key === 'k') {
@@ -352,6 +357,7 @@
     window.searchResults = [];
     window.searchTerms = [];
     window.currentPreviewIndex = -1;
+    window.searchSeq = 0;
 
     async function search() {
         const searchQuery = field.value.trim();
@@ -371,7 +377,26 @@
         resultsDiv.innerHTML = loadingSvg;
         hidePreview();
 
-        const results = offlineSearch(searchQuery);
+        const seq = ++window.searchSeq;
+
+        // Tag searches (#tag) stay on the offline index — embeddings don't help
+        // for exact tag lookups. Everything else goes to semantic search, with a
+        // graceful fallback to offline keyword search if the API is unreachable.
+        let results;
+        if (searchQuery[0] === "#") {
+            results = offlineSearch(searchQuery);
+        } else {
+            try {
+                results = await semanticSearch(searchQuery);
+            } catch (err) {
+                console.error('Semantic search failed, falling back to offline:', err);
+                results = offlineSearch(searchQuery);
+            }
+        }
+
+        // A newer keystroke already fired; drop this now-stale response.
+        if (seq !== window.searchSeq) return;
+
         window.searchResults = results;
 
         if (!results.length) {
@@ -394,7 +419,7 @@
 
         let resultsHTML = '';
         results.forEach((r, index) => {
-            const excerpt = getContextualExcerpt(r.content, window.searchTerms, 120);
+            const excerpt = getContextualExcerpt(r.snippet || r.content, window.searchTerms, 120);
             const highlightedExcerpt = highlightTerms(excerpt, window.searchTerms);
             const highlightedTitle = highlightTerms(r.title, window.searchTerms);
 
@@ -430,6 +455,59 @@
 
     window.search = search;
 
+    // ===== Semantic Search (Pinecone API) =====
+
+    // Drop structural / empty tags so they don't render as "#note", "#null" chips.
+    function cleanTags(tags) {
+        if (!Array.isArray(tags)) return [];
+        return tags.filter((t) => {
+            if (t === null || t === undefined) return false;
+            const s = String(t).trim().toLowerCase();
+            return s !== "" && s !== "null" && s !== "note" && s !== "gardenentry";
+        });
+    }
+
+    function titleFromFilePath(filePath) {
+        if (!filePath) return '';
+        const base = filePath.split('/').pop() || filePath;
+        return base.replace(/\.md$/i, '');
+    }
+
+    async function semanticSearch(searchQuery) {
+        const response = await fetch('/api/search?q=' + encodeURIComponent(searchQuery));
+        if (!response.ok) throw new Error('Search API returned ' + response.status);
+        const data = await response.json();
+        if (data.error) throw new Error(data.error);
+
+        const byUrl = window.docsByUrl || {};
+        const seen = new Set();
+        const results = [];
+
+        // Results arrive sorted by score; a note can appear as several header
+        // chunks, so keep only the first (highest-scoring) occurrence per url.
+        (data.results || []).forEach((m) => {
+            const url = m.url;
+            if (!url || seen.has(url)) return;
+            seen.add(url);
+
+            const doc = byUrl[url];
+            const rawTags = (doc && Array.isArray(doc.tags)) ? doc.tags
+                : (Array.isArray(m.tags) ? m.tags : []);
+            const tags = cleanTags(rawTags);
+
+            results.push({
+                title: (doc && doc.title) || titleFromFilePath(m.file_path),
+                url: url,
+                tags: tags,
+                content: (doc && doc.content) || m.text || '',
+                snippet: m.text || (doc && doc.content) || '',
+                score: m.score
+            });
+        });
+
+        return results;
+    }
+
     // ===== Offline Search =====
 
     function offlineSearch(searchQuery) {
@@ -458,7 +536,7 @@
         const dataIds = [...allIds];
         const finalResults = dataIds.map((id) => {
             const result = { ...data[id] };
-            result.tags = result.tags.filter((x) => x !== "gardenEntry" && x !== "note");
+            result.tags = cleanTags(result.tags);
             return result;
         });
 

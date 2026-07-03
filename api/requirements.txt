@@ -1,2 +1,2 @@
-pinecone>=5.0.0
+pinecone>=6.0.0,<8
 openai>=1.0.0

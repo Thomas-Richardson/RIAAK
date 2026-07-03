@@ -474,7 +474,9 @@
     }
 
     async function semanticSearch(searchQuery) {
-        const response = await fetch('/api/search?q=' + encodeURIComponent(searchQuery));
+        // compact=1 trims each snippet server-side (the UI only renders a short
+        // excerpt and enriches previews from the offline index anyway).
+        const response = await fetch('/api/search?q=' + encodeURIComponent(searchQuery) + '&compact=1&top_k=10');
         if (!response.ok) throw new Error('Search API returned ' + response.status);
         const data = await response.json();
         if (data.error) throw new Error(data.error);

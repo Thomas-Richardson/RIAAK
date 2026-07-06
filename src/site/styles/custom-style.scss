@@ -10,4 +10,18 @@ body {
     //  h1 {
     //   color: black;
     //  }
+
+    /* Charts and figures clipped from other sites are frequently transparent
+       PNGs whose title/axis/legend text was authored dark for a light page.
+       On the dark reader theme the transparency lets the background show
+       through, so that text disappears (bars and white in-bar labels survive).
+       Give note-body images a white "figure card" background so they stay
+       legible. Opaque images (photos, screenshots) are unaffected because the
+       background sits behind their pixels. */
+    .markdown-rendered img {
+        background-color: #ffffff;
+        box-sizing: border-box;
+        padding: 0.6rem;
+        border-radius: 8px;
+    }
 }

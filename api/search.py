@@ -14,6 +14,7 @@ RERANK_MODEL = "bge-reranker-v2-m3"
 CANDIDATE_POOL = 30
 DEFAULT_TOP_K = 8
 MAX_TOP_K = 15
+MAX_QUERY_CHARS = 2000            # reject longer queries before embedding (abuse guard)
 COMPACT_TEXT_CHARS = 400          # snippet length when ?compact=1
 RERANK_DOC_CHARS = 2000           # per-doc text cap sent to the reranker
 
@@ -139,7 +140,7 @@ class handler(BaseHTTPRequestHandler):
         """Helper to send CORS headers for every response"""
         self.send_header('Access-Control-Allow-Origin', '*')
         self.send_header('Access-Control-Allow-Methods', 'GET, POST, OPTIONS')
-        self.send_header('Access-Control-Allow-Headers', 'Content-Type')
+        self.send_header('Access-Control-Allow-Headers', 'Content-Type, X-Api-Key')
 
     def do_OPTIONS(self):
         """Handle CORS preflight requests"""
@@ -150,6 +151,23 @@ class handler(BaseHTTPRequestHandler):
 
     def do_GET(self):
         try:
+            # Shared-secret gate. Enforced only when RIAAK_SEARCH_KEY is set in the
+            # environment, so this code can ship with no behaviour change and be
+            # switched on later just by setting that env var (and off again by
+            # unsetting it). The website and the Claude skill both send the key in
+            # the X-Api-Key header. This keeps random bots that discover the URL
+            # from triggering paid OpenAI/Pinecone calls; it is a bar-raiser (the
+            # key ships in the public site JS and the shared skill), not hardened
+            # auth. Rotate by changing the env var + both clients and redeploying.
+            required_key = os.environ.get("RIAAK_SEARCH_KEY")
+            if required_key and self.headers.get("X-Api-Key") != required_key:
+                self.send_response(401)
+                self.send_header('Content-type', 'application/json')
+                self._send_cors_headers()
+                self.end_headers()
+                self.wfile.write(json.dumps({"error": "Unauthorized"}).encode())
+                return
+
             # Parse query params
             query_components = parse_qs(urlparse(self.path).query)
             user_query = query_components.get('q', [None])[0]
@@ -160,6 +178,16 @@ class handler(BaseHTTPRequestHandler):
                 self._send_cors_headers()
                 self.end_headers()
                 self.wfile.write(json.dumps({"error": "Missing query parameter 'q'"}).encode())
+                return
+
+            if len(user_query) > MAX_QUERY_CHARS:
+                self.send_response(400)
+                self.send_header('Content-type', 'application/json')
+                self._send_cors_headers()
+                self.end_headers()
+                self.wfile.write(json.dumps({
+                    "error": f"Query too long ({len(user_query)} chars); max is {MAX_QUERY_CHARS}"
+                }).encode())
                 return
 
             # Optional params

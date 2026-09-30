@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/animal-agriculture-takes-up-lots-of-land-but-provide-few-calories/","tags":["Animal_Feed","Environment/Land","Farming"],"created":"2025-10-23T17:42:42.965+01:00","updated":"2026-09-30T19:55:01.182+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Animal_Feed","Environment/Land","Farming"],"AI suggested tags":["Environment_Misc","MFA_Food_Sec","Cattle/Grass_Fed_Cattle"]}}
+{"dg-publish":true,"permalink":"/animal-agriculture-takes-up-lots-of-land-but-provide-few-calories/","tags":["Animal_Feed","Environment/Land","Farming"],"created":"2025-10-23T17:42:42.965+01:00","updated":"2026-09-30T23:02:29.009+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Animal_Feed","Environment/Land","Farming"],"AI suggested tags":["Environment","MFA_Food_Sec","Cattle/Grass_Fed_Cattle"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/a-healthy-diet-is-unaffordable-in-the-uk-without-meat-reduction/","tags":["Food_Security","High_Income_Countries/UK","Meat/Meat_Reduction","Economics/Costs","Fruit_Veg"],"created":"2025-10-23T17:42:43.503+01:00","updated":"2026-09-30T22:10:52.322+01:00","dg-note-properties":{"tags":["Food_Security","High_Income_Countries/UK","Meat/Meat_Reduction","Economics/Costs","Fruit_Veg"],"Note Type":"Own Work","AI suggested tags":["Bryant/Project/CAWF_Food_Sec","UK"]}}
+{"dg-publish":true,"permalink":"/a-healthy-diet-is-unaffordable-in-the-uk-without-meat-reduction/","tags":["Food_Security","High_Income_Countries/UK","Meat/Meat_Reduction","Economics/Costs","Fruit_Veg"],"created":"2025-10-23T17:42:43.503+01:00","updated":"2026-09-30T23:02:28.982+01:00","dg-note-properties":{"tags":["Food_Security","High_Income_Countries/UK","Meat/Meat_Reduction","Economics/Costs","Fruit_Veg"],"Note Type":"Own Work","AI suggested tags":["Bryant_Research/Project/CAWF_Food_Sec","UK"]}}
 ---
 
 # The UK gov's recommended healthy diet is unfeasibly expensive for the poorest

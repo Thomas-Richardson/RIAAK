@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/leroy-et-al-2023/","tags":[null,null,null],"created":"2025-10-23T17:42:45.401+01:00","updated":"2025-10-30T23:44:54.092+00:00"}
+{"dg-publish":true,"permalink":"/citations/leroy-et-al-2023/","tags":["Citation","Wild_Animals"],"created":"2025-10-23T17:42:45.401+01:00","updated":"2026-09-30T22:17:46.502+01:00","dg-note-properties":{"tags":["Citation","Wild_Animals"],"Note Type":"undefined","AI suggested tags":["Health/Nutrition","Meat","Diet"]}}
 ---
 
 
@@ -29,4 +29,10 @@ The transition from a hunter gatherer diet to an agricultural one caused an expl
 
 ### An evocative counter example to the ‘our ancestors loved meat’ argument
 
-Meat and #eggs trigger sickness and vomiting in pregnant women (known in the west as morning sickness, though it can occur any time of the day) more than any other food group (reviewed in Flaxman and Sherman, 2000; see also Holland and O’Brien, 2003). This is thought to be a natural adaptation to the fact that meat and eggs typically contain more pathogens than plant-based foods, and so historically would have provided a risk to developing foetuses (see Fessler, 2000 for a review). Ancient cultures have long realised the risks meat can pose in certain contexts such as pregnancy, as most have taboos restricting pregnant women’s meat consumption (Fessler 2000, Fessler and Navarette, 2003).
+Meat and #Eggs trigger sickness and vomiting in pregnant women (known in the west as morning sickness, though it can occur any time of the day) more than any other food group (reviewed in Flaxman and Sherman, 2000; see also Holland and O’Brien, 2003). This is thought to be a natural adaptation to the fact that meat and eggs typically contain more pathogens than plant-based foods, and so historically would have provided a risk to developing foetuses (see Fessler, 2000 for a review). Ancient cultures have long realised the risks meat can pose in certain contexts such as pregnancy, as most have taboos restricting pregnant women’s meat consumption (Fessler 2000, Fessler and Navarette, 2003).
+
+# AI suggested related articles
+
+- [[Influential, respected authorities giving pro animal advo messaging\|Influential, respected authorities giving pro animal advo messaging]] (0.64)
+- [[Do the global poor need nutrients from animal products\|Do the global poor need nutrients from animal products]] (0.64)
+- [[ancestral human diets\|ancestral human diets]] (0.63)

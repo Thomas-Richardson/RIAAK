@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/hirvonen-et-al-2019/","tags":["Citation","Environment_Misc","Health/Nutrition"],"created":"2025-10-23T17:42:45.753+01:00","updated":"2026-09-30T19:55:01.669+01:00","dg-note-properties":{"tags":["Citation","Environment_Misc","Health/Nutrition"],"AI suggested tags":["Economics/Costs","Economics","Diet"]}}
+{"dg-publish":true,"permalink":"/citations/hirvonen-et-al-2019/","tags":["Citation","Environment","Health/Nutrition"],"created":"2025-10-23T17:42:45.753+01:00","updated":"2026-09-30T23:02:29.582+01:00","dg-note-properties":{"tags":["Citation","Environment","Health/Nutrition"],"AI suggested tags":["Economics/Costs","Economics","Diet"]}}
 ---
 
 

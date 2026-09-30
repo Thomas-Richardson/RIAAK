@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/li-et-al-2019/","tags":["food_safety","Health/Disease"],"created":"2025-11-11T23:26:09.657+00:00","updated":"2025-11-11T23:26:09.657+00:00"}
+{"dg-publish":true,"permalink":"/citations/li-et-al-2019/","tags":["Food_Safety","Health/Disease"],"created":"2025-11-11T23:26:09.657+00:00","updated":"2026-09-30T19:55:01.770+01:00","dg-note-properties":{"tags":["Food_Safety","Health/Disease"],"Url":"https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216545","AI suggested tags":["Lower_Middle_Income_Countries","MFA_Food_Sec","Citation"]}}
 ---
 
 Li, M., Havelaar, A.H., Hoffmann, S., Hald, T., Kirk, M.D., Torgerson, P.R. et al., 2019. Global disease burden of pathogens in animal source foods, 2010. PLoS One. 2019;14(6):e0216545
@@ -23,3 +23,9 @@ Li, M., Havelaar, A.H., Hoffmann, S., Hald, T., Kirk, M.D., Torgerson, P.R. et a
 - Mycobacterium bovis (the causative agent of tuberculosis in cattle) is still an important burden in Africa, and causes most food bourne disease from dairy in Africa
 - Very little foreign aid to tackle food bourne disease
 - Approximately 90% of the FBD burden of _Campylobacter_ spp. was attributed to ASF, a disease which is [among the most important pathogens](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(18)30349-8/fulltext) associated with Environmental Enteric Dysfunction and stunting. 
+
+# AI suggested related articles
+
+- [[Citations/Vipham et al., 2020\|Citations/Vipham et al., 2020]] (0.70)
+- [[Diseases in farm animals cause economic shocks\|Diseases in farm animals cause economic shocks]] (0.69)
+- [[Citations/Lam et al., 2016\|Citations/Lam et al., 2016]] (0.64)

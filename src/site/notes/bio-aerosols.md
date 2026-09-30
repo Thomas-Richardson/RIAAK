@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bio-aerosols/","tags":[null],"created":"2025-10-23T17:42:43.462+01:00","updated":"2026-09-30T19:55:03.625+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":[null],"AI suggested tags":["environment/pollution","chickens","food_safety"]}}
+{"dg-publish":true,"permalink":"/bio-aerosols/","tags":["Health/Disease"],"created":"2025-10-23T17:42:43.462+01:00","updated":"2026-09-30T19:55:03.625+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Health/Disease"],"AI suggested tags":["Environment/Pollution","Pigs","USA"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/local-action-for-animals-as-a-stepping-stone-to-state-protections-faunalytics/","created":"2026-01-28T10:48:40.598+00:00","updated":"2026-01-29T05:00:06.493+00:00"}
+{"dg-publish":true,"permalink":"/citations/local-action-for-animals-as-a-stepping-stone-to-state-protections-faunalytics/","tags":["High_Income_Countries/USA","Law","Movement_Strategy","Factory_Farming"],"created":"2026-01-28T10:48:40.598+00:00","updated":"2026-09-30T19:55:01.780+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/local-action-as-stepping-stone/","tags":["High_Income_Countries/USA","Law","Movement_Strategy","Factory_Farming"],"Year Published":"2022","AI suggested tags":["Public_Opinion","Policy","Strategy"]}}
 ---
 
 This Faunalytics study looks at whether local laws have laid the groundwork for laws at the state level of government, and whether this is a viable avenue for creating meaningful change for animals.

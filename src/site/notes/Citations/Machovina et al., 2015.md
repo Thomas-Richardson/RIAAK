@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/machovina-et-al-2015/","tags":["Citation","Environment","Biodiversity","Meat","SE_Asia"],"created":"2025-10-23T17:42:44.953+01:00","updated":"2026-09-30T19:55:01.801+01:00","dg-note-properties":{"tags":["Citation","Environment","Biodiversity","Meat","SE_Asia"],"Note Type":"undefined","AI suggested tags":["Environment/Land","Environment_Misc","Environment/GHG"]}}
+{"dg-publish":true,"permalink":"/citations/machovina-et-al-2015/","tags":["Citation","Environment","Biodiversity","Meat","SE_Asia"],"created":"2025-10-23T17:42:44.953+01:00","updated":"2026-09-30T23:02:29.697+01:00","dg-note-properties":{"tags":["Citation","Environment","Biodiversity","Meat","SE_Asia"],"Note Type":"undefined","AI suggested tags":["Environment/Land","Environment","Environment/GHG"]}}
 ---
 
 Machovina, B., Feeley, K. J., & Ripple, W. J. (2015). Biodiversity conservation: The key is reducing meat consumption. _Science of the Total Environment_, _536_, 419-431.

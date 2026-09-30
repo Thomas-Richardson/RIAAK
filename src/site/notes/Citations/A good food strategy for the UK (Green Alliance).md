@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/a-good-food-strategy-for-the-uk-green-alliance/","tags":["High_Income_Countries/UK","Policy/Food_Policy","Alternative_Proteins","Fruit_Veg","Environment/Land"],"created":"2026-01-12T17:14:40.108+00:00","updated":"2026-09-30T22:10:52.400+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["High_Income_Countries/UK","Policy/Food_Policy","Alternative_Proteins","Fruit_Veg","Environment/Land"],"source_url":"https://green-alliance.org.uk/wp-content/uploads/2025/12/A-good-food-strategy-for-the-UK-1.pdf","created":"2026-01-12","AI suggested tags":["Food_Security","Bryant/Project/CAWF_Food_Sec"]}}
+{"dg-publish":true,"permalink":"/citations/a-good-food-strategy-for-the-uk-green-alliance/","tags":["High_Income_Countries/UK","Policy/Food_Policy","Alternative_Proteins","Fruit_Veg","Environment/Land"],"created":"2026-01-12T17:14:40.108+00:00","updated":"2026-09-30T23:02:29.211+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["High_Income_Countries/UK","Policy/Food_Policy","Alternative_Proteins","Fruit_Veg","Environment/Land"],"source_url":"https://green-alliance.org.uk/wp-content/uploads/2025/12/A-good-food-strategy-for-the-UK-1.pdf","created":"2026-01-12","AI suggested tags":["Food_Security","Bryant_Research/Project/CAWF_Food_Sec"]}}
 ---
 
 

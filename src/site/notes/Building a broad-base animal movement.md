@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/building-a-broad-base-animal-movement/","tags":["Movement_Strategy"],"created":"2025-10-23T17:42:47.924+01:00","updated":"2026-09-30T19:55:01.230+01:00","dg-note-properties":{"tags":["Movement_Strategy"],"AI suggested tags":["Politics","Animal_Advocacy","Policy"]}}
+{"dg-publish":true,"permalink":"/building-a-broad-base-animal-movement/","tags":["Movement_Strategy"],"created":"2025-10-23T17:42:47.924+01:00","updated":"2026-09-30T22:17:46.476+01:00","dg-note-properties":{"tags":["Movement_Strategy"],"AI suggested tags":["Politics","Policy"]}}
 ---
 
 - [[Animal Think Tanks theory of change\|Animal Think Tanks theory of change]]

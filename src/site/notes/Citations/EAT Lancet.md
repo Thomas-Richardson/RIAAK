@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/eat-lancet/","tags":["Citation","Environment","Health/Nutrition"],"created":"2025-10-23T17:42:46.572+01:00","updated":"2026-09-30T19:55:01.508+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Citation","Environment","Health/Nutrition"],"AI suggested tags":["Environment_Misc","Environment/Land","Environment/GHG"]}}
+{"dg-publish":true,"permalink":"/citations/eat-lancet/","tags":["Citation","Environment","Health/Nutrition"],"created":"2025-10-23T17:42:46.572+01:00","updated":"2026-09-30T23:02:29.453+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Citation","Environment","Health/Nutrition"],"AI suggested tags":["Environment","Environment/Land","Environment/GHG"]}}
 ---
 
 

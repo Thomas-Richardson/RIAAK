@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/animal-advo-in-asia/","tags":["Asia","Lower_Middle_Income_Countries"],"created":"2025-10-23T17:42:42.412+01:00","updated":"2026-09-30T19:55:01.175+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Asia","Lower_Middle_Income_Countries"],"AI suggested tags":["SE_Asia","Bryant/Project/Good_Growth_Social_Listening","China"]}}
+{"dg-publish":true,"permalink":"/animal-advo-in-asia/","tags":["Asia","Lower_Middle_Income_Countries"],"created":"2025-10-23T17:42:42.412+01:00","updated":"2026-09-30T23:02:29.003+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Asia","Lower_Middle_Income_Countries"],"AI suggested tags":["SE_Asia","Bryant_Research/Project/Good_Growth_Social_Listening","China"]}}
 ---
 
 

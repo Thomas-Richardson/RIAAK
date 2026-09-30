@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/looking-beneath-the-surface-fish-welfare-in-european-aquaculture-eurogroup-for-animals/","created":"2025-10-26T17:22:43.055+00:00","updated":"2025-10-26T17:22:43.056+00:00"}
+{"dg-publish":true,"permalink":"/citations/looking-beneath-the-surface-fish-welfare-in-european-aquaculture-eurogroup-for-animals/","tags":["Fish/Farmed","EU","Policy"],"created":"2025-10-26T17:22:43.055+00:00","updated":"2026-09-30T19:55:01.783+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Fish/Farmed","EU","Policy"],"source_url":"https://www.eurogroupforanimals.org/files/eurogroupforanimals/2020-02/Fish-Welfare-in-European-Aquaculture-2.pdf","created":"2025-10-26","AI suggested tags":["Fish","Attitudes","Animal_Welfare"]}}
 ---
 
 

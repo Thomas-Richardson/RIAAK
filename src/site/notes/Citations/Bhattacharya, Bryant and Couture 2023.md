@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/bhattacharya-bryant-and-couture-2023/","tags":["Citation","Report","Bryant/Insight","Alternative_Proteins/Cultivated_Meat","Consumer_Research","Alternative_Proteins"],"created":"2025-10-23T17:42:46.847+01:00","updated":"2026-09-30T19:55:01.386+01:00","dg-note-properties":{"tags":["Citation","Report","Bryant/Insight","Alternative_Proteins/Cultivated_Meat","Consumer_Research","Alternative_Proteins"],"Note Type":"undefined","AI suggested tags":["Meat/Meat_Reduction","Consumer_Attitudes","Meat"]}}
+{"dg-publish":true,"permalink":"/citations/bhattacharya-bryant-and-couture-2023/","tags":["Citation","Report","Bryant_Research/Insight","Alternative_Proteins/Cultivated_Meat","Consumer_Research","Alternative_Proteins"],"created":"2025-10-23T17:42:46.847+01:00","updated":"2026-09-30T23:02:29.323+01:00","dg-note-properties":{"tags":["Citation","Report","Bryant_Research/Insight","Alternative_Proteins/Cultivated_Meat","Consumer_Research","Alternative_Proteins"],"Note Type":"undefined","AI suggested tags":["Meat/Meat_Reduction","Consumer_Attitudes","Meat"]}}
 ---
 
 https://bryantresearch.co.uk/wp-content/uploads/2023/10/Chewing-It-Over.pdf

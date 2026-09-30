@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/alt-proteins-in-asia/","tags":["Alternative_Proteins","Asia","Lower_Middle_Income_Countries","Movement_Building"],"created":"2025-10-23T17:42:47.402+01:00","updated":"2026-09-30T19:55:01.163+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Alternative_Proteins","Asia","Lower_Middle_Income_Countries","Movement_Building"],"AI suggested tags":["SE_Asia","Bryant/Project/Good_Growth_Social_Listening","Alternative_Proteins/Precision_Fermentation"]}}
+{"dg-publish":true,"permalink":"/alt-proteins-in-asia/","tags":["Alternative_Proteins","Asia","Lower_Middle_Income_Countries","Movement_Building"],"created":"2025-10-23T17:42:47.402+01:00","updated":"2026-09-30T23:02:28.994+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Alternative_Proteins","Asia","Lower_Middle_Income_Countries","Movement_Building"],"AI suggested tags":["SE_Asia","Bryant_Research/Project/Good_Growth_Social_Listening","Alternative_Proteins/Precision_Fermentation"]}}
 ---
 
 

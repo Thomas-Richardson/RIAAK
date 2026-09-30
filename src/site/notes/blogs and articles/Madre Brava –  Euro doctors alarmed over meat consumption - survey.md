@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blogs-and-articles/madre-brava-euro-doctors-alarmed-over-meat-consumption-survey/","tags":[null],"created":"2025-10-23T17:42:47.583+01:00","updated":"2026-09-30T19:55:03.628+01:00","dg-note-properties":{"tags":[null],"Note Type":"Think Tank / NGO Report","AI suggested tags":["citation","high_income_countries/UK","animal_advocacy"]}}
+{"dg-publish":true,"permalink":"/blogs-and-articles/madre-brava-euro-doctors-alarmed-over-meat-consumption-survey/","tags":["Health/Disease"],"created":"2025-10-23T17:42:47.583+01:00","updated":"2026-09-30T19:55:03.628+01:00","dg-note-properties":{"tags":["Health/Disease"],"Note Type":"Think Tank / NGO Report","AI suggested tags":["Health","Policy/Food_Policy","Germany"]}}
 ---
 
 ## Euro doctors alarmed over meat consumption - survey

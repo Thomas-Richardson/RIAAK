@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/lopez-moreno-et-al-2025/","tags":["meat_industry"],"created":"2025-12-10T12:54:26.332+00:00","updated":"2025-12-10T12:54:34.150+00:00"}
+{"dg-publish":true,"permalink":"/citations/lopez-moreno-et-al-2025/","tags":["Meat_Industry"],"created":"2025-12-10T12:54:26.332+00:00","updated":"2026-09-30T19:55:01.794+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.sciencedirect.com/science/article/abs/pii/S0002916525001261","tags":["Meat_Industry"],"Year Published":"2025","AI suggested tags":["Meat/Red_Meat","Review","Meat/Meat_Consumption"]}}
 ---
 
 ### Background

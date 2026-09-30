@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/domingo-et-al-2021/","tags":["Animal_Feed","Citation","Environment/Pollution","High_Income_Countries/USA"],"created":"2025-10-23T17:42:44.208+01:00","updated":"2026-09-30T19:55:01.497+01:00","dg-note-properties":{"tags":["Animal_Feed","Citation","Environment/Pollution","High_Income_Countries/USA"],"Note Type":"undefined","AI suggested tags":["Health/Disease","Environment_Misc","Environment/GHG"]}}
+{"dg-publish":true,"permalink":"/citations/domingo-et-al-2021/","tags":["Animal_Feed","Citation","Environment/Pollution","High_Income_Countries/USA"],"created":"2025-10-23T17:42:44.208+01:00","updated":"2026-09-30T23:02:29.445+01:00","dg-note-properties":{"tags":["Animal_Feed","Citation","Environment/Pollution","High_Income_Countries/USA"],"Note Type":"undefined","AI suggested tags":["Health/Disease","Environment","Environment/GHG"]}}
 ---
 
 

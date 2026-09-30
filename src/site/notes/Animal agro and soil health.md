@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/animal-agro-and-soil-health/","tags":["Environment/Land","Environment/Pollution","Farming"],"created":"2025-10-23T17:42:43.396+01:00","updated":"2026-09-30T19:55:01.185+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Environment/Land","Environment/Pollution","Farming"],"AI suggested tags":["Environment_Misc","Animal_Feed","Economics/Jobs"]}}
+{"dg-publish":true,"permalink":"/animal-agro-and-soil-health/","tags":["Environment/Land","Environment/Pollution","Farming"],"created":"2025-10-23T17:42:43.396+01:00","updated":"2026-09-30T23:02:29.012+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Environment/Land","Environment/Pollution","Farming"],"AI suggested tags":["Environment","Animal_Feed","Economics/Jobs"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bio-gas/","tags":["Environment/GHG","Environment/Pollution","Factory_Farming"],"created":"2025-10-23T17:42:42.883+01:00","updated":"2026-09-30T19:55:01.220+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Environment/GHG","Environment/Pollution","Factory_Farming"],"AI suggested tags":["Environment_Misc","Farming","Environment/Land"]}}
+{"dg-publish":true,"permalink":"/bio-gas/","tags":["Environment/GHG","Environment/Pollution","Factory_Farming"],"created":"2025-10-23T17:42:42.883+01:00","updated":"2026-09-30T23:02:29.038+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Environment/GHG","Environment/Pollution","Factory_Farming"],"AI suggested tags":["Environment","Farming","Environment/Land"]}}
 ---
 
 

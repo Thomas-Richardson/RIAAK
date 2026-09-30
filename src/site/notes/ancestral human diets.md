@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestral-human-diets/","tags":[null],"created":"2025-10-23T17:42:47.751+01:00","updated":"2026-09-30T19:55:03.624+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":[null],"AI suggested tags":["citation","Veganism","animal_advocacy"]}}
+{"dg-publish":true,"permalink":"/ancestral-human-diets/","tags":["Anthropology"],"created":"2025-10-23T17:42:47.751+01:00","updated":"2026-09-30T19:55:03.624+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Anthropology"],"AI suggested tags":["Diet","Health/Nutrition","Veg_Diets"]}}
 ---
 
 

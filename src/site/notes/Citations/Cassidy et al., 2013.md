@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/cassidy-et-al-2013/","tags":["Animal_Feed","Citation","Environment/Land","Farming"],"created":"2025-10-23T17:42:44.668+01:00","updated":"2026-09-30T19:55:01.435+01:00","dg-note-properties":{"tags":["Animal_Feed","Citation","Environment/Land","Farming"],"Note Type":"undefined","AI suggested tags":["MFA_Food_Sec","Food_Security","Environment_Misc"]}}
+{"dg-publish":true,"permalink":"/citations/cassidy-et-al-2013/","tags":["Animal_Feed","Citation","Environment/Land","Farming"],"created":"2025-10-23T17:42:44.668+01:00","updated":"2026-09-30T23:02:29.369+01:00","dg-note-properties":{"tags":["Animal_Feed","Citation","Environment/Land","Farming"],"Note Type":"undefined","AI suggested tags":["MFA_Food_Sec","Food_Security","Environment"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/lobbying-through-public-consultation-animal-ask/","tags":["wild_animals"],"created":"2025-10-23T17:42:45.640+01:00","updated":"2025-10-23T19:20:34.055+01:00"}
+{"dg-publish":true,"permalink":"/citations/lobbying-through-public-consultation-animal-ask/","tags":["Wild_Animals"],"created":"2025-10-23T17:42:45.640+01:00","updated":"2026-09-30T19:55:01.778+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.animalask.org/post/lobbying-through-public-consultation","tags":["Wild_Animals"],"Year Published":"2024","AI suggested tags":["Strategy","Policy","Public_Opinion"]}}
 ---
 
 Governments often conduct public consultations in which stakeholders can submit their view on a proposed policy. This is especially common in Western democracies such as Australia, Canada, New Zealand, the United States, and the European Union. Perhaps because of pressure for governments to be perceived as more participatory, their use has become more prevalent over time (Kerley and Starr 2000). Additionally, they are often practised by sub jurisdictions within countries, such as states, provinces or cities.
@@ -14,3 +14,9 @@ However, it is easy to miss opportunities in adjacent policy fields, even when t
 *   The election of citizens to a new Recreational Fishing Advisory Council in South Australia
 *   Timber harvesting regulations in Victoria, Australia
 Of course, the animal advocacy movement would not have been able to influence all of these policies - but the movement could have influenced many. Particularly if one considers the multitude of national, state, and local governments that are holding public consultations at any given time, this could represent a major opportunity for the animal advocacy movement to sway many policies, thereby improving the lives of animals.
+
+# AI suggested related articles
+
+- [[Citations/Establishing groups across or within major political parties (Animal Ask)\|Citations/Establishing groups across or within major political parties (Animal Ask)]] (0.70)
+- [[Citations/The challenges with measuring the impact of lobbying (Animal Ask)\|Citations/The challenges with measuring the impact of lobbying (Animal Ask)]] (0.69)
+- [[Citations/Animal Advocacy in Canada (Animal Ask)\|Citations/Animal Advocacy in Canada (Animal Ask)]] (0.69)

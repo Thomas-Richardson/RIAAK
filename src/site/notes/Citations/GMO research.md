@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/gmo-research/","tags":["Asia","Citation","Lower_Middle_Income_Countries"],"created":"2025-10-23T17:42:46.770+01:00","updated":"2026-09-30T19:55:01.612+01:00","dg-note-properties":{"tags":["Asia","Citation","Lower_Middle_Income_Countries"],"AI suggested tags":["Consumer_Research","Bryant/Project/Good_Growth_Social_Listening","SE_Asia"]}}
+{"dg-publish":true,"permalink":"/citations/gmo-research/","tags":["Asia","Citation","Lower_Middle_Income_Countries"],"created":"2025-10-23T17:42:46.770+01:00","updated":"2026-09-30T23:02:29.534+01:00","dg-note-properties":{"tags":["Asia","Citation","Lower_Middle_Income_Countries"],"AI suggested tags":["Consumer_Research","Bryant_Research/Project/Good_Growth_Social_Listening","SE_Asia"]}}
 ---
 
 

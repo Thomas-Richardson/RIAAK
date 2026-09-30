@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blogs-and-articles/tactics-in-practice-the-science-of-protests-and-demonstrations/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:47.574+01:00","updated":"2026-09-30T19:55:03.630+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":[null,null,null,null,null],"AI suggested tags":["statistics","movement_building","strategy"]}}
+{"dg-publish":true,"permalink":"/blogs-and-articles/tactics-in-practice-the-science-of-protests-and-demonstrations/","tags":["Tactics","Research/Faunalytics","Activism","Protest","Strategy"],"created":"2025-10-23T17:42:47.574+01:00","updated":"2026-09-30T19:55:03.630+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Tactics","Research/Faunalytics","Activism","Protest","Strategy"],"AI suggested tags":["Public_Opinion","Behaviour_Change","Retention"]}}
 ---
 
 [Photo by Chuko Cribb on Unsplash](https://unsplash.com/photos/woman-in-white-long-sleeve-shirt-and-black-skirt-sitting-on-chair-G7o5XQcykBI)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/love-et-al-2025/","created":"2025-10-23T17:42:44.472+01:00","updated":"2025-10-23T18:12:10.178+01:00"}
+{"dg-publish":true,"permalink":"/citations/love-et-al-2025/","tags":["Fish","Environment/GHG","High_Income_Countries/USA","Animal_Feed"],"created":"2025-10-23T17:42:44.472+01:00","updated":"2026-09-30T19:55:01.785+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.sciencedirect.com/science/article/pii/S0959378025000019","tags":["Fish","Environment/GHG","High_Income_Countries/USA","Animal_Feed"],"Year Published":"2025","AI suggested tags":["Fish/Farmed","Environment/Land","Environment"]}}
 ---
 
 ## Highlights

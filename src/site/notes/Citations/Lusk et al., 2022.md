@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/lusk-et-al-2022/","tags":["cows"],"created":"2025-10-23T17:42:46.562+01:00","updated":"2025-10-23T17:42:46.562+01:00"}
+{"dg-publish":true,"permalink":"/citations/lusk-et-al-2022/","tags":["Cows"],"created":"2025-10-23T17:42:46.562+01:00","updated":"2026-09-30T19:55:01.792+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Cows"],"citation":"Lusk, J. L., Blaustein-Rejto, D., Shah, S., & Tonsor, G. T. (2022). Impact of plant-based meat alternatives on cattle inventories and greenhouse gas emissions. _Environmental Research Letters_.","Url":"https://iopscience.iop.org/article/10.1088/1748-9326/ac4fda/meta","AI suggested tags":["Economics","Meat","Citation"]}}
 ---
 
 - [[Do vegan products reduce demand for ASFs\|Do vegan products reduce demand for ASFs]]

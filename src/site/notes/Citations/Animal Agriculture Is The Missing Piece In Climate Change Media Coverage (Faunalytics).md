@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/animal-agriculture-is-the-missing-piece-in-climate-change-media-coverage-faunalytics/","tags":["Environment/Climate_Change","Meat_Industry","Narratives"],"created":"2026-01-28T10:44:57.727+00:00","updated":"2026-09-30T19:55:01.326+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/animal-ag-in-climate-media/","tags":["Environment/Climate_Change","Meat_Industry","Narratives"],"Year Published":"2023","AI suggested tags":["Environment_Misc","Environment/GHG","Environment/Land"]}}
+{"dg-publish":true,"permalink":"/citations/animal-agriculture-is-the-missing-piece-in-climate-change-media-coverage-faunalytics/","tags":["Environment/Climate_Change","Meat_Industry","Narratives"],"created":"2026-01-28T10:44:57.727+00:00","updated":"2026-09-30T23:02:29.257+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/animal-ag-in-climate-media/","tags":["Environment/Climate_Change","Meat_Industry","Narratives"],"Year Published":"2023","AI suggested tags":["Environment","Environment/GHG","Environment/Land"]}}
 ---
 
 A research collaboration between Faunalytics and Sentient Media finds that very little media coverage of climate change focuses on animal agriculture, a major cause of the phenomenon.

@@ -1,0 +1,17 @@
+---
+{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/building-the-field-inside-the-animal-law-practice-association-with-cheryl-leahy/","tags":["Law","Movement_Building","High_Income_Countries/USA"],"created":"2026-08-20T15:18:17.000+01:00","updated":"2026-09-30T19:55:03.102+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/alp134/","tags":["Law","Movement_Building","High_Income_Countries/USA"],"Year Published":"2026","AI suggested tags":["Companion_Animals","Activism","Working_Conditions"]}}
+---
+
+This week, Mariann Sullivan sits down with Cheryl Leahy, director of the newly launched Animal Law Practice Association (ALPA) at the Brooks Institute for Animal Rights Law and Policy, to unpack how the free program is training and connecting lawyers who want to build careers protecting animals. Cheryl explains ALPA’s two core pillars — a growing library of practical, topic-specific legal resources (like an in-depth FOIA guide) and a mentorship-driven community network — and dives into the question every attorney actually wants answered: can you really make a living practicing animal law? The conversation covers everything from dangerous dog hearings and dog bite liability insurance to False Claims Act opportunities and third-party litigation funding as an underused tool for animal law cases.
+
+- What ALPA offers: a free membership program pairing a detailed practice-topic library with a mentorship and networking community for licensed U.S. attorneys
+- Making animal law pay: why practice models range from pro bono and boutique firms to full-time solo practices, big-law pro bono work, and highly specialized, fee-generating litigation
+- Dog bite law deep dive: the overlooked world of dangerous dog hearings, why dog bite liability insurance matters, and the surge in civil dog bite litigation
+- Untapped funding strategies: how False Claims Act cases and third-party litigation funding — a $15 billion industry — could bankroll more animal law cases, including smaller ones through case “bundling”
+- Growing the field: the case for hybrid practices, co-counseling, legal incubators, and mainstreaming animal law expertise across every type of firm and practice area
+
+Cheryl Leahy is the Director of the newly-launched Animal Law Practice Association (ALPA) at the Brooks Institute for Animal Rights Law & Policy. The purpose of the ALPA is to provide practical resources and a network of support to introduce and improve lawyers’ skills in representing animal interests. The ALPA fills crucial gaps to move lawyers – whether newer or seasoned and no matter their primary practice discipline – with a passion for animals to effectively utilize their legal skills to maximize impact for animals.
+
+Cheryl also serves on the board of directors for Animal Outlook, where she previously served as Executive Director, focusing on the development and oversight of its investigations, impact litigation, and policy work, and on effecting mainstream corporate and cultural change to shift away from animal agriculture. She also developed and taught one of the nation’s first courses on animals in agriculture and the law at UCLA Law and is a regular speaker at law schools and conferences. Cheryl and her work have been featured in academic journals as well as media outlets including The Washington Post, NPR, and the New York Times.
+
+🎧 [Listen to this episode](https://www.ourhenhouse.org/alp134/) — *The Animal Law Podcast*, 31 July 2026

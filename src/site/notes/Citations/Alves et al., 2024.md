@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/alves-et-al-2024/","created":"2025-10-23T17:42:46.372+01:00","updated":"2025-10-23T18:12:10.247+01:00"}
+{"dg-publish":true,"permalink":"/citations/alves-et-al-2024/","tags":["Europe","Environment/GHG","Environment/Land","Meat/Meat_Consumption"],"created":"2025-10-23T17:42:46.372+01:00","updated":"2026-09-30T19:55:01.313+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://academic.oup.com/eurpub/article/34/5/992/7679886","tags":["Europe","Environment/GHG","Environment/Land","Meat/Meat_Consumption"],"Year Published":"2024","AI suggested tags":["Dietary_Guidelines","Citation","Review"]}}
 ---
 
 Background

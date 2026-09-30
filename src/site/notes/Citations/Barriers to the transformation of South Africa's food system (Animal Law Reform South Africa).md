@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/barriers-to-the-transformation-of-south-africa-s-food-system-animal-law-reform-south-africa/","tags":["africa","movement_building","lower_middle_income_countries"],"created":"2025-10-23T17:42:45.980+01:00","updated":"2025-10-31T12:10:45.508+00:00"}
+{"dg-publish":true,"permalink":"/citations/barriers-to-the-transformation-of-south-africa-s-food-system-animal-law-reform-south-africa/","tags":["Africa","Movement_Building","Lower_Middle_Income_Countries"],"created":"2025-10-23T17:42:45.980+01:00","updated":"2026-09-30T19:55:01.369+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.animallawreform.org/wp-content/uploads/2022/07/Working-Paper-Food-Systems.pdf","tags":["Africa","Movement_Building","Lower_Middle_Income_Countries"],"Year Published":"2022","AI suggested tags":["Policy/Food_Policy","Policy","EU"]}}
 ---
 
 ## Executive summary

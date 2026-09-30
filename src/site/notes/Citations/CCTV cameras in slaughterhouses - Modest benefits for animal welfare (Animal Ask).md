@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/cctv-cameras-in-slaughterhouses-modest-benefits-for-animal-welfare-animal-ask/","created":"2025-10-23T17:42:46.698+01:00","updated":"2025-10-23T17:42:46.698+01:00"}
+{"dg-publish":true,"permalink":"/citations/cctv-cameras-in-slaughterhouses-modest-benefits-for-animal-welfare-animal-ask/","tags":["Animal_Welfare","Strategy","Meat_Industry","Policy"],"created":"2025-10-23T17:42:46.698+01:00","updated":"2026-09-30T19:55:01.416+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.animalask.org/post/cctv-cameras-in-slaughterhouses-modest-benefits-for-animal-welfare","tags":["Animal_Welfare","Strategy","Meat_Industry","Policy"],"Year Published":"2022","AI suggested tags":["Precision_Livestock_Farming","Chickens","Public_Opinion"]}}
 ---
 
 Due to the desire to reduce animal welfare violations, CCTV cameras have been installed in slaughterhouses in a number of jurisdictions around the world. This has been driven by legal requirements (e.g. England, Israel), agreements between industry and government (e.g. the Netherlands), or retailer requirements (e.g. United States).

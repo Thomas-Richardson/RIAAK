@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/behrens-2026/","created":"2026-02-06T10:44:38.051+00:00","updated":"2026-02-06T10:44:38.419+00:00"}
+{"dg-publish":true,"permalink":"/citations/behrens-2026/","tags":["High_Income_Countries/UK","Food_Security","Biodiversity","Environment/Climate_Change"],"created":"2026-02-06T10:44:38.051+00:00","updated":"2026-09-30T22:10:52.430+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.bmj.com/content/392/bmj.s199.full","tags":["High_Income_Countries/UK","Food_Security","Biodiversity","Environment/Climate_Change"],"Year Published":"2026","AI suggested tags":["Bryant/Project/CAWF_Food_Sec","UK"]}}
 ---
 
 The UK’s approach to food makes it increasingly vulnerable in an unstable world. A great food transformation with a focus on resilience is urgently needed, argues Paul Behrens. Last week the UK government released a national security assessment that should have sent shocks through the political establishment. The assessment, Global Biodiversity Loss, Ecosystem Collapse and National Security, applies the same analytical tools used for terrorism or nuclear threats to the ecological crisis. Its conclusion is stark: global ecosystem degradation poses a serious threat to UK food security, economic stability, and international security.

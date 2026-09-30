@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/barnard-et-al-2019/","tags":["eggs","Health/Nutrition","review"],"created":"2025-11-06T09:41:44.132+00:00","updated":"2026-02-03T13:27:21.527+00:00"}
+{"dg-publish":true,"permalink":"/citations/barnard-et-al-2019/","tags":["Eggs","Health/Nutrition","Review"],"created":"2025-11-06T09:41:44.132+00:00","updated":"2026-09-30T19:55:01.367+01:00","dg-note-properties":{"tags":["Eggs","Health/Nutrition","Review"],"Url":"https://pmc.ncbi.nlm.nih.gov/articles/PMC7958219/","citation":"Barnard, N. D., Long, M. B., Ferguson, J. M., Flores, R., & Kahleova, H. (2019). Industry funding and cholesterol research: a systematic review. _American Journal of Lifestyle Medicine_, 11;15(2):165-172 doi: [10.1177/1559827619892198](https://doi.org/10.1177/1559827619892198)","AI suggested tags":["Nuts","Citation","Meat/Red_Meat"]}}
 ---
 
 > [!NOTE] TLDR
@@ -20,3 +20,9 @@
 # Related
 - [[Health effects of eggs\|Health effects of eggs]] 
 - [[Animal Agriculture distorts research\|Animal Agriculture distorts research]] 
+
+# AI suggested related articles
+
+- [[Citations/Teimouri et al., 2026 1\|Citations/Teimouri et al., 2026 1]] (0.68)
+- [[Citations/Teimouri et al., 2026\|Citations/Teimouri et al., 2026]] (0.66)
+- [[Citations/Khan et al., 2025\|Citations/Khan et al., 2025]] (0.65)

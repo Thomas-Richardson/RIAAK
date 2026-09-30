@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/big-ag-big-bucks-how-usda-subsidies-feed-market-inequality-and-political-influence-faunalytics/","created":"2026-01-28T10:56:06.524+00:00","updated":"2026-01-29T05:00:06.710+00:00"}
+{"dg-publish":true,"permalink":"/citations/big-ag-big-bucks-how-usda-subsidies-feed-market-inequality-and-political-influence-faunalytics/","tags":["High_Income_Countries/USA","Policy","Politics","Economics","Meat_Industry"],"created":"2026-01-28T10:56:06.524+00:00","updated":"2026-09-30T19:55:01.389+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/usda-grant-analysis/","tags":["High_Income_Countries/USA","Policy","Politics","Economics","Meat_Industry"],"Year Published":"2025","AI suggested tags":["USA","Factory_Farming","Farmers"]}}
 ---
 
 This Faunalytics report dives into the murky world of USDA subsidies, where multimillion-dollar grants create an uneven playing field, supporting already massive animal agriculture enterprises with taxpayer money.

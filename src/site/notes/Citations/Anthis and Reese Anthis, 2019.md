@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/anthis-and-reese-anthis-2019/","tags":["citation","factory_farming"],"created":"2025-10-23T17:42:45.465+01:00","updated":"2025-10-31T14:43:31.367+00:00"}
+{"dg-publish":true,"permalink":"/citations/anthis-and-reese-anthis-2019/","tags":["Citation","Factory_Farming"],"created":"2025-10-23T17:42:45.465+01:00","updated":"2026-09-30T19:55:01.339+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Citation","Factory_Farming"],"AI suggested tags":["USA","Animal_Feed","Farming"]}}
 ---
 
 
@@ -23,3 +23,10 @@ https://docs.google.com/spreadsheets/d/1Njl_GS7jDOELjOtywvk3thIFpW_v10uZ5APJl1Kg
 [^2]: http://www.worldwatch.org/rising-number-farm-animals-poses-environmental-and-public-health-risks-0) Please note that a CAFO [as defined by the EPA](https://www3.epa.gov/npdes/pubs/sector_table.pdf) and what the public would regard as a "factory farm" are not necessarily the same. For instance, a farm with 37,500 chickens or 3,000 pigs is only considered a CAFO if it meets certain conditions regarding surface water pollution, but farms of these sizes that don't meet these conditions could still house animals in ways that would be publicly regarded as crowded "factory" conditions.
  
 
+
+
+# AI suggested related articles
+
+- [[Citations/Global Animal Slaughter Statistics And Charts- 2018 (Faunalytics)\|Citations/Global Animal Slaughter Statistics And Charts- 2018 (Faunalytics)]] (0.75)
+- [[Citations/Global Animal Slaughter Statistics & Charts (Faunalytics)\|Citations/Global Animal Slaughter Statistics & Charts (Faunalytics)]] (0.73)
+- [[The scale of industrial animal agriculture\|The scale of industrial animal agriculture]] (0.73)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/animal-think-tank-2024/","tags":["narratives","High_Income_Countries/UK"],"created":"2025-10-23T17:42:46.706+01:00","updated":"2025-12-10T12:59:34.380+00:00"}
+{"dg-publish":true,"permalink":"/citations/animal-think-tank-2024/","tags":["Narratives","High_Income_Countries/UK"],"created":"2025-10-23T17:42:46.706+01:00","updated":"2026-09-30T19:55:01.332+01:00","dg-note-properties":{"excalidraw-url-prefix":null,"Url":"https://animalthinktank.substack.com/p/narrative-sneak-peeks-how-to-increase","tags":["Narratives","High_Income_Countries/UK"],"Note Type":"Think Tank / NGO Report","AI suggested tags":["Public_Opinion","Consumer_Attitudes","Messaging"]}}
 ---
 
 

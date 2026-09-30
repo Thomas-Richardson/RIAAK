@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/communicating-with-u-s-legislators-what-has-the-greatest-impact-faunalytics/","created":"2026-01-28T11:03:09.794+00:00","updated":"2026-01-29T05:00:06.499+00:00"}
+{"dg-publish":true,"permalink":"/citations/communicating-with-u-s-legislators-what-has-the-greatest-impact-faunalytics/","tags":["High_Income_Countries/USA","Policy","Tactics","Messaging"],"created":"2026-01-28T11:03:09.794+00:00","updated":"2026-09-30T19:55:01.453+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/aspca-legislative-alerts-study/","tags":["High_Income_Countries/USA","Policy","Tactics","Messaging"],"Year Published":"2004","AI suggested tags":["Public_Opinion","Research/Methods","Strategy"]}}
 ---
 
 Directing advocacy efforts towards state legislators is key to achieving policy change. This 2004 study, conducted by the Humane Research Council (now Faunalytics) on behalf of the ASPCA, set out to determine the most effective communication methods with U.S. state legislators based on 77 interviews with legislative offices.

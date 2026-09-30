@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/catching-up-fish-welfare-in-wild-capture-fisheries-eurogroup-for-animals/","created":"2025-10-26T17:19:40.373+00:00","updated":"2025-10-26T17:19:40.374+00:00"}
+{"dg-publish":true,"permalink":"/citations/catching-up-fish-welfare-in-wild-capture-fisheries-eurogroup-for-animals/","tags":["Fish","Wild_Animals","Animal_Welfare"],"created":"2025-10-26T17:19:40.373+00:00","updated":"2026-09-30T19:55:01.436+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Fish","Wild_Animals","Animal_Welfare"],"source_url":"https://www.eurogroupforanimals.org/files/eurogroupforanimals/2021-11/2021_01_12_eurogroup_for_animals_wild_fisheries_report_updated.pdf","created":"2025-10-26","AI suggested tags":["Fish/Farmed","Attitudes","EU"]}}
 ---
 
 

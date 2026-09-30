@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/bray-et-al-2024/","tags":["Note","Type","citation","economics","undefined"],"created":"2025-10-23T17:42:46.872+01:00","updated":"2025-10-31T14:42:34.597+00:00"}
+{"dg-publish":true,"permalink":"/citations/bray-et-al-2024/","tags":["Citation","Economics"],"created":"2025-10-23T17:42:46.872+01:00","updated":"2026-09-30T19:55:01.405+01:00","dg-note-properties":{"tags":["Citation","Economics"],"AI suggested tags":["Meat","Review","Economics/Costs"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/bouyssou-et-al-2024/","tags":["Note","Type","citation","economics","Meat","undefined"],"created":"2025-10-23T17:42:46.135+01:00","updated":"2025-12-10T12:58:35.585+00:00"}
+{"dg-publish":true,"permalink":"/citations/bouyssou-et-al-2024/","tags":["Citation","Economics","Meat"],"created":"2025-10-23T17:42:46.135+01:00","updated":"2026-09-30T19:55:01.402+01:00","dg-note-properties":{"tags":["Citation","Economics","Meat"],"AI suggested tags":["Review","Meat/Meat_Consumption","Economics/Costs"]}}
 ---
 
 

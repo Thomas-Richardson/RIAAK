@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/campbell-arvai-et-al-2014/","tags":["behaviour_change"],"created":"2025-10-23T17:42:45.604+01:00","updated":"2026-01-06T20:22:37.854+00:00"}
+{"dg-publish":true,"permalink":"/citations/campbell-arvai-et-al-2014/","tags":["Behaviour_Change"],"created":"2025-10-23T17:42:45.604+01:00","updated":"2026-09-30T19:55:01.429+01:00","dg-note-properties":{"tags":["Behaviour_Change"],"Note Type":"Academic Paper","AI suggested tags":["Nudging","Meat/Meat_Reduction","Consumer_Research"]}}
 ---
 
 

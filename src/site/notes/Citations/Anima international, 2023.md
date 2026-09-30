@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/anima-international-2023/","tags":[null],"created":"2025-10-23T17:42:45.152+01:00","updated":"2025-10-31T14:43:31.358+00:00"}
+{"dg-publish":true,"permalink":"/citations/anima-international-2023/","tags":["Farmers"],"created":"2025-10-23T17:42:45.152+01:00","updated":"2026-09-30T19:55:01.318+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Farmers"],"AI suggested tags":["Europe","Farming","EU"]}}
 ---
 
 

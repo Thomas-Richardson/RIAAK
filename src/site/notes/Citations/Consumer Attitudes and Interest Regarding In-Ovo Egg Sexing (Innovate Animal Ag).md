@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/consumer-attitudes-and-interest-regarding-in-ovo-egg-sexing-innovate-animal-ag/","created":"2025-10-23T17:42:45.105+01:00","updated":"2025-10-23T17:42:45.106+01:00"}
+{"dg-publish":true,"permalink":"/citations/consumer-attitudes-and-interest-regarding-in-ovo-egg-sexing-innovate-animal-ag/","tags":["Eggs","Consumer_Attitudes","High_Income_Countries/USA","Consumer_Research"],"created":"2025-10-23T17:42:45.105+01:00","updated":"2026-09-30T19:55:01.458+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Eggs","Consumer_Attitudes","High_Income_Countries/USA","Consumer_Research"],"source_url":"https://static1.squarespace.com/static/5e36c25824fc0a1ce060426d/t/67acfef0bee6dd616a0e6914/1739390711283/FSRF+2023-04-27.pdf","created":"2025-10-23","AI suggested tags":["Public_Opinion","Chickens","EU"]}}
 ---
 
 

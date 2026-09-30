@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/can-we-build-support-for-welfare-enforcement-animal-think-tank/","created":"2025-10-23T17:42:45.577+01:00","updated":"2025-10-23T17:42:45.578+01:00"}
+{"dg-publish":true,"permalink":"/citations/can-we-build-support-for-welfare-enforcement-animal-think-tank/","tags":["Public_Opinion","Messaging","High_Income_Countries/UK","Policy"],"created":"2025-10-23T17:42:45.577+01:00","updated":"2026-09-30T19:55:01.432+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Public_Opinion","Messaging","High_Income_Countries/UK","Policy"],"source_url":"https://animalthinktank.org.uk/wp-content/uploads/2025/03/Animal-Equality-Enforcement-campaign-message-testing-Dec-2023.pdf","created":"2025-10-23","AI suggested tags":["Consumer_Attitudes","Consumer_Research","Strategy"]}}
 ---
 
 

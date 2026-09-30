@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/berners-lee-watson-and-hewitt-2018/","tags":["animal_feed","citation","Environment/Land","farming","food_security"],"created":"2025-10-23T17:42:45.924+01:00","updated":"2025-11-04T12:10:04.084+00:00"}
+{"dg-publish":true,"permalink":"/citations/berners-lee-watson-and-hewitt-2018/","tags":["Animal_Feed","Citation","Environment/Land","Farming","Food_Security"],"created":"2025-10-23T17:42:45.924+01:00","updated":"2026-09-30T19:55:01.380+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Animal_Feed","Citation","Environment/Land","Farming","Food_Security"],"AI suggested tags":["MFA_Food_Sec","Environment_Misc","Lower_Middle_Income_Countries"]}}
 ---
 
 
@@ -53,3 +53,9 @@ Even after allowing for a conservatively high factor of four difference between 
 - all regions actually produce enough calories
 - All regions consume enough protein
 - Industrialised Asia is the only region with a significant net surplus in human consumption above the ARI of naturally produced vitamin A. Every other region of the world has a deficit in vitamin A consumption, unless this is mitigated by fortification and/or supplements.
+
+# AI suggested related articles
+
+- [[Citations/Shepon, Eshel, Noor and Milo, 2018\|Citations/Shepon, Eshel, Noor and Milo, 2018]] (0.78)
+- [[Citations/Mottet et al., 2017\|Citations/Mottet et al., 2017]] (0.76)
+- [[Animal agriculture takes up lots of land but provide few calories\|Animal agriculture takes up lots of land but provide few calories]] (0.72)

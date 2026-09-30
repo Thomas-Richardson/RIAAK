@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/animal-product-impact-scales-2022-update-faunalytics/","created":"2026-01-28T10:49:13.069+00:00","updated":"2026-01-29T05:00:06.769+00:00"}
+{"dg-publish":true,"permalink":"/citations/animal-product-impact-scales-2022-update-faunalytics/","tags":["Meat/Meat_Reduction","Animal_Welfare","High_Income_Countries/USA"],"created":"2026-01-28T10:49:13.069+00:00","updated":"2026-09-30T19:55:01.329+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/animal-product-impact-scales-2022-update/","tags":["Meat/Meat_Reduction","Animal_Welfare","High_Income_Countries/USA"],"Year Published":"2022","AI suggested tags":["Research/Methods","Dairy","Meat/Meat_Consumption"]}}
 ---
 
 From fish filets to ice cream, we have updated our impact scales to include additional nuances, better estimates, and updated statistics.

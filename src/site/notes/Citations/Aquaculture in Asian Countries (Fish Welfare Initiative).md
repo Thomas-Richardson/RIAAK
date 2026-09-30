@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/aquaculture-in-asian-countries-fish-welfare-initiative/","created":"2025-10-26T17:31:42.815+00:00","updated":"2025-10-26T17:31:42.816+00:00"}
+{"dg-publish":true,"permalink":"/citations/aquaculture-in-asian-countries-fish-welfare-initiative/","tags":["Asia","Fish/Farmed","Animal_Welfare","Policy"],"created":"2025-10-26T17:31:42.815+00:00","updated":"2026-09-30T19:55:01.341+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Asia","Fish/Farmed","Animal_Welfare","Policy"],"source_url":"https://files.fwi.fish/Aquaculture_Asia.pdf","created":"2025-10-26","AI suggested tags":["Fish","China","EU"]}}
 ---
 
 

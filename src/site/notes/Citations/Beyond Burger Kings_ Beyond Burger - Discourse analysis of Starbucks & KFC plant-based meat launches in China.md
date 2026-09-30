@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/beyond-burger-kings-beyond-burger-discourse-analysis-of-starbucks-and-kfc-plant-based-meat-launches-in-china/","created":"2025-10-23T17:42:45.778+01:00","updated":"2025-10-23T17:42:45.779+01:00"}
+{"dg-publish":true,"permalink":"/citations/beyond-burger-kings-beyond-burger-discourse-analysis-of-starbucks-and-kfc-plant-based-meat-launches-in-china/","tags":["Alternative_Proteins/Plant_Based","China","Consumer_Attitudes","Marketing"],"created":"2025-10-23T17:42:45.778+01:00","updated":"2026-09-30T19:55:01.384+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Alternative_Proteins/Plant_Based","China","Consumer_Attitudes","Marketing"],"source_url":"https://static1.squarespace.com/static/5e36c25824fc0a1ce060426d/t/666aeba1a3b1fb3c3d055dd5/1718283169874/FSRF+33+.pdf","created":"2025-10-23","AI suggested tags":["Consumer_Research","Alternative_Proteins","Plant_Based/Marketing"]}}
 ---
 
 

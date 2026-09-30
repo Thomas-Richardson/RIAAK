@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/animal-advocacy-in-zimbabwe-animal-ask/","tags":["africa","lower_middle_income_countries"],"created":"2025-10-23T17:42:44.589+01:00","updated":"2025-10-23T17:42:44.590+01:00"}
+{"dg-publish":true,"permalink":"/citations/animal-advocacy-in-zimbabwe-animal-ask/","tags":["Africa","Lower_Middle_Income_Countries"],"created":"2025-10-23T17:42:44.589+01:00","updated":"2026-09-30T19:55:01.336+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.animalask.org/post/farmed-animal-advocacy-in-zimbabwe","tags":["Africa","Lower_Middle_Income_Countries"],"Year Published":"2023","AI suggested tags":["Strategy","Animal_Welfare","Policy"]}}
 ---
 
 We have a responsibility to care for the animals in our care and to provide them with the conditions necessary for their welfare. Animal welfare is also important for agricultural productivity, as higher-welfare conditions typically means mortality is lower. This can help alleviate food scarcity. Human and environmental health can also benefit from higher animal welfare.

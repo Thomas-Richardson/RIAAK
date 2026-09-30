@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/blackmore-et-al-2018/","tags":["Note","Type","citation","farming","lower_middle_income_countries","undefined"],"created":"2025-10-23T17:42:44.320+01:00","updated":"2025-10-31T14:42:34.576+00:00"}
+{"dg-publish":true,"permalink":"/citations/blackmore-et-al-2018/","tags":["Citation","Farming","Lower_Middle_Income_Countries"],"created":"2025-10-23T17:42:44.320+01:00","updated":"2026-09-30T19:55:01.394+01:00","dg-note-properties":{"tags":["Citation","Farming","Lower_Middle_Income_Countries"],"AI suggested tags":["MFA_Food_Sec","Review","Animal_Feed"]}}
 ---
 
 

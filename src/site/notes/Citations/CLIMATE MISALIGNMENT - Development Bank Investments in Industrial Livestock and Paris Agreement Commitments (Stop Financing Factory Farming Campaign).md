@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/climate-misalignment-development-bank-investments-in-industrial-livestock-and-paris-agreement-commitments-stop-financing-factory-farming-campaign/","created":"2026-02-20T10:48:58.498+00:00","updated":"2026-02-20T10:48:59.111+00:00"}
+{"dg-publish":true,"permalink":"/citations/climate-misalignment-development-bank-investments-in-industrial-livestock-and-paris-agreement-commitments-stop-financing-factory-farming-campaign/","tags":["Financial_Activism","Factory_Farming","Environment/Climate_Change","Lower_Middle_Income_Countries"],"created":"2026-02-20T10:48:58.498+00:00","updated":"2026-09-30T19:55:01.420+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Financial_Activism","Factory_Farming","Environment/Climate_Change","Lower_Middle_Income_Countries"],"source_url":"https://foodrise.org.uk/wp-content/uploads/2023/06/SFFF_ClimateMisalignment.pdf","created":"2026-02-20","AI suggested tags":["Sinergia_Defunding_Project","Meat_Industry","Environment/GHG"]}}
 ---
 
 

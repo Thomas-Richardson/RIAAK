@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/caught-out-changing-markets-foundation-et-al/","created":"2026-02-03T21:35:55.024+00:00","updated":"2026-02-04T05:17:18.775+00:00"}
+{"dg-publish":true,"permalink":"/citations/caught-out-changing-markets-foundation-et-al/","tags":["Animal_Feed","Fish/Farmed","High_Income_Countries/UK","Retailers"],"created":"2026-02-03T21:35:55.024+00:00","updated":"2026-09-30T19:55:01.414+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Animal_Feed","Fish/Farmed","High_Income_Countries/UK","Retailers"],"source_url":"https://changingmarkets.org/wp-content/uploads/2023/10/Caught_Out_Report_FINAL.pdf","created":"2026-02-03","AI suggested tags":["Fish","Food_Security","EU"]}}
 ---
 
 

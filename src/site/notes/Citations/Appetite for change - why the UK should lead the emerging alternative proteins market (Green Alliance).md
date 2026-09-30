@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/appetite-for-change-why-the-uk-should-lead-the-emerging-alternative-proteins-market-green-alliance/","tags":[null,null,null,"economics","farming","Economics/jobs"],"created":"2025-10-23T17:42:45.191+01:00","updated":"2025-11-06T18:33:58.668+00:00"}
+{"dg-publish":true,"permalink":"/citations/appetite-for-change-why-the-uk-should-lead-the-emerging-alternative-proteins-market-green-alliance/","tags":["Alternative_Proteins","Alternative_Proteins/Cultivated_Meat","Citation","Economics","Farming","Economics/Jobs"],"created":"2025-10-23T17:42:45.191+01:00","updated":"2026-09-30T22:10:52.416+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Alternative_Proteins","Alternative_Proteins/Cultivated_Meat","Citation","Economics","Farming","Economics/Jobs"],"Url":"https://green-alliance.org.uk/wp-content/uploads/2023/08/Appetite_for_change.pdf","AI suggested tags":["Alternative_Proteins/Precision_Fermentation","Food_Security","Bryant/Project/CAWF_Food_Sec"]}}
 ---
 
 
@@ -52,7 +52,7 @@ See Reference 24 for job creation including farming and manufacturing. Important
 
 
 ## Economic
-#economics 
+#Economics 
 - The U.K. alt-protein industry could be worth up to £6.8 billion and create 25,000 jobs, including in farming, production, and manufacturing. 
 	- [[The number of alt-protein companies in the UK\|The number of alt-protein companies in the UK]]
 	- [[The economic value of alternative proteins\|The economic value of alternative proteins]]
@@ -67,5 +67,12 @@ See Reference 24 for job creation including farming and manufacturing. Important
 ## Recommendations
 - Support research and infrastructure: This can help the industry scale up production. The author recommends investing £250 million into two promising regions, Teesside and the “Golden Triangle” (London, Oxford, and Cambridge).
 - **Bring together a currently fragmented industry:** The government should work on linking up the various sectors and institutions needed to create a flourishing alt-protein sector.
-- Connect farmers with alt-protein producers #farming 
+- Connect farmers with alt-protein producers #Farming 
 - Ensure that UK and EU standards do not become disconnected
+
+
+# AI suggested related articles
+
+- [[Citations/Recipe for resilience - the benefits of a thriving plant-based protein sector in the UK (Green Alliance)\|Citations/Recipe for resilience - the benefits of a thriving plant-based protein sector in the UK (Green Alliance)]] (0.82)
+- [[Alt proteins and UK farming policy\|Alt proteins and UK farming policy]] (0.78)
+- [[Boosting UK food security with Alternative Proteins\|Boosting UK food security with Alternative Proteins]] (0.77)

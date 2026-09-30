@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/animal-advocacy-in-the-u-s-and-canada-advocate-origins-faunalytics/","created":"2026-01-28T10:59:59.453+00:00","updated":"2026-01-29T05:00:06.756+00:00"}
+{"dg-publish":true,"permalink":"/citations/animal-advocacy-in-the-u-s-and-canada-advocate-origins-faunalytics/","tags":["Movement_Building","High_Income_Countries/USA","Canada","Companion_Animals"],"created":"2026-01-28T10:59:59.453+00:00","updated":"2026-09-30T19:55:01.321+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/animal-advocacy-in-the-u-s-canada-advocate-origins/","tags":["Movement_Building","High_Income_Countries/USA","Canada","Companion_Animals"],"Year Published":"2020","AI suggested tags":["Retention","Public_Opinion","Consumer_Attitudes"]}}
 ---
 
 Faunalytics’ study of animal advocacy in the U.S. and Canada included questions about how advocates got their start in the movement. This analysis provides more detail about those questions.
@@ -14,6 +14,10 @@ How someone became involved in the movement—through media, interpersonal exper
 Similarly, advocates’ first cause area—farmed animals, companion animals, or other types of animals—was related to how long they’ve been involved in the movement, with advocates for farmed animals being the most junior on average. As expected, an advocate’s first cause area was also related to diet—advocates for farmed animals were more likely to be vegan or plant-based than advocates for companion animals. But advocates’ first cause area was not related to their level of education, their hours per week, or whether or not they are compensated for their efforts.
 
 Finally, we found there is considerable variability in advocates’ cause areas over time. Our results suggest that for a majority of advocates (between 51% and 86%), their initial area of interest is relatively stable over time, especially with respect to advocates of farmed animals—just over 85% of advocates who started out supporting farmed animals continue to do so. But our results also suggest that advocates’ areas of interest shift over time, as well, often to include farmed animals.
+
+
 # AI suggested related articles
 
-⚠️ AI suggested related articles could not be generated because this note has not been embedded yet.
+- [[Citations/Planting Seeds- The Impact Of Diet & Different Animal Advocacy Tactics (Faunalytics)\|Citations/Planting Seeds- The Impact Of Diet & Different Animal Advocacy Tactics (Faunalytics)]] (0.88)
+- [[Citations/The State Of Animal Advocacy In The U.S. & Canada- Experiences & Turnover (Faunalytics)\|Citations/The State Of Animal Advocacy In The U.S. & Canada- Experiences & Turnover (Faunalytics)]] (0.86)
+- [[Citations/Twitter Trends- CageFree, Vegan, AnimalRights, and More (Faunalytics)\|Citations/Twitter Trends- CageFree, Vegan, AnimalRights, and More (Faunalytics)]] (0.85)

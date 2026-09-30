@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/citations/bean-facts-the-food-foundation/","tags":["Legumes"],"created":"2025-11-07T10:29:39.842+00:00","updated":"2025-11-07T10:40:25.033+00:00"}
+{"dg-publish":true,"permalink":"/citations/bean-facts-the-food-foundation/","tags":["Legumes"],"created":"2025-11-07T10:29:39.842+00:00","updated":"2026-09-30T19:55:01.358+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Legumes"],"source_url":"https://foodfoundation.org.uk/sites/default/files/2025-10/TFF_Beans%20Facts_DIGITAL.pdf","created":"2025-11-07","AI suggested tags":["UK","Food_Security","High_Income_Countries/UK"]}}
 ---
 
-Technical note here: https://foodfoundation.org.uk/sites/default/files/2025-10/Technical%20note_Bean%20Facts.pdf #data 
+Technical note here: https://foodfoundation.org.uk/sites/default/files/2025-10/Technical%20note_Bean%20Facts.pdf #Data 
 
 *   **Low Consumption:** On average, people in the UK eat just one portion of beans a week, and two-thirds (66%) of the population eat less than one portion per week. To align with the Planetary Health Diet, UK bean consumption would need to increase seven-fold.
 *   **Health Impacts:** Diets low in legumes are associated with up to 9,000 premature deaths in the UK each year. Beans are a powerful source of fibre; a single portion contains 100% more fibre than a chicken breast and 2.5 times more than two slices of white bread.

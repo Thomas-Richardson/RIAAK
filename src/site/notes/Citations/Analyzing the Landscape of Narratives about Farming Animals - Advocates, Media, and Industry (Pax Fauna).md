@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/analyzing-the-landscape-of-narratives-about-farming-animals-advocates-media-and-industry-pax-fauna/","tags":["#narratives"],"created":"2025-10-23T17:42:44.520+01:00","updated":"2025-10-23T17:42:44.520+01:00"}
+{"dg-publish":true,"permalink":"/citations/analyzing-the-landscape-of-narratives-about-farming-animals-advocates-media-and-industry-pax-fauna/","tags":["Narratives"],"created":"2025-10-23T17:42:44.520+01:00","updated":"2026-09-30T19:55:01.315+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Narratives"],"Year Published":"2022","Url":"https://paxfauna.org/reports/analyzing-the-landscape-of-narratives-about-farming-animals-advocates-media-and-industry/","AI suggested tags":["Public_Opinion","Messaging","Policy"]}}
 ---
 
 

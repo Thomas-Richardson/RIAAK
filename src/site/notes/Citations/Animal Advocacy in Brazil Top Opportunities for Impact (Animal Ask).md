@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/animal-advocacy-in-brazil-top-opportunities-for-impact-animal-ask/","tags":["animal_feed"],"created":"2025-10-23T17:42:44.929+01:00","updated":"2025-10-23T19:18:51.104+01:00"}
+{"dg-publish":true,"permalink":"/citations/animal-advocacy-in-brazil-top-opportunities-for-impact-animal-ask/","tags":["Animal_Feed"],"created":"2025-10-23T17:42:44.929+01:00","updated":"2026-09-30T19:55:01.323+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.animalask.org/post/animal-advocacy-in-brazil-top-opportunities-for-impact","tags":["Animal_Feed"],"Year Published":"2024","AI suggested tags":["Strategy","Policy","Africa"]}}
 ---
 
 For animal advocates, Brazil is a country of major opportunity but also major challenges. In a global context the scale of animal production in Brazil is immense. The dispersal of power between a range of different stakeholders in Brazil provides the animal advocacy movement with many avenues for impact. Nevertheless, Brazil also brings unique political and industrial challenges that need to be taken seriously.
@@ -19,3 +19,9 @@ We also want to spotlight two underutilised approaches: a minor political party 
 Ultimately, these priorities should be selected and adapted, based on the political landscape at the time, and the position of the advocate or group. 
 
 If you are interested in advocating for farmed animal welfare in Brazil and none of these campaign opportunities are suitable for your circumstances, then we please encourage you to reach out to Animal Ask. We have plenty of additional research concerning a wider variety of lower priority options which are still important.
+
+# AI suggested related articles
+
+- [[Citations/Animal Advocacy in Canada (Animal Ask)\|Citations/Animal Advocacy in Canada (Animal Ask)]] (0.74)
+- [[Citations/Farmed animal advocacy in Uganda (Animal Ask)\|Citations/Farmed animal advocacy in Uganda (Animal Ask)]] (0.73)
+- [[Citations/Animal advocacy in Zimbabwe (Animal Ask)\|Citations/Animal advocacy in Zimbabwe (Animal Ask)]] (0.71)

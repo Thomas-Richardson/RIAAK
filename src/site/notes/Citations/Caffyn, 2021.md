@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/caffyn-2021/","created":"2025-10-23T17:42:46.328+01:00","updated":"2025-10-23T18:12:10.244+01:00"}
+{"dg-publish":true,"permalink":"/citations/caffyn-2021/","tags":["High_Income_Countries/UK","Factory_Farming","Chickens","Policy","Environment/Pollution"],"created":"2025-10-23T17:42:46.328+01:00","updated":"2026-09-30T19:55:01.425+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.sciencedirect.com/science/article/abs/pii/S0264837721001381","tags":["High_Income_Countries/UK","Factory_Farming","Chickens","Policy","Environment/Pollution"],"Year Published":"2021","AI suggested tags":["UK","USA","Citation"]}}
 ---
 
 ## Highlights
@@ -11,3 +11,9 @@
 
 ## Abstract
 Intensive livestock production in the UK is spatially concentrated in certain counties where its proliferation has triggered increasing controversy over multiple impacts and externalities. Planning authorities have struggled to handle the increasing contestation within a policy void and weakened institutional context, under the influence of the longstanding agricultural hegemony which normalises intensive farming. In the first significant UK study of such planning contestations this paper presents data on the rapid growth of the poultry industry in Herefordshire and Shropshire and how this triggered conflict during the 2010s between the agri-industrial sector and increasing numbers of objectors. Poultry farmer motivations are explored and a typology of farming situations is suggested. The paper reveals how a new public of objectors mobilised to campaign against intensive livestock developments on multiple environmental, economic, health and quality of life grounds. Tracing the power relations within and between the groups of actors reveals multiple uncertainties over impacts, particularly cumulative water and air pollution and a lack of trust in both technocratic planning processes and politicised decision making. The research suggests the planning authorities should address the policy void, acknowledge the uncertainties and take a more open, proactive and strategic approach to locating intensive livestock operations.
+
+# AI suggested related articles
+
+- [[Quantifying the Environmental Risks from Pig & Poultry Production in the UK (Cumulus et al.)\|Quantifying the Environmental Risks from Pig & Poultry Production in the UK (Cumulus et al.)]] (0.64)
+- [[Citations/Broomfield et al., 2025\|Citations/Broomfield et al., 2025]] (0.60)
+- [[Citations/Rodríguez-López et al., 2025\|Citations/Rodríguez-López et al., 2025]] (0.59)

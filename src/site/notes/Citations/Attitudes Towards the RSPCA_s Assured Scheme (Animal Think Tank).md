@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/attitudes-towards-the-rspca-s-assured-scheme-animal-think-tank/","created":"2025-10-23T17:42:44.585+01:00","updated":"2025-10-23T17:42:44.585+01:00"}
+{"dg-publish":true,"permalink":"/citations/attitudes-towards-the-rspca-s-assured-scheme-animal-think-tank/","tags":["High_Income_Countries/UK","Consumer_Attitudes","Policy/Labeling","Greenwashing"],"created":"2025-10-23T17:42:44.585+01:00","updated":"2026-09-30T19:55:01.351+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["High_Income_Countries/UK","Consumer_Attitudes","Policy/Labeling","Greenwashing"],"source_url":"https://animalthinktank.org.uk/wp-content/uploads/2025/03/RSPCA-Assured-public-opinion-poll.pdf","created":"2025-10-23","AI suggested tags":["Public_Opinion","Consumer_Research","Animal_Welfare"]}}
 ---
 
 

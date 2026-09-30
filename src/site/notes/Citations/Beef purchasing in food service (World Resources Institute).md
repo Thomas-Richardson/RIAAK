@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/beef-purchasing-in-food-service-world-resources-institute/","created":"2026-03-07T11:51:38.838+00:00","updated":"2026-03-07T11:51:39.269+00:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":null,"source_url":"https://files.wri.org/d8/s3fs-public/2026-01/beef-purchasing-food-service.pdf?VersionId=_VZbI7U6UAQsb800tIx2MbQYXZvSrusy","created":"2026-03-07"}}
+{"dg-publish":true,"permalink":"/citations/beef-purchasing-in-food-service-world-resources-institute/","tags":["Meat/Beef","Environment/GHG","Environment/Land","Institutional_Change"],"created":"2026-03-07T11:51:38.838+00:00","updated":"2026-09-30T19:55:01.372+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Meat/Beef","Environment/GHG","Environment/Land","Institutional_Change"],"source_url":"https://files.wri.org/d8/s3fs-public/2026-01/beef-purchasing-food-service.pdf?VersionId=_VZbI7U6UAQsb800tIx2MbQYXZvSrusy","created":"2026-03-07","AI suggested tags":["Cows","Meat/Meat_Reduction","Cattle/Grass_Fed_Cattle"]}}
 ---
 
 

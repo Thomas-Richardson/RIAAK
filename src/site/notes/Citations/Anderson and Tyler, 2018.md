@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/anderson-and-tyler-2018/","tags":["animal_welfare","asia","citation","consumer_research","lower_middle_income_countries"],"created":"2025-10-23T17:42:44.834+01:00","updated":"2025-12-10T12:56:24.796+00:00"}
+{"dg-publish":true,"permalink":"/citations/anderson-and-tyler-2018/","tags":["Animal_Welfare","Asia","Citation","Consumer_Research","Lower_Middle_Income_Countries"],"created":"2025-10-23T17:42:44.834+01:00","updated":"2026-09-30T19:55:01.317+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Animal_Welfare","Asia","Citation","Consumer_Research","Lower_Middle_Income_Countries"],"AI suggested tags":["Consumer_Attitudes","Public_Opinion","China"]}}
 ---
 
 

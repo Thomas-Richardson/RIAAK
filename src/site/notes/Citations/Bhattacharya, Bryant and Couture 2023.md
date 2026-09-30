@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/bhattacharya-bryant-and-couture-2023/","tags":["citation","report","Bryant/Insight","alternative_proteins/Cultivated_Meat","consumer_research","Alternative_Proteins"],"created":"2025-10-23T17:42:46.847+01:00","updated":"2025-12-10T12:56:24.827+00:00"}
+{"dg-publish":true,"permalink":"/citations/bhattacharya-bryant-and-couture-2023/","tags":["Citation","Report","Bryant/Insight","Alternative_Proteins/Cultivated_Meat","Consumer_Research","Alternative_Proteins"],"created":"2025-10-23T17:42:46.847+01:00","updated":"2026-09-30T19:55:01.386+01:00","dg-note-properties":{"tags":["Citation","Report","Bryant/Insight","Alternative_Proteins/Cultivated_Meat","Consumer_Research","Alternative_Proteins"],"Note Type":"undefined","AI suggested tags":["Meat/Meat_Reduction","Consumer_Attitudes","Meat"]}}
 ---
 
 https://bryantresearch.co.uk/wp-content/uploads/2023/10/Chewing-It-Over.pdf
@@ -83,3 +83,9 @@ seeking to reduce their meat consumption:
 • 55% of Animal Sympathisers say they would try cultivated meat.
 • By contrast Animal Lovers (31%) were even less likely to try cultivated meat
 than the ‘No Strong Views’ group (35%).
+
+# AI suggested related articles
+
+- [[Policy Levers to Reduce Meat Production and Consumption - Bryant Research\|Policy Levers to Reduce Meat Production and Consumption - Bryant Research]] (0.78)
+- [[Chewing It Over - Public Attitudes to Alternative Proteins & Meat Reduction\|Chewing It Over - Public Attitudes to Alternative Proteins & Meat Reduction]] (0.78)
+- [[Citations/McBey et al., 2026\|Citations/McBey et al., 2026]] (0.76)

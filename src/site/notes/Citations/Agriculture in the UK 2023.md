@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/agriculture-in-the-uk-2023/","tags":[null,null],"created":"2025-10-23T17:42:46.258+01:00","updated":"2025-10-31T14:43:31.391+00:00"}
+{"dg-publish":true,"permalink":"/citations/agriculture-in-the-uk-2023/","tags":["Bryant/Project/CAWF_Food_Sec","UK"],"created":"2025-10-23T17:42:46.258+01:00","updated":"2026-09-30T22:10:52.405+01:00","dg-note-properties":{"Note Type":"Government Report","tags":["Bryant/Project/CAWF_Food_Sec","UK"],"AI suggested tags":["Bryant/Project/CAWF_Food_Sec","Bryant/Project/CAWF_Hidden_Harms","Food_Security"]}}
 ---
 
 

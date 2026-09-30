@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/cap-at-the-crossroads-foodrise/","created":"2026-02-19T15:19:57.684+00:00","updated":"2026-02-19T15:19:59.193+00:00"}
+{"dg-publish":true,"permalink":"/citations/cap-at-the-crossroads-foodrise/","tags":["EU","Economics","Policy/Food_Policy","Meat/Meat_Reduction"],"created":"2026-02-19T15:19:57.684+00:00","updated":"2026-09-30T19:55:01.413+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["EU","Economics","Policy/Food_Policy","Meat/Meat_Reduction"],"source_url":"https://foodrise.org.uk/wp-content/uploads/2026/02/FoodRise-CAPCrossroads-Feb26-LowRes.pdf","created":"2026-02-19","AI suggested tags":["Economics/Costs","Animal_Feed","Environment/Land"]}}
 ---
 
 

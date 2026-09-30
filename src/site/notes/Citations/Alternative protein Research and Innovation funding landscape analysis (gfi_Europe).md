@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/alternative-protein-research-and-innovation-funding-landscape-analysis-gfi-europe/","created":"2025-11-22T13:08:29.065+00:00","updated":"2025-11-22T13:08:29.066+00:00"}
+{"dg-publish":true,"permalink":"/citations/alternative-protein-research-and-innovation-funding-landscape-analysis-gfi-europe/","tags":["Europe","Alternative_Proteins","Economics","High_Income_Countries/UK"],"created":"2025-11-22T13:08:29.065+00:00","updated":"2026-09-30T19:55:01.311+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Europe","Alternative_Proteins","Economics","High_Income_Countries/UK"],"source_url":"https://gfieurope.org/wp-content/uploads/2025/09/State-of-the-European-alternative-protein-research-rcosystem_-funding_2020-2024.pdf","created":"2025-11-22","AI suggested tags":["Alternative_Proteins/Precision_Fermentation","EU","Alternative_Proteins/Plant_Based"]}}
 ---
 
 

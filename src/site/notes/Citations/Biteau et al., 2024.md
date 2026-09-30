@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/biteau-et-al-2024/","tags":["Note","Type","citation","insects","undefined"],"created":"2025-10-23T17:42:44.728+01:00","updated":"2025-10-31T14:42:34.580+00:00"}
+{"dg-publish":true,"permalink":"/citations/biteau-et-al-2024/","tags":["Citation","Insects"],"created":"2025-10-23T17:42:44.728+01:00","updated":"2026-09-30T19:55:01.393+01:00","dg-note-properties":{"tags":["Citation","Insects"],"AI suggested tags":["Animal_Feed","Food_Security","Environment/Land"]}}
 ---
 
 

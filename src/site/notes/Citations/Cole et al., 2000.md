@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/cole-et-al-2000/","tags":["Health/Disease","pigs"],"created":"2025-10-23T17:42:45.863+01:00","updated":"2025-11-11T23:28:08.491+00:00"}
+{"dg-publish":true,"permalink":"/citations/cole-et-al-2000/","tags":["Health/Disease","Pigs"],"created":"2025-10-23T17:42:45.863+01:00","updated":"2026-09-30T19:55:01.452+01:00","dg-note-properties":{"tags":["Health/Disease","Pigs"],"AI suggested tags":["Environment/Pollution","USA","Factory_Farming"]}}
 ---
 
 Cole, D., Todd, L., & Wing, S. (2000). Concentrated swine feeding operations and public health: a review of occupational and community health effects. _Environmental health perspectives_, _108_(8), 685-699.
@@ -12,3 +12,9 @@ have provided the groundwork for an increasing body of research to evaluate poss
 ## See also
 - [[CAFOs injure and sicken their workers\|CAFOs injure and sicken their workers]]
 -  [[CAFOs wreck domestic rural communities\|CAFOs wreck domestic rural communities]]
+
+# AI suggested related articles
+
+- [[Mixed evidence that nearby CAFOs make people sicker\|Mixed evidence that nearby CAFOs make people sicker]] (0.74)
+- [[Citations/Douglas et al., 2018\|Citations/Douglas et al., 2018]] (0.72)
+- [[Citations/Pew Commission, 2008\|Citations/Pew Commission, 2008]] (0.71)

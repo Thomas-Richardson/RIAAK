@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/benito-cobena-et-al-2025/","created":"2025-11-19T14:18:45.477+00:00","updated":"2025-11-19T14:18:45.715+00:00"}
+{"dg-publish":true,"permalink":"/citations/benito-cobena-et-al-2025/","tags":["Plant_Based/School_Meals","Dietary_Guidelines","Environment","EU","Meat/Meat_Reduction"],"created":"2025-11-19T14:18:45.477+00:00","updated":"2026-09-30T19:55:01.377+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.sciencedirect.com/science/article/pii/S0048969725017425?via%3Dihub","tags":["Plant_Based/School_Meals","Dietary_Guidelines","Environment","EU","Meat/Meat_Reduction"],"Year Published":"2025","AI suggested tags":["Environment/GHG","Review","Citation"]}}
 ---
 
 ## Highlights

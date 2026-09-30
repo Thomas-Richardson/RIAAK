@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/associations-between-consumption-of-meats-and-animal-product-alternatives-faunalytics/","created":"2026-01-28T11:00:47.425+00:00","updated":"2026-01-29T05:00:06.611+00:00"}
+{"dg-publish":true,"permalink":"/citations/associations-between-consumption-of-meats-and-animal-product-alternatives-faunalytics/","tags":["Consumer_Research","Alternative_Proteins/Plant_Based","Meat/Meat_Reduction","High_Income_Countries/USA"],"created":"2026-01-28T11:00:47.425+00:00","updated":"2026-09-30T19:55:01.348+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/associations-between-consumption-of-meats-and-animal-product-alternatives/","tags":["Consumer_Research","Alternative_Proteins/Plant_Based","Meat/Meat_Reduction","High_Income_Countries/USA"],"Year Published":"2019","AI suggested tags":["Meat/Meat_Consumption","Veg_Diets","Behaviour_Change"]}}
 ---
 
 In this Faunalytics analysis, we look in detail at different dietary habits and how the consumption of animal product alternatives and conventional meats are related.

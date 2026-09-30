@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/blindspot-changing-markets-foundation-et-al/","created":"2025-11-25T15:04:36.193+00:00","updated":"2025-11-25T15:04:36.195+00:00"}
+{"dg-publish":true,"permalink":"/citations/blindspot-changing-markets-foundation-et-al/","tags":["Environment/GHG","Meat_Industry","Dairy","Policy"],"created":"2025-11-25T15:04:36.193+00:00","updated":"2026-09-30T19:55:01.395+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Environment/GHG","Meat_Industry","Dairy","Policy"],"source_url":"https://changingmarkets.org/wp-content/uploads/2023/10/Blindspot-methane_English_summary.pdf","created":"2025-11-25","AI suggested tags":["Greenwashing","Environment/Climate_Change","Meat/Meat_Reduction"]}}
 ---
 
 

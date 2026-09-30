@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/berners-lee-et-al-2012/","tags":["Environment/GHG","veganism","Economics/costs"],"created":"2025-10-23T17:42:44.960+01:00","updated":"2025-11-07T16:23:37.347+00:00"}
+{"dg-publish":true,"permalink":"/citations/berners-lee-et-al-2012/","tags":["Environment/GHG","Veganism","Economics/Costs"],"created":"2025-10-23T17:42:44.960+01:00","updated":"2026-09-30T19:55:01.378+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Environment/GHG","Veganism","Economics/Costs"],"Reference":"Berners-Lee, M., Hoolohan, C., Cammack, H., Hewitt, C.N., 2012. The relative greenhouse gas impacts of realistic dietary choices. Energ Policy 43, 184–190.","Url":"http://dx.doi.org/10.1016/j.enpol.2011.12.054","AI suggested tags":["Environment_Misc","Citation","Meat"]}}
 ---
 
 - [[Are PB diets cheaper than omni diets\|Are PB diets cheaper than omni diets]]
@@ -35,3 +35,9 @@ Diet data was from 2010 National Diet and Nutrition Survey (NDNS, 2010)
 
 To calculate the GHG emissions embodied in each category we used estimates of greenhouse gas emissions up to the point of sale at a mid-sized supermarket chain in the northwest of England. The 61 foodstuff categories are those used by the retailer for operational management and accounting
 purposes and are listed in Fig. 1. This chain has 26 stores and, although positioned in the market as one of the UK’s premium supermarket brands, we assume that the greenhouse gases embodied in its product range are representative of those sold by all other food retailers in the country.
+
+# AI suggested related articles
+
+- [[Citations/Scarborough et al., 2014\|Citations/Scarborough et al., 2014]] (0.80)
+- [[Citations/Willits-Smith et al., 2020\|Citations/Willits-Smith et al., 2020]] (0.75)
+- [[Citations/Conrad, Drewnowski, & Love, (2023)\|Citations/Conrad, Drewnowski, & Love, (2023)]] (0.74)

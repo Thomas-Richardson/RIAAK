@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/ciwf-and-you-gov-2022/","tags":["Environment/GHG","citation","factory_farming"],"created":"2025-10-23T17:42:45.034+01:00","updated":"2025-10-31T14:43:31.355+00:00"}
+{"dg-publish":true,"permalink":"/citations/ciwf-and-you-gov-2022/","tags":["Environment/GHG","Citation","Factory_Farming"],"created":"2025-10-23T17:42:45.034+01:00","updated":"2026-09-30T19:55:01.417+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Environment/GHG","Citation","Factory_Farming"],"AI suggested tags":["Consumer_Attitudes","UK","Farming"]}}
 ---
 
 
@@ -22,3 +22,9 @@ before...
 ...animal welfare
 ...the health of those consuming animal products
 ...the climate and the environment
+
+# AI suggested related articles
+
+- [[Awareness of factory farming\|Awareness of factory farming]] (0.72)
+- [[Acceptability of Farming Practices\|Acceptability of Farming Practices]] (0.69)
+- [[Citations/Animal Think Tank, 2024b\|Citations/Animal Think Tank, 2024b]] (0.68)

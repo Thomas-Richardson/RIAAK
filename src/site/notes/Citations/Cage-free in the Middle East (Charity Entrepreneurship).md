@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/cage-free-in-the-middle-east-charity-entrepreneurship/","created":"2025-10-23T17:42:45.832+01:00","updated":"2025-10-23T17:42:45.833+01:00"}
+{"dg-publish":true,"permalink":"/citations/cage-free-in-the-middle-east-charity-entrepreneurship/","tags":["Corporate_Campaigns","Middle_East","Eggs","Chickens"],"created":"2025-10-23T17:42:45.832+01:00","updated":"2026-09-30T19:55:01.426+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Corporate_Campaigns","Middle_East","Eggs","Chickens"],"source_url":"https://www.aimresearchprogram.com/_files/ugd/370b81_87d70af237d44f1f8d850b72c87cb3df.pdf","created":"2025-10-23","AI suggested tags":["Strategy","Africa","Policy"]}}
 ---
 
 

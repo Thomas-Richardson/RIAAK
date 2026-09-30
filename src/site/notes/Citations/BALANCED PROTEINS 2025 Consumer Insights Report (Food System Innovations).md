@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/balanced-proteins-2025-consumer-insights-report-food-system-innovations/","tags":["Alternative_Proteins/Balanced_Proteins"],"created":"2025-10-23T17:42:45.300+01:00","updated":"2026-01-15T10:23:12.981+00:00"}
+{"dg-publish":true,"permalink":"/citations/balanced-proteins-2025-consumer-insights-report-food-system-innovations/","tags":["Alternative_Proteins/Balanced_Proteins"],"created":"2025-10-23T17:42:45.300+01:00","updated":"2026-09-30T19:55:01.355+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Alternative_Proteins/Balanced_Proteins"],"source_url":"https://static1.squarespace.com/static/673fa8b021ae9f0fc761713f/t/67aa6886bcc8bf085e6fb29e/1739221135269/Balanced+Protein_Growing+a+Functional+Familiar+Category_Feb+2025.pdf","created":"2025-10-21","AI suggested tags":["Consumer_Research","Alternative_Proteins","Marketing"]}}
 ---
 
 - [[Balanced or Hybrid Proteins MOC\|Balanced or Hybrid Proteins MOC]] 

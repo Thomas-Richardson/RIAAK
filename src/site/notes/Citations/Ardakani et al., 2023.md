@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/ardakani-et-al-2023/","tags":["citation","factory_farming","Health/Disease"],"created":"2025-10-23T17:42:45.317+01:00","updated":"2025-11-04T12:13:13.156+00:00"}
+{"dg-publish":true,"permalink":"/citations/ardakani-et-al-2023/","tags":["Citation","Factory_Farming","Health/Disease"],"created":"2025-10-23T17:42:45.317+01:00","updated":"2026-09-30T19:55:01.343+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Citation","Factory_Farming","Health/Disease"],"AI suggested tags":["USA","Economics","Farming"]}}
 ---
 
 
@@ -15,7 +15,7 @@ The global average consumption of antibiotics in livestock production was calcul
 
 more than 80% of total livestock AMU was for non-therapeutic purposes (metaphylaxis, prophylaxis, and AGPs).
 
-![Pasted image 20240814104307.png|300](/img/user/Pasted%20image%2020240814104307.png)
+![Pasted image 20240814104307.png\|300](/img/user/Pasted%20image%2020240814104307.png)
 
 For comparison, according to a WHO report, in
 2015, 65 countries gathering 22.5% of the world's
@@ -47,3 +47,10 @@ to livestock production was at 648.37 billion US$.
 Factory farms’ contribution amounted to 382.54
 billion US$, corresponding to 0.43% of the global
 GDP
+
+
+# AI suggested related articles
+
+- [[Citations/WAP, Alliance to save our antibiotics and The BIJ, 2022\|Citations/WAP, Alliance to save our antibiotics and The BIJ, 2022]] (0.68)
+- [[Citations/Rohr et al., 2019\|Citations/Rohr et al., 2019]] (0.63)
+- [[Diseases in farm animals cause economic shocks\|Diseases in farm animals cause economic shocks]] (0.62)

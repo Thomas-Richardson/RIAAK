@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/chan-franks-and-hayek-2022/","tags":["Note","Type","chickens","citation","undefined"],"created":"2025-10-23T17:42:46.224+01:00","updated":"2025-10-31T14:42:34.592+00:00"}
+{"dg-publish":true,"permalink":"/citations/chan-franks-and-hayek-2022/","tags":["Chickens","Citation"],"created":"2025-10-23T17:42:46.224+01:00","updated":"2026-09-30T19:55:01.438+01:00","dg-note-properties":{"tags":["Chickens","Citation"],"AI suggested tags":["Environment/Land","Farming","High_Income_Countries"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/big-meat-and-dairy-myths-and-misinformation-changing-markets-foundation/","created":"2025-11-25T15:18:39.499+00:00","updated":"2026-02-03T13:30:26.588+00:00"}
+{"dg-publish":true,"permalink":"/citations/big-meat-and-dairy-myths-and-misinformation-changing-markets-foundation/","tags":["Meat_Industry","Dairy","Greenwashing","Environment/Climate_Change"],"created":"2025-11-25T15:18:39.499+00:00","updated":"2026-09-30T19:55:01.391+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Meat_Industry","Dairy","Greenwashing","Environment/Climate_Change"],"source_url":"https://changingmarkets.org/wp-content/uploads/2024/09/Big-Meat-and-Dairys-Myths-and-Misinformation.pdf","created":"2025-11-25","AI suggested tags":["Environment/GHG","Cows","Meat/Meat_Reduction"]}}
 ---
 
 Like many planet- and people-harming industries, Big Meat and Dairy companies are using an array of tactics to protect their businesses in the face of growing scrutiny over their climate impact. One key tactic involves deploying ‘narratives' in advertising, PR campaigns and lobbying that paint the industry as greener than it really is and frame the stakes as too high to change.

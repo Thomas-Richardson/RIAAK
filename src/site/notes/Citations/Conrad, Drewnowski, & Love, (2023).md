@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/conrad-drewnowski-and-love-2023/","tags":["veganism","Economics/costs","Environment/GHG"],"created":"2025-10-23T17:42:46.508+01:00","updated":"2025-11-07T14:52:39.330+00:00"}
+{"dg-publish":true,"permalink":"/citations/conrad-drewnowski-and-love-2023/","tags":["Veganism","Economics/Costs","Environment/GHG"],"created":"2025-10-23T17:42:46.508+01:00","updated":"2026-09-30T19:55:01.456+01:00","dg-note-properties":{"tags":["Veganism","Economics/Costs","Environment/GHG"],"Note Type":"Academic Paper","Url":"https://pubmed.ncbi.nlm.nih.gov/37599695/","Reference":"Conrad, Z., Drewnowski, A., & Love, D. C. (2023). Greater adherence to the Dietary Guidelines for Americans is associated with lower diet-related greenhouse gas emissions but higher costs. _Frontiers in Nutrition_, _10_.","AI suggested tags":["Health/Nutrition","Citation","Meat"]}}
 ---
 
 An NHANES study of 8k Americans between 2008 and 2017 (1022 plant-based) found that a plant based diet was <mark style="background: #FFF3A3A6;">cheaper</mark> than all other popular diets examined (Low grain, low carb, low fat, and fasting). 
@@ -41,3 +41,9 @@ Higher diet quality was associated with lower GHGE but was often accompanied by 
 - [[Citations/Berners-Lee et al., 2012\|Berners-Lee et al., 2012]]
 - [[Citations/Willits-Smith et al., 2020\|Willits-Smith et al., 2020]]
 - 
+
+# AI suggested related articles
+
+- [[Are PB diets cheaper than omni diets\|Are PB diets cheaper than omni diets]] (0.80)
+- [[Citations/Springmann et al., 2021\|Citations/Springmann et al., 2021]] (0.76)
+- [[Citations/Willits-Smith et al., 2020\|Citations/Willits-Smith et al., 2020]] (0.76)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/bird-flu-only-major-farm-reforms-can-end-it-compassion-in-world-farming/","tags":["Health/Disease"],"created":"2026-02-09T12:26:42.719+00:00","updated":"2026-02-09T12:27:21.790+00:00"}
+{"dg-publish":true,"permalink":"/citations/bird-flu-only-major-farm-reforms-can-end-it-compassion-in-world-farming/","tags":["Health/Disease"],"created":"2026-02-09T12:26:42.719+00:00","updated":"2026-09-30T19:55:01.359+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Health/Disease"],"source_url":"https://www.ciwf.org.uk/research/animal-welfare/bird-flu-only-major-farm-reforms-can-end-it/","created":"2026-02-09","AI suggested tags":["Factory_Farming","Chickens","Pigs"]}}
 ---
 
 
@@ -32,3 +32,10 @@ But birds are not the only animals affected by avian flu. The disease has spread
 While the health risk to humans from avian influenza is low, it cannot be ruled out altogether, as at least 875 people have been infected worldwide since 2003. The swine flu epidemic of 2009 and the 1918 Spanish flu outbreak, caused by a flu virus with genes of an avian origin, powerfully highlight the capabilities of zoonotic disease.
 
 Bird flu has been described by Professor Devi Sridhar, chair of global public health at the University of Edinburgh, as a ticking timebomb. “The more chances the virus has to jump into a human and mutate, the more likely it is a dangerous strain will emerge that could set off the next pandemic” she said.
+
+
+# AI suggested related articles
+
+- [[Citations/Mace and Knight, 2023\|Citations/Mace and Knight, 2023]] (0.68)
+- [[Factory farmed animals cause pandemics and zoonotic disease\|Factory farmed animals cause pandemics and zoonotic disease]] (0.67)
+- [[Diseases in farm animals cause economic shocks\|Diseases in farm animals cause economic shocks]] (0.66)

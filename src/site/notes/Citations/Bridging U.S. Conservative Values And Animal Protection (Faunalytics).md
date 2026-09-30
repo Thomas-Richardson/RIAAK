@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/bridging-u-s-conservative-values-and-animal-protection-faunalytics/","created":"2026-01-28T10:41:01.510+00:00","updated":"2026-01-29T05:00:06.776+00:00"}
+{"dg-publish":true,"permalink":"/citations/bridging-u-s-conservative-values-and-animal-protection-faunalytics/","tags":["High_Income_Countries/USA","Politics","Narratives"],"created":"2026-01-28T10:41:01.510+00:00","updated":"2026-09-30T19:55:01.406+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/bridging-u-s-conservative-values-and-animal-protection/","tags":["High_Income_Countries/USA","Politics","Narratives"],"Year Published":"2024","AI suggested tags":["Public_Opinion","Policy","Consumer_Attitudes"]}}
 ---
 
 To maximize our impact, animal advocates in the U.S. need strategies for working with politicians and lawmakers on both sides of the aisle. This Faunalytics study helps us understand how to leverage conservative values to help animals.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/big-emissions-empty-promises-changing-markets-foundation/","created":"2025-11-25T15:12:46.806+00:00","updated":"2025-11-25T15:12:46.806+00:00"}
+{"dg-publish":true,"permalink":"/citations/big-emissions-empty-promises-changing-markets-foundation/","tags":["Meat_Industry","Dairy","Environment/GHG","Greenwashing"],"created":"2025-11-25T15:12:46.806+00:00","updated":"2026-09-30T19:55:01.390+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Meat_Industry","Dairy","Environment/GHG","Greenwashing"],"source_url":"https://changingmarkets.org/wp-content/uploads/2024/11/Big-Emissions-Empty-Promises.pdf","created":"2025-11-25","AI suggested tags":["Environment/Climate_Change","Financial_Activism","Cows"]}}
 ---
 
 

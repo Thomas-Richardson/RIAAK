@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/caccialanza-et-al-2025/","created":"2025-12-01T18:05:55.226+00:00","updated":"2025-12-01T18:05:55.523+00:00"}
+{"dg-publish":true,"permalink":"/citations/caccialanza-et-al-2025/","tags":["Alternative_Proteins/Plant_Based","Plant_Based/Marketing","Retailers","EU"],"created":"2025-12-01T18:05:55.226+00:00","updated":"2026-09-30T19:55:01.424+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.emerald.com/bfj/article/doi/10.1108/BFJ-10-2024-1093/1272049/How-retail-marketing-levers-influence-demand-for","tags":["Alternative_Proteins/Plant_Based","Plant_Based/Marketing","Retailers","EU"],"Year Published":"2025","AI suggested tags":["Marketing","Consumer_Research","Alternative_Proteins"]}}
 ---
 
 Purpose.

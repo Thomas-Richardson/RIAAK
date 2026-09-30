@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/chapman-2024/","tags":["Note","Type","Alternative_Proteins","citation","Meat","undefined"],"created":"2025-10-23T17:42:46.167+01:00","updated":"2025-12-10T12:58:35.603+00:00"}
+{"dg-publish":true,"permalink":"/citations/chapman-2024/","tags":["Alternative_Proteins","Citation","Meat"],"created":"2025-10-23T17:42:46.167+01:00","updated":"2026-09-30T19:55:01.439+01:00","dg-note-properties":{"tags":["Alternative_Proteins","Citation","Meat"],"AI suggested tags":["UPF","Alternative_Proteins/Plant_Based","Health/Nutrition"]}}
 ---
 
 

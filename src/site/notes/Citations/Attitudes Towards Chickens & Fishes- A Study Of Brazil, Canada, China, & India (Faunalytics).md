@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/attitudes-towards-chickens-and-fishes-a-study-of-brazil-canada-china-and-india-faunalytics/","created":"2026-01-28T10:56:18.614+00:00","updated":"2026-01-29T05:00:06.440+00:00"}
+{"dg-publish":true,"permalink":"/citations/attitudes-towards-chickens-and-fishes-a-study-of-brazil-canada-china-and-india-faunalytics/","tags":["Chickens","Fish","Consumer_Attitudes","Asia","Canada"],"created":"2026-01-28T10:56:18.614+00:00","updated":"2026-09-30T19:55:01.350+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/chicken-and-fish-2/","tags":["Chickens","Fish","Consumer_Attitudes","Asia","Canada"],"Year Published":"2022","AI suggested tags":["China","Consumer_Research","Public_Opinion"]}}
 ---
 
 Across the world, advocates are working to improve the welfare of animals and to reduce the consumption of animal products. A key front in this work is addressing the consumption of small-bodied animals — namely chickens and fishes — as they are consumed in the highest numbers, by several orders of magnitude. Reducing the consumption of chickens and fishes could result in billions of individuals being saved, and achieving that goal requires us to understand how consumers think of them.

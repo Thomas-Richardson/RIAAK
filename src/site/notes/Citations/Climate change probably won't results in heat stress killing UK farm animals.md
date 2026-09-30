@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/climate-change-probably-won-t-results-in-heat-stress-killing-uk-farm-animals/","tags":["Environment/GHG","Note","Type","citation","undefined"],"created":"2025-10-23T17:42:46.783+01:00","updated":"2025-10-31T14:42:34.596+00:00"}
+{"dg-publish":true,"permalink":"/citations/climate-change-probably-won-t-results-in-heat-stress-killing-uk-farm-animals/","tags":["Environment/GHG","Citation"],"created":"2025-10-23T17:42:46.783+01:00","updated":"2026-09-30T22:10:52.460+01:00","dg-note-properties":{"tags":["Environment/GHG","Citation"],"AI suggested tags":["UK","Farming","Bryant/Project/CAWF_Food_Sec"]}}
 ---
 
 

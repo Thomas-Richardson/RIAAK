@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/bianchi-et-al-2018/","tags":["behaviour_change","Meat/meat_reduction","review"],"created":"2025-10-23T17:42:45.340+01:00","updated":"2025-12-10T12:58:41.847+00:00"}
+{"dg-publish":true,"permalink":"/citations/bianchi-et-al-2018/","tags":["Behaviour_Change","Meat/Meat_Reduction","Review"],"created":"2025-10-23T17:42:45.340+01:00","updated":"2026-09-30T19:55:01.387+01:00","dg-note-properties":{"tags":["Behaviour_Change","Meat/Meat_Reduction","Review"],"AI suggested tags":["Citation","Meat","Meat/Meat_Consumption"]}}
 ---
 
 - [[Strategies for reducing animal product consumption\|Strategies for reducing animal product consumption]]
@@ -30,3 +30,10 @@ The findings show that some interventions have more potential than others for re
 
 ## Related studies
 - [[Citations/Mathur et al., 2021\|Mathur et al., 2021]]
+
+
+# AI suggested related articles
+
+- [[Citations/Mathur et al., 2021\|Citations/Mathur et al., 2021]] (0.79)
+- [[Citations/Vonderschmidt et al., 2023\|Citations/Vonderschmidt et al., 2023]] (0.77)
+- [[Citations/Behavioural Insights team, 2020\|Citations/Behavioural Insights team, 2020]] (0.77)

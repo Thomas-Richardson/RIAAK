@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/aston-et-al-2022/","tags":["Environment/GHG","Note","Type","citation","Health/Nutrition","Meat/red_meat","undefined"],"created":"2025-10-23T17:42:45.548+01:00","updated":"2025-11-04T12:16:30.681+00:00"}
+{"dg-publish":true,"permalink":"/citations/aston-et-al-2022/","tags":["Environment/GHG","Citation","Health/Nutrition","Meat/Red_Meat"],"created":"2025-10-23T17:42:45.548+01:00","updated":"2026-09-30T22:10:52.772+01:00","dg-note-properties":{"tags":["Environment/GHG","Citation","Health/Nutrition","Meat/Red_Meat"],"AI suggested tags":["Meat","Diet","Meat/Red_Meat"]}}
 ---
 
 
@@ -37,3 +37,9 @@ Aston, L. M., Smith, J. N., & Powles, J. W. (2012). Impact of a reduced red and 
 - <mark style="background: #FFF3A3A6;">Habitual RPM intakes are 2.5 times higher in the top compared with the bottom fifth of the UK consumers.</mark>
 - Sustained dietary intakes at a counterfactual reduced level in the UK population would materially reduce incidence of coronary heart disease, diabetes mellitus and colorectal cancer, by 3%-12%.
 - The predicted reduction in UK food- and drink-associated GHG emissions would equate to almost 28 million tonnes of CO2 equivalent/year across the population.
+
+# AI suggested related articles
+
+- [[Citations/Scarborough et al., 2012\|Citations/Scarborough et al., 2012]] (0.77)
+- [[Citations/Scarborough et al., 2010\|Citations/Scarborough et al., 2010]] (0.76)
+- [[Citations/Reynolds et al., 2022\|Citations/Reynolds et al., 2022]] (0.75)

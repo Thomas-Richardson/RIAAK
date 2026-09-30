@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/avital-et-al-2026/","created":"2026-02-07T22:58:55.546+00:00","updated":"2026-02-07T22:58:55.855+00:00"}
+{"dg-publish":true,"permalink":"/citations/avital-et-al-2026/","tags":["Veg_Diets","Health/Nutrition","Middle_East","High_Income_Countries"],"created":"2026-02-07T22:58:55.546+00:00","updated":"2026-09-30T19:55:01.352+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2844665","tags":["Veg_Diets","Health/Nutrition","Middle_East","High_Income_Countries"],"Year Published":"2026","AI suggested tags":["Review","Citation","Diet"]}}
 ---
 
 ### Key Points
@@ -35,3 +35,9 @@ Among 1 198 818 infants (mean [SD] gestational age, 39.2 [1.5] weeks; 53.2% male
 
 **Conclusions and Relevance** 
 In this cohort study, infants from vegan households had growth patterns similar to those from omnivorous households, with a higher odds of early underweight that decreased by age 24 months. In the context of developed countries, these findings seem reassuring. Further research should examine vegan diet quality and the impact of nutritional counseling during pregnancy and infancy in supporting optimal infant development.
+
+# AI suggested related articles
+
+- [[Citations/Lotti et al., 2025\|Citations/Lotti et al., 2025]] (0.70)
+- [[Can a baby be fed vegan\|Can a baby be fed vegan]] (0.64)
+- [[Citations/Jayaraman et al., 2026\|Citations/Jayaraman et al., 2026]] (0.62)

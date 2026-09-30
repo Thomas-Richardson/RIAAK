@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/aleksandrowicz-et-al-2016/","tags":[null,null,null,null],"created":"2025-10-23T17:42:45.490+01:00","updated":"2025-10-31T14:43:31.368+00:00"}
+{"dg-publish":true,"permalink":"/citations/aleksandrowicz-et-al-2016/","tags":["Environment/GHG","Citation","Environment/Land","Meat"],"created":"2025-10-23T17:42:45.490+01:00","updated":"2026-09-30T19:55:01.309+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Environment/GHG","Citation","Environment/Land","Meat"],"AI suggested tags":["Environment_Misc","Review","Meat/Meat_Reduction"]}}
 ---
 
 

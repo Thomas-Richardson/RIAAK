@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/baldi-et-al-2021/","tags":["Alternative_Proteins","animal_feed","citation","economics","food_security"],"created":"2025-10-23T17:42:45.895+01:00","updated":"2025-11-04T12:05:56.898+00:00"}
+{"dg-publish":true,"permalink":"/citations/baldi-et-al-2021/","tags":["Alternative_Proteins","Animal_Feed","Citation","Economics","Food_Security"],"created":"2025-10-23T17:42:45.895+01:00","updated":"2026-09-30T19:55:01.365+01:00","dg-note-properties":{"tags":["Alternative_Proteins","Animal_Feed","Citation","Economics","Food_Security"],"Note Type":"undefined","AI suggested tags":["Alternative_Proteins/Cultivated_Meat","High_Income_Countries","Meat"]}}
 ---
 
 
@@ -8,3 +8,9 @@
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3940081
 
 Alternative meat (AltMeat), which includes plant-based and cultured meats, is an innovative and sustainable type of food that has gained attention in recent years. It is also a threat for the demand of animal meat and for the supply chain of crops used as animal feed. In 2022, 57% of global corn and 70% of global soybean production (as meal) were used as inputs for animal meat production. In this paper we aim to assess the crop market impact of an uncertain yet potentially significant shift towards AltMeat consumption and away from animal meat. We consider alternative models for feed crops and animal meat informed by production parameters and elasticity measures from the literature. We impose exogenous animal meat displacement shocks on top of an OECD baseline projection for 2032 with no AltMeat, and compute crop price shifts. We find that in the event of <mark style="background: #FFF3A3A6;">a -3% mean animal meat displacement, crop prices would average declines in the-10% to-18% range, with soybeans experiencing a sharper fall than corn.</mark> Permanent price shifts of this scale would be economically important. <mark style="background: #FFF3A3A6;">Corn and soybean supply chains in Brazil, the U.S., Argentina and Paraguay are at risk of technological displacement.</mark> Corn and soybean leading importers, such as China, might benefit from lower prices.
+
+# AI suggested related articles
+
+- [[Citations/Mason-D'Croz et al., 2022\|Citations/Mason-D'Croz et al., 2022]] (0.72)
+- [[Citations/Lusk et al., 2022\|Citations/Lusk et al., 2022]] (0.71)
+- [[Do vegan products reduce demand for ASFs\|Do vegan products reduce demand for ASFs]] (0.68)

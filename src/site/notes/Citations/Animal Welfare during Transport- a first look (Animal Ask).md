@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/animal-welfare-during-transport-a-first-look-animal-ask/","created":"2025-10-23T17:42:44.700+01:00","updated":"2025-10-23T17:42:44.700+01:00"}
+{"dg-publish":true,"permalink":"/citations/animal-welfare-during-transport-a-first-look-animal-ask/","tags":["Animal_Welfare","Movement_Strategy","EU","China"],"created":"2025-10-23T17:42:44.700+01:00","updated":"2026-09-30T19:55:01.335+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.animalask.org/post/animal-welfare-during-transport-a-first-look","tags":["Animal_Welfare","Movement_Strategy","EU","China"],"Year Published":"2023","AI suggested tags":["Strategy","Policy","Public_Opinion"]}}
 ---
 
 Many animal advocacy organisations have considered campaigning to improve the welfare of animals during transport. Since the animal advocacy movement has limited resources, it is important to focus on the campaigns and asks that generate the largest improvements in the lives of animals. Is transport the best focus for animal advocacy campaigns, or should the movement's focus be elsewhere? In this report, we take a first look at that question.

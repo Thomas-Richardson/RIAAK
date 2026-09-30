@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/barton-et-al-2011/","tags":["Note","Type","citation","Health/Nutrition","undefined"],"created":"2025-10-23T17:42:46.182+01:00","updated":"2025-11-04T12:13:06.536+00:00"}
+{"dg-publish":true,"permalink":"/citations/barton-et-al-2011/","tags":["Citation","Health/Nutrition"],"created":"2025-10-23T17:42:46.182+01:00","updated":"2026-09-30T19:55:01.370+01:00","dg-note-properties":{"tags":["Citation","Health/Nutrition"],"AI suggested tags":["CAWF_NHS","Meat/Red_Meat","Economics/Costs"]}}
 ---
 
 
@@ -17,3 +17,9 @@ Barton, P., Andronis, L., Briggs, A., McPherson, K., & Capewell, S. (2011). Effe
 - **Main outcome measures** Cardiovascular events avoided, quality adjusted life years gained, and savings in healthcare costs for a given effectiveness; estimates of how much it would be worth spending to achieve a specific outcome.
 - **Results** <mark style="background: #FFF3A3A6;">A programme across the entire population of England and Wales (about 50 million people) that reduced cardiovascular events by just 1% would result in savings to the health service worth at least £30m (€34m; $48m) a year compared with no additional intervention.</mark> Reducing mean cholesterol concentrations or blood pressure levels in the population by 5% (as already achieved by similar interventions in some other countries) would result in annual savings worth at least £80m to £100m. Legislation or other measures to reduce dietary salt intake by 3 g/day (current mean intake approximately 8.5 g/day) would prevent approximately 30 000 cardiovascular events, with savings worth at least £40m a year. Legislation to reduce intake of industrial _trans_ fatty acid by approximately 0.5% of total energy content might gain around 570 000 life years and generate NHS savings worth at least £230m a year.
 - **Conclusions** Any intervention that achieved even a modest population-wide reduction in any major cardiovascular risk factor would produce a net cost saving to the NHS, as well as improving health. Given the conservative assumptions used in this model, the true benefits would probably be greater.
+
+# AI suggested related articles
+
+- [[The cost to the NHS of diabetes, CVD, cancer and obesity\|The cost to the NHS of diabetes, CVD, cancer and obesity]] (0.63)
+- [[Citations/Scarborough et al., 2010\|Citations/Scarborough et al., 2010]] (0.63)
+- [[Citations/Henderson and Sampson 2023\|Citations/Henderson and Sampson 2023]] (0.59)

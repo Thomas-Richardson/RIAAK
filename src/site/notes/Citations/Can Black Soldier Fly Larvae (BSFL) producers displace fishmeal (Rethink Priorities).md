@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/can-black-soldier-fly-larvae-bsfl-producers-displace-fishmeal-rethink-priorities/","tags":["insects"],"created":"2025-10-23T17:42:46.049+01:00","updated":"2025-10-23T18:12:10.233+01:00"}
+{"dg-publish":true,"permalink":"/citations/can-black-soldier-fly-larvae-bsfl-producers-displace-fishmeal-rethink-priorities/","tags":["Insects"],"created":"2025-10-23T17:42:46.049+01:00","updated":"2026-09-30T19:55:01.431+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/can-black-soldier-fly-larvae-bsfl-producers-displace-fishmeal/","tags":["Insects"],"Year Published":"2024","AI suggested tags":["Animal_Feed","Fish/Farmed","Food_Security"]}}
 ---
 
 ## Key points

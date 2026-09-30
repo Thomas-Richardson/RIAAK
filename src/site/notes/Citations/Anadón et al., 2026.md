@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/anadon-et-al-2026/","created":"2026-01-17T13:06:07.810+00:00","updated":"2026-01-17T13:06:07.869+00:00"}
+{"dg-publish":true,"permalink":"/citations/anadon-et-al-2026/","tags":["Grazing","Environment/Land","Economics","Biodiversity"],"created":"2026-01-17T13:06:07.810+00:00","updated":"2026-09-30T19:55:01.314+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.pnas.org/doi/abs/10.1073/pnas.2509097122","tags":["Grazing","Environment/Land","Economics","Biodiversity"],"Year Published":"2026","AI suggested tags":["Cattle/Grass_Fed_Cattle","Meat/Beef","Cows"]}}
 ---
 
 ## Significance

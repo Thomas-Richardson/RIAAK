@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/chinese-consumers-attitudes-toward-animal-welfare-behaviors-beliefs-and-responses-to-messaging-faunalytics/","created":"2026-01-28T10:48:19.906+00:00","updated":"2026-01-29T05:00:06.749+00:00"}
+{"dg-publish":true,"permalink":"/citations/chinese-consumers-attitudes-toward-animal-welfare-behaviors-beliefs-and-responses-to-messaging-faunalytics/","tags":["China","Animal_Welfare","Consumer_Attitudes","Messaging"],"created":"2026-01-28T10:48:19.906+00:00","updated":"2026-09-30T19:55:01.445+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/chinese-consumer-attitudes/","tags":["China","Animal_Welfare","Consumer_Attitudes","Messaging"],"Year Published":"2022","AI suggested tags":["Public_Opinion","Consumer_Research","Asia"]}}
 ---
 
 Our study of Chinese consumers finds broad interest in higher animal welfare products, but mostly for food quality and safety reasons.

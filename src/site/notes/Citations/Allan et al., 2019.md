@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/allan-et-al-2019/","tags":["citation","economics","farming"],"created":"2025-10-23T17:42:45.063+01:00","updated":"2025-10-31T14:43:31.355+00:00"}
+{"dg-publish":true,"permalink":"/citations/allan-et-al-2019/","tags":["Citation","Economics","Farming"],"created":"2025-10-23T17:42:45.063+01:00","updated":"2026-09-30T19:55:01.310+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Citation","Economics","Farming"],"AI suggested tags":["Economics/Costs","Meat","Meat/Meat_Reduction"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/business-case-the-benefits-of-a-carcass-over-a-live-animal-trade-human-behaviour-change-for-life/","created":"2025-10-27T16:33:56.656+00:00","updated":"2025-10-27T16:33:56.656+00:00"}
+{"dg-publish":true,"permalink":"/citations/business-case-the-benefits-of-a-carcass-over-a-live-animal-trade-human-behaviour-change-for-life/","tags":["EU","Animal_Welfare","Economics","Environment"],"created":"2025-10-27T16:33:56.656+00:00","updated":"2026-09-30T19:55:01.411+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["EU","Animal_Welfare","Economics","Environment"],"source_url":"https://www.eurogroupforanimals.org/files/eurogroupforanimals/2023-11/2023_14_11_the%20benefits%20of%20a%20carcass%20over%20live%20animal%20trade_hbcl_report_en.pdf","created":"2025-10-27","AI suggested tags":["Meat/Meat_Reduction","High_Income_Countries/UK","Policy"]}}
 ---
 
 

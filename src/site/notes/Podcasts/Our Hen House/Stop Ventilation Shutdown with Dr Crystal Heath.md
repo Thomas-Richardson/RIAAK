@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/stop-ventilation-shutdown-with-dr-crystal-heath/","tags":["Factory_Farming","Activism","Chickens","High_Income_Countries/USA"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.885+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep740/","tags":["Factory_Farming","Activism","Chickens","High_Income_Countries/USA"],"Year Published":"2024","AI suggested tags":["Tactics","Turkeys","Working_Conditions"]}}
+---
+
+The work of activists brought the use of ventilation shutdown as a “depopulation” method during avian flu and COVID slowdowns to light, but what is the status of this cruel method of killing? Dr. Crystal Heath joins us once again to discuss the use of heat stroke in factory farms and the campaigns to combat this cruelty.
+
+Dr. Crystal Heath is a graduate of the UC Davis School of Veterinary Medicine and currently works as a shelter veterinarian for several shelters and non-profits throughout Northern California. She won a Jefferson Award for her volunteer work providing medical services to animals in Fiji. Dr. Heath became involved in the Animal Rights movement just three years ago while volunteering for the Fur Ban campaign (AB-44) in California and just recently worked on the campaign to get the City of Berkeley to set a goal of shifting its food purchases to 100% plant-based. She is on the founding committee of Veterinarians Against Ventilation Shutdown and founder of Our Honor, an organization committed to supporting animal professionals who want to speak their conscience, work to create more ethical systems and foster connections between like-minded professionals to create real systemic changes. She owns Vet Harmony, a veterinary practice committed to providing access to care and public education.
+
+🎧 [Listen to this episode](https://www.ourhenhouse.org/ep740/) — *Our Hen House*, 16 March 2024

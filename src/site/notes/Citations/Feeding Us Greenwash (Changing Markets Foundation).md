@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/feeding-us-greenwash-changing-markets-foundation/","created":"2025-11-25T15:17:44.261+00:00","updated":"2025-11-25T15:17:44.262+00:00"}
+{"dg-publish":true,"permalink":"/citations/feeding-us-greenwash-changing-markets-foundation/","tags":["Greenwashing","Meat_Industry","Dairy","Consumer_Research","Environment/Climate_Change"],"created":"2025-11-25T15:17:44.261+00:00","updated":"2026-09-30T19:55:01.565+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Greenwashing","Meat_Industry","Dairy","Consumer_Research","Environment/Climate_Change"],"source_url":"https://changingmarkets.org/wp-content/uploads/2023/03/Feeding-us-Greenwash-final.pdf","created":"2025-11-25","AI suggested tags":["Environment/GHG","Meat/Meat_Reduction","Financial_Activism"]}}
 ---
 
 

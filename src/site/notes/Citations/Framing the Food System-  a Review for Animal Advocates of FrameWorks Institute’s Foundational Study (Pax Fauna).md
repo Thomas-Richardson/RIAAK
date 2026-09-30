@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/framing-the-food-system-a-review-for-animal-advocates-of-frame-works-institute-s-foundational-study-pax-fauna/","tags":["#narratives"],"created":"2025-10-23T17:42:44.454+01:00","updated":"2025-10-23T17:42:44.454+01:00"}
+{"dg-publish":true,"permalink":"/citations/framing-the-food-system-a-review-for-animal-advocates-of-frame-works-institute-s-foundational-study-pax-fauna/","tags":["Narratives"],"created":"2025-10-23T17:42:44.454+01:00","updated":"2026-09-30T19:55:01.604+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Narratives"],"Year Published":"2022","Url":"https://paxfauna.org/reports/framing-the-food-system-a-review-for-animal-advocates-of-frameworks-institutes-foundational-study/","AI suggested tags":["Public_Opinion","Messaging","Policy"]}}
 ---
 
 Pax Fauna: Framing the Food System: a Review for Animal Advocates of FrameWorks Institute’s Foundational Study

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/different-strokes-for-different-folks-comparing-u-s-groups-openness-to-pro-animal-actions-faunalytics/","created":"2026-01-28T10:51:00.423+00:00","updated":"2026-01-29T05:00:06.696+00:00"}
+{"dg-publish":true,"permalink":"/citations/different-strokes-for-different-folks-comparing-u-s-groups-openness-to-pro-animal-actions-faunalytics/","tags":["High_Income_Countries/USA","Politics","Psychology","Public_Opinion"],"created":"2026-01-28T10:51:00.423+00:00","updated":"2026-09-30T19:55:01.491+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/different-strokes-for-different-folks/","tags":["High_Income_Countries/USA","Politics","Psychology","Public_Opinion"],"Year Published":"2023","AI suggested tags":["Consumer_Research","Consumer_Attitudes","Retention"]}}
 ---
 
 This Faunalytics study examines a broad range of demographics and shows how advocates working with specific groups can craft asks that are most likely to appeal to them.

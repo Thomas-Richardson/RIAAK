@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/cross-movement-collaboration-for-farmed-animal-advocates-in-southeast-asia-faunalytics/","created":"2026-01-28T10:56:48.045+00:00","updated":"2026-01-29T05:00:06.459+00:00"}
+{"dg-publish":true,"permalink":"/citations/cross-movement-collaboration-for-farmed-animal-advocates-in-southeast-asia-faunalytics/","tags":["SE_Asia","Movement_Strategy","Movement_Building"],"created":"2026-01-28T10:56:48.045+00:00","updated":"2026-09-30T19:55:01.469+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/cross-movement-collaboration-for-farmed-animal-advocates-in-southeast-asia/","tags":["SE_Asia","Movement_Strategy","Movement_Building"],"Year Published":"2025","AI suggested tags":["Asia","Public_Opinion","China"]}}
 ---
 
 The goals of animal advocacy organizations have the potential to benefit people and the environment, leading many to believe that increased cooperation between social movements may increase their impact. This study explores social movements in Southeast Asia, offering insight to help advocates there make collaboration easier and more effective.

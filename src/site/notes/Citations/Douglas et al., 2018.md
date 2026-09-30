@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/douglas-et-al-2018/","tags":["Note","Type","citation","factory_farming","Health/Disease","undefined","review"],"created":"2025-11-06T09:41:40.740+00:00","updated":"2025-11-06T09:41:40.740+00:00"}
+{"dg-publish":true,"permalink":"/citations/douglas-et-al-2018/","tags":["Citation","Factory_Farming","Health/Disease","Review"],"created":"2025-11-06T09:41:40.740+00:00","updated":"2026-09-30T19:55:01.501+01:00","dg-note-properties":{"tags":["Citation","Factory_Farming","Health/Disease","Review"],"AI suggested tags":["Pigs","Environment/Pollution","USA"]}}
 ---
 
 
@@ -28,3 +28,9 @@ The review indicated a potential impact of intensive farming on childhood respir
 - [[bio-aerosols\|bio-aerosols]]
 - [[Mixed evidence that nearby CAFOs make people sicker\|Mixed evidence that nearby CAFOs make people sicker]]
 - [[CAFOs injure and sicken their workers\|CAFOs injure and sicken their workers]]
+
+# AI suggested related articles
+
+- [[Citations/Simoes et al., 2022\|Citations/Simoes et al., 2022]] (0.72)
+- [[Citations/Cole et al., 2000\|Citations/Cole et al., 2000]] (0.72)
+- [[Citations/Mace and Knight, 2023\|Citations/Mace and Knight, 2023]] (0.63)

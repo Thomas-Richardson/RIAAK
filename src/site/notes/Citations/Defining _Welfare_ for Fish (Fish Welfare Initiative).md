@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/defining-welfare-for-fish-fish-welfare-initiative/","created":"2025-10-26T17:32:26.788+00:00","updated":"2025-10-26T17:32:26.789+00:00"}
+{"dg-publish":true,"permalink":"/citations/defining-welfare-for-fish-fish-welfare-initiative/","tags":["Fish/Farmed","Animal_Welfare","Philosophy"],"created":"2025-10-26T17:32:26.788+00:00","updated":"2026-09-30T19:55:01.482+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Fish/Farmed","Animal_Welfare","Philosophy"],"source_url":"https://files.fwi.fish/Defining_Fish_Welfare.pdf","created":"2025-10-26","AI suggested tags":["Fish","Attitudes","EU"]}}
 ---
 
 

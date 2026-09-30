@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/feeding-britain-from-the-ground-up-sustainable-food-trust/","tags":["Environment/Land"],"created":"2025-10-23T17:42:46.611+01:00","updated":"2025-11-04T12:10:04.112+00:00"}
+{"dg-publish":true,"permalink":"/citations/feeding-britain-from-the-ground-up-sustainable-food-trust/","tags":["Environment/Land"],"created":"2025-10-23T17:42:46.611+01:00","updated":"2026-09-30T19:55:01.563+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://sustainablefoodtrust.org/wp-content/uploads/2022/06/V2SFT_Feeding-Britain-from-the-Ground-Up-single-page-view-compressed-for-web.pdf","tags":["Environment/Land"],"Year Published":"2022","AI suggested tags":["Food_Security","High_Income_Countries/UK","Farming"]}}
 ---
 
 Here’s a structured summary of **“Feeding Britain from the Ground Up”** (Sustainable Food Trust, June 2022)

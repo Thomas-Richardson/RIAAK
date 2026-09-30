@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/exploring-the-impacts-of-food-system-education-a-case-study-faunalytics/","created":"2026-01-28T10:53:47.271+00:00","updated":"2026-01-29T05:00:06.624+00:00"}
+{"dg-publish":true,"permalink":"/citations/exploring-the-impacts-of-food-system-education-a-case-study-faunalytics/","tags":["Movement_Building","Economics/Jobs","Tactics","Diet_Change","High_Income_Countries/USA"],"created":"2026-01-28T10:53:47.271+00:00","updated":"2026-09-30T19:55:01.547+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/exploring-the-impacts-of-food-system-education-a-case-study/","tags":["Movement_Building","Economics/Jobs","Tactics","Diet_Change","High_Income_Countries/USA"],"Year Published":"2025","AI suggested tags":["Behaviour_Change","Retention","Public_Opinion"]}}
 ---
 
 Classroom education can be used to teach children and young adults about the food system and compassion for animals. Our case study provides insight into the effects of a food system education program on students’ career and education paths, advocacy, and morals related to meat consumption.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/effective-communication-with-political-staffers-a-framework-for-animal-advocates-faunalytics/","created":"2026-01-28T10:55:42.178+00:00","updated":"2026-01-29T05:00:06.531+00:00"}
+{"dg-publish":true,"permalink":"/citations/effective-communication-with-political-staffers-a-framework-for-animal-advocates-faunalytics/","tags":["Policy","Politics","Tactics","Messaging"],"created":"2026-01-28T10:55:42.178+00:00","updated":"2026-09-30T19:55:01.515+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/effective-communication-with-political-staffers/","tags":["Policy","Politics","Tactics","Messaging"],"Year Published":"2025","AI suggested tags":["Public_Opinion","Strategy","Research/Methods"]}}
 ---
 
 This Faunalytics study identifies best practices for engaging with political staffers to strengthen legislative advocacy efforts to advance animal protection.

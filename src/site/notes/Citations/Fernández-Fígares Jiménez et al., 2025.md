@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/fernandez-figares-jimenez-et-al-2025/","tags":["Health/Nutrition","UPF","Alternative_Proteins/Plant_Based"],"created":"2025-11-03T14:12:12.134+00:00","updated":"2025-12-29T16:30:57.319+00:00"}
+{"dg-publish":true,"permalink":"/citations/fernandez-figares-jimenez-et-al-2025/","tags":["Health/Nutrition","UPF","Alternative_Proteins/Plant_Based"],"created":"2025-11-03T14:12:12.134+00:00","updated":"2026-09-30T19:55:01.571+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://link.springer.com/article/10.1007/s13668-025-00704-6","tags":["Health/Nutrition","UPF","Alternative_Proteins/Plant_Based"],"Year Published":2025,"citation":"Del Carmen Fernández-Fígares Jiménez, M., & López-Moreno, M. (2025). Ultra-processed Plant Foods: Are They Worse than their Unprocessed Animal-Based Counterparts?. Current Nutrition Reports, 14(1), 115.","AI suggested tags":["Review","Meat","Diet"]}}
 ---
 
  ### Purpose of the Review
@@ -12,3 +12,9 @@ The ultra-processed food category is highly heterogeneous, encompassing products
 While ultra-processed plant-based foods are less healthy than whole plant foods, they may offer better cardiometabolic outcomes than unprocessed animal-based products. As transitional tools, products such as plant-based milks, meat analogs, and margarine may facilitate dietary shifts. Public health guidance should reflect these nuances to support realistic, health-promoting transitions.
 
 [[Are meat alternatives healthier than meat\|Are meat alternatives healthier than meat]]
+
+# AI suggested related articles
+
+- [[Citations/Greger, 2025\|Citations/Greger, 2025]] (0.76)
+- [[Citations/Espinosa et al., 2024\|Citations/Espinosa et al., 2024]] (0.75)
+- [[Citations/Fernández-Rodríguez et al., 2025\|Citations/Fernández-Rodríguez et al., 2025]] (0.75)

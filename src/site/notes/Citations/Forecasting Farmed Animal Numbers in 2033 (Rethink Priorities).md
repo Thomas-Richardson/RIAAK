@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/forecasting-farmed-animal-numbers-in-2033-rethink-priorities/","created":"2025-10-23T17:42:46.800+01:00","updated":"2025-10-23T18:12:10.262+01:00"}
+{"dg-publish":true,"permalink":"/citations/forecasting-farmed-animal-numbers-in-2033-rethink-priorities/","tags":["Chickens","Fish/Farmed","Insects","Shrimp"],"created":"2025-10-23T17:42:46.800+01:00","updated":"2026-09-30T19:55:01.600+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/forecasting-farmed-animal-numbers-in-2033/","tags":["Chickens","Fish/Farmed","Insects","Shrimp"],"Year Published":"2025","AI suggested tags":["Fish","Crustaceans","Animal_Feed"]}}
 ---
 
 We produced **rough-and-ready forecasts of the number of animals farmed in 2033** with the aim of helping advocates and funders with prioritization decisions. **We focus on the most numerous groups of farmed animals: broiler chickens, finfishes, shrimps, and select insect species.**

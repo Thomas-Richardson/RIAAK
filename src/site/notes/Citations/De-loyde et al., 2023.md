@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/de-loyde-et-al-2023/","tags":["Note","Type","citation","consumer_research","dairy","labelling","undefined"],"created":"2025-10-23T17:42:45.774+01:00","updated":"2025-12-10T12:56:24.833+00:00"}
+{"dg-publish":true,"permalink":"/citations/de-loyde-et-al-2023/","tags":["Citation","Consumer_Research","Dairy","Policy/Labeling"],"created":"2025-10-23T17:42:45.774+01:00","updated":"2026-09-30T19:55:01.479+01:00","dg-note-properties":{"tags":["Citation","Consumer_Research","Dairy","Policy/Labeling"],"AI suggested tags":["Report","Plant_Based/Marketing","Marketing"]}}
 ---
 
 
@@ -23,3 +23,9 @@ participants in the Milk Labelling Condition correctly identified 0.6 more milk 
 We conducted an observational study, which surveyed the availability and labelling of milk substitutes in UK supermarkets, and an online experimental study, which assessed the impact of using the term ‘milk’ on milk substitute labelling. 
 
 In the experimental study, <mark style="background: #FFF3A3A6;">352 UK adults were randomised to one of the two conditions where they saw milk substitutes that were either labelled with UK regulations (e.g., soya drink) or using the term ‘milk’ (e.g., soya milk)</mark>. Our primary aims were to assess whether adding the term ‘milk’ to labels would (1) more accurately communicate the uses of milk substitutes or (2) confuse consumers about which products come from an animal source. Labelling products with the term ‘milk’ increased understanding of the product’s use. However, participants who saw the term ‘milk’ on milk substitute labelling misidentified more milk substitutes as coming from an animal source.
+
+# AI suggested related articles
+
+- [[Citations/Gleckel, 2020\|Citations/Gleckel, 2020]] (0.77)
+- [[Citations/Institute for Sustainable Futures, 2022\|Citations/Institute for Sustainable Futures, 2022]] (0.72)
+- [[Citations/BUEC, 2020\|Citations/BUEC, 2020]] (0.72)

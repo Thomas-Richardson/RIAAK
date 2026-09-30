@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/do-countries-comply-with-eu-animal-welfare-laws-rethink-priorities/","tags":["EU"],"created":"2025-10-23T17:42:46.690+01:00","updated":"2025-10-23T18:12:10.259+01:00"}
+{"dg-publish":true,"permalink":"/citations/do-countries-comply-with-eu-animal-welfare-laws-rethink-priorities/","tags":["EU"],"created":"2025-10-23T17:42:46.690+01:00","updated":"2026-09-30T19:55:01.494+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/do-countries-comply-with-eu-animal-welfare-laws/","tags":["EU"],"Year Published":"2020","AI suggested tags":["Policy","Animal_Welfare","Chickens"]}}
 ---
 
 ## Summary

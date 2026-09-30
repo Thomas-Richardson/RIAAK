@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/feinberg-et-al-2020/","tags":["Note","Type","citation","movement_building","undefined"],"created":"2025-10-23T17:42:44.478+01:00","updated":"2025-10-31T14:42:34.577+00:00"}
+{"dg-publish":true,"permalink":"/citations/feinberg-et-al-2020/","tags":["Citation","Movement_Building"],"created":"2025-10-23T17:42:44.478+01:00","updated":"2026-09-30T19:55:01.568+01:00","dg-note-properties":{"tags":["Citation","Movement_Building"],"AI suggested tags":["Protest","Public_Opinion","Behaviour_Change"]}}
 ---
 
 

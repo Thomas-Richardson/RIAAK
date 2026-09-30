@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/farmed-fish-welfare-report-2020-animal-charity-evaluators/","tags":["fish/farmed"],"created":"2025-10-26T17:21:47.731+00:00","updated":"2025-11-04T12:10:56.519+00:00"}
+{"dg-publish":true,"permalink":"/citations/farmed-fish-welfare-report-2020-animal-charity-evaluators/","tags":["Fish/Farmed"],"created":"2025-10-26T17:21:47.731+00:00","updated":"2026-09-30T19:55:01.554+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://animalcharityevaluators.org/research/reports/farmed-fish-welfare-report/#introduction","tags":["Fish/Farmed"],"Year Published":"2020","AI suggested tags":["Fish","Strategy","Animal_Welfare"]}}
 ---
 
 Farmed fish welfare is plausibly one of the effective animal advocacy community’s priorities because of the current neglectedness of the issue, the likelihood that farmed fish suffering is large in scale, and the potential tractability of interventions to improve farmed fish welfare. With this in mind, ACE would like to reduce uncertainty about the impact of corporate campaigns aimed at improving farmed fish welfare. We hope that the following analysis will help us move toward that goal.

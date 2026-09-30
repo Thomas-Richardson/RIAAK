@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/dead-loss-just-economics/","created":"2025-11-25T15:10:42.120+00:00","updated":"2026-02-03T21:25:09.164+00:00"}
+{"dg-publish":true,"permalink":"/citations/dead-loss-just-economics/","tags":["Fish/Farmed","Economics/Costs","Animal_Welfare","Animal_Feed"],"created":"2025-11-25T15:10:42.120+00:00","updated":"2026-09-30T19:55:01.481+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Fish/Farmed","Economics/Costs","Animal_Welfare","Animal_Feed"],"source_url":"https://changingmarkets.org/wp-content/uploads/2023/10/Dead_Loss_FINAL.pdf","created":"2026-02-03","AI suggested tags":["Fish","EU","Economics"]}}
 ---
 
 

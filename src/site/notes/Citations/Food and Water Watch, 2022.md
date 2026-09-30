@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/food-and-water-watch-2022/","tags":["citation","factory_farming","farming","pigs"],"created":"2025-10-23T17:42:44.536+01:00","updated":"2025-10-31T14:43:31.341+00:00"}
+{"dg-publish":true,"permalink":"/citations/food-and-water-watch-2022/","tags":["Citation","Factory_Farming","Farming","Pigs"],"created":"2025-10-23T17:42:44.536+01:00","updated":"2026-09-30T19:55:01.595+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Citation","Factory_Farming","Farming","Pigs"],"AI suggested tags":["USA","Economics/Jobs","Farmers"]}}
 ---
 
 
@@ -26,3 +26,9 @@ In fact, the farmer’s share per pound of pork sold dropped two-thirds between 
 Statewide, total farm employment dropped 44 percent between 1982 and 2017. Every single Iowa county experienced double-digit declines in
 farm jobs. However, <mark style="background: #FFF3A3A6;">job losses among the top hog-producing counties exceeded the state average</mark> and were even slightly higher than among rural
 counties overall.
+
+# AI suggested related articles
+
+- [[CAFOs wreck domestic rural communities\|CAFOs wreck domestic rural communities]] (0.71)
+- [[Citations/Pew Commission, 2008\|Citations/Pew Commission, 2008]] (0.68)
+- [[Industrial animal agriculture is detrimental to the food security of surrounding rural communities\|Industrial animal agriculture is detrimental to the food security of surrounding rural communities]] (0.68)

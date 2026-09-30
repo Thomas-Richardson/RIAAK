@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/dominguez-oliva-et-al-2023/","tags":["animal_feed","citation","pet_food","companion_animals"],"created":"2025-11-11T23:30:07.119+00:00","updated":"2025-11-11T23:30:07.119+00:00"}
+{"dg-publish":true,"permalink":"/citations/dominguez-oliva-et-al-2023/","tags":["Animal_Feed","Citation","Pet_Food","Companion_Animals"],"created":"2025-11-11T23:30:07.119+00:00","updated":"2026-09-30T19:55:01.498+01:00","dg-note-properties":{"tags":["Animal_Feed","Citation","Pet_Food","Companion_Animals"],"Note Type":"undefined","AI suggested tags":["Review","Health/Nutrition","Veg_Diets"]}}
 ---
 
 
@@ -19,3 +19,9 @@ There has been controversy within the scientific literature, and in the popular 
 ## Abstract
 
 There has been an increase in vegetarianism and veganism in human populations. This trend also appears to be occurring in companion animals, with guardians preferring to feed their animals in accordance with their own dietary values and choices. However, there has been controversy amongst vets and online commentators about the safety of feeding vegan diets to carnivorous species, such as cats and dogs. In spite of this controversy, to date there has been no systematic evaluation of the evidence on this topic. A systematic search of Medline, Scopus, and Web of Science was performed, <mark style="background: #FFF3A3A6;">identifying 16 studies on the impact of vegan diets on cat and dog health. </mark>Studies were appraised for quality using established critical appraisal tools or reporting guidelines. There was considerable heterogeneity in the outcomes measured, and study designs employed, with few studies evaluating key outcomes of interest. Grading of Recommendations, Assessment, Development and Evaluation (GRADE) was utilized for assessment of certainty in the evidence, with the evidence for most outcomes being assessed as low or very low. Whilst the quality and amount of evidence needs to be considered in formulating recommendations, there was no overwhelming evidence of adverse effects arising from use of these diets and there was some evidence of benefits. It is, however, recommended that future high-quality studies, with standardized outcome measures and large sample sizes, be conducted. At the current time, if guardians wish to feed their companion animals vegan diets, a cautious approach should be taken using commercially produced diets which have been formulated considering the nutritional needs of the target species.
+
+# AI suggested related articles
+
+- [[Citations/Knight, 2026\|Citations/Knight, 2026]] (0.78)
+- [[The case for vegan pet food\|The case for vegan pet food]] (0.69)
+- [[vegan pets could be much better for the environment\|vegan pets could be much better for the environment]] (0.68)

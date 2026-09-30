@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/creating-a-more-equitable-movement-compensation-in-the-farmed-animal-advocacy-sector-faunalytics/","created":"2026-01-28T10:42:00.061+00:00","updated":"2026-01-29T05:00:06.413+00:00"}
+{"dg-publish":true,"permalink":"/citations/creating-a-more-equitable-movement-compensation-in-the-farmed-animal-advocacy-sector-faunalytics/","tags":["Movement_Building","Economics/Jobs","High_Income_Countries/USA"],"created":"2026-01-28T10:42:00.061+00:00","updated":"2026-09-30T19:55:01.466+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/compensation-in-farmed-animal-advocacy/","tags":["Movement_Building","Economics/Jobs","High_Income_Countries/USA"],"Year Published":"2024","AI suggested tags":["Retention","Public_Opinion","Strategy"]}}
 ---
 
 The farmed animal advocacy movement has professionalized and grown within the nonprofit sector over the last 50 years. This Faunalytics study benchmarks salaries for the movement.

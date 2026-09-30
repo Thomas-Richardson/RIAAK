@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/georgiou-et-al-2022/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:44.768+01:00","updated":"2025-10-30T23:44:54.011+00:00"}
+{"dg-publish":true,"permalink":"/citations/georgiou-et-al-2022/","tags":["Environment/GHG","Citation"],"created":"2025-10-23T17:42:44.768+01:00","updated":"2026-09-30T19:55:01.616+01:00","dg-note-properties":{"tags":["Environment/GHG","Citation"],"AI suggested tags":["Environment/Land","Grazing","Cattle/Grass_Fed_Cattle"]}}
 ---
 
 
@@ -17,4 +17,4 @@ Soil is the largest terrestrial reservoir of organic carbon and is central for c
 - Compared to unexploited ecosystems or “natural land”, the carbon stock deficit of ranched land is more than double that of cropland and 5X greater than forestry.
 - Grazing lands have the most carbon storage potential, but only if we reduce grazing by a lot.
 
-![Pasted image 20241203130532.png|400](/img/user/Pasted%20image%2020241203130532.png)
+![Pasted image 20241203130532.png\|400](/img/user/Pasted%20image%2020241203130532.png)

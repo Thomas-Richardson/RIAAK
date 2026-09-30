@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/cultured-meat-a-comparison-of-techno-economic-analyses-rethink-priorities/","tags":["alternative_proteins/Cultivated_Meat"],"created":"2025-10-23T17:42:45.218+01:00","updated":"2025-11-04T12:18:15.451+00:00"}
+{"dg-publish":true,"permalink":"/citations/cultured-meat-a-comparison-of-techno-economic-analyses-rethink-priorities/","tags":["Alternative_Proteins/Cultivated_Meat"],"created":"2025-10-23T17:42:45.218+01:00","updated":"2026-09-30T19:55:01.475+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/cultured-meat-a-comparison-of-techno-economic-analyses/","tags":["Alternative_Proteins/Cultivated_Meat"],"Year Published":"2021","AI suggested tags":["Economics/Costs","Economics","Alternative_Proteins"]}}
 ---
 
 Humbird (2020) presents a study (funded by Open Philanthropy) which argues that a number of very difficult scientific and engineering problems need to be solved to get cultured meat to less than $25/kg (the reference point of the more expensive end of plant-based meats), at least with production processes anywhere similar to known processes.

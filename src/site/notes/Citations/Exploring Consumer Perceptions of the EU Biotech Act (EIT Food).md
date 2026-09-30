@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/exploring-consumer-perceptions-of-the-eu-biotech-act-eit-food/","created":"2025-10-25T16:20:31.106+01:00","updated":"2025-10-25T16:20:31.141+01:00"}
+{"dg-publish":true,"permalink":"/citations/exploring-consumer-perceptions-of-the-eu-biotech-act-eit-food/","tags":["EU","Policy","Consumer_Research","Alternative_Proteins"],"created":"2025-10-25T16:20:31.106+01:00","updated":"2026-09-30T19:55:01.542+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.eitfood.eu/reports/biotechnology-policy-acceptance#download-the-report","tags":["EU","Policy","Consumer_Research","Alternative_Proteins"],"Year Published":"2025","AI suggested tags":["Consumer_Attitudes","Policy/Food_Policy","Marketing"]}}
 ---
 
 The EIT Food Consumer Observatory’s ‘Uncovering Consumer Perceptions of the Upcoming Biotech Act’ report is designed to help EU policymakers and national government representatives understand how to shape, implement and communicate the upcoming Biotech Act in a way that optimises public support.

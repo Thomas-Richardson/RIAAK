@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/donor-segmentation-the-people-who-donate-to-non-companion-animals-faunalytics/","created":"2026-01-28T11:00:34.669+00:00","updated":"2026-01-29T05:00:06.650+00:00"}
+{"dg-publish":true,"permalink":"/citations/donor-segmentation-the-people-who-donate-to-non-companion-animals-faunalytics/","tags":["Animal_Advocacy","Companion_Animals","Movement_Building","Consumer_Research"],"created":"2026-01-28T11:00:34.669+00:00","updated":"2026-09-30T19:55:01.500+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/donor-segmentation-the-people-who-donate-to-non-companion-animals/","tags":["Animal_Advocacy","Companion_Animals","Movement_Building","Consumer_Research"],"Year Published":"2019","AI suggested tags":["Public_Opinion","Research/Methods","Retention"]}}
 ---
 
 This Faunalytics analysis compares people who donate to non-companion animal causes (farmed animals, wild animals, etc.) against companion-animal-exclusive donors.

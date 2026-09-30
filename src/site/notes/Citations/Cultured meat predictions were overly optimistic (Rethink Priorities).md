@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/cultured-meat-predictions-were-overly-optimistic-rethink-priorities/","tags":["alternative_proteins/Cultivated_Meat"],"created":"2025-10-23T17:42:45.970+01:00","updated":"2025-11-04T12:18:15.465+00:00"}
+{"dg-publish":true,"permalink":"/citations/cultured-meat-predictions-were-overly-optimistic-rethink-priorities/","tags":["Alternative_Proteins/Cultivated_Meat"],"created":"2025-10-23T17:42:45.970+01:00","updated":"2026-09-30T19:55:01.476+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/cultured-meat-predictions-were-overly-optimistic/","tags":["Alternative_Proteins/Cultivated_Meat"],"Year Published":"2021","AI suggested tags":["Alternative_Proteins","Alternative_Proteins/Precision_Fermentation","Economics"]}}
 ---
 
 In a 2021 MotherJones article, Sinduja Rangarajan, Tom Philpott, Allison Esperanza, and Alexis Madrigal compiled and visualized 186 publicly available predictions about timelines for culture meat (made primarily by cultured meat companies and a handful of researchers). I added 11 additional predictions ACE had collected, and 76 other predictions I found in the course of a forthcoming Rethink Priorities project.

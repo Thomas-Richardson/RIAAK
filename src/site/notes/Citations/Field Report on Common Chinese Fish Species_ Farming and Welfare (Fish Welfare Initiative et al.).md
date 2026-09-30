@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/field-report-on-common-chinese-fish-species-farming-and-welfare-fish-welfare-initiative-et-al/","created":"2025-10-26T17:27:20.478+00:00","updated":"2025-10-26T17:27:20.478+00:00"}
+{"dg-publish":true,"permalink":"/citations/field-report-on-common-chinese-fish-species-farming-and-welfare-fish-welfare-initiative-et-al/","tags":["China","Fish/Farmed","Farming"],"created":"2025-10-26T17:27:20.478+00:00","updated":"2026-09-30T19:55:01.574+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["China","Fish/Farmed","Farming"],"source_url":"https://files.fwi.fish/English_China_Report_2022.pdf","created":"2025-10-26","AI suggested tags":["Fish","EU","Attitudes"]}}
 ---
 
 

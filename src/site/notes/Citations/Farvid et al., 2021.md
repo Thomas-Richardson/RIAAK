@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/farvid-et-al-2021/","tags":["Note","Type","citation","cows","Meat","undefined"],"created":"2025-10-23T17:42:46.757+01:00","updated":"2025-12-10T12:58:35.631+00:00"}
+{"dg-publish":true,"permalink":"/citations/farvid-et-al-2021/","tags":["Citation","Cows","Meat"],"created":"2025-10-23T17:42:46.757+01:00","updated":"2026-09-30T22:10:52.506+01:00","dg-note-properties":{"tags":["Citation","Cows","Meat"],"AI suggested tags":["Meat/Red_Meat","Diet"]}}
 ---
 
 
@@ -38,3 +38,9 @@ Total red and processed meat consumption was significantly associated with:
 - rectal cancer (RR = 1.26; 95% CI = 1.09–1.45)
 - lung cancer (RR = 1.20; 95% CI = 1.09-1.33)
 - and renal cell cancer (RR = 1.19; 95% CI = 1.04–1.37).
+
+# AI suggested related articles
+
+- [[Citations/Han et al., 2019\|Citations/Han et al., 2019]] (0.83)
+- [[red and processed  meat and cancer\|red and processed  meat and cancer]] (0.75)
+- [[Citations/Wang et al., 2016\|Citations/Wang et al., 2016]] (0.74)

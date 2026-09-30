@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/eat-lancet/","tags":["citation","Environment","Health/Nutrition"],"created":"2025-10-23T17:42:46.572+01:00","updated":"2025-11-04T12:13:06.650+00:00"}
+{"dg-publish":true,"permalink":"/citations/eat-lancet/","tags":["Citation","Environment","Health/Nutrition"],"created":"2025-10-23T17:42:46.572+01:00","updated":"2026-09-30T19:55:01.508+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Citation","Environment","Health/Nutrition"],"AI suggested tags":["Environment_Misc","Environment/Land","Environment/GHG"]}}
 ---
 
 
@@ -20,3 +20,9 @@ if we conserve 50% of the land on Earth as intact ecosystems, we may be able to 
 the massive study advises that we will need to largely decarbonize our energy systems, dramatically improve the efficiency of fertilizer use, urgently stop further biodiversity loss, stop expanding agricultural land and regenerate degraded areas, adopt a Half-Earth strategy, halve the current levels of food loss and waste, and intensify food production in a sustainable manner.
 
 In order to achieve these changes and feed a global population of 10 billion people by 2050, humans will need to shift to a largely plant-based diet, as plant foods have lower greenhouse gas emissions and lower water and land use requirements. Furthermore, many of the sustainability problems associated with animal products are inherent and cannot be addressed through increased efficiencies in other areas. 
+
+# AI suggested related articles
+
+- [[Citations/Taherzadeh et al., 2025\|Citations/Taherzadeh et al., 2025]] (0.68)
+- [[Citations/EAT and GlobeScan, 2022\|Citations/EAT and GlobeScan, 2022]] (0.67)
+- [[Citations/Poore and Nemecek 2018\|Citations/Poore and Nemecek 2018]] (0.66)

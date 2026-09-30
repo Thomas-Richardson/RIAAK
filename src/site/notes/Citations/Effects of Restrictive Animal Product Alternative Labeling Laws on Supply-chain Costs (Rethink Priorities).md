@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/effects-of-restrictive-animal-product-alternative-labeling-laws-on-supply-chain-costs-rethink-priorities/","tags":["Alternative_Proteins"],"created":"2025-10-23T17:42:44.215+01:00","updated":"2025-11-04T12:05:56.951+00:00"}
+{"dg-publish":true,"permalink":"/citations/effects-of-restrictive-animal-product-alternative-labeling-laws-on-supply-chain-costs-rethink-priorities/","tags":["Alternative_Proteins"],"created":"2025-10-23T17:42:44.215+01:00","updated":"2026-09-30T19:55:01.518+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/effects-of-restrictive-animal-product-alternative-labeling-laws-on-supply-chain-costs/","tags":["Alternative_Proteins"],"Year Published":"2025","AI suggested tags":["Policy/Labeling","Consumer_Research","Plant_Based/Marketing"]}}
 ---
 
 ## Short Summary
@@ -13,3 +13,9 @@ After conducting expert interviews, we deem it unlikely that the animal products
 * Experts we interviewed pointed to a variety of potential harms of a US patchwork (see Summary Table 1 on the next page). Of these, **the most concerning was that retailers and distributors would drop animal product alternatives entirely due to the logistical difficulties of working across state lines.**
 * However, we speculate that a crisis of this sort is somewhat unlikely, and might spur federal regulation that preempts state laws if it did occur. Indeed, **interviewees generally seemed more concerned about a federal ban on dairy terms for plant-based alternatives.**
 * A federal law is somewhat likely, possibly first for dairy alternatives and later for meat alternatives. **When advocating at the federal level, it is more likely important to prevent a nationwide ban on meat-like terminology than to block a requirement for clarificatory language.**
+
+# AI suggested related articles
+
+- [[Citations/What To Call Plant-Based Meat Alternatives- A Labeling Study (Faunalytics)\|Citations/What To Call Plant-Based Meat Alternatives- A Labeling Study (Faunalytics)]] (0.73)
+- [[EVALUATING CONSUMER CONFUSION THE CASE OF LABELING RESTRICTIONS ONPLANT-BASED CHEESE IN TÜRKİYE (Animetrics)\|EVALUATING CONSUMER CONFUSION THE CASE OF LABELING RESTRICTIONS ONPLANT-BASED CHEESE IN TÜRKİYE (Animetrics)]] (0.70)
+- [[Citations/The Role Of Humanewashing In Grocery Stores - How Welfare Labels Affect Purchasing Behavior (Faunalytics)\|Citations/The Role Of Humanewashing In Grocery Stores - How Welfare Labels Affect Purchasing Behavior (Faunalytics)]] (0.69)

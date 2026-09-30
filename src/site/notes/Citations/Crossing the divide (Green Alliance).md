@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/crossing-the-divide-green-alliance/","created":"2025-10-23T17:42:45.847+01:00","updated":"2025-10-23T17:42:45.848+01:00"}
+{"dg-publish":true,"permalink":"/citations/crossing-the-divide-green-alliance/","tags":["Environment/Land","Alternative_Proteins","Farming","Narratives"],"created":"2025-10-23T17:42:45.847+01:00","updated":"2026-09-30T19:55:01.471+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Environment/Land","Alternative_Proteins","Farming","Narratives"],"source_url":"https://green-alliance.org.uk/wp-content/uploads/2023/12/Crossing-the-Divide.pdf","created":"2025-10-23","AI suggested tags":["Food_Security","High_Income_Countries/UK","Policy/Food_Policy"]}}
 ---
 
 

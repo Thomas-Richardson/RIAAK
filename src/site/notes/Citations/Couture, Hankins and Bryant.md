@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/couture-hankins-and-bryant/","tags":["Bryant","citation"],"created":"2025-10-23T17:42:44.896+01:00","updated":"2025-11-04T12:03:59.429+00:00"}
+{"dg-publish":true,"permalink":"/citations/couture-hankins-and-bryant/","tags":["Bryant","Citation"],"created":"2025-10-23T17:42:44.896+01:00","updated":"2026-09-30T19:55:01.465+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Bryant","Citation"],"AI suggested tags":["Factory_Farming","Africa","Lower_Middle_Income_Countries"]}}
 ---
 
 

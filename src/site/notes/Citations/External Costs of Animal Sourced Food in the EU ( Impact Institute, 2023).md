@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/external-costs-of-animal-sourced-food-in-the-eu-impact-institute-2023/","tags":["Bryant/Project/cawf_hidden_harms","citation","economics"],"created":"2025-10-31T14:40:37.943+00:00","updated":"2026-01-15T11:05:55.755+00:00"}
+{"dg-publish":true,"permalink":"/citations/external-costs-of-animal-sourced-food-in-the-eu-impact-institute-2023/","tags":["Bryant/Project/CAWF_Hidden_Harms","Citation","Economics"],"created":"2025-10-31T14:40:37.943+00:00","updated":"2026-09-30T19:55:01.550+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Bryant/Project/CAWF_Hidden_Harms","Citation","Economics"],"Url":"https://www.eurogroupforanimals.org/files/eurogroupforanimals/2023-09/202309_impact%20institute_true%20cost%20of%20animal%20production%20and%20consumption_report%20with%20updated%20annex.pdf","AI suggested tags":["CAWF_Farming","BOTEC","Economics/Costs"]}}
 ---
 
 - [[Animal agriculture is a big source of air pollution\|Animal agriculture is a big source of air pollution]]
@@ -65,9 +65,15 @@ If chickens cost 34B Europe in air pollution, and UK chicken is 9.58% of Europea
 ```
 Using 2022 OWID data
 
-![Pasted image 20240822132331.png|700](/img/user/Pasted%20image%2020240822132331.png)
+![Pasted image 20240822132331.png\|700](/img/user/Pasted%20image%2020240822132331.png)
 
 </div></div>
  
 
 # 
+
+# AI suggested related articles
+
+- [[ProVeg EU Env calcs\|ProVeg EU Env calcs]] (0.77)
+- [[The main ways animal agriculture costs us money\|The main ways animal agriculture costs us money]] (0.73)
+- [[Calculating the environmental damage caused by UK factory farms\|Calculating the environmental damage caused by UK factory farms]] (0.71)

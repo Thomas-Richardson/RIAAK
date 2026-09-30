@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/feeding-change-building-a-resilient-food-system-through-protein-diversification-fairr/","tags":["retailers"],"created":"2025-10-29T08:56:31.169+00:00","updated":"2025-10-29T08:56:31.271+00:00"}
+{"dg-publish":true,"permalink":"/citations/feeding-change-building-a-resilient-food-system-through-protein-diversification-fairr/","tags":["Retailers"],"created":"2025-10-29T08:56:31.169+00:00","updated":"2026-09-30T19:55:01.564+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.fairr.org/resources/reports/protein-diversification-phase2-progress-report","tags":["Retailers"],"Year Published":"2025","AI suggested tags":["Food_Security","Alternative_Proteins","Economics"]}}
 ---
 
 ## Overview

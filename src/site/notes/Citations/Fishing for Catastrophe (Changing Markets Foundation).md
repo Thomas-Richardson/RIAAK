@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/fishing-for-catastrophe-changing-markets-foundation/","created":"2025-11-25T15:05:57.087+00:00","updated":"2026-02-03T21:37:52.602+00:00"}
+{"dg-publish":true,"permalink":"/citations/fishing-for-catastrophe-changing-markets-foundation/","tags":["Fish/Farmed","Animal_Feed","Food_Security","Greenwashing"],"created":"2025-11-25T15:05:57.087+00:00","updated":"2026-09-30T19:55:01.588+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Fish/Farmed","Animal_Feed","Food_Security","Greenwashing"],"source_url":"https://changingmarkets.org/wp-content/uploads/2023/10/CM-WEB-FINAL-FISHING-FOR-CATASTROPHE-2019.pdf","created":"2026-02-03","AI suggested tags":["Fish","EU","Financial_Activism"]}}
 ---
 
 

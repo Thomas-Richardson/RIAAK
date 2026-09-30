@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/covid-19-and-animals-what-the-public-does-and-doesn-t-know-faunalytics/","created":"2026-01-28T11:00:25.120+00:00","updated":"2026-01-29T05:00:06.525+00:00"}
+{"dg-publish":true,"permalink":"/citations/covid-19-and-animals-what-the-public-does-and-doesn-t-know-faunalytics/","tags":["Health/Disease","High_Income_Countries/USA","Public_Opinion","Messaging"],"created":"2026-01-28T11:00:25.120+00:00","updated":"2026-09-30T19:55:01.422+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/covid-19-poll/","tags":["Health/Disease","High_Income_Countries/USA","Public_Opinion","Messaging"],"Year Published":"2020","AI suggested tags":["Consumer_Attitudes","Consumer_Research","Research/Methods"]}}
 ---
 
 ### Project Background

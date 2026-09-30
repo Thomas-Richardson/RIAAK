@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/fish-movement-survey-results-fish-welfare-initiative/","created":"2025-10-26T17:23:09.525+00:00","updated":"2025-10-26T17:23:09.526+00:00"}
+{"dg-publish":true,"permalink":"/citations/fish-movement-survey-results-fish-welfare-initiative/","tags":["Fish","Movement_Building","Movement_Strategy"],"created":"2025-10-26T17:23:09.525+00:00","updated":"2026-09-30T19:55:01.580+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Fish","Movement_Building","Movement_Strategy"],"source_url":"https://files.fwi.fish/Fish_Movement_Survey.pdf","created":"2025-10-26","AI suggested tags":["Fish/Farmed","Attitudes","Strategy"]}}
 ---
 
 

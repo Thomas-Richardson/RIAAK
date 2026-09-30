@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/database-of-sources-investigating-interventions-to-reduce-meat-and-animal-product-consumption-rethink-priorities/","tags":["external_resource meat_reduction"],"created":"2025-10-23T17:42:46.220+01:00","updated":"2025-10-23T18:12:10.239+01:00"}
+{"dg-publish":true,"permalink":"/citations/database-of-sources-investigating-interventions-to-reduce-meat-and-animal-product-consumption-rethink-priorities/","tags":["External_Resource","Meat_Reduction"],"created":"2025-10-23T17:42:46.220+01:00","updated":"2026-09-30T19:55:01.478+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/database-of-sources-investigating-interventions-to-reduce-meat-and-animal-product-consumption/","tags":["External_Resource","Meat_Reduction"],"Year Published":"2025","AI suggested tags":["Review","Meat/Meat_Reduction","Behaviour_Change"]}}
 ---
 
 Reducing meat and edible animal product (MAP) consumption is a goal of advocates for animal welfare, the climate, and human health. There is a large and growing empirical literature on MAP reduction interventions, but it remains far from clear which interventions are the most effective. Systematic reviews and meta-analyses can remedy this problem by providing stronger evidence than primary sources about which interventions work in which contexts. Evidence synthesis is particularly important for MAP reduction work because the literature is scattered across multiple disciplines (e.g., environmental science, medicine, and animal advocacy), as well as between academic and gray literature. By default, advocates and researchers will struggle to completely and accurately understand the state of the evidence.
@@ -9,3 +9,9 @@ To contribute to solving this problem, we developed a database of sources invest
 Our database contains 413 sources published before April 16, 2024 and is available at https://osf.io/jp498. We pre-registered our scoping review used to generate the database, including best-practice guidelines for searching and screening sources (Peacock et al., 2024). All deviations from our pre-registration are reported in this article: most significantly, we reduced the planned extent of forward and backward citation searching, and we did not complete coding of study characteristics. We would be excited to see further research build on our database and conduct deeper investigation with the identified studies.
 
 This article explains how to use our database; its scope (inclusion and exclusion criteria) and how that scope differs from other reviews; and how we collected the data. We conclude by offering some suggestions for making use of the data.
+
+# AI suggested related articles
+
+- [[New research database for evidence-based meat reduction\|New research database for evidence-based meat reduction]] (0.83)
+- [[Citations/Mathur et al., 2021\|Citations/Mathur et al., 2021]] (0.69)
+- [[A tool for exploring interventions to reduce animal product consumption\|A tool for exploring interventions to reduce animal product consumption]] (0.69)

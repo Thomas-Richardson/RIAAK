@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/fernandez-rodriguez-et-al-2025/","created":"2025-12-10T12:43:35.419+00:00","updated":"2025-12-10T12:43:35.863+00:00"}
+{"dg-publish":true,"permalink":"/citations/fernandez-rodriguez-et-al-2025/","tags":["Alternative_Proteins/Plant_Based","Health/Nutrition","Review","Meat"],"created":"2025-12-10T12:43:35.419+00:00","updated":"2026-09-30T19:55:01.572+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.sciencedirect.com/science/article/abs/pii/S000291652401428X","tags":["Alternative_Proteins/Plant_Based","Health/Nutrition","Review","Meat"],"Year Published":"2025","AI suggested tags":["Legumes","Meat/Red_Meat","Diet"]}}
 ---
 
 ### Background
@@ -16,3 +16,9 @@ Eight publications from 7 RCTs comprising 369 adults (60% females; mean age rang
 
 ### Conclusions
 Our findings suggest substituting PBMAs for meat for ≤8 wk lowered TC (6%), LDL-cholesterol (12%), and body weight (1%) in adults without cardiovascular diseases. PBMAs may facilitate the transition to a plant-based diet, but long-term studies are needed to evaluate their cardiometabolic effects.This trial was registered at PROSPERO as CRD42024556191.
+
+# AI suggested related articles
+
+- [[Citations/Zaidi et al., 2025\|Citations/Zaidi et al., 2025]] (0.77)
+- [[Citations/Fu et al., 2026\|Citations/Fu et al., 2026]] (0.76)
+- [[Citations/Fernández-Fígares Jiménez et al., 2025\|Citations/Fernández-Fígares Jiménez et al., 2025]] (0.75)

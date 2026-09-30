@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/food-and-water-watch-2023/","tags":["citation","dairy","factory_farming","High_Income_Countries/USA"],"created":"2025-10-23T17:42:44.718+01:00","updated":"2025-12-10T12:59:08.150+00:00"}
+{"dg-publish":true,"permalink":"/citations/food-and-water-watch-2023/","tags":["Citation","Dairy","Factory_Farming","High_Income_Countries/USA"],"created":"2025-10-23T17:42:44.718+01:00","updated":"2026-09-30T19:55:01.597+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Citation","Dairy","Factory_Farming","High_Income_Countries/USA"],"AI suggested tags":["USA","Farming","Cows"]}}
 ---
 
 
@@ -24,3 +24,9 @@ Canada has a great milk system:
 - dairy exports are generally reserved for getting rid of modest oversupply rather than driving profits
 - Canadian farmers earn 42% more for their milk with no increase in price to consumers
 -
+
+# AI suggested related articles
+
+- [[Why factory farms may be less economical than we think\|Why factory farms may be less economical than we think]] (0.60)
+- [[Citations/CIWF, 2022\|Citations/CIWF, 2022]] (0.60)
+- [[Citations/Duluins et al., 2022\|Citations/Duluins et al., 2022]] (0.60)

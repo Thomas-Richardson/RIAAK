@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/german-supermarkets-hitting-climate-targets-and-saving-money-madre-brava/","created":"2025-10-23T17:42:46.826+01:00","updated":"2025-10-23T17:42:46.830+01:00"}
+{"dg-publish":true,"permalink":"/citations/german-supermarkets-hitting-climate-targets-and-saving-money-madre-brava/","tags":["Germany","Retailers","Economics/Costs","Environment/GHG","Meat/Meat_Reduction"],"created":"2025-10-23T17:42:46.826+01:00","updated":"2026-09-30T19:55:01.619+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.madrebrava.org/latest/how-german-supermarkets-can-hit-climate-targets-and-save-money","tags":["Germany","Retailers","Economics/Costs","Environment/GHG","Meat/Meat_Reduction"],"Year Published":"2025","AI suggested tags":["Economics","Environment/Land","Case_Study"]}}
 ---
 
 Report here: https://cdn.prod.website-files.com/677d312731ae664a70dacd6c/681d1be86ddf501d6be52001_analysis-meet-emission-reduction-targets-and-save-money.pdf

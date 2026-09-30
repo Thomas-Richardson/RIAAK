@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/exploring-elements-of-food-policy-interventions-mercy-for-animals/","created":"2025-10-23T17:42:45.704+01:00","updated":"2025-10-23T17:42:45.704+01:00"}
+{"dg-publish":true,"permalink":"/citations/exploring-elements-of-food-policy-interventions-mercy-for-animals/","tags":["High_Income_Countries/USA","Policy/Food_Policy","Institutional_Change","Alternative_Proteins/Plant_Based"],"created":"2025-10-23T17:42:45.704+01:00","updated":"2026-09-30T19:55:01.544+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["High_Income_Countries/USA","Policy/Food_Policy","Institutional_Change","Alternative_Proteins/Plant_Based"],"source_url":"https://static1.squarespace.com/static/5e36c25824fc0a1ce060426d/t/666b10a7b6de794b453e16c4/1718292648030/FSRF+2-020.pdf","created":"2025-10-23","AI suggested tags":["Meat/Meat_Reduction","Consumer_Research","EU"]}}
 ---
 
 

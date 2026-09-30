@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/farmed-fish-advocacy-in-denmark-animal-ask/","created":"2025-10-23T17:42:44.806+01:00","updated":"2025-10-23T17:42:44.806+01:00"}
+{"dg-publish":true,"permalink":"/citations/farmed-fish-advocacy-in-denmark-animal-ask/","tags":["Fish/Farmed","EU","Policy","Strategy"],"created":"2025-10-23T17:42:44.806+01:00","updated":"2026-09-30T19:55:01.557+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.animalask.org/post/farmed-fish-advocacy-in-denmark","tags":["Fish/Farmed","EU","Policy","Strategy"],"Year Published":"2023","AI suggested tags":["Fish","Attitudes","Animal_Welfare"]}}
 ---
 
 In this report, we identify the top opportunities for improving the lives and welfare of farmed fish in Denmark.

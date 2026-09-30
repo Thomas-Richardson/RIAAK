@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/enhancing-meat-with-plant-proteins-nectar-et-al/","created":"2025-11-05T12:10:02.640+00:00","updated":"2025-11-05T12:10:02.640+00:00"}
+{"dg-publish":true,"permalink":"/citations/enhancing-meat-with-plant-proteins-nectar-et-al/","tags":["Alternative_Proteins/Balanced_Proteins","Consumer_Research","Asia","Meat/Meat_Reduction"],"created":"2025-11-05T12:10:02.640+00:00","updated":"2026-09-30T19:55:01.526+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Alternative_Proteins/Balanced_Proteins","Consumer_Research","Asia","Meat/Meat_Reduction"],"source_url":"https://46145081.fs1.hubspotusercontent-na1.net/hubfs/46145081/Enhancing%20Meat%20with%20Plant%20Proteins-%20A%20Sensory%20Analysis%20in%20APAC%20%E2%80%93%20Full%20Report%20-%20FINAL.pdf","created":"2025-11-05","AI suggested tags":["Marketing","Alternative_Proteins/Plant_Based","Alternative_Proteins"]}}
 ---
 
 

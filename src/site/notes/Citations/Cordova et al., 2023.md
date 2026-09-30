@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/cordova-et-al-2023/","tags":["Note","Type","Alternative_Proteins","citation","Health/Nutrition","undefined"],"created":"2025-10-23T17:42:45.581+01:00","updated":"2025-12-29T16:32:57.502+00:00"}
+{"dg-publish":true,"permalink":"/citations/cordova-et-al-2023/","tags":["Alternative_Proteins","Citation","Health/Nutrition"],"created":"2025-10-23T17:42:45.581+01:00","updated":"2026-09-30T19:55:01.459+01:00","dg-note-properties":{"tags":["Alternative_Proteins","Citation","Health/Nutrition"],"Reference":"Cordova, R., Viallon, V., Fontvieille, E., Peruchet-Noray, L., Jansana, A., Wagner, K. H., ... & Freisling, H. (2023). Consumption of ultra-processed foods and risk of multimorbidity of cancer and cardiometabolic diseases: a multinational cohort study. _The Lancet Regional Health–Europe_.","Url":"https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762%2823%2900190-4/fulltext","AI suggested tags":["UPF","Diet","Meat"]}}
 ---
 
 - [[ultraprocessed is misleading\|ultraprocessed is misleading]]
@@ -18,3 +18,9 @@ After <mark style="background: #FFF3A3A6;">a median of 11.2 years of follow-up</
 - Other subgroups such as ultra-processed breads and cereals (HR: 0.97, 95% CI: 0.94, 1.00) or <mark style="background: #FFF3A3A6;">plant-based alternatives </mark>(HR: 0.97, 95% CI: 0.91, 1.02) <mark style="background: #FFF3A3A6;">were not associated with risk.</mark>
 
 - [[Are meat alternatives healthier than meat\|Are meat alternatives healthier than meat]]
+
+# AI suggested related articles
+
+- [[Citations/Fernández-Fígares Jiménez et al., 2025\|Citations/Fernández-Fígares Jiménez et al., 2025]] (0.73)
+- [[Citations/Ultraprocessed Foods in the U.S. (Healthy Eating Research)\|Citations/Ultraprocessed Foods in the U.S. (Healthy Eating Research)]] (0.73)
+- [[Citations/Greger, 2025\|Citations/Greger, 2025]] (0.72)

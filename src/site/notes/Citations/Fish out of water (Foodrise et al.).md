@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/fish-out-of-water-foodrise-et-al/","created":"2026-02-20T10:39:59.372+00:00","updated":"2026-02-20T10:39:59.779+00:00"}
+{"dg-publish":true,"permalink":"/citations/fish-out-of-water-foodrise-et-al/","tags":["Fish/Farmed","Factory_Farming","Animal_Feed","High_Income_Countries/UK","EU"],"created":"2026-02-20T10:39:59.372+00:00","updated":"2026-09-30T19:55:01.587+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Fish/Farmed","Factory_Farming","Animal_Feed","High_Income_Countries/UK","EU"],"source_url":"https://foodrise.org.uk/wp-content/uploads/2025/12/FoodRise-SalmonOnLand-EN-Dec25-HighRes-1.pdf","created":"2026-02-20","AI suggested tags":["Fish","Food_Security","Greenwashing"]}}
 ---
 
 

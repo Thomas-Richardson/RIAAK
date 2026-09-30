@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/dunneram-et-al-2026/","created":"2026-03-02T00:24:10.404+00:00","updated":"2026-03-02T00:24:11.251+00:00"}
+{"dg-publish":true,"permalink":"/citations/dunneram-et-al-2026/","tags":["Veg_Diets","Health/Disease","Review"],"created":"2026-03-02T00:24:10.404+00:00","updated":"2026-09-30T19:55:01.507+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.nature.com/articles/s41416-025-03327-4","tags":["Veg_Diets","Health/Disease","Review"],"Year Published":"2026","AI suggested tags":["Health/Nutrition","Diet","Meat/Meat_Consumption"]}}
 ---
 
 ### Background
@@ -13,3 +13,9 @@ Compared to meat eaters, poultry eaters had lower risk of prostate cancer (0.93,
 
 ### Conclusions
 Vegetarian diets might influence risk for several cancers. The generalisability should be considered cautiously.
+
+# AI suggested related articles
+
+- [[Citations/Farvid et al., 2021\|Citations/Farvid et al., 2021]] (0.68)
+- [[Citations/Han et al., 2019\|Citations/Han et al., 2019]] (0.66)
+- [[Citations/aston et al., 2022\|Citations/aston et al., 2022]] (0.61)

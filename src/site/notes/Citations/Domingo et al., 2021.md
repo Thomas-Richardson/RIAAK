@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/domingo-et-al-2021/","tags":["animal_feed","citation","Environment/Pollution","High_Income_Countries/USA"],"created":"2025-10-23T17:42:44.208+01:00","updated":"2025-12-10T12:59:08.133+00:00"}
+{"dg-publish":true,"permalink":"/citations/domingo-et-al-2021/","tags":["Animal_Feed","Citation","Environment/Pollution","High_Income_Countries/USA"],"created":"2025-10-23T17:42:44.208+01:00","updated":"2026-09-30T19:55:01.497+01:00","dg-note-properties":{"tags":["Animal_Feed","Citation","Environment/Pollution","High_Income_Countries/USA"],"Note Type":"undefined","AI suggested tags":["Health/Disease","Environment_Misc","Environment/GHG"]}}
 ---
 
 
@@ -17,3 +17,9 @@ We show how different foods affect human health by reducing air quality. We cons
 
 The top 10% of the most damaging counties (308 counties) together responsible for 8,400 deaths per year (47% of total deaths). These counties are mainly located in California, Pennsylvania, North Carolina, and along the Upper Midwest Corn Belt 
 ## Other notes
+
+# AI suggested related articles
+
+- [[Citations/Springmann et al., 2023\|Citations/Springmann et al., 2023]] (0.80)
+- [[ProVeg EU Env calcs\|ProVeg EU Env calcs]] (0.66)
+- [[Citations/External Costs of Animal Sourced Food in the EU ( Impact Institute, 2023)\|Citations/External Costs of Animal Sourced Food in the EU ( Impact Institute, 2023)]] (0.66)

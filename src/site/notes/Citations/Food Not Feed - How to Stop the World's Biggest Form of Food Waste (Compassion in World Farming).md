@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/food-not-feed-how-to-stop-the-world-s-biggest-form-of-food-waste-compassion-in-world-farming/","tags":["food_security animal_feed factory_farming"],"created":"2025-10-23T17:42:45.496+01:00","updated":"2026-02-05T12:49:16.000+00:00"}
+{"dg-publish":true,"permalink":"/citations/food-not-feed-how-to-stop-the-world-s-biggest-form-of-food-waste-compassion-in-world-farming/","tags":["Food_Security","Animal_Feed","Factory_Farming"],"created":"2025-10-23T17:42:45.496+01:00","updated":"2026-09-30T19:55:01.593+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.ciwf.org/explore-our-resources/reports-position-papers-briefings/food-not-feed-how-to-stop-the-worlds-biggest-form-of-food-waste/","tags":["Food_Security","Animal_Feed","Factory_Farming"],"Year Published":"2025","AI suggested tags":["Farming","Environment/Land","Economics/Jobs"]}}
 ---
 
 NOTE: this report is an interactive online one, I highly advice clicking onto the original website

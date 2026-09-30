@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/effectiveness-of-a-theory-informed-documentary-to-reduce-consumption-of-meat-and-animal-products-three-randomized-controlled-experiments-rethink-priorities/","created":"2025-10-23T17:42:46.042+01:00","updated":"2025-10-23T18:12:10.233+01:00"}
+{"dg-publish":true,"permalink":"/citations/effectiveness-of-a-theory-informed-documentary-to-reduce-consumption-of-meat-and-animal-products-three-randomized-controlled-experiments-rethink-priorities/","tags":["Behaviour_Change","Meat/Meat_Reduction","Research/Methods","High_Income_Countries/USA"],"created":"2025-10-23T17:42:46.042+01:00","updated":"2026-09-30T19:55:01.517+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/effectiveness-of-a-theory-informed-documentary-to-reduce-consumption-of-meat-and-animal-products/","tags":["Behaviour_Change","Meat/Meat_Reduction","Research/Methods","High_Income_Countries/USA"],"Year Published":"2021","AI suggested tags":["Review","Consumer_Research","Diet_Change"]}}
 ---
 
 ### Recommendations

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/fishy-finances-gsfer-et-al/","created":"2026-02-19T12:17:18.018+00:00","updated":"2026-02-19T12:17:18.963+00:00"}
+{"dg-publish":true,"permalink":"/citations/fishy-finances-gsfer-et-al/","tags":["Fish/Farmed","Financial_Activism","Food_Security","Environment"],"created":"2026-02-19T12:17:18.018+00:00","updated":"2026-09-30T19:55:01.590+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Fish/Farmed","Financial_Activism","Food_Security","Environment"],"source_url":"https://foodrise.org.uk/wp-content/uploads/2025/03/Fishy-Finances-Report-March-2025.pdf","created":"2026-02-19","AI suggested tags":["Fish","Animal_Feed","EU"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/fish-welfare-in-uk-wild-caught-fisheries-animal-ask/","tags":["wild_animals","fish","High_Income_Countries/UK"],"created":"2025-10-23T17:42:44.905+01:00","updated":"2025-12-10T12:59:34.412+00:00"}
+{"dg-publish":true,"permalink":"/citations/fish-welfare-in-uk-wild-caught-fisheries-animal-ask/","tags":["Wild_Animals","Fish","High_Income_Countries/UK"],"created":"2025-10-23T17:42:44.905+01:00","updated":"2026-09-30T19:55:01.585+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.animalask.org/post/fish-welfare-in-uk-wild-caught-fisheries","tags":["Wild_Animals","Fish","High_Income_Countries/UK"],"Year Published":"2023","AI suggested tags":["Fish/Farmed","Attitudes","Animal_Welfare"]}}
 ---
 
 Wild caught fishing is distinguished both by the huge number of animals affected and by the complete neglect of their welfare during slaughter. Fish suffer from numerous sources of harm during wild capture, including injuries from hooks and nets, injuries from changes in pressure, asphyxiation, injuries from being out of water, gill cutting, and live gutting.

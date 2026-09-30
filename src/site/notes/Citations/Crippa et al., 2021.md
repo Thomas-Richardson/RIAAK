@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/crippa-et-al-2021/","tags":["Environment/GHG","Note","Type","citation","Environment/Land","undefined"],"created":"2025-10-23T17:42:44.714+01:00","updated":"2026-02-05T12:49:15.966+00:00"}
+{"dg-publish":true,"permalink":"/citations/crippa-et-al-2021/","tags":["Environment/GHG","Citation","Environment/Land"],"created":"2025-10-23T17:42:44.714+01:00","updated":"2026-09-30T19:55:01.468+01:00","dg-note-properties":{"tags":["Environment/GHG","Citation","Environment/Land"],"AI suggested tags":["Environment_Misc","Meat","Cows"]}}
 ---
 
 

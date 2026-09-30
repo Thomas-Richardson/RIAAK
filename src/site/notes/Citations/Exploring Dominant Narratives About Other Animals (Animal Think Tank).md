@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/exploring-dominant-narratives-about-other-animals-animal-think-tank/","created":"2025-10-23T17:42:46.197+01:00","updated":"2025-10-23T17:42:46.197+01:00"}
+{"dg-publish":true,"permalink":"/citations/exploring-dominant-narratives-about-other-animals-animal-think-tank/","tags":["Narratives","Messaging","Public_Opinion","High_Income_Countries/UK"],"created":"2025-10-23T17:42:46.197+01:00","updated":"2026-09-30T19:55:01.543+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Narratives","Messaging","Public_Opinion","High_Income_Countries/UK"],"source_url":"https://animalthinktank.org.uk/wp-content/uploads/2025/03/Narrative-Insight-Report-Understanding-people__s-opinions-on-animal__-roles-in-society.pdf","created":"2025-10-23","AI suggested tags":["Consumer_Attitudes","Strategy","Research/Methods"]}}
 ---
 
 

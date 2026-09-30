@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/establish-a-code-of-practice-for-farmed-fish-in-the-uk-trout-and-salmon-animal-ask/","created":"2025-10-23T17:42:44.964+01:00","updated":"2025-10-23T17:42:44.965+01:00"}
+{"dg-publish":true,"permalink":"/citations/establish-a-code-of-practice-for-farmed-fish-in-the-uk-trout-and-salmon-animal-ask/","tags":["Fish/Farmed","Policy","High_Income_Countries/UK","Strategy"],"created":"2025-10-23T17:42:44.964+01:00","updated":"2026-09-30T19:55:01.535+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.animalask.org/post/establish-a-code-of-practice-for-farmed-fish-in-the-uk-trout-and-salmon","tags":["Fish/Farmed","Policy","High_Income_Countries/UK","Strategy"],"Year Published":"2022","AI suggested tags":["Fish","EU","Animal_Welfare"]}}
 ---
 
 ## OVERVIEW 

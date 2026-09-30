@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/ewens-et-al-2023/","tags":["Health/Nutrition","institutional_change"],"created":"2025-10-23T17:42:44.825+01:00","updated":"2025-11-05T15:19:55.246+00:00"}
+{"dg-publish":true,"permalink":"/citations/ewens-et-al-2023/","tags":["Health/Nutrition","Institutional_Change"],"created":"2025-10-23T17:42:44.825+01:00","updated":"2026-09-30T19:55:01.539+01:00","dg-note-properties":{"tags":["Health/Nutrition","Institutional_Change"],"Note Type":"Academic Paper","Url":"https://www.mdpi.com/2072-6643/15/22/4797","AI suggested tags":["Behaviour_Change","Citation","Case_Study"]}}
 ---
 
 - [[Meat free Mondays\|Meat free Mondays]]
@@ -19,3 +19,9 @@ Ewens, E., Young, L., & Mackay, S. (2023). Meat-Free Mondays in Hospital Cafés 
 	3. ‘Human and planetary health’ (hospitals as leaders in healthy, sustainable diets)
 	4. ‘Implementation success’ (communication and education). 
 - Recommendations for implementation of MFMs included seeking feedback from other DHBs, wide consultation with food service staff, cultural and dietitian food service support and providing evidence of the success of MFMs and alternatives to MFMs.
+
+# AI suggested related articles
+
+- [[Citations/McPhedran et al., 2023\|Citations/McPhedran et al., 2023]] (0.73)
+- [[Citations/Sadler et al., 2025\|Citations/Sadler et al., 2025]] (0.71)
+- [[Citations/Truman et al., 2023\|Citations/Truman et al., 2023]] (0.71)

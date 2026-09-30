@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/cruel-products-import-ban-animal-ask/","created":"2025-10-23T17:42:46.464+01:00","updated":"2025-10-23T17:42:46.465+01:00"}
+{"dg-publish":true,"permalink":"/citations/cruel-products-import-ban-animal-ask/","tags":["Europe","Law","Policy","Public_Opinion"],"created":"2025-10-23T17:42:46.464+01:00","updated":"2026-09-30T19:55:01.472+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.animalask.org/post/cruel-products-import-ban","tags":["Europe","Law","Policy","Public_Opinion"],"Year Published":"2021","AI suggested tags":["EU","Animal_Welfare","Strategy"]}}
 ---
 
 # Executive summary — Switzerland “cruel products” import ban

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/future-of-the-industry-2024-balanced-protein-nectar/","created":"2025-10-23T17:42:46.457+01:00","updated":"2025-10-23T17:42:46.459+01:00"}
+{"dg-publish":true,"permalink":"/citations/future-of-the-industry-2024-balanced-protein-nectar/","tags":["Alternative_Proteins/Balanced_Proteins","Consumer_Research","Consumer_Attitudes","High_Income_Countries/USA"],"created":"2025-10-23T17:42:46.457+01:00","updated":"2026-09-30T19:55:01.608+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Alternative_Proteins/Balanced_Proteins","Consumer_Research","Consumer_Attitudes","High_Income_Countries/USA"],"source_url":"https://static1.squarespace.com/static/66107b8b2226bc6925086385/t/67d8aa880b93676eec726805/1742252681238/Nectar_FOTI+2024_General+Report+Summary+Balanced+Protein+One-Pager.pdf","created":"2025-10-21","AI suggested tags":["Alternative_Proteins/Plant_Based","Alternative_Proteins","Marketing"]}}
 ---
 
 

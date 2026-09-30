@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/erb-et-al-2012/","tags":["Note","Type","citation","food_security","undefined","Economics/jobs"],"created":"2025-10-23T17:42:44.459+01:00","updated":"2025-11-06T18:35:39.222+00:00"}
+{"dg-publish":true,"permalink":"/citations/erb-et-al-2012/","tags":["Citation","Food_Security","Economics/Jobs"],"created":"2025-10-23T17:42:44.459+01:00","updated":"2026-09-30T19:55:01.529+01:00","dg-note-properties":{"tags":["Citation","Food_Security","Economics/Jobs"],"AI suggested tags":["MFA_Food_Sec","Animal_Feed","Farming"]}}
 ---
 
 

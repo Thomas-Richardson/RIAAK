@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/developing-a-messaging-strategy-to-end-animal-farming-using-focus-groups-pax-fauna/","tags":["#narratives"],"created":"2025-10-23T17:42:45.843+01:00","updated":"2025-10-23T17:42:45.843+01:00"}
+{"dg-publish":true,"permalink":"/citations/developing-a-messaging-strategy-to-end-animal-farming-using-focus-groups-pax-fauna/","tags":["Narratives"],"created":"2025-10-23T17:42:45.843+01:00","updated":"2026-09-30T19:55:01.487+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Narratives"],"Year Published":"2022","Url":"https://paxfauna.org/reports/developing-a-messaging-strategy-to-end-animal-farming-using-focus-groups/","AI suggested tags":["Public_Opinion","Messaging","Behaviour_Change"]}}
 ---
 
 In this study, we designed and tested new messages for animal advocates based on findings from previous research. In particular, our goal was to develop new _counter-narratives_ that have the potential to displace the dominant narratives around farming animals, which justify it.

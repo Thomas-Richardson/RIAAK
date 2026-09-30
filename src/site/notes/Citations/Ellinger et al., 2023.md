@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/ellinger-et-al-2023/","tags":["Note","Type","citation","Health/Nutrition","Meat","undefined","review"],"created":"2025-11-06T09:41:43.060+00:00","updated":"2025-12-10T12:58:35.625+00:00"}
+{"dg-publish":true,"permalink":"/citations/ellinger-et-al-2023/","tags":["Citation","Health/Nutrition","Meat","Review"],"created":"2025-11-06T09:41:43.060+00:00","updated":"2026-09-30T19:55:01.519+01:00","dg-note-properties":{"tags":["Citation","Health/Nutrition","Meat","Review"],"AI suggested tags":["Diet","Legumes","Nuts"]}}
 ---
 
 
@@ -24,3 +24,9 @@ Thirty-three SRs were included in this umbrella review; 29 were based on randomi
 
 ## Conclusion
 “Possible” evidence exists that the amount of protein does not affect BW, FM and WC in adults under isoenergetic conditions. Its impact on the reduction in BW and FM under hypoenergetic conditions remains unclear; evidence for an influence of protein type on BW, FM and WC is “insufficient”.
+
+# AI suggested related articles
+
+- [[Citations/Schulze et al., 2023\|Citations/Schulze et al., 2023]] (0.78)
+- [[Citations/Jarvis et al., 2022\|Citations/Jarvis et al., 2022]] (0.67)
+- [[High protein diets don't work, on average\|High protein diets don't work, on average]] (0.65)

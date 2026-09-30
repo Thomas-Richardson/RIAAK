@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/fish-welfare-improvements-in-aquaculture-fish-welfare-initiative/","created":"2025-10-26T17:24:27.173+00:00","updated":"2025-10-26T17:24:27.173+00:00"}
+{"dg-publish":true,"permalink":"/citations/fish-welfare-improvements-in-aquaculture-fish-welfare-initiative/","tags":["Fish/Farmed","Asia","Strategy"],"created":"2025-10-26T17:24:27.173+00:00","updated":"2026-09-30T19:55:01.581+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Fish/Farmed","Asia","Strategy"],"source_url":"https://files.fwi.fish/Fish_Welfare_Improvements_in_Aquaculture.pdf","created":"2025-10-26","AI suggested tags":["Fish","EU","Animal_Welfare"]}}
 ---
 
 

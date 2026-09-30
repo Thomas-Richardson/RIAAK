@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/eat-and-globe-scan-2022/","tags":["citation","food_security","Bryant/Project/good_growth_social_listening","lower_middle_income_countries"],"created":"2025-10-23T17:42:44.508+01:00","updated":"2025-11-04T12:11:15.421+00:00"}
+{"dg-publish":true,"permalink":"/citations/eat-and-globe-scan-2022/","tags":["Citation","Food_Security","Bryant/Project/Good_Growth_Social_Listening","Lower_Middle_Income_Countries"],"created":"2025-10-23T17:42:44.508+01:00","updated":"2026-09-30T19:55:01.509+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Citation","Food_Security","Bryant/Project/Good_Growth_Social_Listening","Lower_Middle_Income_Countries"],"AI suggested tags":["Consumer_Research","Consumer_Attitudes","Alternative_Proteins/Plant_Based"]}}
 ---
 
 

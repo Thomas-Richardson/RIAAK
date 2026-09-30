@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/today-s-chickens-may-be-fatter-than-in-previous-generations/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:47.166+01:00","updated":"2025-10-30T23:44:53.632+00:00"}
+{"dg-publish":true,"permalink":"/today-s-chickens-may-be-fatter-than-in-previous-generations/","tags":["Chickens","Health/Nutrition"],"created":"2025-10-23T17:42:47.166+01:00","updated":"2026-09-30T19:55:03.544+01:00","dg-note-properties":{"tags":["Chickens","Health/Nutrition"],"AI suggested tags":["Nuts","Meat","Meat/Meat_Consumption"]}}
 ---
 
 
@@ -31,3 +31,9 @@ This study[^2] shows that abdominal fat has increased slower than total body mas
 [^2]: https://www.sciencedirect.com/science/article/pii/S0032579119385505
 [^3]: https://staff-beta.najah.edu/media/sites/default/files/Meat_quality_review_EPC.pdf
 [^4]: Havenstein GB, Ferket PR and Qureshi MA 2003. Carcass composition and yield of 1957 versus 2001 broilers when fed representative 1957 and 2001 broiler diets. Poultry Science 82, 1509–1518.
+
+# AI suggested related articles
+
+- [[health effects of chicken\|health effects of chicken]] (0.75)
+- [[Citations/white striping disease in supermarket chicken (The Humane League)\|Citations/white striping disease in supermarket chicken (The Humane League)]] (0.65)
+- [[Citations/Vergnaud et al., 2010\|Citations/Vergnaud et al., 2010]] (0.62)

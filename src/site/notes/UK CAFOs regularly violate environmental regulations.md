@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uk-caf-os-regularly-violate-environmental-regulations/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:42.996+01:00","updated":"2025-10-30T23:44:53.292+00:00"}
+{"dg-publish":true,"permalink":"/uk-caf-os-regularly-violate-environmental-regulations/","tags":["Environment/Pollution","UK"],"created":"2025-10-23T17:42:42.996+01:00","updated":"2026-09-30T23:02:31.228+01:00","dg-note-properties":{"tags":["Environment/Pollution","UK"],"AI suggested tags":["CAWF_Farming","Bryant_Research/Project/CAWF_Hidden_Harms","Factory_Farming"]}}
 ---
 
 
@@ -13,3 +13,9 @@ The Guardian found that [dairy farms](https://www.theguardian.com/environment/20
 
 ## Regulations work
 Since the introduction of environmental permit conditions for pig and poultry farms, emissions from these farms [have decreased by approximately 30%](https://assets.publishing.service.gov.uk/media/64a6d9c1c531eb000c64fffa/environmental-improvement-plan-2023.pdf) (haven't checked this)
+
+# AI suggested related articles
+
+- [[Environmental damage caused by factory farms\|Environmental damage caused by factory farms]] (0.81)
+- [[Water pollution from animal ag\|Water pollution from animal ag]] (0.70)
+- [[Citations/World animal protection, 2024\|Citations/World animal protection, 2024]] (0.70)

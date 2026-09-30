@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/willingness-to-pay/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:44.151+01:00","updated":"2025-10-30T23:44:53.596+00:00"}
+{"dg-publish":true,"permalink":"/willingness-to-pay/","tags":["Economics","Research/Methods","Statistics"],"created":"2025-10-23T17:42:44.151+01:00","updated":"2026-09-30T19:55:03.614+01:00","dg-note-properties":{"tags":["Economics","Research/Methods","Statistics"],"AI suggested tags":["BOTEC","Research","Bryant_Research"]}}
 ---
 
 
@@ -20,7 +20,7 @@ Read more here: https://conjointly.com/products/gabor-granger/
 
 Basically Price elasticity modelling:
 
-![Pasted image 20240621113213.png|600](/img/user/Pasted%20image%2020240621113213.png)
+![Pasted image 20240621113213.png\|600](/img/user/Pasted%20image%2020240621113213.png)
 
 You can ask them multiple "would you buy this for $XX?". I'd probably add in random product attributes or descriptions. Or just ask each participant once or twice. 
 
@@ -38,7 +38,7 @@ Note: show all 4 questions on the same page to get participants to consider them
 
 Then you can plot them all:
 
-![Pasted image 20240624132413.png|600](/img/user/Pasted%20image%2020240624132413.png)
+![Pasted image 20240624132413.png\|600](/img/user/Pasted%20image%2020240624132413.png)
 
 - The lower bound for this product is where too cheap and expensive intersect. 
 	- At prices below this, more consumers think its too cheap than think its expensive
@@ -50,12 +50,12 @@ You can find the price for which the most people
 
 ## Conjoint analysis
 
-![Pasted image 20240624132836.png|600](/img/user/Pasted%20image%2020240624132836.png)
+![Pasted image 20240624132836.png\|600](/img/user/Pasted%20image%2020240624132836.png)
 
 - Price points should range from ~60% to 140% of the realistic price.
 - Include up to 7 attributes
 - Conjointly argues that 10-14 questions is sufficient
-![Pasted image 20240701180753.png|600](/img/user/Pasted%20image%2020240701180753.png)
+![Pasted image 20240701180753.png\|600](/img/user/Pasted%20image%2020240701180753.png)
 
 Preference scores are used to [build simulators](https://conjointly.com/guides/conjoint-preference-share-simulator/) that forecast market shares for a set of different products offered to the market.
 ## Revealed preference modelling

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/what-is-the-difference-between-a-factory-farm-and-a-mega-farm-q/","tags":[null,null],"created":"2025-10-23T17:42:42.191+01:00","updated":"2025-10-30T23:44:53.138+00:00"}
+{"dg-publish":true,"permalink":"/what-is-the-difference-between-a-factory-farm-and-a-mega-farm-q/","tags":["Blog_In_Progress","Factory_Farming"],"created":"2025-10-23T17:42:42.191+01:00","updated":"2026-09-30T23:02:31.329+01:00","dg-note-properties":{"tags":["Blog_In_Progress","Factory_Farming"],"Note Type":"undefined","AI suggested tags":["USA","Bryant_Research/Project/CAWF_Hidden_Harms","UK"]}}
 ---
 
 
@@ -38,3 +38,10 @@ WAP 2024 p27 say that 96.5% of poultry meat production in 2023 came from non-fre
 See CAWF sheet: https://docs.google.com/spreadsheets/d/1EhkcWQGbjOzVAnpu3ZN8sLzGXFFbNpvXOiWgwNHgRLI/edit?gid=977461422#gid=977461422
 
 
+
+
+# AI suggested related articles
+
+- [[The consolidation and intensification of farms\|The consolidation and intensification of farms]] (0.73)
+- [[Citations/World animal protection, 2024\|Citations/World animal protection, 2024]] (0.70)
+- [[Most farmed animals live on factory farms\|Most farmed animals live on factory farms]] (0.69)

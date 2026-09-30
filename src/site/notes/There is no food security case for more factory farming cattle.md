@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/there-is-no-food-security-case-for-more-factory-farming-cattle/","tags":[null,null,null,null,"food_security","factory_farming","cows","Environment/Land"],"created":"2025-10-23T17:42:41.953+01:00","updated":"2025-11-04T12:10:04.328+00:00"}
+{"dg-publish":true,"permalink":"/there-is-no-food-security-case-for-more-factory-farming-cattle/","tags":["Animal_Feed","Bryant_Research/Project/CAWF_Food_Sec","Food_Security","UK","Factory_Farming","Cows","Environment/Land"],"created":"2025-10-23T17:42:41.953+01:00","updated":"2026-09-30T23:02:31.205+01:00","dg-note-properties":{"tags":["Animal_Feed","Bryant_Research/Project/CAWF_Food_Sec","Food_Security","UK","Factory_Farming","Cows","Environment/Land"],"Note Type":"undefined","AI suggested tags":["Economics/Jobs","Farming","Bryant_Research/Project/CAWF_Food_Sec"]}}
 ---
 
 
@@ -42,3 +42,10 @@ These notes appear semantically similar based on Smart Connections embeddings:
 - [[Food security in the UK\|Food security in the UK]] (similarity: 76.2%)
 - [[Citations/The Future of Food Security in the UK (Conservative Animal Welfare Foundation)\|The Future of Food Security in the UK (Conservative Animal Welfare Foundation)]] (similarity: 75.6%)
 - [[CAWF 3 food security planning\|CAWF 3 food security planning]] (similarity: 72.4%)
+
+
+# AI suggested related articles
+
+- [[CAWF 3 Bibliography\|CAWF 3 Bibliography]] (0.81)
+- [[Quantifying the Environmental Risks from Pig & Poultry Production in the UK (Cumulus et al.)\|Quantifying the Environmental Risks from Pig & Poultry Production in the UK (Cumulus et al.)]] (0.78)
+- [[Citations/The Future of Food Security in the UK (Conservative Animal Welfare Foundation)\|Citations/The Future of Food Security in the UK (Conservative Animal Welfare Foundation)]] (0.78)

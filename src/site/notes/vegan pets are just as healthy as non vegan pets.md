@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vegan-pets-are-just-as-healthy-as-non-vegan-pets/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:42.852+01:00","updated":"2025-10-30T23:44:53.223+00:00"}
+{"dg-publish":true,"permalink":"/vegan-pets-are-just-as-healthy-as-non-vegan-pets/","tags":["Companion_Animals","Pet_Food"],"created":"2025-10-23T17:42:42.852+01:00","updated":"2026-09-30T23:02:31.462+01:00","dg-note-properties":{"tags":["Companion_Animals","Pet_Food"],"AI suggested tags":["Health/Nutrition","Veg_Diets","Environment"]}}
 ---
 
 
@@ -12,3 +12,9 @@
 ## Related
 - [[vegan pets could be much better for the environment\|vegan pets could be much better for the environment]]
 - [[Public Perceptions of Plant-Based Pet Food\|Public Perceptions of Plant-Based Pet Food]]
+
+# AI suggested related articles
+
+- [[Citations/Domínguez-Oliva et al., 2023\|Citations/Domínguez-Oliva et al., 2023]] (0.81)
+- [[Citations/Knight, 2026\|Citations/Knight, 2026]] (0.75)
+- [[The case for vegan pet food\|The case for vegan pet food]] (0.74)

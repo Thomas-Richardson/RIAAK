@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/why-does-red-and-processed-meat-cause-cancer-q/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:47.467+01:00","updated":"2025-10-30T23:44:53.722+00:00"}
+{"dg-publish":true,"permalink":"/why-does-red-and-processed-meat-cause-cancer-q/","tags":["Health/Nutrition","Meat/Red_Meat"],"created":"2025-10-23T17:42:47.467+01:00","updated":"2026-09-30T22:10:53.266+01:00","dg-note-properties":{"tags":["Health/Nutrition","Meat/Red_Meat"],"AI suggested tags":["Nuts","Diet","Meat"]}}
 ---
 
 
@@ -18,3 +18,9 @@ On top of this, processed red meats contain chemicals that generate N-nitroso co
 But there are other theories too – [some research has suggested](https://www.awin1.com/awclick.php?mid=2584&id=201309&p=http://www.cancerresearchuk.org/about-us/cancer-news/press-release/2012-08-09-scientists-discover-how-iron-levels-and-a-faulty-gene-cause-bowel-cancer) that the iron in red meat could play a role, while others suggest the [bacteria in the gut](http://phys.org/news/2015-08-red-meat-cancer-causing-mechanism-colon.html) might play a supporting role too.
 
 So despite what you may hear, it isn’t about the quality of the meat, or whether it’s from the local butcher or your supermarket. The evidence so far suggests that it’s probably the processing of the meat, or chemicals naturally present within it, that increases cancer risk.
+
+# AI suggested related articles
+
+- [[red and processed  meat and cancer\|red and processed  meat and cancer]] (0.77)
+- [[Citations/Farvid et al., 2021\|Citations/Farvid et al., 2021]] (0.67)
+- [[Citations/Han et al., 2019\|Citations/Han et al., 2019]] (0.65)

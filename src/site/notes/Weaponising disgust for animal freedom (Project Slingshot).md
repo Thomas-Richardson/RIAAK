@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/weaponising-disgust-for-animal-freedom-project-slingshot/","tags":["strategy"],"created":"2026-01-06T09:17:36.873+00:00","updated":"2026-01-06T13:35:18.362+00:00"}
+{"dg-publish":true,"permalink":"/weaponising-disgust-for-animal-freedom-project-slingshot/","tags":["Strategy"],"created":"2026-01-06T09:17:36.873+00:00","updated":"2026-09-30T19:55:03.586+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Strategy"],"created":null,"AI suggested tags":["Consumer_Attitudes","Factory_Farming","Health/Disease"]}}
 ---
 
 # Narrative frames
@@ -64,3 +64,10 @@ Worried that we're explicitly not building in CTAs
 Beware that the campaign doesn't get linked to 
 
 TFL: actually kinda excited about somewhat spicy tube adverts as long as you can back claims.
+
+
+# AI suggested related articles
+
+- [[Psychological factors in cultivated meat acceptance\|Psychological factors in cultivated meat acceptance]] (0.66)
+- [[Citations/Developing a Messaging Strategy to End Animal Farming Using Focus Groups (Pax Fauna)\|Citations/Developing a Messaging Strategy to End Animal Farming Using Focus Groups (Pax Fauna)]] (0.65)
+- [[Citations/A Review of Contemporary Research into Public Perceptions of the Slaughter Industry (Pax Fauna)\|Citations/A Review of Contemporary Research into Public Perceptions of the Slaughter Industry (Pax Fauna)]] (0.65)

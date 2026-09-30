@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/who-s-on-social-media-in-southeast-asia/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:43.130+01:00","updated":"2025-10-30T23:44:53.369+00:00"}
+{"dg-publish":true,"permalink":"/who-s-on-social-media-in-southeast-asia/","tags":["SE_Asia","Asia","Bryant_Research/Project/Good_Growth_Social_Listening"],"created":"2025-10-23T17:42:43.130+01:00","updated":"2026-09-30T23:02:31.339+01:00","dg-note-properties":{"tags":["SE_Asia","Asia","Bryant_Research/Project/Good_Growth_Social_Listening"],"AI suggested tags":["Bryant_Research/Project/Good_Growth_Social_Listening","Application","Lower_Middle_Income_Countries"]}}
 ---
 
 

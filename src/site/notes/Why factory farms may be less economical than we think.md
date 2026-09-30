@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/why-factory-farms-may-be-less-economical-than-we-think/","tags":[null,null,null,"economics"],"created":"2025-10-23T17:42:42.871+01:00","updated":"2025-11-07T12:30:43.463+00:00"}
+{"dg-publish":true,"permalink":"/why-factory-farms-may-be-less-economical-than-we-think/","tags":["Economics","Factory_Farming","To_Clean"],"created":"2025-10-23T17:42:42.871+01:00","updated":"2026-09-30T19:55:03.609+01:00","dg-note-properties":{"tags":["Economics","Factory_Farming","To_Clean"],"Note Type":"Own Notes","AI suggested tags":["USA","Economics/Jobs","Farming"]}}
 ---
 
 - [[CAFOs distort markets\|CAFOs distort markets]]
@@ -20,3 +20,10 @@
 - Massive concentration of the US agricultural market
 - large subsidies
 - environmental externalities
+
+
+# AI suggested related articles
+
+- [[The consolidation and intensification of farms\|The consolidation and intensification of farms]] (0.68)
+- [[Citations/Domination And Exploitation- Industry Costs For Chicken, Egg, And Fish Products (Faunalytics)\|Citations/Domination And Exploitation- Industry Costs For Chicken, Egg, And Fish Products (Faunalytics)]] (0.68)
+- [[Citations/Pew Commission, 2008\|Citations/Pew Commission, 2008]] (0.67)

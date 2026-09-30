@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/why-don-t-more-animal-advocates-talk-about-ducks-1/","created":"2026-02-04T11:54:21.177+00:00","updated":"2026-02-04T11:54:21.202+00:00"}
+{"dg-publish":true,"permalink":"/why-don-t-more-animal-advocates-talk-about-ducks-1/","tags":["Movement_Strategy","Effective_Altruism","Asia","Factory_Farming"],"created":"2026-02-04T11:54:21.177+00:00","updated":"2026-09-30T19:55:03.604+01:00","dg-note-properties":{"Note Type":"News Report / Blog","Url":"https://faunalytics.org/why-dont-more-animal-advocates-talk-about-ducks/","tags":["Movement_Strategy","Effective_Altruism","Asia","Factory_Farming"],"AI suggested tags":["Chickens","Animal_Welfare","Strategy"]}}
 ---
 
 [Photo by Niklas Hamann on Unsplash](https://unsplash.com/photos/group-of-duck-on-grass-Vva_-Gfkd1w)

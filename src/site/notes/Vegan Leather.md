@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vegan-leather/","tags":[null,null,null,null],"created":"2025-10-23T17:42:42.172+01:00","updated":"2025-10-30T23:44:53.135+00:00"}
+{"dg-publish":true,"permalink":"/vegan-leather/","tags":["Materials"],"created":"2025-10-23T17:42:42.172+01:00","updated":"2026-09-30T19:55:03.574+01:00","dg-note-properties":{"tags":["Materials"],"AI suggested tags":["Alternative_Proteins/Plant_Based","Plant_Based/Marketing","Alternative_Proteins"]}}
 ---
 
 

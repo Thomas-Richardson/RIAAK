@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-movement-needs-a-variety-of-approaches/","tags":["movement_building"],"created":"2025-12-12T11:48:21.940+00:00","updated":"2025-12-12T11:52:49.508+00:00"}
+{"dg-publish":true,"permalink":"/the-movement-needs-a-variety-of-approaches/","tags":["Movement_Building"],"created":"2025-12-12T11:48:21.940+00:00","updated":"2026-09-30T19:55:03.526+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Movement_Building"],"created":null,"AI suggested tags":["Corporate_Campaigns","Strategy","Behaviour_Change"]}}
 ---
 
 

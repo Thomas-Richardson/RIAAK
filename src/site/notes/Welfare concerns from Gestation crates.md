@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welfare-concerns-from-gestation-crates/","tags":[null,null,null,null],"created":"2025-10-23T17:42:41.619+01:00","updated":"2026-01-06T10:37:15.361+00:00"}
+{"dg-publish":true,"permalink":"/welfare-concerns-from-gestation-crates/","tags":["Pigs","Animal_Welfare","Food_Safety","High_Income_Countries/USA"],"created":"2025-10-23T17:42:41.619+01:00","updated":"2026-09-30T22:18:09.141+01:00","dg-note-properties":{"tags":["Pigs","Animal_Welfare","Food_Safety","High_Income_Countries/USA"],"AI suggested tags":["Pigs","Health/Disease","Factory_Farming"]}}
 ---
 
 
@@ -20,3 +20,9 @@
 - [60 percent](https://www.annualreviews.org/doi/10.1146/annurev-animal-013120-043304) of mother pigs test positive for salmonella, and [10 percent](https://www.annualreviews.org/doi/10.1146/annurev-animal-013120-043304) are resistant to multiple drugs. 
 - [27.1 percent](https://www.cidrap.umn.edu/antimicrobial-stewardship/report-us-pigs-consume-nearly-many-antibiotics-people-do) of all antibiotics sold in the U.S. go to pork production.
 - Roughly [700,000](https://apps.who.int/iris/bitstream/handle/10665/341666/9789240027336-eng.pdf) deaths annually can be connected to diseases that have become hard to combat due to antibiotic resistance—the number could surge to 10,000,000 by 2050.
+
+# AI suggested related articles
+
+- [[CAFOs injure and sicken their workers\|CAFOs injure and sicken their workers]] (0.64)
+- [[Citations/Public Acceptability Of Standard U.S. Animal Agriculture Practices (Faunalytics)\|Citations/Public Acceptability Of Standard U.S. Animal Agriculture Practices (Faunalytics)]] (0.62)
+- [[Citations/Pew Commission, 2008\|Citations/Pew Commission, 2008]] (0.60)

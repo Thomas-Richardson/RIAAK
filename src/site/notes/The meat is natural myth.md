@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-meat-is-natural-myth/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:41.254+01:00","updated":"2025-10-30T23:44:52.912+00:00"}
+{"dg-publish":true,"permalink":"/the-meat-is-natural-myth/","tags":["Meat","Messaging"],"created":"2025-10-23T17:42:41.254+01:00","updated":"2026-09-30T23:02:31.175+01:00","dg-note-properties":{"tags":["Meat","Messaging"],"AI suggested tags":["Cattle/Grass_Fed_Cattle","UPF","Environment"]}}
 ---
 
 

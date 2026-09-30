@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uk-consumer-attitudes-towards-the-egg-industry/","tags":[null,null,null,null,null,null,null],"created":"2025-10-23T17:42:43.249+01:00","updated":"2025-10-30T23:44:53.392+00:00"}
+{"dg-publish":true,"permalink":"/uk-consumer-attitudes-towards-the-egg-industry/","tags":["Bryant_Research/Insight","Consumer_Attitudes","Eggs","UK"],"created":"2025-10-23T17:42:43.249+01:00","updated":"2026-09-30T23:02:31.232+01:00","dg-note-properties":{"tags":["Bryant_Research/Insight","Consumer_Attitudes","Eggs","UK"],"AI suggested tags":["Chickens","Bryant_Research","High_Income_Countries/UK"]}}
 ---
 
 

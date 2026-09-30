@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/what-percentage-of-uk-cattle-are-kept-indoors-their-whole-life/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:42.692+01:00","updated":"2025-10-30T23:44:53.188+00:00"}
+{"dg-publish":true,"permalink":"/what-percentage-of-uk-cattle-are-kept-indoors-their-whole-life/","tags":["Cows","Factory_Farming","UK"],"created":"2025-10-23T17:42:42.692+01:00","updated":"2026-09-30T23:02:31.330+01:00","dg-note-properties":{"tags":["Cows","Factory_Farming","UK"],"AI suggested tags":["Bryant_Research/Project/CAWF_Hidden_Harms","Blog_In_Progress","Farming"]}}
 ---
 
 
@@ -27,3 +27,10 @@ Bear in mind that % of herds is not the same as percentage of cows, because larg
 448,635.68/9,631,892
 802+141
 ```
+
+
+# AI suggested related articles
+
+- [[How animals are kept\|How animals are kept]] (0.72)
+- [[Citations/World animal protection, 2024\|Citations/World animal protection, 2024]] (0.69)
+- [[Most farmed animals live on factory farms\|Most farmed animals live on factory farms]] (0.61)

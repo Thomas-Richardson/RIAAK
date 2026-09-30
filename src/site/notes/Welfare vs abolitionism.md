@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welfare-vs-abolitionism/","tags":["animal_welfare","debate"],"created":"2026-01-16T19:44:32.436+00:00","updated":"2026-01-16T19:48:17.030+00:00"}
+{"dg-publish":true,"permalink":"/welfare-vs-abolitionism/","tags":["Animal_Welfare","Debate"],"created":"2026-01-16T19:44:32.436+00:00","updated":"2026-09-30T19:55:03.589+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Animal_Welfare","Debate"],"created":null,"AI suggested tags":["Precision_Livestock_Farming","Strategy","Public_Opinion"]}}
 ---
 
 

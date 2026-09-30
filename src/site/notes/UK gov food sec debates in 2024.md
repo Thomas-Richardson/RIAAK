@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uk-gov-food-sec-debates-in-2024/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:42.876+01:00","updated":"2025-10-30T23:44:53.225+00:00"}
+{"dg-publish":true,"permalink":"/uk-gov-food-sec-debates-in-2024/","tags":["Bryant_Research/Project/CAWF_Food_Sec","UK"],"created":"2025-10-23T17:42:42.876+01:00","updated":"2026-09-30T23:02:31.271+01:00","dg-note-properties":{"tags":["Bryant_Research/Project/CAWF_Food_Sec","UK"],"AI suggested tags":["Bryant_Research/Project/CAWF_Food_Sec","Food_Security","Bryant_Research/Project/CAWF_Hidden_Harms"]}}
 ---
 
 

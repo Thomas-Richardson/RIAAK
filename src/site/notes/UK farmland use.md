@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uk-farmland-use/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:42.949+01:00","updated":"2025-10-30T23:44:53.235+00:00"}
+{"dg-publish":true,"permalink":"/uk-farmland-use/","tags":["Farming","UK"],"created":"2025-10-23T17:42:42.949+01:00","updated":"2026-09-30T23:02:31.270+01:00","dg-note-properties":{"tags":["Farming","UK"],"AI suggested tags":["Bryant_Research/Project/CAWF_Food_Sec","Land_Use","Agricultural_Land_Classification"]}}
 ---
 
 
@@ -7,7 +7,7 @@
 
 - [[Farming Evidence Pack (DEFRA)\|Farming Evidence Pack (DEFRA)]]
 
-![Pasted image 20240801122343.png|500](/img/user/Pasted%20image%2020240801122343.png)
+![Pasted image 20240801122343.png\|500](/img/user/Pasted%20image%2020240801122343.png)
 
 [[Citations/WWF, 2022\|WWF, 2022]]: The vast majority of agricultural grasslands in the UK are used for animal production, either for grazing or to ==produce== hay and silage for fodder. 
 

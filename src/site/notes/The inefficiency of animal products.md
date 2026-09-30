@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-inefficiency-of-animal-products/","tags":[null,null,null],"created":"2025-10-23T17:42:44.180+01:00","updated":"2025-10-30T23:44:53.610+00:00"}
+{"dg-publish":true,"permalink":"/the-inefficiency-of-animal-products/","tags":["Environment/Land","Environment","Meat"],"created":"2025-10-23T17:42:44.180+01:00","updated":"2026-09-30T23:02:31.165+01:00","dg-note-properties":{"tags":["Environment/Land","Environment","Meat"],"Note Type":"undefined","AI suggested tags":["Animal_Feed","Farming","Meat/Beef"]}}
 ---
 
 
@@ -17,3 +17,10 @@
 - In particular, animals return 21% of the zinc they eat in human-edible crops
 
 
+
+
+# AI suggested related articles
+
+- [[Citations/Mottet et al., 2017\|Citations/Mottet et al., 2017]] (0.76)
+- [[Citations/Shepon, Eshel, Noor and Milo, 2018\|Citations/Shepon, Eshel, Noor and Milo, 2018]] (0.71)
+- [[Citations/Berners-Lee, Watson and Hewitt 2018\|Citations/Berners-Lee, Watson and Hewitt 2018]] (0.71)

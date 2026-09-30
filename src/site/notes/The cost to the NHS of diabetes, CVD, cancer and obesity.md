@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-cost-to-the-nhs-of-diabetes-cvd-cancer-and-obesity/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:42.028+01:00","updated":"2025-10-30T23:44:53.118+00:00"}
+{"dg-publish":true,"permalink":"/the-cost-to-the-nhs-of-diabetes-cvd-cancer-and-obesity/","tags":["Economics","Health/Nutrition"],"created":"2025-10-23T17:42:42.028+01:00","updated":"2026-09-30T19:55:03.505+01:00","dg-note-properties":{"tags":["Economics","Health/Nutrition"],"AI suggested tags":["BOTEC","Economics/Costs","CAWF_NHS"]}}
 ---
 
 
@@ -52,3 +52,9 @@ Concerningly this number is far lower than the 132M we estimated in our model. T
 [^10]: Health Matters: Preventing cardiovascular disease t.ly/jUtLt
 [^12]: Barton, P., Andronis, L., Briggs, A., McPherson, K., & Capewell, S. (2011). Effectiveness and cost effectiveness of cardiovascular disease prevention in whole populations: modelling study. _Bmj_, _343_. https://www.bmj.com/content/343/bmj.d4044.short
 [^13]: https://www.gov.uk/government/publications/health-matters-obesity-and-the-food-environment/health-matters-obesity-and-the-food-environment--2
+
+# AI suggested related articles
+
+- [[Estimates of lives and £ saved by moving away from meat\|Estimates of lives and £ saved by moving away from meat]] (0.77)
+- [[Healthcare cost savings from shifting diets\|Healthcare cost savings from shifting diets]] (0.74)
+- [[Public health damage from living near IMPs\|Public health damage from living near IMPs]] (0.73)

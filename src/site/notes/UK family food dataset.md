@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uk-family-food-dataset/","tags":[null,null,null,null],"created":"2025-10-23T17:42:43.995+01:00","updated":"2025-11-04T12:13:07.032+00:00"}
+{"dg-publish":true,"permalink":"/uk-family-food-dataset/","tags":["Data"],"created":"2025-10-23T17:42:43.995+01:00","updated":"2026-09-30T23:02:31.262+01:00","dg-note-properties":{"tags":["Data"],"AI suggested tags":["UK","Meat","Bryant_Research/Project/CAWF_Hidden_Harms"]}}
 ---
 
 
@@ -26,3 +26,9 @@ There are many other datasets that break these 3 datasets down by income, region
 I made this graph (though due to data being in a weird format I copied and pasted the data directly into python, so hard to replicate): 
 
 ![Pasted image 20231215115027.png](/img/user/Pasted%20image%2020231215115027.png)
+
+# AI suggested related articles
+
+- [[Sources of Animal data\|Sources of Animal data]] (0.71)
+- [[The UK Protein Transition in 4 Graphs\|The UK Protein Transition in 4 Graphs]] (0.65)
+- [[Citations/Smith, Scheebeek, Balmford and Garnett, 2021\|Citations/Smith, Scheebeek, Balmford and Garnett, 2021]] (0.65)

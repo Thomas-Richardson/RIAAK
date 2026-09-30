@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-effects-of-climate-change-on-uk-agriculture/","tags":[null,null,null,null,null,null,null],"created":"2025-10-23T17:42:48.009+01:00","updated":"2025-10-30T23:44:53.830+00:00"}
+{"dg-publish":true,"permalink":"/the-effects-of-climate-change-on-uk-agriculture/","tags":["Environment/GHG","Bryant_Research/Project/CAWF_Food_Sec","Food_Security","UK"],"created":"2025-10-23T17:42:48.009+01:00","updated":"2026-09-30T23:02:31.145+01:00","dg-note-properties":{"tags":["Environment/GHG","Bryant_Research/Project/CAWF_Food_Sec","Food_Security","UK"],"AI suggested tags":["Farming","Bryant_Research/Project/CAWF_Food_Sec","Economics/Jobs"]}}
 ---
 
 
@@ -17,3 +17,10 @@ Factory farmed chickens and pigs are vulnerable to heat stress. Confined in swel
 As a consequence of unusual weather patterns associated with climate change, wheat yields in 2018 were 7% below the 2016 to 2020 average, and in 2020 were 17% below that average. Ozone in the low atmosphere has a separate, ongoing effect on yields; total economic losses for wheat, potato, and oilseed rape in the UK caused by damage due to ozone may have been over £185 million in 2018.
 
 For example, surface Ozone (O3) poses significant threats to crops. Current losses are estimated to be around 3.6% for maize, 2.6% for rice, 6.7% for soybean, and 7.2% for wheat. It is predicted that this is likely to increase further in the future due to global warming and more anthropogenic emissions of O3 precursors including nitrogen oxides (NOx), methane (CH4) and carbon monoxide (CO) (Tai et al., 2021). ([FSA, 2023](https://www.food.gov.uk/research/food-system-strategic-assessment-trends-and-issues-impacted-by-climate-changeenvironmental-factors))
+
+
+# AI suggested related articles
+
+- [[Citations/UK governmental food security review, 2021\|Citations/UK governmental food security review, 2021]] (0.68)
+- [[Citations/UK governmental food security review, 2024\|Citations/UK governmental food security review, 2024]] (0.65)
+- [[Factory farming in HICs causes environmental disasters in LMICs\|Factory farming in HICs causes environmental disasters in LMICs]] (0.65)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/what-happens-if-the-eu-bans-terms-like-veggie-burger-a-new-consumer-study-explores/","tags":["policy/labeling","plant-based/marketing","EU","Germany","consumer_research"],"created":"2025-11-11T23:43:26.101+00:00","updated":"2025-12-10T12:56:13.534+00:00"}
+{"dg-publish":true,"permalink":"/what-happens-if-the-eu-bans-terms-like-veggie-burger-a-new-consumer-study-explores/","tags":["Policy/Labeling","Plant_Based/Marketing","EU","Germany","Consumer_Research"],"created":"2025-11-11T23:43:26.101+00:00","updated":"2026-09-30T19:55:03.592+01:00","dg-note-properties":{"Note Type":"News Report / Blog","Url":"https://vegconomist.com/studies-numbers/what-happens-eu-bans-terms-like-veggie-burger-new-consumer-study-explores/?utm_medium=email&utm_source=rasa_io&utm_campaign=newsletter","tags":["Policy/Labeling","Plant_Based/Marketing","EU","Germany","Consumer_Research"],"AI suggested tags":["Report","Alternative_Proteins/Plant_Based","Diet/Flexitarian"]}}
 ---
 
 While the EU is discussing banning terms like “veggie burger” or “soy sausage”, [new data from Appinio](https://research.appinio.com/#/en/survey/gated/rJbHbxY0t?boardId=68f7a0a14f8ec9786ea1c3b6) provides a surprising insight: It’s not the name that causes confusion, and for German consumers, there are completely different priorities.
@@ -60,3 +60,9 @@ Sergio Placido © Birdman
 
   
 [Birdman’s US Push: Flavor-First, Frugal, and Fast to Iterate](https://vegconomist.com/food-and-beverage/birdmans-u-s-push-flavor-first-frugal-fast-iterate/)
+
+# AI suggested related articles
+
+- [[Citations/Report by Surveygoo and Ingredient Communications\|Citations/Report by Surveygoo and Ingredient Communications]] (0.74)
+- [[BENEO and Meatless Publish Consumer Survey Results on Hybrid Meat\|BENEO and Meatless Publish Consumer Survey Results on Hybrid Meat]] (0.73)
+- [[Citations/What To Call Plant-Based Meat Alternatives- A Labeling Study (Faunalytics)\|Citations/What To Call Plant-Based Meat Alternatives- A Labeling Study (Faunalytics)]] (0.72)

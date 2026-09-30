@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-economic-value-of-alternative-proteins/","tags":[null,null,"economics","alternative_proteins/Cultivated_Meat","Economics/jobs"],"created":"2025-11-06T16:27:42.287+00:00","updated":"2025-11-06T16:27:42.287+00:00"}
+{"dg-publish":true,"permalink":"/the-economic-value-of-alternative-proteins/","tags":["Alternative_Proteins","Economics","Alternative_Proteins/Cultivated_Meat","Economics/Jobs"],"created":"2025-11-06T16:27:42.287+00:00","updated":"2026-09-30T23:02:31.139+01:00","dg-note-properties":{"tags":["Alternative_Proteins","Economics","Alternative_Proteins/Cultivated_Meat","Economics/Jobs"],"Note Type":"undefined","AI suggested tags":["Alternative_Proteins/Precision_Fermentation","Bryant_Research/Project/CAWF_Hidden_Harms","Bryant_Research/Project/CAWF_Food_Sec"]}}
 ---
 
 
@@ -20,7 +20,7 @@ On a global scale, a 2021 report by Climateworks estimated that the alternative 
 
 The UK National Food Strategy estimated that developing and manufacturing alternative proteins in the UK, rather than importing them, would create 10,000 new factory jobs and secure 6,500 jobs in farming (to produce inputs for manufacturing processes). 
 
-## #alternative_proteins/Cultivated_Meat 
+## #Alternative_Proteins/Cultivated_Meat 
 [A report by Oxford Economics](https://www.oxfordeconomics.com/resource/the-socio-economic-impact-of-cultivated-meat-in-the-uk/) predicts that the cultivated meat industry alone will support 9,200-16,500 jobs across the UK in 2030. They also predict an employment multiplier of 2, meaning that for every 100 jobs in the industry, a further 100 will likely be supported elsewhere in the UK economy in that year.
 
 Furthermore, many workers in this field will be from high productivity professions, such as science and technology. In the production and processing sectors of the cultivated meat industry, for example, workers are expected to have much higher productivity, at £135,000 and £104,000 gross value added per worker, compared to that of the average worker in the agriculture, forestry, and fishing sector, or the average UK worker, who are expected to generate £44,000 and £76,000 GVA per worker respectively. The total economic output and employment sustained by the cultivated meat sector is also expected to generate £266m-£523m in tax revenues in 2030. 
@@ -28,3 +28,9 @@ Furthermore, many workers in this field will be from high productivity professio
 Whilst these figures do not account for potential displacement effects, the fact that the UK is currently heavily reliant on imports (see [[Citations/UK governmental food security review, 2024\|UK governmental food security review, 2024]]) implies that cultivated meat production could complement UK domestic food production, reducing our need for imports rather than displacing domestic animal protein production. This implies that a protein transition that maintains farmers’ job security and bolsters domestic production is achievable.
 
 Elliot Swartz estimates under 10k people working in cultivated meat in 2023
+
+# AI suggested related articles
+
+- [[Citations/Appetite for change - why the UK should lead the emerging alternative proteins market (Green Alliance)\|Citations/Appetite for change - why the UK should lead the emerging alternative proteins market (Green Alliance)]] (0.78)
+- [[Citations/Seizing the economic opportunity of alternative proteins in Europe (SYSTEMIQ)\|Citations/Seizing the economic opportunity of alternative proteins in Europe (SYSTEMIQ)]] (0.74)
+- [[Citations/Mason-D'Croz et al., 2022\|Citations/Mason-D'Croz et al., 2022]] (0.73)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-small-body-problem/","tags":["fish","chickens","eggs","Environment/GHG","Health/Nutrition"],"created":"2025-10-23T17:42:47.875+01:00","updated":"2025-12-10T12:59:35.330+00:00"}
+{"dg-publish":true,"permalink":"/the-small-body-problem/","tags":["Fish","Chickens","Eggs","Environment/GHG","Health/Nutrition"],"created":"2025-10-23T17:42:47.875+01:00","updated":"2026-09-30T23:02:31.193+01:00","dg-note-properties":{"tags":["Fish","Chickens","Eggs","Environment/GHG","Health/Nutrition"],"Note Type":"undefined","AI suggested tags":["Animal_Feed","Economics/Jobs","Environment"]}}
 ---
 
 - [[Most fishing is unsustainable\|Most fishing is unsustainable]]
@@ -13,11 +13,11 @@ The small body problem occurs when we convince people to shift their diet from r
 Fish, chicken and [[Health effects of eggs\|eggs]] are not that bad for the environment and are may not that bad for your health. This raises the uncomfortable conclusion that, if you don't care about animal suffering, most health and environmental effects of animal agriculture could be offset by a move from beef and pork to chicken and fish. Unfortunately, this is also likely to be an easier change to make than going plant-based. As such we need to have arguments ready to respond to this.
 
 
-![Pasted image 20240611113649.png|400](/img/user/Pasted%20image%2020240611113649.png)
+![Pasted image 20240611113649.png\|400](/img/user/Pasted%20image%2020240611113649.png)
 From [OWID](https://ourworldindata.org/what-are-the-trade-offs-between-animal-welfare-and-the-environmental-impact-of-meat)
 
 To make it even worse: higher welfare pork and free range chicken has a [worse environmental impact](https://ourworldindata.org/what-are-the-trade-offs-between-animal-welfare-and-the-environmental-impact-of-meat)!
-![Pasted image 20240717161449.png|500](/img/user/Pasted%20image%2020240717161449.png)
+![Pasted image 20240717161449.png\|500](/img/user/Pasted%20image%2020240717161449.png)
 
 - The difficulty with the small body problem is that health, environment and animal welfare are all far less convincing/effective when it comes to chicken and fish
 - Chicken and seafood, not being mammals, are harder for consumers to intuitively empathise with. Fish and crustaceans especially; most people think they're weird, not cute.
@@ -75,3 +75,9 @@ We need to reframe the debate to "If you care about animal suffering, the enviro
 
 ## Reading
 https://www.nature.com/articles/s43016-024-00921-2
+
+# AI suggested related articles
+
+- [[Plenty of fish in the sea Not enough to feed 10 billion people sustainably.\|Plenty of fish in the sea Not enough to feed 10 billion people sustainably.]] (0.76)
+- [[Citations/Domination And Exploitation- Industry Costs For Chicken, Egg, And Fish Products (Faunalytics)\|Citations/Domination And Exploitation- Industry Costs For Chicken, Egg, And Fish Products (Faunalytics)]] (0.75)
+- [[Livestock on leftovers will not save us, we have to reduce meat\|Livestock on leftovers will not save us, we have to reduce meat]] (0.72)

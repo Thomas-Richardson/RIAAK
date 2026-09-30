@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/does-living-near-a-mega-farm-affect-your-house-price-a-uk-analysis/","tags":[null,null,null],"created":"2025-10-23T17:42:41.402+01:00","updated":"2025-10-30T23:44:52.928+00:00"}
+{"dg-publish":true,"permalink":"/does-living-near-a-mega-farm-affect-your-house-price-a-uk-analysis/","tags":["Animal_Feed","Factory_Farming","UK"],"created":"2025-10-23T17:42:41.402+01:00","updated":"2026-09-30T23:02:30.189+01:00","dg-note-properties":{"tags":["Animal_Feed","Factory_Farming","UK"],"Note Type":"undefined","AI suggested tags":["Bryant_Research/Project/CAWF_Hidden_Harms","USA","CAWF_Farming"]}}
 ---
 
 
@@ -25,3 +25,9 @@ To estimate the effect of proximity to industrial meat production facilities on 
 We fit a linear mixed effects model predicting house selling price from the distance to nearest IMP. We also included a binary variable of whether the house was a new build, as well as dummy variables for property type (flat, terrace, semi-detached, detached and other). We included random intercepts for district of the UK, postcode of the house and the identity of the nearest IMP. These random intercepts account for the fact that many houses have the same postcode, many districts of the UK naturally contain higher or lower house prices for reasons unrelated to IMPs, and some IMPs may have particularly strong effects on house prices. We also included a random slope of distance from IMP on the identity of the IMP. This models the possibility that different IMPs have different effects on house prices. This is because some IMPs are significantly larger than others so are likely to have stronger effects.
 
 However, we did not find a significant effect of proximity to IMPs on selling price (p \> 0.05). Including an effect of distance to nearest IMP squared (which models the hypothesis that the negative effect fades quickly with distance from a given IMP) also did not yield significant results. Additionally, natural log transforming house price (which represents the hypothesis that each km closer to an IMP decreases house price by a fixed *percentage*) also did not show results.
+
+# AI suggested related articles
+
+- [[Decreased property values from living near IMPs\|Decreased property values from living near IMPs]] (0.90)
+- [[Citations/Kilpatrick, 2015\|Citations/Kilpatrick, 2015]] (0.70)
+- [[CAWF2 farming survey\|CAWF2 farming survey]] (0.67)

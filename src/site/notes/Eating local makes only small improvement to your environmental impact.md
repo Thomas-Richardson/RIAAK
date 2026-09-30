@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eating-local-makes-only-small-improvement-to-your-environmental-impact/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:48.066+01:00","updated":"2025-10-30T23:44:53.837+00:00"}
+{"dg-publish":true,"permalink":"/eating-local-makes-only-small-improvement-to-your-environmental-impact/","tags":["Environment/GHG","To_Clean","Veganism"],"created":"2025-10-23T17:42:48.066+01:00","updated":"2026-09-30T23:02:30.207+01:00","dg-note-properties":{"tags":["Environment/GHG","To_Clean","Veganism"],"AI suggested tags":["Environment","Environment/Land","Farming"]}}
 ---
 
 
@@ -45,3 +45,9 @@ Hospido et al. (2009) estimate that importing Spanish lettuce to the UK during w
 
 ## Source
 https://scienceline.org/2020/05/why-eating-local-isnt-always-best-for-the-environment/
+
+# AI suggested related articles
+
+- [[Citations/Poore and Nemecek 2018\|Citations/Poore and Nemecek 2018]] (0.76)
+- [[Why not eat better meat rather than less meat\|Why not eat better meat rather than less meat]] (0.66)
+- [[Going vegan is good for the environment\|Going vegan is good for the environment]] (0.65)

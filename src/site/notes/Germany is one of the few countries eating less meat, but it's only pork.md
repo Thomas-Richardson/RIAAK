@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/germany-is-one-of-the-few-countries-eating-less-meat-but-it-s-only-pork/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:47.462+01:00","updated":"2025-10-30T23:44:53.717+00:00"}
+{"dg-publish":true,"permalink":"/germany-is-one-of-the-few-countries-eating-less-meat-but-it-s-only-pork/","tags":["Europe","Meat"],"created":"2025-10-23T17:42:47.462+01:00","updated":"2026-09-30T19:55:02.394+01:00","dg-note-properties":{"tags":["Europe","Meat"],"AI suggested tags":["Germany","Meat/Meat_Consumption","UK"]}}
 ---
 
 

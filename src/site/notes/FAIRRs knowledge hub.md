@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fair-rs-knowledge-hub/","tags":["Environment/Pollution","working_conditions","food_safety"],"created":"2025-10-29T09:12:14.524+00:00","updated":"2025-11-04T13:50:34.673+00:00"}
+{"dg-publish":true,"permalink":"/fair-rs-knowledge-hub/","tags":["Environment/Pollution","Working_Conditions","Food_Safety"],"created":"2025-10-29T09:12:14.524+00:00","updated":"2026-09-30T19:55:02.347+01:00","dg-note-properties":{"Note Type":"External Resource","tags":["Environment/Pollution","Working_Conditions","Food_Safety"],"created":null,"AI suggested tags":["Economics/Jobs","Farming","Environment/Land"]}}
 ---
 
 

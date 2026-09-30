@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/food-stability-for-people-in-lmi-cs-and-animal-agriculture/","tags":[null,null,null,null],"created":"2025-10-23T17:42:43.747+01:00","updated":"2025-10-30T23:44:53.520+00:00"}
+{"dg-publish":true,"permalink":"/food-stability-for-people-in-lmi-cs-and-animal-agriculture/","tags":["MFA_Food_Sec"],"created":"2025-10-23T17:42:43.747+01:00","updated":"2026-09-30T19:55:02.378+01:00","dg-note-properties":{"tags":["MFA_Food_Sec"],"AI suggested tags":["Economics/Jobs","Lower_Middle_Income_Countries","Food_Security"]}}
 ---
 
 
@@ -28,3 +28,9 @@ During the 2011-2012 drought in Mexico saw a countrywide decrease of about 3%. C
 
 ## References
 [^1]: Murray-Tortarolo, G. N., & Jaramillo, V. J. (2019). The impact of extreme weather events on livestock populations: the case of the 2011 drought in Mexico. _Climatic Change_, _153_, 79-89.
+
+# AI suggested related articles
+
+- [[Diseases in farm animals cause economic shocks\|Diseases in farm animals cause economic shocks]] (0.76)
+- [[Livestock and supply chain stability\|Livestock and supply chain stability]] (0.76)
+- [[Animal farming makes the effects of crop diseases worse\|Animal farming makes the effects of crop diseases worse]] (0.75)

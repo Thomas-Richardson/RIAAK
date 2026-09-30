@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fur/","tags":[null,null],"created":"2025-10-23T17:42:43.712+01:00","updated":"2025-10-30T23:44:53.499+00:00"}
+{"dg-publish":true,"permalink":"/fur/","tags":["Materials","Wild_Animals"],"created":"2025-10-23T17:42:43.712+01:00","updated":"2026-09-30T19:55:02.386+01:00","dg-note-properties":{"tags":["Materials","Wild_Animals"],"Note Type":"undefined","AI suggested tags":["Factory_Farming","Environment/Pollution","Animal_Welfare"]}}
 ---
 
 
@@ -19,3 +19,9 @@ Source: https://www.goodsignal.com/p/the-curse-of-fur
 - Thirty-three toxic chemicals banned across Europe are used to process fur in China.[11](https://www.goodsignal.com/p/the-curse-of-fur#footnote-11-147394111) The surfactants, solvents, acids, tannins, fungicides, dyes, and bleaches used in fur dressing can cause both acute and chronic health issues for workers, ranging from skin and eye irritation to cancer.[12](https://www.goodsignal.com/p/the-curse-of-fur#footnote-12-147394111)
 - Fur skins are dressed in formaldehyde and chromium, both listed as carcinogens and toxic to humans.
 - Contrary to common belief, fur is not easily biodegradable following processing. In fact, chemical treatments are applied specifically to prevent fur from rotting. The Fur Commission states that, “After processing, fur pelts are soft and pliable, and the natural beauty of the fur will last for decades.”[25](https://www.goodsignal.com/p/the-curse-of-fur#footnote-25-147394111) Needless to say, something that will ‘last for decades’ is not easily biodegradable.
+
+# AI suggested related articles
+
+- [[Wool\|Wool]] (0.65)
+- [[Podcasts/The Vegan Report/Mink Fur - Exposing the Cruelty of Louis Vuitton, Dior, Balenciaga, etc. With Malcom Klimowicz Ep. 24\|Podcasts/The Vegan Report/Mink Fur - Exposing the Cruelty of Louis Vuitton, Dior, Balenciaga, etc. With Malcom Klimowicz Ep. 24]] (0.65)
+- [[Leather is a co-product not a by product and is bad for the environment\|Leather is a co-product not a by product and is bad for the environment]] (0.63)

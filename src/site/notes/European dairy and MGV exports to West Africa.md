@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/european-dairy-and-mgv-exports-to-west-africa/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:42.957+01:00","updated":"2025-10-30T23:44:53.236+00:00"}
+{"dg-publish":true,"permalink":"/european-dairy-and-mgv-exports-to-west-africa/","tags":["Economics","Lower_Middle_Income_Countries"],"created":"2025-10-23T17:42:42.957+01:00","updated":"2026-09-30T19:55:02.343+01:00","dg-note-properties":{"tags":["Economics","Lower_Middle_Income_Countries"],"AI suggested tags":["Dairy","MFA_Food_Sec","Farming"]}}
 ---
 
 
@@ -13,7 +13,7 @@
 
 On the other hand, Corniaux et al., 2021 point out that West Africa can only meet half their dairy needs from domestic sources.
 
-![Pasted image 20240314095915.png|500](/img/user/Pasted%20image%2020240314095915.png)
+![Pasted image 20240314095915.png\|500](/img/user/Pasted%20image%2020240314095915.png)
 
 An analysis by Corniaux et al., 2021[^1] charts this in more detail: MGV exports went from negligible in 2000 to exports worth €819 million to West Africa in 2019, comprising 45% of the region's total dairy product imports. The EU accounted for 77% of West Africa's MGV imports in 2019. 
 

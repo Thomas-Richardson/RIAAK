@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-would-reduced-demand-for-as-fs-in-hi-cs-affect-food-security/","tags":["farming","lower_middle_income_countries","high_income_countries","alternative_proteins/Cultivated_Meat","food_security"],"created":"2025-10-23T17:42:42.887+01:00","updated":"2025-11-04T12:18:15.512+00:00"}
+{"dg-publish":true,"permalink":"/how-would-reduced-demand-for-as-fs-in-hi-cs-affect-food-security/","tags":["Farming","Lower_Middle_Income_Countries","High_Income_Countries","Alternative_Proteins/Cultivated_Meat","Food_Security"],"created":"2025-10-23T17:42:42.887+01:00","updated":"2026-09-30T19:55:02.430+01:00","dg-note-properties":{"tags":["Farming","Lower_Middle_Income_Countries","High_Income_Countries","Alternative_Proteins/Cultivated_Meat","Food_Security"],"Note Type":"undefined","AI suggested tags":["MFA_Food_Sec","USA","Economics"]}}
 ---
 
 - [[International trade in animal products and feed\|International trade in animal products and feed]]
@@ -20,3 +20,10 @@
 
 
 
+
+
+# AI suggested related articles
+
+- [[Change in demand for animal products worldwide\|Change in demand for animal products worldwide]] (0.74)
+- [[How changing diets in the Global North impact food security across the world\|How changing diets in the Global North impact food security across the world]] (0.73)
+- [[Citations/Mason-D'Croz et al., 2022\|Citations/Mason-D'Croz et al., 2022]] (0.71)

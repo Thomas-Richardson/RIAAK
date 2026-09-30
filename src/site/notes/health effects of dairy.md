@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health-effects-of-dairy/","tags":["Health/Nutrition","dairy","nuts"],"created":"2025-10-23T17:42:47.503+01:00","updated":"2025-11-07T12:12:09.765+00:00"}
+{"dg-publish":true,"permalink":"/health-effects-of-dairy/","tags":["Health/Nutrition","Dairy","Nuts"],"created":"2025-10-23T17:42:47.503+01:00","updated":"2026-09-30T19:55:03.642+01:00","dg-note-properties":{"tags":["Health/Nutrition","Dairy","Nuts"],"AI suggested tags":["Diet","Meat","Review"]}}
 ---
 
 - [[Health effects of eggs\|Health effects of eggs]]
@@ -20,7 +20,8 @@ Dairy is probably not good for weight loss in HICs [[Citations/Schwingshackl et 
 
 ## Dairy (all cause mortality)
 126,759 mortality cases
-![Schwingshackl et al., 2017a dairy.png|400](/img/user/Citations/Schwingshackl%20et%20al.,%202017a%20dairy.png)
+![Schwingshackl et al., 2017a dairy.png\|400](/img/user/Citations/Schwingshackl%20et%20al.,%202017a%20dairy.png)
+
 
 
 
@@ -28,3 +29,9 @@ Dairy is probably not good for weight loss in HICs [[Citations/Schwingshackl et 
 
 ## References
 [^1]: Wang, W., Wu, Y., & Zhang, D. (2016). Association of dairy products consumption with risk of obesity in children and adults: a meta-analysis of mainly cross-sectional studies. _Annals of epidemiology_, _26_(12), 870-882.
+
+# AI suggested related articles
+
+- [[Citations/Schwingshackl et al., 2017a\|Citations/Schwingshackl et al., 2017a]] (0.70)
+- [[Positive health effects of going veggie or vegan\|Positive health effects of going veggie or vegan]] (0.65)
+- [[Citations/Schwingshackl et al., 2016\|Citations/Schwingshackl et al., 2016]] (0.64)

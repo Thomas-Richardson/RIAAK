@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/freedom-of-information-request/","tags":[null,null,null,null],"created":"2025-10-23T17:42:42.358+01:00","updated":"2025-10-30T23:44:53.156+00:00"}
+{"dg-publish":true,"permalink":"/freedom-of-information-request/","tags":["Data"],"created":"2025-10-23T17:42:42.358+01:00","updated":"2026-09-30T23:02:30.287+01:00","dg-note-properties":{"tags":["Data"],"AI suggested tags":["UK","Bryant_Research/Project/CAWF_Hidden_Harms","Factory_Farming"]}}
 ---
 
 
@@ -43,3 +43,10 @@ These notes appear semantically similar based on Smart Connections embeddings:
 - [[Transparent farms\|Transparent farms]] (similarity: 50.7%)
 - [[Faunalytics open datasets\|Faunalytics open datasets]] (similarity: 48.2%)
 - [[Sources of Animal data\|Sources of Animal data]] (similarity: 46.9%)
+
+
+# AI suggested related articles
+
+- [[MFA farmed animal opportunity index\|MFA farmed animal opportunity index]] (0.59)
+- [[Citations/World animal protection, 2024\|Citations/World animal protection, 2024]] (0.55)
+- [[There is no food security case for more factory farming cattle\|There is no food security case for more factory farming cattle]] (0.55)

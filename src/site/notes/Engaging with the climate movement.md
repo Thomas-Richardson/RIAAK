@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/engaging-with-the-climate-movement/","tags":["movement_strategy"],"created":"2025-10-23T17:42:42.822+01:00","updated":"2026-01-23T12:52:54.243+00:00"}
+{"dg-publish":true,"permalink":"/engaging-with-the-climate-movement/","tags":["Movement_Strategy"],"created":"2025-10-23T17:42:42.822+01:00","updated":"2026-09-30T19:55:02.337+01:00","dg-note-properties":{"tags":["Movement_Strategy"],"AI suggested tags":["Environment/Climate_Change","Environment/GHG","Sinergia_Defunding_Project"]}}
 ---
 
 ## Climate funders

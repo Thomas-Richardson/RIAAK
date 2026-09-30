@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/influential-respected-authorities-giving-pro-animal-advo-messaging/","tags":[null,null,null,null,null,null,null],"created":"2025-10-23T17:42:43.125+01:00","updated":"2026-01-17T18:05:48.261+00:00"}
+{"dg-publish":true,"permalink":"/influential-respected-authorities-giving-pro-animal-advo-messaging/","tags":["Environment","Health/Nutrition","Meat","Persuasion"],"created":"2025-10-23T17:42:43.125+01:00","updated":"2026-09-30T23:02:30.362+01:00","dg-note-properties":{"tags":["Environment","Health/Nutrition","Meat","Persuasion"],"AI suggested tags":["Environment/GHG","Meat/Meat_Reduction","Citation"]}}
 ---
 
+Dutch health guicelines: https://vegconomist.com/politics-law/netherlands-updates-national-food-guidelines-cut-meat-dairy-boost-legumes/
 # Health bodies
 - [The WHO recommends limiting processed meat](https://www.who.int/news-room/questions-and-answers/item/cancer-carcinogenicity-of-the-consumption-of-red-meat-and-processed-meat), because [[Red and processed meat are bad for you\|Red and processed meat are bad for you]]
 - [The Academy of Nutrition and Dietetics](https://www.jandonline.org/article/S2212-2672(25)00042-5/pdf) (US based, the world's largest organization of food and nutrition professionals.)
@@ -31,3 +32,9 @@
 
 # Related
 [[1 hard-hitting paragraph on why reducing meat is the best thing to do for climate\|1 hard-hitting paragraph on why reducing meat is the best thing to do for climate]]
+
+# AI suggested related articles
+
+- [[Going vegan is good for the environment\|Going vegan is good for the environment]] (0.73)
+- [[Citations/Harwatt et al., 2024\|Citations/Harwatt et al., 2024]] (0.73)
+- [[Modest meat reduction can have significant environmental benefits\|Modest meat reduction can have significant environmental benefits]] (0.71)

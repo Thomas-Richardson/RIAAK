@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/food-security-risks-that-could-come-from-scaling-up-animal-agriculture-in-lmi-cs/","tags":[null,null,"Environment/Land"],"created":"2025-10-23T17:42:47.134+01:00","updated":"2025-11-04T12:10:04.206+00:00"}
+{"dg-publish":true,"permalink":"/food-security-risks-that-could-come-from-scaling-up-animal-agriculture-in-lmi-cs/","tags":["Animal_Feed","MFA_Food_Sec","Environment/Land"],"created":"2025-10-23T17:42:47.134+01:00","updated":"2026-09-30T19:55:02.376+01:00","dg-note-properties":{"tags":["Animal_Feed","MFA_Food_Sec","Environment/Land"],"Note Type":"undefined","AI suggested tags":["Economics/Jobs","Food_Security","Farming"]}}
 ---
 
 
@@ -72,3 +72,9 @@ Other case studies include:
 - The most well known case study is the deforestation of the Amazon rainforest. [Our World in Data estimates](https://ourworldindata.org/what-are-drivers-deforestation) that 41% of tropical deforestation, some 2.1 million hectares a year, is driven by cattle farmers to create more grazing land. 72% of deforestation in Brazil is driven by cattle ranching, which accounts for 24% of tropical deforestation worldwide.
 
 By destroying local environments to produce more food short term, these countries are enhancing **food availability** and **food access** now, but directly harming both in the medium and long term. Large scale pastoralism can also fail to improve food security in other ways. Desertification, soil erosion, deforestation and climate change driven by unsustainably large pastoralist herds can contribute to water scarcity. Water scarcity decreases **food utilization** by increasing the risk of foodborne illness ([see section](\#the-risk-of-foodborne-illness-from-animal-products)) as it limits proper personal hygiene and safe food preparation. **All 4 aspects of food security** can also be compromised if people are forced to flee their homes due to drought, as is currently the case for the [2.3 million people displaced](https://reliefweb.int/report/somalia/east-and-horn-africa-and-great-lakes-region-unhcr-drought-situation-response-update-14-september-2023) in Ethiopia and Somalia. Lastly, pastoralist's dependence on common grazing land can make their **food stability** uniquely vulnerable to ['land grabs'](https://www.sciencedirect.com/science/article/pii/S0305750X15310445) by governments and foreign corporations.
+
+# AI suggested related articles
+
+- [[Is pastoralism the solution to the problems food security and animal agriculture\|Is pastoralism the solution to the problems food security and animal agriculture]] (0.76)
+- [[Diseases in farm animals cause economic shocks\|Diseases in farm animals cause economic shocks]] (0.75)
+- [[Industrial animal agriculture is detrimental to the food security of surrounding rural communities\|Industrial animal agriculture is detrimental to the food security of surrounding rural communities]] (0.75)

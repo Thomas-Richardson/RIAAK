@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/environmental-damage-caused-by-factory-farms/","tags":["factory_farming","Environment/Land"],"created":"2025-10-23T17:42:47.471+01:00","updated":"2025-11-04T12:10:04.193+00:00"}
+{"dg-publish":true,"permalink":"/environmental-damage-caused-by-factory-farms/","tags":["Factory_Farming","Environment/Land"],"created":"2025-10-23T17:42:47.471+01:00","updated":"2026-09-30T23:02:30.210+01:00","dg-note-properties":{"tags":["Factory_Farming","Environment/Land"],"Note Type":"undefined","AI suggested tags":["Environment/Pollution","CAWF_Farming","Bryant_Research/Project/CAWF_Hidden_Harms"]}}
 ---
 
 - [[Calculating the environmental damage caused by UK factory farms\|Calculating the environmental damage caused by UK factory farms]]
@@ -30,3 +30,9 @@ https://www.gov.uk/government/statistics/uk-and-england-soil-nutrient-balances-2
 [TBIJ](https://www.thebureauinvestigates.com/stories/2024-04-26/air-pollution-surging-across-poultry-megafarming-hotspots/) and the i have also uncovered regulatory loopholes that mean significant amounts of emissions are currently going unreported. ‘The findings provide yet another reason for applications for new US-style megafarms to be rejected’. According to current rules, any farm housing fewer than 40,000 birds is not required to report its ammonia emissions. Figures show almost 20 million birds are currently reared on farms that fall below this threshold. Emissions from farms’ waste consignments, meanwhile, can go unreported altogether because there is no requirement for a farm to monitor waste that leaves its site.
 
 per site might not be an issue but the sites are getting more concentrated: This is a real weakness as you do not have a single ammonia emission limit set as a collective [for the region].
+
+# AI suggested related articles
+
+- [[Water pollution from animal ag\|Water pollution from animal ag]] (0.79)
+- [[Quantifying the Environmental Risks from Pig & Poultry Production in the UK (Cumulus et al.)\|Quantifying the Environmental Risks from Pig & Poultry Production in the UK (Cumulus et al.)]] (0.74)
+- [[Animal agriculture is a big source of air pollution\|Animal agriculture is a big source of air pollution]] (0.73)

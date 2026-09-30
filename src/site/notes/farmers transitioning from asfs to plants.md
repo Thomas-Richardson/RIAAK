@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/farmers-transitioning-from-asfs-to-plants/","tags":["animal_feed - farming - farmers - cultivated_meat - Alternative_Proteins - precision_fermentation - environment_land - Economics/jobs"],"created":"2025-11-06T16:26:27.331+00:00","updated":"2025-11-06T16:26:27.331+00:00"}
+{"dg-publish":true,"permalink":"/farmers-transitioning-from-asfs-to-plants/","tags":["Animal_Feed","Farming","Farmers","Alternative_Proteins/Cultivated_Meat","Alternative_Proteins","Alternative_Proteins/Precision_Fermentation","Environment/Land","Economics/Jobs"],"created":"2025-11-06T16:26:27.331+00:00","updated":"2026-09-30T23:02:31.438+01:00","dg-note-properties":{"tags":["Animal_Feed","Farming","Farmers","Alternative_Proteins/Cultivated_Meat","Alternative_Proteins","Alternative_Proteins/Precision_Fermentation","Environment/Land","Economics/Jobs"],"Note Type":"undefined","AI suggested tags":["Food_Security","Bryant_Research/Project/CAWF_Food_Sec","Economics"]}}
 ---
 
 - [[The economic value of alternative proteins\|The economic value of alternative proteins]]
@@ -31,7 +31,7 @@
 ## Positives
 - [A survey of 51 scottish farmers](https://stockfreefarming.org/survey-report/) found that 86% of farmers were willing to change their practices to reduce climate change. Around 70% of farmers also said they would be at least somewhat willing to grow crops for human consumption, rewild “unfavorable” farming land, or try non-traditional agriculture practices with a financial incentive.
 ## Alternatives for farmers
-- peas, oats, mung beans, and other legumes, which they could grow, but also #alternative_proteins/Cultivated_Meat and #alternative_proteins often need algae, seaweed fungi and yeast which makes the transition difficult[^1]
+- peas, oats, mung beans, and other legumes, which they could grow, but also #Alternative_Proteins/Cultivated_Meat and #Alternative_Proteins often need algae, seaweed fungi and yeast which makes the transition difficult[^1]
 	- [[algae farming for alt proteins\|algae farming for alt proteins]] 
 - Land that’s unsuitable for growing any plants can be repurposed to agroforestry or possibly ecotourism.
 	- Farmers on large grazing land being paid to plant lots of trees
@@ -58,3 +58,9 @@
 - [[Citations/The Landworkers’ Alliance, Pasture for Life, Sustain and Hodmedod (2023)\|The Landworkers’ Alliance, Pasture for Life, Sustain and Hodmedod (2023)]] discusses UK legume production
 # References
 [^2]: ProVeg International. (2022). _Amplifying Farmers’ Voices: Farming perspectives on alternative proteins and a just transition._ [https://corporate.proveg.com/wp-content/uploads/2022/06/Amplifying_Farmers_Voices_Report.pdf](https://corporate.proveg.com/wp-content/uploads/2022/06/Amplifying_Farmers_Voices_Report.pdf) 
+
+# AI suggested related articles
+
+- [[Alt proteins and UK farming policy\|Alt proteins and UK farming policy]] (0.75)
+- [[Livestock on leftovers will not save us, we have to reduce meat\|Livestock on leftovers will not save us, we have to reduce meat]] (0.72)
+- [[Citations/Appetite for change - why the UK should lead the emerging alternative proteins market (Green Alliance)\|Citations/Appetite for change - why the UK should lead the emerging alternative proteins market (Green Alliance)]] (0.72)

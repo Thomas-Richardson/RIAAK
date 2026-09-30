@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/icare-resource-library/","created":"2025-11-14T13:00:59.780+00:00","updated":"2026-01-29T12:00:34.567+00:00"}
+{"dg-publish":true,"permalink":"/icare-resource-library/","tags":["Law","Animal_Ethics","AI","Policy"],"created":"2025-11-14T13:00:59.780+00:00","updated":"2026-09-30T19:55:02.431+01:00","dg-note-properties":{"Note Type":"External Resource","tags":["Law","Animal_Ethics","AI","Policy"],"created":null,"AI suggested tags":["External_Resource","Animal_Welfare","Wild_Animals"]}}
 ---
 
 - [[Other Resources to RIAAK\|Other Resources to RIAAK]]

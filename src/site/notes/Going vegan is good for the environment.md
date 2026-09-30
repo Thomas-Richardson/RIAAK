@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/going-vegan-is-good-for-the-environment/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:44.163+01:00","updated":"2025-10-30T23:44:53.605+00:00"}
+{"dg-publish":true,"permalink":"/going-vegan-is-good-for-the-environment/","tags":["Environment","Veganism"],"created":"2025-10-23T17:42:44.163+01:00","updated":"2026-09-30T23:02:30.316+01:00","dg-note-properties":{"tags":["Environment","Veganism"],"AI suggested tags":["Environment/GHG","Environment/Land","Veg_Diets"]}}
 ---
 
 
@@ -29,10 +29,16 @@ There are 2 things to consider here:
 - What is the reduction in your ==dietary== GHG emissions?
 - What is the reduction in your total, personal GHG emissions?
 
-![Pasted image 20240803135501.png|500](/img/user/Pasted%20image%2020240803135501.png)
+![Pasted image 20240803135501.png\|500](/img/user/Pasted%20image%2020240803135501.png)
 
 
 
 ## References
 [^1]: Aleksandrowicz, L., Green, R., Joy, E. J., Smith, P., & Haines, A. (2016). The impacts of dietary change on greenhouse gas emissions, land use, water use, and health: a systematic review. _PloS one_, _11_(11), e0165797.
 [^2]: Conrad, Z., Drewnowski, A., Belury, M. A., & Love, D. C. (2023). Greenhouse gas emissions, cost, and diet quality of specific diet patterns in the United States. _The American Journal of Clinical Nutrition_, _117_(6), 1186-1194.
+
+# AI suggested related articles
+
+- [[Citations/Scarborough et al., 2014\|Citations/Scarborough et al., 2014]] (0.77)
+- [[1 hard-hitting paragraph on why reducing meat is the best thing to do for climate\|1 hard-hitting paragraph on why reducing meat is the best thing to do for climate]] (0.76)
+- [[Vegan diets best across a wide range of metrics\|Vegan diets best across a wide range of metrics]] (0.75)

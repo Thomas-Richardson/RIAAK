@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/investing-in-alternative-proteins-can-improve-national-security-and-defence/","tags":["alternative_proteins","food_security","alternative_proteins/Cultivated_Meat","alternative_proteins/Precision_Fermentation","High_Income_Countries/USA"],"created":"2025-10-23T17:42:47.884+01:00","updated":"2026-02-05T12:55:35.159+00:00"}
+{"dg-publish":true,"permalink":"/investing-in-alternative-proteins-can-improve-national-security-and-defence/","tags":["Alternative_Proteins","Food_Security","Alternative_Proteins/Cultivated_Meat","Alternative_Proteins/Precision_Fermentation","High_Income_Countries/USA"],"created":"2025-10-23T17:42:47.884+01:00","updated":"2026-09-30T23:02:30.374+01:00","dg-note-properties":{"tags":["Alternative_Proteins","Food_Security","Alternative_Proteins/Cultivated_Meat","Alternative_Proteins/Precision_Fermentation","High_Income_Countries/USA"],"Note Type":"undefined","AI suggested tags":["Bryant_Research/Project/CAWF_Food_Sec","Economics/Jobs","USA"]}}
 ---
 
 - [[Government investment in alt proteins\|Government investment in alt proteins]]
@@ -27,3 +27,10 @@ GFI argue here: https://gfi.org/wp-content/uploads/2023/12/DoD_DPA_Recommendatio
 - [[Alt proteins for food security, better environment and land\|Alt proteins for food security, better environment and land]] (0.66)
 
 
+
+
+# AI suggested related articles
+
+- [[Citations/Appetite for change - why the UK should lead the emerging alternative proteins market (Green Alliance)\|Citations/Appetite for change - why the UK should lead the emerging alternative proteins market (Green Alliance)]] (0.67)
+- [[Citations/2026 State of Global Policy (The Good Food Institute)\|Citations/2026 State of Global Policy (The Good Food Institute)]] (0.67)
+- [[Citations/Securing Scale-up Funding for Alternative Proteins (Ambitious Impact)\|Citations/Securing Scale-up Funding for Alternative Proteins (Ambitious Impact)]] (0.64)

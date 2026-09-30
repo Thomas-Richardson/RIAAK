@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/license-to-kill/","tags":[null,null,null,null,null,null,null],"created":"2025-10-23T17:42:47.798+01:00","updated":"2025-10-30T23:44:53.793+00:00"}
+{"dg-publish":true,"permalink":"/license-to-kill/","tags":["Behaviour_Change","Bryant_Research/Insight","Meat","Psychology"],"created":"2025-10-23T17:42:47.798+01:00","updated":"2026-09-30T23:02:30.388+01:00","dg-note-properties":{"tags":["Behaviour_Change","Bryant_Research/Insight","Meat","Psychology"],"AI suggested tags":["Summer_Survey","Sinergia_Defunding_Project","Financial_Activism"]}}
 ---
 
 

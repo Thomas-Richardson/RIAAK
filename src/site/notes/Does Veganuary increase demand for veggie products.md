@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/does-veganuary-increase-demand-for-veggie-products/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:42.400+01:00","updated":"2025-10-30T23:44:53.164+00:00"}
+{"dg-publish":true,"permalink":"/does-veganuary-increase-demand-for-veggie-products/","tags":["Behaviour_Change","Veganism"],"created":"2025-10-23T17:42:42.400+01:00","updated":"2026-09-30T19:55:02.324+01:00","dg-note-properties":{"tags":["Behaviour_Change","Veganism"],"AI suggested tags":["Citation","Economics","Veg_Diets"]}}
 ---
 
 
@@ -20,3 +20,9 @@ From [Luick et al,. (2024)](https://link.springer.com/article/10.1186/s12889-024
 
 ## References
 [^1]: Trewern, J., Chenoweth, J., Christie, I., & Halevy, S. (2022). Does promoting plant-based products in Veganuary lead to increased sales, and a reduction in meat sales? A natural experiment in a supermarket setting. _Public health nutrition_, _25_(11), 3204-3214. https://www.cambridge.org/core/journals/public-health-nutrition/article/does-promoting-plantbased-products-in-veganuary-lead-to-increased-sales-and-a-reduction-in-meat-sales-a-natural-experiment-in-a-supermarket-setting/CB44968AAD1E86856D01CA47A7BC884D
+
+# AI suggested related articles
+
+- [[Citations/McPhedran et al., 2023\|Citations/McPhedran et al., 2023]] (0.83)
+- [[Citations/Luick et al., 2023\|Citations/Luick et al., 2023]] (0.80)
+- [[Do vegan products reduce demand for ASFs\|Do vegan products reduce demand for ASFs]] (0.64)

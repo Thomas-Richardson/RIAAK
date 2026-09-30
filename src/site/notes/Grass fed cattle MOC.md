@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/grass-fed-cattle-moc/","tags":["Cattle/grass_fed_cattle","Environment/Land","Meat/Beef","dairy"],"created":"2025-10-23T17:42:42.394+01:00","updated":"2025-11-04T12:12:45.523+00:00"}
+{"dg-publish":true,"permalink":"/grass-fed-cattle-moc/","tags":["Cattle/Grass_Fed_Cattle","Environment/Land","Meat/Beef","Dairy"],"created":"2025-10-23T17:42:42.394+01:00","updated":"2026-09-30T23:02:30.325+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Cattle/Grass_Fed_Cattle","Environment/Land","Meat/Beef","Dairy"],"created":null,"AI suggested tags":["Meat/Beef","Environment","Cows"]}}
 ---
 
 - [[Grass fed beef is not better for the environment\|Grass fed beef is not better for the environment]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/food-security-in-the-uk/","tags":["animal_feed","food_security","High_Income_Countries/UK","Bryant/Project/cawf_food_sec","alternative_proteins/Cultivated_Meat","Environment/Land","farming","Economics/jobs"],"created":"2025-10-23T17:42:42.845+01:00","updated":"2025-12-10T12:59:35.272+00:00"}
+{"dg-publish":true,"permalink":"/food-security-in-the-uk/","tags":["Animal_Feed","Food_Security","High_Income_Countries/UK","Bryant_Research/Project/CAWF_Food_Sec","Alternative_Proteins/Cultivated_Meat","Environment/Land","Farming","Economics/Jobs"],"created":"2025-10-23T17:42:42.845+01:00","updated":"2026-09-30T23:02:30.259+01:00","dg-note-properties":{"tags":["Animal_Feed","Food_Security","High_Income_Countries/UK","Bryant_Research/Project/CAWF_Food_Sec","Alternative_Proteins/Cultivated_Meat","Environment/Land","Farming","Economics/Jobs"],"Note Type":"undefined","AI suggested tags":["Bryant_Research/Project/CAWF_Food_Sec","UK","MFA_Food_Sec"]}}
 ---
 
 - [[Farming Evidence Pack (DEFRA)\|Farming Evidence Pack (DEFRA)]] 
@@ -16,7 +16,7 @@ In European policy, [the large agro-business corporations](https://www.politico.
 - [supply chain fragility triggered by Ukraine and COVID19](https://www.express.co.uk/news/politics/1892898/Farming-UK-Labour-Conservatives)
 	- food prices go up
 	- "emptying our shelves"
-- #farmers leaving the profession
+- #Farmers leaving the profession
 	- They believe its: 
 	- Red tape preventing exports
 	- Red tape in the planning system preventing building glasshouses, grain stores etc
@@ -65,3 +65,10 @@ Food foundation record this every few months: https://foodfoundation.org.uk/init
 ## Minor points
 - Food security in terms of hunger, nutrition and instability aren't really impacted by rising meat prices. People don't have to eat as much meat as they do. Whilst this isn't a winning argument, we should not let them normalise current levels of meat consumption
 - 
+
+
+# AI suggested related articles
+
+- [[CAWF 3 food security planning\|CAWF 3 food security planning]] (0.84)
+- [[There is no food security case for more factory farming cattle\|There is no food security case for more factory farming cattle]] (0.78)
+- [[Citations/The Future of Food Security in the UK (Conservative Animal Welfare Foundation)\|Citations/The Future of Food Security in the UK (Conservative Animal Welfare Foundation)]] (0.78)

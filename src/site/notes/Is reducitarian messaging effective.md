@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/is-reducitarian-messaging-effective/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:41.379+01:00","updated":"2025-10-30T23:44:52.923+00:00"}
+{"dg-publish":true,"permalink":"/is-reducitarian-messaging-effective/","tags":["Behaviour_Change","Messaging"],"created":"2025-10-23T17:42:41.379+01:00","updated":"2026-09-30T19:55:02.448+01:00","dg-note-properties":{"tags":["Behaviour_Change","Messaging"],"AI suggested tags":["Meat/Meat_Reduction","Consumer_Research","Public_Opinion"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/healthcare-cost-savings-from-shifting-diets/","tags":["Health/Disease","Health/Nutrition",null],"created":"2025-11-06T09:34:36.645+00:00","updated":"2026-01-15T11:05:50.849+00:00"}
+{"dg-publish":true,"permalink":"/healthcare-cost-savings-from-shifting-diets/","tags":["Health/Disease","Health/Nutrition",null],"created":"2025-11-06T09:34:36.645+00:00","updated":"2026-09-30T19:55:02.413+01:00","dg-note-properties":{"Note Type":null,"tags":["Health/Disease","Health/Nutrition",null],"created":null,"AI suggested tags":["Economics/Costs","CAWF_NHS","Health"]}}
 ---
 
 
@@ -11,7 +11,7 @@
 - [[Citations/Scarborough et al., 2010\|Scarborough et al., 2010]] found the UK NHS could save nearly a billion by moving to a specific "less meat" diet.
 - Obvious CAWF NHS: [[Citations/The _2 billion NHS windfall- Why meat reduction matters (Conservative Animal Welfare Foundation)\|The _2 billion NHS windfall- Why meat reduction matters (Conservative Animal Welfare Foundation)]]
 - [[Citations/The cost of red and processed meat (Zero Carbon Analytics)\|The cost of red and processed meat (Zero Carbon Analytics)]]
-- This [2024 study in nature](https://www.nature.com/articles/s41599-024-03749-0) showed that in the last 30 years more meat in the diet for #china was associated with higher medical bills and more plant based foods lower food bills 
+- This [2024 study in nature](https://www.nature.com/articles/s41599-024-03749-0) showed that in the last 30 years more meat in the diet for #China was associated with higher medical bills and more plant based foods lower food bills 
 - [[Citations/Springmann et al., 2016\|Springmann et al., 2016]] found that the healthcare savings from reducing meat could exceed the savings from tackling climate change!
 
 # Veg diets
@@ -25,3 +25,9 @@
 
 # Related
 - 
+
+# AI suggested related articles
+
+- [[Citations/The _2 billion NHS windfall (Animal Ask)\|Citations/The _2 billion NHS windfall (Animal Ask)]] (0.75)
+- [[Citations/The _2 billion NHS windfall - Why meat reduction matters (Conservative Animal Welfare Foundation)\|Citations/The _2 billion NHS windfall - Why meat reduction matters (Conservative Animal Welfare Foundation)]] (0.75)
+- [[The cost to the NHS of diabetes, CVD, cancer and obesity\|The cost to the NHS of diabetes, CVD, cancer and obesity]] (0.74)

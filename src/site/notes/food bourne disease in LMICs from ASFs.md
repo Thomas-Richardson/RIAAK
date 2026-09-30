@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/food-bourne-disease-in-lmi-cs-from-as-fs/","tags":["food_safety","Health/Disease"],"created":"2025-11-11T23:26:04.347+00:00","updated":"2025-11-11T23:26:04.348+00:00"}
+{"dg-publish":true,"permalink":"/food-bourne-disease-in-lmi-cs-from-as-fs/","tags":["Food_Safety","Health/Disease"],"created":"2025-11-11T23:26:04.347+00:00","updated":"2026-09-30T19:55:03.639+01:00","dg-note-properties":{"tags":["Food_Safety","Health/Disease"],"AI suggested tags":["MFA_Food_Sec","Economics/Jobs","Lower_Middle_Income_Countries"]}}
 ---
 
 - [[Factory farmed animals cause pandemics and zoonotic disease\|Factory farmed animals cause pandemics and zoonotic disease]]
@@ -26,7 +26,7 @@ Citations:
 - See also [[Citations/Vipham et al., 2020\|Vipham et al., 2020]]
 
 ## ASFs are a huge part of the problem
-- A great review found that in #lower_middle_income_countries, ([Grace, 2015](https://www.mdpi.com/1660-4601/12/9/10490) )
+- A great review found that in #Lower_Middle_Income_Countries, ([Grace, 2015](https://www.mdpi.com/1660-4601/12/9/10490) )
 - [6% of Pork](https://www.mdpi.com/1660-4601/11/1/403) in Nagaland, NE India met safe food standards[^3]
 - [Only 2%](https://cgspace.cgiar.org/collections/5c578e47-978e-41d4-a680-9a6372b1441a) of meat samples in Nigeria complied with standards[^4]
 - [0% of milk samples in Assam](https://cgspace.cgiar.org/server/api/core/bitstreams/5296819c-18bb-4662-9a82-690536b31c7a/content) complied with standard[^5]
@@ -49,6 +49,7 @@ Citations:
 - Very little foreign aid to tackle food bourne disease
 - Approximately 90% of the FBD burden of _Campylobacter_ spp. was attributed to ASF, a disease which is [among the most important pathogens](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(18)30349-8/fulltext) associated with Environmental Enteric Dysfunction and stunting. 
 
+
 </div></div>
 
 
@@ -60,3 +61,9 @@ Citations:
 [^5]: ILRI. Comprehensive Study of the Assam Dairy Sector: Action Plan for Pro-Poor Dairy Development; International Livestock Research Institute: Nairobi, Kenya, 2007.
 [^6]: Hanson, L. A., Zahn, E. A., Wild, S. R., Döpfer, D., Scott, J., & Stein, C. (2012). Estimating global mortality from potentially foodborne diseases: an analysis using vital registration data. _Population Health Metrics_, _10_(1), 1-7.
 [^7]: Rogawski, E. T., Liu, J., Platts-Mills, J. A., Kabir, F., Lertsethtakarn, P., Siguas, M., ... & Quetz, J. (2018). Use of quantitative molecular diagnostic methods to investigate the effect of enteropathogen infections on linear growth in children in low-resource settings: longitudinal analysis of results from the MAL-ED cohort study. _The Lancet Global Health_, _6_(12), e1319-e1328.
+
+# AI suggested related articles
+
+- [[Citations/Li et al., 2019\|Citations/Li et al., 2019]] (0.83)
+- [[Citations/Vipham et al., 2020\|Citations/Vipham et al., 2020]] (0.75)
+- [[Diseases in farm animals cause economic shocks\|Diseases in farm animals cause economic shocks]] (0.74)

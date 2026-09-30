@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-does-uk-meat-consumption-and-production-differ-from-europe/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:43.299+01:00","updated":"2025-10-30T23:44:53.401+00:00"}
+{"dg-publish":true,"permalink":"/how-does-uk-meat-consumption-and-production-differ-from-europe/","tags":["Europe","Meat","UK"],"created":"2025-10-23T17:42:43.299+01:00","updated":"2026-09-30T23:02:30.340+01:00","dg-note-properties":{"tags":["Europe","Meat","UK"],"AI suggested tags":["Bryant_Research/Project/CAWF_Hidden_Harms","Meat/Meat_Consumption","Bryant_Research/Project/CAWF_Food_Sec"]}}
 ---
 
 
@@ -21,4 +21,4 @@
 ```
 Using 2022 OWID data
 
-![Pasted image 20240822132331.png|700](/img/user/Pasted%20image%2020240822132331.png)
+![Pasted image 20240822132331.png\|700](/img/user/Pasted%20image%2020240822132331.png)

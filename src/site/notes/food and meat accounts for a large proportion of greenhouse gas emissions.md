@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/food-and-meat-accounts-for-a-large-proportion-of-greenhouse-gas-emissions/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:41.579+01:00","updated":"2025-10-30T23:44:52.969+00:00"}
+{"dg-publish":true,"permalink":"/food-and-meat-accounts-for-a-large-proportion-of-greenhouse-gas-emissions/","tags":["Environment/GHG","Farming"],"created":"2025-10-23T17:42:41.579+01:00","updated":"2026-09-30T23:02:31.443+01:00","dg-note-properties":{"tags":["Environment/GHG","Farming"],"AI suggested tags":["Environment","Environment/Land","Cows"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/estimates-of-lives-and-saved-by-moving-away-from-meat/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:42.272+01:00","updated":"2025-11-06T09:42:01.760+00:00"}
+{"dg-publish":true,"permalink":"/estimates-of-lives-and-saved-by-moving-away-from-meat/","tags":["Economics","Health/Nutrition"],"created":"2025-10-23T17:42:42.272+01:00","updated":"2026-09-30T19:55:02.340+01:00","dg-note-properties":{"tags":["Economics","Health/Nutrition"],"AI suggested tags":["CAWF_NHS","Economics/Costs","BOTEC"]}}
 ---
 
 If the average UK dietary intake were optimised to comply with the WHO recommendations it would save almost 7 million years of life lost prematurely in the UK over the next 30 years and increase average life expectancy by over 8 months ([Milner et al., 2015](https://bmjopen.bmj.com/content/5/4/e007364.short)).
@@ -31,3 +31,9 @@ Also see
 
 # Related
 - [[Bryant Confidential/CAWF NHS report MOC\|CAWF NHS report MOC]]
+
+# AI suggested related articles
+
+- [[Healthcare cost savings from shifting diets\|Healthcare cost savings from shifting diets]] (0.81)
+- [[Citations/Scarborough et al., 2010\|Citations/Scarborough et al., 2010]] (0.78)
+- [[The cost to the NHS of diabetes, CVD, cancer and obesity\|The cost to the NHS of diabetes, CVD, cancer and obesity]] (0.77)

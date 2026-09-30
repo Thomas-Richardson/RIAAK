@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health-risks-of-veggie-veganism/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:41.969+01:00","updated":"2025-10-30T23:44:53.102+00:00"}
+{"dg-publish":true,"permalink":"/health-risks-of-veggie-veganism/","tags":["Health/Nutrition","Veganism"],"created":"2025-10-23T17:42:41.969+01:00","updated":"2026-09-30T19:55:02.412+01:00","dg-note-properties":{"tags":["Health/Nutrition","Veganism"],"AI suggested tags":["Nuts","Veg_Diets","Diet"]}}
 ---
 
 
@@ -43,3 +43,9 @@
 
 [^2]: https://agresearchmag.ars.usda.gov/ar/archive/2000/aug/vita0800.pdf
 [^3]: Scientific Advisory Committee on Nutrition. _SACN Statement on Iodine and Health_; 2014 www.gov.uk/government/uploads/system/uploads/attachment_data/file/339439/SACN_Iodine_and_Health_2014.pdf](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/339439/SACN_Iodine_and_Health_2014.pdf 
+
+# AI suggested related articles
+
+- [[Plant based diets and micronutrients\|Plant based diets and micronutrients]] (0.77)
+- [[Citations/Pawlak, Lester and Toyin, 2014\|Citations/Pawlak, Lester and Toyin, 2014]] (0.75)
+- [[Malnutrition\|Malnutrition]] (0.74)

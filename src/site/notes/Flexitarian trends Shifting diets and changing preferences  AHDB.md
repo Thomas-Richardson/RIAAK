@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/flexitarian-trends-shifting-diets-and-changing-preferences-ahdb/","tags":["Diet/Flexitarian"],"created":"2025-10-23T17:42:41.329+01:00","updated":"2025-11-07T12:17:45.857+00:00"}
+{"dg-publish":true,"permalink":"/flexitarian-trends-shifting-diets-and-changing-preferences-ahdb/","tags":["Diet/Flexitarian"],"created":"2025-10-23T17:42:41.329+01:00","updated":"2026-09-30T19:55:02.368+01:00","dg-note-properties":{"Note Type":"Government Report","Url":"https://ahdb.org.uk/news/consumer-insight-flexitarian-trends-shifting-diets-and-changing-preferences","tags":["Diet/Flexitarian"],"AI suggested tags":["Economics/Costs","Meat/Meat_Reduction","Consumer_Research"]}}
 ---
 
 *Thursday, 22 May 2025*

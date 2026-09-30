@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/factory-farming-in-hi-cs-causes-environmental-disasters-in-lmi-cs/","tags":[null,null,null,null,"Economics/jobs"],"created":"2025-10-23T17:42:43.139+01:00","updated":"2025-11-06T18:40:59.190+00:00"}
+{"dg-publish":true,"permalink":"/factory-farming-in-hi-cs-causes-environmental-disasters-in-lmi-cs/","tags":["Environment/GHG","Factory_Farming","Lower_Middle_Income_Countries","MFA_Food_Sec","Economics/Jobs"],"created":"2025-10-23T17:42:43.139+01:00","updated":"2026-09-30T19:55:02.351+01:00","dg-note-properties":{"tags":["Environment/GHG","Factory_Farming","Lower_Middle_Income_Countries","MFA_Food_Sec","Economics/Jobs"],"Note Type":"undefined","AI suggested tags":["Health/Disease","Farming","USA"]}}
 ---
 
 
@@ -27,3 +27,10 @@ For example, wildfires across the Amazon rainforest caused $957 Billion of damag
 Likewise, The devastating heatwave across India and Pakistan in 2022 saw the highest temperatures since records began 122 years ago. The report estimates that factory farming in the global north to be indirectly responsible for $6.71 Billion of damages in lost labour and crop failures from drought.
 
 Event attribution is the scientific discipline of figuring out how much of the effects of a natural disaster can be attributed to climate change.
+
+
+# AI suggested related articles
+
+- [[How changing diets in the Global North impact food security across the world\|How changing diets in the Global North impact food security across the world]] (0.75)
+- [[Diseases in farm animals cause economic shocks\|Diseases in farm animals cause economic shocks]] (0.70)
+- [[Factory farmed animals cause pandemics and zoonotic disease\|Factory farmed animals cause pandemics and zoonotic disease]] (0.66)

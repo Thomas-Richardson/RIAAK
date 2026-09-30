@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/food-security/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:43.157+01:00","updated":"2025-10-30T23:44:53.372+00:00"}
+{"dg-publish":true,"permalink":"/food-security/","tags":["Food_Security","Health/Nutrition"],"created":"2025-10-23T17:42:43.157+01:00","updated":"2026-09-30T23:02:30.276+01:00","dg-note-properties":{"tags":["Food_Security","Health/Nutrition"],"AI suggested tags":["MFA_Food_Sec","Bryant_Research/Project/CAWF_Food_Sec"]}}
 ---
 
 
@@ -16,7 +16,7 @@ The Food and Agriculture Organization of the United Nations, [**The State of Foo
 
 Moderate or severe food insecurity affected 33.3 percent of adults living in rural areas in 2022 compared with 26.0 percent in urban areas. 
 
-![Pasted image 20240317013230.png|500](/img/user/Pasted%20image%2020240317013230.png)
+![Pasted image 20240317013230.png\|500](/img/user/Pasted%20image%2020240317013230.png)
 ## FAO's 4 pillars:
 https://www.fao.org/fileadmin/templates/faoitaly/documents/pdf/pdf_Food_Security_Cocept_Note.pdf
 
@@ -48,3 +48,9 @@ The farther away a person lives from a major city or town, the less access to fo
 
 ## References
 [^2]: Ingram, J., 2009. 2. Food system concepts, in: ESF (Ed.), European Food Systems in a Changing World - Report of a ESF/COST Forward Look. European Science Foundation, Strasbourg.
+
+# AI suggested related articles
+
+- [[Defining Food Security\|Defining Food Security]] (0.76)
+- [[CAWF 3 food security planning\|CAWF 3 food security planning]] (0.69)
+- [[Food stability for people in LMICs and animal agriculture\|Food stability for people in LMICs and animal agriculture]] (0.67)

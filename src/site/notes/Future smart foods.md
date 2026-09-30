@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/future-smart-foods/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:43.003+01:00","updated":"2025-10-30T23:44:53.294+00:00"}
+{"dg-publish":true,"permalink":"/future-smart-foods/","tags":["Health/Nutrition","Lower_Middle_Income_Countries"],"created":"2025-10-23T17:42:43.003+01:00","updated":"2026-09-30T19:55:02.387+01:00","dg-note-properties":{"tags":["Health/Nutrition","Lower_Middle_Income_Countries"],"AI suggested tags":["MFA_Food_Sec","Food_Security","Animal_Feed"]}}
 ---
 
 
@@ -27,7 +27,7 @@
 ## Case study: millets in India
 One focuses within the FSF initiative in India[ is on millets](https://www.smartfood.org/activities/india/) and sorghum, collectively referred to as nutricereals. Millets are healthier than typical staple crops such as maize (corn), rice and wheat, containing higher levels of vitamin A, calcium, iron, zinc, riboflavin, and folic acid, which are all nutrnets. These grains are being repositioned from their traditional image as "old-fashioned" to smart food options due to their nutritional benefits, drought resistance, and lower environmental footprint. The Smart Food Initiative aims to mainstream millets through various strategies, including improving consumer awareness, enhancing the supply chain, and fostering innovation through incubators for millet entrepreneurs. Notable efforts include the collaboration between the International Crops Research Institute for the Semi-Arid Tropics (ICRISAT) and the Indian Institute of Millets Research (IIMR), as well as support from government initiatives like the declaration of 2018 as the National Year of Millets and the inclusion of millets in mid-day meal programs.
  
-![Pasted image 20240221173344.png|800](/img/user/Citations/Pasted%20image%2020240221173344.png)
+![Pasted image 20240221173344.png\|800](/img/user/Citations/Pasted%20image%2020240221173344.png)
 Source: [Li and Siddique (2020)](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/mcn.13008) 
 
 ## Future smart foods to address malnutrition
@@ -41,7 +41,13 @@ One example of a Future Smart Food are the leaves and seeds to the[ Persian Mori
 
 Other examples of promising Future Smart Foods [are millets](https://www.smartfood.org/activities/india/) such as finger millet, Teff or Fonio. These are collectively referred to as nutricereals. Teff is used to make the popular sour flatbread Injera that is the hallmark of Ethiopian cuisine. Notably, it is the only grain high in vitamin C. Millets typically contain higher levels of vitamin A, calcium, iron, zinc, riboflavin, and folic acid than staple crops, and . [The Gates Foundation](https://www.gatesnotes.com/Fonio) alongside [CGIAR](https://www.gatesnotes.com/How-CGIAR-is-feeding-our-future) see millets as playing a promising role in addressing micronutrient deficiencies across the world and the UN declared 2023 "[The Year of Millet](https://www.smartfood.org/international-year-of-millets-2023/)". This followed the Indian Government taking [a great interest in millets](https://economictimes.indiatimes.com/news/how-to/why-india-is-making-such-a-big-deal-out-of-millets/articleshow/99501591.cms) as a food security fix and declaring a nationwide year of [millet in 2018](https://timesofindia.indiatimes.com/life-style/food-news/why-is-pm-modi-promoting-millets-so-aggressively/photostory/97649903.cms?picid=97650318).
 
-![Pasted image 20240221173409.png|700](/img/user/Citations/Pasted%20image%2020240221173409.png)
+![Pasted image 20240221173409.png\|700](/img/user/Citations/Pasted%20image%2020240221173409.png)
 Figure XX: examples of Future Smart Foods that excel in mountainous regions where soil is often poor. [From Li and Siddique (2020)](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/mcn.13008)
 
 Despite having strong advantages, there are some barriers to widespread adoption of FSFs. Gates notes that some types of farming millet are difficult to scale because we haven't yet developed machines to process them efficiently. [Knez et al., (2023)](https://www.mdpi.com/2071-1050/15/4/3076) present 7 case studies of FSFs and the key barriers to increasing their adoption, including buckwheat, lentils, green leafy vegetables, sow thistle, grass pea, cucumber melon, and eggplant. Common themes around barriers include lower yields and lack of genomic sequences preventing rapid breeding improvements. There is also a cultural element: they are often perceived as "old fashioned" and "food for the poor". This negative image in the eyes of consumers can result in low market prices. This was found in a study of farming villages across [Nepal and Bangladesh](https://www.mdpi.com/2071-1050/11/19/5236), who are farming less buckwheat and millet and more cash crops such as fruits and coffee. As such, public education campaigns of the numerous benefits of these foods, such as those seen in India, are key to ensuring that their potential to tackle food insecurity is realised. 
+
+# AI suggested related articles
+
+- [[Feeding the world nutrition over calories, plants over animals\|Feeding the world nutrition over calories, plants over animals]] (0.86)
+- [[Citations/Li, Yadav & Siddique, 2020\|Citations/Li, Yadav & Siddique, 2020]] (0.78)
+- [[Fauna Connections 2025 - food security\|Fauna Connections 2025 - food security]] (0.73)

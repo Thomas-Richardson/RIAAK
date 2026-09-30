@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hwa-food-service-industry-protein-sustainability-scorecard/","tags":["institutional_change"],"created":"2025-10-23T17:42:42.293+01:00","updated":"2025-10-30T23:40:01.939+00:00"}
+{"dg-publish":true,"permalink":"/hwa-food-service-industry-protein-sustainability-scorecard/","tags":["Institutional_Change"],"created":"2025-10-23T17:42:42.293+01:00","updated":"2026-09-30T19:55:02.408+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Institutional_Change"],"created":null,"Url":"https://www.humaneworld.org/sites/default/files/docs/HumaneWorld_foodservicescorecard_2025.pdf","AI suggested tags":["Alternative_Proteins","Case_Study","Retailers"]}}
 ---
 
 # Executive Summary

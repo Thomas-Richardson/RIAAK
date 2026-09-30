@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/food-systems-dashboard/","tags":[null,null,null,null],"created":"2025-10-23T17:42:44.100+01:00","updated":"2025-10-30T23:44:53.585+00:00"}
+{"dg-publish":true,"permalink":"/food-systems-dashboard/","tags":["Data"],"created":"2025-10-23T17:42:44.100+01:00","updated":"2026-09-30T19:55:02.381+01:00","dg-note-properties":{"tags":["Data"],"AI suggested tags":["Food_Security","Lower_Middle_Income_Countries","Farming"]}}
 ---
 
 

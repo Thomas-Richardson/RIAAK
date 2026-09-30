@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/labour-shortages-in-the-uk-agri/","tags":[null,null,null,null,null,"Economics/jobs"],"created":"2025-11-06T16:26:11.229+00:00","updated":"2025-11-06T16:26:11.229+00:00"}
+{"dg-publish":true,"permalink":"/labour-shortages-in-the-uk-agri/","tags":["Bryant_Research/Project/CAWF_Food_Sec","UK","Economics/Jobs"],"created":"2025-11-06T16:26:11.229+00:00","updated":"2026-09-30T23:02:30.382+01:00","dg-note-properties":{"tags":["Bryant_Research/Project/CAWF_Food_Sec","UK","Economics/Jobs"],"AI suggested tags":["Bryant_Research/Project/CAWF_Hidden_Harms","Bryant_Research/Project/CAWF_Food_Sec","Farming"]}}
 ---
 
 
@@ -25,3 +25,10 @@ before EU Exit. Recruitment is now centred on central Asian nations through the
 visa scheme. Fewer than 5% of seasonal workers in horticulture are UK nationals 
 
 
+
+
+# AI suggested related articles
+
+- [[Estimating the number of livestock workers in the UK\|Estimating the number of livestock workers in the UK]] (0.72)
+- [[CAFOS reduce employment and provide low quality jobs\|CAFOS reduce employment and provide low quality jobs]] (0.72)
+- [[Citations/UK governmental food security review, 2024\|Citations/UK governmental food security review, 2024]] (0.68)

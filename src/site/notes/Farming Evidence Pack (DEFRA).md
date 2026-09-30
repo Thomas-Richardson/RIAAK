@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/farming-evidence-pack-defra/","tags":[null,null,null],"created":"2025-10-23T17:42:47.497+01:00","updated":"2025-10-30T23:44:53.734+00:00"}
+{"dg-publish":true,"permalink":"/farming-evidence-pack-defra/","tags":["Bryant_Research/Project/CAWF_Hidden_Harms","Farming","UK"],"created":"2025-10-23T17:42:47.497+01:00","updated":"2026-09-30T23:02:30.226+01:00","dg-note-properties":{"Note Type":"Government Report","tags":["Bryant_Research/Project/CAWF_Hidden_Harms","Farming","UK"],"AI suggested tags":["Bryant_Research/Project/CAWF_Food_Sec","Animal_Feed"]}}
 ---
 
 
@@ -84,7 +84,7 @@ For cows it's growing: https://www.bbc.co.uk/news/articles/cy4ldkpz1klo
 
 This article discusses some of the [big agri](https://www.sustainweb.org/news/may23-intensive-livestock-directors-pay/) involved in the UK
 ## LMICS
-#lower_middle_income_countries 
+#Lower_Middle_Income_Countries 
 - [[Citations/Lam et al., 2016\|Lam et al., 2016]]
 
 # # References
@@ -93,9 +93,22 @@ This article discusses some of the [big agri](https://www.sustainweb.org/news/ma
 [^2]: James M. MacDonald. Tracking the Consolidation of U.S. Agriculture. Applied Economic Perspectives and Policy, 2020; DOI: [10.1002/aepp.13056](https://onlinelibrary.wiley.com/doi/10.1002/aepp.13056)
 [^3]: Lee, Seth. IBISWorld. “Dairy Farms in the US.” Industry Report 11212. July 2022 at 4, 7, and 17.
 
+# AI suggested related articles
+
+- [[What is the difference between a factory farm and a mega farm Q\|What is the difference between a factory farm and a mega farm Q]] (0.73)
+- [[Citations/World animal protection, 2024\|Citations/World animal protection, 2024]] (0.71)
+- [[Citations/The face of European farming (AGtivist Agency)\|Citations/The face of European farming (AGtivist Agency)]] (0.69)
+
+
 </div></div>
 
 
 ## Fish
-#fish 
+#Fish 
 The UK's main fish products are salmon (50M) and trout (17M) per year. 15M cleaner fish are sacrificed to fight salmon lice
+
+# AI suggested related articles
+
+- [[The consolidation and intensification of farms\|The consolidation and intensification of farms]] (0.75)
+- [[Citations/World animal protection, 2024\|Citations/World animal protection, 2024]] (0.74)
+- [[Food security in the UK\|Food security in the UK]] (0.70)

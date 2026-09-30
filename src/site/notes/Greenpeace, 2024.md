@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/greenpeace-2024/","tags":[null,null,null,null],"created":"2025-10-23T17:42:48.078+01:00","updated":"2025-10-30T23:44:53.840+00:00"}
+{"dg-publish":true,"permalink":"/greenpeace-2024/","tags":["Farmers"],"created":"2025-10-23T17:42:48.078+01:00","updated":"2026-09-30T19:55:02.406+01:00","dg-note-properties":{"tags":["Farmers"],"AI suggested tags":["Farming","Animal_Feed","USA"]}}
 ---
 
 
@@ -12,7 +12,7 @@ https://www.greenpeace.org/static/planet4-eu-unit-stateless/2024/10/20241003-Go-
 
 Shows how mega farms are taking over Europe
 
-![Pasted image 20241003102730.png|600](/img/user/Pasted%20image%2020241003102730.png)
+![Pasted image 20241003102730.png\|600](/img/user/Pasted%20image%2020241003102730.png)
 
 "Even though mega-farms represent only 8% of farms in the EU, they receive 37% of direct payment subsidies for commercial farms, all the while increasing their income (as shown above). Small-scale commercial farms receive only 25% of subsidies, despite over two-thirds of commercial farms in Europe being small-scale."
 
@@ -53,3 +53,9 @@ livestock in the EU and 36% of the EU’s agricultural
 land. This leaves two-thirds of EU farms the 67%
 with the lowest economic output with only 11% of
 livestock and 25% of farmland.
+
+# AI suggested related articles
+
+- [[Citations/Feeding the problem (Greenpeace, 2019)\|Citations/Feeding the problem (Greenpeace, 2019)]] (0.80)
+- [[Citations/The face of European farming (AGtivist Agency)\|Citations/The face of European farming (AGtivist Agency)]] (0.69)
+- [[Farming Evidence Pack (DEFRA)\|Farming Evidence Pack (DEFRA)]] (0.65)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health-effects-of-chicken/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:43.120+01:00","updated":"2025-12-29T16:47:05.781+00:00"}
+{"dg-publish":true,"permalink":"/health-effects-of-chicken/","tags":["Chickens","Health/Nutrition"],"created":"2025-10-23T17:42:43.120+01:00","updated":"2026-09-30T19:55:03.641+01:00","dg-note-properties":{"tags":["Chickens","Health/Nutrition"],"AI suggested tags":["Nuts","Meat","Health/Disease"]}}
 ---
 
 
@@ -19,3 +19,9 @@ See also
 - [[health effects of dairy\|health effects of dairy]]
 - [[Health effects of eggs\|Health effects of eggs]]
 - [[Red and processed meat are bad for you\|Red and processed meat are bad for you]]
+
+# AI suggested related articles
+
+- [[Citations/Vergnaud et al., 2010\|Citations/Vergnaud et al., 2010]] (0.71)
+- [[Diet and diabetes\|Diet and diabetes]] (0.60)
+- [[Slow growing chickens\|Slow growing chickens]] (0.59)

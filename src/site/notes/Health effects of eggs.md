@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health-effects-of-eggs/","tags":["Health/Nutrition","eggs","nuts","Legumes"],"created":"2025-10-23T17:42:48.099+01:00","updated":"2026-02-03T13:27:02.094+00:00"}
+{"dg-publish":true,"permalink":"/health-effects-of-eggs/","tags":["Health/Nutrition","Eggs","Nuts","Legumes"],"created":"2025-10-23T17:42:48.099+01:00","updated":"2026-09-30T22:10:52.862+01:00","dg-note-properties":{"tags":["Health/Nutrition","Eggs","Nuts","Legumes"],"AI suggested tags":["Diet","Review","Meat/Red_Meat"]}}
 ---
 
 - [[Citations/Kwok et al., 2019\|Kwok et al., 2019]] in a comprehensive review found inconclusive evidence for eggs on CVD and all cause mortality
@@ -13,7 +13,13 @@
 - In [[Citations/Schwingshackl et al., 2017a\|Schwingshackl et al., 2017a]] They found that we're generally uncertain about effects of eggs on all cause mortality, but there is probably risk that increases once you get above 50g eggs a day, which is about a medium egg. (Eight studies with 30,352 mortalities). They also found that larger studies over 1000 deaths tended to show negative effects of eggs
 - [Wang et al., (2021](https://web.archive.org/web/20201012113147id_/https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C86D80672A65B06F1220BC3691C18296/S0007114520003955a.pdf/div-class-title-higher-egg-consumption-associated-with-increased-risk-of-diabetes-in-chinese-adults-china-health-and-nutrition-survey-div.pdf)) found in older chinese adults that eggs were related to diabetes
 
-![Schwingshackl et al., 2017a eggs.png|400](/img/user/Schwingshackl%20et%20al.,%202017a%20eggs.png)
+![Schwingshackl et al., 2017a eggs.png\|400](/img/user/Schwingshackl%20et%20al.,%202017a%20eggs.png)
 ![Schwingshackl et al., 2017a eggs.png](/img/user/Schwingshackl%20et%20al.,%202017a%20eggs.png)
 
 Look into: https://www.tandfonline.com/doi/pdf/10.1080/10408398.2017.1392288
+
+# AI suggested related articles
+
+- [[Citations/Schwingshackl et al., 2017a\|Citations/Schwingshackl et al., 2017a]] (0.73)
+- [[Citations/Neuenschwander et al., 2023\|Citations/Neuenschwander et al., 2023]] (0.70)
+- [[Citations/Barnard et al., 2019\|Citations/Barnard et al., 2019]] (0.70)

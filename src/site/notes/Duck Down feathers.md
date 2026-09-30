@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/duck-down-feathers/","tags":["materials"],"created":"2025-10-23T17:42:41.962+01:00","updated":"2026-02-04T11:49:17.999+00:00"}
+{"dg-publish":true,"permalink":"/duck-down-feathers/","tags":["Materials"],"created":"2025-10-23T17:42:41.962+01:00","updated":"2026-09-30T19:55:02.326+01:00","dg-note-properties":{"tags":["Materials"],"AI suggested tags":["Eggs","Chickens","Animal_Feed"]}}
 ---
 
 - [[Wool\|Wool]]

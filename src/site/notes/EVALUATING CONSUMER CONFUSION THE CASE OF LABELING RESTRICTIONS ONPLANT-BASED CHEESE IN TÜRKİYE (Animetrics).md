@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/evaluating-consumer-confusion-the-case-of-labeling-restrictions-onplant-based-cheese-in-t-ue-rkiye-animetrics/","tags":["Middle_East"],"created":"2025-10-23T17:42:41.240+01:00","updated":"2025-10-30T23:40:01.476+00:00"}
+{"dg-publish":true,"permalink":"/evaluating-consumer-confusion-the-case-of-labeling-restrictions-onplant-based-cheese-in-t-ue-rkiye-animetrics/","tags":["Middle_East"],"created":"2025-10-23T17:42:41.240+01:00","updated":"2026-09-30T19:55:02.331+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Middle_East"],"created":null,"Url":"https://drive.google.com/file/d/1HD8FhZDRV3Nekqlh7adJQNyLbXxsTtfl/view","AI suggested tags":["Policy/Labeling","Consumer_Research","Plant_Based/Marketing"]}}
 ---
 
 https://drive.google.com/file/d/1HD8FhZDRV3Nekqlh7adJQNyLbXxsTtfl/view
@@ -71,3 +71,10 @@ These notes appear semantically similar based on Smart Connections embeddings:
 - [[Citations/BUEC, 2020\|BUEC, 2020]] (similarity: 69.9%)
 - [[Citations/Effects of Restrictive Animal Product Alternative Labeling Laws on Supply-chain Costs (Rethink Priorities)\|Effects of Restrictive Animal Product Alternative Labeling Laws on Supply-chain Costs (Rethink Priorities)]] (similarity: 68.5%)
 - [[Citations/Institute for Sustainable Futures, 2022\|Institute for Sustainable Futures, 2022]] (similarity: 67.5%)
+
+
+# AI suggested related articles
+
+- [[Citations/What To Call Plant-Based Meat Alternatives- A Labeling Study (Faunalytics)\|Citations/What To Call Plant-Based Meat Alternatives- A Labeling Study (Faunalytics)]] (0.71)
+- [[Citations/Effects of Restrictive Animal Product Alternative Labeling Laws on Supply-chain Costs (Rethink Priorities)\|Citations/Effects of Restrictive Animal Product Alternative Labeling Laws on Supply-chain Costs (Rethink Priorities)]] (0.70)
+- [[Citations/Gleckel, 2020\|Citations/Gleckel, 2020]] (0.70)

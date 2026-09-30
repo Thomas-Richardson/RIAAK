@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/international-trade-in-animal-products-and-feed/","tags":["animal_feed - economics - usa - SE_asia"],"created":"2025-10-23T17:42:42.147+01:00","updated":"2025-10-23T19:18:51.152+01:00"}
+{"dg-publish":true,"permalink":"/international-trade-in-animal-products-and-feed/","tags":["Animal_Feed","Economics","USA","SE_Asia"],"created":"2025-10-23T17:42:42.147+01:00","updated":"2026-09-30T19:55:02.440+01:00","dg-note-properties":{"tags":["Animal_Feed","Economics","USA","SE_Asia"],"Note Type":"undefined","AI suggested tags":["MFA_Food_Sec","Lower_Middle_Income_Countries","Economics/Jobs"]}}
 ---
 
 - [[Bryant Confidential/MFA Food sec MOC\|MFA Food sec MOC]] 
@@ -93,3 +93,9 @@ Japan, Spain and Mexico are the largest cereal importers for feed
 [Chung and Liu (2022)](https://pubmed.ncbi.nlm.nih.gov/37117563/) find that international food trade (not just ASFs) can benefit biodiversity, because low income biodiversity hotspots are increasingly importing food from higher income countries and lower biodiversity, low income countries.
 
 [[Citations/Golub et al., 2012\|Golub et al., 2012]] argue that there is a risk that taxing carbon in rich countries will just mean that livestock gets outsourced to developing countries, except if we also invest in forest credits for developing countries
+
+# AI suggested related articles
+
+- [[Diseases in farm animals cause economic shocks\|Diseases in farm animals cause economic shocks]] (0.76)
+- [[Do the global poor need nutrients from animal products\|Do the global poor need nutrients from animal products]] (0.74)
+- [[Industrial animal agriculture is detrimental to the food security of surrounding rural communities\|Industrial animal agriculture is detrimental to the food security of surrounding rural communities]] (0.74)

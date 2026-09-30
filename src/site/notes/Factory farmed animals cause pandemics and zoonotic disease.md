@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/factory-farmed-animals-cause-pandemics-and-zoonotic-disease/","tags":[null,null,null],"created":"2025-11-11T23:29:30.141+00:00","updated":"2026-01-06T10:07:45.607+00:00"}
+{"dg-publish":true,"permalink":"/factory-farmed-animals-cause-pandemics-and-zoonotic-disease/","tags":["Factory_Farming","Health/Disease","Pigs"],"created":"2025-11-11T23:29:30.141+00:00","updated":"2026-09-30T19:55:02.349+01:00","dg-note-properties":{"tags":["Factory_Farming","Health/Disease","Pigs"],"Note Type":"undefined","AI suggested tags":["USA","Economics/Jobs","Food_Safety"]}}
 ---
 
 - See [[Citations/Mace and Knight, 2023\|Mace and Knight, 2023]] for a review in chickens and pigs
@@ -20,3 +20,10 @@ in 2021-2022 avian influenza caused 2,467 outbreaks in poultry in Europe, result
 - [[CAFOs injure and sicken their workers\|CAFOs injure and sicken their workers]]
 - [[food bourne disease in LMICs from ASFs\|food bourne disease in LMICs from ASFs]]
 - [[Market shocks due to livestock farming\|Market shocks due to livestock farming]]
+
+
+# AI suggested related articles
+
+- [[Citations/Mace and Knight, 2023\|Citations/Mace and Knight, 2023]] (0.81)
+- [[Animals and disease MOC\|Animals and disease MOC]] (0.79)
+- [[Citations/Rohr et al., 2019\|Citations/Rohr et al., 2019]] (0.77)

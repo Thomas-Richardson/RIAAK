@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/farming-jobs-lost-to-to-industrialisation/","tags":["Economics/jobs","farmers","factory_farming","Bryant/Project/cawf_hidden_harms"],"created":"2025-10-23T17:42:42.235+01:00","updated":"2025-11-06T16:12:38.811+00:00"}
+{"dg-publish":true,"permalink":"/farming-jobs-lost-to-to-industrialisation/","tags":["Economics/Jobs","Farmers","Factory_Farming","Bryant_Research/Project/CAWF_Hidden_Harms"],"created":"2025-10-23T17:42:42.235+01:00","updated":"2026-09-30T23:02:30.229+01:00","dg-note-properties":{"Note Type":"Own Work","tags":["Economics/Jobs","Farmers","Factory_Farming","Bryant_Research/Project/CAWF_Hidden_Harms"],"AI suggested tags":["UK","Farming","Bryant_Research/Project/CAWF_Hidden_Harms"]}}
 ---
 
 - [[CAWF 2 farming MOC.canvas\|CAWF 2 farming MOC]]
@@ -54,3 +54,9 @@ from [here](https://defra-farming-stats.github.io/auk-dashboard/#workforce)
 
 - If we can get longitudinal data on production by value and production my volume we can estimate prices.
 	- https://defra-farming-stats.github.io/auk-dashboard/#production-by-value
+
+# AI suggested related articles
+
+- [[Estimating the number of livestock workers in the UK\|Estimating the number of livestock workers in the UK]] (0.77)
+- [[The economic value of alternative proteins\|The economic value of alternative proteins]] (0.67)
+- [[CAFOS reduce employment and provide low quality jobs\|CAFOS reduce employment and provide low quality jobs]] (0.67)

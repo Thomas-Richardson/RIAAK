@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/good-food-institute-gfi-clean-meat-course/","tags":["animal_advocacy","Alternative_Proteins/Plant_Based"],"created":"2025-10-23T17:42:47.789+01:00","updated":"2025-11-04T12:15:48.449+00:00"}
+{"dg-publish":true,"permalink":"/good-food-institute-gfi-clean-meat-course/","tags":["Alternative_Proteins/Plant_Based"],"created":"2025-10-23T17:42:47.789+01:00","updated":"2026-09-30T22:17:46.529+01:00","dg-note-properties":{"tags":["Alternative_Proteins/Plant_Based"],"Note Type":"undefined","AI suggested tags":["Alternative_Proteins/Precision_Fermentation","Alternative_Proteins","Alternative_Proteins/Cultivated_Meat"]}}
 ---
 
 We've only explored 8% of the worlds plant proteins as potential meat sources, or 1% of the 150 crops used in agriculture. GFI have been looking at neglected crops . Candidates need to respond well to gelations, emulsification and stabilisation.
@@ -37,3 +37,10 @@ These notes appear semantically similar based on Smart Connections embeddings:
 - [[Misc Strengths and issues of the alt protein sector\|Misc Strengths and issues of the alt protein sector]] (similarity: 68.2%)
 - [[When It Comes to Meat Alternatives, These Are the Proteins Consumers Like Best\|When It Comes to Meat Alternatives, These Are the Proteins Consumers Like Best]] (similarity: 68.2%)
 - [[Cultivated meat MOC\|Cultivated meat MOC]] (similarity: 67.9%)
+
+
+# AI suggested related articles
+
+- [[Aquatic plants as Alt protein ingredients\|Aquatic plants as Alt protein ingredients]] (0.70)
+- [[GFI Europe, 2024\|GFI Europe, 2024]] (0.68)
+- [[Citations/Appetite for change - why the UK should lead the emerging alternative proteins market (Green Alliance)\|Citations/Appetite for change - why the UK should lead the emerging alternative proteins market (Green Alliance)]] (0.68)

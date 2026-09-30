@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/food-system-data-website-by-proveg/","tags":[null,null,null,null],"created":"2025-10-23T17:42:41.384+01:00","updated":"2025-10-30T23:44:52.924+00:00"}
+{"dg-publish":true,"permalink":"/food-system-data-website-by-proveg/","tags":["Data"],"created":"2025-10-23T17:42:41.384+01:00","updated":"2026-09-30T23:02:30.281+01:00","dg-note-properties":{"tags":["Data"],"AI suggested tags":["Bryant_Research/Project/CAWF_Food_Sec","UK","Food_Security"]}}
 ---
 
 

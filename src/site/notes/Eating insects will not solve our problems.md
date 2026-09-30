@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eating-insects-will-not-solve-our-problems/","tags":["insects","Environment"],"created":"2025-10-23T17:42:42.422+01:00","updated":"2026-01-17T18:02:43.202+00:00"}
+{"dg-publish":true,"permalink":"/eating-insects-will-not-solve-our-problems/","tags":["Insects","Environment"],"created":"2025-10-23T17:42:42.422+01:00","updated":"2026-09-30T19:55:02.333+01:00","dg-note-properties":{"tags":["Insects","Environment"],"AI suggested tags":["Animal_Feed","Food_Security","Environment/Land"]}}
 ---
 
 

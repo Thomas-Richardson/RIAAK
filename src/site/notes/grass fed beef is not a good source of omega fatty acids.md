@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/grass-fed-beef-is-not-a-good-source-of-omega-fatty-acids/","tags":[null,null,null,null,null,null,null],"created":"2025-10-23T17:42:47.933+01:00","updated":"2025-11-07T12:06:12.950+00:00"}
+{"dg-publish":true,"permalink":"/grass-fed-beef-is-not-a-good-source-of-omega-fatty-acids/","tags":["Health/Nutrition","Veganism","Nuts"],"created":"2025-10-23T17:42:47.933+01:00","updated":"2026-09-30T22:17:46.820+01:00","dg-note-properties":{"tags":["Health/Nutrition","Veganism","Nuts"],"AI suggested tags":["Meat/Beef","Cattle/Grass_Fed_Cattle"]}}
 ---
 
 
@@ -53,3 +53,10 @@ Additionally, while grass fed beef can contain around 50% more Omega 3 fatty aci
 | Egg, cooked | 1 egg | - | 0.03 | - |
 | Chicken, breast, roasted | 3 ounces | - | 0.02 | 0.01 |
 | Milk, low-fat (1%) | 1 cup | 0.01 | - | - |
+
+
+# AI suggested related articles
+
+- [[Grass fed cattle MOC\|Grass fed cattle MOC]] (0.57)
+- [[The "Grass fed beef is carbon neutral because its circular" myth\|The "Grass fed beef is carbon neutral because its circular" myth]] (0.57)
+- [[Citations/Maki et al., 2012\|Citations/Maki et al., 2012]] (0.56)

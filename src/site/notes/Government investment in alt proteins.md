@@ -1,9 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/government-investment-in-alt-proteins/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:41.266+01:00","updated":"2025-10-30T23:44:52.913+00:00"}
+{"dg-publish":true,"permalink":"/government-investment-in-alt-proteins/","tags":["Alternative_Proteins","USA"],"created":"2025-10-23T17:42:41.266+01:00","updated":"2026-09-30T19:55:02.402+01:00","dg-note-properties":{"tags":["Alternative_Proteins","USA"],"AI suggested tags":["Alternative_Proteins/Precision_Fermentation","Alternative_Proteins/Cultivated_Meat","Economics"]}}
 ---
-
-
-
 
 - [[Alt proteins are underfunded\|Alt proteins are underfunded]]
 - [[Investing in alternative proteins can improve national security and defence\|Investing in alternative proteins can improve national security and defence]]

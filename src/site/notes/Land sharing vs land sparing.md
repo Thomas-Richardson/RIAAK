@@ -1,0 +1,18 @@
+---
+{"dg-publish":true,"permalink":"/land-sharing-vs-land-sparing/","tags":["Environment/Land","Biodiversity","Farming","High_Income_Countries/UK"],"created":"2026-09-06T06:49:41.000+01:00","updated":"2026-09-30T23:03:17.650+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Environment/Land","Biodiversity","Farming","High_Income_Countries/UK"],"AI suggested tags":["Environment/Land","Farming","UK_Agriculture"]}}
+---
+
+The land sparing versus land sharing debate. I generally think I lean more towards land sharing. I'm quite convinced by the argument that a lot of our native biodiversity actually thrives even better in low intensity farming than it does in wild wilderness. Lots of farm animals and wild animals have actually properly adapted to low intensity British farming over time, not just to wilderness. There's that. The second thing is that the problem with sustainable intensification is the theory that we're going to have some ultra productive land and then some land that's not productive at all.
+
+And I'm very skeptical that would happen in reality because there will always be the temptation for people to convert. The people on the unproductive land will always be tempted to convert to high productivity farmland because there'll always be a commercial incentive for them, unless we can pay them enough to rewild to eliminate that commercial incentive. But even then we end up with this crappy system where some farmland is ultra intensified. It makes loads of money and produces loads of food. Those farmers get basically all the glory of being farmers, and then other tracts of land we pay the farmers to restore nature. But those farmers are always going to be tempted by the other one unless we pay them so much. And if we pay them that much, then we've distorted the market so heavily that I find it very hard to imagine we create a system that could allocate large subsidies to some land and zero subsidies to other land on the requirement that it becomes superintensified.
+
+I find it very hard to imagine that system working in practice. There's also always the temptation for Jevons' paradox. Because when we say the very intensive farming is used to produce all the food we need up to a limit, and then the rest is preserved for nature. But the problem with that is there's no limit to how much food we need. Humans have never followed that, and I don't think they ever will. Every acre of intensified agriculture that we add brings the price of food down. So there'll always be demand from consumers to add one more acre, bring another acre under intensified farming. The consumers don't see the benefits directly of the wildland, so they'll always be incentivized to push for more land to be intensified and less of it to be carved out for nature. So the government will always be in tension with their people.
+
+If the UK adopts land sharing (lower yields per acre), and the UK imports a meaningful share of its food, the environmental cost doesn't disappear — it gets exported to Brazil or Indonesia where land conversion pressure is far worse. The 'we spare nature here by sharing everywhere' logic only works if you're modeling a closed system. In an open trading economy, UK land sharing might net-negative for global biodiversity.
+
+
+# AI suggested related articles
+
+- [[Citations/Shaping UK land use (Green Alliance)\|Citations/Shaping UK land use (Green Alliance)]] (0.63)
+- [[Land use change, rewilding, grazing and rainforests\|Land use change, rewilding, grazing and rainforests]] (0.62)
+- [[More productive dairy cattle does not mean less land used\|More productive dairy cattle does not mean less land used]] (0.62)

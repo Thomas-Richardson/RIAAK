@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wild-animal-initiative-research-library/","tags":["external_resource","wild_animals"],"created":"2025-10-23T17:42:47.147+01:00","updated":"2025-10-30T23:40:02.463+00:00"}
+{"dg-publish":true,"permalink":"/wild-animal-initiative-research-library/","tags":["External_Resource","Wild_Animals"],"created":"2025-10-23T17:42:47.147+01:00","updated":"2026-09-30T19:55:03.613+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["External_Resource","Wild_Animals"],"created":null,"AI suggested tags":["Research/Methods","Animal_Welfare","Public_Opinion"]}}
 ---
 
 

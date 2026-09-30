@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wool/","tags":[null,null,null],"created":"2025-10-23T17:42:41.227+01:00","updated":"2025-11-04T12:10:11.554+00:00"}
+{"dg-publish":true,"permalink":"/wool/","tags":["Materials","Wild_Animals"],"created":"2025-10-23T17:42:41.227+01:00","updated":"2026-09-30T23:02:31.365+01:00","dg-note-properties":{"tags":["Materials","Wild_Animals"],"Note Type":"undefined","AI suggested tags":["Environment","Cows","Farming"]}}
 ---
 
 
@@ -30,3 +30,10 @@ Sheep are subjected to painful mutilations like tail docking and [mulesing](http
 
 
 
+
+
+# AI suggested related articles
+
+- [[Silk\|Silk]] (0.71)
+- [[Fur\|Fur]] (0.65)
+- [[Citations/FourPaws, 2024\|Citations/FourPaws, 2024]] (0.57)

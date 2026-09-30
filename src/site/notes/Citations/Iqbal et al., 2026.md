@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/citations/iqbal-et-al-2026/","tags":["Citation","Alternative_Proteins/Plant_Based","Pigs","Asia","Economics"],"created":"2026-08-21T07:46:21.000+01:00","updated":"2026-09-30T19:55:01.722+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.mdpi.com/2077-0472/16/16/1720","tags":["Citation","Alternative_Proteins/Plant_Based","Pigs","Asia","Economics"],"Year Published":"2026","AI suggested tags":["China","Alternative_Proteins","Alternative_Proteins/Precision_Fermentation"]}}
+---
+
+## Abstract
+
+China’s pork sector is a major component of the national food system. Establishing plant-based pork supply chains requires coordination across production, quality control, infrastructure, logistics, information exchange, and market formation. However, previous studies generally examine these barriers separately, limiting understanding of how they interact within the wider food-supply system. This study identifies and analyzes the systemic barriers to establishing plant-based pork supply chains in China. An integrated Fuzzy Delphi Method (FDM) and Decision-Making Trial and Evaluation Laboratory (DEMATEL) approach is applied. FDM is used to refine and validate 14 contextually relevant barriers based on expert consensus, while DEMATEL examines their direct and indirect relationships, systemic prominence, and net causal influence. Insufficient research and development funding and deficiencies in quality control emerge as the strongest net causal barriers. High infrastructure investment also belongs to the cause group, while technological, operational, and market-related barriers occupy different causal and dependent positions within the wider system. The results support a sequenced intervention strategy that begins with innovation capacity, quality assurance, and infrastructure, followed by operational coordination and market formation. This study contributes by moving beyond barrier identification and ranking to explain how multiple barrier domains interact and how interventions can be prioritized. The analysis concerns supply chain establishment and does not directly assess the environmental, economic, or social sustainability performance of plant-based pork.
+
+
+# AI suggested related articles
+
+- [[Citations/China_s Food Future (Systemiq)\|Citations/China_s Food Future (Systemiq)]] (0.64)
+- [[Citations/Beyond Burger Kings_ Beyond Burger - Discourse analysis of Starbucks & KFC plant-based meat launches in China\|Citations/Beyond Burger Kings_ Beyond Burger - Discourse analysis of Starbucks & KFC plant-based meat launches in China]] (0.63)
+- [[Citations/Barriers to the transformation of South Africa's food system (Animal Law Reform South Africa)\|Citations/Barriers to the transformation of South Africa's food system (Animal Law Reform South Africa)]] (0.59)

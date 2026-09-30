@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/report-regenerative-ranching-vs-rewilding-institute-for-future-food-systems/","created":"2025-11-19T22:19:08.628+00:00","updated":"2025-11-19T22:20:02.505+00:00"}
+{"dg-publish":true,"permalink":"/citations/report-regenerative-ranching-vs-rewilding-institute-for-future-food-systems/","tags":["Cattle/Grass_Fed_Cattle","Environment/Land","Greenwashing","Review"],"created":"2025-11-19T22:19:08.628+00:00","updated":"2026-09-30T19:55:01.952+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://iffs.earth/living-report-regenerative-agriculture-vs-rewilding/","tags":["Cattle/Grass_Fed_Cattle","Environment/Land","Greenwashing","Review"],"Year Published":"2025","AI suggested tags":["Meat/Beef","Environment/GHG","Cows"]}}
 ---
 
 ## **Key Findings**

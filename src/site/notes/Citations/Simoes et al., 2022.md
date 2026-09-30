@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/simoes-et-al-2022/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:44.258+01:00","updated":"2025-10-30T23:44:53.912+00:00"}
+{"dg-publish":true,"permalink":"/citations/simoes-et-al-2022/","tags":["Citation","Factory_Farming","Health/Disease"],"created":"2025-10-23T17:42:44.258+01:00","updated":"2026-09-30T19:55:02.045+01:00","dg-note-properties":{"tags":["Citation","Factory_Farming","Health/Disease"],"AI suggested tags":["Pigs","Environment/Pollution","USA"]}}
 ---
 
 
@@ -32,3 +32,9 @@ There were 2,203,650 (54.5%), 3,525,961 (87.3%), 3,884,771 (96.1%) and 3,993,150
 ## Related
 - [[Mixed evidence that nearby CAFOs make people sicker\|Mixed evidence that nearby CAFOs make people sicker]]
 - [[Citations/Douglas et al., 2018\|Douglas et al., 2018]]
+
+# AI suggested related articles
+
+- [[Citations/Douglas et al., 2018\|Citations/Douglas et al., 2018]] (0.72)
+- [[Citations/Son et al., 2026\|Citations/Son et al., 2026]] (0.65)
+- [[Citations/Domingo et al., 2021\|Citations/Domingo et al., 2021]] (0.64)

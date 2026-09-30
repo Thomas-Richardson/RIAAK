@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/schwingshackl-et-al-2017b/","tags":[null,null,null,null],"created":"2025-10-23T17:42:45.853+01:00","updated":"2025-10-31T14:43:31.381+00:00"}
+{"dg-publish":true,"permalink":"/citations/schwingshackl-et-al-2017b/","tags":["Citation","Eggs","Health/Nutrition","Meat"],"created":"2025-10-23T17:42:45.853+01:00","updated":"2026-09-30T19:55:02.022+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Citation","Eggs","Health/Nutrition","Meat"],"AI suggested tags":["Legumes","Nuts","Diet"]}}
 ---
 
 
@@ -40,3 +40,9 @@ The NutriGrade meta-evidence grading was rated “low” for legumes and nuts; �
 
 ## Eggs
 Thirteen studies with 17,629 T2D cases were included 
+
+# AI suggested related articles
+
+- [[Diet and diabetes\|Diet and diabetes]] (0.79)
+- [[Citations/Schwingshackl et al., 2017a\|Citations/Schwingshackl et al., 2017a]] (0.78)
+- [[Citations/Schwingshackl et al., 2017c\|Citations/Schwingshackl et al., 2017c]] (0.73)

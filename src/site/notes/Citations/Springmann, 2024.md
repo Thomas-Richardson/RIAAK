@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/springmann-2024/","tags":["Economics/costs","Health/Nutrition","Environment/GHG","Environment/Land"],"created":"2025-11-07T13:56:10.663+00:00","updated":"2025-11-07T14:24:32.088+00:00"}
+{"dg-publish":true,"permalink":"/citations/springmann-2024/","tags":["Economics/Costs","Health/Nutrition","Environment/GHG","Environment/Land"],"created":"2025-11-07T13:56:10.663+00:00","updated":"2026-09-30T19:55:02.071+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.pnas.org/doi/abs/10.1073/pnas.2319010121","tags":["Economics/Costs","Health/Nutrition","Environment/GHG","Environment/Land"],"Year Published":"2024","AI suggested tags":["Citation","Alternative_Proteins/Plant_Based","Economics"]}}
 ---
 
 ## Significance
@@ -14,3 +14,9 @@ Reducing meat and dairy intake has been identified as a necessary strategy for m
 while unprocessed plant-based foods (soybeans, beans, and peas) were 88% lower in costs than beef burgers and 72% lower in costs than poultry. Among the milk alternatives, soymilk was 69% more expensive per serving in high-income countries than milk, oat and almond milks were 91% more expensive, and rice milk 108% more.
 
 Replacing all calories from meat or dairy in high-income countries with alternatives decreased costs by up to 6-36% for unprocessed alternatives
+
+# AI suggested related articles
+
+- [[Citations/Espinosa et al., 2026\|Citations/Espinosa et al., 2026]] (0.73)
+- [[Citations/Reynolds et al., 2022\|Citations/Reynolds et al., 2022]] (0.73)
+- [[Citations/Gouela et al., 2025\|Citations/Gouela et al., 2025]] (0.73)

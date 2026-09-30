@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/seizing-the-economic-opportunity-of-alternative-proteins-in-europe-systemiq/","tags":["alternative_proteins"],"created":"2026-01-29T18:53:06.688+00:00","updated":"2026-01-30T05:14:35.867+00:00"}
+{"dg-publish":true,"permalink":"/citations/seizing-the-economic-opportunity-of-alternative-proteins-in-europe-systemiq/","tags":["Alternative_Proteins"],"created":"2026-01-29T18:53:06.688+00:00","updated":"2026-09-30T19:55:02.029+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.systemiq.earth/economic-opportunity-of-alternative-proteins-europe/","tags":["Alternative_Proteins"],"Year Published":"2026","AI suggested tags":["Alternative_Proteins/Precision_Fermentation","Economics","EU"]}}
 ---
 
 New Systemiq analysis, supported by the Good Food Institute Europe, finds that scaling plant-based foods, cultivated meat, and fermentation-made ingredients could deliver major economic gains for the EU, while improving food security and agricultural resilience.
@@ -19,6 +19,9 @@ Full report: https://www.systemiq.earth/wp-content/uploads/2026/01/Seizing-the-e
 
 technical appendix: https://www.systemiq.earth/wp-content/uploads/2026/01/GFI-Alternative-Proteins-Europe-Report-Technical-Appendix1.pdf
 
+
 # AI suggested related articles
 
-⚠️ AI suggested related articles could not be generated because this note has not been embedded yet.
+- [[The economic value of alternative proteins\|The economic value of alternative proteins]] (0.87)
+- [[BSG, 2022\|BSG, 2022]] (0.85)
+- [[Citations/Protein Production in the EU - Policies_ Gaps_ and Opportunities (European Vegetarian Union et al.)\|Citations/Protein Production in the EU - Policies_ Gaps_ and Opportunities (European Vegetarian Union et al.)]] (0.85)

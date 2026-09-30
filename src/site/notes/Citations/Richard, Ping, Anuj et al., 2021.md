@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/richard-ping-anuj-et-al-2021/","tags":["citation","Alternative_Proteins","asia","consumer_research","Bryant/Project/good_growth_social_listening","SE_asia"],"created":"2025-10-23T17:42:46.898+01:00","updated":"2025-12-10T12:56:24.870+00:00"}
+{"dg-publish":true,"permalink":"/citations/richard-ping-anuj-et-al-2021/","tags":["Citation","Alternative_Proteins","Asia","Consumer_Research","Bryant/Project/Good_Growth_Social_Listening","SE_Asia"],"created":"2025-10-23T17:42:46.898+01:00","updated":"2026-09-30T22:10:52.661+01:00","dg-note-properties":{"tags":["Citation","Alternative_Proteins","Asia","Consumer_Research","Bryant/Project/Good_Growth_Social_Listening","SE_Asia"],"Note Type":"undefined","AI suggested tags":["Lower_Middle_Income_Countries","Consumer_Attitudes","Bryant/Project/Good_Growth_Social_Listening"]}}
 ---
 
 - [x] reviewed
@@ -9,7 +9,7 @@ Richard S, Ping C, Anuj M, Lui J. The Asia Food Challenge - Understanding the Ne
 A survey of 3,600 consumers across 10 Asian countries, as well as Australia and New Zealand and analysed over 3000 publicly traded food and beverage companies globally to understand key financial trends and trading multiples.
 
 ## 6 key consumer trends
-![Pasted image 20240617003332.png|500](/img/user/Pasted%20image%2020240617003332.png)
+![Pasted image 20240617003332.png\|500](/img/user/Pasted%20image%2020240617003332.png)
 
 - SIngapore consumers are less willing to pay a premium for healthy food, bigger focus on price
 
@@ -21,14 +21,14 @@ companies with a broad emphasis on health, digital, and sustainable offerings ha
 - aging population with a greater demand for vitamins and supplements
 
 ## Freshness
-![Pasted image 20240617004253.png|300](/img/user/Pasted%20image%2020240617004253.png)
+![Pasted image 20240617004253.png\|300](/img/user/Pasted%20image%2020240617004253.png)
 
 Malaysia is the only place where consumers rated price at the same level as fresness (16%)
 
 ## Health
 Malaysia has one of the world’s highest per capita sugar consumption levels, and Thailand consumes four times the WHO's recommended amount of sugar intake
 
-![Pasted image 20240617005555.png|500](/img/user/Pasted%20image%2020240617005555.png)
+![Pasted image 20240617005555.png\|500](/img/user/Pasted%20image%2020240617005555.png)
 
 all Asian markets surveyed showed a clear shift towards healthier eating habits. Consumers define this as:
 1. Cooking more frequently at home and ordering fewer take-aways – which are often perceived to be higher in grease, fat, salt, and sugar content than home-cooked meals
@@ -58,15 +58,15 @@ The British Council reported that 70% of Vietnam's 16 to 30-year-olds rank food 
 - 71% of Indonesians are likely to trace their food sources due to safety. This number in Thailand is 67%, in Vietnam 56%, in the Philippines 53%, in Singapore 45% and in Malaysia 43%.
 
 
-![Pasted image 20240617010926.png|500](/img/user/Pasted%20image%2020240617010926.png)
+![Pasted image 20240617010926.png\|500](/img/user/Pasted%20image%2020240617010926.png)
 ## sustainability
-![Pasted image 20240618001012.png|500](/img/user/Pasted%20image%2020240618001012.png)
+![Pasted image 20240618001012.png\|500](/img/user/Pasted%20image%2020240618001012.png)
 % that said likely or very likely
 
 ## PB
 43 percent of Indonesian consumers willing to adopt a vegan or vegetarian diet in the next 12 months
 
-![Pasted image 20240618001853.png|500](/img/user/Pasted%20image%2020240618001853.png)
+![Pasted image 20240618001853.png\|500](/img/user/Pasted%20image%2020240618001853.png)
 
 
 

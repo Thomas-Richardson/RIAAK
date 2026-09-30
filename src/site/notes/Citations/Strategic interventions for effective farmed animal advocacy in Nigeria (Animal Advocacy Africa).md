@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/strategic-interventions-for-effective-farmed-animal-advocacy-in-nigeria-animal-advocacy-africa/","created":"2026-02-09T12:41:05.266+00:00","updated":"2026-02-09T12:41:05.268+00:00"}
+{"dg-publish":true,"permalink":"/citations/strategic-interventions-for-effective-farmed-animal-advocacy-in-nigeria-animal-advocacy-africa/","tags":["Africa","Movement_Strategy","Policy","Messaging"],"created":"2026-02-09T12:41:05.266+00:00","updated":"2026-09-30T19:55:02.085+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Africa","Movement_Strategy","Policy","Messaging"],"source_url":"https://static1.squarespace.com/static/5fc0f83868612547ed5e8292/t/67ae23deaafb712b59169588/1739465723005/Nigeria+report+2025.pdf","created":"2026-02-09","AI suggested tags":["Strategy","Animal_Welfare","EU"]}}
 ---
 
 

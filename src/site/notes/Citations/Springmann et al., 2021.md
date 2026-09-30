@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/springmann-et-al-2021/","tags":["Economics/costs"],"created":"2025-10-23T17:42:45.244+01:00","updated":"2025-11-07T12:24:55.477+00:00"}
+{"dg-publish":true,"permalink":"/citations/springmann-et-al-2021/","tags":["Economics/Costs"],"created":"2025-10-23T17:42:45.244+01:00","updated":"2026-09-30T19:55:02.068+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Economics/Costs"],"Url":"https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(21)00251-5/fulltext","Reference":"Springmann, M., Clark, M. A., Rayner, M., Scarborough, P., & Webb, P. (2021). The global and regional costs of healthy and sustainable dietary patterns: a modelling study. _The Lancet Planetary Health_, _5_(11), e797-e807.","AI suggested tags":["Health/Nutrition","Citation","Environment/GHG"]}}
 ---
 
 - [[Are PB diets cheaper than omni diets\|Are PB diets cheaper than omni diets]] 
@@ -31,3 +31,10 @@ In this modelling study, we used regionally comparable food prices from the Inte
 ### Interpretation
 In high-income and upper-middle-income countries, dietary change interventions that incentivise adoption of healthy and sustainable diets can help consumers in those countries reduce costs while, at the same time, contribute to fulfilling national climate change commitments and reduce public health spending. In low-income and lower-middle-income countries, healthy and sustainable diets are substantially less costly than western diets and can also be cost-competitive in the medium-to-long term, subject to beneficial socioeconomic development and reductions in food waste. A fuller accounting of the costs of diets would make healthy and sustainable diets the least costly option in most countries in the future.
 
+
+
+# AI suggested related articles
+
+- [[Citations/Conrad, Drewnowski, & Love, (2023)\|Citations/Conrad, Drewnowski, & Love, (2023)]] (0.76)
+- [[Citations/Goldman et al., 2026\|Citations/Goldman et al., 2026]] (0.75)
+- [[Citations/Goldman et al., 2026 1\|Citations/Goldman et al., 2026 1]] (0.74)

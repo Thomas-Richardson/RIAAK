@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/should-farmed-animal-donation-appeals-de-emphasize-diet-change-insights-from-pulse-rethink-priorities/","created":"2026-01-24T15:03:25.149+00:00","updated":"2026-01-24T20:13:40.438+00:00"}
+{"dg-publish":true,"permalink":"/citations/should-farmed-animal-donation-appeals-de-emphasize-diet-change-insights-from-pulse-rethink-priorities/","tags":["Messaging","Diet_Change","High_Income_Countries/USA","Public_Opinion"],"created":"2026-01-24T15:03:25.149+00:00","updated":"2026-09-30T19:55:02.041+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://forum.effectivealtruism.org/posts/ydKwu3rLzwaMrC7qc/should-farmed-animal-donation-appeals-de-emphasize-diet","tags":["Messaging","Diet_Change","High_Income_Countries/USA","Public_Opinion"],"Year Published":"2026","AI suggested tags":["Behaviour_Change","Meat/Meat_Reduction","Consumer_Research"]}}
 ---
 
 **Executive summary:** Using Wave 2 of Rethink Priorities’ Pulse survey (≈5,600 US adults, Feb–Apr 2025), the report finds that a simple donation appeal was slightly more compelling than a “diet distancing” appeal, both messages modestly increased perceived impactfulness of donating without reducing perceived impact or interest in diet change, and neither message reliably increased a downstream “request more info” behavior.

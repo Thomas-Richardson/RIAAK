@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/ritchie-2021/","tags":["animal_feed","citation","Environment/Land","farming","lower_middle_income_countries"],"created":"2025-10-23T17:42:45.264+01:00","updated":"2025-11-04T12:10:04.149+00:00"}
+{"dg-publish":true,"permalink":"/citations/ritchie-2021/","tags":["Animal_Feed","Citation","Environment/Land","Farming","Lower_Middle_Income_Countries"],"created":"2025-10-23T17:42:45.264+01:00","updated":"2026-09-30T19:55:01.983+01:00","dg-note-properties":{"tags":["Animal_Feed","Citation","Environment/Land","Farming","Lower_Middle_Income_Countries"],"Note Type":"undefined","AI suggested tags":["Cows","Food_Security","Meat"]}}
 ---
 
 
@@ -19,7 +19,7 @@ Hannah Ritchie (2021) - “Is our appetite for soy driving deforestation in the 
 
 Has a great interactive graph and data on growth of soy production:
 
-![Pasted image 20240313223933.png|800](/img/user/Citations/Pasted%20image%2020240313223933.png)
+![Pasted image 20240313223933.png\|800](/img/user/Citations/Pasted%20image%2020240313223933.png)
 
 The US and Brazil each account for a 3rd of world soy production, argentina a distant third at 11%.
 

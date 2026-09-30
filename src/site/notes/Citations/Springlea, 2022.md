@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/springlea-2022/","tags":["animal_feed","citation","economics","policy"],"created":"2025-10-23T17:42:45.439+01:00","updated":"2025-10-31T14:42:34.585+00:00"}
+{"dg-publish":true,"permalink":"/citations/springlea-2022/","tags":["Animal_Feed","Citation","Economics","Policy"],"created":"2025-10-23T17:42:45.439+01:00","updated":"2026-09-30T19:55:02.062+01:00","dg-note-properties":{"tags":["Animal_Feed","Citation","Economics","Policy"],"Note Type":"undefined","AI suggested tags":["Strategy","EU","Animal_Welfare"]}}
 ---
 
 
@@ -26,4 +26,4 @@ We also recommend that a detailed economic study be conducted on the effects of 
 
 Lastly, we conclude with some strategic considerations that may help organisations campaign for subsidy reform.
 
-![Pasted image 20240421151522.png|600](/img/user/Pasted%20image%2020240421151522.png)
+![Pasted image 20240421151522.png\|600](/img/user/Pasted%20image%2020240421151522.png)

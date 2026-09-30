@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/still-butchering-the-planet-feedback/","created":"2026-02-20T10:45:56.453+00:00","updated":"2026-02-20T10:45:57.823+00:00"}
+{"dg-publish":true,"permalink":"/citations/still-butchering-the-planet-feedback/","tags":["Financial_Activism","Meat_Industry","Environment/Climate_Change","Factory_Farming"],"created":"2026-02-20T10:45:56.453+00:00","updated":"2026-09-30T19:55:02.081+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Financial_Activism","Meat_Industry","Environment/Climate_Change","Factory_Farming"],"source_url":"https://foodrise.org.uk/wp-content/uploads/2024/03/Feedback-2024-Still-Butchering-the-Planet-Report.pdf","created":"2026-02-20","AI suggested tags":["Sinergia_Defunding_Project","Animal_Feed","Environment/GHG"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/schwingshackl-et-al-2016/","tags":["Health/Nutrition","dairy","review"],"created":"2025-11-06T09:41:38.628+00:00","updated":"2025-11-06T09:41:38.628+00:00"}
+{"dg-publish":true,"permalink":"/citations/schwingshackl-et-al-2016/","tags":["Health/Nutrition","Dairy","Review"],"created":"2025-11-06T09:41:38.628+00:00","updated":"2026-09-30T19:55:02.019+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0157461","tags":["Health/Nutrition","Dairy","Review"],"Year Published":"2016","AI suggested tags":["Nuts","Legumes","Meat"]}}
 ---
 
 ### Background
@@ -13,3 +13,9 @@ For the meta-analysis PubMed, EMBASE, Web of Sciences, and google scholar were s
 
 ### Conclusion
 In summary the results of the meta-analysis still reflect that dairy consumption was not positively related to changes in body weight. Yogurt was the only dairy food that showed some evidence for a beneficial effect, where higher intakes were inversely associated a reduced risk of obesity, changes in body weight or waist circumference. Further research is needed, since the overall interpretation of the results is limited by heterogeneous risk estimates.
+
+# AI suggested related articles
+
+- [[Citations/Schwingshackl et al., 2017a\|Citations/Schwingshackl et al., 2017a]] (0.67)
+- [[health effects of dairy\|health effects of dairy]] (0.64)
+- [[Citations/Schlesinger et al., 2019\|Citations/Schlesinger et al., 2019]] (0.64)

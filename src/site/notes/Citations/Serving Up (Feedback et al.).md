@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/serving-up-feedback-et-al/","created":"2026-01-16T12:23:08.524+00:00","updated":"2026-01-16T12:23:08.526+00:00"}
+{"dg-publish":true,"permalink":"/citations/serving-up-feedback-et-al/","tags":["High_Income_Countries/UK","Policy/Food_Policy","Institutional_Change","Meat/Meat_Reduction"],"created":"2026-01-16T12:23:08.524+00:00","updated":"2026-09-30T19:55:02.032+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["High_Income_Countries/UK","Policy/Food_Policy","Institutional_Change","Meat/Meat_Reduction"],"source_url":"https://www.sustainweb.org/assets/feedback-2024-serving-up-public-procurement-briefing-1745934091.pdf","created":"2026-01-16","AI suggested tags":["Health","Economics/Costs","Food_Security"]}}
 ---
 
 

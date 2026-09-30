@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/scarborough-et-al-2010/","tags":[null,null,null],"created":"2025-10-23T17:42:46.597+01:00","updated":"2025-10-31T14:43:31.400+00:00"}
+{"dg-publish":true,"permalink":"/citations/scarborough-et-al-2010/","tags":["Citation","Health/Nutrition","Meat"],"created":"2025-10-23T17:42:46.597+01:00","updated":"2026-09-30T19:55:02.005+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Citation","Health/Nutrition","Meat"],"AI suggested tags":["Economics/Costs","Health","Meat/Red_Meat"]}}
 ---
 
 
@@ -36,3 +36,9 @@ It also assumes that dietary changes are achieved by all individuals within a po
 the DIETRON model does not estimate the impact of changes in the diet on
 diseases of nutritional inadequacy (e.g. anaemia from low iron intakes) that may be a result of a
 change in the consumption of meat and dairy products.
+
+# AI suggested related articles
+
+- [[Citations/Scarborough et al., 2012\|Citations/Scarborough et al., 2012]] (0.87)
+- [[Citations/aston et al., 2022\|Citations/aston et al., 2022]] (0.76)
+- [[Citations/Henderson and Sampson 2023\|Citations/Henderson and Sampson 2023]] (0.74)

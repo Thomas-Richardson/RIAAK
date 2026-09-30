@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/shallow-overview-of-institutional-plant-based-meal-campaigns-in-the-us-and-western-europe-rethink-priorities/","tags":["institutional_change EU USA"],"created":"2025-10-23T17:42:44.272+01:00","updated":"2025-10-23T18:12:10.171+01:00"}
+{"dg-publish":true,"permalink":"/citations/shallow-overview-of-institutional-plant-based-meal-campaigns-in-the-us-and-western-europe-rethink-priorities/","tags":["Institutional_Change","EU","USA"],"created":"2025-10-23T17:42:44.272+01:00","updated":"2026-09-30T19:55:02.033+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/plant-based-meal-campaigns-in-the-us-western-europe/","tags":["Institutional_Change","EU","USA"],"Year Published":"2024","AI suggested tags":["Meat/Meat_Reduction","Case_Study","Behaviour_Change"]}}
 ---
 
 ### Executive summary
@@ -10,3 +10,9 @@
 * It appears that classroom offerings of meatless meals in Italy, Spain, and the UK are far less widespread, leaving potential room for impact from further work there. However, because we spent less time researching these countries, further research is recommended to confirm the scale of this potential opportunity, such as supporting a group to replicate these studies ([Essere Animali 2024](https://perma.cc/3Y2K-N8HP), [Ottonova 2022](https://perma.cc/L8YQ-W7XX)).
 * The cost-effectiveness of campaigns to win such changes seems to depend on the ambition of the change requested, the relatively high campaign costs even for small wins, and the uncertainty around costs needed to ensure this change is maintained over time. Cost-effectiveness can quickly hit diminishing returns where existing coverage is high and the extent of large-scale opportunities remaining is limited.
 * High-impact opportunities may be in securing stronger changes from large institutions or catering companies that serve many institutions (e.g., plant-based defaults or high % animal product purchase reductions), expanding the size of commitments secured by relatively low-cost student-led university campaigns, or securing even more modest changes such as plant-based options every day in Italy, Spain, and the UK where existing coverage appears to be low.
+
+# AI suggested related articles
+
+- [[Citations/How meat-free meal selection varies with menu options - an exploration (Rethink Priorities)\|Citations/How meat-free meal selection varies with menu options - an exploration (Rethink Priorities)]] (0.71)
+- [[Citations/Exploring Elements of Food Policy Interventions (Mercy For Animals)\|Citations/Exploring Elements of Food Policy Interventions (Mercy For Animals)]] (0.71)
+- [[Citations/Advocating for 60-40 plant-animal Protein Sales Ratios by 2040 (Ambitious Impact)\|Citations/Advocating for 60-40 plant-animal Protein Sales Ratios by 2040 (Ambitious Impact)]] (0.70)

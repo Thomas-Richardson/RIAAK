@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/scarborough-et-al-2012/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:44.421+01:00","updated":"2025-10-31T14:43:31.338+00:00"}
+{"dg-publish":true,"permalink":"/citations/scarborough-et-al-2012/","tags":["Chickens","Citation","Environment_Misc","Health/Nutrition","Meat"],"created":"2025-10-23T17:42:44.421+01:00","updated":"2026-09-30T19:55:02.007+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Chickens","Citation","Environment_Misc","Health/Nutrition","Meat"],"AI suggested tags":["Environment/GHG","Meat/Red_Meat","Meat/Meat_Consumption"]}}
 ---
 
 
@@ -36,3 +36,9 @@ settings is needed to confirm these results.
 
 ## Implications
 - Notice how swapping out 50% of pork and chicken for plants resulted in far more deaths prevented than swapping 75% of breed for pork and chicken
+
+# AI suggested related articles
+
+- [[Citations/Scarborough et al., 2010\|Citations/Scarborough et al., 2010]] (0.87)
+- [[Citations/Scarborough et al., 2014\|Citations/Scarborough et al., 2014]] (0.78)
+- [[Citations/aston et al., 2022\|Citations/aston et al., 2022]] (0.77)

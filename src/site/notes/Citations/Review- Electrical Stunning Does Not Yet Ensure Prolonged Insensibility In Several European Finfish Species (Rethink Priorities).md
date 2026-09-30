@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/review-electrical-stunning-does-not-yet-ensure-prolonged-insensibility-in-several-european-finfish-species-rethink-priorities/","tags":["fish"],"created":"2026-03-09T15:42:00.929+00:00","updated":"2026-03-09T15:42:02.108+00:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/review-electrical-stunning-european-finfish/?utm_source=substack&utm_medium=email","tags":["fish"],"Year Published":"2026"}}
+{"dg-publish":true,"permalink":"/citations/review-electrical-stunning-does-not-yet-ensure-prolonged-insensibility-in-several-european-finfish-species-rethink-priorities/","tags":["Fish"],"created":"2026-03-09T15:42:00.929+00:00","updated":"2026-09-30T19:55:01.975+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/review-electrical-stunning-european-finfish/?utm_source=substack&utm_medium=email","tags":["Fish"],"Year Published":"2026","AI suggested tags":["Fish/Farmed","EU","Attitudes"]}}
 ---
 
 ### Short Summary

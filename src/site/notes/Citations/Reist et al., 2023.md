@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/reist-et-al-2023/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:44.282+01:00","updated":"2025-10-30T23:44:53.912+00:00"}
+{"dg-publish":true,"permalink":"/citations/reist-et-al-2023/","tags":["Citation","Psychology","Veganism"],"created":"2025-10-23T17:42:44.282+01:00","updated":"2026-09-30T19:55:01.948+01:00","dg-note-properties":{"tags":["Citation","Psychology","Veganism"],"AI suggested tags":["Veg_Diets","Review","Behaviour_Change"]}}
 ---
 
 
@@ -12,3 +12,9 @@ Reist, M. E., Bleidorn, W., Milfont, T. L., & Hopwood, C. J. (2023). Meta-analys
 ## Abstract
 
 Vegetarian and vegan diets have been increasing in the Western world. Recent research has focused on [personality trait](https://www.sciencedirect.com/topics/psychology/personality-trait "Learn more about personality trait from ScienceDirect's AI-generated Topic Pages") differences between dietary groups, in part because personality traits are broad characteristics that can integrate findings about different factors that motivate vegetarian or vegan diets. Previous research on personality predictors of vegetarian and vegan (veg\*n) diet, however, has yielded inconsistent results. The goal of this study was to integrate the existing results of Big Five personality differences between veg\*ns and omnivores as well as between vegetarians and vegans. To this end, <mark style="background: #FFF3A3A6;">we meta-analyzed data from 15 studies and _N_ = 69,576 individuals</mark> from several countries. Results indicated that <mark style="background: #FFF3A3A6;">veg*ns were significantly higher in Openness (_d_ = 0.40) and Agreeableness (_d_ = 0.17) than omnivores, while vegans were significantly higher in Openness (_d_ = 0.14) than vegetarians.</mark> This work isolates Openness and Agreeableness as important trait predictors of plant-based diets and sets the stage for future work on the factors that motivate vegetarian or vegan diet. Personality traits can provide an integrative framework for conceptualizing dietary preferences, be used to make predictions about the sources, course and correlates of dietary choices, and potentially be useful for advocates and policymakers seeking to tailor meat-reduction interventions.
+
+# AI suggested related articles
+
+- [[The psychological characteristics of veggie-vegans\|The psychological characteristics of veggie-vegans]] (0.78)
+- [[MacInnis & Hodson, (2017)\|MacInnis & Hodson, (2017)]] (0.65)
+- [[Citations/Going Vegan Or Vegetarian- Motivations & Influences (Faunalytics)\|Citations/Going Vegan Or Vegetarian- Motivations & Influences (Faunalytics)]] (0.65)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/reynolds-et-al-2022/","tags":["Economics/costs"],"created":"2025-10-23T17:42:44.387+01:00","updated":"2025-11-12T13:53:45.124+00:00"}
+{"dg-publish":true,"permalink":"/citations/reynolds-et-al-2022/","tags":["Economics/Costs"],"created":"2025-10-23T17:42:44.387+01:00","updated":"2026-09-30T19:55:01.976+01:00","dg-note-properties":{"tags":["Economics/Costs"],"Url":"https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(22)00503-X/fulltext","AI suggested tags":["Meat/Red_Meat","Health/Nutrition","Meat"]}}
 ---
 
 Reynolds, A. N., Mhurchu, C. N., Kok, Z. Y., & Cleghorn, C. (2023). The neglected potential of red and processed meat replacement with alternative protein sources: Simulation modelling and systematic review. _Eclinicalmedicine_, _56_.
@@ -21,3 +21,9 @@ We modelled five red and processed meat replacement scenarios to consider health
 
 ### Interpretation
 <mark style="background: #FFF3A3A6;">All meat replacement scenarios considered indicated appreciable health gains and GHGe reductions.</mark> Replacement with minimally-processed plant-based foods appeared consistently superior than other scenarios. Evidence of real-world population strategies to achieve these benefits however is currently lacking.
+
+# AI suggested related articles
+
+- [[Citations/Reynolds et al., 2023\|Citations/Reynolds et al., 2023]] (0.90)
+- [[Citations/aston et al., 2022\|Citations/aston et al., 2022]] (0.75)
+- [[Citations/Fernández-Rodríguez et al., 2025\|Citations/Fernández-Rodríguez et al., 2025]] (0.74)

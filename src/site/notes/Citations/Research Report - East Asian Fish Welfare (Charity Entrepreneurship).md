@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/research-report-east-asian-fish-welfare-charity-entrepreneurship/","created":"2025-10-23T17:42:44.935+01:00","updated":"2025-10-23T17:42:44.935+01:00"}
+{"dg-publish":true,"permalink":"/citations/research-report-east-asian-fish-welfare-charity-entrepreneurship/","tags":["Fish/Farmed","Asia","Movement_Strategy","Farmers"],"created":"2025-10-23T17:42:44.935+01:00","updated":"2026-09-30T19:55:01.956+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Fish/Farmed","Asia","Movement_Strategy","Farmers"],"source_url":"https://www.aimresearchprogram.com/_files/ugd/370b81_475a8fef289446579735cfa0559d1b7a.pdf","created":"2025-10-23","AI suggested tags":["Fish","Strategy","Shrimp"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/silk-production-global-scale-and-animal-welfare-issues-rethink-priorities/","tags":["wild_animals - materials - animal_welfare - insects"],"created":"2025-10-23T17:42:46.808+01:00","updated":"2025-10-23T19:20:34.064+01:00"}
+{"dg-publish":true,"permalink":"/citations/silk-production-global-scale-and-animal-welfare-issues-rethink-priorities/","tags":["Wild_Animals","Materials","Animal_Welfare","Insects"],"created":"2025-10-23T17:42:46.808+01:00","updated":"2026-09-30T19:55:02.043+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/silk-production/","tags":["Wild_Animals","Materials","Animal_Welfare","Insects"],"Year Published":"2021","AI suggested tags":["Shrimp","Crustaceans","Rodents"]}}
 ---
 
 At least 420 billion to 1 trillion silkworms are killed annually to produce silk.
@@ -8,3 +8,9 @@ While only 61 billion to 170 billion of these worms die due to diseases and pest
 Campaigns to ban silk or stop its sale at retail locations are plausibly the most promising avenue for animal advocates to reduce silk production, therefore reducing the days of potentially negative experiences caused by diseases on silk farms. Developing and promoting alternative silks may also be promising as an intervention.
 I think that while there are promising interventions to reduce the suffering of silkworms, marginal resources in the insect space might be better spent in other areas, such as reducing the [painfulness of pesticides](https://www.wildanimalinitiative.org/blog/humane-insecticides), [reducing the number of insects farmed for animal feed](https://forum.effectivealtruism.org/posts/ruFmR5oBgqLgTcp2b/insects-raised-for-food-and-feed-global-scale-practices-and), and [reducing the harms of cochineal farming](https://forum.effectivealtruism.org/posts/tDYtn4DhFsR7pR35i/global-cochineal-production-scale-welfare-concerns-and).
 * That being said, given the scale of silk farming, advocacy on this issue could plausibly be highly cost-effective when compared on a species-neutral basis to interventions to reduce vertebrate farmed animal suffering.
+
+# AI suggested related articles
+
+- [[Citations/Invasive Spongy Moth Outbreaks - A Neglected Wild Animal Welfare Issue (Rethink Priorities)\|Citations/Invasive Spongy Moth Outbreaks - A Neglected Wild Animal Welfare Issue (Rethink Priorities)]] (0.69)
+- [[Citations/Insects raised for food and feed - global scale, practices, and policy (Rethink Priorities)\|Citations/Insects raised for food and feed - global scale, practices, and policy (Rethink Priorities)]] (0.67)
+- [[Citations/Snails used for human consumption - the case of meat and slime (Rethink Priorities)\|Citations/Snails used for human consumption - the case of meat and slime (Rethink Priorities)]] (0.67)

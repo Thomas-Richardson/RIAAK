@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/rosenfeld-and-tomiyama-2019/","tags":[null,null,null],"created":"2025-10-23T17:42:46.124+01:00","updated":"2025-10-31T14:43:31.387+00:00"}
+{"dg-publish":true,"permalink":"/citations/rosenfeld-and-tomiyama-2019/","tags":["Citation","Psychology","Veganism"],"created":"2025-10-23T17:42:46.124+01:00","updated":"2026-09-30T19:55:01.993+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Citation","Psychology","Veganism"],"AI suggested tags":["Veg_Diets","Behaviour_Change","Consumer_Research"]}}
 ---
 
 
@@ -32,3 +32,9 @@ Rosenfeld, D. L., & Tomiyama, A. J. (2019). When vegetarians eat meat: Why veget
 	- 4% rationalised their decision by saying they would not eat meat in the future, 4 hid behind the normality, naturalness or necessity of eating meat, 3 fell back on health issues. 2 highlighted how they only ate tiny amounts. 
 - Worringly, 13 participants reported occasionally or regularly eating meat. Overall
 - A few issues with this study: the 16 who did not provide data may be illuminating: they may have forgotten or be too embarrassed to say. Also, participants may have only reported the ones that made them feel bad because we readily recall emotional events.
+
+# AI suggested related articles
+
+- [[Citations/Who Are The Vegetarians - Part 2 (Faunalytics)\|Citations/Who Are The Vegetarians - Part 2 (Faunalytics)]] (0.69)
+- [[Citations/Hodson and Earle, (2018)\|Citations/Hodson and Earle, (2018)]] (0.67)
+- [[MacInnis & Hodson, (2017)\|MacInnis & Hodson, (2017)]] (0.65)

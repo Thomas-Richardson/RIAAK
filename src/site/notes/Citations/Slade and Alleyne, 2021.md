@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/slade-and-alleyne-2021/","tags":[null,null,null,null,null,null,"Economics/jobs"],"created":"2025-10-23T17:42:46.978+01:00","updated":"2025-11-06T18:35:18.117+00:00"}
+{"dg-publish":true,"permalink":"/citations/slade-and-alleyne-2021/","tags":["Citation","Factory_Farming","Psychology","Economics/Jobs"],"created":"2025-10-23T17:42:46.978+01:00","updated":"2026-09-30T19:55:02.054+01:00","dg-note-properties":{"tags":["Citation","Factory_Farming","Psychology","Economics/Jobs"],"AI suggested tags":["Pigs","Review","Health/Disease"]}}
 ---
 
 
@@ -15,3 +15,9 @@ https://journals.sagepub.com/doi/full/10.1177/15248380211030243
 - The findings from this review were demarcated by the focus of studies: (1) the prevalence of mental health disorders, (2) the types of coping mechanisms used, and (3) the link between slaughterhouse employment and crime perpetration. 
 - <mark style="background: #FFF3A3A6;">It was found that SHWs have a higher prevalence rate of mental health issues, in particular depression and anxiety</mark>, in addition to violence-supportive attitudes. Furthermore, the workers employ a variety of both adaptive and maladaptive strategies to cope with the workplace environment and associated stressors. 
 - Finally, there is some evidence that slaughterhouse work is associated with increased crime levels. The research reviewed has shown a link between slaughterhouse work and antisocial behavior generally and sexual offending specifically. There was no support for such an association with violent crimes, however. Based on existing research, we suggest future directions for research (i.e., applying more methodological rigor) but highlight key findings for practitioners and policymakers that warrant attention.
+
+# AI suggested related articles
+
+- [[CAFOs injure and sicken their workers\|CAFOs injure and sicken their workers]] (0.66)
+- [[Podcasts/The Vegan Report/A Job from Hell The Trauma of Slaughterhouse Workers. With Varun Joshi Ep. 15\|Podcasts/The Vegan Report/A Job from Hell The Trauma of Slaughterhouse Workers. With Varun Joshi Ep. 15]] (0.61)
+- [[Mental health in agriculture\|Mental health in agriculture]] (0.59)

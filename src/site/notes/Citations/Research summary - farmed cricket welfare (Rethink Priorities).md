@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/research-summary-farmed-cricket-welfare-rethink-priorities/","tags":["insects"],"created":"2025-10-23T17:42:47.039+01:00","updated":"2025-10-23T18:12:10.269+01:00"}
+{"dg-publish":true,"permalink":"/citations/research-summary-farmed-cricket-welfare-rethink-priorities/","tags":["Insects"],"created":"2025-10-23T17:42:47.039+01:00","updated":"2026-09-30T19:55:01.963+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/farmed-cricket-welfare/","tags":["Insects"],"Year Published":"2024","AI suggested tags":["Crustaceans","Shrimp","Fish"]}}
 ---
 
 - As of 2020, around 370 to 420 billion crickets and grasshoppers were farmed annually for food and feed, though today the number may be much higher.

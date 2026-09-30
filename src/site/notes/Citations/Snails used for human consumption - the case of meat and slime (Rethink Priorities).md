@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/snails-used-for-human-consumption-the-case-of-meat-and-slime-rethink-priorities/","created":"2025-10-23T17:42:46.080+01:00","updated":"2025-10-23T18:12:10.234+01:00"}
+{"dg-publish":true,"permalink":"/citations/snails-used-for-human-consumption-the-case-of-meat-and-slime-rethink-priorities/","tags":["Animal_Welfare","Factory_Farming","Movement_Strategy","Meat"],"created":"2025-10-23T17:42:46.080+01:00","updated":"2026-09-30T19:55:02.058+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/snails-used-for-human-consumption/","tags":["Animal_Welfare","Factory_Farming","Movement_Strategy","Meat"],"Year Published":"2020","AI suggested tags":["Insects","Shrimp","Crustaceans"]}}
 ---
 
 The number of snails produced for human consumption increases gradually every year. Still, there is very little awareness about the details of snail production or how serious an ethical problem it might be. In this report (full version available [here](https://docs.google.com/document/d/1-erbEQRYMROL57Vv2mLd3Ccu_z9BXk4MyVGTL7qW4tk/edit?usp=sharing)1), I assess snail production and farming-specific welfare concerns, and discuss some scale, neglectedness, and tractability considerations. Some of our main findings are:

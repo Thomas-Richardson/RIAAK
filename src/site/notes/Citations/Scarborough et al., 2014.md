@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/scarborough-et-al-2014/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:46.476+01:00","updated":"2025-10-31T14:43:31.397+00:00"}
+{"dg-publish":true,"permalink":"/citations/scarborough-et-al-2014/","tags":["Citation","Environment_Misc","Meat","UK","Veganism"],"created":"2025-10-23T17:42:46.476+01:00","updated":"2026-09-30T19:55:02.008+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Citation","Environment_Misc","Meat","UK","Veganism"],"AI suggested tags":["Environment/GHG","Veg_Diets","Health/Nutrition"]}}
 ---
 
 
@@ -22,3 +22,9 @@ The production of animal-based foods is associated with higher greenhouse gas (G
 In conclusion, dietary GHG emissions in self-selected meat-eaters are approximately twice as high as those in vegans. It is likely that reductions in meat consumption would lead to reductions in dietary GHG emissions.
 
 Used measured diet [[Are PB diets cheaper than omni diets\|Are PB diets cheaper than omni diets]]
+
+# AI suggested related articles
+
+- [[Citations/Scarborough et al., 2023\|Citations/Scarborough et al., 2023]] (0.84)
+- [[Citations/Berners-Lee et al., 2012\|Citations/Berners-Lee et al., 2012]] (0.80)
+- [[Citations/Scarborough et al., 2012\|Citations/Scarborough et al., 2012]] (0.78)

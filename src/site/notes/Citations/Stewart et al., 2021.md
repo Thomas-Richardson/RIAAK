@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/stewart-et-al-2021/","tags":["High_Income_Countries/UK","Meat/meat_consumption"],"created":"2025-10-23T17:42:44.355+01:00","updated":"2025-12-10T12:59:34.481+00:00"}
+{"dg-publish":true,"permalink":"/citations/stewart-et-al-2021/","tags":["High_Income_Countries/UK","Meat/Meat_Consumption"],"created":"2025-10-23T17:42:44.355+01:00","updated":"2026-09-30T19:55:02.080+01:00","dg-note-properties":{"tags":["High_Income_Countries/UK","Meat/Meat_Consumption"],"Url":"https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(21)00228-X/fulltext","AI suggested tags":["Meat","Citation","Health/Nutrition"]}}
 ---
 
 - [[Change in demand for animal products worldwide#The UK\|Change in UK demand for meat]]

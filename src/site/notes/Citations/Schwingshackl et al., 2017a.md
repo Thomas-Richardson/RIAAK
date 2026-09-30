@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/schwingshackl-et-al-2017a/","tags":["review"],"created":"2025-11-06T09:41:39.698+00:00","updated":"2025-11-07T12:12:09.741+00:00"}
+{"dg-publish":true,"permalink":"/citations/schwingshackl-et-al-2017a/","tags":["Review"],"created":"2025-11-06T09:41:39.698+00:00","updated":"2026-09-30T19:55:02.020+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Review"],"Url":"https://www.cabdirect.org/globalhealth/abstract/20173254768","AI suggested tags":["Nuts","Health/Nutrition","Diet"]}}
 ---
 
 - [[Citations/Neuenschwander et al., 2023\|Neuenschwander et al., 2023]]
@@ -37,9 +37,16 @@ A clear indication of nonlinearity was seen for the relations between vegetables
 ![Pasted image 20231031183203.png](/img/user/Citations/Pasted%20image%2020231031183203.png)
 
 ## Eggs (all cause mortality)
-![Schwingshackl et al., 2017a eggs.png|400](/img/user/Schwingshackl%20et%20al.,%202017a%20eggs.png)
+![Schwingshackl et al., 2017a eggs.png\|400](/img/user/Schwingshackl%20et%20al.,%202017a%20eggs.png)
 
 ## Dairy (all cause mortality)
 126,759 mortality cases
-![Schwingshackl et al., 2017a dairy.png|400](/img/user/Citations/Schwingshackl%20et%20al.,%202017a%20dairy.png)
+![Schwingshackl et al., 2017a dairy.png\|400](/img/user/Citations/Schwingshackl%20et%20al.,%202017a%20dairy.png)
 
+
+
+# AI suggested related articles
+
+- [[Citations/Neuenschwander et al., 2023\|Citations/Neuenschwander et al., 2023]] (0.79)
+- [[Citations/Schwingshackl et al., 2017b\|Citations/Schwingshackl et al., 2017b]] (0.78)
+- [[Citations/Kwok et al., 2019\|Citations/Kwok et al., 2019]] (0.78)

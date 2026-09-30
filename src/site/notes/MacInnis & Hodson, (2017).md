@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mac-innis-and-hodson-2017/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:43.282+01:00","updated":"2025-10-30T23:44:53.394+00:00"}
+{"dg-publish":true,"permalink":"/mac-innis-and-hodson-2017/","tags":["Psychology","Veganism"],"created":"2025-10-23T17:42:43.282+01:00","updated":"2026-09-30T19:55:02.471+01:00","dg-note-properties":{"tags":["Psychology","Veganism"],"AI suggested tags":["Veg_Diets","Bryant_Research","Citation"]}}
 ---
 
 
@@ -59,5 +59,12 @@ women with the one exception: more men than
 women reported being unfairly denied a job or
 promotion due to their vegetarianism/veganism
 
-![Pasted image 20241019222810.png|600](/img/user/Pasted%20image%2020241019222810.png)
+![Pasted image 20241019222810.png\|600](/img/user/Pasted%20image%2020241019222810.png)
 
+
+
+# AI suggested related articles
+
+- [[Summer Survey 2025 ideas\|Summer Survey 2025 ideas]] (0.67)
+- [[Citations/Hodson and Earle, (2018)\|Citations/Hodson and Earle, (2018)]] (0.66)
+- [[Citations/Rosenfeld and Tomiyama 2019\|Citations/Rosenfeld and Tomiyama 2019]] (0.65)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/un-2030-sd-gs/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:41.879+01:00","updated":"2025-10-30T23:44:53.037+00:00"}
+{"dg-publish":true,"permalink":"/un-2030-sd-gs/","tags":["Environment","Health/Nutrition","Lower_Middle_Income_Countries"],"created":"2025-10-23T17:42:41.879+01:00","updated":"2026-09-30T23:02:31.278+01:00","dg-note-properties":{"tags":["Environment","Health/Nutrition","Lower_Middle_Income_Countries"],"AI suggested tags":["Farming","Food_Security","Animal_Feed"]}}
 ---
 
 
@@ -7,7 +7,7 @@
 
 https://sdgs.un.org/goals
 
-Here is a piece from Compassion in World Farming (2018) that argues #factory_farming will render many of the SDGs out of reach: https://www.ciwf.org.uk/media/7435794/industrial-animal-agriculture-will-put-several-sdgs-out-of-reach-august-2018-final.pdf
+Here is a piece from Compassion in World Farming (2018) that argues #Factory_Farming will render many of the SDGs out of reach: https://www.ciwf.org.uk/media/7435794/industrial-animal-agriculture-will-put-several-sdgs-out-of-reach-august-2018-final.pdf
 
 Adopted by all United Nations Member States in 2015
 
@@ -56,3 +56,9 @@ Adopted by all United Nations Member States in 2015
 - [SDG Progress Report (2017)](https://unstats.un.org/sdgs/report/2017/)
 - [SDG Progress Report (2016)](https://unstats.un.org/sdgs/report/2016/)
 - 
+
+# AI suggested related articles
+
+- [[HWA Food Service Scorecard 2025\|HWA Food Service Scorecard 2025]] (0.60)
+- [[Citations/World Bank, 2024\|Citations/World Bank, 2024]] (0.57)
+- [[Citations/Globalizing The Factory Farm - International Organizations And The Spread Of Industrial Animal Agriculture (Faunalytics)\|Citations/Globalizing The Factory Farm - International Organizations And The Spread Of Industrial Animal Agriculture (Faunalytics)]] (0.55)

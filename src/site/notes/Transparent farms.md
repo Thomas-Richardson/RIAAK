@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/transparent-farms/","tags":[null,null,null,null],"created":"2025-10-23T17:42:43.897+01:00","updated":"2025-10-30T23:44:53.551+00:00"}
+{"dg-publish":true,"permalink":"/transparent-farms/","tags":["Data"],"created":"2025-10-23T17:42:43.897+01:00","updated":"2026-09-30T23:02:31.212+01:00","dg-note-properties":{"tags":["Data"],"AI suggested tags":["Bryant_Research/Project/CAWF_Hidden_Harms","UK","Blog_In_Progress"]}}
 ---
 
 
@@ -26,3 +26,9 @@ See more at [https://data.food.gov.uk/catalog/datasets/4025207b-f03b-480b-869f
 - The definition of intensive farms here is one used by the UK government for environmental regulation. Farms must apply for an environmental permit if they hold more than 40,000 poultry, 2,000 grower pigs or 750 breeding pigs.
 
 There are gaps in our data, eg we don't have any intensive farms listed for Scotland. At the bottom of each farm page on our site we also have a "Attributions" section which shows which dataset we detected the farm in.
+
+# AI suggested related articles
+
+- [[Citations/World animal protection, 2024\|Citations/World animal protection, 2024]] (0.63)
+- [[What is the difference between a factory farm and a mega farm Q\|What is the difference between a factory farm and a mega farm Q]] (0.62)
+- [[Sources of Animal data\|Sources of Animal data]] (0.60)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/prophetic-promotion/","tags":[null,null,null,null],"created":"2025-10-23T17:42:43.868+01:00","updated":"2025-10-30T23:44:53.548+00:00"}
+{"dg-publish":true,"permalink":"/prophetic-promotion/","tags":["Protest","Tactics","Movement_Building"],"created":"2025-10-23T17:42:43.868+01:00","updated":"2026-09-30T22:18:09.140+01:00","dg-note-properties":{"tags":["Protest","Tactics","Movement_Building"],"AI suggested tags":["Protest","Research/Faunalytics","Public_Opinion"]}}
 ---
 
 

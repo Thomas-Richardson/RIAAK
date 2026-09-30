@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/the-economics-of-meat-moc/","tags":["economics","Meat"],"created":"2025-10-23T17:42:47.655+01:00","updated":"2026-01-24T20:23:34.563+00:00"}
+{"dg-publish":true,"permalink":"/the-economics-of-meat-moc/","tags":["Economics","Meat"],"created":"2025-10-23T17:42:47.655+01:00","updated":"2026-09-30T19:55:03.509+01:00","dg-note-properties":{"tags":["Economics","Meat"],"AI suggested tags":["Alternative_Proteins","Economics/Costs","USA"]}}
 ---
 
-- How #alternative_proteins price and demand impacts beef: [[Citations/Lusk et al., 2022\|Lusk et al., 2022]]
+- How #Alternative_Proteins price and demand impacts beef: [[Citations/Lusk et al., 2022\|Lusk et al., 2022]]
 - [[The price of pb meat alternatives relative to animal meat\|The price of pb meat alternatives relative to animal meat]]
 	- The elasticity of meat in the US and crossed elasticities of different meat products ([[Citations/Lusk and Tonsor, 2016\|Lusk and Tonsor, 2016]])
 - [[Meat taxes\|Meat taxes]]

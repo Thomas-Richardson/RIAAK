@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/social-listening/","tags":["Research/Methods","Bryant/Project/good_growth_social_listening"],"created":"2025-10-23T17:42:42.683+01:00","updated":"2025-11-04T12:16:41.092+00:00"}
+{"dg-publish":true,"permalink":"/social-listening/","tags":["Research/Methods","Bryant_Research/Project/Good_Growth_Social_Listening"],"created":"2025-10-23T17:42:42.683+01:00","updated":"2026-09-30T23:02:31.010+01:00","dg-note-properties":{"tags":["Research/Methods","Bryant_Research/Project/Good_Growth_Social_Listening"],"Note Type":"Own Notes","AI suggested tags":["Bryant_Research/Project/Good_Growth_Social_Listening","Application","Messaging"]}}
 ---
 
 Social listening is where you monitor social media to see what people are saying about a brand or topic. This can include:

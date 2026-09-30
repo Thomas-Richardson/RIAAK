@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-level-of-bank-financing-of-factory-farming/","tags":[null,null,"financial_activism"],"created":"2025-10-23T17:42:41.354+01:00","updated":"2025-10-30T23:44:52.918+00:00"}
+{"dg-publish":true,"permalink":"/the-level-of-bank-financing-of-factory-farming/","tags":["Sinergia_Defunding_Project","Animal_Feed","Financial_Activism"],"created":"2025-10-23T17:42:41.354+01:00","updated":"2026-09-30T19:55:03.520+01:00","dg-note-properties":{"tags":["Sinergia_Defunding_Project","Animal_Feed","Financial_Activism"],"Note Type":"undefined","AI suggested tags":["USA","Economics/Jobs","Farming"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/riaak-home-page/","tags":["gardenEntry"],"created":"2025-10-23T17:42:41.615+01:00","updated":"2026-02-03T21:36:58.752+00:00"}
+{"dg-publish":true,"permalink":"/riaak-home-page/","tags":["gardenEntry"],"created":"2025-10-23T17:42:41.615+01:00","updated":"2026-09-30T23:48:03.434+01:00","dg-note-properties":{"tags":null,"Note Type":"RIAAK Admin","AI suggested tags":["Research","Research/Methods","External_Resource"]}}
 ---
 
 This is the homepage for Richie's Impactful Animal Advocacy Knowledge-base, aka RIAAK!
@@ -11,6 +11,7 @@ Here I publish my notes on Animal Advocacy that I use in my role as the Director
 - Brief summaries of useful studies (usually found in the Citations folder). Reviews reports, or useful single studies. 
 	- I have an AI tool that will skim a report, extract the abstract or exec summary and make an entry here in RIAAK. If the report doesn't have one, it will use AI to read the report and write one. These may not always be 100% accurate, but I have never noticed a big error before.
 - "Micro-content" I have written to help me quickly put together reports for clients.
+- Summaries of episodes from animal advocacy **podcasts** I follow (in the `Podcasts` folder), each with a link out to the episode. I pull these in from the show's RSS feed. So far: *How I Learned to Love Shrimp*, *The Vegan Report*, *The Vegan Pod* (The Vegan Society), the animal-welfare episodes of *The 80,000 Hours Podcast*, and the interviews from *Our Hen House* and *The Animal Law Podcast*.
 - My scattered thoughts.
 ## Where I get my info from
 - Academic papers
@@ -35,7 +36,7 @@ Here I publish my notes on Animal Advocacy that I use in my role as the Director
 
 ---
 # How to use RIAAK
-There are 6 ways you can navigate RIAAK:
+There are 8 ways you can navigate RIAAK:
 
 1. Type keywords into the left search bar
 2. Use "semantic search"
@@ -44,6 +45,7 @@ There are 6 ways you can navigate RIAAK:
 5. Use the Global Graph
 6. Use Tags
 7. Use Folders
+8. [[Search RIAAK with your AI assistant\|Ask your AI assistant to search it for you]]
 ## The keyword search bar
 - The search bar only does exact word search, so if you search "alternative proteins healthier" it probably won't surface an article called "vegan meat is good for you".
 - I'd advise just putting in a bunch of keywords you're interested in and see what it turns up
@@ -63,7 +65,7 @@ Whenever you see
 - If you want to see the local graph larger, then click the arrow in the top right of the graph
 - There is also a heading on the right that tells you which pages mention the page you're on.
 
-![Pasted image 20251023080806.png|500](/img/user/Pasted%20image%2020251023080806.png)
+![Pasted image 20251023080806.png\|500](/img/user/Pasted%20image%2020251023080806.png)
 ## Global Graph
 - If every file in RIAAK is linked to other files, can we visualise the *entirety* of RIAAK as a network graph? Yes we can! 
 - This is called a Global Graph, and you do that by clicking the globe icon on the top right of any local graph
@@ -73,8 +75,8 @@ Whenever you see
 ## Tags
 - Tags are those hashtags you see on notes, usually at the top. They are the topics that a note is about. 
 - If you click on a tag, it will show you all notes in RIAAK with that tag. Try it out! 
-	- #Bryant 
-	- #farming
+	- #Bryant_Research 
+	- #Farming
 	- #Health/Disease  
 - Tags are a great way of diving into a high level topic
 - If you have suggestions for tags that you expected to find or would find useful, let me know!
@@ -82,6 +84,10 @@ Whenever you see
 
 ## Folders
 On the left side, you will also see the main folders and all the files inside them. Not a great way to search for a file, but might be useful.
+
+## Ask your AI assistant
+- You can get your own AI assistant (Claude, Codex, Gemini or GitHub Copilot) to search RIAAK for you. It answers using only what's in RIAAK, with a link to every source.
+- [[Search RIAAK with your AI assistant\|Here's how to set it up]]
 
 # Can't find what you're looking for? 
 [[Other Resources to RIAAK\|Find more resources here!]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/most-plastic-in-the-great-pacific-garbage-patch-comes-from-the-fishing-industry/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:43.978+01:00","updated":"2025-10-30T23:44:53.566+00:00"}
+{"dg-publish":true,"permalink":"/most-plastic-in-the-great-pacific-garbage-patch-comes-from-the-fishing-industry/","tags":["Environment/Pollution","Fish"],"created":"2025-10-23T17:42:43.978+01:00","updated":"2026-09-30T19:55:02.514+01:00","dg-note-properties":{"tags":["Environment/Pollution","Fish"],"AI suggested tags":["Important_Read","Light_Read","Listen_To"]}}
 ---
 
 

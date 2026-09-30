@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/positive-health-effects-of-going-veggie-or-vegan/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:44.078+01:00","updated":"2025-10-30T23:44:53.584+00:00"}
+{"dg-publish":true,"permalink":"/positive-health-effects-of-going-veggie-or-vegan/","tags":["Health/Nutrition","Veganism"],"created":"2025-10-23T17:42:44.078+01:00","updated":"2026-09-30T22:17:46.708+01:00","dg-note-properties":{"tags":["Health/Nutrition","Veganism"],"AI suggested tags":["Nuts","Veg_Diets","Diet"]}}
 ---
 
 
@@ -16,3 +16,9 @@ Satija, A., Bhupathiraju, S. N., Rimm, E. B., Spiegelman, D., Chiuve, S. E., Bor
 
 ## References
 [^1]: https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2540540/
+
+# AI suggested related articles
+
+- [[Vegan diets best across a wide range of metrics\|Vegan diets best across a wide range of metrics]] (0.70)
+- [[Red and processed meat are bad for you\|Red and processed meat are bad for you]] (0.68)
+- [[Influential, respected authorities giving pro animal advo messaging\|Influential, respected authorities giving pro animal advo messaging]] (0.67)

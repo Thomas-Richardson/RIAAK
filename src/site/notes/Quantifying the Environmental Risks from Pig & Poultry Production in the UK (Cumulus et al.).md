@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quantifying-the-environmental-risks-from-pig-and-poultry-production-in-the-uk-cumulus-et-al/","tags":["animal_feed"],"created":"2025-10-23T17:42:43.937+01:00","updated":"2025-10-30T23:40:02.300+00:00"}
+{"dg-publish":true,"permalink":"/quantifying-the-environmental-risks-from-pig-and-poultry-production-in-the-uk-cumulus-et-al/","tags":["Animal_Feed"],"created":"2025-10-23T17:42:43.937+01:00","updated":"2026-09-30T23:02:30.916+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Animal_Feed"],"source_url":"https://www.wildlifetrusts.org/sites/default/files/2025-08/Pig_and_Poultry_Report.pdf","created":"2025-10-21","AI suggested tags":["UK","Environment/Pollution","Bryant_Research/Project/CAWF_Hidden_Harms"]}}
 ---
 
 This report contains an executive summary. As requested, it is reproduced here exactly.
@@ -65,3 +65,10 @@ These notes appear semantically similar based on Smart Connections embeddings:
 - [[Citations/The Hidden Harms of Factory Farms (Conservative Animal Welfare Foundation)\|The Hidden Harms of Factory Farms (Conservative Animal Welfare Foundation)]] (similarity: 74.1%)
 - [[Citations/The Future of Food Security in the UK (Conservative Animal Welfare Foundation)\|The Future of Food Security in the UK (Conservative Animal Welfare Foundation)]] (similarity: 72.8%)
 - [[Calculating the environmental damage caused by UK factory farms\|Calculating the environmental damage caused by UK factory farms]] (similarity: 71.1%)
+
+
+# AI suggested related articles
+
+- [[There is no food security case for more factory farming cattle\|There is no food security case for more factory farming cattle]] (0.78)
+- [[ProVeg EU Env calcs\|ProVeg EU Env calcs]] (0.76)
+- [[Citations/The Hidden Harms of Factory Farms (Conservative Animal Welfare Foundation)\|Citations/The Hidden Harms of Factory Farms (Conservative Animal Welfare Foundation)]] (0.75)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/plenty-of-fish-in-the-sea-not-enough-to-feed-10-billion-people-sustainably/","title":"Plenty of fish in the sea? Not enough to feed 10 billion people sustainably.","tags":["wild_animals - light_read - important_read - listen_to - alternative_proteins - cultivated_meat - Economics/jobs"],"created":"2025-10-23T17:42:47.478+01:00","updated":"2025-11-06T18:34:27.697+00:00"}
+{"dg-publish":true,"permalink":"/plenty-of-fish-in-the-sea-not-enough-to-feed-10-billion-people-sustainably/","title":"Plenty of fish in the sea? Not enough to feed 10 billion people sustainably.","tags":["Wild_Animals","Light_Read","Important_Read","Listen_To","Alternative_Proteins","Alternative_Proteins/Cultivated_Meat","Economics/Jobs"],"created":"2025-10-23T17:42:47.478+01:00","updated":"2026-09-30T19:55:02.547+01:00","dg-note-properties":{"title":"Plenty of fish in the sea? Not enough to feed 10 billion people sustainably.","source":"https://thegoodfoodinstitute.substack.com/p/plenty-of-fish-in-the-sea-not-enough?utm_source=post-email-title&publication_id=2241415&post_id=162693089&utm_campaign=email-post-title&isFreemail=true&r=1gqdct&triedRedirect=true&utm_medium=email","published":"2024-07-03","created":"2025-05-13","description":"Alternative seafood is an important tool to help our oceans thrive while feeding a growing population.","tags":["Wild_Animals","Light_Read","Important_Read","Listen_To","Alternative_Proteins","Alternative_Proteins/Cultivated_Meat","Economics/Jobs"],"Note Type":"undefined","AI suggested tags":["Alternative_Proteins/Precision_Fermentation","Animal_Feed","Food_Security"]}}
 ---
 
 ### Alternative seafood is an important tool to help our oceans thrive while feeding a growing population.
@@ -110,3 +110,10 @@ These notes appear semantically similar based on Smart Connections embeddings:
 - [[The small body problem\|The small body problem]] (similarity: 70.9%)
 - [[Solutions to the small body problem (Insight piece)\|Solutions to the small body problem (Insight piece)]] (similarity: 70.6%)
 - [[Alternative proteins are better for the environment\|Alternative proteins are better for the environment]] (similarity: 68.1%)
+
+
+# AI suggested related articles
+
+- [[Aquatic plants as Alt protein ingredients\|Aquatic plants as Alt protein ingredients]] (0.73)
+- [[FAIRR Initiative  A Global Network of Investors Addressing Materiality Risks in Protein Supply Chains\|FAIRR Initiative  A Global Network of Investors Addressing Materiality Risks in Protein Supply Chains]] (0.72)
+- [[700 to 1 - The funding ratio undermining our future food system\|700 to 1 - The funding ratio undermining our future food system]] (0.72)

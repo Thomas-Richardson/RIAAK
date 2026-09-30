@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-case-for-vegan-pet-food/","tags":[null,null,null,null],"created":"2025-10-23T17:42:47.639+01:00","updated":"2025-10-30T23:44:53.775+00:00"}
+{"dg-publish":true,"permalink":"/the-case-for-vegan-pet-food/","tags":["Companion_Animals"],"created":"2025-10-23T17:42:47.639+01:00","updated":"2026-09-30T23:02:31.127+01:00","dg-note-properties":{"tags":["Companion_Animals"],"AI suggested tags":["Pet_Food","Alternative_Proteins/Cultivated_Meat","Environment"]}}
 ---
 
 
@@ -13,3 +13,9 @@
 - Allergies to meat, including chicken protein, are actually very common. The allergen dog food category is growing substantially, especially with designer breed dogs and their myriad health issues. Many of those dogs end up eating plant-based foods or novel proteins (like crocodiles, wtf) currently.  
 - Current pet food is made with rendered meat, which is extremely dangerous to consume without extensive treatment. Thus, there are a variety of added costs when the food is processed, due to needing synthetic nutrition to be added back in. If the cultivated cells can include taurine and other synthetic nutrition currently added back in, it could reduce that cost, as well.
 - 
+
+# AI suggested related articles
+
+- [[Cultivated pet food\|Cultivated pet food]] (0.82)
+- [[Can vegan pet food make a dent in animal ag Q\|Can vegan pet food make a dent in animal ag Q]] (0.74)
+- [[Citations/Knight, 2026\|Citations/Knight, 2026]] (0.70)

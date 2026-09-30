@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-uk-is-not-self-sufficient-in-pork-or-poultry/","tags":[null,null],"created":"2025-10-23T17:42:42.711+01:00","updated":"2025-10-30T23:44:53.199+00:00"}
+{"dg-publish":true,"permalink":"/the-uk-is-not-self-sufficient-in-pork-or-poultry/","tags":["Animal_Feed","Bryant_Research/Project/CAWF_Food_Sec"],"created":"2025-10-23T17:42:42.711+01:00","updated":"2026-09-30T23:02:31.102+01:00","dg-note-properties":{"tags":["Animal_Feed","Bryant_Research/Project/CAWF_Food_Sec"],"Note Type":"undefined","AI suggested tags":["UK","Bryant_Research/Project/CAWF_Food_Sec","Bryant_Research/Project/CAWF_Hidden_Harms"]}}
 ---
 
 

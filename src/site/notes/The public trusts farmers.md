@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-public-trusts-farmers/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:47.742+01:00","updated":"2026-01-06T10:37:15.355+00:00"}
+{"dg-publish":true,"permalink":"/the-public-trusts-farmers/","tags":["Farmers","Farming","UK"],"created":"2025-10-23T17:42:47.742+01:00","updated":"2026-09-30T19:55:03.532+01:00","dg-note-properties":{"tags":["Farmers","Farming","UK"],"AI suggested tags":["Consumer_Attitudes","USA","Public_Opinion"]}}
 ---
 
 
@@ -12,3 +12,9 @@
 ## See also
 - [[Acceptability of Farming Practices\|Acceptability of Farming Practices]]
 - 
+
+# AI suggested related articles
+
+- [[Most people strongly support animal rights\|Most people strongly support animal rights]] (0.64)
+- [[Awareness of factory farming\|Awareness of factory farming]] (0.62)
+- [[Citations/Public attitudes survey 2024 (Eating Better et al.)\|Citations/Public attitudes survey 2024 (Eating Better et al.)]] (0.61)

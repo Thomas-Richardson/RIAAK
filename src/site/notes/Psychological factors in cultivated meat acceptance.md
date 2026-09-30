@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psychological-factors-in-cultivated-meat-acceptance/","tags":[null,null,null,"psychology"],"created":"2025-10-23T17:42:47.551+01:00","updated":"2025-10-30T23:44:53.764+00:00"}
+{"dg-publish":true,"permalink":"/psychological-factors-in-cultivated-meat-acceptance/","tags":["Bryant_Research","Alternative_Proteins/Cultivated_Meat","Psychology"],"created":"2025-10-23T17:42:47.551+01:00","updated":"2026-09-30T23:02:30.908+01:00","dg-note-properties":{"tags":["Bryant_Research","Alternative_Proteins/Cultivated_Meat","Psychology"],"Note Type":"undefined","AI suggested tags":["Consumer_Research","Consumer_Attitudes","Bryant_Research/Insight"]}}
 ---
 
 
@@ -10,3 +10,9 @@ Disgust was a significant predictor of plant-based and clean meat acceptance, a 
 
 ## Speculation
 People don't respond well to 'wow this is cool technology' arguments. We need to target disgust. 
+
+# AI suggested related articles
+
+- [[Citations/Yu et al., 2025\|Citations/Yu et al., 2025]] (0.75)
+- [[Citations/Naturalness Concerns And Clean Meat Acceptance- A Faunalytics Study (Faunalytics)\|Citations/Naturalness Concerns And Clean Meat Acceptance- A Faunalytics Study (Faunalytics)]] (0.72)
+- [[Citations/Szejda et al., 2021b\|Citations/Szejda et al., 2021b]] (0.70)

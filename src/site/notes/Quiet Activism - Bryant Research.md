@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quiet-activism-bryant-research/","tags":["activism","movement_building","research/bryant-research","High_Income_Countries/UK","strategy"],"created":"2025-11-11T23:41:40.168+00:00","updated":"2025-12-10T12:59:35.295+00:00"}
+{"dg-publish":true,"permalink":"/quiet-activism-bryant-research/","tags":["Activism","Movement_Building","Research/Bryant_Research","High_Income_Countries/UK","Strategy"],"created":"2025-11-11T23:41:40.168+00:00","updated":"2026-09-30T19:55:03.425+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://bryantresearch.co.uk/insight-items/quiet-activism/","tags":["Activism","Movement_Building","Research/Bryant_Research","High_Income_Countries/UK","Strategy"],"AI suggested tags":["Public_Opinion","Messaging","Consumer_Attitudes"]}}
 ---
 
 ![](https://bryantresearch.co.uk/wp-content/uploads/2023/06/Portfolio-Post-Pages-2-1024x256.png "Quiet Activism")

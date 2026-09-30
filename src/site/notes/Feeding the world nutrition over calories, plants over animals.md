@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/feeding-the-world-nutrition-over-calories-plants-over-animals/","tags":[null,null,null],"created":"2025-10-23T17:42:47.258+01:00","updated":"2025-10-30T23:44:53.644+00:00"}
+{"dg-publish":true,"permalink":"/feeding-the-world-nutrition-over-calories-plants-over-animals/","tags":["Animal_Feed","Health/Nutrition","MFA_Food_Sec"],"created":"2025-10-23T17:42:47.258+01:00","updated":"2026-09-30T19:55:02.364+01:00","dg-note-properties":{"tags":["Animal_Feed","Health/Nutrition","MFA_Food_Sec"],"Note Type":"undefined","AI suggested tags":["Food_Security","Lower_Middle_Income_Countries","Economics/Jobs"]}}
 ---
 
 
@@ -120,3 +120,9 @@ In sum, if countries choose to go down the path of meeting nutritional deficienc
 Industrial animal agriculture can also undermine global food security by exacerbating antimicrobial resistance (AMR) and increasing the risk of pandemics. In intensive farming systems, animals are regularly given antibiotics to keep disease at bay and increase productivity. This widespread use of antibiotics accelerates the development of AMR, where bacteria evolve to withstand antibiotic treatments. As a result, infections that were once easily treatable become life-threatening, posing a severe public health risk. [The World Health Organization (WHO)](https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance) has warned that AMR could lead to 10 million deaths annually by 2050, surpassing the mortality rates of cancer and other major diseases. This public health crisis can strain healthcare systems and divert resources away from food production and distribution, further destabilizing food security. 
 
 Moreover, [there is substantial evidence](https://www.frontiersin.org/articles/10.3389/fvets.2023.1310303/full\#h6) that the high density of animals in intensive systems facilitates the rapid spread and mutation of viruses, increasing the likelihood of zoonotic outbreaks that spill over into human populations. [75% of all emerging diseases are zoonotic](https://proveg.org/report/food-and-pandemics/), meaning that they came from animals. As was painfully clear during the COVID19 pandemic, zoonotic outbreaks can disrupt food production and supply chains, leading to reduced **food availability** and increased food prices. The economic fallout from such health crises can also reduce household incomes and purchasing power, reducing **food access**. Thus, the practices inherent in industrial animal agriculture not only threaten public health but also undermine the stability and resilience of global food systems.
+
+# AI suggested related articles
+
+- [[Future smart foods\|Future smart foods]] (0.86)
+- [[Fauna Connections 2025 - food security\|Fauna Connections 2025 - food security]] (0.75)
+- [[Malnutrition\|Malnutrition]] (0.74)

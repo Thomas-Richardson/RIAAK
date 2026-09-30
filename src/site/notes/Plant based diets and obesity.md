@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/plant-based-diets-and-obesity/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:43.373+01:00","updated":"2025-10-30T23:44:53.423+00:00"}
+{"dg-publish":true,"permalink":"/plant-based-diets-and-obesity/","tags":["Health/Nutrition","Veganism"],"created":"2025-10-23T17:42:43.373+01:00","updated":"2026-09-30T19:55:02.539+01:00","dg-note-properties":{"tags":["Health/Nutrition","Veganism"],"AI suggested tags":["Diet","Citation","Veg_Diets"]}}
 ---
 
 
@@ -21,5 +21,12 @@ Jarvis, S. E., Nguyen, M., & Malik, V. S. (2022). Association between adherence 
 <mark style="background: #FFF3A3A6;">A review of 9 studies finds that a "healthful" PB diet protects against weight gain and adiposity but an unhealthful PB diet often does not</mark>
 ## Abstract
 The worldwide prevalence of obesity and its comorbidities is staggering, and elevated body mass index represents a leading risk factor of death globally. Consistent evidence demonstrates a high-quality plant-based diet as an effective intervention for weight management, although it may be particularly challenging to adopt in its entirety for habitual meat consumers or individuals with especially poor-quality diets. Plant-based diets are increasingly studied using indices such as the overall plant-based diet index (PDI), healthful PDI, and unhealthful PDI, which offer more flexibility than a binary classification of vegetarianism and better facilitate translation into dietary recommendations. We summarized these recently accumulated studies to comprehensively evaluate plant-based diets in relation to obesity risk. We searched Medline, Embase, and CINAHL databases through January 2022 and identified 9 prospective adult cohorts. Reporting of results was consistent with Preferred Reporting Items for Systematic Review and Meta-Analyses guidelines and certainty of the evidence was assessed using domains from GRADE. The PDI had a protective association with body weight gain and adiposity. Emphasis of healthful plant foods strengthened this association and emphasis of unhealthful plant foods demonstrated either a positive or null association. The certainty of the evidence was considered moderate. These findings have wide application to inform dietary interventions and sustainable policy recommendations. (Prospero ID: CRD42020198143)
+
+# AI suggested related articles
+
+- [[Plant based diets and obesity\|Plant based diets and obesity]] (0.73)
+- [[Citations/Espinosa et al., 2024\|Citations/Espinosa et al., 2024]] (0.68)
+- [[Citations/Schlesinger et al., 2019\|Citations/Schlesinger et al., 2019]] (0.68)
+
 
 </div></div>

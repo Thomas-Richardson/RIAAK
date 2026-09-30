@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-consolidation-and-intensification-of-farms/","tags":[null,null,null,"farming"],"created":"2025-10-23T17:42:43.114+01:00","updated":"2025-10-30T23:44:53.356+00:00"}
+{"dg-publish":true,"permalink":"/the-consolidation-and-intensification-of-farms/","tags":["Animal_Feed","Factory_Farming","USA","Farming"],"created":"2025-10-23T17:42:43.114+01:00","updated":"2026-09-30T23:02:31.135+01:00","dg-note-properties":{"tags":["Animal_Feed","Factory_Farming","USA","Farming"],"Note Type":"undefined","AI suggested tags":["Blog_In_Progress","Bryant_Research/Project/CAWF_Hidden_Harms","UK"]}}
 ---
 
 
@@ -44,7 +44,7 @@ For cows it's growing: https://www.bbc.co.uk/news/articles/cy4ldkpz1klo
 
 This article discusses some of the [big agri](https://www.sustainweb.org/news/may23-intensive-livestock-directors-pay/) involved in the UK
 ## LMICS
-#lower_middle_income_countries 
+#Lower_Middle_Income_Countries 
 - [[Citations/Lam et al., 2016\|Lam et al., 2016]]
 
 # # References
@@ -52,3 +52,9 @@ This article discusses some of the [big agri](https://www.sustainweb.org/news/ma
 [^1]: Lawrence, J. D., Grimes, Glenn 2007. Production and Marketing Characteristics of U.S. Pork Producers, 2006. Department of Economics Working Paper Series. Ames, Iowa, Iowa State University.
 [^2]: James M. MacDonald. Tracking the Consolidation of U.S. Agriculture. Applied Economic Perspectives and Policy, 2020; DOI: [10.1002/aepp.13056](https://onlinelibrary.wiley.com/doi/10.1002/aepp.13056)
 [^3]: Lee, Seth. IBISWorld. “Dairy Farms in the US.” Industry Report 11212. July 2022 at 4, 7, and 17.
+
+# AI suggested related articles
+
+- [[What is the difference between a factory farm and a mega farm Q\|What is the difference between a factory farm and a mega farm Q]] (0.73)
+- [[Citations/World animal protection, 2024\|Citations/World animal protection, 2024]] (0.71)
+- [[Citations/The face of European farming (AGtivist Agency)\|Citations/The face of European farming (AGtivist Agency)]] (0.69)

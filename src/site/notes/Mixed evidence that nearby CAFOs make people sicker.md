@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mixed-evidence-that-nearby-caf-os-make-people-sicker/","tags":[null,null,null,null],"created":"2025-10-23T17:42:41.436+01:00","updated":"2025-11-07T12:30:40.491+00:00"}
+{"dg-publish":true,"permalink":"/mixed-evidence-that-nearby-caf-os-make-people-sicker/","tags":["Health/Disease"],"created":"2025-10-23T17:42:41.436+01:00","updated":"2026-09-30T19:55:02.500+01:00","dg-note-properties":{"tags":["Health/Disease"],"AI suggested tags":["Pigs","Environment/Pollution","USA"]}}
 ---
 
 
@@ -36,3 +36,9 @@ In North Carolina, [poorer communities](https://scholar.google.com/scholar_url?u
 ## Complications
 -  Rural populations have less pollution so generally have lower rates of respiratory disease, which may mask the effect of CAFOs, so looking at CAFOs.
 - Studies at 1 point in time might be confounded by the fact that people who have terrible health effects from CAFOs will typically just move away, only leaving those with decent health. This might misleadingly create the impression that there are no negative health effects, when its actually because the study selects for healthier people who can tolerate the effects.
+
+# AI suggested related articles
+
+- [[Citations/Douglas et al., 2018\|Citations/Douglas et al., 2018]] (0.77)
+- [[Citations/Cole et al., 2000\|Citations/Cole et al., 2000]] (0.74)
+- [[Citations/Pew Commission, 2008\|Citations/Pew Commission, 2008]] (0.73)

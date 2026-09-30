@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/livestock-in-africa/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:47.958+01:00","updated":"2025-10-30T23:44:53.820+00:00"}
+{"dg-publish":true,"permalink":"/livestock-in-africa/","tags":["Farming","Lower_Middle_Income_Countries","Meat"],"created":"2025-10-23T17:42:47.958+01:00","updated":"2026-09-30T19:55:02.463+01:00","dg-note-properties":{"tags":["Farming","Lower_Middle_Income_Countries","Meat"],"AI suggested tags":["MFA_Food_Sec","Africa","Economics/Jobs"]}}
 ---
 
 

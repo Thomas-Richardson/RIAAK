@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/industrial-animal-agriculture-is-detrimental-to-the-food-security-of-surrounding-rural-communities/","tags":[null,null,"Economics/jobs"],"created":"2025-11-06T16:38:11.739+00:00","updated":"2025-11-06T16:38:11.739+00:00"}
+{"dg-publish":true,"permalink":"/industrial-animal-agriculture-is-detrimental-to-the-food-security-of-surrounding-rural-communities/","tags":["Animal_Feed","MFA_Food_Sec","Economics/Jobs"],"created":"2025-11-06T16:38:11.739+00:00","updated":"2026-09-30T19:55:02.436+01:00","dg-note-properties":{"tags":["Animal_Feed","MFA_Food_Sec","Economics/Jobs"],"Note Type":"undefined","AI suggested tags":["USA","Food_Security","Farming"]}}
 ---
 
 
@@ -55,3 +55,9 @@ Medium-long term, CAFOs also compromise food security of communities by damaging
 Industrial animal agriculture may also distort markets and damage communities in neighboring countries. Over the last 20 years, [US Integrators such as Smithfield Foods have exploited holes in US-Mexico trade policy](https://repository.law.miami.edu/cgi/viewcontent.cgi?article=1101\&context=umialr) to drive Mexican hog farmers out of business. They produced animal feed in the US and sold it to their farms in Mexico for extremely low prices. With feed costs that were sometimes as little as half that of their Mexican competitors, US companies stormed their way to being 30% of Mexico’s Pork market in a few years. They were able to do this because the feed was grown using generous US agricultural subsidies (i.e. US taxpayer money). In the past few years [the US has made up 86%](https://porkcheckoff.org/pork-branding/international-market-development/mexico/) of Mexico’s pork imports, which is 46% of its demand, meaning that 40% of Mexico’s pork comes from US companies in the US with more from US owned companies operating out of Mexico. Far from improving food security by producing cheap food, industrial pork production has driven Mexican farmers out of business using US taxpayer money, and helped Mexico become the [most overweight nation in the world](https://www.thelancet.com/journals/landia/article/PIIS2213-8587%2820%2930269-2/fulltext).
 
 In sum, industrial animal agriculture compromises the food access of surrounding rural populations in a number of ways. It decreases jobs and hollows out rural economies.
+
+# AI suggested related articles
+
+- [[CAFOs wreck domestic rural communities\|CAFOs wreck domestic rural communities]] (0.82)
+- [[Diseases in farm animals cause economic shocks\|Diseases in farm animals cause economic shocks]] (0.76)
+- [[Food security risks that could come from scaling up animal agriculture in LMICs\|Food security risks that could come from scaling up animal agriculture in LMICs]] (0.75)

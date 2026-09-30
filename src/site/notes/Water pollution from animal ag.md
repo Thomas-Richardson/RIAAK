@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/water-pollution-from-animal-ag/","tags":[null,null,null,null],"created":"2025-10-23T17:42:41.459+01:00","updated":"2025-10-30T23:44:52.939+00:00"}
+{"dg-publish":true,"permalink":"/water-pollution-from-animal-ag/","tags":["Environment/Pollution"],"created":"2025-10-23T17:42:41.459+01:00","updated":"2026-09-30T19:55:03.580+01:00","dg-note-properties":{"tags":["Environment/Pollution"],"AI suggested tags":["CAWF_Farming","Animal_Feed","Farming"]}}
 ---
 
 
@@ -44,3 +44,10 @@ slurry storage regulations aren’t working. [In a study in Devon](https://www.t
 ## Why care about polluted water?
 Eutrophication increases the cost of drinking water abstraction and treatment, adversely affects angling, water sports and other recreational activities, and causes the loss of sensitive plants and animals in rivers and lakes.
 
+
+
+# AI suggested related articles
+
+- [[Environmental damage caused by factory farms\|Environmental damage caused by factory farms]] (0.79)
+- [[Citations/Soil association, 2024\|Citations/Soil association, 2024]] (0.76)
+- [[Animal agro and soil health\|Animal agro and soil health]] (0.71)

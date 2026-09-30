@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-main-ways-animal-agriculture-costs-us-money/","tags":["Economics/costs","factory_farming"],"created":"2025-10-23T17:42:47.433+01:00","updated":"2025-11-05T10:03:32.115+00:00"}
+{"dg-publish":true,"permalink":"/the-main-ways-animal-agriculture-costs-us-money/","tags":["Economics/Costs","Factory_Farming"],"created":"2025-10-23T17:42:47.433+01:00","updated":"2026-09-30T23:02:31.174+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Economics/Costs","Factory_Farming"],"AI suggested tags":["BOTEC","Environment","Economics"]}}
 ---
 
 - [[True cost accounting\|True cost accounting]] 
@@ -54,3 +54,9 @@ Assess costs from:
 3. Fine dust PM2.5 was third
 4. The fossil fuels used to produce the product were fourth
 5. The rest were relatively minor, including: Land use, Water use, Photochemical ozone formation, Eutrophication of fresh water, Ecotoxicity of fresh water
+
+# AI suggested related articles
+
+- [[ProVeg EU Env calcs\|ProVeg EU Env calcs]] (0.74)
+- [[Citations/External Costs of Animal Sourced Food in the EU ( Impact Institute, 2023)\|Citations/External Costs of Animal Sourced Food in the EU ( Impact Institute, 2023)]] (0.73)
+- [[Citations/State of Food and Agriculture Report (Food and Agriculture Organization of the United Nations (FAO))\|Citations/State of Food and Agriculture Report (Food and Agriculture Organization of the United Nations (FAO))]] (0.70)

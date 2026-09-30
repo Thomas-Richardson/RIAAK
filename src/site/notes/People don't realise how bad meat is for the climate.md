@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people-don-t-realise-how-bad-meat-is-for-the-climate/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:47.474+01:00","updated":"2025-10-30T23:44:53.724+00:00"}
+{"dg-publish":true,"permalink":"/people-don-t-realise-how-bad-meat-is-for-the-climate/","tags":["Environment","Meat"],"created":"2025-10-23T17:42:47.474+01:00","updated":"2026-09-30T23:02:30.501+01:00","dg-note-properties":{"tags":["Environment","Meat"],"AI suggested tags":["Environment/GHG","Environment/Climate_Change","Meat_Industry"]}}
 ---
 
 

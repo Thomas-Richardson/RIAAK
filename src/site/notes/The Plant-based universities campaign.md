@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-plant-based-universities-campaign/","tags":[null,null,null,null],"created":"2025-10-23T17:42:41.602+01:00","updated":"2025-10-30T23:44:52.974+00:00"}
+{"dg-publish":true,"permalink":"/the-plant-based-universities-campaign/","tags":["Institutional_Change"],"created":"2025-10-23T17:42:41.602+01:00","updated":"2026-09-30T23:02:31.092+01:00","dg-note-properties":{"tags":["Institutional_Change"],"AI suggested tags":["Behaviour_Change","Bryant_Research/Project/ProVeg_EU_Procurement","Case_Study"]}}
 ---
 
 

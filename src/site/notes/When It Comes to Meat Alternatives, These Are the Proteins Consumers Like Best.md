@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/when-it-comes-to-meat-alternatives-these-are-the-proteins-consumers-like-best/","tags":["Alternative_Proteins","consumer_research","alternative_proteins/Cultivated_Meat","Alternative_Proteins/Plant_Based"],"created":"2025-10-23T17:42:47.223+01:00","updated":"2025-12-10T12:56:24.916+00:00"}
+{"dg-publish":true,"permalink":"/when-it-comes-to-meat-alternatives-these-are-the-proteins-consumers-like-best/","tags":["Alternative_Proteins","Consumer_Research","Alternative_Proteins/Cultivated_Meat","Alternative_Proteins/Plant_Based"],"created":"2025-10-23T17:42:47.223+01:00","updated":"2026-09-30T19:55:03.600+01:00","dg-note-properties":{"Note Type":"News Report / Blog","Url":"https://www.greenqueen.com.hk/plant-based-meat-consumer-acceptance-cultivated-protein/","tags":["Alternative_Proteins","Consumer_Research","Alternative_Proteins/Cultivated_Meat","Alternative_Proteins/Plant_Based"],"AI suggested tags":["Report","Plant_Based/Marketing","Alternative_Proteins/Balanced_Proteins"]}}
 ---
 
 [![Green Queen](https://www.greenqueen.com.hk/wp-content/uploads/2024/09/green-queen-logo-short-main.png)](https://www.greenqueen.com.hk/)
@@ -89,3 +89,10 @@ These notes appear semantically similar based on Smart Connections embeddings:
 - [[Citations/Bhattacharya, Bryant and Couture 2023\|Bhattacharya, Bryant and Couture 2023]] (similarity: 69.7%)
 - [[Good food institute GFI Clean meat course\|Good food institute GFI Clean meat course]] (similarity: 68.2%)
 - [[Consumer perceptions of alternative proteins\|Consumer perceptions of alternative proteins]] (similarity: 67.8%)
+
+
+# AI suggested related articles
+
+- [[Citations/What To Call Plant-Based Meat Alternatives- A Labeling Study (Faunalytics)\|Citations/What To Call Plant-Based Meat Alternatives- A Labeling Study (Faunalytics)]] (0.74)
+- [[BENEO and Meatless Publish Consumer Survey Results on Hybrid Meat\|BENEO and Meatless Publish Consumer Survey Results on Hybrid Meat]] (0.73)
+- [[Citations/Naturalness Concerns And Clean Meat Acceptance- A Faunalytics Study (Faunalytics)\|Citations/Naturalness Concerns And Clean Meat Acceptance- A Faunalytics Study (Faunalytics)]] (0.72)

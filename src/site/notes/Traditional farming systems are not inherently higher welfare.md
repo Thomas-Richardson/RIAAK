@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/traditional-farming-systems-are-not-inherently-higher-welfare/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:43.379+01:00","updated":"2025-10-30T23:44:53.424+00:00"}
+{"dg-publish":true,"permalink":"/traditional-farming-systems-are-not-inherently-higher-welfare/","tags":["Factory_Farming","Farming"],"created":"2025-10-23T17:42:43.379+01:00","updated":"2026-09-30T19:55:03.545+01:00","dg-note-properties":{"tags":["Factory_Farming","Farming"],"AI suggested tags":["USA","MFA_Food_Sec","Economics/Jobs"]}}
 ---
 
 
@@ -16,3 +16,9 @@
 
 ## Bryant Africa report
 Pastoral livestock in Africa are not necessarily high-welfare. Their access to food and water may be limited or uncertain, and they have virtually no access to veterinary care. Moreover, African livestock farmers self-report very low knowledge of animal welfare, and no particularly positive attitudes towards their animals overall. That said probably not worse than factory farmed
+
+# AI suggested related articles
+
+- [[Citations/Erb et al., 2012\|Citations/Erb et al., 2012]] (0.65)
+- [[The consolidation and intensification of farms\|The consolidation and intensification of farms]] (0.64)
+- [[Comparing environmental impact of different animal farming systems\|Comparing environmental impact of different animal farming systems]] (0.64)

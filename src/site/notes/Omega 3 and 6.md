@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/omega-3-and-6/","tags":[null,null,null,null],"created":"2025-10-23T17:42:47.711+01:00","updated":"2025-10-30T23:44:53.777+00:00"}
+{"dg-publish":true,"permalink":"/omega-3-and-6/","tags":["Health/Nutrition"],"created":"2025-10-23T17:42:47.711+01:00","updated":"2026-09-30T19:55:02.522+01:00","dg-note-properties":{"tags":["Health/Nutrition"],"AI suggested tags":["Nuts","Meat","Diet"]}}
 ---
 
 
@@ -29,3 +29,9 @@ ALA has it's own benefits, but can also be converted into EPA and DHA. However I
 Vegans can also obtain EPA and DHA from [algal supplements](https://www.vegetology.com/en-us/blog/understanding-omega-3-why-epa-dha-are-superior-to-ala?srsltid=AfmBOor5-7op0mi2dLYofCESSHAGq134TpU9pGszwSm1HjwXW_YevL7G#:~:text=ALA%20needs%20to%20be,the%20body%20into%20Eicosapentaenoic).
 ## How much omega 3 and 6 do you need?
 For most macronutrients, the IOM has established an AMDR that suggests an “acceptable” range of intake. The Institute of medicine (now called the National Academy of Medicine, aka the health arm of the National Academy of Sciences) established an adequate intake for omega-3s[^4] (as ALA) of 1.6g for men and 1.1g for women[^1].
+
+# AI suggested related articles
+
+- [[Health risks of veggie veganism\|Health risks of veggie veganism]] (0.53)
+- [[Citations/Maki et al., 2012\|Citations/Maki et al., 2012]] (0.53)
+- [[Do the global poor need nutrients from animal products\|Do the global poor need nutrients from animal products]] (0.51)

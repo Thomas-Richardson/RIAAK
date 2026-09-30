@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/market-shocks-due-to-livestock-farming/","tags":[null,null,null,null,null],"created":"2025-11-11T23:26:12.906+00:00","updated":"2025-11-11T23:26:12.906+00:00"}
+{"dg-publish":true,"permalink":"/market-shocks-due-to-livestock-farming/","tags":["Economics","Health/Disease"],"created":"2025-11-11T23:26:12.906+00:00","updated":"2026-09-30T19:55:02.478+01:00","dg-note-properties":{"tags":["Economics","Health/Disease"],"AI suggested tags":["MFA_Food_Sec","Economics/Jobs","Farming"]}}
 ---
 
 

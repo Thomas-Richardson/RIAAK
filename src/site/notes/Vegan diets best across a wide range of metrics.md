@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vegan-diets-best-across-a-wide-range-of-metrics/","tags":[null,null,null,null],"created":"2025-10-23T17:42:42.004+01:00","updated":"2025-10-30T23:44:53.112+00:00"}
+{"dg-publish":true,"permalink":"/vegan-diets-best-across-a-wide-range-of-metrics/","tags":["Veganism"],"created":"2025-10-23T17:42:42.004+01:00","updated":"2026-09-30T23:02:31.296+01:00","dg-note-properties":{"tags":["Veganism"],"AI suggested tags":["Health/Nutrition","Environment","Veg_Diets"]}}
 ---
 
 
@@ -16,3 +16,10 @@ These notes appear semantically similar based on Smart Connections embeddings:
 - [[Going vegan is good for the environment\|Going vegan is good for the environment]] (similarity: 73.9%)
 - [[Positive health effects of going veggie or vegan\|Positive health effects of going veggie or vegan]] (similarity: 72.3%)
 - [[Citations/Scarborough et al., 2023\|Scarborough et al., 2023]] (similarity: 70.8%)
+
+
+# AI suggested related articles
+
+- [[Citations/Scarborough et al., 2014\|Citations/Scarborough et al., 2014]] (0.74)
+- [[Citations/Scarborough et al., 2023\|Citations/Scarborough et al., 2023]] (0.73)
+- [[Citations/Jayaraman et al., 2026\|Citations/Jayaraman et al., 2026]] (0.73)

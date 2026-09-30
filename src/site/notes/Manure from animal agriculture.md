@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/manure-from-animal-agriculture/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:47.776+01:00","updated":"2025-10-30T23:44:53.790+00:00"}
+{"dg-publish":true,"permalink":"/manure-from-animal-agriculture/","tags":["Environment","Farming"],"created":"2025-10-23T17:42:47.776+01:00","updated":"2026-09-30T23:02:30.423+01:00","dg-note-properties":{"tags":["Environment","Farming"],"AI suggested tags":["Environment/Pollution","Environment/Land","Animal_Feed"]}}
 ---
 
 
@@ -17,7 +17,7 @@ Animal waste/manure management causes [9.5% of all GHG emissions](http://www.fao
 ### It may not be scalable
 It is relatively expensive to extract high quality, easily transportable fertiliser from a wet organic mess. In any case, there wouldn’t be enough to enable us to feed the populations we have now, let alone the population we’ll have in thirty years’ time.
 ## CAFOs produce too much manure to be used effectively
-#factory_farming 
+#Factory_Farming 
 [A previous study of CAFOs in Michigan](Spatiotemporal land use change and environmental degradation surrounding CAFOs in Michigan and North Carolina) found that operators were primarily applying manure within regulatory limits, yet were often applying amounts above crop nutrient needs, indicating that manure is treated as a waste product they need to dispose of, rather than as a valuable fertilizer for crops (Long et al., 2018). Most states regulate CAFO manure applications based on environmental risk or nutrient limits based on crop needs, but these inefficient applications likely occur due to high costs associated with manure hauling (Sims et al., 2005; Centner, 2012), lack of markets due to nutrient ratio variability, as well as presence of pathogens, metals, antibiotics and other undesirable qualities (Ribaudo et al., 2003; Keplinger and Hauck, 2006; Liu et al., 2015; Pepper et al., 2019; Sonne et al., 2019).
 
 [In the UK, in 2021](https://committees.parliament.uk/writtenevidence/39876/pdf/) it was found many operators pay manure brokerage companies to remove the waste as local farms cannot keep up. [Every region in the UK now has more nitrogen than it can absorb](https://www.sustainweb.org/news/jun23-industrial-agriculture-toxic-waste/); regions of England with high concentrations of industrialised indoor-reared livestock have the biggest nitrogen surplus. 40% of total nitrogen comes from livestock manure
@@ -38,3 +38,10 @@ The UK demand for nitrogen is approximately 2 million tonnes and for phosphorus 
 ## Misc
 - In the US Methane emissions from dairy manure management more than doubled from 1990 to 2020, thanks to factory farm waste management practices that can release significantly more methane than pasture-based systems [[Citations/Food and water watch, 2023\|Food and water watch, 2023]]
 - [A study](https://www.sciencedirect.com/science/article/pii/S0959652616321953) of Wisconsin dairy farms found that long term storage of manure produced the greatest level of GHG of all farm sizes studied.
+
+
+# AI suggested related articles
+
+- [[Environmental damage caused by factory farms\|Environmental damage caused by factory farms]] (0.72)
+- [[Water pollution from animal ag\|Water pollution from animal ag]] (0.69)
+- [[Comparing environmental impact of different animal farming systems\|Comparing environmental impact of different animal farming systems]] (0.66)

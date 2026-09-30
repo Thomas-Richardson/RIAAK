@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/malnutrition/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:47.746+01:00","updated":"2025-10-30T23:44:53.784+00:00"}
+{"dg-publish":true,"permalink":"/malnutrition/","tags":["Health/Nutrition","MFA_Food_Sec"],"created":"2025-10-23T17:42:47.746+01:00","updated":"2026-09-30T19:55:02.474+01:00","dg-note-properties":{"tags":["Health/Nutrition","MFA_Food_Sec"],"AI suggested tags":["Lower_Middle_Income_Countries","Food_Security","Animal_Feed"]}}
 ---
 
 
@@ -47,3 +47,9 @@ Additionally [Vitamin D deficiency is a problem in basically every country](http
 [^4]: https://www.semanticscholar.org/paper/Lentil-and-Kale%3A-Complementary-Nutrient-Rich-Whole-Migliozzi-Thavarajah/93b7143efc89ae42945b3f285723d605d22a5883
 [^6]: Stevens, G. A., Beal, T., Mbuya, M. N. N., Luo, H., Neufeld, L. M., Addo, O. Y., Adu-Afarwuah, S., Alayón, S., Bhutta, Z., Brown, K. H., Jefferds, M. E., Engle-Stone, R., Fawzi, W., Hess, S. Y., Johnston, R., Katz, J., Krasevec, J., McDonald, C. M., Mei, Z., … Young, M. F. (2022). Micronutrient deficiencies among preschool-aged children and women of reproductive age worldwide: A pooled analysis of individual-level data from population-representative surveys. The Lancet Global Health, 10(11), e1590–e1599. [https://doi.org/10.1016/S2214-109X(22)00367-9](https://doi.org/10.1016/S2214-109X(22)00367-9
 [^7]: https://ourworldindata.org/micronutrient-deficiency
+
+# AI suggested related articles
+
+- [[Appendices, MFA food security\|Appendices, MFA food security]] (0.75)
+- [[Citations/Li, Yadav & Siddique, 2020\|Citations/Li, Yadav & Siddique, 2020]] (0.75)
+- [[Fauna Connections 2025 - food security\|Fauna Connections 2025 - food security]] (0.72)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-dutch-animal-tax-agreement-and-what-the-uk-can-take-from-it/","tags":[null,null,null,null,"Economics/jobs"],"created":"2025-10-23T17:42:42.961+01:00","updated":"2025-11-06T18:43:07.078+00:00"}
+{"dg-publish":true,"permalink":"/the-dutch-animal-tax-agreement-and-what-the-uk-can-take-from-it/","tags":["Farming","Economics/Jobs"],"created":"2025-10-23T17:42:42.961+01:00","updated":"2026-09-30T19:55:03.489+01:00","dg-note-properties":{"tags":["Farming","Economics/Jobs"],"AI suggested tags":["Environment/GHG","Cows","Environment/Land"]}}
 ---
 
 

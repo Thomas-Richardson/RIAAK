@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tactics-in-practice-the-science-of-making-and-keeping-veg-ns/","tags":["tactics","behaviour_change","research/faunalytics","diet-change","strategy","retention"],"created":"2025-11-11T23:42:24.601+00:00","updated":"2025-12-10T12:56:43.526+00:00"}
+{"dg-publish":true,"permalink":"/tactics-in-practice-the-science-of-making-and-keeping-veg-ns/","tags":["Tactics","Behaviour_Change","Research/Faunalytics","Diet_Change","Strategy","Retention"],"created":"2025-11-11T23:42:24.601+00:00","updated":"2026-09-30T19:55:03.483+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/tactics-in-practice-the-science-of-making-and-keeping-vegans-and-vegetarians/","tags":["Tactics","Behaviour_Change","Research/Faunalytics","Diet_Change","Strategy","Retention"],"AI suggested tags":["Meat/Meat_Reduction","Public_Opinion","Messaging"]}}
 ---
 
 [Photo by Alora Griffiths on Unsplash](https://unsplash.com/photos/woman-eats-burger-bOAI4f9_lBE)

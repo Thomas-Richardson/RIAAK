@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/slow-but-steady-moves-towards-veganism-can-help-the-climate/","tags":[null,null,null,null],"created":"2025-10-23T17:42:42.054+01:00","updated":"2025-10-30T23:44:53.120+00:00"}
+{"dg-publish":true,"permalink":"/slow-but-steady-moves-towards-veganism-can-help-the-climate/","tags":["Environment"],"created":"2025-10-23T17:42:42.054+01:00","updated":"2026-09-30T23:02:31.005+01:00","dg-note-properties":{"tags":["Environment"],"AI suggested tags":["Environment/GHG","Veg_Diets","Diet_Change"]}}
 ---
 
 

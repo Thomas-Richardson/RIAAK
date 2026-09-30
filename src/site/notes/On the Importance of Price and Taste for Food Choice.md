@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/on-the-importance-of-price-and-taste-for-food-choice/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:43.388+01:00","updated":"2025-10-30T23:44:53.431+00:00"}
+{"dg-publish":true,"permalink":"/on-the-importance-of-price-and-taste-for-food-choice/","tags":["Alternative_Proteins","Bryant_Research/Insight","Economics"],"created":"2025-10-23T17:42:43.388+01:00","updated":"2026-09-30T23:02:30.491+01:00","dg-note-properties":{"tags":["Alternative_Proteins","Bryant_Research/Insight","Economics"],"AI suggested tags":["Summer_Survey","Consumer_Research","Bryant_Research"]}}
 ---
 
 

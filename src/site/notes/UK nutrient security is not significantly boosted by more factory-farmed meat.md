@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uk-nutrient-security-is-not-significantly-boosted-by-more-factory-farmed-meat/","tags":["factory_farming","food_security","High_Income_Countries/UK","Health/Nutrition"],"created":"2025-10-23T17:42:47.891+01:00","updated":"2025-12-10T12:59:35.341+00:00"}
+{"dg-publish":true,"permalink":"/uk-nutrient-security-is-not-significantly-boosted-by-more-factory-farmed-meat/","tags":["Factory_Farming","Food_Security","High_Income_Countries/UK","Health/Nutrition"],"created":"2025-10-23T17:42:47.891+01:00","updated":"2026-09-30T23:02:31.273+01:00","dg-note-properties":{"tags":["Factory_Farming","Food_Security","High_Income_Countries/UK","Health/Nutrition"],"Note Type":"undefined","AI suggested tags":["Bryant_Research/Project/CAWF_Food_Sec","UK","Alternative_Proteins"]}}
 ---
 
 The [UK government's 2024 food security report](https://www.gov.uk/government/statistics/united-kingdom-food-security-report-2024/united-kingdom-food-security-report-2024-theme-4-food-security-at-household-level#sub-theme-3-diet-and-nutrition) notes that the UK population is not meeting the [Eatwell Guide (EWG)](https://www.gov.uk/government/publications/the-eatwell-guide) recommendations for fruits vegetables and fibre more generally. In fact, just 7% of the population met fibre recommendations, and 74% were not eating enough fruits and vegetables.
@@ -33,3 +33,9 @@ The UK is primarily deficient in:
 - [[A healthy diet is unaffordable in the UK without meat reduction\|A healthy diet is unaffordable in the UK without meat reduction]]
 - [[Do the global poor need nutrients from animal products\|Do the global poor need nutrients from animal products]]
 - [[Plant based diets and micronutrients\|Plant based diets and micronutrients]]
+
+# AI suggested related articles
+
+- [[The additional UK population that could be supported if we transitioned away from factory farming\|The additional UK population that could be supported if we transitioned away from factory farming]] (0.72)
+- [[CAWF 3 food security planning\|CAWF 3 food security planning]] (0.70)
+- [[Citations/The Future of Food Security in the UK (Conservative Animal Welfare Foundation)\|Citations/The Future of Food Security in the UK (Conservative Animal Welfare Foundation)]] (0.70)

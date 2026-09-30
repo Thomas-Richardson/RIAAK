@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/riaak-faq/","created":"2025-10-23T17:42:42.035+01:00","updated":"2025-10-23T17:42:42.036+01:00"}
+{"dg-publish":true,"permalink":"/riaak-faq/","created":"2025-10-23T17:42:42.035+01:00","updated":"2026-09-30T19:55:03.429+01:00","dg-note-properties":{"tags":null,"Note Type":"RIAAK Admin","AI suggested tags":["Research","Automation","RIAAK_Admin"]}}
 ---
 
 - [[RIAAK Home page\|RIAAK Home page]]

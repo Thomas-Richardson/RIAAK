@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-role-of-small-scale-livestock-in-food-security-in-low-and-middle-income-countries/","tags":[null,null,"Economics/jobs"],"created":"2025-11-06T16:33:01.798+00:00","updated":"2025-11-06T16:33:01.798+00:00"}
+{"dg-publish":true,"permalink":"/the-role-of-small-scale-livestock-in-food-security-in-low-and-middle-income-countries/","tags":["Animal_Feed","MFA_Food_Sec","Economics/Jobs"],"created":"2025-11-06T16:33:01.798+00:00","updated":"2026-09-30T19:55:03.534+01:00","dg-note-properties":{"tags":["Animal_Feed","MFA_Food_Sec","Economics/Jobs"],"Note Type":"undefined","AI suggested tags":["Lower_Middle_Income_Countries","Farming","Food_Security"]}}
 ---
 
 
@@ -30,3 +30,9 @@ A key thing to note is that both studies described above are systematic reviews,
 The most effective food security initiatives are those that primarily help the most food insecure people. However, small-scale livestock farming can fail to meet this standard. Drawing on data from the Indian National Survey Office, [Sarkar, (2020)](https://journals.sagepub.com/doi/epub/10.1177/0973703020923863) argues that for the lower "scheduled" castes (SCs), livestock farming is unlikely to address their food insecurity. This is notable as SCs make up [around 17% of India's population, some 200M people](https://www.gov.uk/government/publications/india-country-policy-and-information-notes/country-policy-and-information-note-religious-minorities-and-scheduled-castes-and-tribes-india-april-2024-accessible), and are almost by definition some of their most disadvantaged. SC livestock farmers are paid lower prices for the same product due to discrimination, and so they gain less from livestock in terms of **Food access**. The survey found that more than 75% of Scheduled Caste members surveyed reported being paid less than market rate for their milk products. They possess lower bargaining power, as they receive less state support, and are less likely to be accepted into agricultural cooperatives. Livestock may also be less profitable because they cannot access good veterinary services. This reduces their **food access further,** as well as **food utilization,** as disease in their livestock renders meat and dairy dangerous to eat or inedible. See [the section](\#the-risk-of-foodborne-illness-from-animal-products) for a detailed discussion of foodborne illness from animal products. The large companies driving the industrialization of India's agriculture play a key role in perpetuating these issues; less than 1% of SC members reported selling their livestock products to processors. 
 
 Of course, this problem is unlikely to be specific to livestock; members of Scheduled Castes may also be paid less for crops they produce. However, this serves to illustrate that benefits from livestock may be culturally dependent, and in this extreme case, not an option for those that are most food insecure.
+
+# AI suggested related articles
+
+- [[Small scale farming for people in LMICS\|Small scale farming for people in LMICS]] (0.83)
+- [[Misc benefits of livestock for people in LMICS\|Misc benefits of livestock for people in LMICS]] (0.75)
+- [[Citations/Blackmore et al 2018\|Citations/Blackmore et al 2018]] (0.74)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proximity-to-caf-os-and-house-prices/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:42.043+01:00","updated":"2025-10-30T23:44:53.119+00:00"}
+{"dg-publish":true,"permalink":"/proximity-to-caf-os-and-house-prices/","tags":["Economics","Factory_Farming"],"created":"2025-10-23T17:42:42.043+01:00","updated":"2026-09-30T23:02:30.907+01:00","dg-note-properties":{"tags":["Economics","Factory_Farming"],"AI suggested tags":["Bryant_Research/Project/CAWF_Hidden_Harms","USA","Health/Disease"]}}
 ---
 
 
@@ -17,3 +17,10 @@ It's not great to simply correlate distance from a CAFO with house values:
 - 
 
 
+
+
+# AI suggested related articles
+
+- [[Does living near a mega farm affect your house price - a UK analysis\|Does living near a mega farm affect your house price - a UK analysis]] (0.82)
+- [[Citations/Kilpatrick, 2015\|Citations/Kilpatrick, 2015]] (0.81)
+- [[Mixed evidence that nearby CAFOs make people sicker\|Mixed evidence that nearby CAFOs make people sicker]] (0.71)

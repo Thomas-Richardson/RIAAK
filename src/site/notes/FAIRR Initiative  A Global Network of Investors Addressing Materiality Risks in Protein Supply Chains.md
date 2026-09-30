@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fairr-initiative-a-global-network-of-investors-addressing-materiality-risks-in-protein-supply-chains/","tags":["Economics/jobs"],"created":"2025-10-29T09:18:32.715+00:00","updated":"2026-01-24T20:23:02.603+00:00"}
+{"dg-publish":true,"permalink":"/fairr-initiative-a-global-network-of-investors-addressing-materiality-risks-in-protein-supply-chains/","tags":["Economics/Jobs"],"created":"2025-10-29T09:18:32.715+00:00","updated":"2026-09-30T19:55:02.346+01:00","dg-note-properties":{"Note Type":"External_Resource","Url":"https://www.fairr.org/engagements","tags":["Economics/Jobs"],"AI suggested tags":["Alternative_Proteins","Food_Security","Economics"]}}
 ---
 
 ## Protein Diversification Engagement Phase 2

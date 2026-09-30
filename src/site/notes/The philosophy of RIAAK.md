@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-philosophy-of-riaak/","tags":["research"],"created":"2025-10-23T17:42:47.233+01:00","updated":"2025-10-30T23:40:02.516+00:00"}
+{"dg-publish":true,"permalink":"/the-philosophy-of-riaak/","tags":["Research"],"created":"2025-10-23T17:42:47.233+01:00","updated":"2026-09-30T19:55:03.528+01:00","dg-note-properties":{"tags":["Research"],"Note Type":"undefined","AI suggested tags":["External_Resource","Research/Methods","Project_Idea"]}}
 ---
 
 - A core problem of researchers these days is managing knowledge: you read so many papers that remembering everything is impossible.
@@ -10,7 +10,7 @@
 	- It allows you to figure out where gaps in your knowledge are.
 ### Organising by tags and links
 - By using tags, I can group notes by topic in a quick but powerful way. Rather than spending ages thinking how I will categorise my knowledge into non-overlapping folders, I can have tags that overlap as much or as little as I like.
-	- Searching by tags allows for quickly identifying all articles on a topic or combination of topics: "What notes do I have on the #economics #factory_farming in #lower_middle_income_countries ?"
+	- Searching by tags allows for quickly identifying all articles on a topic or combination of topics: "What notes do I have on the #Economics #Factory_Farming in #Lower_Middle_Income_Countries ?"
 	- I imagine that eventually AI assistants will be good enough that this will not be necessary.
 - By using links, I can build a web of how ideas and studies relate to each other. 
 	- By clicking from link to link, you can surface along a trail of thought.
@@ -35,3 +35,10 @@ These notes appear semantically similar based on Smart Connections embeddings:
 - [[RIAAK Home page\|RIAAK Home page]] (similarity: 71.6%)
 - [[RIAAK hits 180 notes\|RIAAK hits 180 notes]] (similarity: 69.0%)
 - [[RIAAK FAQ\|RIAAK FAQ]] (similarity: 67.0%)
+
+
+# AI suggested related articles
+
+- [[AGENTS\|AGENTS]] (0.70)
+- [[CLAUDE\|CLAUDE]] (0.60)
+- [[Wild Animal Initiative Research Library\|Wild Animal Initiative Research Library]] (0.56)

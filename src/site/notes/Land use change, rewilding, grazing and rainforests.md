@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/land-use-change-rewilding-grazing-and-rainforests/","tags":[null,null,null],"created":"2025-10-23T17:42:47.985+01:00","updated":"2025-10-30T23:44:53.826+00:00"}
+{"dg-publish":true,"permalink":"/land-use-change-rewilding-grazing-and-rainforests/","tags":["Animal_Feed","Bryant_Research/Project/CAWF_Food_Sec","Environment/Land"],"created":"2025-10-23T17:42:47.985+01:00","updated":"2026-09-30T23:02:30.385+01:00","dg-note-properties":{"tags":["Animal_Feed","Bryant_Research/Project/CAWF_Food_Sec","Environment/Land"],"Note Type":"undefined","AI suggested tags":["UK_Agriculture","Farming","Cattle/Grass_Fed_Cattle"]}}
 ---
 
 

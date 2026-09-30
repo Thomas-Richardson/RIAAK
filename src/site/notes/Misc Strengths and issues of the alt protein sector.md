@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misc-strengths-and-issues-of-the-alt-protein-sector/","tags":["Alternative_Proteins","Alternative_Proteins/Plant_Based"],"created":"2025-10-23T17:42:48.089+01:00","updated":"2025-11-04T12:15:48.468+00:00"}
+{"dg-publish":true,"permalink":"/misc-strengths-and-issues-of-the-alt-protein-sector/","tags":["Alternative_Proteins","Alternative_Proteins/Plant_Based"],"created":"2025-10-23T17:42:48.089+01:00","updated":"2026-09-30T19:55:02.497+01:00","dg-note-properties":{"tags":["Alternative_Proteins","Alternative_Proteins/Plant_Based"],"Note Type":"undefined","AI suggested tags":["Alternative_Proteins/Precision_Fermentation","Alternative_Proteins/Cultivated_Meat","Marketing"]}}
 ---
 
 - [[alt proteins and VC funding\|alt proteins and VC funding]]

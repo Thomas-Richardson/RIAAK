@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/most-fishing-is-unsustainable/","tags":[null,null,null,null],"created":"2025-10-23T17:42:48.083+01:00","updated":"2025-10-30T23:44:53.841+00:00"}
+{"dg-publish":true,"permalink":"/most-fishing-is-unsustainable/","tags":["Fish"],"created":"2025-10-23T17:42:48.083+01:00","updated":"2026-09-30T19:55:02.511+01:00","dg-note-properties":{"tags":["Fish"],"AI suggested tags":["Animal_Feed","Fish/Farmed","Food_Security"]}}
 ---
 
 
@@ -23,4 +23,4 @@ In the [2020 FAO State of Fisheries report](http://www.fao.org/state-of-fisherie
 According to the Intergovernmental Platform on Biodiversity and Ecosystem Services, [55 percent](https://ipbes.net/global-assessment) of the seafloor is affected by industrial fishing, and [66 percent](https://ipbes.net/global-assessment) of the global marine environment has been altered by human actions.
 
 - [This 2024 review](https://www.science.org/doi/10.1126/sciadv.adn9698) from science advanced (unread) seems like an essential read
-	- #food_security 
+	- #Food_Security 

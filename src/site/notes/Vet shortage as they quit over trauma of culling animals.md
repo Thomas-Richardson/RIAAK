@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vet-shortage-as-they-quit-over-trauma-of-culling-animals/","tags":["Economics/jobs"],"created":"2025-11-06T16:38:10.687+00:00","updated":"2025-11-06T16:38:10.687+00:00"}
+{"dg-publish":true,"permalink":"/vet-shortage-as-they-quit-over-trauma-of-culling-animals/","tags":["Economics/Jobs"],"created":"2025-11-06T16:38:10.687+00:00","updated":"2026-09-30T19:55:03.577+01:00","dg-note-properties":{"Note Type":"News Report / Blog","Url":"https://archive.ph/08TKw","tags":["Economics/Jobs"],"AI suggested tags":["Health/Disease","Factory_Farming","Pigs"]}}
 ---
 
 ![vet at a farm with cows](https://www.telegraph.co.uk/content/dam/business/2025/11/05/TELEMMGLPICT000447719893_17623345995890_trans_NvBQzQNjv4BqgsaO8O78rhmZrDxTlQBjdLdu0TL-Cg_AMOUqySXmFgU.jpeg?imwidth=1280)
@@ -37,3 +37,9 @@ Richard Parr, an adviser at the Good Food Institute, which works to enhance prep
 Over a quarter of local authorities are currently not confident in their ability to adequately carry out necessary actions in the event of an outbreak of mass animal disease, such as disposing of animal carcasses and notifying the public.
 
 The report also examined the issue of illegally imported meat. The committee found that border controls to prevent a new disease arriving in the UK were insufficient.
+
+# AI suggested related articles
+
+- [[Labour shortages in the UK agri\|Labour shortages in the UK agri]] (0.58)
+- [[Diseases in farm animals cause economic shocks\|Diseases in farm animals cause economic shocks]] (0.57)
+- [[Podcasts/The Vegan Report/Veterinarians Are Not The Villains. With Dr. Heath, Dr. Zamzow & Dr. Gianni Ep. 48\|Podcasts/The Vegan Report/Veterinarians Are Not The Villains. With Dr. Heath, Dr. Zamzow & Dr. Gianni Ep. 48]] (0.57)

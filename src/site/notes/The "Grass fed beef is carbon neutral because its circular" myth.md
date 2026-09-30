@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-grass-fed-beef-is-carbon-neutral-because-its-circular-myth/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:41.480+01:00","updated":"2025-10-30T23:44:52.954+00:00"}
+{"dg-publish":true,"permalink":"/the-grass-fed-beef-is-carbon-neutral-because-its-circular-myth/","tags":["Environment/GHG","Meat/Beef","Cows"],"created":"2025-10-23T17:42:41.480+01:00","updated":"2026-09-30T23:02:31.058+01:00","dg-note-properties":{"tags":["Environment/GHG","Meat/Beef","Cows"],"AI suggested tags":["Cattle/Grass_Fed_Cattle","Meat/Beef","Environment"]}}
 ---
 
 

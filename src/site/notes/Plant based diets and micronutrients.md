@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/plant-based-diets-and-micronutrients/","tags":["#alternative_proteins","#Health/Nutrition"],"created":"2025-10-23T17:42:42.648+01:00","updated":"2025-11-04T12:13:06.860+00:00"}
+{"dg-publish":true,"permalink":"/plant-based-diets-and-micronutrients/","tags":["Alternative_Proteins","Health/Nutrition"],"created":"2025-10-23T17:42:42.648+01:00","updated":"2026-09-30T19:55:02.537+01:00","dg-note-properties":{"Note Type":"Own Work","tags":["Alternative_Proteins","Health/Nutrition"],"AI suggested tags":["Diet","Review","Citation"]}}
 ---
 
 - [[Citations/Leonard et al., 2024\|Leonard et al., 2024]]: Systematic review of literature between 2011 and 2022. They found that shifts towards environmentally friendly diets (i.e. PB ones) was often associated with lower levels Zinc, Calcium, B12 and Vit D, but higher levels of iron and folate.
@@ -13,3 +13,9 @@
 - [[Bioavailability of protein in veg foods\|Bioavailability of protein in veg foods]]
 - [[Solutions to micronutrient deficiencies in LMICs\|Solutions to micronutrient deficiencies in LMICs]]
 - [Nutritionfacts video](https://nutritionfacts.org/video/is-soy-milk-the-most-nutritious-non-dairy-milk/) arguing (halfway through) that the concept of anti-nutrients is misleading. Sure, these compounds in isolation can have anti-nutrient properties, but we rarely consume enough of them that it is likely to have a clinical effect. Generally, studies do not tend to find significant negative effects of plant foods that contain anti-nutrients. Many of these plant foods, like legumes, contain many other chemicals as well that may simply cancel out the anti-nutrients. There's also some evidence that things thought of as anti-nutrients, like phytates, are actually beneficial for your health because they can inhibit things like cancer.
+
+# AI suggested related articles
+
+- [[Citations/Leonard et al., 2024\|Citations/Leonard et al., 2024]] (0.86)
+- [[Citations/Espinosa et al., 2024\|Citations/Espinosa et al., 2024]] (0.73)
+- [[Citations/Fu et al., 2026\|Citations/Fu et al., 2026]] (0.72)

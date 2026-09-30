@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lots-of-people-live-near-caf-os/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:43.690+01:00","updated":"2025-10-30T23:44:53.489+00:00"}
+{"dg-publish":true,"permalink":"/lots-of-people-live-near-caf-os/","tags":["Factory_Farming","USA"],"created":"2025-10-23T17:42:43.690+01:00","updated":"2026-09-30T23:02:30.394+01:00","dg-note-properties":{"tags":["Factory_Farming","USA"],"AI suggested tags":["Health/Disease","Bryant_Research/Project/CAWF_Hidden_Harms","Pigs"]}}
 ---
 
 
@@ -12,3 +12,9 @@ A Bryant analysis using the UK alnd registry for 2023 and [[Transparent farms\|T
 A 2005 [survey](https://www.ffacoalition.org/blog-posts/environmental-racism-factory-farming) of North Carolina schools revealed that around 37 percent of Black and Brown students, as well as just under half of the students in reduced lunch programs, went to schools located an average of 4.9 miles from industrial pig farms. Schools with higher numbers of white and higher-income students were located farther from factory farms, an average of 10.8 miles away
 
 [[Citations/Simoes et al., 2022\|Simoes et al., 2022]] found that, of the 4M non-urban Dutch, 54.5% lived 500m, 87.3% lived 1km, and 98.8% lived within 2km of a CAFO
+
+# AI suggested related articles
+
+- [[Mixed evidence that nearby CAFOs make people sicker\|Mixed evidence that nearby CAFOs make people sicker]] (0.69)
+- [[Proximity to CAFOs and house prices\|Proximity to CAFOs and house prices]] (0.67)
+- [[Citations/Kilpatrick, 2015\|Citations/Kilpatrick, 2015]] (0.64)

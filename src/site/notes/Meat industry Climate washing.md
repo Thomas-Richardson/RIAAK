@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/meat-industry-climate-washing/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:47.423+01:00","updated":"2026-01-29T18:15:49.315+00:00"}
+{"dg-publish":true,"permalink":"/meat-industry-climate-washing/","tags":["Environment/GHG","Environment/Pollution"],"created":"2025-10-23T17:42:47.423+01:00","updated":"2026-09-30T19:55:02.484+01:00","dg-note-properties":{"tags":["Environment/GHG","Environment/Pollution"],"AI suggested tags":["Cattle/Grass_Fed_Cattle","Meat/Beef","Meat_Industry"]}}
 ---
 
 - [[GWP* is misleading environmental measure\|GWP* is misleading environmental measure]]

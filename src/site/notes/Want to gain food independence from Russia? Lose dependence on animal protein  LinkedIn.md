@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/want-to-gain-food-independence-from-russia-lose-dependence-on-animal-protein-linked-in/","created":"2026-01-29T11:36:03.109+00:00","updated":"2026-01-30T05:14:35.866+00:00"}
+{"dg-publish":true,"permalink":"/want-to-gain-food-independence-from-russia-lose-dependence-on-animal-protein-linked-in/","tags":["Food_Security","Animal_Feed","Meat/Meat_Reduction","Economics"],"created":"2026-01-29T11:36:03.109+00:00","updated":"2026-09-30T19:55:03.579+01:00","dg-note-properties":{"Note Type":"News Report / Blog","Url":"https://www.linkedin.com/pulse/want-gain-food-independency-from-russia-lose-animal-protein-khotin/","tags":["Food_Security","Animal_Feed","Meat/Meat_Reduction","Economics"],"AI suggested tags":["Economics/Jobs","Alternative_Proteins","Environment/Land"]}}
 ---
 
 Want to reduce dependence on Russia's food and agriculture (and gas)?

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/going-vegan-or-vegetarian-many-paths-to-one-goal-faunalytics/","created":"2026-01-28T10:57:58.964+00:00","updated":"2026-01-29T05:00:06.598+00:00"}
+{"dg-publish":true,"permalink":"/citations/going-vegan-or-vegetarian-many-paths-to-one-goal-faunalytics/","tags":["Veg_Diets","Retention","Behaviour_Change","High_Income_Countries/USA"],"created":"2026-01-28T10:57:58.964+00:00","updated":"2026-09-30T19:55:01.631+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/going-veg-many-paths/","tags":["Veg_Diets","Retention","Behaviour_Change","High_Income_Countries/USA"],"Year Published":"2021","AI suggested tags":["Consumer_Research","Psychology","Meat/Meat_Reduction"]}}
 ---
 
 ### Background

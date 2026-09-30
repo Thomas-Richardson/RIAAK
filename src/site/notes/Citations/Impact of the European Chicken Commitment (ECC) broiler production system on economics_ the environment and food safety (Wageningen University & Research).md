@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/impact-of-the-european-chicken-commitment-ecc-broiler-production-system-on-economics-the-environment-and-food-safety-wageningen-university-and-research/","created":"2026-01-16T12:12:49.853+00:00","updated":"2026-01-16T12:12:49.854+00:00"}
+{"dg-publish":true,"permalink":"/citations/impact-of-the-european-chicken-commitment-ecc-broiler-production-system-on-economics-the-environment-and-food-safety-wageningen-university-and-research/","tags":["Chickens","Economics/Costs","Environment","EU"],"created":"2026-01-16T12:12:49.853+00:00","updated":"2026-09-30T19:55:01.699+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Chickens","Economics/Costs","Environment","EU"],"source_url":"https://edepot.wur.nl/698861","created":"2026-01-16","AI suggested tags":["Economics","Bryant/Project/CAWF_Hidden_Harms","Animal_Feed"]}}
 ---
 
 

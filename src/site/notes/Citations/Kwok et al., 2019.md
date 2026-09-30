@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/kwok-et-al-2019/","tags":[null,null,null,null,null,null,null,null,null],"created":"2025-10-23T17:42:46.140+01:00","updated":"2025-10-30T23:44:54.177+00:00"}
+{"dg-publish":true,"permalink":"/citations/kwok-et-al-2019/","tags":["Alternative_Proteins","Citation","Dairy","Eggs","Health/Nutrition","Meat"],"created":"2025-10-23T17:42:46.140+01:00","updated":"2026-09-30T22:10:52.580+01:00","dg-note-properties":{"tags":["Alternative_Proteins","Citation","Dairy","Eggs","Health/Nutrition","Meat"],"AI suggested tags":["Nuts","Meat/Red_Meat","Diet"]}}
 ---
 
 
@@ -44,3 +44,9 @@ Combined the results of 17 reviews (!) on the link between various food groups a
 Soy products as compared by highest and lowest consumers showed lower risk of cardiovascular disease (RR 0.83 (0.75-0.93)), which was comparable to the numbers for olive oil 25g per day (0.82)
 
 RR's were inconclusive for eggs (high vs low consumption), RR = 0.97 0.9 - 1.05, and white meat 100g per day RR 1, 0.87-1.15
+
+# AI suggested related articles
+
+- [[Citations/Schwingshackl et al., 2017a\|Citations/Schwingshackl et al., 2017a]] (0.78)
+- [[Citations/Neuenschwander et al., 2023\|Citations/Neuenschwander et al., 2023]] (0.76)
+- [[plant based diets and CVD\|plant based diets and CVD]] (0.75)

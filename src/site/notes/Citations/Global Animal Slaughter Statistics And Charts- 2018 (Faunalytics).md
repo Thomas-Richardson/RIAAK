@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/global-animal-slaughter-statistics-and-charts-2018-faunalytics/","created":"2026-01-28T11:02:38.513+00:00","updated":"2026-01-29T05:00:06.644+00:00"}
+{"dg-publish":true,"permalink":"/citations/global-animal-slaughter-statistics-and-charts-2018-faunalytics/","tags":["Factory_Farming","Meat_Industry","Meat/Meat_Consumption"],"created":"2026-01-28T11:02:38.513+00:00","updated":"2026-09-30T19:55:01.624+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/global-animal-slaughter-statistics-and-charts-2018/","tags":["Factory_Farming","Meat_Industry","Meat/Meat_Consumption"],"Year Published":"2018","AI suggested tags":["USA","Farming","Animal_Welfare"]}}
 ---
 
 Worldwide, more than 70 billion land animals are killed for food every year. Our series of charts based on United Nations data shows the trends by type of animal.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/latunde-dada-et-al-2023/","tags":["Health/Nutrition","Alternative_Proteins/Plant_Based"],"created":"2025-10-23T17:42:45.281+01:00","updated":"2025-11-05T15:19:10.170+00:00"}
+{"dg-publish":true,"permalink":"/citations/latunde-dada-et-al-2023/","tags":["Health/Nutrition","Alternative_Proteins/Plant_Based"],"created":"2025-10-23T17:42:45.281+01:00","updated":"2026-09-30T19:55:01.763+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.mdpi.com/2072-6643/15/12/2732","tags":["Health/Nutrition","Alternative_Proteins/Plant_Based"],"Year Published":"2023","AI suggested tags":["Review","Citation","Meat"]}}
 ---
 
 Increasing numbers of individuals follow plant-based diets. This has sparked interest in the nutritional evaluation of the meat substitute sector. Nutritional understanding of these products is vital as plant-based eating becomes more common. For example, animal products are rich sources of iron and zinc, and plant-based foods could be inadequate in these minerals. 
@@ -13,3 +13,9 @@ The content of minerals varied significantly amongst the burgers. Significantly 
 - [[Citations/Lindberg et al., 2024\|Lindberg et al., 2024]]
 - [[Citations/Haider et al., 2017\|Haider et al., 2017]]
 - [[Bioavailability of protein in veg foods\|Bioavailability of protein in veg foods]]
+
+# AI suggested related articles
+
+- [[Citations/Fu et al., 2026\|Citations/Fu et al., 2026]] (0.73)
+- [[Citations/Zaidi et al., 2025\|Citations/Zaidi et al., 2025]] (0.69)
+- [[Citations/Gouela et al., 2025\|Citations/Gouela et al., 2025]] (0.68)

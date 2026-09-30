@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/increasing-donations-through-appeal-types-exposure-and-donor-characteristics-faunalytics/","created":"2026-01-28T11:00:38.265+00:00","updated":"2026-01-29T05:00:06.393+00:00"}
+{"dg-publish":true,"permalink":"/citations/increasing-donations-through-appeal-types-exposure-and-donor-characteristics-faunalytics/","tags":["Messaging","Psychology","Factory_Farming","Companion_Animals"],"created":"2026-01-28T11:00:38.265+00:00","updated":"2026-09-30T19:55:01.704+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/increasing-donations-through-appeal-types-exposure-and-donor-characteristics/","tags":["Messaging","Psychology","Factory_Farming","Companion_Animals"],"Year Published":"2019","AI suggested tags":["Public_Opinion","Research/Methods","Behaviour_Change"]}}
 ---
 
 Faunalytics’ experiment investigated whether messages and donor characteristics can increase donations to farmed and companion animals.

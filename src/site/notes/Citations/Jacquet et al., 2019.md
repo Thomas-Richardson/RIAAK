@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/jacquet-et-al-2019/","tags":["fish","sentience"],"created":"2025-10-26T17:15:29.409+00:00","updated":"2025-10-26T17:15:29.490+00:00"}
+{"dg-publish":true,"permalink":"/citations/jacquet-et-al-2019/","tags":["Fish","Sentience"],"created":"2025-10-26T17:15:29.409+00:00","updated":"2026-09-30T19:55:01.728+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.wellbeingintlstudiesrepository.org/animsent/vol4/iss26/19/","tags":["Fish","Sentience"],"Year Published":"2019","AI suggested tags":["Crustaceans","Insects","Shrimp"]}}
 ---
 
 Mather is convincing about octopuses having ‘a controlling mind, motivated to gather information,’ but stops short of asking what having that mind means for octopus moral standing. One consequence of understanding the octopus mind should be a refusal to subject octopuses to mass production. Octopus farming is in an experimental phase and supported by various countries. We argue that it is unethical because of concerns about animal welfare as well as environmental impacts.

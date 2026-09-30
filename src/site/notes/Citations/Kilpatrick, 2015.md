@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/kilpatrick-2015/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:45.653+01:00","updated":"2025-10-30T23:44:54.122+00:00"}
+{"dg-publish":true,"permalink":"/citations/kilpatrick-2015/","tags":["Citation","Economics","Factory_Farming"],"created":"2025-10-23T17:42:45.653+01:00","updated":"2026-09-30T22:10:52.577+01:00","dg-note-properties":{"tags":["Citation","Economics","Factory_Farming"],"AI suggested tags":["USA","Bryant/Project/CAWF_Hidden_Harms","Health/Disease"]}}
 ---
 
 
@@ -14,6 +14,12 @@ reviews studies of how proximity to CAFOs reduces house prices, also studies of 
 Overall, the new studies confirm the valuation impacts reported in earlier studies, as they range from 3.1% to 26% loss depending on multiple factors, and that properties
 immediately abutting an AO can be diminished as much as 88%.
 
-![Pasted image 20240627213952.png|700](/img/user/Pasted%20image%2020240627213952.png)
+![Pasted image 20240627213952.png\|700](/img/user/Pasted%20image%2020240627213952.png)
 
 ![Pasted image 20240628134604.png](/img/user/Pasted%20image%2020240628134604.png)
+
+# AI suggested related articles
+
+- [[Does living near a mega farm affect your house price - a UK analysis\|Does living near a mega farm affect your house price - a UK analysis]] (0.70)
+- [[Decreased property values from living near IMPs\|Decreased property values from living near IMPs]] (0.67)
+- [[Lots of people live near CAFOs\|Lots of people live near CAFOs]] (0.64)

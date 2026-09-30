@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/how-many-animals-are-used-in-research-a-deep-look-at-the-united-states-and-canada-faunalytics/","created":"2026-02-11T19:30:14.681+00:00","updated":"2026-02-11T19:30:15.493+00:00"}
+{"dg-publish":true,"permalink":"/citations/how-many-animals-are-used-in-research-a-deep-look-at-the-united-states-and-canada-faunalytics/","tags":["High_Income_Countries/USA","Canada","Policy","Animal_Welfare"],"created":"2026-02-11T19:30:14.681+00:00","updated":"2026-09-30T19:55:01.676+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/how-many-animals-are-used-in-research-a-deep-look-at-the-united-states-canada/","tags":["High_Income_Countries/USA","Canada","Policy","Animal_Welfare"],"Year Published":"2026","AI suggested tags":["Public_Opinion","Research/Methods","Fish"]}}
 ---
 
 In this resource, we explore trends in the number of animals used in research in the United States and Canada, based on data tracked by government and nonprofit agencies for the past several decades.

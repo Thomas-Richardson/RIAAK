@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/growing-a-community-how-to-support-farmed-animal-protection-in-china-faunalytics/","created":"2026-01-28T10:57:22.439+00:00","updated":"2026-01-29T05:00:06.716+00:00"}
+{"dg-publish":true,"permalink":"/citations/growing-a-community-how-to-support-farmed-animal-protection-in-china-faunalytics/","tags":["China","Movement_Building","Movement_Strategy"],"created":"2026-01-28T10:57:22.439+00:00","updated":"2026-09-30T19:55:01.648+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/growing-a-community-farmed-animal-protection-in-china/","tags":["China","Movement_Building","Movement_Strategy"],"Year Published":"2021","AI suggested tags":["Asia","Consumer_Attitudes","Public_Opinion"]}}
 ---
 
 Members of the farmed animal protection community in China provide an overview of the landscape, bottlenecks, and potential growth areas.

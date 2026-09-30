@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/harwatt-and-hayek-2019/","tags":[null,null,null,null,null,null,null],"created":"2025-10-23T17:42:44.331+01:00","updated":"2025-10-30T23:44:53.922+00:00"}
+{"dg-publish":true,"permalink":"/citations/harwatt-and-hayek-2019/","tags":["Environment/GHG","Animal_Feed","Bryant/Project/CAWF_Food_Sec","Citation","Environment/Land","Food_Security","Wild_Animals"],"created":"2025-10-23T17:42:44.331+01:00","updated":"2026-09-30T22:10:52.542+01:00","dg-note-properties":{"tags":["Environment/GHG","Animal_Feed","Bryant/Project/CAWF_Food_Sec","Citation","Environment/Land","Food_Security","Wild_Animals"],"Note Type":"undefined","AI suggested tags":["Farming","Environment_Misc","Cows"]}}
 ---
 
 

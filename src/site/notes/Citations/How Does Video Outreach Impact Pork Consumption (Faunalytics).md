@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/how-does-video-outreach-impact-pork-consumption-faunalytics/","created":"2026-01-28T11:03:00.035+00:00","updated":"2026-01-29T05:00:06.512+00:00"}
+{"dg-publish":true,"permalink":"/citations/how-does-video-outreach-impact-pork-consumption-faunalytics/","tags":["Behaviour_Change","Consumer_Attitudes","High_Income_Countries/USA","Pigs"],"created":"2026-01-28T11:03:00.035+00:00","updated":"2026-09-30T19:55:01.675+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/video-outreach-impact-pork-consumption/","tags":["Behaviour_Change","Consumer_Attitudes","High_Income_Countries/USA","Pigs"],"Year Published":"2018","AI suggested tags":["Meat/Meat_Reduction","Public_Opinion","Consumer_Research"]}}
 ---
 
 A study conducted by Faunalytics and Animal Equality supports the effectiveness of Animal Equality’s video outreach for reducing consumption and shifting attitudes. Over 3,000 people on U.S. college campuses participated in a randomized controlled trial. Participants either watched a video about pig factory farming (on a tablet or via a VR headset) or did not watch a video (the control group). 

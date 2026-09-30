@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/image-and-slogan-message-testing-research-report-animal-think-tank/","created":"2025-10-23T17:42:45.728+01:00","updated":"2025-10-23T17:42:45.729+01:00"}
+{"dg-publish":true,"permalink":"/citations/image-and-slogan-message-testing-research-report-animal-think-tank/","tags":["Messaging","Persuasion","Psychology","Narratives"],"created":"2025-10-23T17:42:45.728+01:00","updated":"2026-09-30T19:55:01.696+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Messaging","Persuasion","Psychology","Narratives"],"source_url":"https://animalthinktank.org.uk/wp-content/uploads/2025/03/Image-testing.pdf","created":"2025-10-23","AI suggested tags":["Public_Opinion","Consumer_Attitudes","Consumer_Research"]}}
 ---
 
 

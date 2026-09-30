@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/haider-et-al-2017/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:44.732+01:00","updated":"2025-10-30T23:44:54.001+00:00"}
+{"dg-publish":true,"permalink":"/citations/haider-et-al-2017/","tags":["Citation","Health/Nutrition","Veganism"],"created":"2025-10-23T17:42:44.732+01:00","updated":"2026-09-30T19:55:01.652+01:00","dg-note-properties":{"tags":["Citation","Health/Nutrition","Veganism"],"AI suggested tags":["Veg_Diets","Review","Legumes"]}}
 ---
 
 
@@ -17,3 +17,9 @@ _Methods_: The databases Pubmed, Scopus, Embase, and Cochrane CentralRegister of
 _Results_: <mark style="background: #FFF3A3A6;">A total of 27 cross-sectional studies and three interventional studies were selected for the systematic review</mark>. The meta-analysis which combined data of 24 cross-sectional studies showed that <mark style="background: #FFF3A3A6;">adult vegetarians have significantly lower serum ferritin levels than their non-vegetarian controls</mark> (−29.71 µg/L, 95% CI [−39.69, −19.73], _p_ < 0.01). Inclusion of semi-vegetarian diets did not change the results considerably (−23.27 µg/L, 95% CI [−29.77, −16.76], _p_ < 0.01). The effects were more pronounced in men (−61.88 µg/L, 95% CI [−85.59, −38.17], _p_ < 0.01) than in both premenopausal women (−17.70 μg/L, 95% CI [−29.80, −5.60], _p_ < 0.01) and all women (−13.50 μg/L, 95% CI [−22.96, −4.04], _p_ < 0.01), respectively.
 
 _Conclusions_: In conclusion our results showed that vegetarians are more likely to have lower iron stores compared with non-vegetarians. However, <mark style="background: #FFF3A3A6;">since high iron stores are also a risk factor for certain non-communicable diseases, such as type 2 diabetes, it is recommended that not only vegetarians but also non-vegetarians should regularly control their iron status</mark> and improve their diet regarding the content and bioavailability of iron by consuming more plants and less meat.
+
+# AI suggested related articles
+
+- [[Citations/Pawlak, Lester and Toyin, 2014\|Citations/Pawlak, Lester and Toyin, 2014]] (0.75)
+- [[Citations/Mariotti and Gardner, 2019\|Citations/Mariotti and Gardner, 2019]] (0.72)
+- [[Citations/Lotti et al., 2025\|Citations/Lotti et al., 2025]] (0.69)

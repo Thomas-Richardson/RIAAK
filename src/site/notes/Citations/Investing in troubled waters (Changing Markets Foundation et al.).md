@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/investing-in-troubled-waters-changing-markets-foundation-et-al/","created":"2025-11-25T15:06:37.950+00:00","updated":"2025-11-25T15:06:37.950+00:00"}
+{"dg-publish":true,"permalink":"/citations/investing-in-troubled-waters-changing-markets-foundation-et-al/","tags":["Fish/Farmed","Financial_Activism","Animal_Feed","Animal_Welfare"],"created":"2025-11-25T15:06:37.950+00:00","updated":"2026-09-30T19:55:01.721+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Fish/Farmed","Financial_Activism","Animal_Feed","Animal_Welfare"],"source_url":"https://changingmarkets.org/wp-content/uploads/2023/10/EXEC-SUMMARY-Investing-in-Troubled-Waters_FINAL.pdf","created":"2025-11-25","AI suggested tags":["Fish","EU","Food_Security"]}}
 ---
 
 

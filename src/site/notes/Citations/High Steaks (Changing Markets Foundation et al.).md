@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/high-steaks-changing-markets-foundation-et-al/","created":"2025-11-25T15:03:07.612+00:00","updated":"2025-11-25T15:03:07.613+00:00"}
+{"dg-publish":true,"permalink":"/citations/high-steaks-changing-markets-foundation-et-al/","tags":["Cows","Environment/GHG","EU","Meat/Meat_Reduction","Policy"],"created":"2025-11-25T15:03:07.612+00:00","updated":"2026-09-30T19:55:01.667+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Cows","Environment/GHG","EU","Meat/Meat_Reduction","Policy"],"source_url":"https://changingmarkets.org/wp-content/uploads/2022/06/High-stakes-Part-1.pdf","created":"2025-11-25","AI suggested tags":["Meat_Industry","Greenwashing","Environment/Land"]}}
 ---
 
 

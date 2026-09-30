@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/going-vegan-or-vegetarian-motivations-and-influences-faunalytics/","created":"2026-01-28T10:56:56.053+00:00","updated":"2026-01-29T05:00:06.578+00:00"}
+{"dg-publish":true,"permalink":"/citations/going-vegan-or-vegetarian-motivations-and-influences-faunalytics/","tags":["Psychology","Veg_Diets","Retention","Behaviour_Change"],"created":"2026-01-28T10:56:56.053+00:00","updated":"2026-09-30T19:55:01.633+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/going-veg-motivations-and-influences/","tags":["Psychology","Veg_Diets","Retention","Behaviour_Change"],"Year Published":"2021","AI suggested tags":["Consumer_Research","Meat/Meat_Reduction","Diet_Change"]}}
 ---
 
 ### **Background**

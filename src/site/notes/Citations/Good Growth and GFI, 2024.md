@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/good-growth-and-gfi-2024/","tags":["asia","lower_middle_income_countries","Bryant/Project/good_growth_social_listening","citation","SE_asia"],"created":"2025-10-23T17:42:46.367+01:00","updated":"2025-11-04T12:12:37.119+00:00"}
+{"dg-publish":true,"permalink":"/citations/good-growth-and-gfi-2024/","tags":["Asia","Lower_Middle_Income_Countries","Bryant/Project/Good_Growth_Social_Listening","Citation","SE_Asia"],"created":"2025-10-23T17:42:46.367+01:00","updated":"2026-09-30T22:10:52.536+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Asia","Lower_Middle_Income_Countries","Bryant/Project/Good_Growth_Social_Listening","Citation","SE_Asia"],"AI suggested tags":["Alternative_Proteins","Alternative_Proteins/Precision_Fermentation","Bryant/Project/Good_Growth_Social_Listening"]}}
 ---
 
 
@@ -33,3 +33,10 @@ Health tended to be the most important factor
 - Malaysia, Singapore, Philippines, and indonesia all have 21-26% of people wanting to reduce non fish seafood
 - 33% of Philippinos want to reduce pork
 - All countries except Vietnam have groups > 24% wanting to reduce beef
+
+
+# AI suggested related articles
+
+- [[Citations/Food Frontier 2023\|Citations/Food Frontier 2023]] (0.83)
+- [[Most asians don't want to reduce meat\|Most asians don't want to reduce meat]] (0.81)
+- [[Food habits in SE Asia\|Food habits in SE Asia]] (0.79)

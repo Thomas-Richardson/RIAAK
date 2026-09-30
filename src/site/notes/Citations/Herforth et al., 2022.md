@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/herforth-et-al-2022/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:46.487+01:00","updated":"2025-10-30T23:44:54.210+00:00"}
+{"dg-publish":true,"permalink":"/citations/herforth-et-al-2022/","tags":["Citation","Economics","Health/Nutrition"],"created":"2025-10-23T17:42:46.487+01:00","updated":"2026-09-30T19:55:01.666+01:00","dg-note-properties":{"tags":["Citation","Economics","Health/Nutrition"],"AI suggested tags":["Economics/Costs","MFA_Food_Sec","Lower_Middle_Income_Countries"]}}
 ---
 
 
@@ -22,3 +22,9 @@ To assess prices and the availability of food, the authors used the World Bank�
 - In many of the world’s poorest countries – particularly across Sub-Saharan Africa – it’s unaffordable (or not producible) for most of the population.
 
 An important question is how subsistence farmers fit in. They _are_ included in these numbers: the income measure used to calculate the affordability of diets does take the value of subsistence farming (i.e. home production) into account. When the FAO report states that these smallholder farmers cannot afford a calorie-sufficient diet, they’re really saying that they cannot _produce_ one.
+
+# AI suggested related articles
+
+- [[Citations/Hirvonen et al., 2019\|Citations/Hirvonen et al., 2019]] (0.78)
+- [[Citations/Springmann et al., 2021\|Citations/Springmann et al., 2021]] (0.68)
+- [[Citations/The Broken Plate 2026 (The Food Foundation)\|Citations/The Broken Plate 2026 (The Food Foundation)]] (0.66)

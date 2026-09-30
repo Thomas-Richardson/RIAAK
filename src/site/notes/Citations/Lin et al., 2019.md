@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/lin-et-al-2019/","tags":["Health/Nutrition","Economics/costs","asia"],"created":"2025-10-23T17:42:44.497+01:00","updated":"2025-11-07T12:25:48.342+00:00"}
+{"dg-publish":true,"permalink":"/citations/lin-et-al-2019/","tags":["Health/Nutrition","Economics/Costs","Asia"],"created":"2025-10-23T17:42:44.497+01:00","updated":"2026-09-30T19:55:01.773+01:00","dg-note-properties":{"tags":["Health/Nutrition","Economics/Costs","Asia"],"Url":"https://www.mdpi.com/2072-6643/11/11/2688","AI suggested tags":["Veg_Diets","Review","Health"]}}
 ---
 
 # Abstract
@@ -10,3 +10,9 @@ Vegetarian diets and lifestyle have been shown to reduce the risk of many chroni
 
 # Related
 - [[]]
+
+# AI suggested related articles
+
+- [[Healthcare cost savings from shifting diets\|Healthcare cost savings from shifting diets]] (0.69)
+- [[Are PB diets cheaper than omni diets\|Are PB diets cheaper than omni diets]] (0.65)
+- [[Citations/Food expenditure and vegetarianism - the mediating role of employment status in more sustainable and economical food choices in Spain (University of Gibraltar et al.)\|Citations/Food expenditure and vegetarianism - the mediating role of employment status in more sustainable and economical food choices in Spain (University of Gibraltar et al.)]] (0.64)

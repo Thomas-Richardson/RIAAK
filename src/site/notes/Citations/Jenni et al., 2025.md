@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/jenni-et-al-2025/","created":"2026-01-28T10:08:51.984+00:00","updated":"2026-01-29T05:00:06.571+00:00"}
+{"dg-publish":true,"permalink":"/citations/jenni-et-al-2025/","tags":["Politics","Public_Opinion","Policy/Food_Policy","Europe"],"created":"2026-01-28T10:08:51.984+00:00","updated":"2026-09-30T19:55:01.735+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.sciencedirect.com/science/article/pii/S2666833525002849?via%3Dihub","tags":["Politics","Public_Opinion","Policy/Food_Policy","Europe"],"Year Published":"2025","AI suggested tags":["Consumer_Attitudes","Consumer_Research","Citation"]}}
 ---
 
 ## Highlights

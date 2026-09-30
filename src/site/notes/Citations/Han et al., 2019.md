@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/han-et-al-2019/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:46.728+01:00","updated":"2025-10-30T23:44:54.234+00:00"}
+{"dg-publish":true,"permalink":"/citations/han-et-al-2019/","tags":["Citation","Health/Nutrition","Meat"],"created":"2025-10-23T17:42:46.728+01:00","updated":"2026-09-30T22:10:52.542+01:00","dg-note-properties":{"tags":["Citation","Health/Nutrition","Meat"],"AI suggested tags":["Meat/Red_Meat","Diet"]}}
 ---
 
 
@@ -25,3 +25,9 @@ Teams of 2 reviewers independently extracted data and assessed risk of bias; 1 r
 <mark style="background: #FFF3A3A6;">Of 118 articles (56 cohorts) with more than 6 million participants, 73 articles were eligible for the dose–response meta-analyses, 30 addressed cancer mortality, and 80 reported cancer incidence. Low-certainty evidence suggested that an intake reduction of 3 servings of unprocessed meat per week was associated with a very small reduction in overall cancer mortality over a lifetime. Evidence of low to very low certainty suggested that each intake reduction of 3 servings of processed meat per week was associated with very small decreases in overall cancer mortality over a lifetime; prostate cancer mortality; and incidence of esophageal, colorectal, and breast cancer.</mark>
 ## Conclusion:
 The possible absolute effects of red and processed meat consumption on cancer mortality and incidence are very small, and the certainty of evidence is low to very low.
+
+# AI suggested related articles
+
+- [[Citations/Farvid et al., 2021\|Citations/Farvid et al., 2021]] (0.83)
+- [[Citations/Wang et al., 2016\|Citations/Wang et al., 2016]] (0.78)
+- [[red and processed  meat and cancer\|red and processed  meat and cancer]] (0.74)

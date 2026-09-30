@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/henderson-and-sampson-2023/","tags":["Economics/costs","Health/Nutrition","veganism"],"created":"2025-10-23T17:42:46.942+01:00","updated":"2025-11-06T09:48:03.468+00:00"}
+{"dg-publish":true,"permalink":"/citations/henderson-and-sampson-2023/","tags":["Economics/Costs","Health/Nutrition","Veganism"],"created":"2025-10-23T17:42:46.942+01:00","updated":"2026-09-30T19:55:01.665+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Economics/Costs","Health/Nutrition","Veganism"],"AI suggested tags":["CAWF_NHS","Health","Citation"]}}
 ---
 
 
@@ -24,3 +24,9 @@ Numerous challenges are associated with estimating the impact of widespread diet
 - [[Citations/Scarborough et al., 2010\|Scarborough et al., 2010]]
 - [[Citations/Reynolds et al., 2022\|Reynolds et al., 2022]]
 - 
+
+# AI suggested related articles
+
+- [[Citations/Scarborough et al., 2010\|Citations/Scarborough et al., 2010]] (0.74)
+- [[Citations/The _2 billion NHS windfall - Why meat reduction matters (Conservative Animal Welfare Foundation)\|Citations/The _2 billion NHS windfall - Why meat reduction matters (Conservative Animal Welfare Foundation)]] (0.74)
+- [[Healthcare cost savings from shifting diets\|Healthcare cost savings from shifting diets]] (0.74)

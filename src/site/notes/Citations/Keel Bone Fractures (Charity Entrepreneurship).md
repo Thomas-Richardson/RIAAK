@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/keel-bone-fractures-charity-entrepreneurship/","created":"2025-10-23T17:42:47.014+01:00","updated":"2025-10-23T17:42:47.015+01:00"}
+{"dg-publish":true,"permalink":"/citations/keel-bone-fractures-charity-entrepreneurship/","tags":["Chickens","Eggs","Corporate_Campaigns","Strategy"],"created":"2025-10-23T17:42:47.014+01:00","updated":"2026-09-30T19:55:01.742+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Chickens","Eggs","Corporate_Campaigns","Strategy"],"source_url":"https://www.aimresearchprogram.com/_files/ugd/370b81_43413046b5b349179b4aed1cd40571a8.pdf","created":"2025-10-23","AI suggested tags":["EU","Policy","Animal_Welfare"]}}
 ---
 
 

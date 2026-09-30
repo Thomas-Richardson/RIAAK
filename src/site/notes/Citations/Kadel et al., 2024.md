@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/kadel-et-al-2024/","tags":[null,null,null,null,null,null,null],"created":"2025-10-23T17:42:45.620+01:00","updated":"2025-10-30T23:44:54.120+00:00"}
+{"dg-publish":true,"permalink":"/citations/kadel-et-al-2024/","tags":["Citation","Bryant/Project/Good_Growth_Social_Listening","Messaging","Veganism"],"created":"2025-10-23T17:42:45.620+01:00","updated":"2026-09-30T22:10:52.575+01:00","dg-note-properties":{"tags":["Citation","Bryant/Project/Good_Growth_Social_Listening","Messaging","Veganism"],"AI suggested tags":["Behaviour_Change","Veg_Diets","Consumer_Research"]}}
 ---
 
 
@@ -26,3 +26,9 @@ Kadel, P., Heist, N., Paulheim, H., & Mata, J. (2024). From Pixels to Palate: Co
 - Their study 3 was also a bit crap: 100 participants and nearly all were vegan or mostly vegan so no wonder they found no effects for liking veganism! 
 
 - [[RIAAK Good Growth Plant based messaging/GG lit review write up\|GG lit review write up]]
+
+# AI suggested related articles
+
+- [[Studies of plant-based diets and social media\|Studies of plant-based diets and social media]] (0.76)
+- [[Citations/Twitter Trends- CageFree, Vegan, AnimalRights, and More (Faunalytics)\|Citations/Twitter Trends- CageFree, Vegan, AnimalRights, and More (Faunalytics)]] (0.67)
+- [[Citations/How To Message Plant-Based Diets And Products In Southeast Asia- A Social Media Analysis (Faunalytics)\|Citations/How To Message Plant-Based Diets And Products In Southeast Asia- A Social Media Analysis (Faunalytics)]] (0.67)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/imports-to-meet-uk-animal-welfare-standards-animal-ask/","created":"2025-10-23T17:42:46.502+01:00","updated":"2025-10-23T17:42:46.503+01:00"}
+{"dg-publish":true,"permalink":"/citations/imports-to-meet-uk-animal-welfare-standards-animal-ask/","tags":["High_Income_Countries/UK","Animal_Welfare","Policy","Strategy"],"created":"2025-10-23T17:42:46.502+01:00","updated":"2026-09-30T19:55:01.701+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.animalask.org/post/imports-to-meet-uk-animal-welfare-standards","tags":["High_Income_Countries/UK","Animal_Welfare","Policy","Strategy"],"Year Published":"2022","AI suggested tags":["EU","UK","Public_Opinion"]}}
 ---
 
 ## OVERVIEW

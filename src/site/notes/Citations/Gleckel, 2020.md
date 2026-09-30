@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/gleckel-2020/","tags":["labelling"],"created":"2025-10-23T17:42:46.380+01:00","updated":"2026-01-06T10:41:24.625+00:00"}
+{"dg-publish":true,"permalink":"/citations/gleckel-2020/","tags":["Policy/Labeling"],"created":"2025-10-23T17:42:46.380+01:00","updated":"2026-09-30T19:55:01.622+01:00","dg-note-properties":{"tags":["Policy/Labeling"],"AI suggested tags":["Plant_Based/Marketing","Report","Consumer_Research"]}}
 ---
 
 
@@ -18,3 +18,9 @@ In response to legislation and enforcement actions, the companies seeking to bri
 This is the first study to address the two empirical questions at the heart of the ongoing, constitutional litigation between companies marketing plant-based foods and the states restricting their labeling practices. First, when companies use words like “beef” and “milk” on products made without animal ingredients, are consumers confused about whether these products come from animals? Second, if companies do not use these words, are consumers more likely to be confused about the taste and function of the plant-based products?  
   
 The study surveyed 155 participants. After answering a series of distractor questions, participants answered questions about various plant-based meat and dairy products, including whether they believed these foods were made from animals/animal products, how well they could imagine what the products taste like, and whether they believed the products could be used for various purposes. The study employed a between-subjects design. One group of participants answered questions about products whose names included terms like “beef,” “butter,” or “bologna”—terms traditionally associated with animal products. The control group answered questions about products that omitted these terms and replaced them with terms such as “veggie” or “spread.”
+
+# AI suggested related articles
+
+- [[Citations/De-loyde et al., 2023\|Citations/De-loyde et al., 2023]] (0.77)
+- [[Citations/BUEC, 2020\|Citations/BUEC, 2020]] (0.76)
+- [[Citations/Institute for Sustainable Futures, 2022\|Citations/Institute for Sustainable Futures, 2022]] (0.74)

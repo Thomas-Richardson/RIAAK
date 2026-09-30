@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/lam-et-al-2016/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:44.638+01:00","updated":"2025-10-30T23:44:53.986+00:00"}
+{"dg-publish":true,"permalink":"/citations/lam-et-al-2016/","tags":["Citation","Factory_Farming","Lower_Middle_Income_Countries"],"created":"2025-10-23T17:42:44.638+01:00","updated":"2026-09-30T19:55:01.759+01:00","dg-note-properties":{"tags":["Citation","Factory_Farming","Lower_Middle_Income_Countries"],"AI suggested tags":["USA","Health/Disease","MFA_Food_Sec"]}}
 ---
 
 
@@ -17,3 +17,9 @@ Lam, Y., Fry, J. P., Hu, E., Kim, B. F., & Nachman, K. E. (2016). Industrial foo
 - <mark style="background: #FFF3A3A6;">Misuse of antibiotic drugs</mark> due to lack of good vets and vet schools
 ## Related
 - [[The consolidation and intensification of farms\|The consolidation and intensification of farms]]
+
+# AI suggested related articles
+
+- [[Citations/Globalizing The Factory Farm - International Organizations And The Spread Of Industrial Animal Agriculture (Faunalytics)\|Citations/Globalizing The Factory Farm - International Organizations And The Spread Of Industrial Animal Agriculture (Faunalytics)]] (0.67)
+- [[Diseases in farm animals cause economic shocks\|Diseases in farm animals cause economic shocks]] (0.67)
+- [[International trade in animal products and feed\|International trade in animal products and feed]] (0.66)

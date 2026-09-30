@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/growing-the-good-changing-markets-foundation-et-al/","created":"2025-11-25T15:02:10.970+00:00","updated":"2025-11-25T15:02:10.971+00:00"}
+{"dg-publish":true,"permalink":"/citations/growing-the-good-changing-markets-foundation-et-al/","tags":["Alternative_Proteins","Environment/Climate_Change","Meat/Meat_Reduction","Policy/Food_Policy"],"created":"2025-11-25T15:02:10.970+00:00","updated":"2026-09-30T19:55:01.651+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Alternative_Proteins","Environment/Climate_Change","Meat/Meat_Reduction","Policy/Food_Policy"],"source_url":"https://changingmarkets.org/wp-content/uploads/2023/10/Growing_the_Good-The_Case_for_Low-Carbon_Transition_in_the_Food_Sector.pdf","created":"2025-11-25","AI suggested tags":["EU","Retailers","Greenwashing"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/how-health-perceptions-shape-plant-based-meat-choices-the-good-food-institute/","created":"2026-01-22T11:08:17.050+00:00","updated":"2026-01-22T11:08:18.222+00:00"}
+{"dg-publish":true,"permalink":"/citations/how-health-perceptions-shape-plant-based-meat-choices-the-good-food-institute/","tags":["Alternative_Proteins/Plant_Based","Consumer_Research","Health/Nutrition","High_Income_Countries/USA"],"created":"2026-01-22T11:08:17.050+00:00","updated":"2026-09-30T19:55:01.688+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://gfi.org/resource/how-health-perceptions-shape-plant-based-meat-choices/","tags":["Alternative_Proteins/Plant_Based","Consumer_Research","Health/Nutrition","High_Income_Countries/USA"],"Year Published":"2026","AI suggested tags":["Alternative_Proteins/Balanced_Proteins","Consumer_Attitudes","Health"]}}
 ---
 
 Research shows that consumers often view health as a key benefit—and a major driver—of plant-based meat purchases. Yet, “healthy” can mean different things to different people. To explore these nuances, we examined U.S. consumers’ health beliefs, needs, and behaviors, then compared them with verified purchase data to uncover opportunities to strengthen plant-based meat’s value proposition.

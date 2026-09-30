@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/good-growth-and-animal-advocacy-africa-2022/","tags":["citation","movement_building"],"created":"2025-10-23T17:42:44.675+01:00","updated":"2025-10-31T14:42:34.579+00:00"}
+{"dg-publish":true,"permalink":"/citations/good-growth-and-animal-advocacy-africa-2022/","tags":["Citation","Movement_Building"],"created":"2025-10-23T17:42:44.675+01:00","updated":"2026-09-30T19:55:01.638+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Citation","Movement_Building"],"AI suggested tags":["Asia","Africa","SE_Asia"]}}
 ---
 
 

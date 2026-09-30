@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/is-vegetarianismveganism-growing-more-partisan-over-time-rethink-priorities/","tags":["veg_diets"],"created":"2025-10-23T17:42:44.450+01:00","updated":"2025-10-23T18:12:10.177+01:00"}
+{"dg-publish":true,"permalink":"/citations/is-vegetarianismveganism-growing-more-partisan-over-time-rethink-priorities/","tags":["Veg_Diets"],"created":"2025-10-23T17:42:44.450+01:00","updated":"2026-09-30T19:55:01.724+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/is-vegetarianism-growing-more-partisan/","tags":["Veg_Diets"],"Year Published":"2020","AI suggested tags":["Consumer_Research","Psychology","Behaviour_Change"]}}
 ---
 
 ## Key Points

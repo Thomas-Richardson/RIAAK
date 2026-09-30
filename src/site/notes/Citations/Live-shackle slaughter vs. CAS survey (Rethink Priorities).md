@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/live-shackle-slaughter-vs-cas-survey-rethink-priorities/","tags":["High_Income_Countries/USA"],"created":"2025-10-23T17:42:44.860+01:00","updated":"2025-12-10T12:59:08.170+00:00"}
+{"dg-publish":true,"permalink":"/citations/live-shackle-slaughter-vs-cas-survey-rethink-priorities/","tags":["High_Income_Countries/USA"],"created":"2025-10-23T17:42:44.860+01:00","updated":"2026-09-30T19:55:01.777+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/live-shackle-slaughter-vs-cas-survey/","tags":["High_Income_Countries/USA"],"Year Published":"2020","AI suggested tags":["Consumer_Attitudes","Public_Opinion","Chickens"]}}
 ---
 
 Rethink Priorities conducted a survey to see how live shackle slaughter resonates with consumers to engender support for reforming this practice. We also tested whether controlled atmosphere systems are a popular alternative.

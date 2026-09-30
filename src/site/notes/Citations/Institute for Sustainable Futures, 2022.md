@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/institute-for-sustainable-futures-2022/","tags":["citation"],"created":"2025-10-23T17:42:45.157+01:00","updated":"2025-10-31T14:43:31.358+00:00"}
+{"dg-publish":true,"permalink":"/citations/institute-for-sustainable-futures-2022/","tags":["Citation"],"created":"2025-10-23T17:42:45.157+01:00","updated":"2026-09-30T19:55:01.713+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Citation"],"AI suggested tags":["Report","Policy/Labeling","Consumer_Research"]}}
 ---
 
 
@@ -25,3 +25,10 @@ Incorrect choices are highly unlikely to occur as a result of misleading labelli
 - 22% of respondents indicated they want to eat more plant-based foods, and reduce the amount of animal products they consume, and
 - 26% of respondents indicated they are likely to substitute a plant-based product for an animal product in the next 12 months.
 
+
+
+# AI suggested related articles
+
+- [[Citations/Report by Surveygoo and Ingredient Communications\|Citations/Report by Surveygoo and Ingredient Communications]] (0.78)
+- [[Citations/BUEC, 2020\|Citations/BUEC, 2020]] (0.76)
+- [[Citations/Gleckel, 2020\|Citations/Gleckel, 2020]] (0.74)

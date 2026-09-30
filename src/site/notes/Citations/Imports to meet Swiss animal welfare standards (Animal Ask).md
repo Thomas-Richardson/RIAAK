@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/imports-to-meet-swiss-animal-welfare-standards-animal-ask/","created":"2025-10-23T17:42:46.146+01:00","updated":"2025-10-23T17:42:46.146+01:00"}
+{"dg-publish":true,"permalink":"/citations/imports-to-meet-swiss-animal-welfare-standards-animal-ask/","tags":["Animal_Welfare","Europe","Law","Policy"],"created":"2025-10-23T17:42:46.146+01:00","updated":"2026-09-30T19:55:01.700+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.animalask.org/post/imports-to-meet-swiss-animal-welfare-standards","tags":["Animal_Welfare","Europe","Law","Policy"],"Year Published":"2021","AI suggested tags":["EU","Strategy","Public_Opinion"]}}
 ---
 
 # Imports to Meet Swiss Animal Welfare Standards — Exact Summary (with key stats)

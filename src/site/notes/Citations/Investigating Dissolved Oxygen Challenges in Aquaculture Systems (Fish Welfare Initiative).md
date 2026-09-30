@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/investigating-dissolved-oxygen-challenges-in-aquaculture-systems-fish-welfare-initiative/","created":"2025-10-26T17:21:26.576+00:00","updated":"2025-10-26T17:21:26.576+00:00"}
+{"dg-publish":true,"permalink":"/citations/investigating-dissolved-oxygen-challenges-in-aquaculture-systems-fish-welfare-initiative/","tags":["Fish/Farmed","Animal_Welfare","Farmers"],"created":"2025-10-26T17:21:26.576+00:00","updated":"2026-09-30T19:55:01.720+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Fish/Farmed","Animal_Welfare","Farmers"],"source_url":"https://files.fwi.fish/Investigating_Dissolved_Oxygen_Challenges_in_Aquaculture_Systems.pdf","created":"2025-10-26","AI suggested tags":["Fish","EU","Animal_Feed"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/global-animal-slaughter-statistics-and-charts-faunalytics/","created":"2026-01-28T10:55:23.197+00:00","updated":"2026-01-29T05:00:06.387+00:00"}
+{"dg-publish":true,"permalink":"/citations/global-animal-slaughter-statistics-and-charts-faunalytics/","tags":["Meat/Meat_Consumption","Chickens","Fish","Cows"],"created":"2026-01-28T10:55:23.197+00:00","updated":"2026-09-30T19:55:01.623+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/global-animal-slaughter-statistics-and-charts/","tags":["Meat/Meat_Consumption","Chickens","Fish","Cows"],"Year Published":"2025","AI suggested tags":["Factory_Farming","USA","Animal_Feed"]}}
 ---
 
 In this resource, updated with the latest available data, we aggregate and explore trends in animal slaughter around the world using UN FAO data tracked since 1960.

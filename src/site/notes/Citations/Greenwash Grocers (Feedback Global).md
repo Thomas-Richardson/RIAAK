@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/greenwash-grocers-feedback-global/","created":"2026-02-20T10:47:55.544+00:00","updated":"2026-02-20T10:47:57.409+00:00"}
+{"dg-publish":true,"permalink":"/citations/greenwash-grocers-feedback-global/","tags":["Greenwashing","Retailers","High_Income_Countries/UK","Environment/Climate_Change","Meat/Meat_Reduction"],"created":"2026-02-20T10:47:55.544+00:00","updated":"2026-09-30T19:55:01.644+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Greenwashing","Retailers","High_Income_Countries/UK","Environment/Climate_Change","Meat/Meat_Reduction"],"source_url":"https://foodrise.org.uk/wp-content/uploads/2023/07/Greenwash-Grocers-Scorecard-Report-July-2023-2.pdf","created":"2026-02-20","AI suggested tags":["Environment/GHG","Meat_Industry","Financial_Activism"]}}
 ---
 
 

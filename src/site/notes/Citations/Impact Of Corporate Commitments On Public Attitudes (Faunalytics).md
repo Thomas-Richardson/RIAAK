@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/impact-of-corporate-commitments-on-public-attitudes-faunalytics/","created":"2026-01-28T11:02:22.270+00:00","updated":"2026-01-29T05:00:06.400+00:00"}
+{"dg-publish":true,"permalink":"/citations/impact-of-corporate-commitments-on-public-attitudes-faunalytics/","tags":["Corporate_Campaigns","Eggs","Consumer_Attitudes","Consumer_Research"],"created":"2026-01-28T11:02:22.270+00:00","updated":"2026-09-30T19:55:01.697+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/impact-of-corporate-commitments-on-public-attitudes/","tags":["Corporate_Campaigns","Eggs","Consumer_Attitudes","Consumer_Research"],"Year Published":"2019","AI suggested tags":["Public_Opinion","Behaviour_Change","Chickens"]}}
 ---
 
 ### Background

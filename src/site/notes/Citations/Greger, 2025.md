@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/greger-2025/","created":"2025-12-29T22:04:39.787+00:00","updated":"2025-12-29T22:04:39.871+00:00"}
+{"dg-publish":true,"permalink":"/citations/greger-2025/","tags":["Alternative_Proteins/Plant_Based","Health/Nutrition","UPF","High_Income_Countries/USA"],"created":"2025-12-29T22:04:39.787+00:00","updated":"2026-09-30T19:55:01.645+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.sciencedirect.com/science/article/pii/S2667268525000440","tags":["Alternative_Proteins/Plant_Based","Health/Nutrition","UPF","High_Income_Countries/USA"],"Year Published":"2025","AI suggested tags":["Meat","Review","Health"]}}
 ---
 
 ## Summary

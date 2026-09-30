@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/how-we-frame-the-problem-affects-public-support-for-animal-freedom-animal-think-tank/","created":"2025-10-23T17:42:46.075+01:00","updated":"2025-10-23T17:42:46.076+01:00"}
+{"dg-publish":true,"permalink":"/citations/how-we-frame-the-problem-affects-public-support-for-animal-freedom-animal-think-tank/","tags":["Messaging","Narratives","Public_Opinion","Consumer_Research"],"created":"2025-10-23T17:42:46.075+01:00","updated":"2026-09-30T19:55:01.683+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Messaging","Narratives","Public_Opinion","Consumer_Research"],"source_url":"https://animalthinktank.org.uk/wp-content/uploads/2025/09/Framing-the-problem.pdf","created":"2025-10-23","AI suggested tags":["Strategy","High_Income_Countries/UK","Meat/Meat_Reduction"]}}
 ---
 
 

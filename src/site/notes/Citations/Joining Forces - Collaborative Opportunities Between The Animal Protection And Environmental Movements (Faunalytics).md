@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/joining-forces-collaborative-opportunities-between-the-animal-protection-and-environmental-movements-faunalytics/","created":"2026-01-28T10:43:24.926+00:00","updated":"2026-01-29T05:00:06.690+00:00"}
+{"dg-publish":true,"permalink":"/citations/joining-forces-collaborative-opportunities-between-the-animal-protection-and-environmental-movements-faunalytics/","tags":["Movement_Strategy","Environment","China","High_Income_Countries/USA"],"created":"2026-01-28T10:43:24.926+00:00","updated":"2026-09-30T19:55:01.736+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/environmental-movement-collaboration/","tags":["Movement_Strategy","Environment","China","High_Income_Countries/USA"],"Year Published":"2024","AI suggested tags":["Public_Opinion","Strategy","SE_Asia"]}}
 ---
 
 This Faunalytics study explores areas of overlap between animal and environmental advocacy and opportunities for our movements to work more closely together.

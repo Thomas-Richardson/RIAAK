@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/globalizing-the-factory-farm-international-organizations-and-the-spread-of-industrial-animal-agriculture-faunalytics/","created":"2026-01-17T14:51:26.626+00:00","updated":"2026-01-17T15:54:22.373+00:00"}
+{"dg-publish":true,"permalink":"/citations/globalizing-the-factory-farm-international-organizations-and-the-spread-of-industrial-animal-agriculture-faunalytics/","tags":["Factory_Farming","Lower_Middle_Income_Countries","Food_Security","Movement_Strategy"],"created":"2026-01-17T14:51:26.626+00:00","updated":"2026-09-30T19:55:01.628+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://osf.io/va8js/files/fy95n","tags":["Factory_Farming","Lower_Middle_Income_Countries","Food_Security","Movement_Strategy"],"Year Published":"2025","AI suggested tags":["Economics/Jobs","Animal_Feed","Farming"]}}
 ---
 
 # Key Findings

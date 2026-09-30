@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/how-do-people-with-animal-companions-and-without-respond-to-movement-communications-animal-think-tank/","created":"2025-10-23T17:42:46.151+01:00","updated":"2025-10-23T17:42:46.156+01:00"}
+{"dg-publish":true,"permalink":"/citations/how-do-people-with-animal-companions-and-without-respond-to-movement-communications-animal-think-tank/","tags":["Messaging","Psychology","Companion_Animals","Narratives"],"created":"2025-10-23T17:42:46.151+01:00","updated":"2026-09-30T19:55:01.686+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Messaging","Psychology","Companion_Animals","Narratives"],"source_url":"https://animalthinktank.org.uk/wp-content/uploads/2025/07/AC-Non-AC-Report-Summary.pdf","created":"2025-10-23","AI suggested tags":["Public_Opinion","Consumer_Attitudes","Strategy"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/hammer-et-al-2025/","created":"2025-10-25T16:23:33.755+01:00","updated":"2025-10-25T16:38:01.129+01:00"}
+{"dg-publish":true,"permalink":"/citations/hammer-et-al-2025/","tags":["Alternative_Proteins/Plant_Based","Health/Nutrition","Environment"],"created":"2025-10-25T16:23:33.755+01:00","updated":"2026-09-30T19:55:01.655+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.sciencedirect.com/science/article/pii/S096399692501974X?dgcid=rss_sd_all","tags":["Alternative_Proteins/Plant_Based","Health/Nutrition","Environment"],"Year Published":"2025","AI suggested tags":["Review","Citation","Alternative_Proteins"]}}
 ---
 
 ## Highlights
@@ -19,3 +19,9 @@ The study uses _one_ single soybean cultivar ("Protéix") and _one_ commercial s
 The authors _admit_ their pilot-scale process failed. Their self-produced intermediate products (SWF, SPC, and SPI) had "substantially" high fat content (15-21%) instead of the <1% industrial target. These are, by the study's own admission, _not_ representative products.
 
 **That said, we'd probably expect the digestability found here to roughly approximate real products**: while the study's _starting_ ingredients were flawed and unrepresentative (with <60% digestibility), the _final_ extruded products ended up in the same place as the commercial reference: **very high digestibility (>95%)**
+
+# AI suggested related articles
+
+- [[Citations/Zaidi et al., 2025\|Citations/Zaidi et al., 2025]] (0.69)
+- [[Citations/Macdonald, 2026\|Citations/Macdonald, 2026]] (0.69)
+- [[Citations/Fu et al., 2026\|Citations/Fu et al., 2026]] (0.67)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/jakobsen-et-al-2011/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:46.669+01:00","updated":"2025-10-30T23:44:54.230+00:00"}
+{"dg-publish":true,"permalink":"/citations/jakobsen-et-al-2011/","tags":["Citation","Fish"],"created":"2025-10-23T17:42:46.669+01:00","updated":"2026-09-30T19:55:01.729+01:00","dg-note-properties":{"tags":["Citation","Fish"],"AI suggested tags":["Diet","Health/Nutrition","Review"]}}
 ---
 
 
@@ -12,3 +12,9 @@ https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/fis
 - [[The small body problem\|The small body problem]]
 
 Fish consumption is the major dietary source of EPA and DHA, which according to rodent experiments may reduce body fat mass and prevent obesity. However, <mark style="background: #FFF3A3A6;">human studies have suggested that fish consumption has no appreciable association with body-weight gain.</mark> We investigated the associations between fish consumption and subsequent change in waist circumference. Sex, age and waist circumference at enrolment were considered as potential effect modifiers. Women and men (<mark style="background: #FFF3A3A6;">n = 89,432</mark>) participating in the European Prospective Investigation into Cancer and Nutrition (EPIC) <mark style="background: #FFF3A3A6;">were followed for a median of 5·5 years</mark>. Mixed-effect linear regression was used to investigate the associations between fish consumption and subsequent change in waist circumference. Among all participants, the average annual change in waist circumference was − 0·01 cm/10 g higher total fish consumption per d (95 % CI − 0·01, 0·00) and − 0·01 cm/10 g higher fatty fish consumption per d (95 % CI − 0·02, − 0·01), after adjustment for potential confounders. Lean fish consumption was not associated with change in waist circumference. Adjustment for potential over- or underestimation of fish consumption measurements did not systematically change the observed associations, but the 95 % CI became slightly wider. The results in subgroups from analyses stratified by sex, age or waist circumference at enrolment were not systematically different. In conclusion, <mark style="background: #FFF3A3A6;">the present study suggests that fish consumption does not prevent increase in waist circumference.</mark>
+
+# AI suggested related articles
+
+- [[Citations/Vergnaud et al., 2010\|Citations/Vergnaud et al., 2010]] (0.58)
+- [[Citations/Schlesinger et al., 2019\|Citations/Schlesinger et al., 2019]] (0.55)
+- [[Citations/Ellinger et al., 2023\|Citations/Ellinger et al., 2023]] (0.55)

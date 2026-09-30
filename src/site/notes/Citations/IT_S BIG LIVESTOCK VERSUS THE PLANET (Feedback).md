@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/it-s-big-livestock-versus-the-planet-feedback/","created":"2026-02-20T10:52:13.998+00:00","updated":"2026-02-20T10:52:14.449+00:00"}
+{"dg-publish":true,"permalink":"/citations/it-s-big-livestock-versus-the-planet-feedback/","tags":["Meat_Industry","Environment/GHG","Financial_Activism","Biodiversity"],"created":"2026-02-20T10:52:13.998+00:00","updated":"2026-09-30T19:55:01.694+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Meat_Industry","Environment/GHG","Financial_Activism","Biodiversity"],"source_url":"https://foodrise.org.uk/wp-content/uploads/2020/04/Feedback-Big-Livestock-versus-the-Planet-Final-April-2020.pdf","created":"2026-02-20","AI suggested tags":["Greenwashing","Environment/Climate_Change","Cows"]}}
 ---
 
 

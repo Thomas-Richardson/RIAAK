@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/independent-office-of-animal-protection-animal-ask/","created":"2025-10-23T17:42:45.416+01:00","updated":"2025-10-23T17:42:45.416+01:00"}
+{"dg-publish":true,"permalink":"/citations/independent-office-of-animal-protection-animal-ask/","tags":["Policy","Institutional_Change","Movement_Strategy"],"created":"2025-10-23T17:42:45.416+01:00","updated":"2026-09-30T19:55:01.706+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.animalask.org/post/independent-office-of-animal-protection","tags":["Policy","Institutional_Change","Movement_Strategy"],"Year Published":"2022","AI suggested tags":["Strategy","Animal_Welfare","Public_Opinion"]}}
 ---
 
 Many animal advocacy organisations around the world are campaigning to establish an Independent Office (or Commissioner) of Animal Protection. What benefits could such an Office bring to the lives of animals? And how could an organisation tell if this campaign is a priority in a particular country?

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/how-to-message-plant-based-diets-and-products-in-southeast-asia-a-social-media-analysis-faunalytics/","created":"2026-01-28T10:56:29.062+00:00","updated":"2026-01-29T05:00:06.637+00:00"}
+{"dg-publish":true,"permalink":"/citations/how-to-message-plant-based-diets-and-products-in-southeast-asia-a-social-media-analysis-faunalytics/","tags":["Alternative_Proteins/Plant_Based","Consumer_Research","Messaging","SE_Asia"],"created":"2026-01-28T10:56:29.062+00:00","updated":"2026-09-30T19:55:01.682+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/plant-based-messaging-in-southeast-asia/","tags":["Alternative_Proteins/Plant_Based","Consumer_Research","Messaging","SE_Asia"],"Year Published":"2025","AI suggested tags":["Asia","Bryant/Project/Good_Growth_Social_Listening","Consumer_Attitudes"]}}
 ---
 
 Southeast Asia is a critical region for animal advocacy, especially for plant-based diet change. This study identifies key audiences there, examines their influences, and pinpoints messages that may resonate best.

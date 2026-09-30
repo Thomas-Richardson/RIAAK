@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/how-meat-free-meal-selection-varies-with-menu-options-an-exploration-rethink-priorities/","tags":["nudging"],"created":"2025-10-23T17:42:46.902+01:00","updated":"2025-10-23T18:12:10.264+01:00"}
+{"dg-publish":true,"permalink":"/citations/how-meat-free-meal-selection-varies-with-menu-options-an-exploration-rethink-priorities/","tags":["Nudging"],"created":"2025-10-23T17:42:46.902+01:00","updated":"2026-09-30T19:55:01.690+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/meat-free-selection-and-menu-options/","tags":["Nudging"],"Year Published":"2023","AI suggested tags":["Meat/Meat_Reduction","Behaviour_Change","Consumer_Research"]}}
 ---
 
 ## Non-technical summary

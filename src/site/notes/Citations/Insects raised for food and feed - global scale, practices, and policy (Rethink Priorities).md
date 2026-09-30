@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/insects-raised-for-food-and-feed-global-scale-practices-and-policy-rethink-priorities/","tags":["animal_feed","insects","policy"],"created":"2025-11-11T23:29:02.657+00:00","updated":"2025-11-11T23:29:02.657+00:00"}
+{"dg-publish":true,"permalink":"/citations/insects-raised-for-food-and-feed-global-scale-practices-and-policy-rethink-priorities/","tags":["Animal_Feed","Insects","Policy"],"created":"2025-11-11T23:29:02.657+00:00","updated":"2026-09-30T19:55:01.710+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/insects-raised-for-food-and-feed/","tags":["Animal_Feed","Insects","Policy"],"Year Published":"2020","AI suggested tags":["Shrimp","Farming","Fish"]}}
 ---
 
 Currently, 1 trillion to 1.2 trillion insects are raised on farms annually for food and animal feed.

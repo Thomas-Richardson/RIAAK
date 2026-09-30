@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/insider-activism-animal-ask/","created":"2025-10-23T17:42:47.097+01:00","updated":"2025-10-23T17:42:47.097+01:00"}
+{"dg-publish":true,"permalink":"/citations/insider-activism-animal-ask/","tags":["Tactics","Institutional_Change","Movement_Strategy","Corporate_Campaigns"],"created":"2025-10-23T17:42:47.097+01:00","updated":"2026-09-30T19:55:01.711+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.animalask.org/post/insider-activism","tags":["Tactics","Institutional_Change","Movement_Strategy","Corporate_Campaigns"],"Year Published":"2024","AI suggested tags":["Strategy","Public_Opinion","Protest"]}}
 ---
 
 Although often seen as outsiders, activists represent values that can be found in all strata of society including the very institutions that are targeted by social movements. Individuals inside these institutions are often faced with uncomfortable moral dilemmas when their values as citizens conflict with their responsibilities at work. While some respond by repressing or compartmentalising these conflicts many will push against the problems in the system from the inside. There have been many instances of these insiders coordinating internal interest groups or cooperating with external organisations to help create change, including within animal advocacy.

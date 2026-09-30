@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/inconsistent-evidence-for-price-substitution-between-butter-and-margarine-a-shallow-review-rethink-priorities/","created":"2025-10-23T17:42:47.066+01:00","updated":"2025-10-23T18:12:10.271+01:00"}
+{"dg-publish":true,"permalink":"/citations/inconsistent-evidence-for-price-substitution-between-butter-and-margarine-a-shallow-review-rethink-priorities/","tags":["Economics","Review","Dairy","Alternative_Proteins/Plant_Based"],"created":"2025-10-23T17:42:47.066+01:00","updated":"2026-09-30T19:55:01.703+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/inconsistent-evidence-for-price-substitution/","tags":["Economics","Review","Dairy","Alternative_Proteins/Plant_Based"],"Year Published":"2023","AI suggested tags":["Meat/Meat_Reduction","Economics/Costs","Consumer_Research"]}}
 ---
 
 ## Executive summary

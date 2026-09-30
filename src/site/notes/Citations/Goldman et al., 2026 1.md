@@ -1,5 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/citations/goldman-et-al-2026-1/","created":"2026-03-03T13:54:56.305+00:00","updated":"2026-03-03T13:54:58.292+00:00"}
+{"dg-publish":true,"permalink":"/citations/goldman-et-al-2026-1/","tags":["Economics/Costs","Plant_Based","Review","Consumer_Attitudes"],"created":"2026-03-03T13:54:56.305+00:00","updated":"2026-09-30T19:55:01.634+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.academia.edu/3067-1345/3/1/10.20935/AcadNutr8137","tags":["Economics/Costs","Plant_Based","Review","Consumer_Attitudes"],"Year Published":"2026","AI suggested tags":["Health/Nutrition","Citation","Veg_Diets"]}}
 ---
 
 Plant-based diets (PBDs) offer substantial health and environmental benefits. However, their adoption remains limited, partly due to perceived high costs. This narrative review synthesizes current evidence on the cost and affordability of PBDs relative to conventional omnivorous diets across three analytical domains: empirical expenditure studies, economic modeling projections, and consumer spending patterns. Evidence from studies published between 2000 and 2025 indicates that whole-food PBDs are generally associated with lower food expenditures than omnivorous diets across diverse geographic contexts. However, results vary by socioeconomic status and reliance on processed plant-based alternatives. Cost reductions are primarily driven by eliminating expensive animal products, with savings often exceeding increased spending on fruits, vegetables, and legumes. Global modeling incorporating health and environmental externalities further demonstrates that PBDs are more cost-effective than current omnivorous diets when external costs are considered. Despite empirical evidence of affordability, consumer misperceptions persist as significant barriers to PBD adoption, particularly in high-income countries where expensive specialty products are more visible and heavily marketed. These findings have critical implications for public health policy and interventions aiming to promote sustainable dietary patterns through education and pricing strategies.
+
+# AI suggested related articles
+
+- [[Citations/Goldman et al., 2026\|Citations/Goldman et al., 2026]] (0.99)
+- [[Citations/Springmann et al., 2021\|Citations/Springmann et al., 2021]] (0.74)
+- [[Citations/Conrad, Drewnowski, & Love, (2023)\|Citations/Conrad, Drewnowski, & Love, (2023)]] (0.74)

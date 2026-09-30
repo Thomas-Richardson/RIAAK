@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/how-much-will-consumers-pay-for-clean-meat-faunalytics/","created":"2026-01-28T11:02:49.818+00:00","updated":"2026-01-29T05:00:06.703+00:00"}
+{"dg-publish":true,"permalink":"/citations/how-much-will-consumers-pay-for-clean-meat-faunalytics/","tags":["Alternative_Proteins/Cultivated_Meat","Consumer_Research","Economics/Costs"],"created":"2026-01-28T11:02:49.818+00:00","updated":"2026-09-30T19:55:01.678+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/how-much-will-consumers-pay-for-clean-meat/","tags":["Alternative_Proteins/Cultivated_Meat","Consumer_Research","Economics/Costs"],"Year Published":"2018","AI suggested tags":["Consumer_Attitudes","Report","Bryant/Insight"]}}
 ---
 
 When people were asked to tell us the most they would be willing to pay for clean meat versions of specific beef, chicken and fish products, about 40% indicated they would be willing to pay more for clean vs. conventional products.

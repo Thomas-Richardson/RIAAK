@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/leonard-et-al-2024/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:46.856+01:00","updated":"2025-10-30T23:44:54.253+00:00"}
+{"dg-publish":true,"permalink":"/citations/leonard-et-al-2024/","tags":["Citation","Health/Nutrition"],"created":"2025-10-23T17:42:46.856+01:00","updated":"2026-09-30T19:55:01.765+01:00","dg-note-properties":{"tags":["Citation","Health/Nutrition"],"AI suggested tags":["Review","Diet","Legumes"]}}
 ---
 
 
@@ -16,3 +16,9 @@ Leonard, U. M., Leydon, C. L., Arranz, E., & Kiely, M. E. (2024). Impact of cons
 ![Pasted image 20240510172400.png](/img/user/Pasted%20image%2020240510172400.png)
 
 - [[Solutions to micronutrient deficiencies in LMICs\|Solutions to micronutrient deficiencies in LMICs]]
+
+# AI suggested related articles
+
+- [[Citations/Espinosa et al., 2024\|Citations/Espinosa et al., 2024]] (0.72)
+- [[Health risks of veggie veganism\|Health risks of veggie veganism]] (0.72)
+- [[Citations/Fu et al., 2026\|Citations/Fu et al., 2026]] (0.71)

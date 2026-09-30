@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/animal-law-podcast-91-so-you-want-to-teach-animal-rights-law/","tags":["Law","Movement_Building","Philosophy"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:03.089+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/alp91/","tags":["Law","Movement_Building","Philosophy"],"Year Published":"2022","AI suggested tags":["High_Income_Countries/USA","Animal_Ethics","Activism"]}}
+---
+
+Today I will be talking to Raffael Fasel and Sean Butler, who are the founders of the Cambridge Center for Animal Rights Law at Cambridge University in the UK. They are doing something quite special — a series of workshops in various parts of the world seeking to help law professors and lawyers, and perhaps some others, develop courses at their universities to teach Animal Rights Law. The next workshop, held in conjunction with Vermont Law School, will be located in Burlington, Vermont in May, 2023, and registration is still open for those who might be interested in attending. But even if that’s not possible for you, I think you will have a lot to learn from this interview about their vision of what Animal Rights Law could be, different approaches that various workshop participants are taking to the topic, and their thoughts about the role of the law in moving the world forward regarding the way animals are seen and treated.
+
+Dr. Raffael Fasel is an Affiliated Lecturer at the Cambridge Law Faculty, a Visiting Scholar & Affiliate at the Center for Law and Philosophy, NYU School of Law, and a SNSF Senior Researcher at the University of Zurich. His main research areas are human and animal rights law and constitutional theory. Together with Dr Sean Butler he co-founded the Cambridge Centre for Animal Rights Law.
+
+🎧 [Listen to this episode](https://www.ourhenhouse.org/alp91/) — *The Animal Law Podcast*, 28 December 2022

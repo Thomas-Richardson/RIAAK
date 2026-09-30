@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/animal-law-podcast-37-justin-marceau-on-the-animal-welfare-act/","tags":["Law","Animal_Welfare","High_Income_Countries/USA"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:03.013+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/animal-law-podcast-37-justin-marceau-on-the-animal-welfare-act/","tags":["Law","Animal_Welfare","High_Income_Countries/USA"],"Year Published":"2018","AI suggested tags":["Companion_Animals","Wild_Animals","Animal_Ethics"]}}
+---
+
+On this episode of the Animal Law Podcast, I’m bringing you something a little different. I speak with Justin Marceau not about a litigated case, but about the Animal Welfare Act and his recent Hastings Law Journal article, “How The Animal Welfare Act Harms Animals”. We talk about the failings of this statute and the suffering that the Act contributes to, despite purporting to do otherwise.
+
+Justin Marceau is a professor of law at the Sturm College of Law at the University of Denver. The focus of his teaching and scholarship includes criminal law, criminal procedure, federal jurisdiction, constitutional law, habeas corpus, the death penalty, and animal law. He also holds what is believed to be the first animal law chair in the country, the Animal Legal Defense Fund Professorship. He was honored as the 2016 Vermont Law School Distinguished Scholar in Sustainable Agriculture and Food Systems and spent two weeks in residence at the Vermont Law School. He is actively researching a variety of food and animal law issues in preparation for a variety of courses and articles he hopes to pursue in the future.
+
+🎧 [Listen to this episode](https://www.ourhenhouse.org/animal-law-podcast-37-justin-marceau-on-the-animal-welfare-act/) — *The Animal Law Podcast*, 27 June 2018

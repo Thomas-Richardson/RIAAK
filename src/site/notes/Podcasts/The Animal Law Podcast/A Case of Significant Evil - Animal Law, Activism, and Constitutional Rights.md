@@ -1,0 +1,18 @@
+---
+{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/a-case-of-significant-evil-animal-law-activism-and-constitutional-rights/","tags":["Law","Activism","High_Income_Countries/USA","Veganism"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.954+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/alp128/","tags":["Law","Activism","High_Income_Countries/USA","Veganism"],"Year Published":"2026","AI suggested tags":["Tactics","Animal_Ethics","Companion_Animals"]}}
+---
+
+In this compelling episode, Mariann Sullivan interviews Wayne Hsiung and attorney Steffen Seitz about Wayne’s conviction following animal rescues at factory farms in California. The case hinges on several groundbreaking legal arguments, including the judge’s refusal to allow a necessity defense for rescuing suffering animals, constitutional concerns about the treatment of veganism as a belief system, and First Amendment implications for activist speech.
+
+This episode explores:
+
+- How the denial of a necessity defense prevented jurors from considering evidence of animal suffering that could have justified the rescue actions
+- The legal argument that ethical veganism should receive First Amendment protection when it functions as a core belief system similar to a religion
+- The constitutional problems with California’s overly broad “aiding and abetting” statute when applied to protected speech
+- The growing support from prominent legal scholars and organizations like the ACLU, signaling a potential shift in how animal advocacy is viewed in legal circles
+
+Wayne Hsiung is an animal rights lawyer, former faculty member at Northwestern School of Law, and co-founder of The Simple Heart Initiative. He has led teams that have investigated and rescued animals from factory farms and slaughterhouses across the globe and has organized successful campaigns to ban fur in San Francisco and California. He served as lead counsel (and, sometimes, defendant) in five “right to rescue” trials in which activists were prosecuted after being charged for giving aid to sick and dying animals, garnering media attention from The New York Times. He is also a co-founder and former lead organizer of the grassroots animal rights network Direct Action Everywhere. Wayne’s work has been covered by WIRED, ABC’s Nightline, and on The Ezra Klein Show. He has published on the right to rescue in Harvard Law Review and climate change’s impact on animals in the University of Pennsylvania Law Review. Prior to his work as an animal advocate, Wayne practiced law at two national firms and studied law and economics at the University of Chicago, where he was an Olin Law and Economics Fellow, and at the Massachusetts Institute of Technology, where he was awarded a National Science Foundation Graduate Fellowship. He is the proud parent of Oliver, who was rescued from the dog meat trade. Follow his work at simpleheart.org.
+
+Steffen Seitz is a litigation fellow for the Animal Activist Legal Defense Project where he represents animal advocates and whistleblowers in a variety of proceedings and conducts academic research. Steffen graduated from Yale Law School in May 2023. As a law student, Steffen was a member of the Yale Animal Law Society and a Law Ethics and Animal Program Student Fellow. He also worked as a legal extern on animal activist cases, particularly those involving the right to rescue. Steffen is interested in criminal law, animal law, social movements, and their intersections.
+
+🎧 [Listen to this episode](https://www.ourhenhouse.org/alp128/) — *The Animal Law Podcast*, 30 January 2026

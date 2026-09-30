@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/animal-law-podcast-38-the-case-of-the-missing-facebook-comments/","tags":["Law","Companion_Animals","High_Income_Countries/USA"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:03.014+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/animal-law-podcast-38-the-case-of-the-missing-facebook-comments/","tags":["Law","Companion_Animals","High_Income_Countries/USA"],"Year Published":"2018","AI suggested tags":["Activism","Geese","Wild_Animals"]}}
+---
+
+On this episode of the Animal Law Podcast, I’m so pleased to welcome back Gabriel Walters, Counsel and Manager of Legislative Affairs for the People for the Ethical Treatment of Animals (PETA) Foundation, where he contributes to PETA’s efforts to pass legislation and win court cases that help animals. Joining us will be PETA Research Associate Jeremy Beckham, who will be providing his expertise on the facts of a very intriguing case.
+
+If you listened to the interview with Alka Chandna on Episode 392 of the Our Hen House podcast you are already familiar with some of the underlying facts of the years of research that has been and continues to be performed on golden retrievers at Texas A&M University that is purported to be related to muscular dystrophy. In the lawsuit we will be discussing today, PETA is suing the university, which is a public, government-funded, university, for what it asserts are violations of the First Amendment in shutting out all comments on the University’s Facebook page regarding the research. What a fascinating topic! You do not want to miss this interview!
+
+🎧 [Listen to this episode](https://www.ourhenhouse.org/animal-law-podcast-38-the-case-of-the-missing-facebook-comments/) — *The Animal Law Podcast*, 24 July 2018

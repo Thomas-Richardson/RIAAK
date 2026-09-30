@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/animal-law-podcast-5-peta-v-whole-foods-with-jared-goodman/","tags":["Law","Policy/Labeling","Retailers","High_Income_Countries/USA"],"created":"2026-09-06T06:49:41.000+01:00","updated":"2026-09-30T19:55:03.032+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/animal-law-podcast-5-whole-foods-litigation-with-jared-goodman/","tags":["Law","Policy/Labeling","Retailers","High_Income_Countries/USA"],"Year Published":"2015","AI suggested tags":["Activism","Companion_Animals","Animal_Ethics"]}}
+---
+
+Jared Goodman + kitties
+
+Here it is – Episode #5 of the Animal Law Podcast! This brand new episode features Jared Goodman, Director of Litigation for the PETA Foundation, whom I love chatting with, and not only because he is my former student (!). An even better reason is that he has been keeping himself busy causing well-deserved legal trouble for all sorts of animal users and abusers. This week, we will be talking to Jared about PETA’s recent lawsuit against Whole Foods regarding some of the language Whole Foods uses to describe its meat products. When it comes to animals, is Whole Foods the angel or the devil? Or something in between? Regardless of where you come down on that question, we can all agree that they should be telling us the truth, and PETA claims that they’re not. Jared will also be filling us in on what PETA’s recent undercover investigation at a Whole Foods supplier uncovered, and why he believes it provides further support for the lawsuit.
+
+I’ll also be talking about language, the stock in trade of every lawyer, and the sometimes very odd meanings given to words when they apply to animals. What does “sentience” really mean, anyway? Or, when someone says that it was “necessary” to cause an animal to suffer, do they really mean necessary, in any coherent definition of that word? Language can get pretty tricky when people are talking about animals and that can have some major implications for the law.
+
+🎧 [Listen to this episode](https://www.ourhenhouse.org/animal-law-podcast-5-whole-foods-litigation-with-jared-goodman/) — *The Animal Law Podcast*, 28 October 2015

@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/animal-law-podcast-90-the-case-of-costco-s-chickens/","tags":["Chickens","Corporate_Campaigns","High_Income_Countries/USA","Law"],"created":"2026-09-06T06:49:41.000+01:00","updated":"2026-09-30T19:55:03.088+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/alp90/","tags":["Chickens","Corporate_Campaigns","High_Income_Countries/USA","Law"],"Year Published":"2022","AI suggested tags":["Companion_Animals","Activism","Geese"]}}
+---
+
+On this episode, I will be talking to Alene Anello, whose law firm, Legal Impact for Chickens, is pursuing a shareholder derivative case against Costco regarding the treatment of the poor little birds whose bodies end up being their extremely popular, and very cheap, rotisserie chickens. Essentially, in Smith v Vachris, currently pending in Superior Court in King County, Washington, Legal Impact for Chickens is suing Costco’s executives on behalf of two of its shareholders for violating their fiduciary duty to act lawfully by causing the company to neglect chickens. Neglecting animals, including chickens raised for food, is, as we all know, supposed to be against the law but is virtually never brought to court because prosecutors aren’t interested. Well, this case is aiming to do just that in an innovative way. If the last time you heard about shareholder derivative actions was in law school, don’t worry. Alene breaks it all down for us in this fascinating interview.
+
+Alene Anello founded Legal Impact for Chickens, a litigation nonprofit that fights factory-farm cruelty. Alene has degrees from Harvard College and Harvard Law School. She previously worked at PETA, the Animal Legal Defense Fund, and the Good Food Institute.
+
+🎧 [Listen to this episode](https://www.ourhenhouse.org/alp90/) — *The Animal Law Podcast*, 30 November 2022

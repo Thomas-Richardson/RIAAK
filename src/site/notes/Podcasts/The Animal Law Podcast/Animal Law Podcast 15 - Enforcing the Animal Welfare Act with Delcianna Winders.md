@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/animal-law-podcast-15-enforcing-the-animal-welfare-act-with-delcianna-winders/","tags":["Law","High_Income_Countries/USA","Policy"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.983+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/animal-law-podcast-15-enforcing-the-animal-welfare-act-with-delcianna-winders/","tags":["Law","High_Income_Countries/USA","Policy"],"Year Published":"2016","AI suggested tags":["Companion_Animals","Wild_Animals","Activism"]}}
+---
+
+Welcome to the 15th episode of the Animal Law Podcast! Today I am joined by Delcianna J. Winders, who is currently an Academic Fellow of the Harvard Animal Law & Policy Program and who formerly headed up the PETA Foundation‘s Captive Animal Law Enforcement Division. I could not be more excited about this episode, not only because I have known Delci since she was in law school, but also because she has been doing some kick-ass research on one of my favorite topics, the federal Animal Welfare Act.
+
+Among the things I’ll be discussing with Delci are “warnings” and how they are used, or misused, in administrative law. Specifically, when it comes to animals, what exactly does it mean when someone who is licensed by the USDA to keep animals under the Act receives a “warning” that they are not up to snuff? (Spoiler alert: it doesn’t mean much.) She’ll also be talking about why renewals of licenses, even for facilities that have been found in violation of the Act, are simply “rubber-stamped” as A-OK. Is this the way that licensing is supposed to work, or should it be tougher to renew? That’s a question the courts have been struggling with, and Delci will be offering her own opinion on this hotly contested issue.
+
+Delci will also tell us a bit about the Harvard Animal Law and Policy Program, which I know everyone is eager to hear about. All in all, I think it’s safe to say that you’re going to find this episode extremely enlightening.
+
+🎧 [Listen to this episode](https://www.ourhenhouse.org/animal-law-podcast-15-enforcing-the-animal-welfare-act-with-delcianna-winders/) — *The Animal Law Podcast*, 31 August 2016

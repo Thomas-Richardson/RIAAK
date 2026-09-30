@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/animal-law-podcast-108-the-case-of-compelled-dairy-promotion/","tags":["Law","Dairy","Policy/Food_Policy","High_Income_Countries/USA"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.968+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/alp108/","tags":["Law","Dairy","Policy/Food_Policy","High_Income_Countries/USA"],"Year Published":"2024","AI suggested tags":["Geese","Activism","Companion_Animals"]}}
+---
+
+Deborah Dubow Press, an attorney with the Physicians Committee for Responsible Medicine, joins us to talk about Williamson v USDA. This case involves both the Los Angeles school system and the USDA’s school lunch program, which influences what kids are eating in virtually every school in the country. We will be looking at some of its insane rules regarding dairy, why our nation’s kids, including lactose intolerant ones, are basically a dumping ground for dairy, and why one student in Los Angeles wasn’t allowed to talk about any of this without also promoting dairy at the same time. It’s totally nuts!!
+
+Deborah Dubow Press, Esq., is associate general counsel for the Physicians Committee for Responsible Medicine, a nationwide organization of physicians and laypersons that promotes preventive medicine, especially good nutrition, and addresses controversies in modern medicine, including ethical issues in research. As associate general counsel, Ms. Press crafts policy, legislation, and litigation to advance the Physicians Committee’s mission. She also assesses legal, business, and reputational risks and manages compliance and corporate governance for the organization.
+
+🎧 [Listen to this episode](https://www.ourhenhouse.org/alp108/) — *The Animal Law Podcast*, 29 May 2024

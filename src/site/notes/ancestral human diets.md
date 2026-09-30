@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestral-human-diets/","tags":[null],"created":"2025-10-23T17:42:47.751+01:00","updated":"2025-10-30T23:56:19.168+00:00"}
+{"dg-publish":true,"permalink":"/ancestral-human-diets/","tags":[null],"created":"2025-10-23T17:42:47.751+01:00","updated":"2026-09-30T19:55:03.624+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":[null],"AI suggested tags":["citation","Veganism","animal_advocacy"]}}
 ---
 
 

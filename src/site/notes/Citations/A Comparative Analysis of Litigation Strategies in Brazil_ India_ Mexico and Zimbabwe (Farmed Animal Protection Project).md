@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/a-comparative-analysis-of-litigation-strategies-in-brazil-india-mexico-and-zimbabwe-farmed-animal-protection-project/","created":"2026-02-26T15:12:51.895+00:00","updated":"2026-02-26T15:25:54.281+00:00"}
+{"dg-publish":true,"permalink":"/citations/a-comparative-analysis-of-litigation-strategies-in-brazil-india-mexico-and-zimbabwe-farmed-animal-protection-project/","tags":["Law","Factory_Farming","Asia","Africa"],"created":"2026-02-26T15:12:51.895+00:00","updated":"2026-09-30T19:55:01.283+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Law","Factory_Farming","Asia","Africa"],"source_url":"https://law.lclark.edu/live/files/37463-a-comparative-analysis-of-litigation-strategies-in","created":"2026-02-26","AI suggested tags":["Policy","Animal_Welfare","Strategy"]}}
 ---
 
 

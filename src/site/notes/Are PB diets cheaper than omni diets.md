@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/are-pb-diets-cheaper-than-omni-diets/","tags":["Economics/costs"],"created":"2025-10-23T17:42:41.244+01:00","updated":"2025-11-12T15:47:28.353+00:00"}
+{"dg-publish":true,"permalink":"/are-pb-diets-cheaper-than-omni-diets/","tags":["Economics/Costs"],"created":"2025-10-23T17:42:41.244+01:00","updated":"2026-09-30T19:55:01.199+01:00","dg-note-properties":{"tags":["Economics/Costs"],"AI suggested tags":["Health/Nutrition","Economics","Meat"]}}
 ---
 
 - [[Bryant Confidential/CAWF NHS report MOC\|CAWF NHS report MOC]] 
@@ -36,3 +36,9 @@ Miguel Barclay, author of the bestselling 'One Pound Meals' series of cookbooks,
 ## References
 [^7]: Donati, M., Menozzi, D., Zighetti, C., Rosi, A., Zinetti, A., & Scazzina, F. (2016). Towards a sustainable diet combining economic, environmental and nutritional objectives. _Appetite_, _106_, 48-57.
 [^8]: Macdiarmid, J. I., Kyle, J., Horgan, G. W., Loe, J., Fyfe, C., Johnstone, A., & McNeill, G. (2012). Sustainable diets for the future: can we contribute to reducing greenhouse gas emissions by eating a healthy diet?. _The American journal of clinical nutrition_, _96_(3), 632-639.
+
+# AI suggested related articles
+
+- [[Citations/Conrad, Drewnowski, & Love, (2023)\|Citations/Conrad, Drewnowski, & Love, (2023)]] (0.80)
+- [[Citations/Springmann et al., 2021\|Citations/Springmann et al., 2021]] (0.78)
+- [[A healthy diet is unaffordable in the UK without meat reduction\|A healthy diet is unaffordable in the UK without meat reduction]] (0.77)

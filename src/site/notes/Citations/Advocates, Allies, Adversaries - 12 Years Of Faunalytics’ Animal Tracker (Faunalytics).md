@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/advocates-allies-adversaries-12-years-of-faunalytics-animal-tracker-faunalytics/","created":"2026-01-28T11:00:41.816+00:00","updated":"2026-01-29T05:00:06.518+00:00"}
+{"dg-publish":true,"permalink":"/citations/advocates-allies-adversaries-12-years-of-faunalytics-animal-tracker-faunalytics/","tags":["High_Income_Countries/USA","Public_Opinion","Animal_Advocacy","Consumer_Attitudes"],"created":"2026-01-28T11:00:41.816+00:00","updated":"2026-09-30T19:55:01.301+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/advocates-allies-adversaries-12-years-of-faunalytics-animal-tracker/","tags":["High_Income_Countries/USA","Public_Opinion","Animal_Advocacy","Consumer_Attitudes"],"Year Published":"2019","AI suggested tags":["Retention","Research/Methods","Consumer_Research"]}}
 ---
 
 With hundreds of questions and thousands of respondents, we are proud to present our capstone analysis of the Animal Tracker survey of United States' animal attitudes.

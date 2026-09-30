@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cafos-reduce-employment-and-provide-low-quality-jobs/","tags":["factory_farming","Economics/jobs"],"created":"2025-11-11T23:29:31.293+00:00","updated":"2026-01-19T15:50:05.459+00:00"}
+{"dg-publish":true,"permalink":"/cafos-reduce-employment-and-provide-low-quality-jobs/","tags":["Factory_Farming","Economics/Jobs"],"created":"2025-11-11T23:29:31.293+00:00","updated":"2026-09-30T19:55:01.231+01:00","dg-note-properties":{"tags":["Factory_Farming","Economics/Jobs"],"Note Type":"Own Notes","AI suggested tags":["USA","Bryant/Project/CAWF_Hidden_Harms","Farming"]}}
 ---
 
 - [[CAFOs injure and sicken their workers\|CAFOs injure and sicken their workers]]
@@ -49,3 +49,9 @@ One community member gave a particularly harrowing anecdote: “There are worker
 - migrant Strawberry farmers in the UK capture like [7% of the value](https://www.sustainweb.org/reports/jul23-debt-migration-and-exploitation/) of what they produce.
 
 [[Citations/External Costs of Animal Sourced Food in the EU ( Impact Institute, 2023)\|This report]] argues that underpayment of wages due to animal agriculture would cost the EU 10.5B euro a year. This is mostly because of labour abuse outside the EU that goes into growing animal feed consumed by European farm animals.
+
+# AI suggested related articles
+
+- [[Labour shortages in the UK agri\|Labour shortages in the UK agri]] (0.72)
+- [[Citations/Pew Commission, 2008\|Citations/Pew Commission, 2008]] (0.70)
+- [[Industrial animal agriculture is detrimental to the food security of surrounding rural communities\|Industrial animal agriculture is detrimental to the food security of surrounding rural communities]] (0.69)

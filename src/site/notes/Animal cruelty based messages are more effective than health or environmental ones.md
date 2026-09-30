@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/animal-cruelty-based-messages-are-more-effective-than-health-or-environmental-ones/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:43.736+01:00","updated":"2025-10-30T23:59:27.800+00:00"}
+{"dg-publish":true,"permalink":"/animal-cruelty-based-messages-are-more-effective-than-health-or-environmental-ones/","tags":["Environment/GHG","Behaviour_Change","Environment/Land","Environment/Pollution","Health/Nutrition","Persuasion"],"created":"2025-10-23T17:42:43.736+01:00","updated":"2026-09-30T19:55:01.186+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Environment/GHG","Behaviour_Change","Environment/Land","Environment/Pollution","Health/Nutrition","Persuasion"],"AI suggested tags":["Public_Opinion","Meat/Meat_Reduction","Messaging"]}}
 ---
 
 
@@ -25,3 +25,10 @@ However, I'd argue that basically [[A fundamental methodological flaw in the way
 | [**Lai, Tirotto, Pagliaro & Fornara (2020)**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7772136/)                                                     | 198 + 218 Italian adults          | Online simulated shop                   | Both **health-based** and **environment-based** messages increased selection of plant-based alternatives over meat, though no difference between the two was observed.                                                                                                                                                                                                                                                                                                                                         |
 | [**Bryant, Platt, Vultaggio & Dillard (2021)**](https://osf.io/preprints/xs5p7/)<br>See also [[Testing Social Media Advertisements for Animal Advocacy\|Testing Social Media Advertisements for Animal Advocacy]] | 68,634 Facebook users             | Social media ads                        | Advertisements depicting **non-human animal suffering** achieved a CTR (3%) more than twice as high as **health**- (1.4%), or **environment-** (1.2%), or **social-related** (1.2%) ads.                                                                                                                                                                                                                                                                                                                       |
 
+
+
+# AI suggested related articles
+
+- [[Is reducitarian messaging effective\|Is reducitarian messaging effective]] (0.77)
+- [[Citations/Which Narratives Most Effectively Motivate The Base (Animal Think Tank)\|Citations/Which Narratives Most Effectively Motivate The Base (Animal Think Tank)]] (0.71)
+- [[Citations/Mathur et al., 2021\|Citations/Mathur et al., 2021]] (0.71)

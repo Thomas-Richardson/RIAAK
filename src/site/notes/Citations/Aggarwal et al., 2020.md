@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/aggarwal-et-al-2020/","tags":["institutional_change","Health/Nutrition","case_study"],"created":"2025-11-05T15:15:05.346+00:00","updated":"2025-11-05T15:17:19.012+00:00"}
+{"dg-publish":true,"permalink":"/citations/aggarwal-et-al-2020/","tags":["Institutional_Change","Health/Nutrition","Case_Study"],"created":"2025-11-05T15:15:05.346+00:00","updated":"2026-09-30T19:55:01.306+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.sciencedirect.com/science/article/abs/pii/S0002934319307211","tags":["Institutional_Change","Health/Nutrition","Case_Study"],"Year Published":"2020","AI suggested tags":["Review","Veg_Diets","Health"]}}
 ---
 
 ## Abstract
@@ -17,3 +17,9 @@ Poor dietary quality is a leading contributor to mortality in the United States,
 *   These initiatives extend beyond menus to include educational programs, such as outpatient lifestyle medicine clinics, cooking classes, and partnerships with local farmers markets (e.g., Kaiser Permanente).
 *   The report includes sample plant-based menus from hospitals, featuring dishes such as Tofu Scramble, Black Bean Burgers, Lentil Bolognese, and Tofu Vegetable Stir Fry as replacements for traditional meat-based options.
 *   The core argument is that hospitals can use a patient's stay as a "teachable moment" to introduce and model healthful dietary changes that patients can continue after discharge.
+
+# AI suggested related articles
+
+- [[Plant-based hospitals\|Plant-based hospitals]] (0.73)
+- [[Citations/Saldivar et al., 2022\|Citations/Saldivar et al., 2022]] (0.71)
+- [[Citations/Sadler et al., 2025\|Citations/Sadler et al., 2025]] (0.70)

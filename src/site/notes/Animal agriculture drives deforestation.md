@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/animal-agriculture-drives-deforestation/","tags":[null,null],"created":"2025-10-23T17:42:42.382+01:00","updated":"2025-10-30T23:59:27.758+00:00"}
+{"dg-publish":true,"permalink":"/animal-agriculture-drives-deforestation/","tags":["Cows","Environment/Land"],"created":"2025-10-23T17:42:42.382+01:00","updated":"2026-09-30T19:55:01.179+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Cows","Environment/Land"],"AI suggested tags":["Environment_Misc","Biodiversity","Farming"]}}
 ---
 
 

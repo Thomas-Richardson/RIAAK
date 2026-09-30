@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/a-summary-of-faunalytics-study-of-current-and-former-vegetarians-and-vegans-faunalytics/","created":"2026-01-28T11:03:03.520+00:00","updated":"2026-01-29T05:00:06.420+00:00"}
+{"dg-publish":true,"permalink":"/citations/a-summary-of-faunalytics-study-of-current-and-former-vegetarians-and-vegans-faunalytics/","tags":["Veg_Diets","Retention","Consumer_Research","High_Income_Countries/USA"],"created":"2026-01-28T11:03:03.520+00:00","updated":"2026-09-30T19:55:01.286+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/a-summary-of-faunalytics-study-of-current-and-former-vegetarians-and-vegans/","tags":["Veg_Diets","Retention","Consumer_Research","High_Income_Countries/USA"],"Year Published":"2016","AI suggested tags":["Behaviour_Change","Psychology","Meat/Meat_Reduction"]}}
 ---
 
 Our landmark study of lapsed and current vegetarians/vegans is an essential resource for animal advocates. Here we've compiled all of the related reports and resources in one place.

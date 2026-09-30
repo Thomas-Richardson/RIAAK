@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/algae-farming-for-alt-proteins/","tags":[null,"Economics/jobs"],"created":"2025-11-06T16:28:13.296+00:00","updated":"2025-11-06T16:28:13.297+00:00"}
+{"dg-publish":true,"permalink":"/algae-farming-for-alt-proteins/","tags":[null,null],"created":"2025-11-06T16:28:13.296+00:00","updated":"2026-09-30T19:55:03.621+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":[null,null],"AI suggested tags":["tags","suggested","AI"]}}
 ---
 
 

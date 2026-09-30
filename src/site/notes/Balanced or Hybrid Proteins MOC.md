@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/balanced-or-hybrid-proteins-moc/","tags":["Alternative_Proteins/Balanced_Proteins"],"created":"2026-01-15T10:23:12.939+00:00","updated":"2026-01-15T10:28:22.880+00:00"}
+{"dg-publish":true,"permalink":"/balanced-or-hybrid-proteins-moc/","tags":["Alternative_Proteins/Balanced_Proteins"],"created":"2026-01-15T10:23:12.939+00:00","updated":"2026-09-30T19:55:01.211+01:00","dg-note-properties":{"Note Type":"Own Work","tags":["Alternative_Proteins/Balanced_Proteins"],"created":null,"AI suggested tags":["Diet/Flexitarian","Alternative_Proteins","Alternative_Proteins/Plant_Based"]}}
 ---
 
 

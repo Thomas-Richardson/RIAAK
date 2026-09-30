@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/700-to-1-the-funding-ratio-undermining-our-future-food-system/","created":"2025-12-11T08:54:13.461+00:00","updated":"2026-01-23T12:48:40.104+00:00"}
+{"dg-publish":true,"permalink":"/700-to-1-the-funding-ratio-undermining-our-future-food-system/","tags":["Alternative_Proteins","Policy","Economics","Environment/Climate_Change"],"created":"2025-12-11T08:54:13.461+00:00","updated":"2026-09-30T19:55:01.139+01:00","dg-note-properties":{"Note Type":"News Report / Blog","Url":"https://www.claimingsteaks.com/700-to-1-the-funding-ratio-undermining-our-future-food-system/#footnote-1","tags":["Alternative_Proteins","Policy","Economics","Environment/Climate_Change"],"AI suggested tags":["Alternative_Proteins/Precision_Fermentation","Animal_Feed","Food_Security"]}}
 ---
 
 Governments provide more than 700x more funding to animal agriculture than to the alternatives that could replace them. <sup><a href="https://www.claimingsteaks.com/700-to-1-the-funding-ratio-undermining-our-future-food-system/#footnote-1">[1]</a></sup>

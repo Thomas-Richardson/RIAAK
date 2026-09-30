@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/animal-agriculture-takes-up-lots-of-land-but-provide-few-calories/","tags":[null,null,null,"farming"],"created":"2025-10-23T17:42:42.965+01:00","updated":"2025-10-30T23:44:53.242+00:00"}
+{"dg-publish":true,"permalink":"/animal-agriculture-takes-up-lots-of-land-but-provide-few-calories/","tags":["Animal_Feed","Environment/Land","Farming"],"created":"2025-10-23T17:42:42.965+01:00","updated":"2026-09-30T19:55:01.182+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Animal_Feed","Environment/Land","Farming"],"AI suggested tags":["Environment_Misc","MFA_Food_Sec","Cattle/Grass_Fed_Cattle"]}}
 ---
 
 
@@ -14,7 +14,7 @@ The land used to grow crops for people to consume directly (i.e. plant-based foo
 
 If we combine global grazing land with the amount of cropland used for animal feed, livestock accounts for 80% of agricultural land use. The vast majority of the world’s agricultural land is used to raise livestock for meat and dairy. ([Ritchie and Roser, 2019, updated 2024](https://ourworldindata.org/global-land-for-agriculture) ). 
 
-![Pasted image 20240301144143.png|700](/img/user/Pasted%20image%2020240301144143.png)
+![Pasted image 20240301144143.png\|700](/img/user/Pasted%20image%2020240301144143.png)
 
 - Without meat and dairy consumption, global farmland use could be reduced [by more than 75%](https://www.theguardian.com/environment/2018/may/31/avoiding-meat-and-dairy-is-single-biggest-way-to-reduce-your-impact-on-earth) – an area equivalent to the US, China, European Union and Australia combined – and still feed the world ([[Citations/Poore and Nemecek 2018\|Poore and Nemecek 2018]]).
 - Research published in Climactic Change found that substituting beans for beef alone would free up 42% of US cropland[^5]

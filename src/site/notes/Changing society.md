@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/changing-society/","tags":["movement_strategy"],"created":"2026-01-23T12:50:24.294+00:00","updated":"2026-01-23T12:51:47.161+00:00"}
+{"dg-publish":true,"permalink":"/changing-society/","tags":["Movement_Strategy"],"created":"2026-01-23T12:50:24.294+00:00","updated":"2026-09-30T19:55:01.270+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Movement_Strategy"],"created":null,"AI suggested tags":["Corporate_Campaigns","Strategy","Behaviour_Change"]}}
 ---
 
 # One theory of change for the movement

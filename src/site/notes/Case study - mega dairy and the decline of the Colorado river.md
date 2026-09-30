@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/case-study-mega-dairy-and-the-decline-of-the-colorado-river/","tags":[null,null,null,null,null,null,null],"created":"2025-10-23T17:42:43.764+01:00","updated":"2025-10-30T23:44:53.522+00:00"}
+{"dg-publish":true,"permalink":"/case-study-mega-dairy-and-the-decline-of-the-colorado-river/","tags":["Animal_Feed","Case_Study","Dairy","Environment/Pollution","Factory_Farming","High_Income_Countries","USA"],"created":"2025-10-23T17:42:43.764+01:00","updated":"2026-09-30T19:55:01.268+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Animal_Feed","Case_Study","Dairy","Environment/Pollution","Factory_Farming","High_Income_Countries","USA"],"AI suggested tags":["MFA_Food_Sec","Food_Security","Farming"]}}
 ---
 
 
@@ -28,3 +28,9 @@ As of 2022 it was in its 23rd year of drought[^2]
 [^1]: https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az1615.pdf
 [^2]: https://www.usbr.gov/newsroom/#/news-release/4294
 [^3]: https://www.vox.com/science-and-health/23310631/colorado-river-drought-arizona-california-farms
+
+# AI suggested related articles
+
+- [[Food stability for people in LMICs and animal agriculture\|Food stability for people in LMICs and animal agriculture]] (0.62)
+- [[How changing diets in the Global North impact food security across the world\|How changing diets in the Global North impact food security across the world]] (0.61)
+- [[Citations/Gerbens-leenes et al., 2013\|Citations/Gerbens-leenes et al., 2013]] (0.60)

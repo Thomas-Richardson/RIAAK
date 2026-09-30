@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/a-healthy-diet-is-unaffordable-in-the-uk-without-meat-reduction/","tags":["food_security","High_Income_Countries/UK","Meat/meat_reduction","Economics/costs","fruit_veg"],"created":"2025-10-23T17:42:43.503+01:00","updated":"2025-12-10T12:59:34.301+00:00"}
+{"dg-publish":true,"permalink":"/a-healthy-diet-is-unaffordable-in-the-uk-without-meat-reduction/","tags":["Food_Security","High_Income_Countries/UK","Meat/Meat_Reduction","Economics/Costs","Fruit_Veg"],"created":"2025-10-23T17:42:43.503+01:00","updated":"2026-09-30T22:10:52.322+01:00","dg-note-properties":{"tags":["Food_Security","High_Income_Countries/UK","Meat/Meat_Reduction","Economics/Costs","Fruit_Veg"],"Note Type":"Own Work","AI suggested tags":["Bryant/Project/CAWF_Food_Sec","UK"]}}
 ---
 
 # The UK gov's recommended healthy diet is unfeasibly expensive for the poorest
@@ -7,11 +7,11 @@
 # But reducing meat can help
 - Copied from: [[A climate and health friendly diet is affordable for developed countries\|A climate and health friendly diet is affordable for developed countries]]
 	- [[Citations/Hirvonen et al., 2019\|Hirvonen et al., 2019]] Find the [[Citations/EAT Lancet\|EAT Lancet]] is very affordable for developed countries
-	- [[Citations/Springmann et al., 2021\|Springmann et al., 2021]] finds that for most #lower_middle_income_countries,  all healthy and environmentally friendly diets were more expensive than current diets, but that vegan was most affordable
+	- [[Citations/Springmann et al., 2021\|Springmann et al., 2021]] finds that for most #Lower_Middle_Income_Countries,  all healthy and environmentally friendly diets were more expensive than current diets, but that vegan was most affordable
 # Food is not expensive in the UK compared to the rest of the world:
 An analysis by [Bain and company for the national food strategy](https://www.nationalfoodstrategy.org/wp-content/uploads/2021/09/Supplementary-Evidence-BAIN-Company.pdf) found that UK citizens have some of the lowest food bills in the world measured as a % of income, only notably exceeded by the US. 
 
-![Pasted image 20241220003703.png|600](/img/user/Pasted%20image%2020241220003703.png)
+![Pasted image 20241220003703.png\|600](/img/user/Pasted%20image%2020241220003703.png)
 
 # To tackle food affordability, we need cheaper fruits and vegetables, not cheaper meat
 - [[Convert animal feed cropland to growing vegetables for UK nutrition security\|Convert animal feed cropland to growing vegetables for UK nutrition security]]
@@ -26,9 +26,9 @@ According to the [UK Food Standards Agency (FSA)](https://www.food.gov.uk/print/
 
 An [analysis by Systemiq](https://www.nationalfoodstrategy.org/wp-content/uploads/2021/09/Evidence-Impact-of-production-changes-on-food-prices-1.pdf) for the National Food Strategy found that if the UK adopted more nature friendly farming practices such as agroecology or (see slide 39 for description) would not significantly influence prices of UK vegetables, whereas meat products could increase considerable in cost. The price of meat would approach or even exceed that of meat alternatives, and this is not even taking into account decreases in meat alt prices that we'll achieve from scale manufacturing. This means that meat effectively brings 2 food security goals into a conflict that may be difficult to resolve: progress towards net 0 and a flourishing environment may result in painful increases in meat costs. Plant based diets will not have this problem.
 
-![Pasted image 20241220001707.png|700](/img/user/Pasted%20image%2020241220001707.png)
+![Pasted image 20241220001707.png\|700](/img/user/Pasted%20image%2020241220001707.png)
 
-![Pasted image 20241220001954.png|700](/img/user/Pasted%20image%2020241220001954.png)
+![Pasted image 20241220001954.png\|700](/img/user/Pasted%20image%2020241220001954.png)
 
 ![Pasted image 20241220002445.png](/img/user/Pasted%20image%2020241220002445.png)
 

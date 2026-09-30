@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/animal-agriculture-uses-lots-of-water/","tags":[null,null,null],"created":"2025-10-23T17:42:42.135+01:00","updated":"2025-10-30T23:44:53.132+00:00"}
+{"dg-publish":true,"permalink":"/animal-agriculture-uses-lots-of-water/","tags":["Animal_Feed","Environment_Misc","Factory_Farming"],"created":"2025-10-23T17:42:42.135+01:00","updated":"2026-09-30T19:55:01.183+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Animal_Feed","Environment_Misc","Factory_Farming"],"AI suggested tags":["Environment/Pollution","Environment/Land","Farming"]}}
 ---
 
 
-
+reading: https://thegoodfoodinstitute.substack.com/p/food-system-innovation-is-inseparable
 
 - [[Environmental damage caused by factory farms\|Environmental damage caused by factory farms]]
 ## Animal ag uses lots of water
@@ -36,3 +36,9 @@ In the context of agriculture:
 - [[Comparing environmental impact of different animal farming systems\|Comparing environmental impact of different animal farming systems]]
 - [[Animal agro and soil health\|Animal agro and soil health]]
 - [[Animal agriculture drives deforestation\|Animal agriculture drives deforestation]]
+
+# AI suggested related articles
+
+- [[Citations/Gerbens-leenes et al., 2013\|Citations/Gerbens-leenes et al., 2013]] (0.77)
+- [[Water pollution from animal ag\|Water pollution from animal ag]] (0.74)
+- [[Alternative proteins are better for the environment\|Alternative proteins are better for the environment]] (0.66)

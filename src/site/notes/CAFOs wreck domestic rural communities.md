@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/caf-os-wreck-domestic-rural-communities/","tags":[null,null,null,"factory_farming","Economics/jobs",null],"created":"2025-11-11T23:29:29.759+00:00","updated":"2025-11-11T23:29:29.759+00:00"}
+{"dg-publish":true,"permalink":"/caf-os-wreck-domestic-rural-communities/","tags":["Economics","Factory_Farming","Farmers","Economics/Jobs","Pigs"],"created":"2025-11-11T23:29:29.759+00:00","updated":"2026-09-30T19:55:01.237+01:00","dg-note-properties":{"tags":["Economics","Factory_Farming","Farmers","Economics/Jobs","Pigs"],"Note Type":"Own Notes","AI suggested tags":["USA","To_Clean","Farming"]}}
 ---
 
 
@@ -35,3 +35,9 @@
 [^2]: https://www.vox.com/future-perfect/23003487/north-carolina-hog-pork-bacon-farms-environmental-racism-black-residents-pollution-meat-industry
 [^1]: https://www.theguardian.com/environment/2019/mar/09/american-food-giants-swallow-the-family-farms-iowa
 [^4]: https://www.americanimmigrationcouncil.org/news/new-research-reveals-role-immigrants-americas-meat-and-dairy-industries
+
+# AI suggested related articles
+
+- [[Industrial animal agriculture is detrimental to the food security of surrounding rural communities\|Industrial animal agriculture is detrimental to the food security of surrounding rural communities]] (0.82)
+- [[Citations/Pew Commission, 2008\|Citations/Pew Commission, 2008]] (0.80)
+- [[Citations/Food and Water Watch, 2022\|Citations/Food and Water Watch, 2022]] (0.71)

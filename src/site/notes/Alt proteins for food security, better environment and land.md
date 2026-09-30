@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/alt-proteins-for-food-security-better-environment-and-land/","tags":[null,null,null,null,null,"Economics/jobs"],"created":"2025-10-23T17:42:47.731+01:00","updated":"2025-11-06T18:30:30.389+00:00"}
+{"dg-publish":true,"permalink":"/alt-proteins-for-food-security-better-environment-and-land/","tags":["Environment/GHG","Alternative_Proteins","Environment/Land","Food_Security","Lower_Middle_Income_Countries","Economics/Jobs"],"created":"2025-10-23T17:42:47.731+01:00","updated":"2026-09-30T19:55:01.161+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Environment/GHG","Alternative_Proteins","Environment/Land","Food_Security","Lower_Middle_Income_Countries","Economics/Jobs"],"AI suggested tags":["Alternative_Proteins/Precision_Fermentation","Economics","Citation"]}}
 ---
 
 

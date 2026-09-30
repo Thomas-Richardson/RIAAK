@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acceptability-of-farming-practices/","tags":["High_Income_Countries/UK"],"created":"2025-10-23T17:42:43.948+01:00","updated":"2026-01-06T10:39:37.455+00:00"}
+{"dg-publish":true,"permalink":"/acceptability-of-farming-practices/","tags":["High_Income_Countries/UK"],"created":"2025-10-23T17:42:43.948+01:00","updated":"2026-09-30T19:55:01.150+01:00","dg-note-properties":{"Note Type":"News Report / Blog","tags":["High_Income_Countries/UK"],"AI suggested tags":["Consumer_Attitudes","UK","Factory_Farming"]}}
 ---
 
 # Bryant Insight: acceptability of common farming practices UK
@@ -20,3 +20,9 @@ A [2020](https://www.ciwf.org.uk/media/press-releases-statements/88-of-uk-public
 	- The public’s disdain for industrially farmed animals was mainly due to the global pandemic and the concerns it raised about where our food comes from.
 
 [YouGov found in 2020](https://yougov.co.uk/consumer/articles/30305-britain-chlorinated-chicken-US-trade-deal) that the UK public opposes Chlorine washed chicken, chickens treated with hormones and dairy with antibiotics (common in the US)
+
+# AI suggested related articles
+
+- [[Citations/Public Acceptability Of Standard U.S. Animal Agriculture Practices (Faunalytics)\|Citations/Public Acceptability Of Standard U.S. Animal Agriculture Practices (Faunalytics)]] (0.79)
+- [[Awareness of factory farming\|Awareness of factory farming]] (0.77)
+- [[Most people strongly support animal rights\|Most people strongly support animal rights]] (0.75)

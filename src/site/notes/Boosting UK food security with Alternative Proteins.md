@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/boosting-uk-food-security-with-alternative-proteins/","tags":["animal_feed - alternative_proteins - food_security - uk - cawf_food_sec - plant_based_alternative_proteins - Economics/jobs"],"created":"2025-10-23T17:42:43.401+01:00","updated":"2025-11-06T16:59:50.479+00:00"}
+{"dg-publish":true,"permalink":"/boosting-uk-food-security-with-alternative-proteins/","tags":["Animal_Feed","Alternative_Proteins","Food_Security","UK","Bryant/Project/CAWF_Food_Sec","Alternative_Proteins/Plant_Based","Economics/Jobs"],"created":"2025-10-23T17:42:43.401+01:00","updated":"2026-09-30T22:10:52.353+01:00","dg-note-properties":{"tags":["Animal_Feed","Alternative_Proteins","Food_Security","UK","Bryant/Project/CAWF_Food_Sec","Alternative_Proteins/Plant_Based","Economics/Jobs"],"Note Type":"Own Notes","AI suggested tags":["Alternative_Proteins/Precision_Fermentation","Farming","Bryant/Project/CAWF_Food_Sec"]}}
 ---
 
 - [[Convert animal feed cropland to growing vegetables for UK nutrition security\|Convert animal feed cropland to growing vegetables for UK nutrition security]]
@@ -16,3 +16,10 @@ Animal feed is often made from lower quality crops, or in the case of soya, from
 
 The UK is already a huge producer of fava beans as they are used to fix nitrogen in between wheat harvests. As such it requires little change to agricultural land use. Low levels of processing and short shipping could make fava protein cost competitive with imported soy.
 
+
+
+# AI suggested related articles
+
+- [[UK crops and animal feed\|UK crops and animal feed]] (0.84)
+- [[Citations/Appetite for change - why the UK should lead the emerging alternative proteins market (Green Alliance)\|Citations/Appetite for change - why the UK should lead the emerging alternative proteins market (Green Alliance)]] (0.78)
+- [[Citations/The Landworkers’ Alliance, Pasture for Life, Sustain and Hodmedod (2023)\|Citations/The Landworkers’ Alliance, Pasture for Life, Sustain and Hodmedod (2023)]] (0.74)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics-known-for-meat-industry-ties/","tags":["meat_industry"],"created":"2025-10-23T17:42:41.224+01:00","updated":"2026-01-29T18:16:19.953+00:00"}
+{"dg-publish":true,"permalink":"/academics-known-for-meat-industry-ties/","tags":["Meat_Industry"],"created":"2025-10-23T17:42:41.224+01:00","updated":"2026-09-30T19:55:01.149+01:00","dg-note-properties":{"tags":["Meat_Industry"],"Note Type":"Own Notes","AI suggested tags":["Cows","USA","Greenwashing"]}}
 ---
 
 - [[Citations/Morris et al., 2024\|Morris et al., 2024]]

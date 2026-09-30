@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/a-landscape-analysis-of-wild-animal-welfare-rethink-priorities/","tags":["movement_building","wild_animals"],"created":"2025-10-23T17:42:46.631+01:00","updated":"2025-10-23T17:42:46.632+01:00"}
+{"dg-publish":true,"permalink":"/citations/a-landscape-analysis-of-wild-animal-welfare-rethink-priorities/","tags":["Movement_Building","Wild_Animals"],"created":"2025-10-23T17:42:46.631+01:00","updated":"2026-09-30T19:55:01.290+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/a-landscape-analysis-of-wild-animal-welfare/","tags":["Movement_Building","Wild_Animals"],"Year Published":"2024","AI suggested tags":["Strategy","Research/Methods","Animal_Welfare"]}}
 ---
 
 Introductions to wild animal welfare as a moral concern abound, but there is no centralized overview of efforts to help wild animals. Using interviews and publicly available material, we describe the theories of change of five organizations working on wild animal welfare: Wild Animal Initiative, Welfare Footprint, Animal Ethics, Animal Charity Evaluators, and New York University’s (NYU) Wild Animal Welfare program.

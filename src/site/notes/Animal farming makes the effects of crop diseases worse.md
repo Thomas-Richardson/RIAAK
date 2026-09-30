@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/animal-farming-makes-the-effects-of-crop-diseases-worse/","tags":[null,null,null,null],"created":"2025-11-11T23:26:11.191+00:00","updated":"2025-11-11T23:26:11.191+00:00"}
+{"dg-publish":true,"permalink":"/animal-farming-makes-the-effects-of-crop-diseases-worse/","tags":["Animal_Feed","Food_Security","Health/Disease"],"created":"2025-11-11T23:26:11.191+00:00","updated":"2026-09-30T19:55:01.188+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Animal_Feed","Food_Security","Health/Disease"],"AI suggested tags":["MFA_Food_Sec","Economics/Jobs","Farming"]}}
 ---
 
 
@@ -26,3 +26,9 @@ On the contrary, consuming large numbers of animal products often magnifies the 
 Additionally, there are several issues faced by animal agriculture that are not found in crops. For example, crops do not contribute to the [development of antibiotic resistance](https://docs.google.com/document/d/18hBL88T-Q4GIvSzDEaH9HepdXIQf-bFgF6l3D5jM2Yk/edit#heading=h.tj9y7udx1x22), zoonoses or global pandemics as industrially farmed animals do. Diseases in crops cannot spread to humans, unlike [Severe Acute Respiratory Syndrome (SARS)](https://www.who.int/health-topics/severe-acute-respiratory-syndrome), [HIV](https://www.who.int/news-room/fact-sheets/detail/hiv-aids) or [Ebola](https://www.who.int/news-room/fact-sheets/detail/ebola-virus-disease).
 
 Nonetheless, the real risks of crop diseases underscore that ensuring food security requires a diverse human diet that does not rely on a small number of foods. One initiative that may help in this regard is the [Future Smart Foods initiative](https://docs.google.com/document/d/18hBL88T-Q4GIvSzDEaH9HepdXIQf-bFgF6l3D5jM2Yk/edit#heading=h.y724uvbdoemj).
+
+# AI suggested related articles
+
+- [[MFA Livestock and Food security finished\|MFA Livestock and Food security finished]] (0.80)
+- [[Food stability for people in LMICs and animal agriculture\|Food stability for people in LMICs and animal agriculture]] (0.75)
+- [[Food security risks that could come from scaling up animal agriculture in LMICs\|Food security risks that could come from scaling up animal agriculture in LMICs]] (0.74)

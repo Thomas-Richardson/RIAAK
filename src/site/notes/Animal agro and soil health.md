@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/animal-agro-and-soil-health/","tags":[null,null,null],"created":"2025-10-23T17:42:43.396+01:00","updated":"2025-12-10T12:59:34.335+00:00"}
+{"dg-publish":true,"permalink":"/animal-agro-and-soil-health/","tags":["Environment/Land","Environment/Pollution","Farming"],"created":"2025-10-23T17:42:43.396+01:00","updated":"2026-09-30T19:55:01.185+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Environment/Land","Environment/Pollution","Farming"],"AI suggested tags":["Environment_Misc","Animal_Feed","Economics/Jobs"]}}
 ---
 
 
@@ -28,3 +28,9 @@ One review ([Centeri, 2022](https://www.mdpi.com/2306-5338/9/2/34)) found that w
 Soil, particularly the 30 cm layer which is called the topsoil, provides many ecosystem services such as the production of food, filtering of water and recycling of organic waste streams. Cultivation, degradation, pollution and changes in land-use impact the ability of soils to deliver these ecosystem services (FAO, 2011).
 
 Rational/Materiality Despite being a naturally occurring process, soil erosion can accelerate greatly through agricultural activities, including removal of vegetation cover, tillage, soil compaction, and overgrazing by livestock, particularly when these practices are conducted on steep slopes in areas subjected to intense rainstorms or wind events. In agriculture, original vegetation cover is removed to make land available for crop production or animal grazing. Agricultural crops rarely hold onto the topsoil as well as the original vegetation cover, increasing soil erosion and potentially reducing soil fertility over time. Estimates show that half of the topsoil globally has been lost in the last 150 years (FAO, 2011).
+
+# AI suggested related articles
+
+- [[Environmental damage caused by factory farms\|Environmental damage caused by factory farms]] (0.71)
+- [[ProVeg EU Env calcs\|ProVeg EU Env calcs]] (0.68)
+- [[Comparing environmental impact of different animal farming systems\|Comparing environmental impact of different animal farming systems]] (0.68)

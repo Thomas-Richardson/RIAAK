@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/fishy-business-the-scottish-salmon-industry-s-hidden-appetite-for-wild-fish-and-land-feedback/","created":"2026-02-03T21:30:24.966+00:00","updated":"2026-02-04T05:17:18.749+00:00"}
+{"dg-publish":true,"permalink":"/citations/fishy-business-the-scottish-salmon-industry-s-hidden-appetite-for-wild-fish-and-land-feedback/","tags":["Fish/Farmed","Animal_Feed","Food_Security","High_Income_Countries/UK"],"created":"2026-02-03T21:30:24.966+00:00","updated":"2026-09-30T19:55:02.264+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Fish/Farmed","Animal_Feed","Food_Security","High_Income_Countries/UK"],"source_url":"https://foodrise.org.uk/wp-content/uploads/2019/06/Fishy-business-the-Scottish-salmon-industrys-hidden-appetite-for-wild-fish-and-land.pdf","created":"2026-02-03","AI suggested tags":["Fish","EU","Greenwashing"]}}
 ---
 
 

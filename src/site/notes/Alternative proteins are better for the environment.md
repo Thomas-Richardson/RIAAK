@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/alternative-proteins-are-better-for-the-environment/","tags":["animal_feed - alternative_proteins - cultivated_meat - environment_ghg - environment_land - plant_based_alternative_proteins"],"created":"2025-10-23T17:42:42.018+01:00","updated":"2025-10-23T19:18:51.079+01:00"}
+{"dg-publish":true,"permalink":"/alternative-proteins-are-better-for-the-environment/","tags":["Animal_Feed","Alternative_Proteins","Alternative_Proteins/Cultivated_Meat","Environment/GHG","Environment/Land","Alternative_Proteins/Plant_Based"],"created":"2025-10-23T17:42:42.018+01:00","updated":"2026-09-30T19:55:01.166+01:00","dg-note-properties":{"tags":["Animal_Feed","Alternative_Proteins","Alternative_Proteins/Cultivated_Meat","Environment/GHG","Environment/Land","Alternative_Proteins/Plant_Based"],"Note Type":"Own Notes","AI suggested tags":["Environment_Misc","Important_Read","Light_Read"]}}
 ---
 
 See also: [[BSG, 2022\|BSG, 2022]]
@@ -63,3 +63,9 @@ https://gfi.org/resource/environmental-impacts-of-alternative-proteins/
 By only requiring the crops that end up in the final product, plant-based meat production cuts out feed crops, the primary water requirement in conventional meat production. Overall, plant-based meat production [requires up to 99 percent less water than its conventional counterparts](https://gfi.org/wp-content/uploads/2021/02/GFI-Plant-Based-Meat-Fact-Sheet_Environmental-Comparison.pdf). Likewise, cultivated meat production is projected to have massive blue water savings (water in freshwater lakes, rivers, and aquifers) with up to a 78 percent reduction as compared to beef production, according to [CE Delft’s recent life cycle analysis](https://gfi.org/blog/cultivated-meat-lca-tea/).
 
 Studies show that plant-based meat could [reduce over 90 percent of eutrophying pollution](https://gfi.org/wp-content/uploads/2021/02/GFI-Plant-Based-Meat-Fact-Sheet_Environmental-Comparison.pdf) compared to conventional animal production. Cultivated meat [could reduce eutrophying pollution by 98 percent compared to conventional beef](https://pubmed.ncbi.nlm.nih.gov/26383898/).
+
+# AI suggested related articles
+
+- [[ProVeg EU Env calcs\|ProVeg EU Env calcs]] (0.74)
+- [[Plenty of fish in the sea Not enough to feed 10 billion people sustainably.\|Plenty of fish in the sea Not enough to feed 10 billion people sustainably.]] (0.72)
+- [[The small body problem\|The small body problem]] (0.72)

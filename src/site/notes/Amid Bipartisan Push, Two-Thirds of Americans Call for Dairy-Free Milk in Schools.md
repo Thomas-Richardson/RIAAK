@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/amid-bipartisan-push-two-thirds-of-americans-call-for-dairy-free-milk-in-schools/","tags":["policy/food-policy","institutional_change","High_Income_Countries/USA","Alternative_Proteins/Plant_Based","Health/Nutrition"],"created":"2025-11-11T23:41:20.330+00:00","updated":"2025-12-10T12:59:08.083+00:00"}
+{"dg-publish":true,"permalink":"/amid-bipartisan-push-two-thirds-of-americans-call-for-dairy-free-milk-in-schools/","tags":["Policy/Food_Policy","Institutional_Change","High_Income_Countries/USA","Alternative_Proteins/Plant_Based","Health/Nutrition"],"created":"2025-11-11T23:41:20.330+00:00","updated":"2026-09-30T19:55:01.167+01:00","dg-note-properties":{"Note Type":"News Report / Blog","Url":"https://www.greenqueen.com.hk/dairy-free-school-milk-non-dairy-plant-based-vegan-lunches/","tags":["Policy/Food_Policy","Institutional_Change","High_Income_Countries/USA","Alternative_Proteins/Plant_Based","Health/Nutrition"],"AI suggested tags":["Research/YouGov","ProVeg","Plant_Based/School_Meals"]}}
 ---
 
 [![Green Queen](https://www.greenqueen.com.hk/wp-content/uploads/2024/09/green-queen-logo-short-main.png)](https://www.greenqueen.com.hk/)
@@ -55,3 +55,9 @@ Facilitated by Switch4Good, the Center for a Humane Economy, and Animal Wellness
 PCRM noted that the current Dietary Guidelines for Americans recognise fortified soy milk as nutritionally equivalent to dairy. And in the update coming later this year, scientists advising the government have [recommended an emphasis](https://www.greenqueen.com.hk/us-dietary-guidelines-for-americans-draft-red-meat-plant-based-protein/) on beans, peas, lentils and other plant proteins over meat.
 
 With public support for the measure apparent, now is the time for the government to expand access to sustainable and healthy school lunch options. McBurnett, herself a parent to school-going children, said: “We need to raise awareness that most Americans think that school lunch lines should include healthier options, including plant-based meals and non-dairy milk alternatives that can help keep students healthy.”
+
+# AI suggested related articles
+
+- [[YouGov Survey shows parental support for increasing plant-based meals in schools\|YouGov Survey shows parental support for increasing plant-based meals in schools]] (0.66)
+- [[Plant-based Schools\|Plant-based Schools]] (0.58)
+- [[Podcasts/Our Hen House/Plant-Based Policy Initiatives with Animal Policy Alliance\|Podcasts/Our Hen House/Plant-Based Policy Initiatives with Animal Policy Alliance]] (0.58)

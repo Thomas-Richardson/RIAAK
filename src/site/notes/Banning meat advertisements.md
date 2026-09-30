@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/banning-meat-advertisements/","tags":["#behaviour_change","#marketing"],"created":"2025-10-23T17:42:41.233+01:00","updated":"2025-10-30T22:59:50.707+00:00"}
+{"dg-publish":true,"permalink":"/banning-meat-advertisements/","tags":["Behaviour_Change","Marketing"],"created":"2025-10-23T17:42:41.233+01:00","updated":"2026-09-30T19:55:01.213+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Behaviour_Change","Marketing"],"AI suggested tags":["Meat/Meat_Reduction","Meat","Meat/Meat_Consumption"]}}
 ---
 
 - [[Institutional Change\|Institutional Change]] 

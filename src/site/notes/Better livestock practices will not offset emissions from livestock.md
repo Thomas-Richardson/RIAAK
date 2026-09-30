@@ -1,9 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/better-livestock-practices-will-not-offset-emissions-from-livestock/","tags":[null,null],"created":"2025-10-23T17:42:41.516+01:00","updated":"2025-11-03T14:28:36.886+00:00"}
+{"dg-publish":true,"permalink":"/better-livestock-practices-will-not-offset-emissions-from-livestock/","tags":["Environment/GHG","Farming"],"created":"2025-10-23T17:42:41.516+01:00","updated":"2026-09-30T22:10:52.349+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Environment/GHG","Farming"],"AI suggested tags":["Cattle/Grass_Fed_Cattle","Meat/Beef"]}}
 ---
-
-
-
 
 - [[Grass fed beef is not better for the environment\|Grass fed beef is not better for the environment]]
 - [[The British public is totally wrong about how to improve the environment\|The British public is totally wrong about how to improve the environment]]
@@ -24,3 +21,9 @@ If we fully adopt 100% of ruminant methane reducing initiatives, we will meet ou
 - [the cows don’t like it either](https://www.wired.com/story/carbon-neutral-cows-algae/#:~:text=Out%20on%20grazing%20lands%2C%20it%E2%80%99s%20difficult%20to%20get,their%20belches%E2%80%99%20methane%20right%20back%20to%20high%20levels.)
 - [Burger King announced their newest green innovation](https://www.cnn.com/2020/07/14/business/burger-king-cow-diet/index.html) — beef from cows fed 100 grams of lemongrass to reduce methane emissions by 33 percent for every day the cows were fed the herb The overall [reduction is only about 3.6 percent](https://twitter.com/danrejto/status/1283202805159784449) This research has never been replicated successfully, even though a researcher from UC Davis has tried.
 - [Recent piece](https://newrepublic.com/article/187421/cows-beef-dairy-seaweed-emissions?utm_source=Twitter&utm_campaign=SF_TNR&utm_medium=social) arguing this isn't going to help much
+
+# Land use opportunity costs mean that low carbon beef is only possible for a tiny portion of land
+Beef isn’t automatically climate-neutral just because cattle eat grass (biogenic carbon). Net climate impact should include (1) methane and N₂O, and (2) the carbon opportunity cost of land—what carbon that pasture/feed land could store under ecosystem recovery or more land-efficient food production. Once COC is counted, beef’s total carbon cost is typically much higher.  there is almost no way to make beef climate neutral because you could always be growing less carbon intensive food on that land.  the only time where climate-neutral or climate-negative beef might apply is if you can prove that there is no situation of rewilding where the land is so shit that you cannot have it grow any food or capture any more carbon.
+
+- [[Citations/Hayek et al., 2021\|Hayek et al., 2021]] 
+- 

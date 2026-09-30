@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/animal-agriculture-and-biodiversity-loss/","tags":["biodiversity"],"created":"2025-10-23T17:42:47.343+01:00","updated":"2026-01-22T11:30:33.383+00:00"}
+{"dg-publish":true,"permalink":"/animal-agriculture-and-biodiversity-loss/","tags":["Biodiversity"],"created":"2025-10-23T17:42:47.343+01:00","updated":"2026-09-30T19:55:01.177+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Biodiversity"],"AI suggested tags":["Environment_Misc","Environment/Land","Grazing"]}}
 ---
 
 - Animal agriculture is the most significant driver of habitat loss on the planet ([[Citations/Machovina et al., 2015\|Machovina et al., 2015]])
@@ -13,3 +13,9 @@
 # Related
 - [[The lie of regenerative animal agriculture\|The lie of regenerative animal agriculture]]
 - [[Comparing environmental impact of different animal farming systems\|Comparing environmental impact of different animal farming systems]]
+
+# AI suggested related articles
+
+- [[Citations/Machovina et al., 2015\|Citations/Machovina et al., 2015]] (0.75)
+- [[Citations/Ball et al., 2025\|Citations/Ball et al., 2025]] (0.73)
+- [[Citations/Kozicka et al., 2023\|Citations/Kozicka et al., 2023]] (0.68)

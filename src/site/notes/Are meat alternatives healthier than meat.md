@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/are-meat-alternatives-healthier-than-meat/","tags":["Health/Nutrition","Alternative_Proteins/Plant_Based"],"created":"2025-10-23T17:42:41.522+01:00","updated":"2026-01-17T18:04:45.615+00:00"}
+{"dg-publish":true,"permalink":"/are-meat-alternatives-healthier-than-meat/","tags":["Health/Nutrition","Alternative_Proteins/Plant_Based"],"created":"2025-10-23T17:42:41.522+01:00","updated":"2026-09-30T19:55:01.201+01:00","dg-note-properties":{"tags":["Health/Nutrition","Alternative_Proteins/Plant_Based"],"Note Type":"Own Notes","AI suggested tags":["Meat","Alternative_Proteins","UPF"]}}
 ---
 
 - [[The price of pb meat alternatives relative to animal meat\|The price of pb meat alternatives relative to animal meat]]
@@ -26,3 +26,9 @@ The UK government "*analyses* suggest that UPF categories, including meat and 
 ## Related
 - [[Bioavailability of protein in veg foods\|Bioavailability of protein in veg foods]]
 - [[Alternative proteins are better for the environment\|Alternative proteins are better for the environment]] 
+
+# AI suggested related articles
+
+- [[Citations/Espinosa et al., 2024\|Citations/Espinosa et al., 2024]] (0.75)
+- [[Consumer perceptions of alternative proteins\|Consumer perceptions of alternative proteins]] (0.74)
+- [[Citations/Fernández-Fígares Jiménez et al., 2025\|Citations/Fernández-Fígares Jiménez et al., 2025]] (0.73)

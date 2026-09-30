@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/a-tool-for-exploring-interventions-to-reduce-animal-product-consumption/","tags":["tool"],"created":"2025-10-23T17:42:43.222+01:00","updated":"2025-10-23T17:57:16.294+01:00"}
+{"dg-publish":true,"permalink":"/a-tool-for-exploring-interventions-to-reduce-animal-product-consumption/","tags":["Tool"],"created":"2025-10-23T17:42:43.222+01:00","updated":"2026-09-30T19:55:01.146+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Tool"],"AI suggested tags":["External_Resource","Meat_Reduction","Behaviour_Change"]}}
 ---
 
 

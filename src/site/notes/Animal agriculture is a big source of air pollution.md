@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/animal-agriculture-is-a-big-source-of-air-pollution/","tags":["Environment/Pollution"],"created":"2025-10-23T17:42:44.136+01:00","updated":"2025-12-10T12:59:34.332+00:00"}
+{"dg-publish":true,"permalink":"/animal-agriculture-is-a-big-source-of-air-pollution/","tags":["Environment/Pollution"],"created":"2025-10-23T17:42:44.136+01:00","updated":"2026-09-30T19:55:01.180+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Environment/Pollution"],"AI suggested tags":["Environment_Misc","Health/Disease","CAWF_Farming"]}}
 ---
 
 
@@ -57,4 +57,18 @@ Air pollution increases cardiovascular and respiratory-disease risk, and reduces
 
 The globally averaged exposure to PM2.5 was reduced by 3% for flexitarian diets, 6% for vegetarian diets, and 7% for vegan diets, which correspond to reductions in the anthropogenic fraction of 5%, 7%, and 8%, respectively. The exposure to ozone was reduced by 2%, 3%, and 4% for the same set of diets 
 
+# AI suggested related articles
+
+- [[Citations/Domingo et al., 2021\|Citations/Domingo et al., 2021]] (0.80)
+- [[Citations/Springmann et al., 2016\|Citations/Springmann et al., 2016]] (0.74)
+- [[Citations/Kozicka et al., 2023\|Citations/Kozicka et al., 2023]] (0.71)
+
+
 </div></div>
+
+
+# AI suggested related articles
+
+- [[Citations/Domingo et al., 2021\|Citations/Domingo et al., 2021]] (0.83)
+- [[Citations/Springmann et al., 2023\|Citations/Springmann et al., 2023]] (0.79)
+- [[Citations/External Costs of Animal Sourced Food in the EU ( Impact Institute, 2023)\|Citations/External Costs of Animal Sourced Food in the EU ( Impact Institute, 2023)]] (0.74)

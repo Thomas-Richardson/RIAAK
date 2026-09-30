@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-hard-hitting-paragraph-on-why-reducing-meat-is-the-best-thing-to-do-for-climate/","tags":["Environment/GHG"],"created":"2025-10-23T17:42:42.267+01:00","updated":"2025-10-30T23:27:02.091+00:00"}
+{"dg-publish":true,"permalink":"/1-hard-hitting-paragraph-on-why-reducing-meat-is-the-best-thing-to-do-for-climate/","tags":["Environment/GHG"],"created":"2025-10-23T17:42:42.267+01:00","updated":"2026-09-30T19:55:01.135+01:00","dg-note-properties":{"Note Type":"Own Work","tags":["Environment/GHG"],"AI suggested tags":["Environment_Misc","Meat/Meat_Reduction","Environment/Land"]}}
 ---
 
 

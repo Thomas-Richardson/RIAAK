@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/change-in-demand-for-animal-products-worldwide/","tags":["Meat/meat_consumption"],"created":"2025-10-23T17:42:41.654+01:00","updated":"2025-12-10T12:59:34.369+00:00"}
+{"dg-publish":true,"permalink":"/change-in-demand-for-animal-products-worldwide/","tags":["Meat/Meat_Consumption"],"created":"2025-10-23T17:42:41.654+01:00","updated":"2026-09-30T19:55:01.269+01:00","dg-note-properties":{"tags":["Meat/Meat_Consumption"],"AI suggested tags":["Meat","High_Income_Countries","Lower_Middle_Income_Countries"]}}
 ---
 
 - [[We eat too many animal products\|We eat too many animal products]]
@@ -8,12 +8,12 @@
 - [[How would reduced demand for ASFs in HICs affect food security\|How would reduced demand for ASFs in HICs affect food security]]
 
 ## Globally on average meat consumption is increasing
-The world now produces more than three times the quantity of meat as it did fifty years ago, with production rising fastest for #chickens ([[Citations/Ritchie et al., 2017\|Ritchie et al., 2017]])
+The world now produces more than three times the quantity of meat as it did fifty years ago, with production rising fastest for #Chickens ([[Citations/Ritchie et al., 2017\|Ritchie et al., 2017]])
 
 The demand for meat in LMICs is expected to grow 80% by 2030 over 200% by 2050 [FAO (2018)](https://www.fao.org/3/i8384en/I8384EN.pdf)
 
 ## Demand for meat is falling in HICs on average 
-#high_income_countries 
+#High_Income_Countries 
 
 ### The #High_Income_Countries/UK
 [[Citations/Stewart et al., 2021\|Stewart et al., 2021]] detail declines in meat consumption in the UK between 2008 and 2019, broken down by meat type. The decline is being driven primarily by eating smaller portions of meat, and second by meat free days ([[Citations/Vonderschmidt et al., 2023\|Vonderschmidt et al., 2023]])

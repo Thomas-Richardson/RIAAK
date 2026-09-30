@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/antimicrobial-resistance/","tags":[null,null,null],"created":"2025-11-11T23:26:09.665+00:00","updated":"2025-11-11T23:26:09.665+00:00"}
+{"dg-publish":true,"permalink":"/antimicrobial-resistance/","tags":["Factory_Farming","Health/Disease"],"created":"2025-11-11T23:26:09.665+00:00","updated":"2026-09-30T19:55:01.194+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Factory_Farming","Health/Disease"],"AI suggested tags":["Farming","USA","Animal_Feed"]}}
 ---
 
 
@@ -15,7 +15,7 @@ aka antibiotic resistance
 ## Different animals require different levels of antibiotics
 One of the reasons why antibiotics are used in lower quantities in chickens is that they are killed at a much younger age. The fact that intensive livestock get far more antibiotics than animals raised outdoors is one reason why cows tend to get less antibiotics than pigs.
 
-![Pasted image 20241211212134.png|400](/img/user/Pasted%20image%2020241211212134.png)
+![Pasted image 20241211212134.png\|400](/img/user/Pasted%20image%2020241211212134.png)
 
 ## How does it work?
 Healthy animals are fed low doses of antibiotics to speed growth and prevent disease, causing bacteria to adapt and become resistant.
@@ -48,3 +48,9 @@ Interestingly, in the US [only 2% of antibiotics](https://www.fda.gov/animal-vet
 ## EU and UK
 - In 2022 the EU banned giving animals prophylactic or preventative antibiotics, however the [UK refused to ban it](https://www.sustainweb.org/news/may24-farm-antibiotics-legislation/) and implemented a weakened version, instead saying they could be used" in exceptional circumstances when there would be a risk of infection"
 - new legislation was introduced in the UK on 17 May 2024 to restrict the use of antibiotics in farming [5]. The legislation prohibits using antibiotics to “compensate for poor hygiene, inadequate animal husbandry, or poor farm management practices”. Unfortunately, [none of the supermarkets](https://www.saveourantibiotics.org/news/press-release/alliance-publishes-new-report-on-supermarket-policies/) appear to have supply chains that are fully compliant with this new law.
+
+# AI suggested related articles
+
+- [[Citations/Ardakani et al., 2023\|Citations/Ardakani et al., 2023]] (0.77)
+- [[Citations/WAP, Alliance to save our antibiotics and The BIJ, 2022\|Citations/WAP, Alliance to save our antibiotics and The BIJ, 2022]] (0.77)
+- [[Diseases in farm animals cause economic shocks\|Diseases in farm animals cause economic shocks]] (0.65)

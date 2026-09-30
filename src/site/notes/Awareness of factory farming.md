@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/awareness-of-factory-farming/","tags":[null,null,"factory_farming","High_Income_Countries/UK"],"created":"2025-10-23T17:42:47.981+01:00","updated":"2026-01-16T11:22:53.737+00:00"}
+{"dg-publish":true,"permalink":"/awareness-of-factory-farming/","tags":["Consumer_Attitudes","Factory_Farming","High_Income_Countries/UK"],"created":"2025-10-23T17:42:47.981+01:00","updated":"2026-09-30T19:55:01.207+01:00","dg-note-properties":{"tags":["Consumer_Attitudes","Factory_Farming","High_Income_Countries/UK"],"Note Type":"undefined","AI suggested tags":["USA","UK","Economics/Jobs"]}}
 ---
 
 How much does the UK public understand about factory farming?
@@ -60,3 +60,10 @@ Do some Google Trends stuff, see: [[People resist talking about factory farming\
 - [[People resist talking about factory farming\|People resist talking about factory farming]]
 - Not UK data but relevant [[People don't realise how bad meat is for the climate\|People don't realise how bad meat is for the climate]]
 
+
+
+# AI suggested related articles
+
+- [[Citations/Knowledge and attitudes to factory farming practices in the UK and US (Social Change Lab)\|Citations/Knowledge and attitudes to factory farming practices in the UK and US (Social Change Lab)]] (0.75)
+- [[What does the UK British public know about factory farming\|What does the UK British public know about factory farming]] (0.74)
+- [[Citations/Public Acceptability Of Standard U.S. Animal Agriculture Practices (Faunalytics)\|Citations/Public Acceptability Of Standard U.S. Animal Agriculture Practices (Faunalytics)]] (0.73)

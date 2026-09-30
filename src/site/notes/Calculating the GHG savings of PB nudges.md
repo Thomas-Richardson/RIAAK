@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/calculating-the-ghg-savings-of-pb-nudges/","tags":[null,null,"behaviour_change"],"created":"2025-10-23T17:42:47.427+01:00","updated":"2025-10-30T23:44:53.698+00:00"}
+{"dg-publish":true,"permalink":"/calculating-the-ghg-savings-of-pb-nudges/","tags":["Environment/GHG","Behaviour_Change"],"created":"2025-10-23T17:42:47.427+01:00","updated":"2026-09-30T19:55:01.258+01:00","dg-note-properties":{"tags":["Environment/GHG","Behaviour_Change"],"Note Type":"undefined","AI suggested tags":["BOTEC","Meat/Meat_Reduction","Bryant_Research"]}}
 ---
 
 

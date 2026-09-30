@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/advocating-for-60-40-plant-animal-protein-sales-ratios-by-2040-ambitious-impact/","created":"2025-10-23T17:42:47.070+01:00","updated":"2025-10-23T17:42:47.071+01:00"}
+{"dg-publish":true,"permalink":"/citations/advocating-for-60-40-plant-animal-protein-sales-ratios-by-2040-ambitious-impact/","tags":["Retailers","Corporate_Campaigns","Alternative_Proteins/Plant_Based","Meat/Meat_Reduction"],"created":"2025-10-23T17:42:47.070+01:00","updated":"2026-09-30T19:55:01.304+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Retailers","Corporate_Campaigns","Alternative_Proteins/Plant_Based","Meat/Meat_Reduction"],"source_url":"https://370b8129-500b-4a5d-99f2-ce6886702186.usrfiles.com/ugd/370b81_690bfac42bfb40b1b8aac27f661a3434.pdf","created":"2025-10-23","AI suggested tags":["Economics","Alternative_Proteins","Environment/GHG"]}}
 ---
 
 

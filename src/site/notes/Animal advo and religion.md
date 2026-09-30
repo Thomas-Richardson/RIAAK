@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/animal-advo-and-religion/","tags":[null],"created":"2025-10-23T17:42:44.034+01:00","updated":"2025-10-30T23:59:27.806+00:00"}
+{"dg-publish":true,"permalink":"/animal-advo-and-religion/","tags":["Movement_Building"],"created":"2025-10-23T17:42:44.034+01:00","updated":"2026-09-30T19:55:01.172+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Movement_Building"],"AI suggested tags":["Middle_East","Animal_Advocacy","Animal_Welfare"]}}
 ---
 
 

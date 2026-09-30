@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/a-waste-of-fish-greenpeace/","created":"2026-02-03T21:31:34.617+00:00","updated":"2026-02-04T05:17:18.725+00:00"}
+{"dg-publish":true,"permalink":"/citations/a-waste-of-fish-greenpeace/","tags":["Africa","Fish","Animal_Feed","Food_Security"],"created":"2026-02-03T21:31:34.617+00:00","updated":"2026-09-30T19:55:01.287+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Africa","Fish","Animal_Feed","Food_Security"],"source_url":"https://www.greenpeace.org/static/planet4-international-stateless/2019/06/56fbee4b-a-waste-of-fish-report-en-high-res.pdf?_gl=1*1jthgw8*_up*MQ..*_ga*MjQ5MzU3NDIyLjE3NzAxNTQwODY.*_ga_94MRTN8HG4*czE3NzAxNTQwODYkbzEkZzAkdDE3NzAxNTQwODYkajYwJGwwJGgxOTg2OTI2Mzg5","created":"2026-02-03","AI suggested tags":["Fish/Farmed","EU","Greenwashing"]}}
 ---
 
 

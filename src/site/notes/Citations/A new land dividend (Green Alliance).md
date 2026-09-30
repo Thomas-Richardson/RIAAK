@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/a-new-land-dividend-green-alliance/","created":"2025-10-23T17:42:46.000+01:00","updated":"2026-02-05T12:49:15.992+00:00"}
+{"dg-publish":true,"permalink":"/citations/a-new-land-dividend-green-alliance/","tags":["Environment/Land","Alternative_Proteins","EU","Policy"],"created":"2025-10-23T17:42:46.000+01:00","updated":"2026-09-30T19:55:01.291+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Environment/Land","Alternative_Proteins","EU","Policy"],"source_url":"https://green-alliance.org.uk/wp-content/uploads/2024/03/A_new_land_dividend.pdf","created":"2025-10-23","AI suggested tags":["Food_Security","Farming","Economics"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/calculating-the-footprint-of-animal-products/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:42.156+01:00","updated":"2025-10-30T23:44:53.133+00:00"}
+{"dg-publish":true,"permalink":"/calculating-the-footprint-of-animal-products/","tags":["Environment/GHG","Environment/Land"],"created":"2025-10-23T17:42:42.156+01:00","updated":"2026-09-30T19:55:01.261+01:00","dg-note-properties":{"tags":["Environment/GHG","Environment/Land"],"AI suggested tags":["Environment_Misc","BOTEC","Meat"]}}
 ---
 
 

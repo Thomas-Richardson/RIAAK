@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/can-vegan-pet-food-make-a-dent-in-animal-ag-q/","tags":[null,null,null],"created":"2025-11-11T23:30:07.804+00:00","updated":"2025-11-11T23:30:07.804+00:00"}
+{"dg-publish":true,"permalink":"/can-vegan-pet-food-make-a-dent-in-animal-ag-q/","tags":["Animal_Feed","Pet_Food","Companion_Animals"],"created":"2025-11-11T23:30:07.804+00:00","updated":"2026-09-30T19:55:01.263+01:00","dg-note-properties":{"tags":["Animal_Feed","Pet_Food","Companion_Animals"],"Note Type":"undefined","AI suggested tags":["Alternative_Proteins","Farming","Economics"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/big-grain-companies/","tags":[null,null],"created":"2025-10-23T17:42:41.791+01:00","updated":"2025-10-30T23:59:27.738+00:00"}
+{"dg-publish":true,"permalink":"/big-grain-companies/","tags":["Bryant/Project/CAWF_Food_Sec","USA"],"created":"2025-10-23T17:42:41.791+01:00","updated":"2026-09-30T22:10:52.350+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Bryant/Project/CAWF_Food_Sec","USA"],"AI suggested tags":["Farmers","Animal_Feed","Farming"]}}
 ---
 
 
@@ -23,3 +23,9 @@ Table 3: The world’s major grain traders
 Since 2011, the ABCD companies have spent $43.8 million on lobbying at the US federal level.81 This
 includes $20.2 million over the past five years. Both Bunge and Cargill have lobbied on 91 pieces of
 legislation at the US Congress over the last 15 years.
+
+# AI suggested related articles
+
+- [[Citations/CIWF, 2022\|Citations/CIWF, 2022]] (0.73)
+- [[Citations/Revealed- Europe's new meat tycoons (AGtivist Agency)\|Citations/Revealed- Europe's new meat tycoons (AGtivist Agency)]] (0.61)
+- [[The level of bank financing of factory farming\|The level of bank financing of factory farming]] (0.59)

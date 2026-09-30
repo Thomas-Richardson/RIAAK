@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aquatic-plants-as-alt-protein-ingredients/","tags":["Alternative_Proteins","Alternative_Proteins/Plant_Based"],"created":"2025-10-23T17:42:41.974+01:00","updated":"2025-11-04T12:15:48.416+00:00"}
+{"dg-publish":true,"permalink":"/aquatic-plants-as-alt-protein-ingredients/","tags":["Alternative_Proteins","Alternative_Proteins/Plant_Based"],"created":"2025-10-23T17:42:41.974+01:00","updated":"2026-09-30T19:55:01.198+01:00","dg-note-properties":{"tags":["Alternative_Proteins","Alternative_Proteins/Plant_Based"],"Note Type":"undefined","AI suggested tags":["Important_Read","Light_Read","Listen_To"]}}
 ---
 
 https://thegoodfoodinstitute.substack.com/p/an-ocean-of-opportunity-for-alt-proteins?utm_source=post-email-title&publication_id=2241415&post_id=144703747&utm_campaign=email-post-title&isFreemail=true&r=1gqdct&triedRedirect=true&utm_medium=email

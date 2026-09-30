@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/caf-os-injure-and-sicken-their-workers/","tags":[null,null,null,null,"Health/Disease","Economics/jobs"],"created":"2025-11-06T16:26:10.188+00:00","updated":"2025-11-06T16:26:10.188+00:00"}
+{"dg-publish":true,"permalink":"/caf-os-injure-and-sicken-their-workers/","tags":["Chickens","Factory_Farming","Health/Disease","Pigs","Economics/Jobs"],"created":"2025-11-06T16:26:10.188+00:00","updated":"2026-09-30T19:55:01.235+01:00","dg-note-properties":{"tags":["Chickens","Factory_Farming","Health/Disease","Pigs","Economics/Jobs"],"Note Type":"Own Notes","AI suggested tags":["USA","Environment/Pollution","Farmers"]}}
 ---
 
 
@@ -35,3 +35,9 @@ Recorded injuries include:
 
 # Reading
 https://www.freedomfoodalliance.org/unfork-the-food-system/unmasking-factory-farming-crisis-public-health-social-justice
+
+# AI suggested related articles
+
+- [[Mental health in agriculture\|Mental health in agriculture]] (0.78)
+- [[Citations/Pew Commission, 2008\|Citations/Pew Commission, 2008]] (0.76)
+- [[Mixed evidence that nearby CAFOs make people sicker\|Mixed evidence that nearby CAFOs make people sicker]] (0.75)

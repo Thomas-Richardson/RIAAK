@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/animal-advocacy-needs-a-positive-vision/","tags":["movement_strategy"],"created":"2025-10-23T17:42:43.216+01:00","updated":"2026-01-23T12:53:21.423+00:00"}
+{"dg-publish":true,"permalink":"/animal-advocacy-needs-a-positive-vision/","tags":["Movement_Strategy"],"created":"2025-10-23T17:42:43.216+01:00","updated":"2026-09-30T19:55:01.176+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Movement_Strategy"],"AI suggested tags":["Messaging","Persuasion","Animal_Advocacy"]}}
 ---
 
 - [[Pro-animal messaging#"Societal evolution" narrative\|Pro-animal messaging#"Societal evolution" narrative]]

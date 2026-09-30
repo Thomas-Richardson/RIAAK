@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/can-a-baby-be-fed-vegan/","tags":[null,null,null],"created":"2025-10-23T17:42:47.831+01:00","updated":"2025-10-30T23:44:53.794+00:00"}
+{"dg-publish":true,"permalink":"/can-a-baby-be-fed-vegan/","tags":["Animal_Feed","Health/Disease","Veganism"],"created":"2025-10-23T17:42:47.831+01:00","updated":"2026-09-30T19:55:01.262+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Animal_Feed","Health/Disease","Veganism"],"AI suggested tags":["Health/Nutrition","Veg_Diets","High_Income_Countries"]}}
 ---
 
 
@@ -37,3 +37,10 @@ Nutrition authorities who believe vegan diets can be appropriate for infants in 
 ### Reading
 An article here discusses soy based formulas as well as pros and cons: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5241282/?report=classic
 	Be wary that [Aluminium is not too high ](https://bmcpediatr.biomedcentral.com/articles/10.1186/1471-2431-10-63)on soy based formula
+
+
+# AI suggested related articles
+
+- [[Citations/Avital et al., 2026\|Citations/Avital et al., 2026]] (0.64)
+- [[Citations/Lotti et al., 2025\|Citations/Lotti et al., 2025]] (0.61)
+- [[Do the global poor need nutrients from animal products\|Do the global poor need nutrients from animal products]] (0.60)

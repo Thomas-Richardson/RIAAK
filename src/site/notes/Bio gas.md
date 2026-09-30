@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bio-gas/","tags":[null,null,null],"created":"2025-10-23T17:42:42.883+01:00","updated":"2025-10-30T23:59:27.771+00:00"}
+{"dg-publish":true,"permalink":"/bio-gas/","tags":["Environment/GHG","Environment/Pollution","Factory_Farming"],"created":"2025-10-23T17:42:42.883+01:00","updated":"2026-09-30T19:55:01.220+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Environment/GHG","Environment/Pollution","Factory_Farming"],"AI suggested tags":["Environment_Misc","Farming","Environment/Land"]}}
 ---
 
 
@@ -23,3 +23,10 @@ Another reference from Friends of the Earth on Bio-gas not being good: https://f
 
 [It can also increase the number of dairy cattle we have](https://www.thegazette.com/agriculture/more-manure-means-more-energy-iowa-dairies-with-biogas-digesters-are-growing-their-herds-which-c/): Jevons paradox.
 
+
+
+# AI suggested related articles
+
+- [[climate friendly meat\|climate friendly meat]] (0.64)
+- [[food and meat accounts for a large proportion of greenhouse gas emissions\|food and meat accounts for a large proportion of greenhouse gas emissions]] (0.59)
+- [[The lie of regenerative animal agriculture\|The lie of regenerative animal agriculture]] (0.58)

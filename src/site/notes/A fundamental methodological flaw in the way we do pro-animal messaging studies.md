@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/a-fundamental-methodological-flaw-in-the-way-we-do-pro-animal-messaging-studies/","tags":["statistics"],"created":"2025-10-23T17:42:41.336+01:00","updated":"2025-10-23T17:42:41.342+01:00"}
+{"dg-publish":true,"permalink":"/a-fundamental-methodological-flaw-in-the-way-we-do-pro-animal-messaging-studies/","tags":["Statistics"],"created":"2025-10-23T17:42:41.336+01:00","updated":"2026-09-30T19:55:01.142+01:00","dg-note-properties":{"Note Type":"Own Work","tags":["Statistics"],"AI suggested tags":["Research/Faunalytics","Research/Methods","Behaviour_Change"]}}
 ---
 
 - [[Animal cruelty based messages are more effective than health or environmental ones\|Animal cruelty based messages are more effective than health or environmental ones]]
@@ -27,7 +27,7 @@ You might be wondering why you might need 100s of participants but far fewer mes
 
 We can see this in data from a collaboration between Bryant Research and Mercy for Animals on the effectiveness of different Facebook ads:
 
-![Pasted image 20240118141241.png|400](/img/user/Pasted%20image%2020240118141241.png)
+![Pasted image 20240118141241.png\|400](/img/user/Pasted%20image%2020240118141241.png)
 
 When we look at the 4 health ads, we can see they vary in their performance, from 1.16% to 1.59%. The best performing is 1.3x better than the worse performing. That's not a whole lot, so we may not need 32 environmental ads. 
 

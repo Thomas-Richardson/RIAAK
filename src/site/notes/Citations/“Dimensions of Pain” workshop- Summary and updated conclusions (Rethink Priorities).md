@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/dimensions-of-pain-workshop-summary-and-updated-conclusions-rethink-priorities/","created":"2025-10-23T17:42:44.560+01:00","updated":"2025-10-23T18:12:10.180+01:00"}
+{"dg-publish":true,"permalink":"/citations/dimensions-of-pain-workshop-summary-and-updated-conclusions-rethink-priorities/","tags":["Philosophy","Research/Methods","Sentience"],"created":"2025-10-23T17:42:44.560+01:00","updated":"2026-09-30T19:55:02.274+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/dimensions-of-pain-workshop-summary-and-updated-conclusions/","tags":["Philosophy","Research/Methods","Sentience"],"Year Published":"2023","AI suggested tags":["Public_Opinion","Insects","Strategy"]}}
 ---
 
 ### Executive Summary

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bryant-meat-shame-report/","tags":[null,null,null],"created":"2025-10-23T17:42:41.861+01:00","updated":"2025-10-30T23:59:27.741+00:00"}
+{"dg-publish":true,"permalink":"/bryant-meat-shame-report/","tags":["Animal_Advocacy","Bryant_Research","Psychology"],"created":"2025-10-23T17:42:41.861+01:00","updated":"2026-09-30T19:55:01.228+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Animal_Advocacy","Bryant_Research","Psychology"],"AI suggested tags":["Bryant/Insight","Consumer_Attitudes","Consumer_Research"]}}
 ---
 
 

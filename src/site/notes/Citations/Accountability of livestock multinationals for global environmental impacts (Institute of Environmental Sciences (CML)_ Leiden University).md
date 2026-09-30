@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/accountability-of-livestock-multinationals-for-global-environmental-impacts-institute-of-environmental-sciences-cml-leiden-university/","created":"2026-03-02T11:35:59.675+00:00","updated":"2026-03-02T11:36:00.631+00:00"}
+{"dg-publish":true,"permalink":"/citations/accountability-of-livestock-multinationals-for-global-environmental-impacts-institute-of-environmental-sciences-cml-leiden-university/","tags":["Meat_Industry","Environment/Land","Environment/Pollution","Policy"],"created":"2026-03-02T11:35:59.675+00:00","updated":"2026-09-30T19:55:01.294+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Meat_Industry","Environment/Land","Environment/Pollution","Policy"],"source_url":"https://assets-eu.researchsquare.com/files/rs-8924723/v1_covered_74cbba82-3751-426f-92e0-759a06aacb2f.pdf?c=1772112823","created":"2026-03-02","AI suggested tags":["Financial_Activism","Cows","Greenwashing"]}}
 ---
 
 

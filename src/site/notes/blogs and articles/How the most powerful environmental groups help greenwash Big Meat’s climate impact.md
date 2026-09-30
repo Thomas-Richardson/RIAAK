@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blogs-and-articles/how-the-most-powerful-environmental-groups-help-greenwash-big-meat-s-climate-impact/","tags":["animal_feed","wild_animals","Economics/jobs","environment/climate-change","greenwashing","meat_industry"],"created":"2025-10-23T17:42:47.596+01:00","updated":"2025-12-10T12:57:22.844+00:00"}
+{"dg-publish":true,"permalink":"/blogs-and-articles/how-the-most-powerful-environmental-groups-help-greenwash-big-meat-s-climate-impact/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:47.596+01:00","updated":"2026-09-30T19:55:03.627+01:00","dg-note-properties":{"Note Type":"News Report / Blog","tags":[null,null,null,null,null,null],"AI suggested tags":["Planet","The","Butchering"]}}
 ---
 
 ## Free speech needs fearless journalism

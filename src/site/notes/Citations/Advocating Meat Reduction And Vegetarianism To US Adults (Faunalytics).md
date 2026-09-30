@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/advocating-meat-reduction-and-vegetarianism-to-us-adults-faunalytics/","created":"2026-01-28T11:03:06.664+00:00","updated":"2026-01-29T05:00:06.723+00:00"}
+{"dg-publish":true,"permalink":"/citations/advocating-meat-reduction-and-vegetarianism-to-us-adults-faunalytics/","tags":["High_Income_Countries/USA","Meat/Meat_Reduction","Consumer_Research","Psychology"],"created":"2026-01-28T11:03:06.664+00:00","updated":"2026-09-30T19:55:01.303+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/advocating-meat-reduction-and-vegetarianism-to-us-adults/","tags":["High_Income_Countries/USA","Meat/Meat_Reduction","Consumer_Research","Psychology"],"Year Published":"2007","AI suggested tags":["Veg_Diets","Meat/Meat_Consumption","Behaviour_Change"]}}
 ---
 
 Overall meat consumption has remained stable in the past years, but those who have been making changes are significantly more likely to reduce their consumption rather than increase.

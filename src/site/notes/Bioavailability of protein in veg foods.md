@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bioavailability-of-protein-in-veg-foods/","tags":[null],"created":"2025-10-23T17:42:41.556+01:00","updated":"2025-10-30T23:59:27.726+00:00"}
+{"dg-publish":true,"permalink":"/bioavailability-of-protein-in-veg-foods/","tags":["Health/Nutrition"],"created":"2025-10-23T17:42:41.556+01:00","updated":"2026-09-30T19:55:01.222+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Health/Nutrition"],"AI suggested tags":["Meat","Alternative_Proteins/Plant_Based","Alternative_Proteins"]}}
 ---
 
 
@@ -34,3 +34,9 @@ For meat, DIAAS values fall in the range of 0.8–1.4, whereas values for most t
 - [[Citations/Schulze et al., 2023\|Schulze et al., 2023]] finds weak evidence that animal protein is worse for Type 2 diabetes risk than plant protein
 - [[Citations/Ellinger et al., 2023\|Ellinger et al., 2023]] finds getting people to eat more protein does not result in weight loss, and there is not enough evidence at present to conclude that animal protein is better or worse for weight than plant protein.
 - 
+
+# AI suggested related articles
+
+- [[Health risks of veggie veganism\|Health risks of veggie veganism]] (0.71)
+- [[Plant based diets and micronutrients\|Plant based diets and micronutrients]] (0.69)
+- [[Are meat alternatives healthier than meat\|Are meat alternatives healthier than meat]] (0.69)

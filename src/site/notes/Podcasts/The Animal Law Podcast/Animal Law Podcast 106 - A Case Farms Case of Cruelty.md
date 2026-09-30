@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/animal-law-podcast-106-a-case-farms-case-of-cruelty/","tags":["Law","Chickens","High_Income_Countries/USA","Factory_Farming"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.966+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/alp106/","tags":["Law","Chickens","High_Income_Countries/USA","Factory_Farming"],"Year Published":"2024","AI suggested tags":["Activism","Turkeys","Companion_Animals"]}}
+---
+
+Sarah Gold of Legal Impact for Chickens joins us to discuss litigation against giant poultry factory Case Farms. As you may know, I am a big fan of efforts to get anti-cruelty laws to do what they were meant to do, that is, protecting animals from cruelty. What a concept! Those efforts can be extraordinarily difficult to mount, and so I was particularly pleased to see that Legal Impact for Chickens is attempting to use North Carolina’s anti-cruelty law to try to help the poor birds who end up in the hands of Case Farms’ huge hatcheries. North Carolina has an unusual law, unusual in good ways and not-so-good ways, and we will be unpacking that law, what its potential might be for North Carolina chickens, what has happened so far in this case, and what comes next.
+
+Sarah is a litigator with Legal Impact for Chickens. She graduated from the University of California, Berkeley, School of Law. Prior to law school, Sarah worked as a shelter intern at Farm Sanctuary. During law school, she served as president of the Animal Law Society, and interned at Mercy for Animals. After graduating, Sarah worked as a litigation associate at Wilmer Cutler Pickering Hale and Dorr. She also serves as secretary on the board of Sunset Farms Sanctuary, a farmed animal sanctuary in Arkansas.
+
+🎧 [Listen to this episode](https://www.ourhenhouse.org/alp106/) — *The Animal Law Podcast*, 27 March 2024

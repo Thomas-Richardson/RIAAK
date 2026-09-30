@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/animal-law-podcast-105-breaking-the-rules-taxpayer-funded-animal-research-outside-the-us/","tags":["Law","Animal_Welfare","High_Income_Countries/USA"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.965+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/alp105/","tags":["Law","Animal_Welfare","High_Income_Countries/USA"],"Year Published":"2024","AI suggested tags":["Companion_Animals","Activism","Wild_Animals"]}}
+---
+
+Vanessa Shakib joins me once again, and this time, we will be discussing litigation brought by her client, White Coat Waste Project, about a really extraordinary situation at the National Institutes of Health. As you probably know, the NIH funds massive, massive amounts of research on animals. What you may not know is that much of that research does not take place in the United States but in other countries around the world. And what I certainly did not know until this interview is that the requirements regarding animal care that are imposed on foreign research are actually LESS than those imposed on researchers in the US. Crazy, right?
+
+Vanessa Shakib co-founded and co-directs Advancing Law for Animals, a non-profit law firm, where she develops impact litigation to further the interests of animals exploited in research and industrial food production. Her work has been featured by CNN, Fox News, the Washington Post, the Los Angeles Times, the New York Times, USA Today, the Guardian, Science Magazine, and more. Vanessa is an Adjunct Associate Professor of Law at Southwestern Law School, and was awarded 2022-2023 SBA Adjunct Professor of the Year. She also continues to consult on a variety of legal matters through her private practice, Shakib Law, PC.
+
+🎧 [Listen to this episode](https://www.ourhenhouse.org/alp105/) — *The Animal Law Podcast*, 28 February 2024

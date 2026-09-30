@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/animal-law-podcast-100-the-case-of-the-drugged-cattle/","tags":["Law","Cows","Greenwashing","High_Income_Countries/USA"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.958+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/alp100/","tags":["Law","Cows","Greenwashing","High_Income_Countries/USA"],"Year Published":"2023","AI suggested tags":["Geese","Activism","Working_Conditions"]}}
+---
+
+Larissa Liebmann, a Senior Staff Attorney with the Animal Legal Defense Fund, joins me to discuss ALDF v Becerra, in which the plaintiffs are suing the Food and Drug Administration regarding its authorization of the use of a drug known as Experior that is being administered to cattle in spite of potential harms to the animals, the environment, and to people who either work at feedlots or eat the flesh of those cows. The purported purpose of this drug is to reduce the impact on the climate of the ammonia found in cow feces. We are likely to be seeing more and more of this type of greenwashing, and it is dangerous for many reasons.
+
+Larissa Liebmann is a Senior Staff Attorney at the Animal Legal Defense Fund, where she challenges cruel and environmentally destructive industrial animal agricultural practices, with an emphasis on the federal government’s subsidization of industrial animal agriculture through loans, lax regulation, or approving new animal drugs that perpetuate extreme confinement. Prior to joining the Animal Legal Defense Fund, she worked for Waterkeeper Alliance, combating the powerful fossil fuel industry, focusing on the destructive impacts that fossil fuels have on water resources.
+
+🎧 [Listen to this episode](https://www.ourhenhouse.org/alp100/) — *The Animal Law Podcast*, 27 September 2023

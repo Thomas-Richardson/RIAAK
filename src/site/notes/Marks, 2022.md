@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/marks-2022/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:44.117+01:00","updated":"2025-10-30T23:44:53.587+00:00"}
+{"dg-publish":true,"permalink":"/marks-2022/","tags":["Asia","Lower_Middle_Income_Countries"],"created":"2025-10-23T17:42:44.117+01:00","updated":"2026-09-30T19:55:02.480+01:00","dg-note-properties":{"tags":["Asia","Lower_Middle_Income_Countries"],"AI suggested tags":["Farmers","USA","Economics/Jobs"]}}
 ---
 
 

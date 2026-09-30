@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/monitoring-and-eval-in-animal-advo/","tags":[null,null,null,null],"created":"2025-10-23T17:42:41.636+01:00","updated":"2025-10-30T23:44:52.978+00:00"}
+{"dg-publish":true,"permalink":"/monitoring-and-eval-in-animal-advo/","tags":["Movement_Building"],"created":"2025-10-23T17:42:41.636+01:00","updated":"2026-09-30T19:55:02.502+01:00","dg-note-properties":{"tags":["Movement_Building"],"AI suggested tags":["Research/Methods","Meeting_Notes","Project_Idea"]}}
 ---
 
 

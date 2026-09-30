@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/measuring-ghg-emissions/","tags":[null,null,null,null],"created":"2025-10-23T17:42:41.248+01:00","updated":"2025-10-30T23:44:52.911+00:00"}
+{"dg-publish":true,"permalink":"/measuring-ghg-emissions/","tags":["Environment"],"created":"2025-10-23T17:42:41.248+01:00","updated":"2026-09-30T23:02:30.428+01:00","dg-note-properties":{"tags":["Environment"],"AI suggested tags":["Meat/Beef","Environment/GHG","Cattle/Grass_Fed_Cattle"]}}
 ---
 
 

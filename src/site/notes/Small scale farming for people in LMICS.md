@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/small-scale-farming-for-people-in-lmics/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:43.323+01:00","updated":"2025-10-30T23:44:53.409+00:00"}
+{"dg-publish":true,"permalink":"/small-scale-farming-for-people-in-lmics/","tags":["Farming","Lower_Middle_Income_Countries","MFA_Food_Sec"],"created":"2025-10-23T17:42:43.323+01:00","updated":"2026-09-30T19:55:03.464+01:00","dg-note-properties":{"tags":["Farming","Lower_Middle_Income_Countries","MFA_Food_Sec"],"AI suggested tags":["Economics/Jobs","Citation","Animal_Feed"]}}
 ---
 
 
@@ -34,3 +34,9 @@ A study of 60 small-hold dairy farmers in Uganda revealed that farmers were sati
 
 ## References
 [^1]: https://www.bmj.com/content/344/bmj.d8222.full
+
+# AI suggested related articles
+
+- [[The role of small-scale Livestock in food security in low and middle income countries\|The role of small-scale Livestock in food security in low and middle income countries]] (0.83)
+- [[Citations/Blackmore et al 2018\|Citations/Blackmore et al 2018]] (0.81)
+- [[Misc benefits of livestock for people in LMICS\|Misc benefits of livestock for people in LMICS]] (0.75)

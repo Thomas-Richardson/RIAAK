@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quantifying-animal-suffering/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:41.238+01:00","updated":"2025-10-30T23:44:52.909+00:00"}
+{"dg-publish":true,"permalink":"/quantifying-animal-suffering/","tags":["Animal_Welfare","Effective_Altruism"],"created":"2025-10-23T17:42:41.238+01:00","updated":"2026-09-30T19:55:03.420+01:00","dg-note-properties":{"tags":["Animal_Welfare","Effective_Altruism"],"AI suggested tags":["Research/Methods","Chickens","Sentience"]}}
 ---
 
 

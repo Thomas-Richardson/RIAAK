@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pro-animal-messaging/","tags":[null,null,null,null],"created":"2025-10-23T17:42:44.045+01:00","updated":"2025-10-30T23:44:53.582+00:00"}
+{"dg-publish":true,"permalink":"/pro-animal-messaging/","tags":["Messaging"],"created":"2025-10-23T17:42:44.045+01:00","updated":"2026-09-30T19:55:03.387+01:00","dg-note-properties":{"tags":["Messaging"],"AI suggested tags":["Behaviour_Change","Public_Opinion","Persuasion"]}}
 ---
 
 

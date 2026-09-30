@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/some-veggie-vegans-eat-meat/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:41.574+01:00","updated":"2025-10-30T23:44:52.968+00:00"}
+{"dg-publish":true,"permalink":"/some-veggie-vegans-eat-meat/","tags":["Psychology","Veganism"],"created":"2025-10-23T17:42:41.574+01:00","updated":"2026-09-30T19:55:03.472+01:00","dg-note-properties":{"tags":["Psychology","Veganism"],"AI suggested tags":["Veg_Diets","Retention","Behaviour_Change"]}}
 ---
 
 
@@ -11,3 +11,9 @@ The phenomenon whereby people self-identify as vegetarian or vegan yet still eat
 - A simple reason discussed [here](http://www.criticalanimal.com/2019/07/guest-post-response-to-claim-that-only.html) is that many veggies mistakenly think fish is fine.
 
 - [[How many veggies or vegans are there\|How many veggies or vegans are there]]
+
+# AI suggested related articles
+
+- [[Citations/Rosenfeld and Tomiyama 2019\|Citations/Rosenfeld and Tomiyama 2019]] (0.80)
+- [[Citations/Who Are The Vegetarians - Part 2 (Faunalytics)\|Citations/Who Are The Vegetarians - Part 2 (Faunalytics)]] (0.70)
+- [[Factors that predict sticking with veganism\|Factors that predict sticking with veganism]] (0.60)

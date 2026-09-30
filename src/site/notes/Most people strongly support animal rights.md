@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/most-people-strongly-support-animal-rights/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:47.449+01:00","updated":"2026-01-06T10:37:15.351+00:00"}
+{"dg-publish":true,"permalink":"/most-people-strongly-support-animal-rights/","tags":["Animal_Welfare","Consumer_Attitudes"],"created":"2025-10-23T17:42:47.449+01:00","updated":"2026-09-30T19:55:02.513+01:00","dg-note-properties":{"tags":["Animal_Welfare","Consumer_Attitudes"],"AI suggested tags":["Public_Opinion","Attitudes","EU"]}}
 ---
 
 
@@ -21,7 +21,7 @@ Approximately three-quarters of respondents to a 2018 survey conducted for the N
 ## Most people underestimate support for animal welfare
 - [[Citations/Anderson and Tyler, 2018\|Anderson and Tyler, 2018]] is the only study on this I could find but suggested that across the US and BRIC countries, most people think the average citizen of their country is less supportive of animal welfare than they are.
 
-![Pasted image 20240326114512.png|600](/img/user/Citations/Pasted%20image%2020240326114512.png)
+![Pasted image 20240326114512.png\|600](/img/user/Citations/Pasted%20image%2020240326114512.png)
 
 This is also found in environmental studies. 
 
@@ -38,7 +38,7 @@ privately hold more pro-animal beliefs than is apparent from their behavior.
 [^2]: https://www.frontiersin.org/articles/10.3389/fanim.2022.960379/full
 
 ## Most Europeans support high welfare
-#policy 
+#Policy 
 
 https://europa.eu/eurobarometer/surveys/detail/2996
 
@@ -46,4 +46,4 @@ Read the rest of the article and extract info, possible also get the raw data
 
 84% of Europeans believe that the welfare of farmed animals should be better protected in their country than it is now. A similar number (83%) support limiting the transport time of animals. Almost three quarters of respondents (74%) support better protection of the welfare of pet animals in their country and 90% of Europeans consider that farming and breeding practices should meet basic ethical requirements.
 
-![Pasted image 20240426153609.png|500](/img/user/Pasted%20image%2020240426153609.png)
+![Pasted image 20240426153609.png\|500](/img/user/Pasted%20image%2020240426153609.png)

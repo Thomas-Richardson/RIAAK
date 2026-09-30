@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shareholder-activism/","tags":["financial_activism"],"created":"2025-10-23T17:42:43.187+01:00","updated":"2026-01-16T22:25:12.122+00:00"}
+{"dg-publish":true,"permalink":"/shareholder-activism/","tags":["Financial_Activism"],"created":"2025-10-23T17:42:43.187+01:00","updated":"2026-09-30T19:55:03.457+01:00","dg-note-properties":{"tags":["Financial_Activism"],"AI suggested tags":["Sinergia_Defunding_Project","Corporate_Campaigns","Strategy"]}}
 ---
 
 - [[Sinergia financial advocacy project MOC\|Sinergia financial advocacy project MOC]]
@@ -19,5 +19,9 @@ While private equity was once known as an industry where corporate raiders used 
 # May not work with factory farms:
 - Bond-holders do not have any say over how the company is run. 
 - When it comes to shares, most industrial livestock companies are “closely held”, which means the majority of the company’s shares are owned by a few individuals, not publicly traded – so minority shareholders, even collectively, can have limited influence.
+
+# The accountability Board
+has had some decent wins but  usually they do it by making very vague proposals that can win over lots of shareholders. it might be the case that with big food companies shareholder activism aimed squarely at animal welfare is quite a hard sell 
+
 ## Reading
 - https://static1.squarespace.com/static/5d39b86b4c1e5c000178e981/t/629e0b53e6e32100bd330539/1654524759191/FT+Moral+Money+Forum+-+How+should+investors+clean+up+the+world%E2%80%99s+dirtiest+companies_.pdf

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/solutions-to-the-small-body-problem-insight-piece/","tags":[null,null,null,"SE_asia"],"created":"2025-10-23T17:42:47.213+01:00","updated":"2025-10-30T23:44:53.636+00:00"}
+{"dg-publish":true,"permalink":"/solutions-to-the-small-body-problem-insight-piece/","tags":["Animal_Feed","Bryant_Research/Insight","Wild_Animals","SE_Asia"],"created":"2025-10-23T17:42:47.213+01:00","updated":"2026-09-30T23:02:31.018+01:00","dg-note-properties":{"tags":["Animal_Feed","Bryant_Research/Insight","Wild_Animals","SE_Asia"],"Note Type":"undefined","AI suggested tags":["Meat/Meat_Reduction","Alternative_Proteins","Economics/Jobs"]}}
 ---
 
 

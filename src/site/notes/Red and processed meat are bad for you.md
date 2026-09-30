@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/red-and-processed-meat-are-bad-for-you/","tags":[null,null,null,null,null,null,null],"created":"2025-10-23T17:42:47.907+01:00","updated":"2026-01-13T13:41:38.463+00:00"}
+{"dg-publish":true,"permalink":"/red-and-processed-meat-are-bad-for-you/","tags":["Diet","Health/Nutrition","Meat/Red_Meat","Nuts"],"created":"2025-10-23T17:42:47.907+01:00","updated":"2026-09-30T22:10:53.189+01:00","dg-note-properties":{"tags":["Diet","Health/Nutrition","Meat/Red_Meat","Nuts"],"AI suggested tags":["Meat","Meat/Red_Meat","Meat/Meat_Consumption"]}}
 ---
 
 - [[Bryant Confidential/CAWF NHS report MOC\|CAWF NHS report MOC]]
@@ -29,3 +29,9 @@ The dose-response between processed meat and cancer mortality is linear, but non
 [^7]: Micha R, Michas G, Mozaffarian D. Unprocessed red and processed meats and risk of coronary artery disease and type 2 diabetes—an updated review of the evidence. Curr Atheroscler Rep. 2012; 14: 515–524. https://doi.org/10.1007/s11883-012-0282-8 PMID: 23001745
 [^8]: Wang X, Lin X, Ouyang YY, Liu J, Zhao G, Pan A, et al. Red and processed meat consumption and mortality: dose-response meta-analysis of prospective cohort studies. Public Health Nutr. 2016; 19: 893–905. https://doi.org/10.1017/S1368980015002062 PMID: 26143683
 [^9]: Chan DSM, Lau R, Aune D, Vieira R, Greenwood DC, Kampman E, et al. Red and processed meat and colorectal cancer incidence: meta-analysis of prospective studies. PLoS One. 2011; 6: e20456. https://doi.org/10.1371/journal.pone.0020456 PMID: 21674008
+
+# AI suggested related articles
+
+- [[Citations/Wang et al., 2016\|Citations/Wang et al., 2016]] (0.78)
+- [[Citations/Han et al., 2019\|Citations/Han et al., 2019]] (0.72)
+- [[Citations/aston et al., 2022\|Citations/aston et al., 2022]] (0.72)

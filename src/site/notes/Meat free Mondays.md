@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/meat-free-mondays/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:43.070+01:00","updated":"2025-11-04T12:15:34.359+00:00"}
+{"dg-publish":true,"permalink":"/meat-free-mondays/","tags":["Behaviour_Change","Veganism"],"created":"2025-10-23T17:42:43.070+01:00","updated":"2026-09-30T23:02:30.436+01:00","dg-note-properties":{"tags":["Behaviour_Change","Veganism"],"AI suggested tags":["Meat/Meat_Reduction","Institutional_Change","Health/Nutrition"]}}
 ---
 
 
@@ -39,7 +39,7 @@ When the Norwegian military tried to introduce Meatless Monday's in 2013 it met 
 
 Doing it on Monday is a good idea because people are more likely to contemplate healthier choices at the start of the week ([here](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/1761921) and [here](https://www.sciencedirect.com/science/article/abs/pii/S0749379714000993) both unread)
 
-Research idea: replicate this[^2] but for meat free Mondays or Veganuary #Bryant/Project/Idea
+Research idea: replicate this[^2] but for meat free Mondays or Veganuary #Bryant_Research/Project/Idea
 Another idea: Environmental impact of meat free Mondays compared to eating local.
 
 [[Citations/Lombardini & Lankoski (2013)\|Lombardini & Lankoski (2013)]] discusses a mandatory Meat free Monday implemented in Helsinki schools
@@ -50,7 +50,7 @@ A 2017 review of Meatless Monday campaigns at twelve Bon Appetit Management Comp
 
 from Semba et al.,
 
-![Pasted image 20240401150348.png|500](/img/user/Pasted%20image%2020240401150348.png) From [^3]
+![Pasted image 20240401150348.png\|500](/img/user/Pasted%20image%2020240401150348.png) From [^3]
 ## Reading list for review (identified all research up to April 2024)
 To update, simply search for new citations of these papers
 - [Alterma-Johnson et al., 2023](https://doi-org.eux.idm.oclc.org/10.1016/j.jneb.2023.05.152)
@@ -82,3 +82,9 @@ As of 2017, Ghent had the most vegetarian restaurants per capita in the world, w
 [^1]: Milford, A. B., & Kildal, C. (2019). Meat reduction by force: the case of “meatless Monday” in the Norwegian armed forces. _Sustainability_, _11_(10), 2741.
 [^2]: Ayers JW, Westmaas JL, Leas EC, et al. Leveraging Big Data to Improve Health Awareness Campaigns: A Novel Evaluation of the Great American Smokeout. _JMIR Public Health Surveill._ 2016;2(1):e16. Published 2016 Mar 31. doi:10.2196/publichealth.5304
 [^3]: Semba, R. D., Neu, P., Berg, P., Harding, J., McKenzie, S., & Ramsing, R. (2024). The origins and growth of the Meatless Monday movement. _Frontiers in Nutrition_, _11_, 1283239. https://www.frontiersin.org/articles/10.3389/fnut.2024.1283239/full
+
+# AI suggested related articles
+
+- [[Citations/Ewens et al., 2023\|Citations/Ewens et al., 2023]] (0.77)
+- [[Plant-based hospitals\|Plant-based hospitals]] (0.72)
+- [[Citations/Planting Seeds- The Impact Of Diet & Different Animal Advocacy Tactics (Faunalytics)\|Citations/Planting Seeds- The Impact Of Diet & Different Animal Advocacy Tactics (Faunalytics)]] (0.70)

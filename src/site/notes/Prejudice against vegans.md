@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/prejudice-against-vegans/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:43.152+01:00","updated":"2025-10-30T23:44:53.371+00:00"}
+{"dg-publish":true,"permalink":"/prejudice-against-vegans/","tags":["Psychology","Veganism"],"created":"2025-10-23T17:42:43.152+01:00","updated":"2026-09-30T19:55:03.382+01:00","dg-note-properties":{"tags":["Psychology","Veganism"],"AI suggested tags":["Veg_Diets","Bryant_Research","Behaviour_Change"]}}
 ---
 
 
@@ -13,3 +13,10 @@ vegetarians and vegans were evaluated equivalently to immigrants, asexuals, and 
 
 See also [Judge and Wilson 2019](https://scholar.google.com/scholar_url?url=https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.2386&hl=en&sa=T&oi=gsb&ct=res&cd=0&d=5693357550605340827&ei=uyQUZ9SxMKS-y9YP-Yn02Q8&scisig=AFWwaeaVfS8kE9maLTzlSItV4F0h)
 
+
+
+# AI suggested related articles
+
+- [[Summer Survey 2025 ideas\|Summer Survey 2025 ideas]] (0.63)
+- [[Citations/Hodson and Earle, (2018)\|Citations/Hodson and Earle, (2018)]] (0.63)
+- [[Citations/Reist et al., 2023\|Citations/Reist et al., 2023]] (0.61)

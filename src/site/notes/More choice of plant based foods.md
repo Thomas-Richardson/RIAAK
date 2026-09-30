@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/more-choice-of-plant-based-foods/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:47.218+01:00","updated":"2025-10-30T23:44:53.637+00:00"}
+{"dg-publish":true,"permalink":"/more-choice-of-plant-based-foods/","tags":["Behaviour_Change","Veganism"],"created":"2025-10-23T17:42:47.218+01:00","updated":"2026-09-30T19:55:02.505+01:00","dg-note-properties":{"tags":["Behaviour_Change","Veganism"],"AI suggested tags":["Alternative_Proteins/Plant_Based","Alternative_Proteins","Citation"]}}
 ---
 
 

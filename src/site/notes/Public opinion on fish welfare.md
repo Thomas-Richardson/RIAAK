@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public-opinion-on-fish-welfare/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:47.314+01:00","updated":"2025-10-30T23:44:53.656+00:00"}
+{"dg-publish":true,"permalink":"/public-opinion-on-fish-welfare/","tags":["Consumer_Attitudes","Fish"],"created":"2025-10-23T17:42:47.314+01:00","updated":"2026-09-30T19:55:03.418+01:00","dg-note-properties":{"tags":["Consumer_Attitudes","Fish"],"AI suggested tags":["Attitudes","Fish/Farmed","EU"]}}
 ---
 
 
@@ -22,7 +22,7 @@ The 12 countries included: China, Czech Republic, France, Germany, Greece, Italy
 - Consumers primarily prioritize factors such as freshness, quality, and cost when selecting fish. Additionally, 61% of consumers also take into account welfare-related considerations.
 - The willingness to pay for higher welfare fish products is quite high: 9 out of 10 would like to buy higher welfare fish products, with almost 1 out of 4 willing to pay a significant premium.
 - Consumers recognize numerous benefits in opting for higher welfare fish products, encompassing both the welfare of the fish and the overall quality of the food. 
-- EU citizens seem to associate aquatic animal welfare considerations with sustainability labels #labelling 
+- EU citizens seem to associate aquatic animal welfare considerations with sustainability labels #Policy/Labeling 
 - They also show openness to having information about fish farming practices on the labels of fish products.
 - Their current knowledge on common labels is nevertheless poor: they either lack awareness or believe that these labels impose rigorous welfare standards.
 -
@@ -34,3 +34,10 @@ These notes appear semantically similar based on Smart Connections embeddings:
 - [[Citations/How much do Europeans care about fish welfare (An analysis of relevant surveys) (Rethink Priorities)\|How much do Europeans care about fish welfare (An analysis of relevant surveys) (Rethink Priorities)]] (similarity: 79.6%)
 - [[Most people strongly support animal rights\|Most people strongly support animal rights]] (similarity: 75.4%)
 - [[Citations/Looking Beneath the Surface - Fish Welfare in European Aquaculture (Eurogroup for Animals)\|Looking Beneath the Surface - Fish Welfare in European Aquaculture (Eurogroup for Animals)]] (similarity: 74.1%)
+
+
+# AI suggested related articles
+
+- [[Citations/How much do Europeans care about fish welfare (An analysis of relevant surveys) (Rethink Priorities)\|Citations/How much do Europeans care about fish welfare (An analysis of relevant surveys) (Rethink Priorities)]] (0.81)
+- [[Citations/U.S. Beliefs About Chickens And Fish & Their Relation To Animal-Positive Behaviors (Faunalytics)\|Citations/U.S. Beliefs About Chickens And Fish & Their Relation To Animal-Positive Behaviors (Faunalytics)]] (0.76)
+- [[Citations/Looking Beneath the Surface - Fish Welfare in European Aquaculture (Eurogroup for Animals)\|Citations/Looking Beneath the Surface - Fish Welfare in European Aquaculture (Eurogroup for Animals)]] (0.73)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misc-benefits-of-livestock-for-people-in-lmics/","tags":[null,null,null,null],"created":"2025-10-23T17:42:47.531+01:00","updated":"2025-10-30T23:44:53.747+00:00"}
+{"dg-publish":true,"permalink":"/misc-benefits-of-livestock-for-people-in-lmics/","tags":["MFA_Food_Sec"],"created":"2025-10-23T17:42:47.531+01:00","updated":"2026-09-30T19:55:02.499+01:00","dg-note-properties":{"tags":["MFA_Food_Sec"],"AI suggested tags":["Lower_Middle_Income_Countries","Farming","Economics/Jobs"]}}
 ---
 
 
@@ -23,3 +23,9 @@ Interviews with African Veterinary health scientists by [[Citations/Couture, Han
 ## Culture 
 Livestock, particularly cattle, play a vital role in the cultural identity and social structure of Indigenous African communities such as the Borana people in northern Kenya and southern Ethiopia. Cattle hold symbolic and cultural significance, being slaughtered for various purposes such as meat consumption, rituals, and ceremonial events. To the Borana people, ownership of cattle not only provides resources but also enhances social status and identity within the community, contributing to food security through traditional practices of wealth sharing and fostering social bonds through communal meals.
 # # References
+
+# AI suggested related articles
+
+- [[The role of small-scale Livestock in food security in low and middle income countries\|The role of small-scale Livestock in food security in low and middle income countries]] (0.75)
+- [[Food stability for people in LMICs and animal agriculture\|Food stability for people in LMICs and animal agriculture]] (0.73)
+- [[CAFOs undermine cultural benefits of livestock\|CAFOs undermine cultural benefits of livestock]] (0.71)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/new-research-database-for-evidence-based-meat-reduction/","tags":["Meat/meat_reduction"],"created":"2025-10-30T16:19:09.099+00:00","updated":"2025-12-10T12:58:41.860+00:00"}
+{"dg-publish":true,"permalink":"/new-research-database-for-evidence-based-meat-reduction/","tags":["Meat/Meat_Reduction"],"created":"2025-10-30T16:19:09.099+00:00","updated":"2026-09-30T19:55:02.517+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rpstrategicanimalinsights.substack.com/p/database-for-meat-reduction?utm_source=post-email-title&publication_id=4856624&post_id=177563905&utm_campaign=email-post-title&isFreemail=true&r=1gqdct&triedRedirect=true&utm_medium=email","tags":["Meat/Meat_Reduction"],"AI suggested tags":["Meat_Reduction","External_Resource","Research/Methods"]}}
 ---
 
 
@@ -88,3 +88,10 @@ These notes appear semantically similar based on Smart Connections embeddings:
 - [[Citations/Database of sources investigating interventions to reduce meat and animal product consumption (Rethink Priorities)\|Database of sources investigating interventions to reduce meat and animal product consumption (Rethink Priorities)]] (similarity: 82.7%)
 - [[Citations/Meat consumption and production in developing countries - who bucks the trend - An agenda for animal advocacy researchers (Animal Ask)\|Meat consumption and production in developing countries - who bucks the trend - An agenda for animal advocacy researchers (Animal Ask)]] (similarity: 68.5%)
 - [[Citations/Meat reduction - How much can digital media and mass media help (Animal Ask)\|Meat reduction - How much can digital media and mass media help (Animal Ask)]] (similarity: 68.1%)
+
+
+# AI suggested related articles
+
+- [[Citations/Database of sources investigating interventions to reduce meat and animal product consumption (Rethink Priorities)\|Citations/Database of sources investigating interventions to reduce meat and animal product consumption (Rethink Priorities)]] (0.83)
+- [[Citations/Meat consumption and production in developing countries - who bucks the trend - An agenda for animal advocacy researchers (Animal Ask)\|Citations/Meat consumption and production in developing countries - who bucks the trend - An agenda for animal advocacy researchers (Animal Ask)]] (0.73)
+- [[Citations/Quantifying The Small Body Problem - A Meta-Analysis Of Animal Product Reduction Interventions (Faunalytics)\|Citations/Quantifying The Small Body Problem - A Meta-Analysis Of Animal Product Reduction Interventions (Faunalytics)]] (0.72)

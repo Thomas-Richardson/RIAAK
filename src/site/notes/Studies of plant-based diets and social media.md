@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/studies-of-plant-based-diets-and-social-media/","tags":[null,null,null,null],"created":"2025-10-23T17:42:42.772+01:00","updated":"2025-10-30T23:44:53.212+00:00"}
+{"dg-publish":true,"permalink":"/studies-of-plant-based-diets-and-social-media/","tags":["Bryant_Research/Project/Good_Growth_Social_Listening"],"created":"2025-10-23T17:42:42.772+01:00","updated":"2026-09-30T23:02:31.031+01:00","dg-note-properties":{"tags":["Bryant_Research/Project/Good_Growth_Social_Listening"],"AI suggested tags":["Behaviour_Change","Consumer_Research","Veg_Diets"]}}
 ---
 
 
@@ -13,7 +13,7 @@
 - Vegan is slightly less positively talked about than most diets except Keto where its the same, paleo, non-GMO, organic and mediterranean diet all rated more positively.
 - tweets mentioning animal rights or animal liberation were most frequently negative in tone whereas effective animal advo was more positive. Probably because animal rights/liberation people are angrier
 
-![Pasted image 20241018152507.png|400](/img/user/Pasted%20image%2020241018152507.png)
+![Pasted image 20241018152507.png\|400](/img/user/Pasted%20image%2020241018152507.png)
 
 - [[Citations/Kadel et al., 2024\|Kadel et al., 2024]]
 

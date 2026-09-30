@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/one-health/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:43.660+01:00","updated":"2025-10-30T23:44:53.484+00:00"}
+{"dg-publish":true,"permalink":"/one-health/","tags":["Farming","Health/Nutrition"],"created":"2025-10-23T17:42:43.660+01:00","updated":"2026-09-30T19:55:02.524+01:00","dg-note-properties":{"tags":["Farming","Health/Nutrition"],"AI suggested tags":["Health/Disease","Lower_Middle_Income_Countries","Health"]}}
 ---
 
 

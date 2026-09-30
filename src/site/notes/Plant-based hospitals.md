@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/plant-based-hospitals/","tags":[null,null,null,null,null,null,null,null],"created":"2025-10-23T17:42:42.063+01:00","updated":"2025-11-06T09:49:50.261+00:00"}
+{"dg-publish":true,"permalink":"/plant-based-hospitals/","tags":["Behaviour_Change","Environment","Health/Nutrition","Institutional_Change","Veganism"],"created":"2025-10-23T17:42:42.063+01:00","updated":"2026-09-30T23:02:30.508+01:00","dg-note-properties":{"tags":["Behaviour_Change","Environment","Health/Nutrition","Institutional_Change","Veganism"],"AI suggested tags":["Case_Study","Economics/Costs","Research/YouGov"]}}
 ---
 
 
@@ -57,6 +57,13 @@ Poor dietary quality is a leading contributor to mortality in the United States,
 *   The report includes sample plant-based menus from hospitals, featuring dishes such as Tofu Scramble, Black Bean Burgers, Lentil Bolognese, and Tofu Vegetable Stir Fry as replacements for traditional meat-based options.
 *   The core argument is that hospitals can use a patient's stay as a "teachable moment" to introduce and model healthful dietary changes that patients can continue after discharge.
 
+# AI suggested related articles
+
+- [[Plant-based hospitals\|Plant-based hospitals]] (0.73)
+- [[Citations/Saldivar et al., 2022\|Citations/Saldivar et al., 2022]] (0.71)
+- [[Citations/Sadler et al., 2025\|Citations/Sadler et al., 2025]] (0.70)
+
+
 </div></div>
  
 
@@ -83,6 +90,13 @@ Poor dietary quality is a leading contributor to mortality in the United States,
 *   The report includes sample plant-based menus from hospitals, featuring dishes such as Tofu Scramble, Black Bean Burgers, Lentil Bolognese, and Tofu Vegetable Stir Fry as replacements for traditional meat-based options.
 *   The core argument is that hospitals can use a patient's stay as a "teachable moment" to introduce and model healthful dietary changes that patients can continue after discharge.
 
+# AI suggested related articles
+
+- [[Plant-based hospitals\|Plant-based hospitals]] (0.73)
+- [[Citations/Saldivar et al., 2022\|Citations/Saldivar et al., 2022]] (0.71)
+- [[Citations/Sadler et al., 2025\|Citations/Sadler et al., 2025]] (0.70)
+
+
 </div></div>
 
 
@@ -107,6 +121,13 @@ Poor dietary quality is a leading contributor to mortality in the United States,
 *   These initiatives extend beyond menus to include educational programs, such as outpatient lifestyle medicine clinics, cooking classes, and partnerships with local farmers markets (e.g., Kaiser Permanente).
 *   The report includes sample plant-based menus from hospitals, featuring dishes such as Tofu Scramble, Black Bean Burgers, Lentil Bolognese, and Tofu Vegetable Stir Fry as replacements for traditional meat-based options.
 *   The core argument is that hospitals can use a patient's stay as a "teachable moment" to introduce and model healthful dietary changes that patients can continue after discharge.
+
+# AI suggested related articles
+
+- [[Plant-based hospitals\|Plant-based hospitals]] (0.73)
+- [[Citations/Saldivar et al., 2022\|Citations/Saldivar et al., 2022]] (0.71)
+- [[Citations/Sadler et al., 2025\|Citations/Sadler et al., 2025]] (0.70)
+
 
 </div></div>
 
@@ -133,6 +154,13 @@ Poor dietary quality is a leading contributor to mortality in the United States,
 *   The report includes sample plant-based menus from hospitals, featuring dishes such as Tofu Scramble, Black Bean Burgers, Lentil Bolognese, and Tofu Vegetable Stir Fry as replacements for traditional meat-based options.
 *   The core argument is that hospitals can use a patient's stay as a "teachable moment" to introduce and model healthful dietary changes that patients can continue after discharge.
 
+# AI suggested related articles
+
+- [[Plant-based hospitals\|Plant-based hospitals]] (0.73)
+- [[Citations/Saldivar et al., 2022\|Citations/Saldivar et al., 2022]] (0.71)
+- [[Citations/Sadler et al., 2025\|Citations/Sadler et al., 2025]] (0.70)
+
+
 </div></div>
 
 ## References
@@ -141,3 +169,9 @@ Poor dietary quality is a leading contributor to mortality in the United States,
 [^3]: Vadiveloo MK, Malik VS, Spiegelman D, Willett WC, Mattei J. Does a grill menu redesign influence sales, nutrients purchased, and consumer acceptance in a worksite cafeteria? Prev Med Rep. 2017;8:140-147. doi:10.1016/j.pmedr.2017.09.001.
 [^4]: Thorndike AN, Sonnenberg L, Riis J, Barraclough S, Levy DE. A 2-phase labeling and choice architecture intervention to improve healthy food and beverage choices. Am J Publ Health. 2012;102(3):527-533. doi: 10.2105/AJPH.2011.300391.
 [^5]: https://assets.researchsquare.com/files/rs-3485989/v1/a2933b8e-9742-48b1-b613-8232e8b32645.pdf?c=1700822888
+
+# AI suggested related articles
+
+- [[Citations/Saldivar et al., 2022\|Citations/Saldivar et al., 2022]] (0.74)
+- [[Case studies of plant-forward procurement\|Case studies of plant-forward procurement]] (0.73)
+- [[Citations/Aggarwal et al., 2020\|Citations/Aggarwal et al., 2020]] (0.73)

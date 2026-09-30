@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/organic-agriculture/","tags":[null,null,null,null],"created":"2025-10-23T17:42:47.848+01:00","updated":"2025-10-30T23:44:53.795+00:00"}
+{"dg-publish":true,"permalink":"/organic-agriculture/","tags":["Farming"],"created":"2025-10-23T17:42:47.848+01:00","updated":"2026-09-30T23:02:30.499+01:00","dg-note-properties":{"tags":["Farming"],"AI suggested tags":["Environment/GHG","Bryant_Research/Project/CAWF_Food_Sec","Environment"]}}
 ---
 
 

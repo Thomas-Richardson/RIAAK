@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/red-and-processed-meat-and-cancer/","tags":[null,null,null,null,null,null,null],"created":"2025-10-23T17:42:43.289+01:00","updated":"2025-10-30T23:44:53.398+00:00"}
+{"dg-publish":true,"permalink":"/red-and-processed-meat-and-cancer/","tags":["Diet","Health/Nutrition","Meat","Meat/Red_Meat"],"created":"2025-10-23T17:42:43.289+01:00","updated":"2026-09-30T22:10:53.302+01:00","dg-note-properties":{"tags":["Diet","Health/Nutrition","Meat","Meat/Red_Meat"],"AI suggested tags":["Nuts","Meat/Red_Meat","Health/Disease"]}}
 ---
 
 
@@ -26,3 +26,10 @@ https://oatao.univ-toulouse.fr/21518/1/Bouvard_21518.pdf
 
 ## References
 [^1]: Bouvard V, Loomis D, Guyton KZ, Grosse Y, Ghissassi F El, Benbrahim-Tallaa L, et al. Carcinogenicity of consumption of red and processed meat. Lancet Oncol. 2015; 16: 1599–1600. https://doi.org/10. 1016/S1470-2045(15)00444-1 PMID: 26514947
+
+
+# AI suggested related articles
+
+- [[Citations/Farvid et al., 2021\|Citations/Farvid et al., 2021]] (0.75)
+- [[Citations/Han et al., 2019\|Citations/Han et al., 2019]] (0.74)
+- [[Citations/Wang et al., 2016\|Citations/Wang et al., 2016]] (0.74)

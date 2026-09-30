@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/solutions-to-micronutrient-deficiencies-in-lmi-cs/","tags":["#Health/Nutrition","#lower_middle_income_countries"],"created":"2025-10-23T17:42:47.826+01:00","updated":"2025-11-04T12:13:07.021+00:00"}
+{"dg-publish":true,"permalink":"/solutions-to-micronutrient-deficiencies-in-lmi-cs/","tags":["Health/Nutrition","Lower_Middle_Income_Countries"],"created":"2025-10-23T17:42:47.826+01:00","updated":"2026-09-30T19:55:03.468+01:00","dg-note-properties":{"Note Type":"Own Work","tags":["Health/Nutrition","Lower_Middle_Income_Countries"],"AI suggested tags":["MFA_Food_Sec","Food_Security","Farming"]}}
 ---
 
 ## [[Future smart foods\|Future smart foods]]
@@ -19,3 +19,9 @@
 - [[Do the global poor need nutrients from animal products\|Do the global poor need nutrients from animal products]]
 - [[Health risks of veggie veganism\|Health risks of veggie veganism]]
 - [[World hunger\|World hunger]]
+
+# AI suggested related articles
+
+- [[Citations/Li, Yadav & Siddique, 2020\|Citations/Li, Yadav & Siddique, 2020]] (0.70)
+- [[Citations/Leonard et al., 2024\|Citations/Leonard et al., 2024]] (0.67)
+- [[Feeding the world nutrition over calories, plants over animals\|Feeding the world nutrition over calories, plants over animals]] (0.67)

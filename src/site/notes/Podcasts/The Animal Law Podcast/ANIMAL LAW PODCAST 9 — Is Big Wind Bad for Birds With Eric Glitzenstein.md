@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/animal-law-podcast-9-is-big-wind-bad-for-birds-with-eric-glitzenstein/","tags":["Law","Wild_Animals","Environment","High_Income_Countries/USA"],"created":"2026-07-15T12:19:41.000+01:00","updated":"2026-09-30T19:55:02.955+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/animal-law-podcast-9-is-big-wind-bad-for-birds-with-eric-glitzenstein/","tags":["Law","Wild_Animals","Environment","High_Income_Countries/USA"],"Year Published":"2016","AI suggested tags":["Turkeys","Activism","Companion_Animals"]}}
+---
+
+Great news! For Episode 9 of the Animal Law Podcast, I will be joined by the brilliant Eric Glitzenstein of Meyer, Glitzenstein and Eubanks in Washington, DC. Eric is a highly experienced environmental and animal attorney and what he has to say about the wind industry (yup) and animals may surprise you. He’ll be discussing some recent successful litigation brought to make sure that the Fish and Wildlife Service does not let Big Wind off the hook in making sure that it sites its projects in ways that do not destroy eagle populations. This interview really highlights that, when it comes to animals, messing with the environment — even with good intentions — must be done with care and attention to the needs of animals.
+
+I’ll also be talking about an update on PETA’s suit against Whole Foods, which I spoke about with PETA attorney Jared Goodman on Episode 5, and I’ll be shooting off my mouth about why animal protection groups are not necessarily all on the same page when it comes to going after products derived from animals that are better than the rest, but still pretty awful.
+
+🎧 [Listen to this episode](https://www.ourhenhouse.org/animal-law-podcast-9-is-big-wind-bad-for-birds-with-eric-glitzenstein/) — *The Animal Law Podcast*, 24 February 2016

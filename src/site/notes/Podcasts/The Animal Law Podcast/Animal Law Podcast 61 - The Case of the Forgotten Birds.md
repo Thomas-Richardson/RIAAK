@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/animal-law-podcast-61-the-case-of-the-forgotten-birds/","tags":["Law","High_Income_Countries/USA","Companion_Animals","Wild_Animals"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:03.049+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/animal-law-podcast-61-the-case-of-the-forgotten-birds/","tags":["Law","High_Income_Countries/USA","Companion_Animals","Wild_Animals"],"Year Published":"2020","AI suggested tags":["Turkeys","Geese","Activism"]}}
+---
+
+On this episode of the Animal Law Podcast, I speak with Bruce Wagman about American Anti-Vivisection Society v USDA, in which the 9th Circuit recently held that, at long (really, really long) last, the USDA will be required to write regulations to protect those birds who are covered by the Animal Welfare Act, such as those in the wholesale pet trade, in zoos, etc. Bruce and I last discussed this same issue on Episode 8, during a prior attempt to force the agency to do its duty, and it is a real joy to see this issue resolved in the birds’ favor.
+
+Bruce Wagman conducts an exclusive animal law practice at Riley Safer Holmes and Cancila, where he litigates, drafts animal-friendly legislation, oversees rescue operations, and consults clients who care for and protect animals. He is the co-author of Animal Law: Cases and Materials and A Worldview of Animal Law. He is also a founder of Project Chimps, a chimpanzee sanctuary that is home to chimpanzees retired from research laboratories. His practice covers a broad range of animal-related legal issues — including cases involving the use of animals in entertainment, biomedical research, animal agriculture/food production, animal cruelty, and wildlife control.
+
+🎧 [Listen to this episode](https://www.ourhenhouse.org/animal-law-podcast-61-the-case-of-the-forgotten-birds/) — *The Animal Law Podcast*, 24 June 2020

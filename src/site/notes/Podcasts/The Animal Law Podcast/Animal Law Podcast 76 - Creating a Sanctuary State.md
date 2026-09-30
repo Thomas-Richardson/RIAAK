@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/animal-law-podcast-76-creating-a-sanctuary-state/","tags":["Law","High_Income_Countries/USA","Activism","Factory_Farming"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:03.070+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/alp76/","tags":["Law","High_Income_Countries/USA","Activism","Factory_Farming"],"Year Published":"2021","AI suggested tags":["Companion_Animals","Tactics","Animal_Ethics"]}}
+---
+
+On this episode of the Animal Law Podcast, I speak with David Michelson, Oregon-based animal rights activist and chief petitioner of the Yes On IP13 campaign, which is the effort to pass a ballot initiative that would dramatically change the legal landscape for animals in that state. Basically, what they are trying to do is to make Oregon’s anti-cruelty law do what it purports to do and what many people erroneously think it already does, i.e., protect animals from cruelty. Sounds like a modest concept, but, as we all know, if they are successful, it would change everything. Honestly, this interview kind of blew my mind and shifted my horizons about what is possible. I hope it does the same for you.
+
+David Michelson is an Oregon-based animal rights activist operating as the chief petitioner of the Yes On IP13 campaign and serving as director of the petition committee End Animal Cruelty. Originally with a background in psychology and public health, David’s dedication to animal rights activism began after bearing witness to the pigs being sentenced to gas chambers as part of the slaughter process. After first joining the animal rights movement in Denver, Colorado as an organizer for street outreach, David has since relocated to Portland.
+
+🎧 [Listen to this episode](https://www.ourhenhouse.org/alp76/) — *The Animal Law Podcast*, 29 September 2021

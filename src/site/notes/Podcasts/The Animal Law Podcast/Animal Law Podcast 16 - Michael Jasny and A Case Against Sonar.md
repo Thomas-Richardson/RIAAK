@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/animal-law-podcast-16-michael-jasny-and-a-case-against-sonar/","tags":["Wild_Animals","Environment/Pollution","Law","High_Income_Countries/USA"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.984+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/animal-law-podcast-16-michael-jasny-and-a-case-against-sonar/","tags":["Wild_Animals","Environment/Pollution","Law","High_Income_Countries/USA"],"Year Published":"2016","AI suggested tags":["Activism","Geese","Companion_Animals"]}}
+---
+
+Welcome to the 16th episode of the Animal Law Podcast! Today, I am joined by Michael Jasny, Director of the Marine Mammal Protection Project at the NRDC (Natural Resources Defense Council). Michael is a leading expert in the law and policy of ocean noise pollution. For more than a decade, he has directed high-profile litigation, lobbying efforts, science-based policy development, and public advocacy to improve the regulation of this emergent global problem.
+
+On today’s show, Michael tells us about a recent victory for whales and other marine mammals in the 9th Circuit. In NRDC v Pritzker, the court was confronted with the questions that arise under the Marine Mammal Protection Act when the Navy is too noisy. Of course, what we’re talking about here is not ordinary noise, it’s the kind of unrelenting noise created by sonar that can drive these animals insane. You’re going to want to hear all about this victory, and why the Marine Mammal Protection Act is such a powerful statute for animals (and why it’s not nearly powerful enough).
+
+🎧 [Listen to this episode](https://www.ourhenhouse.org/animal-law-podcast-16-michael-jasny-and-a-case-against-sonar/) — *The Animal Law Podcast*, 28 September 2016

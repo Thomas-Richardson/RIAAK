@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/pew-commission-2008/","tags":["citation","factory_farming","farming","pigs"],"created":"2025-11-11T23:29:28.827+00:00","updated":"2025-11-11T23:29:28.827+00:00"}
+{"dg-publish":true,"permalink":"/citations/pew-commission-2008/","tags":["Citation","Factory_Farming","Farming","Pigs"],"created":"2025-11-11T23:29:28.827+00:00","updated":"2026-09-30T19:55:01.897+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Citation","Factory_Farming","Farming","Pigs"],"AI suggested tags":["USA","Health/Disease","Economics/Jobs"]}}
 ---
 
 
@@ -24,7 +24,7 @@ https://clf.jhsph.edu/sites/default/files/2022-03/impact-of-industrial-farm-anim
 ## CAFOs divert resources from local communities
 - Typically, cafos associated with processors and dominant corporations tend to bypass local communities when purchasing supplies and services (young livestock, feed, veterinary services and medicine, construction materials and services, etc.) and, therefore, do not add economic activity
 - They provide their own vets with their own antibiotics, they don't purchase feed from local vendors
-- They review literature to show that #pigs CAFO proliferation has been associated with economic decline in Illinois, Michigan, Iowa, and Wisconsin. 
+- They review literature to show that #Pigs CAFO proliferation has been associated with economic decline in Illinois, Michigan, Iowa, and Wisconsin. 
 - Greater concentration of CAFOs is even associated with greater food stamp use.
 - By diverting resources from local communities, any job increases from CAFOs are offset by the decline in jobs and wages that the local area suffers as a result of decreased business from animal agriculture.
 
@@ -33,3 +33,9 @@ Production contracts shift economic power from farmers to livestock processors. 
 
 ## They make people sick
 It is clear that at least 25% of confinement workers suffer from respiratory diseases, including: bronchitis, mucous membrane irritation, asthma-like problems, and acute respiratory distress syndrome.
+
+# AI suggested related articles
+
+- [[CAFOs injure and sicken their workers\|CAFOs injure and sicken their workers]] (0.76)
+- [[Mixed evidence that nearby CAFOs make people sicker\|Mixed evidence that nearby CAFOs make people sicker]] (0.73)
+- [[CAFOs distort markets\|CAFOs distort markets]] (0.72)

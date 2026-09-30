@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/mc-bey-et-al-2026/","created":"2025-11-12T15:51:21.384+00:00","updated":"2025-11-12T15:51:21.599+00:00"}
+{"dg-publish":true,"permalink":"/citations/mc-bey-et-al-2026/","tags":["Meat/Meat_Reduction","Policy/Food_Policy","Behaviour_Change","High_Income_Countries/UK"],"created":"2025-11-12T15:51:21.384+00:00","updated":"2026-09-30T19:55:01.824+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.sciencedirect.com/science/article/pii/S095032932500268X","tags":["Meat/Meat_Reduction","Policy/Food_Policy","Behaviour_Change","High_Income_Countries/UK"],"Year Published":"2026","AI suggested tags":["Meat/Meat_Consumption","Bryant/Insight","Meat"]}}
 ---
 
 ## Highlights

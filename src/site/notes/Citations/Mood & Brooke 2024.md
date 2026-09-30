@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/mood-and-brooke-2024/","tags":[null,null,null],"created":"2025-10-23T17:42:45.794+01:00","updated":"2025-10-30T23:44:54.135+00:00"}
+{"dg-publish":true,"permalink":"/citations/mood-and-brooke-2024/","tags":["Citation","Fish","Wild_Animals"],"created":"2025-10-23T17:42:45.794+01:00","updated":"2026-09-30T19:55:01.847+01:00","dg-note-properties":{"tags":["Citation","Fish","Wild_Animals"],"Note Type":"undefined","AI suggested tags":["Fish/Farmed","Animal_Welfare","Animal_Feed"]}}
 ---
 
 

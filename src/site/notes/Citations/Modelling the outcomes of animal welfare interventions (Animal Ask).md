@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/modelling-the-outcomes-of-animal-welfare-interventions-animal-ask/","tags":["wild_animals"],"created":"2025-10-23T17:42:46.216+01:00","updated":"2025-10-23T19:20:34.057+01:00"}
+{"dg-publish":true,"permalink":"/citations/modelling-the-outcomes-of-animal-welfare-interventions-animal-ask/","tags":["Wild_Animals"],"created":"2025-10-23T17:42:46.216+01:00","updated":"2026-09-30T19:55:01.842+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.animalask.org/post/modelling-the-outcomes-of-animal-welfare-interventions-one-possible-approach-to-the-trade-offs-betw","tags":["Wild_Animals"],"Year Published":"2024","AI suggested tags":["Research/Methods","Strategy","Animal_Welfare"]}}
 ---
 
 Executive summary
@@ -21,3 +21,9 @@ We advise serious caution when applying the ideas from our framework (or any fra
 We chose to describe our framework in this article so we can be transparent about our research methods, allowing others to see how we reach particular conclusions and to improve on our methods. We discuss the many limitations of our framework at the end of this article. Due to these limitations, this framework is only a small part of our research process. When evaluating animal advocacy interventions, we consider a range of other information interventions, many of which we have already been using before this point—these include qualitative factors (e.g. weight-of-evidence, tractability, scalability, and so on) and quantitative measures (e.g. individual animals helped, animal-years improved). The framework is mostly derived from components that are already published or well-established in the animal advocacy movement; for readers already familiar with research methods in animal advocacy, this article mostly revisits familiar ground.
 
 The three areas of research we draw upon (e.g. Rethink Priority's welfare ranges, and Welfare Footprint Project's thinking on intensity-duration tradeoffs) are still topics of active scientific and philosophical development, so there will probably be substantial advances over the next couple of years that will require us to modify our framework. (In fact, this article was written in early 2023 and posted in early 2024, so there might be important, recent developments that are not included in this article.)
+
+# AI suggested related articles
+
+- [[Citations/Measuring animal welfare (Animal Ask)\|Citations/Measuring animal welfare (Animal Ask)]] (0.76)
+- [[Citations/“Dimensions of Pain” workshop- Summary and updated conclusions (Rethink Priorities)\|Citations/“Dimensions of Pain” workshop- Summary and updated conclusions (Rethink Priorities)]] (0.71)
+- [[Moral weights for animals\|Moral weights for animals]] (0.70)

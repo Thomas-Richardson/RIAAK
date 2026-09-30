@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/mac-millan-et-al-2024/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:45.443+01:00","updated":"2025-10-30T23:44:54.097+00:00"}
+{"dg-publish":true,"permalink":"/citations/mac-millan-et-al-2024/","tags":["Citation","Alternative_Proteins/Cultivated_Meat","Farmers"],"created":"2025-10-23T17:42:45.443+01:00","updated":"2026-09-30T19:55:01.797+01:00","dg-note-properties":{"tags":["Citation","Alternative_Proteins/Cultivated_Meat","Farmers"],"AI suggested tags":["Consumer_Attitudes","Bryant/Insight","Alternative_Proteins"]}}
 ---
 
 
@@ -15,3 +15,9 @@ farmers in seven focus groups
 Most of the farmers in the focus groups reacted first as consumers or citizens rather
 than producers. The issues they raised echoed wider public concerns – is it safe, is
 it natural, will it be healthy, who is in control and who benefits?
+
+# AI suggested related articles
+
+- [[Citations/Yu et al., 2025\|Citations/Yu et al., 2025]] (0.69)
+- [[Chewing It Over - Public Attitudes to Alternative Proteins & Meat Reduction\|Chewing It Over - Public Attitudes to Alternative Proteins & Meat Reduction]] (0.69)
+- [[Citations/Szejda et al., 2021b\|Citations/Szejda et al., 2021b]] (0.68)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/pais-et-al-2020/","tags":["Economics"],"created":"2025-10-23T17:42:45.168+01:00","updated":"2025-11-07T12:26:18.304+00:00"}
+{"dg-publish":true,"permalink":"/citations/pais-et-al-2020/","tags":["Economics"],"created":"2025-10-23T17:42:45.168+01:00","updated":"2026-09-30T19:55:01.877+01:00","dg-note-properties":{"tags":["Economics"],"Reference":"Pais, D. F., Marques, A. C., & Fuinhas, J. A. (2020). Reducing meat consumption to mitigate climate change and promote health: but is it good for the economy?. _Environmental Modeling & Assessment_, _25_, 793-807.","Url":"https://link.springer.com/article/10.1007/s10666-020-09710-0","AI suggested tags":["Meat","Citation","Meat/Meat_Consumption"]}}
 ---
 
 - [[The effects of the protein transition on the macro economy\|The effects of the protein transition on the macro economy]]

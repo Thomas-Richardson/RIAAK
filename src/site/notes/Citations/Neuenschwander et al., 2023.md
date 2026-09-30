@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/neuenschwander-et-al-2023/","tags":["Health/Nutrition"],"created":"2025-10-23T17:42:46.820+01:00","updated":"2026-02-05T12:49:15.954+00:00"}
+{"dg-publish":true,"permalink":"/citations/neuenschwander-et-al-2023/","tags":["Health/Nutrition"],"created":"2025-10-23T17:42:46.820+01:00","updated":"2026-09-30T19:55:01.863+01:00","dg-note-properties":{"tags":["Health/Nutrition"],"AI suggested tags":["Review","Diet","Nuts"]}}
 ---
 
 - [[Citations/Neuenschwander et al., 2023\|Neuenschwander et al., 2023]]

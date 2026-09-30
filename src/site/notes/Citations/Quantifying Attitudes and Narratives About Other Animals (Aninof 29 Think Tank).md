@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/quantifying-attitudes-and-narratives-about-other-animals-aninof-29-think-tank/","created":"2025-10-23T17:42:45.330+01:00","updated":"2025-10-23T17:42:45.331+01:00"}
+{"dg-publish":true,"permalink":"/citations/quantifying-attitudes-and-narratives-about-other-animals-aninof-29-think-tank/","tags":["Narratives","Public_Opinion","High_Income_Countries/UK","Animal_Ethics"],"created":"2025-10-23T17:42:45.330+01:00","updated":"2026-09-30T19:55:01.929+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Narratives","Public_Opinion","High_Income_Countries/UK","Animal_Ethics"],"source_url":"https://animalthinktank.org.uk/wp-content/uploads/2025/03/Mapping-Narratives-August-2023.pdf","created":"2025-10-23","AI suggested tags":["Consumer_Attitudes","Consumer_Research","Messaging"]}}
 ---
 
 

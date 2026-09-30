@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/raising-awareness-of-welfarewashing-shapes-public-perception-of-the-rspca-assured-scheme-animal-think-tank-et-al/","created":"2025-10-23T17:42:44.613+01:00","updated":"2025-10-23T17:42:44.613+01:00"}
+{"dg-publish":true,"permalink":"/citations/raising-awareness-of-welfarewashing-shapes-public-perception-of-the-rspca-assured-scheme-animal-think-tank-et-al/","tags":["Messaging","Consumer_Research","Policy/Labeling","High_Income_Countries/UK"],"created":"2025-10-23T17:42:44.613+01:00","updated":"2026-09-30T19:55:01.936+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Messaging","Consumer_Research","Policy/Labeling","High_Income_Countries/UK"],"source_url":"https://animalthinktank.org.uk/wp-content/uploads/2025/09/London-underground-ads-welfare-washing.pdf","created":"2025-10-23","AI suggested tags":["Public_Opinion","Consumer_Attitudes","Research/Methods"]}}
 ---
 
 

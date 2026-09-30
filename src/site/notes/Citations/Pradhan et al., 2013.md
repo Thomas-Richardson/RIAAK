@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/pradhan-et-al-2013/","tags":["animal_feed - farming - citation - SE_asia"],"created":"2025-10-23T17:42:44.360+01:00","updated":"2025-10-23T19:18:51.116+01:00"}
+{"dg-publish":true,"permalink":"/citations/pradhan-et-al-2013/","tags":["Animal_Feed","Farming","Citation","SE_Asia"],"created":"2025-10-23T17:42:44.360+01:00","updated":"2026-09-30T19:55:01.911+01:00","dg-note-properties":{"tags":["Animal_Feed","Farming","Citation","SE_Asia"],"Note Type":"undefined","AI suggested tags":["Environment_Misc","Environment/Land","Environment/GHG"]}}
 ---
 
 https://iopscience.iop.org/article/10.1088/1748-9326/8/4/044044/meta
@@ -18,3 +18,9 @@ Increases in animal products consumption and the associated environmental conseq
 - [[Citations/Berners-Lee, Watson and Hewitt 2018\|Berners-Lee, Watson and Hewitt 2018]]
 - [[Citations/Mottet et al., 2017\|Mottet et al., 2017]]
 - 
+
+# AI suggested related articles
+
+- [[Citations/Cassidy et al., 2013\|Citations/Cassidy et al., 2013]] (0.76)
+- [[Citations/West et al., 2026\|Citations/West et al., 2026]] (0.74)
+- [[Citations/Berners-Lee, Watson and Hewitt 2018\|Citations/Berners-Lee, Watson and Hewitt 2018]] (0.73)

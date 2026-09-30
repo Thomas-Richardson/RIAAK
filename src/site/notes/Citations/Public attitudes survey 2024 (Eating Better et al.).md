@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/public-attitudes-survey-2024-eating-better-et-al/","tags":["High_Income_Countries/UK"],"created":"2025-10-23T17:42:46.592+01:00","updated":"2025-12-10T12:59:34.453+00:00"}
+{"dg-publish":true,"permalink":"/citations/public-attitudes-survey-2024-eating-better-et-al/","tags":["High_Income_Countries/UK"],"created":"2025-10-23T17:42:46.592+01:00","updated":"2026-09-30T19:55:01.927+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["High_Income_Countries/UK"],"source_url":"https://www.eating-better.org/site/assets/files/10374/public_attitudes_survey_2024_final.pdf","created":"2025-10-21","AI suggested tags":["Meat/Meat_Reduction","Policy/Food_Policy","EU"]}}
 ---
 
 

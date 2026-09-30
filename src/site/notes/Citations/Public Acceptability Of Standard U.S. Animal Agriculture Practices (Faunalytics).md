@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/public-acceptability-of-standard-u-s-animal-agriculture-practices-faunalytics/","created":"2026-01-28T10:38:24.410+00:00","updated":"2026-01-29T05:00:06.426+00:00"}
+{"dg-publish":true,"permalink":"/citations/public-acceptability-of-standard-u-s-animal-agriculture-practices-faunalytics/","tags":["Public_Opinion","High_Income_Countries/USA","Factory_Farming","Law"],"created":"2026-01-28T10:38:24.410+00:00","updated":"2026-09-30T19:55:01.926+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/public-acceptability-of-standard-u-s-animal-agriculture-practices/","tags":["Public_Opinion","High_Income_Countries/USA","Factory_Farming","Law"],"Year Published":"2025","AI suggested tags":["Consumer_Attitudes","Animal_Welfare","Chickens"]}}
 ---
 
 Faunalytics surveyed approximately 1,000 U.S. adults on their perceptions of standard animal agriculture practices. The findings provide U.S. legal advocates with empirical data to support arguments that certain industry norms are not “commonly accepted” by the public and should therefore not be exempt from U.S. anti-cruelty laws.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/meat-facts-the-food-foundation/","created":"2025-10-23T17:42:45.506+01:00","updated":"2026-01-24T20:24:15.306+00:00"}
+{"dg-publish":true,"permalink":"/citations/meat-facts-the-food-foundation/","tags":["High_Income_Countries/UK","Meat/Meat_Consumption","Environment","Health"],"created":"2025-10-23T17:42:45.506+01:00","updated":"2026-09-30T19:55:01.828+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["High_Income_Countries/UK","Meat/Meat_Consumption","Environment","Health"],"source_url":"https://foodfoundation.org.uk/sites/default/files/2025-05/TFF_Meat%20Facts.pdf","created":"2025-10-21","AI suggested tags":["Meat/Meat_Reduction","Meat","Policy/Food_Policy"]}}
 ---
 
 This report by The Food Foundation analyses meat consumption patterns in the UK, highlighting the significant health and environmental consequences of current diets and providing recommendations for shifting towards more plant-rich diets.

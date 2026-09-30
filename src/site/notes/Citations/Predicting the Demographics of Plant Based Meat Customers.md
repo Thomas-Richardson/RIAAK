@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/predicting-the-demographics-of-plant-based-meat-customers/","created":"2025-10-23T17:42:45.175+01:00","updated":"2025-10-23T17:42:45.176+01:00"}
+{"dg-publish":true,"permalink":"/citations/predicting-the-demographics-of-plant-based-meat-customers/","tags":["Alternative_Proteins/Plant_Based","Consumer_Research","High_Income_Countries/USA","Meat/Meat_Consumption"],"created":"2025-10-23T17:42:45.175+01:00","updated":"2026-09-30T19:55:01.915+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Alternative_Proteins/Plant_Based","Consumer_Research","High_Income_Countries/USA","Meat/Meat_Consumption"],"source_url":"https://static1.squarespace.com/static/5e36c25824fc0a1ce060426d/t/666b0d044cd52946029d69fc/1718291718941/FSRF+39.pdf","created":"2025-10-23","AI suggested tags":["Alternative_Proteins/Balanced_Proteins","Marketing","Consumer_Attitudes"]}}
 ---
 
 

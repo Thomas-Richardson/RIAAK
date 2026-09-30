@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/on-the-hook-feedback/","created":"2026-02-03T21:33:28.378+00:00","updated":"2026-02-04T05:17:18.781+00:00"}
+{"dg-publish":true,"permalink":"/citations/on-the-hook-feedback/","tags":["Fish/Farmed","Animal_Feed","High_Income_Countries/UK","Food_Security"],"created":"2026-02-03T21:33:28.378+00:00","updated":"2026-09-30T19:55:01.870+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Fish/Farmed","Animal_Feed","High_Income_Countries/UK","Food_Security"],"source_url":"https://foodrise.org.uk/wp-content/uploads/2020/06/Feedback_On-the-Hook_June-2020_LoRes.pdf","created":"2026-02-03","AI suggested tags":["Fish","EU","Important_Read"]}}
 ---
 
 

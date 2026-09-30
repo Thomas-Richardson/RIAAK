@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/people-who-support-animal-causes-who-gives-more-faunalytics/","created":"2026-01-28T11:02:18.988+00:00","updated":"2026-01-29T05:00:06.604+00:00"}
+{"dg-publish":true,"permalink":"/citations/people-who-support-animal-causes-who-gives-more-faunalytics/","tags":["Movement_Building","Psychology","Activism"],"created":"2026-01-28T11:02:18.988+00:00","updated":"2026-09-30T19:55:01.896+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/people-who-support-animal-causes-who-gives-more/","tags":["Movement_Building","Psychology","Activism"],"Year Published":"2019","AI suggested tags":["Public_Opinion","Retention","Research/Methods"]}}
 ---
 
 This report follows up on a previous Faunalytics study about people who donate to animal causes. It examines which characteristics of animal-cause donors predict who gives the most money, what other support they provide, and under what circumstances.

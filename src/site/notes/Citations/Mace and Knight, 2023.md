@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/mace-and-knight-2023/","tags":[null,null,null,null,null,null,null,null,null],"created":"2025-11-11T23:26:08.166+00:00","updated":"2025-11-11T23:26:08.166+00:00"}
+{"dg-publish":true,"permalink":"/citations/mace-and-knight-2023/","tags":["Chickens","Citation","Factory_Farming","Health/Disease","Pigs"],"created":"2025-11-11T23:26:08.166+00:00","updated":"2026-09-30T19:55:01.799+01:00","dg-note-properties":{"tags":["Chickens","Citation","Factory_Farming","Health/Disease","Pigs"],"AI suggested tags":["Environment/Pollution","USA","Food_Safety"]}}
 ---
 
 
@@ -10,3 +10,9 @@ https://www.frontiersin.org/articles/10.3389/fvets.2023.1310303/full
 - [[Factory farmed animals cause pandemics and zoonotic disease\|Factory farmed animals cause pandemics and zoonotic disease]]
 
 Diseases passed to humans from animals (zoonoses) constitute 75% of emerging infectious diseases. Farmed animals are considered a high zoonotic risk, especially poultry and pigs as evidenced by recent outbreaks of avian and swine influenza. <mark style="background: #FFF3A3A6;">This review sought to collate recent knowledge of the disease risks from keeping pigs and chickens intensively and in close proximity to each other.</mark> Recent knowledge on influenza viruses compounds the public health concerns; no longer are concerns about “mixing vessel” hosts limited to pigs, but several other animal species too at a high level of probability—most notably chickens and humans. More generally, <mark style="background: #FFF3A3A6;">scientific literature establishing positive associations between intensive animal farming, human population growth, reduced biodiversity, and increased zoonoses risks is abundant.</mark> This includes the publication of relevant systematic reviews. The collected scientific evidence on this issue is clear: <mark style="background: #FFF3A3A6;">there is exceptionally strong evidence for a link between low animal welfare levels and high zoonotic risks, exacerbated by animal crowding, low genetic diversity, compromised hygiene, and high animal stress levels which compromise immune systems.</mark> Based on this evidence, further industrialized animal farms—especially poultry and pig farms or a mix thereof, and particularly in areas that already have a high concentration of farmed animals—should not generally be permitted to proceed. Instead, efforts should concentrate on supporting arable agriculture (or transitions toward this) and de-intensifying remaining animal farms, in alignment with One Health/One Welfare approaches within which animal health and welfare are integral parts of any farming operation. Among numerous other factors, this would involve reducing stocking densities down to 11 kg/m2 (around five chickens/m2) for meat chickens, and down to one pig/1.5 m2 for pigs (assuming a 100 kg pig).
+
+# AI suggested related articles
+
+- [[Citations/Rohr et al., 2019\|Citations/Rohr et al., 2019]] (0.75)
+- [[Diseases in farm animals cause economic shocks\|Diseases in farm animals cause economic shocks]] (0.69)
+- [[Citations/BIRD FLU - ONLY MAJOR FARM REFORMS CAN END IT (Compassion in World Farming)\|Citations/BIRD FLU - ONLY MAJOR FARM REFORMS CAN END IT (Compassion in World Farming)]] (0.68)

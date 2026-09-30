@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/mc-phedran-et-al-2023/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:46.535+01:00","updated":"2025-10-30T23:44:54.219+00:00"}
+{"dg-publish":true,"permalink":"/citations/mc-phedran-et-al-2023/","tags":["Behaviour_Change","Citation","Veganism"],"created":"2025-10-23T17:42:46.535+01:00","updated":"2026-09-30T19:55:01.825+01:00","dg-note-properties":{"tags":["Behaviour_Change","Citation","Veganism"],"AI suggested tags":["Veg_Diets","Review","Health/Nutrition"]}}
 ---
 
 
@@ -13,3 +13,9 @@ Meat-based food production has a detrimental impact on the environment and healt
 
 - [[Does Veganuary increase demand for veggie products\|Does Veganuary increase demand for veggie products]]
 - [[Do Veganuary and other vegan challenges convert people to veganism Q\|Do Veganuary and other vegan challenges convert people to veganism Q]]
+
+# AI suggested related articles
+
+- [[Citations/Luick et al., 2023\|Citations/Luick et al., 2023]] (0.83)
+- [[Citations/Ewens et al., 2023\|Citations/Ewens et al., 2023]] (0.73)
+- [[Citations/Röhl et al., 2026\|Citations/Röhl et al., 2026]] (0.71)

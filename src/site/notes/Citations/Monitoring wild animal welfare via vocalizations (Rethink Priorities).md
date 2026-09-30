@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/monitoring-wild-animal-welfare-via-vocalizations-rethink-priorities/","tags":["wild_animals - \"wild_animals\""],"created":"2025-10-23T17:42:45.255+01:00","updated":"2025-10-23T19:20:34.057+01:00"}
+{"dg-publish":true,"permalink":"/citations/monitoring-wild-animal-welfare-via-vocalizations-rethink-priorities/","tags":["Wild_Animals"],"created":"2025-10-23T17:42:45.255+01:00","updated":"2026-09-30T19:55:01.846+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/monitoring-wild-animal-welfare-via-vocalizations/","tags":["Wild_Animals"],"Year Published":"2021","AI suggested tags":["Research/Methods","Animal_Welfare","Strategy"]}}
 ---
 
 This article describes how various types and features of vocalizations could act as welfare metrics for wild animals and how a remote acoustic sensing network could be used to collect this type of data non-invasively.
@@ -16,3 +16,9 @@ This article is designed to (i) describe how animal vocalizations can be used as
 People who are generally interested in animal welfare as a cause area should find this article worthwhile, as well as people who might be interested in pursuing this idea as a research project. The sections on costs and equipment are included for someone who might want to start remote acoustic monitoring for WAW **today, **but I anticipate the whole project would have more payoff in the medium term. This is both because it will take time to learn about the welfare indicators in vocalizations of many more species and because field-building and gaining the traction in interest and funding will also take time.
 
 If you are not someone looking to execute this idea, but are interested in the viability or potential of vocalizations as animal welfare-indicators (especially in the context of WAW), I recommend reading the ‘Introduction to Affective Vocalizations’ and then the ‘Scope, Neglectedness, Tractability’ sections.
+
+# AI suggested related articles
+
+- [[Citations/A landscape analysis of wild animal welfare (Rethink Priorities)\|Citations/A landscape analysis of wild animal welfare (Rethink Priorities)]] (0.73)
+- [[Citations/Using AI to increase effectiveness of human-wildlife conflict mitigations for WAW (Rethink Priorities)\|Citations/Using AI to increase effectiveness of human-wildlife conflict mitigations for WAW (Rethink Priorities)]] (0.69)
+- [[Citations/Reducing aquatic noise as a wild animal welfare intervention (Rethink Priorities)\|Citations/Reducing aquatic noise as a wild animal welfare intervention (Rethink Priorities)]] (0.69)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/peacock-2023/","tags":["alternative_proteins","animal_advocacy","citation"],"created":"2025-10-23T17:42:46.310+01:00","updated":"2025-10-31T14:43:31.394+00:00"}
+{"dg-publish":true,"permalink":"/citations/peacock-2023/","tags":["Alternative_Proteins","Animal_Advocacy","Citation"],"created":"2025-10-23T17:42:46.310+01:00","updated":"2026-09-30T19:55:01.893+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Alternative_Proteins","Animal_Advocacy","Citation"],"AI suggested tags":["Consumer_Research","Behaviour_Change","Alternative_Proteins/Plant_Based"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/naturalness-concerns-and-clean-meat-acceptance-a-faunalytics-study-faunalytics/","created":"2026-01-28T11:02:53.036+00:00","updated":"2026-01-29T05:00:06.663+00:00"}
+{"dg-publish":true,"permalink":"/citations/naturalness-concerns-and-clean-meat-acceptance-a-faunalytics-study-faunalytics/","tags":["Alternative_Proteins/Cultivated_Meat","Consumer_Research","Consumer_Attitudes","Messaging"],"created":"2026-01-28T11:02:53.036+00:00","updated":"2026-09-30T19:55:01.862+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/naturalness-concerns-and-clean-meat-acceptance-a-faunalytics-study/","tags":["Alternative_Proteins/Cultivated_Meat","Consumer_Research","Consumer_Attitudes","Messaging"],"Year Published":"2018","AI suggested tags":["Behaviour_Change","Alternative_Proteins","Alternative_Proteins/Plant_Based"]}}
 ---
 
 ### Background

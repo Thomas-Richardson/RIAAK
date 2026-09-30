@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/prioritizing-animals-of-uncertain-sentience-rethink-priorities/","tags":["sentience shrimp insects"],"created":"2025-10-23T17:42:46.841+01:00","updated":"2025-10-23T18:12:10.263+01:00"}
+{"dg-publish":true,"permalink":"/citations/prioritizing-animals-of-uncertain-sentience-rethink-priorities/","tags":["Sentience","Shrimp","Insects"],"created":"2025-10-23T17:42:46.841+01:00","updated":"2026-09-30T19:55:01.918+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/the-risks-and-rewards-of-prioritizing-animals-of-uncertain-sentience/","tags":["Sentience","Shrimp","Insects"],"Year Published":"2023","AI suggested tags":["Crustaceans","Research/Methods","Strategy"]}}
 ---
 
 Expected value (EV) maximization is a common method for making decisions across different cause areas. The EV of an action is an average of the possible outcomes of that action, weighted by the probability of those outcomes occurring if the action is performed.
@@ -17,3 +17,9 @@ In a two-way comparison between humans and shrimp, risk-neutral EV and risk aver
 Risk aversion about inefficacy favors helping humans over shrimp.
 Chickens (i.e., very numerous animals of likely sentience) are favored over both shrimp and humans on all of EV maximization, worse-case, and difference-making risk aversion.
 Our goal here is not to defend a particular attitude toward risk or to recommend any particular practical conclusion. That would require more work. Our main point is that our attitudes about risk can dramatically affect our decisions about how to prioritize human and non-human animal interventions without appealing to often-criticized philosophical assumptions about human superiority.
+
+# AI suggested related articles
+
+- [[Citations/Risk Aversion in Wild Animal Welfare (Rethink Priorities)\|Citations/Risk Aversion in Wild Animal Welfare (Rethink Priorities)]] (0.76)
+- [[Citations/Comparisons of capacity for welfare and moral status across species (Rethink Priorities)\|Citations/Comparisons of capacity for welfare and moral status across species (Rethink Priorities)]] (0.73)
+- [[Citations/Research summary - the intensity of valenced experience across species (Rethink Priorities)\|Citations/Research summary - the intensity of valenced experience across species (Rethink Priorities)]] (0.72)

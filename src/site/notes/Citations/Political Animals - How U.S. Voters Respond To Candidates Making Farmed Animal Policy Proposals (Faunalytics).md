@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/political-animals-how-u-s-voters-respond-to-candidates-making-farmed-animal-policy-proposals-faunalytics/","created":"2026-01-28T10:38:48.999+00:00","updated":"2026-01-29T05:00:06.736+00:00"}
+{"dg-publish":true,"permalink":"/citations/political-animals-how-u-s-voters-respond-to-candidates-making-farmed-animal-policy-proposals-faunalytics/","tags":["High_Income_Countries/USA","Politics","Public_Opinion","Policy"],"created":"2026-01-28T10:38:48.999+00:00","updated":"2026-09-30T19:55:01.907+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/political-animals-how-u-s-voters-respond-to-candidates-making-farmed-animal-policy-proposals/","tags":["High_Income_Countries/USA","Politics","Public_Opinion","Policy"],"Year Published":"2025","AI suggested tags":["Consumer_Attitudes","Consumer_Research","Animal_Welfare"]}}
 ---
 
 This Faunalytics study examines the impact on vote choice and perceptions of political candidates when those candidates propose changes to U.S. food policy. It focuses on voter responses to policy proposals aimed at supporting or opposing industrial animal agriculture.

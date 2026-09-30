@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/lombardini-and-lankoski-2013/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:45.182+01:00","updated":"2025-10-30T23:44:54.059+00:00"}
+{"dg-publish":true,"permalink":"/citations/lombardini-and-lankoski-2013/","tags":["Behaviour_Change","Citation","Veganism"],"created":"2025-10-23T17:42:45.182+01:00","updated":"2026-09-30T19:55:01.781+01:00","dg-note-properties":{"tags":["Behaviour_Change","Citation","Veganism"],"AI suggested tags":["Meat/Meat_Reduction","Review","Case_Study"]}}
 ---
 
 
@@ -23,3 +23,9 @@ This paper discusses the use of forced restriction of food choice as an instrume
 	- In the case of psychological reactance, default options may be preferable to forced choice restriction. 
 	- For hedonic dislike, menu development should be prioritized, and moral suasion and information campaigns may help where non-compliance stems from a disagreement with the objectives and effectiveness of the intervention. 
 - Thus, forced choice restriction should be accompanied by detailed data collection to understand the possible causes of intended and unintended effects and to tailor the intervention to the target group.
+
+# AI suggested related articles
+
+- [[Citations/Campbell-Arvai et al., 2014\|Citations/Campbell-Arvai et al., 2014]] (0.71)
+- [[Citations/Ewens et al., 2023\|Citations/Ewens et al., 2023]] (0.69)
+- [[Citations/Bianchi et al., 2018\|Citations/Bianchi et al., 2018]] (0.66)

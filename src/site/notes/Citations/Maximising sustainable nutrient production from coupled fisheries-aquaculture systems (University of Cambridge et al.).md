@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/maximising-sustainable-nutrient-production-from-coupled-fisheries-aquaculture-systems-university-of-cambridge-et-al/","created":"2026-02-20T10:49:59.338+00:00","updated":"2026-02-20T10:50:00.093+00:00"}
+{"dg-publish":true,"permalink":"/citations/maximising-sustainable-nutrient-production-from-coupled-fisheries-aquaculture-systems-university-of-cambridge-et-al/","tags":["Fish/Farmed","Animal_Feed","Food_Security","High_Income_Countries/UK"],"created":"2026-02-20T10:49:59.338+00:00","updated":"2026-09-30T19:55:01.823+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Fish/Farmed","Animal_Feed","Food_Security","High_Income_Countries/UK"],"source_url":"https://foodrise.org.uk/wp-content/uploads/2022/03/journal.pstr_.0000005.pdf","created":"2026-02-20","AI suggested tags":["Fish","EU","Environment/Land"]}}
 ---
 
 

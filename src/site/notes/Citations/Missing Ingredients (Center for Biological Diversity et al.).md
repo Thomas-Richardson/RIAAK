@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/missing-ingredients-center-for-biological-diversity-et-al/","created":"2025-12-11T12:30:18.038+00:00","updated":"2025-12-11T12:30:18.038+00:00"}
+{"dg-publish":true,"permalink":"/citations/missing-ingredients-center-for-biological-diversity-et-al/","tags":["Environment/Climate_Change","Narratives","High_Income_Countries/USA","Meat_Industry"],"created":"2025-12-11T12:30:18.038+00:00","updated":"2026-09-30T19:55:01.841+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Environment/Climate_Change","Narratives","High_Income_Countries/USA","Meat_Industry"],"source_url":"https://www.biologicaldiversity.org/programs/population_and_sustainability/pdfs/2025-media-landscape-analysis.pdf","created":"2025-12-11","AI suggested tags":["Greenwashing","Environment/GHG","Meat/Meat_Reduction"]}}
 ---
 
 

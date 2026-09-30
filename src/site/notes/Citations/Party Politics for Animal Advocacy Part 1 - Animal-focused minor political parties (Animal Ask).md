@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/party-politics-for-animal-advocacy-part-1-animal-focused-minor-political-parties-animal-ask/","created":"2025-10-23T17:42:46.100+01:00","updated":"2025-10-23T17:42:46.100+01:00"}
+{"dg-publish":true,"permalink":"/citations/party-politics-for-animal-advocacy-part-1-animal-focused-minor-political-parties-animal-ask/","tags":["Politics","Policy","Movement_Strategy"],"created":"2025-10-23T17:42:46.100+01:00","updated":"2026-09-30T19:55:01.879+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.animalask.org/post/party-politics-for-animal-advocacy","tags":["Politics","Policy","Movement_Strategy"],"Year Published":"2023","AI suggested tags":["Strategy","Public_Opinion","Corporate_Campaigns"]}}
 ---
 
 ## **Key Points**

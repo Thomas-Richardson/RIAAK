@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/reduce-or-go-veg-effects-on-meal-choice-faunalytics/","created":"2026-01-28T11:00:51.921+00:00","updated":"2026-01-29T05:00:06.365+00:00"}
+{"dg-publish":true,"permalink":"/citations/reduce-or-go-veg-effects-on-meal-choice-faunalytics/","tags":["Behaviour_Change","Messaging","Meat/Meat_Reduction","Psychology"],"created":"2026-01-28T11:00:51.921+00:00","updated":"2026-09-30T19:55:01.941+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/reduce-or-go-veg/","tags":["Behaviour_Change","Messaging","Meat/Meat_Reduction","Psychology"],"Year Published":"2020","AI suggested tags":["Veg_Diets","Consumer_Research","Retention"]}}
 ---
 
 ### Background

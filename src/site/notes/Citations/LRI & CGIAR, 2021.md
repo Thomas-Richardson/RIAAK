@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/lri-and-cgiar-2021/","tags":["Note","Type","citation","farming","undefined"],"created":"2025-10-23T17:42:44.658+01:00","updated":"2025-10-31T14:42:34.579+00:00"}
+{"dg-publish":true,"permalink":"/citations/lri-and-cgiar-2021/","tags":["Citation","Farming"],"created":"2025-10-23T17:42:44.658+01:00","updated":"2026-09-30T19:55:01.757+01:00","dg-note-properties":{"tags":["Citation","Farming"],"AI suggested tags":["Health/Disease","MFA_Food_Sec","Lower_Middle_Income_Countries"]}}
 ---
 
 
@@ -15,3 +15,9 @@ Subjecting chickens to stress on their journeys to slaughter increases their lev
 which can cause diarrhoeal disease in people who go on to eat the under-cooked meat
 
 Poor livestock handling and transportation lead to injuries and bruising in animals and subsequent losses of meat post-slaughter. For example, in Uruguay such practices resulted in an average 900g of meat lost per animal slaughtered.
+
+# AI suggested related articles
+
+- [[Citations/Vipham et al., 2020\|Citations/Vipham et al., 2020]] (0.63)
+- [[Diseases in farm animals cause economic shocks\|Diseases in farm animals cause economic shocks]] (0.61)
+- [[Misc benefits of livestock for people in LMICS\|Misc benefits of livestock for people in LMICS]] (0.60)

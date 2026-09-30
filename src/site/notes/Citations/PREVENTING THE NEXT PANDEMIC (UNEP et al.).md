@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/preventing-the-next-pandemic-unep-et-al/","created":"2026-03-17T09:21:15.389+00:00","updated":"2026-03-17T09:21:16.503+00:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":null,"source_url":"local file","created":"2026-03-17"}}
+{"dg-publish":true,"permalink":"/citations/preventing-the-next-pandemic-unep-et-al/","tags":["Health/Disease","Wild_Animals","Environment","Policy"],"created":"2026-03-17T09:21:15.389+00:00","updated":"2026-09-30T19:55:01.875+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Health/Disease","Wild_Animals","Environment","Policy"],"source_url":"local file","created":"2026-03-17","AI suggested tags":["Biodiversity","Policy/Food_Policy","Health"]}}
 ---
 
 

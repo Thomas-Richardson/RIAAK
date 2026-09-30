@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/quantifying-and-prioritizing-shrimp-welfare-threats-rethink-priorities/","tags":["shrimp crustaceans"],"created":"2025-10-23T17:42:45.382+01:00","updated":"2025-10-23T18:12:10.211+01:00"}
+{"dg-publish":true,"permalink":"/citations/quantifying-and-prioritizing-shrimp-welfare-threats-rethink-priorities/","tags":["Shrimp","Crustaceans"],"created":"2025-10-23T17:42:45.382+01:00","updated":"2026-09-30T19:55:01.932+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/quantifying-and-prioritizing-shrimp-welfare-threats/","tags":["Shrimp","Crustaceans"],"Year Published":"2024","AI suggested tags":["Insects","Fish","Fish/Farmed"]}}
 ---
 
 This is the fourth report in the Rethink Priorities Shrimp Welfare Sequence. In this report, we quantify the suffering caused to shrimp by 18 welfare threats to assess which welfare issues cause the most harm.
@@ -11,3 +11,9 @@ See a [complete description of the methodology here](https://rethinkpriorities.g
 **The average farmed shrimp spends 157 hours in disabling-equivalent pain** (90% Subjective Credible (equal-tailed) Interval (SCI): [28, 356]). If we assume that 608 billion penaeid shrimp die on ongrowing farms annually (i.e., including those that die pre-slaughter; [Waldhorn & Autric, 2023](http://doi.org/10.31219/osf.io/b8n3t)) then mean values imply that they experience **95 trillion hours of disabling-equivalent pain a year** (90% SCI: [17 trillion, 216 trillion]).
 
 The highest-ranking threats are chronic issues that affect most farmed shrimp. The top three are **high stocking density, high un-ionized ammonia, and low dissolved oxygen**. Threats ranked lower are broadly acute, one-off events affecting only a subpopulation (e.g., eyestalk ablation, which affects only broodstock). However, the credible intervals are too wide to determine the rank order of most welfare issues confidently.
+
+# AI suggested related articles
+
+- [[Citations/Welfare considerations for farmed shrimp (Rethink Priorities)\|Citations/Welfare considerations for farmed shrimp (Rethink Priorities)]] (0.87)
+- [[Citations/Pre-slaughter mortality of farmed shrimp (Rethink Priorities)\|Citations/Pre-slaughter mortality of farmed shrimp (Rethink Priorities)]] (0.82)
+- [[Citations/Strategies for helping farmed shrimp (Rethink Priorities)\|Citations/Strategies for helping farmed shrimp (Rethink Priorities)]] (0.80)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/methane-matters-changing-markets-foundation-et-al/","created":"2025-11-25T15:19:57.705+00:00","updated":"2025-11-25T15:19:57.705+00:00"}
+{"dg-publish":true,"permalink":"/citations/methane-matters-changing-markets-foundation-et-al/","tags":["Environment/GHG","Policy","Meat_Industry","Meat/Meat_Reduction"],"created":"2025-11-25T15:19:57.705+00:00","updated":"2026-09-30T19:55:01.835+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Environment/GHG","Policy","Meat_Industry","Meat/Meat_Reduction"],"source_url":"https://changingmarkets.org/wp-content/uploads/2022/03/Methane-Matters-A-comprehensive-approach-to-methane-mitigation-part-01-.pdf","created":"2025-11-25","AI suggested tags":["Greenwashing","Environment/Climate_Change","Environment/Land"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/planting-seeds-the-impact-of-diet-and-different-animal-advocacy-tactics-faunalytics/","created":"2026-01-28T10:55:49.741+00:00","updated":"2026-01-29T05:00:06.479+00:00"}
+{"dg-publish":true,"permalink":"/citations/planting-seeds-the-impact-of-diet-and-different-animal-advocacy-tactics-faunalytics/","tags":["Tactics","Behaviour_Change","Meat/Meat_Reduction","High_Income_Countries/USA"],"created":"2026-01-28T10:55:49.741+00:00","updated":"2026-09-30T19:55:01.904+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/relative-effectiveness/","tags":["Tactics","Behaviour_Change","Meat/Meat_Reduction","High_Income_Countries/USA"],"Year Published":"2022","AI suggested tags":["Retention","Public_Opinion","Consumer_Research"]}}
 ---
 
 ### Background

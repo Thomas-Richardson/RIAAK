@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/mathur-et-al-2021/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:46.185+01:00","updated":"2025-10-30T23:44:54.183+00:00"}
+{"dg-publish":true,"permalink":"/citations/mathur-et-al-2021/","tags":["Behaviour_Change","Citation","Psychology"],"created":"2025-10-23T17:42:46.185+01:00","updated":"2026-09-30T19:55:01.821+01:00","dg-note-properties":{"tags":["Behaviour_Change","Citation","Psychology"],"AI suggested tags":["Meat/Meat_Reduction","Review","Meat"]}}
 ---
 
 

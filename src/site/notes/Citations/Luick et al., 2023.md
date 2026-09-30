@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/luick-et-al-2023/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:44.692+01:00","updated":"2025-10-30T23:44:53.994+00:00"}
+{"dg-publish":true,"permalink":"/citations/luick-et-al-2023/","tags":["Citation","Veganism"],"created":"2025-10-23T17:42:44.692+01:00","updated":"2026-09-30T19:55:01.790+01:00","dg-note-properties":{"tags":["Citation","Veganism"],"AI suggested tags":["Behaviour_Change","Health/Nutrition","Review"]}}
 ---
 
 
@@ -20,3 +20,9 @@ Methods: <mark style="background: #FFF3A3A6;">Three natural experiments</mark> e
 Results: Sales of both promotion-targeted and overall NAS plant-based milks during the promotional period increased (targeted food: +126 units, 95% CI: 105, 148; overall: +307 units, 95% CI: 264, 349). The increase was greater in stores with predominately low SEP shoppers. <mark style="background: #FFF3A3A6;">During Veganuary, sales increased for plant-based foods on promotion</mark> (+60 units, 95% CI: 37, 84), <mark style="background: #FFF3A3A6;">but not for the sales of plant-based foods overall</mark> (dairy alternatives: −1131 units, 95% CI: −5821, 3559; meat alternatives: 1403 units, 95% CI: −749, 3554). There was no evidence of a change in the weekly sales of promoted seasonal fruit products (assessed via ratio change in units sold: 0.01, 95% CI: 0.00–0.01), and overall fruit category sales slightly decreased in intervention stores relative to the control (ratio change in units sold: −0.01, 95% CI: −0.01, –0.00). <mark style="background: #FFF3A3A6;">None of the promotional activities resulted in the continued purchase of promoted products after the intervention period was over. </mark>
 
 Conclusion: Promotional activity (including prominent positioning and price promotions) related to healthier or more sustainable food products can have a short-term impact on what food consumers purchase. But interventions are short-lived and effects on behaviour are not sustained, suggesting these have limited value in the long-term goal to achieve healthier and more sustainable purchasing patterns.
+
+# AI suggested related articles
+
+- [[Citations/McPhedran et al., 2023\|Citations/McPhedran et al., 2023]] (0.83)
+- [[Citations/van der Vliet et al., 2024\|Citations/van der Vliet et al., 2024]] (0.73)
+- [[Citations/Thomas et al., 2025\|Citations/Thomas et al., 2025]] (0.71)

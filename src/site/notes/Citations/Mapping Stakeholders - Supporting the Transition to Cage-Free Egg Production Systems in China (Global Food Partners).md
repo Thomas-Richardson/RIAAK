@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/mapping-stakeholders-supporting-the-transition-to-cage-free-egg-production-systems-in-china-global-food-partners/","created":"2025-10-23T17:42:46.493+01:00","updated":"2025-10-23T17:42:46.493+01:00"}
+{"dg-publish":true,"permalink":"/citations/mapping-stakeholders-supporting-the-transition-to-cage-free-egg-production-systems-in-china-global-food-partners/","tags":["China","Eggs","Corporate_Campaigns"],"created":"2025-10-23T17:42:46.493+01:00","updated":"2026-09-30T19:55:01.810+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["China","Eggs","Corporate_Campaigns"],"source_url":"https://static1.squarespace.com/static/5e36c25824fc0a1ce060426d/t/666aedd117f9ba3a37a423a0/1718283731639/FSRF+2-029+.pdf","created":"2025-10-23","AI suggested tags":["EU","Consumer_Attitudes","Chickens"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/mikhail-et-al-2024/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:47.385+01:00","updated":"2025-10-30T23:44:54.207+00:00"}
+{"dg-publish":true,"permalink":"/citations/mikhail-et-al-2024/","tags":["Sinergia_Defunding_Project","Citation"],"created":"2025-10-23T17:42:47.385+01:00","updated":"2026-09-30T19:55:01.838+01:00","dg-note-properties":{"tags":["Sinergia_Defunding_Project","Citation"],"AI suggested tags":["Financial_Activism","Meat_Industry","Environment/GHG"]}}
 ---
 
 

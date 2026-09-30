@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/citations/khan-et-al-2025/","tags":["Meat_Industry","Meat/Red_Meat","Review","Health/Nutrition"],"created":"2026-04-12T18:01:16.000+01:00","updated":"2026-09-30T19:55:01.745+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://ajcn.nutrition.org/article/S0002-9165(25)00458-7/abstract","tags":["Meat_Industry","Meat/Red_Meat","Review","Health/Nutrition"],"Year Published":"2025","AI suggested tags":["Meat/Meat_Consumption","Meat","Citation"]}}
+---
+
+The systematic review by López-Moreno et al. [1] and the accompanying editorial by Tobias [2] provide compelling evidence that industry funding is associated with favorable research conclusions about red meat and cardiovascular health. However, both authors overlook a fundamental issue: structural asymmetry in research funding availability creates selection bias before studies begin.

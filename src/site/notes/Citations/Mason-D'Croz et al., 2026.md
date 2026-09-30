@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/citations/mason-d-croz-et-al-2026/","tags":["Economics","Environment","Diet","Health/Nutrition"],"created":"2026-07-22T06:50:18.000+01:00","updated":"2026-09-30T19:55:01.817+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://cgspace.cgiar.org/items/27e7383f-e020-447f-bd4a-f8ef2368f3a5","tags":["Economics","Environment","Diet","Health/Nutrition"],"Year Published":"2026","AI suggested tags":["Citation","Review","Environment/GHG"]}}
+---
+
+The first EAT-Lancet report proposed a great food system transformation composed of a shift to a healthy diet, increased agricultural productivity and reductions in food loss and waste. This study highlighted the potential of such a food system transformation to move towards greater environmental sustainability. However, questions were raised about the health and nutritional adequacy of the recommended diet as well as the socioeconomic and justice implications of such a food system transformation. In response to these questions the modelling in the second EAT-Lancet report looked to explore a broader range of socioeconomic and justice implications of a food system transformation. To do this the modelling efforts in the second commission were expanded to include a multi-model ensemble composed of 10 global economic models. This ensemble ran a series of scenarios to assess the potential impacts of the original 3 EAT-Lancet transformation drivers (dietary change, reduced food loss and waste, and increased agricultural productivity), as well as a new driver of ambitious climate mitigation, with the objective of identifying potential complementarities and trade-offs between the drivers of change.
+
+This paper presents the ensemble approach and summarizes key modeling results from this effort, which are broadly consistent with results from the first EAT-Lancet report. However, the application of economic models suggests that there may be greater challenges in achieving all environmental objectives (e.g., nitrogen and phosphorous) without additional measures. This class of models also facilitated an assessment of potential price and food affordability consequences of a global shift to a healthy diet. This paper will explore these findings and highlight where there is greater agreement across the model, as well as note where substantial model uncertainty remains. focus on identifying where the models are in greater agreement and where substantial model uncertainty remains.
+
+# AI suggested related articles
+
+- [[Citations/Horton et al., 2025\|Citations/Horton et al., 2025]] (0.65)
+- [[Citations/EAT Lancet\|Citations/EAT Lancet]] (0.65)
+- [[Citations/Mason-D'Croz et al., 2022\|Citations/Mason-D'Croz et al., 2022]] (0.63)

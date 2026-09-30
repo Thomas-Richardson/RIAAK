@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/you-gov-survey-shows-parental-support-for-increasing-plant-based-meals-in-schools/","tags":["institutional_change","policy/food-policy","plant-based/school-meals","High_Income_Countries/UK","research/yougov","ProVeg"],"created":"2025-11-11T23:43:58.652+00:00","updated":"2025-12-10T12:59:35.396+00:00"}
+{"dg-publish":true,"permalink":"/you-gov-survey-shows-parental-support-for-increasing-plant-based-meals-in-schools/","tags":["Institutional_Change","Policy/Food_Policy","Plant_Based/School_Meals","High_Income_Countries/UK","Research/YouGov","ProVeg"],"created":"2025-11-11T23:43:58.652+00:00","updated":"2026-09-30T19:55:03.619+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://proveg.org/uk/news/yougov-survey-parents-support-plant-based-meals-in-schools/","tags":["Institutional_Change","Policy/Food_Policy","Plant_Based/School_Meals","High_Income_Countries/UK","Research/YouGov","ProVeg"],"AI suggested tags":["Meat/Meat_Reduction","Alternative_Proteins","Alternative_Proteins/Plant_Based"]}}
 ---
 
 …

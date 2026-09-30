@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/yu-et-al-2025/","created":"2025-10-25T16:19:37.985+01:00","updated":"2025-10-25T16:19:38.201+01:00"}
+{"dg-publish":true,"permalink":"/citations/yu-et-al-2025/","tags":["Alternative_Proteins/Cultivated_Meat","Consumer_Attitudes","Psychology","Review"],"created":"2025-10-25T16:19:37.985+01:00","updated":"2026-09-30T19:55:02.260+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.sciencedirect.com/science/article/pii/S0924224425003620?dgcid=rss_sd_all#sec5","tags":["Alternative_Proteins/Cultivated_Meat","Consumer_Attitudes","Psychology","Review"],"Year Published":"2025","AI suggested tags":["Consumer_Research","Citation","Meat/Meat_Consumption"]}}
 ---
 
 ## Highlights
@@ -18,3 +18,9 @@ We conducted a meta-analysis of variables influencing the willingness to consume
 
 ### Key findings and conclusions
 We identified 22 WTC predictors, categorized into two groups: (A) perceptions of cultured meat and (B) people's characteristics. The strongest predictors were perceived ethicality, disgust, and taste (Group A) and food technology neophobia, food neophobia, and food disgust sensitivity (Group B). Our findings suggest that variables directly related to cultured meat itself exert a stronger influence on WTC than individual consumer traits.Future research should move beyond hypothetical, survey-based studies to examine real-world consumer behavior, including market dynamics, sensory perceptions, longitudinal and cross-cultural insights, and interactions between WTC predictors. Building on this, a comprehensive theoretical framework should be developed to provide valuable guidance for industry and policymakers.
+
+# AI suggested related articles
+
+- [[Psychological factors in cultivated meat acceptance\|Psychological factors in cultivated meat acceptance]] (0.75)
+- [[Citations/Monaco et al., 2024\|Citations/Monaco et al., 2024]] (0.73)
+- [[Citations/Szejda et al., 2021b\|Citations/Szejda et al., 2021b]] (0.73)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/szejda-2023/","tags":["Note","Type","citation","materials","undefined"],"created":"2025-10-23T17:42:46.361+01:00","updated":"2025-10-31T14:42:34.593+00:00"}
+{"dg-publish":true,"permalink":"/citations/szejda-2023/","tags":["Citation","Materials"],"created":"2025-10-23T17:42:46.361+01:00","updated":"2026-09-30T19:55:02.098+01:00","dg-note-properties":{"tags":["Citation","Materials"],"AI suggested tags":["Consumer_Research","Consumer_Attitudes","China"]}}
 ---
 
 

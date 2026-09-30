@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-determinants-of-adopting-international-voluntary-certification-schemes-for-farmed-fish-and-shrimp-in-china-and-thailand-rethink-priorities/","tags":["fish shrimp China"],"created":"2025-10-23T17:42:47.003+01:00","updated":"2025-10-23T18:12:10.267+01:00"}
+{"dg-publish":true,"permalink":"/citations/the-determinants-of-adopting-international-voluntary-certification-schemes-for-farmed-fish-and-shrimp-in-china-and-thailand-rethink-priorities/","tags":["Fish","Shrimp","China"],"created":"2025-10-23T17:42:47.003+01:00","updated":"2026-09-30T19:55:02.120+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/determinants-of-adopting-international-voluntary-certification-schemes/","tags":["Fish","Shrimp","China"],"Year Published":"2022","AI suggested tags":["Fish/Farmed","Asia","Crustaceans"]}}
 ---
 
 This shallow literature review addresses the determinants considered by exporting farmers in China and Thailand when adopting international voluntary certification schemes for farmed fish and shrimp.
@@ -27,3 +27,9 @@ This shallow literature review addresses the determinants considered by exportin
 **Future research:** For greater insight on the international impacts of VCSs, a good foundation would involve gathering better disaggregated data on certification rates among different species, farm sizes, geographical regions, and export orientations. Research that would be more directly useful for animal advocates might involve investigating what changes to existing certification schemes are most promising, how effective different strategies for improving certification uptake might be, and to what extent grants can help lower barriers to certification. I list many research ideas in this report.
 
 **Caveats:** Evidence tends to be weak, outdated, or scarce. I also expect the findings of this report to be more pessimistic than modern data might suggest. This is because most empirical evidence is from the mid-2010s, and the state of certification seems to be improving over time. I also anticipate that my inclusion of non welfare-centered certifications may lead to some findings that do not generalize well into welfare-focused certifications.
+
+# AI suggested related articles
+
+- [[Citations/Aquaculture in Asian Countries (Fish Welfare Initiative)\|Citations/Aquaculture in Asian Countries (Fish Welfare Initiative)]] (0.71)
+- [[Citations/Strategies for helping farmed shrimp (Rethink Priorities)\|Citations/Strategies for helping farmed shrimp (Rethink Priorities)]] (0.68)
+- [[Citations/Fish Welfare Scoping Report - Vietnam (Fish Welfare Initiative)\|Citations/Fish Welfare Scoping Report - Vietnam (Fish Welfare Initiative)]] (0.68)

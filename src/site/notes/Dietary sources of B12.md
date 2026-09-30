@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dietary-sources-of-b12/","tags":[null,null,null,null],"created":"2025-10-23T17:42:44.006+01:00","updated":"2025-10-30T23:44:53.574+00:00"}
+{"dg-publish":true,"permalink":"/dietary-sources-of-b12/","tags":["Health/Nutrition"],"created":"2025-10-23T17:42:44.006+01:00","updated":"2026-09-30T19:55:02.311+01:00","dg-note-properties":{"tags":["Health/Nutrition"],"AI suggested tags":["Alternative_Proteins/Plant_Based","Diet","Veg_Diets"]}}
 ---
 
 
@@ -28,3 +28,20 @@ methylcobalamin is a naturally occurring form of B12 that can be absorbed throug
 Animals can be "natural" sources of B12 but most animal products you eat are not natural sources, because the animals themselves have [been given B12 (or cobalt) supplements](https://www.feedstrategy.com/blogs/feed-ingredient-insights/blog/15445375/cobalt-or-vitamin-b12-for-ruminant-feeds).
 
 I haven't delved in but supposedly [this source](https://onlinelibrary.wiley.com/doi/10.1002/14356007.o27_o12.pub2) claims that the feed sector buys 55% of B12 supplements
+
+# Older adults and B12 absorption
+Older adults absorb B12 less efficiently from food because they have lower stomach acid. As people age, their ability to pull B12 out of food gets worse, but their ability to absorb it from a supplement does not change. So supplementation actually becomes the more efficient way to get B12 as you get older.
+
+This is a point in favour of supplements over food sources generally: the supplement route is reliable and does not degrade with age.
+
+# A historical B12 source: dirt and feces on unwashed produce
+One of the main sources of B12 historically was supposedly dirt on food and small amounts of animal feces on unwashed produce.
+
+Caveat: this was mentioned on a Vegan Society podcast, and it is not actually clear whether humans got any meaningful amount of B12 this way or whether it is just a fun fact.
+
+
+# AI suggested related articles
+
+- [[Citations/Pawlak, Lester and Toyin, 2014\|Citations/Pawlak, Lester and Toyin, 2014]] (0.67)
+- [[Podcasts/The Vegan Pod/Vitamin B12 - What Every Vegan Should Know\|Podcasts/The Vegan Pod/Vitamin B12 - What Every Vegan Should Know]] (0.62)
+- [[Plant based diets and micronutrients\|Plant based diets and micronutrients]] (0.60)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/which-narratives-most-effectively-motivate-the-base-animal-think-tank/","tags":["wild_animals"],"created":"2025-10-23T17:42:44.774+01:00","updated":"2025-10-23T19:20:34.068+01:00"}
+{"dg-publish":true,"permalink":"/citations/which-narratives-most-effectively-motivate-the-base-animal-think-tank/","tags":["Wild_Animals"],"created":"2025-10-23T17:42:44.774+01:00","updated":"2026-09-30T19:55:02.245+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Wild_Animals"],"source_url":"https://animalthinktank.org.uk/wp-content/uploads/2025/05/Base-mobilisation-1-1.pdf","created":"2025-10-23","AI suggested tags":["Public_Opinion","Messaging","Behaviour_Change"]}}
 ---
 
 This research examined the effectiveness of different messages in encouraging support for a ban on factory farming among vegans and vegetarians in the UK. A total of 3,948 participants, recruited through Prolific, were presented with one of 19 messages and asked to rate their likelihood of joining a protest calling for a ban on factory farming. Participants were categorised into two main datasets: the 'base' dataset (2,665 participants highly concerned with animal rights) and the 'middle' dataset (1,283 participants less concerned with animal rights). Additionally, a subset of participants who identified strictly as vegan or vegetarian was analysed separately.
@@ -11,3 +11,10 @@ While 'Future Vision' messages had the most consistent positive impact, messages
 The findings suggest that while certain messages can increase support for animal freedom efforts, the success of these messages is context-dependent and varies according to participants' pre-existing attitudes and concerns regarding animal rights.
 
 This research highlights the importance of targeted messaging that resonates with specific audience segments to enhance advocacy efforts.
+
+
+# AI suggested related articles
+
+- [[Citations/Testing Grand Narratives About Animal Freedom (Animal Think Tank)\|Citations/Testing Grand Narratives About Animal Freedom (Animal Think Tank)]] (0.81)
+- [[Citations/Which Message Frames Improve Attitudes Towards Animal Treatment (Animal Think Tank)\|Citations/Which Message Frames Improve Attitudes Towards Animal Treatment (Animal Think Tank)]] (0.81)
+- [[Citations/Animal Think Tank, 2024\|Citations/Animal Think Tank, 2024]] (0.79)

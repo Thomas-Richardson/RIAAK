@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-2-billion-nhs-windfall-why-meat-reduction-matters-conservative-animal-welfare-foundation/","created":"2025-10-28T12:04:39.703+00:00","updated":"2025-10-28T12:04:39.703+00:00"}
+{"dg-publish":true,"permalink":"/citations/the-2-billion-nhs-windfall-why-meat-reduction-matters-conservative-animal-welfare-foundation/","tags":["High_Income_Countries/UK","Meat/Meat_Reduction","Economics/Costs","Health","Environment/GHG"],"created":"2025-10-28T12:04:39.703+00:00","updated":"2026-09-30T19:55:02.145+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["High_Income_Countries/UK","Meat/Meat_Reduction","Economics/Costs","Health","Environment/GHG"],"source_url":"https://www.conservativeanimalwelfarefoundation.org/wp-content/uploads/2024/01/2-Billion-NHS-Windfall-CAWF.pdf","created":"2025-10-28","AI suggested tags":["Policy/Food_Policy","Economics","Meat/Meat_Consumption"]}}
 ---
 
 

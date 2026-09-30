@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/us-public-support-for-radical-action-against-factory-farming-in-the-name-of-animal-welfare-rethink-priorities/","tags":["USA factory_farming"],"created":"2025-10-23T17:42:46.401+01:00","updated":"2025-10-23T18:12:10.248+01:00"}
+{"dg-publish":true,"permalink":"/citations/us-public-support-for-radical-action-against-factory-farming-in-the-name-of-animal-welfare-rethink-priorities/","tags":["USA","Factory_Farming"],"created":"2025-10-23T17:42:46.401+01:00","updated":"2026-09-30T19:55:02.206+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/us-support-for-action/","tags":["USA","Factory_Farming"],"Year Published":"2022","AI suggested tags":["Public_Opinion","Consumer_Attitudes","Consumer_Research"]}}
 ---
 
 ## Summary 
@@ -8,3 +8,9 @@
 * A preregistered study that we present here casts doubt on how substantial support for such radical action against factory farming actually is. In an experiment of 700 US survey respondents, we found 7.9% support (95% CI [4.3% – 14.0%], weighted results), when arguments framed around animal welfare for and against are presented, and respondents are asked to explain their reasoning. We also found 20.4% support (95% CI [11.0%-34.7%], weighted results) in the control condition when respondents were not asked to explain their reasoning.
 * In the second survey of 2,698 US respondents, 15.7% (95% CI [13.0%-18.8%], weighted results) support for a policy banning slaughterhouses, when arguments framed around animal welfare for and against are presented, and respondents are asked to explain their reasoning.
 * The attitudes expressed by poll respondents in response to broad questions may not be reliable indicators of actual support for specific policies or messages. It would be better to test people’s responses to more detailed messages and policy proposals, paying special attention to how radical messages compare to counterfactual moderate messages.
+
+# AI suggested related articles
+
+- [[Citations/Can We Build Support for Welfare Enforcement (Animal Think Tank)\|Citations/Can We Build Support for Welfare Enforcement (Animal Think Tank)]] (0.75)
+- [[Citations/Support For Farmed Animal Welfare Legislation In Ten Key U.S. States (Faunalytics)\|Citations/Support For Farmed Animal Welfare Legislation In Ten Key U.S. States (Faunalytics)]] (0.75)
+- [[Citations/Knowledge and attitudes to factory farming practices in the UK and US (Social Change Lab)\|Citations/Knowledge and attitudes to factory farming practices in the UK and US (Social Change Lab)]] (0.74)

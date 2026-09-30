@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/towards-a-legume-renaissance-the-protein-project/","created":"2026-03-09T12:44:47.182+00:00","updated":"2026-03-09T12:44:48.026+00:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":null,"source_url":"https://static1.squarespace.com/static/6878a121d8183d3e766cb071/t/698a2f7bf7a1f3468bc4baac/1770663803384/Towards+A+Legume+Renaissance+in+Europe+-+A+practical+roadmap+for+fava+beans+for+food+and+feed.pdf","created":"2026-03-09"}}
+{"dg-publish":true,"permalink":"/citations/towards-a-legume-renaissance-the-protein-project/","tags":["EU","Farmers","Legumes","Policy"],"created":"2026-03-09T12:44:47.182+00:00","updated":"2026-09-30T19:55:02.170+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["EU","Farmers","Legumes","Policy"],"source_url":"https://static1.squarespace.com/static/6878a121d8183d3e766cb071/t/698a2f7bf7a1f3468bc4baac/1770663803384/Towards+A+Legume+Renaissance+in+Europe+-+A+practical+roadmap+for+fava+beans+for+food+and+feed.pdf","created":"2026-03-09","AI suggested tags":["Food_Security","Policy/Food_Policy","Alternative_Proteins"]}}
 ---
 
 

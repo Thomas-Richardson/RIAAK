@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/who-are-the-vegetarians-part-2-faunalytics/","created":"2026-01-28T11:02:25.628+00:00","updated":"2026-01-29T05:00:06.565+00:00"}
+{"dg-publish":true,"permalink":"/citations/who-are-the-vegetarians-part-2-faunalytics/","tags":["Veg_Diets","Meat/Meat_Consumption","Consumer_Research"],"created":"2026-01-28T11:02:25.628+00:00","updated":"2026-09-30T19:55:02.249+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/who-are-the-vegetarians-part-2/","tags":["Veg_Diets","Meat/Meat_Consumption","Consumer_Research"],"Year Published":"2019","AI suggested tags":["Retention","Psychology","Behaviour_Change"]}}
 ---
 
 Many who describe themselves as vegetarian also report eating meat. Non-vegetarians often have “meatless” days. How do these groups compare to “true” vegetarians?

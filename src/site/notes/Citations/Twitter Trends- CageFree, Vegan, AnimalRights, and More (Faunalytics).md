@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/twitter-trends-cage-free-vegan-animal-rights-and-more-faunalytics/","created":"2026-01-28T10:59:00.988+00:00","updated":"2026-01-29T05:00:06.446+00:00"}
+{"dg-publish":true,"permalink":"/citations/twitter-trends-cage-free-vegan-animal-rights-and-more-faunalytics/","tags":["Public_Opinion","Messaging","Veganism","Alternative_Proteins/Cultivated_Meat"],"created":"2026-01-28T10:59:00.988+00:00","updated":"2026-09-30T19:55:02.177+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/twitter-trends/","tags":["Public_Opinion","Messaging","Veganism","Alternative_Proteins/Cultivated_Meat"],"Year Published":"2021","AI suggested tags":["Consumer_Attitudes","Consumer_Research","Veg_Diets"]}}
 ---
 
 ### **Background**

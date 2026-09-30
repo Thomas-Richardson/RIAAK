@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dietary-guidelines/","tags":["Health","DietaryGuidelines","PlantBased","FactoryFarming"],"created":"2026-03-11T20:41:09.348+00:00","updated":"2026-03-11T20:43:57.123+00:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Health","DietaryGuidelines","PlantBased","FactoryFarming"],"created":null}}
+{"dg-publish":true,"permalink":"/dietary-guidelines/","tags":["Health","Dietary_Guidelines","Plant_Based","Factory_Farming"],"created":"2026-03-11T20:41:09.348+00:00","updated":"2026-09-30T19:55:02.310+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Health","Dietary_Guidelines","Plant_Based","Factory_Farming"],"created":null,"AI suggested tags":["Alternative_Proteins","Health/Nutrition","Meat"]}}
 ---
 
 
@@ -260,3 +260,10 @@ Source:
 ---
 
 *Last updated: March 2026. See also [[Citations/Wyma et al., 2025\|Wyma et al., 2025]] for Africa-specific context.*
+
+
+# AI suggested related articles
+
+- [[Citations/Low hanging fruit - A policy pathway for boosting uptake of plant-rich diets (Food Foundation, GFI and the Green Alliance)\|Citations/Low hanging fruit - A policy pathway for boosting uptake of plant-rich diets (Food Foundation, GFI and the Green Alliance)]] (0.73)
+- [[Meat industry distorts the truth\|Meat industry distorts the truth]] (0.70)
+- [[FAIRR Initiative  A Global Network of Investors Addressing Materiality Risks in Protein Supply Chains\|FAIRR Initiative  A Global Network of Investors Addressing Materiality Risks in Protein Supply Chains]] (0.68)

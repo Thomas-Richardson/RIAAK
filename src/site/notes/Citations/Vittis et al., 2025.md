@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/vittis-et-al-2025/","tags":["Economics/jobs","lower_middle_income_countries","high_income_countries","farming"],"created":"2025-11-06T16:09:32.811+00:00","updated":"2025-11-06T16:23:12.190+00:00"}
+{"dg-publish":true,"permalink":"/citations/vittis-et-al-2025/","tags":["Economics/Jobs","Lower_Middle_Income_Countries","High_Income_Countries","Farming"],"created":"2025-11-06T16:09:32.811+00:00","updated":"2026-09-30T19:55:02.222+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(25)00220-7/fulltext","tags":["Economics/Jobs","Lower_Middle_Income_Countries","High_Income_Countries","Farming"],"Year Published":"2025","AI suggested tags":["Economics/Costs","Economics","Environment/Land"]}}
 ---
 
 # Plain lang summary
@@ -9,7 +9,7 @@ They found that the lower demand for livestock production would shrink labour ne
 
 When pairing these changes with data on agricultural wages, the researchers found that global labour costs would be 10% less for pescatarian and flexitarian diets and up to 32% less for meat-free eating patterns, ranging from $290B to $995B (or around 0.2-0.6% of global GDP).
 
-![Pasted image 20251106161045.png|400](/img/user/attachments/Pasted%20image%2020251106161045.png)
+![Pasted image 20251106161045.png\|400](/img/user/attachments/Pasted%20image%2020251106161045.png)
 
 
 ### Background

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/what-to-call-plant-based-meat-alternatives-a-labeling-study-faunalytics/","created":"2026-01-28T11:02:31.754+00:00","updated":"2026-01-29T05:00:06.743+00:00"}
+{"dg-publish":true,"permalink":"/citations/what-to-call-plant-based-meat-alternatives-a-labeling-study-faunalytics/","tags":["Consumer_Research","Plant_Based/Marketing","Policy/Labeling","Messaging"],"created":"2026-01-28T11:02:31.754+00:00","updated":"2026-09-30T19:55:02.242+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/what-to-call-plant-based-meat-alternatives-a-labelling-study/","tags":["Consumer_Research","Plant_Based/Marketing","Policy/Labeling","Messaging"],"Year Published":"2019","AI suggested tags":["Report","Alternative_Proteins/Plant_Based","Consumer_Attitudes"]}}
 ---
 
 ### Background

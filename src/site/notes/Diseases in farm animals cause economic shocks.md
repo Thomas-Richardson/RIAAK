@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/diseases-in-farm-animals-cause-economic-shocks/","tags":["Health/Disease","economics","food_security","Turkeys","Geese","wild_animals","pigs"],"created":"2025-11-11T23:29:33.213+00:00","updated":"2025-12-10T12:59:35.033+00:00"}
+{"dg-publish":true,"permalink":"/diseases-in-farm-animals-cause-economic-shocks/","tags":["Health/Disease","Economics","Food_Security","Turkeys","Geese","Wild_Animals","Pigs"],"created":"2025-11-11T23:29:33.213+00:00","updated":"2026-09-30T23:02:30.169+01:00","dg-note-properties":{"tags":["Health/Disease","Economics","Food_Security","Turkeys","Geese","Wild_Animals","Pigs"],"Note Type":"undefined","AI suggested tags":["MFA_Food_Sec","Economics/Jobs","Animal_Feed"]}}
 ---
 
 - [[Bryant Confidential/MFA draft\|MFA draft]] 
@@ -8,7 +8,7 @@
 In 2023 [FAIRR](https://www.fairr.org/resources/reports/industry-reinfected-avian-flu) estimated that similar outbreaks in the #High_Income_Countries/USA have resulted in approximately 40 million animal losses with economic costs ranging from $2.5 to $3 billion.
 
 ## #High_Income_Countries/UK 
-#Bryant/Project/cawf_food_sec 
+#Bryant_Research/Project/CAWF_Food_Sec 
 
 ### Bird flu
 [Thought to have come from a Goose farm in China](https://www.theguardian.com/environment/2022/oct/06/bird-flu-an-urgent-warning-to-move-away-from-factory-farming),  
@@ -22,9 +22,9 @@ Ironically, despite the factory farms playing a key role in causing these diseas
 
 The UN and FAO[ have admitted](https://www.cms.int/sites/default/files/Scientific%20Task%20Force%20on%20Avian%20Influenza%20and%20Wild%20Birds%20H5N8%20HPAI_December%202016_FINAL.pdf) that that factory poultry farming is a key cause of HPAI. [One study ](https://archpublichealth.biomedcentral.com/articles/10.1186/s13690-017-0218-4)found that intensification of #China's poultry sector may have led to HPAI.
 ### Sea lice
-Sea lice prevents aquaculture being a food security silver bullet #fish/farmed 
+Sea lice prevents aquaculture being a food security silver bullet #Fish/Farmed 
 ### BSE and F&M
-There are noticeable dips in #beef production in the mid-1990s and early 2000s, showing the effects of the bovine spongiform encephalopathy (BSE) and foot and mouth crises. 
+There are noticeable dips in #Meat/Beef production in the mid-1990s and early 2000s, showing the effects of the bovine spongiform encephalopathy (BSE) and foot and mouth crises. 
 
 The numbers sold for beef dropped from 3.8 million to 2.4 million between 1995 to 1996 due to the impact of BSE on sales [[Citations/UK governmental food security review, 2021\|UK governmental food security review, 2021]]
 ## US
@@ -45,3 +45,10 @@ The global nature of modern animal agriculture can mean that outbreaks in a sing
 Reading i didn't get to do: https://www.frontiersin.org/articles/10.3389/fvets.2023.1273417/full
 
 
+
+
+# AI suggested related articles
+
+- [[Animal farming makes the effects of crop diseases worse\|Animal farming makes the effects of crop diseases worse]] (0.84)
+- [[MFA Livestock and Food security finished\|MFA Livestock and Food security finished]] (0.82)
+- [[Market shocks due to livestock farming\|Market shocks due to livestock farming]] (0.79)

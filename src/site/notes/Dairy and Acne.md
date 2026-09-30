@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dairy-and-acne/","tags":[null,null,null,null],"created":"2025-10-23T17:42:41.984+01:00","updated":"2025-10-30T23:44:53.107+00:00"}
+{"dg-publish":true,"permalink":"/dairy-and-acne/","tags":["Dairy"],"created":"2025-10-23T17:42:41.984+01:00","updated":"2026-09-30T19:55:02.300+01:00","dg-note-properties":{"tags":["Dairy"],"AI suggested tags":["Nuts","Health/Nutrition","Review"]}}
 ---
 
 

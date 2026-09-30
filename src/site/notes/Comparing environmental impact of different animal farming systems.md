@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/comparing-environmental-impact-of-different-animal-farming-systems/","tags":[null,null,null],"created":"2025-10-23T17:42:41.664+01:00","updated":"2025-10-30T23:44:52.988+00:00"}
+{"dg-publish":true,"permalink":"/comparing-environmental-impact-of-different-animal-farming-systems/","tags":["Animal_Feed","Environment","Factory_Farming"],"created":"2025-10-23T17:42:41.664+01:00","updated":"2026-09-30T23:02:30.090+01:00","dg-note-properties":{"tags":["Animal_Feed","Environment","Factory_Farming"],"Note Type":"undefined","AI suggested tags":["Environment/Land","Farming","Environment/Pollution"]}}
 ---
 
 
@@ -16,3 +16,9 @@ From a ([[Manure from animal agriculture\|manure perspective]]), while pastorali
 From a [[Animal agriculture takes up lots of land but provide few calories\|land use perspective]], CAFOs require too much land to grow their food, while pastoralist system use too much land period
 
 From a water perspective, because CAFOs use more crop feed than grass, they have a much higher water footprint than small scale or pastoral systems. See also ([[Animal agriculture uses lots of water\|Animal agriculture uses lots of water]])
+
+# AI suggested related articles
+
+- [[Is pastoralism the solution to the problems food security and animal agriculture\|Is pastoralism the solution to the problems food security and animal agriculture]] (0.68)
+- [[Citations/Poore and Nemecek 2018\|Citations/Poore and Nemecek 2018]] (0.66)
+- [[classifying livestock systems\|classifying livestock systems]] (0.65)

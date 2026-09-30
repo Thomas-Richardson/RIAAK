@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classifying-livestock-systems/","tags":[null,null,"Economics/jobs"],"created":"2025-10-23T17:42:42.763+01:00","updated":"2025-11-06T18:37:58.019+00:00"}
+{"dg-publish":true,"permalink":"/classifying-livestock-systems/","tags":["Animal_Feed","MFA_Food_Sec","Economics/Jobs"],"created":"2025-10-23T17:42:42.763+01:00","updated":"2026-09-30T23:02:31.426+01:00","dg-note-properties":{"tags":["Animal_Feed","MFA_Food_Sec","Economics/Jobs"],"Note Type":"undefined","AI suggested tags":["Farming","Lower_Middle_Income_Countries","USA"]}}
 ---
 
 
@@ -28,7 +28,7 @@ A standard on livestock classification systems was developed by Seré et al (199
 	- Irrigated mixed-farming systems (MI). A subset of the mixed systems in which more than 10 percent of the value of non-livestock farm production comes from irrigated land use.”
 
 # MFA food sec Classifying livestock systems
-#Bryant/Project/MFA_Food_Securiy 
+#Bryant_Research/Project/MFA_Food_Security 
 [[MFA Livestock and Food security finished\|MFA Livestock and Food security finished]]
 
 The impacts of livestock on food security, economies and the environment strongly depends on the type of livestock system we consider. Here we consider 3 key types of livestock system: Small-scale or smallholder systems, extensive and pastoral systems, and intensive or industrial systems. Note that there is often overlap between categories, particularly small scale and extensive systems. Research can vary in how they define these systems, so where studies use these terms in specific ways, we will highlight the definition.
@@ -49,3 +49,9 @@ Furthermore, other factors that might define an operation as a smallholder farm 
 **Extensive systems** are where livestock are raised on large areas of land, typically grassland. They are low input, low productivity forms of agriculture, as animals derive all their food from the land (rather than from purchased feed). **Pastoralism** is a specific type of extensive animal agriculture where a farmer follows or moves their animals across an area, usually referred to as a ‘rangeland’. 
 
 Lastly, **intensive or industrial animal production** attempts to maximize the volume of animal products produced and revenue generated to the exclusion of all other aspects of animal rearing. Animals are raised in dense enclosures called “confined animal feeding operations'' or CAFOs (also informally described as “factory farms”). Industrial animal production systems often show specialization, vertical integration, and corporate consolidation. A small number of corporations attempt to own every aspect of the production chain: growing their own feed and employing their own specialists such as engineers and veterinarians. Whilst they are often large operations, defining CAFOs by size is often country dependent; what is considered an “intensive, large scale” chicken facility in Vietnam may be considered small in Brazil.
+
+# AI suggested related articles
+
+- [[Smallhold farming\|Smallhold farming]] (0.67)
+- [[The role of small-scale Livestock in food security in low and middle income countries\|The role of small-scale Livestock in food security in low and middle income countries]] (0.67)
+- [[Citations/Erb et al., 2012\|Citations/Erb et al., 2012]] (0.66)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contract-farming/","tags":[null,null,null,"Economics/jobs"],"created":"2025-11-06T16:27:22.846+00:00","updated":"2025-11-06T16:27:22.846+00:00"}
+{"dg-publish":true,"permalink":"/contract-farming/","tags":["Chickens","Farming","USA","Economics/Jobs"],"created":"2025-11-06T16:27:22.846+00:00","updated":"2026-09-30T19:55:02.283+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Chickens","Farming","USA","Economics/Jobs"],"AI suggested tags":["Farmers","Pigs","Factory_Farming"]}}
 ---
 
 
@@ -26,3 +26,10 @@ Leah garces talks about how chicken farmers in the US are basically slaves: big 
 American farmers are often angry at big corps, they value freedom but don't have it.
 
 if they get one or two sick flocks, they can fall behind on their loans and get trapped in a cycle of debt.
+
+
+# AI suggested related articles
+
+- [[CAFOs wreck domestic rural communities\|CAFOs wreck domestic rural communities]] (0.72)
+- [[The consolidation and intensification of farms\|The consolidation and intensification of farms]] (0.68)
+- [[Citations/Pew Commission, 2008\|Citations/Pew Commission, 2008]] (0.66)

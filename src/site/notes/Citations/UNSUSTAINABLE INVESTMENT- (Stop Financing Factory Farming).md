@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/unsustainable-investment-stop-financing-factory-farming/","created":"2026-03-16T15:53:00.989+00:00","updated":"2026-03-16T15:53:00.989+00:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":null,"source_url":"https://static1.squarespace.com/static/687512ad52c772117ab6bb20/t/699e0c7fa779ba5d67e0fa2e/1771965567643/Unsustainable+development+Part+II_FinalV2.pdf","created":"2026-03-16"}}
+{"dg-publish":true,"permalink":"/citations/unsustainable-investment-stop-financing-factory-farming/","tags":["Financial_Activism","Factory_Farming","Biodiversity","Environment/Pollution"],"created":"2026-03-16T15:53:00.989+00:00","updated":"2026-09-30T19:55:02.205+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Financial_Activism","Factory_Farming","Biodiversity","Environment/Pollution"],"source_url":"https://static1.squarespace.com/static/687512ad52c772117ab6bb20/t/699e0c7fa779ba5d67e0fa2e/1771965567643/Unsustainable+development+Part+II_FinalV2.pdf","created":"2026-03-16","AI suggested tags":["Greenwashing","Meat_Industry","Animal_Feed"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/defining-food-security/","tags":[null,null,null,null],"created":"2025-10-23T17:42:43.335+01:00","updated":"2025-10-30T23:44:53.413+00:00"}
+{"dg-publish":true,"permalink":"/defining-food-security/","tags":["MFA_Food_Sec"],"created":"2025-10-23T17:42:43.335+01:00","updated":"2026-09-30T23:02:30.121+01:00","dg-note-properties":{"tags":["MFA_Food_Sec"],"AI suggested tags":["Food_Security","Lower_Middle_Income_Countries","Bryant_Research/Project/CAWF_Food_Sec"]}}
 ---
 
 

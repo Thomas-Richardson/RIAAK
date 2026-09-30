@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/consumers-want-transparent-labels/","tags":["labelling"],"created":"2025-10-23T17:42:48.061+01:00","updated":"2026-01-06T10:43:18.034+00:00"}
+{"dg-publish":true,"permalink":"/consumers-want-transparent-labels/","tags":["Policy/Labeling"],"created":"2025-10-23T17:42:48.061+01:00","updated":"2026-09-30T19:55:02.282+01:00","dg-note-properties":{"tags":["Policy/Labeling"],"AI suggested tags":["Report","Consumer_Attitudes","Consumer_Research"]}}
 ---
 
 - [[PB food labels are not confusing to consumers\|PB food labels are not confusing to consumers]]
@@ -13,3 +13,9 @@
 - Nearly half of Americans (49%) are skeptical about “humane” or “ethically raised” food labels on animal products, believing they are often misleading about companies’ practices around animal welfare
 - After respondents learn more about food labeling in the meat industry, their skepticism around animal product labels increases to 65%.
 - After being shown a picture of a chicken farm marketed as Animal Welfare Certified (AWC), half of respondents say the operation either meets their expectations for the AWC label “not very well” (30%) or “not at all” (20%).
+
+# AI suggested related articles
+
+- [[UK Consumers Seek Transparent Animal Product Labels\|UK Consumers Seek Transparent Animal Product Labels]] (0.72)
+- [[Citations/Institute for Sustainable Futures, 2022\|Citations/Institute for Sustainable Futures, 2022]] (0.69)
+- [[Citations/Report by Surveygoo and Ingredient Communications\|Citations/Report by Surveygoo and Ingredient Communications]] (0.67)

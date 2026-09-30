@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/world-bank-2024/","tags":["Environment/GHG","Note","Type","alternative_proteins","citation","cows","Environment/Land","undefined"],"created":"2025-10-23T17:42:44.373+01:00","updated":"2025-11-04T12:10:04.174+00:00"}
+{"dg-publish":true,"permalink":"/citations/world-bank-2024/","tags":["Environment/GHG","Alternative_Proteins","Citation","Cows","Environment/Land"],"created":"2025-10-23T17:42:44.373+01:00","updated":"2026-09-30T19:55:02.254+01:00","dg-note-properties":{"tags":["Environment/GHG","Alternative_Proteins","Citation","Cows","Environment/Land"],"AI suggested tags":["Food_Security","Meat/Meat_Reduction","Economics"]}}
 ---
 
 

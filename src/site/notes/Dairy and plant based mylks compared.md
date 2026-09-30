@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dairy-and-plant-based-mylks-compared/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:47.290+01:00","updated":"2025-10-30T23:44:53.645+00:00"}
+{"dg-publish":true,"permalink":"/dairy-and-plant-based-mylks-compared/","tags":["Environment","Health/Nutrition"],"created":"2025-10-23T17:42:47.290+01:00","updated":"2026-09-30T23:02:30.119+01:00","dg-note-properties":{"tags":["Environment","Health/Nutrition"],"AI suggested tags":["Nuts","Dairy","Diet"]}}
 ---
 
 
@@ -37,3 +37,9 @@ I checked 8 non dairy oat and soy milks, found 15-70% less, on average 40% less 
 4.2/4.8
 (1.6+4.2+3.3+2.5+2.8+3.4+2.5+2.7)/8/4.8
 ```
+
+# AI suggested related articles
+
+- [[Health risks of veggie veganism\|Health risks of veggie veganism]] (0.64)
+- [[Citations/Clegg et al., 2021\|Citations/Clegg et al., 2021]] (0.61)
+- [[Are meat alternatives healthier than meat\|Are meat alternatives healthier than meat]] (0.60)

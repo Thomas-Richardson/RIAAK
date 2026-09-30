@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/uk-governmental-food-security-review-2021/","tags":["Animal_Feed","Bryant/Project/CAWF_Food_Sec","Citation","Food_Security","High_Income_Countries/UK"],"created":"2025-10-23T17:42:45.960+01:00","updated":"2026-09-30T22:10:52.744+01:00","dg-note-properties":{"Note Type":"Government Report","tags":["Animal_Feed","Bryant/Project/CAWF_Food_Sec","Citation","Food_Security","High_Income_Countries/UK"],"AI suggested tags":["Bryant/Project/CAWF_Food_Sec","UK","Bryant/Project/CAWF_Hidden_Harms"]}}
+{"dg-publish":true,"permalink":"/citations/uk-governmental-food-security-review-2021/","tags":["Animal_Feed","Bryant_Research/Project/CAWF_Food_Sec","Citation","Food_Security","High_Income_Countries/UK"],"created":"2025-10-23T17:42:45.960+01:00","updated":"2026-09-30T23:02:30.024+01:00","dg-note-properties":{"Note Type":"Government Report","tags":["Animal_Feed","Bryant_Research/Project/CAWF_Food_Sec","Citation","Food_Security","High_Income_Countries/UK"],"AI suggested tags":["Bryant_Research/Project/CAWF_Food_Sec","UK","Bryant_Research/Project/CAWF_Hidden_Harms"]}}
 ---
 
 

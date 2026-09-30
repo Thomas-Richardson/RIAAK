@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/tactics-in-practice-the-data-behind-humane-education-faunalytics/","created":"2026-02-02T20:26:35.887+00:00","updated":"2026-02-02T20:26:36.191+00:00"}
+{"dg-publish":true,"permalink":"/citations/tactics-in-practice-the-data-behind-humane-education-faunalytics/","tags":["Tactics","Behaviour_Change","Psychology","Review"],"created":"2026-02-02T20:26:35.887+00:00","updated":"2026-09-30T19:55:02.101+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/tactics-in-practice-the-data-behind-humane-education/","tags":["Tactics","Behaviour_Change","Psychology","Review"],"Year Published":"2026","AI suggested tags":["Public_Opinion","Messaging","Research/Methods"]}}
 ---
 
 This deep dive explores the research on humane education — programs that teach the consequences of animal agriculture and/or respect for animals — examining how these initiatives influence dietary choices, shape attitudes toward animals, and inspire lasting compassionate action.

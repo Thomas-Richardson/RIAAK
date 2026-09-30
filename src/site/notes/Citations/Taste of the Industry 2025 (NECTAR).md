@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/taste-of-the-industry-2025-nectar/","created":"2025-10-23T17:42:44.780+01:00","updated":"2025-10-23T17:42:44.781+01:00"}
+{"dg-publish":true,"permalink":"/citations/taste-of-the-industry-2025-nectar/","tags":["Alternative_Proteins/Plant_Based","Consumer_Research","High_Income_Countries/USA"],"created":"2025-10-23T17:42:44.780+01:00","updated":"2026-09-30T19:55:02.107+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Alternative_Proteins/Plant_Based","Consumer_Research","High_Income_Countries/USA"],"source_url":"https://static1.squarespace.com/static/66107b8b2226bc6925086385/t/67f58aa0d62ff13303faef86/1744145057477/NECTAR+Taste+of+the+Industry+2025+One+Pager.pdf","created":"2025-10-21","AI suggested tags":["Alternative_Proteins/Balanced_Proteins","Marketing","Alternative_Proteins"]}}
 ---
 
 

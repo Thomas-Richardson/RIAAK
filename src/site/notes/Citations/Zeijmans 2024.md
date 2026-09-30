@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/zeijmans-2024/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:45.307+01:00","updated":"2025-10-30T23:44:54.079+00:00"}
+{"dg-publish":true,"permalink":"/citations/zeijmans-2024/","tags":["Citation","Economics"],"created":"2025-10-23T17:42:45.307+01:00","updated":"2026-09-30T19:55:02.263+01:00","dg-note-properties":{"tags":["Citation","Economics"],"AI suggested tags":["Meat","Meat/Meat_Reduction","Environment/GHG"]}}
 ---
 
 

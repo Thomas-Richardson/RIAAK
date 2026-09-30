@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/do-vegan-products-reduce-demand-for-as-fs/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:47.506+01:00","updated":"2025-10-30T23:44:53.745+00:00"}
+{"dg-publish":true,"permalink":"/do-vegan-products-reduce-demand-for-as-fs/","tags":["Alternative_Proteins","Economics","Meat"],"created":"2025-10-23T17:42:47.506+01:00","updated":"2026-09-30T19:55:02.321+01:00","dg-note-properties":{"tags":["Alternative_Proteins","Economics","Meat"],"AI suggested tags":["Alternative_Proteins/Plant_Based","Citation","High_Income_Countries"]}}
 ---
 
 

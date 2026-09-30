@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-economic-impacts-of-a-plant-based-transition-exploring-two-growth-scenarios-faunalytics/","created":"2026-01-28T10:55:01.818+00:00","updated":"2026-01-29T05:00:06.551+00:00"}
+{"dg-publish":true,"permalink":"/citations/the-economic-impacts-of-a-plant-based-transition-exploring-two-growth-scenarios-faunalytics/","tags":["Alternative_Proteins/Plant_Based","Economics","High_Income_Countries/USA"],"created":"2026-01-28T10:55:01.818+00:00","updated":"2026-09-30T19:55:02.122+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/plant-based-economic-impacts/","tags":["Alternative_Proteins/Plant_Based","Economics","High_Income_Countries/USA"],"Year Published":"2025","AI suggested tags":["High_Income_Countries","Meat/Meat_Reduction","Consumer_Research"]}}
 ---
 
 How would a shift towards large-scale plant-based meat consumption impact the economy of the United States? This Faunalytics study explores two hypothetical paths and outcomes.

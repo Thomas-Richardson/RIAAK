@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/which-message-frames-improve-attitudes-towards-animal-treatment-animal-think-tank/","created":"2025-10-23T17:42:44.975+01:00","updated":"2025-10-23T17:42:44.975+01:00"}
+{"dg-publish":true,"permalink":"/citations/which-message-frames-improve-attitudes-towards-animal-treatment-animal-think-tank/","tags":["Messaging","Narratives","Public_Opinion","High_Income_Countries/UK"],"created":"2025-10-23T17:42:44.975+01:00","updated":"2026-09-30T19:55:02.244+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Messaging","Narratives","Public_Opinion","High_Income_Countries/UK"],"source_url":"https://animalthinktank.org.uk/wp-content/uploads/2025/03/Rhetorical-message-framing-testing-April-2023.pdf","created":"2025-10-23","AI suggested tags":["Consumer_Attitudes","Strategy","Consumer_Research"]}}
 ---
 
 

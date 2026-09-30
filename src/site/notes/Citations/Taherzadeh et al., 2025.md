@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/taherzadeh-et-al-2025/","created":"2026-01-24T14:19:03.058+00:00","updated":"2026-01-24T20:13:40.431+00:00"}
+{"dg-publish":true,"permalink":"/citations/taherzadeh-et-al-2025/","tags":["Diet","Environment/GHG","Environment/Land","Health/Nutrition"],"created":"2026-01-24T14:19:03.058+00:00","updated":"2026-09-30T23:02:29.928+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.researchsquare.com/article/rs-7188924/v1","tags":["Diet","Environment/GHG","Environment/Land","Health/Nutrition"],"Year Published":"2025","AI suggested tags":["Citation","Environment","Veg_Diets"]}}
 ---
 
 # Key takeaway

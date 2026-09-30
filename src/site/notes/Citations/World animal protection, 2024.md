@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/world-animal-protection-2024/","tags":["Note","Type","citation","factory_farming","High_Income_Countries/UK","undefined"],"created":"2025-10-23T17:42:46.104+01:00","updated":"2025-12-10T12:59:34.962+00:00"}
+{"dg-publish":true,"permalink":"/citations/world-animal-protection-2024/","tags":["Citation","Factory_Farming","High_Income_Countries/UK"],"created":"2025-10-23T17:42:46.104+01:00","updated":"2026-09-30T23:02:30.078+01:00","dg-note-properties":{"tags":["Citation","Factory_Farming","High_Income_Countries/UK"],"AI suggested tags":["UK","Bryant_Research/Project/CAWF_Hidden_Harms","Farming"]}}
 ---
 
 
@@ -26,3 +26,10 @@ Defra data for 2021 shows there were 10k pig units and over half keep 9 or fewer
 
 Contains very detailed descriptions of animal welfare and how many animals are kept in certain conditions
 
+
+
+# AI suggested related articles
+
+- [[How animals are kept\|How animals are kept]] (0.75)
+- [[Most farmed animals live on factory farms\|Most farmed animals live on factory farms]] (0.72)
+- [[The consolidation and intensification of farms\|The consolidation and intensification of farms]] (0.71)

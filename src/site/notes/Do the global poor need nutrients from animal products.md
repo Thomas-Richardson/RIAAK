@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/do-the-global-poor-need-nutrients-from-animal-products/","tags":["Health/Nutrition","food_security","Economics/jobs"],"created":"2025-11-08T14:55:47.915+00:00","updated":"2025-11-08T14:55:47.915+00:00"}
+{"dg-publish":true,"permalink":"/do-the-global-poor-need-nutrients-from-animal-products/","tags":["Health/Nutrition","Food_Security","Economics/Jobs"],"created":"2025-11-08T14:55:47.915+00:00","updated":"2026-09-30T19:55:02.320+01:00","dg-note-properties":{"tags":["Health/Nutrition","Food_Security","Economics/Jobs"],"Note Type":"Own Work","AI suggested tags":["MFA_Food_Sec","Lower_Middle_Income_Countries","Animal_Feed"]}}
 ---
 
 
@@ -40,3 +40,9 @@ Iodine deficiency results from diets low in iodine, which is more common in plac
 [^2]: https://ods.od.nih.gov/factsheets/Iodine-HealthProfessional/#en14
 [^3]: Zimmermann, M., & Trumbo, P. R. (2013). Iodine. _Advances in Nutrition_, _4_(2), 262.
 [^4]: Asare, H., Rosi, A., Faber, M., Smuts, C. M., & Ricci, C. (2022). Animal-source foods as a suitable complementary food for improved physical growth in 6 to 24-month-old children in low-and middle-income countries: A systematic review and meta-analysis of randomised controlled trials. _British Journal of Nutrition_, _128_(12), 2453-2463.
+
+# AI suggested related articles
+
+- [[Small scale farming for people in LMICS\|Small scale farming for people in LMICS]] (0.73)
+- [[The role of small-scale Livestock in food security in low and middle income countries\|The role of small-scale Livestock in food security in low and middle income countries]] (0.72)
+- [[Citations/Li, Yadav & Siddique, 2020\|Citations/Li, Yadav & Siddique, 2020]] (0.71)

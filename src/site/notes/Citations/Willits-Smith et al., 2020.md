@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/willits-smith-et-al-2020/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:46.567+01:00","updated":"2025-10-30T23:44:54.223+00:00"}
+{"dg-publish":true,"permalink":"/citations/willits-smith-et-al-2020/","tags":["Environment/GHG","Citation","Veganism"],"created":"2025-10-23T17:42:46.567+01:00","updated":"2026-09-30T23:02:30.076+01:00","dg-note-properties":{"tags":["Environment/GHG","Citation","Veganism"],"AI suggested tags":["Environment","Meat","Health/Nutrition"]}}
 ---
 
 
@@ -14,3 +14,9 @@ complete substitution of beef for poultry resulted in a decreased GHGE of 35·7%
 
 - [[Citations/Berners-Lee et al., 2012\|Berners-Lee et al., 2012]]
 - [[The small body problem\|The small body problem]] 
+
+# AI suggested related articles
+
+- [[Citations/Stehfest et al., 2009\|Citations/Stehfest et al., 2009]] (0.77)
+- [[Citations/Conrad, Drewnowski, & Love, (2023)\|Citations/Conrad, Drewnowski, & Love, (2023)]] (0.76)
+- [[Citations/Aleksandrowicz et al., 2016\|Citations/Aleksandrowicz et al., 2016]] (0.75)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/white-striping-disease-in-supermarket-chicken-the-humane-league/","created":"2025-10-23T17:42:46.425+01:00","updated":"2026-01-24T20:24:52.918+00:00"}
+{"dg-publish":true,"permalink":"/citations/white-striping-disease-in-supermarket-chicken-the-humane-league/","tags":["Chickens","Factory_Farming","Retailers","High_Income_Countries/USA"],"created":"2025-10-23T17:42:46.425+01:00","updated":"2026-09-30T19:55:02.269+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Chickens","Factory_Farming","Retailers","High_Income_Countries/USA"],"source_url":"https://assets.ctfassets.net/ww1ie0z745y7/1dOOUgl03qhrNKwSKbwXag/85f84495ce50c972d4c4cf6f48116f9f/white-striping-report-09.2021.pdf","created":"2025-10-23","AI suggested tags":["Eggs","Health/Disease","USA"]}}
 ---
 
 # Executive Summary
@@ -18,3 +18,9 @@ The Humane League, a global animal protection nonprofit, set out to investigate 
 # Related articles
 - [[Citations/The Role Of Humanewashing In Grocery Stores - How Welfare Labels Affect Purchasing Behavior (Faunalytics)\|Citations/The Role Of Humanewashing In Grocery Stores - How Welfare Labels Affect Purchasing Behavior (Faunalytics)]] (0.62)
 - [[Today's chickens may be fatter than in previous generations\|Today's chickens may be fatter than in previous generations]] (0.61)
+
+# AI suggested related articles
+
+- [[health effects of chicken\|health effects of chicken]] (0.58)
+- [[Citations/Attitudes Towards Chickens & Fishes- A Study Of Brazil, Canada, China, & India (Faunalytics)\|Citations/Attitudes Towards Chickens & Fishes- A Study Of Brazil, Canada, China, & India (Faunalytics)]] (0.58)
+- [[Citations/2026 Canada Animal Welfare Scorecard (Mercy For Animals)\|Citations/2026 Canada Animal Welfare Scorecard (Mercy For Animals)]] (0.58)

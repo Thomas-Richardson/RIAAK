@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/thomas-et-al-2025/","created":"2025-10-23T17:42:46.922+01:00","updated":"2025-10-23T18:12:10.265+01:00"}
+{"dg-publish":true,"permalink":"/citations/thomas-et-al-2025/","tags":["Messaging","Behaviour_Change","Alternative_Proteins/Plant_Based","High_Income_Countries/USA"],"created":"2025-10-23T17:42:46.922+01:00","updated":"2026-09-30T19:55:02.162+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.nature.com/articles/s43016-025-01227-7","tags":["Messaging","Behaviour_Change","Alternative_Proteins/Plant_Based","High_Income_Countries/USA"],"Year Published":"2025","AI suggested tags":["Meat/Meat_Reduction","Review","Consumer_Research"]}}
 ---
 
 Here we investigate the impacts of media advocating plant-based diets. Search volume for popular films explains the majority of variance in searches for plant-based food, but is not associated with consumption. For three documentaries, we estimated that a standard deviation increase in searches for each film increases searches for plant-based food by up to 43% in the following week. Our findings can inform approaches for raising awareness of sustainable diets.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-rodent-birth-control-landscape-rethink-priorities/","tags":["rodents wild_animals"],"created":"2025-10-23T17:42:46.837+01:00","updated":"2025-10-23T18:12:10.263+01:00"}
+{"dg-publish":true,"permalink":"/citations/the-rodent-birth-control-landscape-rethink-priorities/","tags":["Rodents","Wild_Animals"],"created":"2025-10-23T17:42:46.837+01:00","updated":"2026-09-30T19:55:02.157+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/the-rodent-birth-control-landscape/","tags":["Rodents","Wild_Animals"],"Year Published":"2022","AI suggested tags":["Insects","Wild_Animal_Welfare","Animal_Welfare"]}}
 ---
 
 ## At-a-glance
@@ -16,3 +16,9 @@
     *   Most of the known chemicals that reduce rodent fertility have not been developed to be sufficiently effective, cost-effective, or safe to be competitive with lethal control agents.
     *   Single-dose sterilants, which would completely abolish fertility in one dose, would come with a higher risk of overdose, bioaccumulation, and the evolution of resistance.
 *   **Future directions:** A follow-up post will focus on opportunities for impact via advocating the use of rodent birth control and the displacement of cruel pest control methods.
+
+# AI suggested related articles
+
+- [[Citations/Eradicating rodenticides from U.S. pest management is less practical than we thought - Rethink Priorities (Rethink Priorities)\|Citations/Eradicating rodenticides from U.S. pest management is less practical than we thought - Rethink Priorities (Rethink Priorities)]] (0.81)
+- [[Citations/Paths to reducing rodenticide use in the U.S. (Rethink Priorities)\|Citations/Paths to reducing rodenticide use in the U.S. (Rethink Priorities)]] (0.80)
+- [[Citations/Abundance Estimates of Three Wild Populations (Rethink Priorities)\|Citations/Abundance Estimates of Three Wild Populations (Rethink Priorities)]] (0.63)

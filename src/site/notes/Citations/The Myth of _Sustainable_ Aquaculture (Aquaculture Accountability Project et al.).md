@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-myth-of-sustainable-aquaculture-aquaculture-accountability-project-et-al/","created":"2026-03-12T00:04:02.380+00:00","updated":"2026-03-12T00:04:02.382+00:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":null,"source_url":"https://aquacultureaccountability.org/wp-content/uploads/2026/01/The-Myth-of-Sustainable-Aquaculture.pdf","created":"2026-03-12"}}
+{"dg-publish":true,"permalink":"/citations/the-myth-of-sustainable-aquaculture-aquaculture-accountability-project-et-al/","tags":["Fish/Farmed","Greenwashing","Animal_Feed","Factory_Farming"],"created":"2026-03-12T00:04:02.380+00:00","updated":"2026-09-30T19:55:02.131+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Fish/Farmed","Greenwashing","Animal_Feed","Factory_Farming"],"source_url":"https://aquacultureaccountability.org/wp-content/uploads/2026/01/The-Myth-of-Sustainable-Aquaculture.pdf","created":"2026-03-12","AI suggested tags":["Fish","EU","Food_Security"]}}
 ---
 
 

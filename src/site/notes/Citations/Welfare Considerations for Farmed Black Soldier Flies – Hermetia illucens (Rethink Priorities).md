@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/welfare-considerations-for-farmed-black-soldier-flies-hermetia-illucens-rethink-priorities/","tags":["insects"],"created":"2025-10-23T17:42:44.408+01:00","updated":"2025-10-23T18:12:10.176+01:00"}
+{"dg-publish":true,"permalink":"/citations/welfare-considerations-for-farmed-black-soldier-flies-hermetia-illucens-rethink-priorities/","tags":["Insects"],"created":"2025-10-23T17:42:44.408+01:00","updated":"2026-09-30T19:55:02.233+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/welfare-considerations-for-farmed-black-soldier-flies-hermetia-illucens/","tags":["Insects"],"Year Published":"2022","AI suggested tags":["Shrimp","Animal_Welfare","Fish"]}}
 ---
 
 - ~200-300 billion black soldier flies (BSFs) are reared as protein for farmed animal and pet feed across the globe, and the industry is expected to grow. BSFs are anticipated to become the most farmed insect species in the next decade.

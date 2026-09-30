@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/diet-and-diabetes/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:44.190+01:00","updated":"2025-11-07T12:12:09.746+00:00"}
+{"dg-publish":true,"permalink":"/diet-and-diabetes/","tags":["Health/Nutrition","Meat"],"created":"2025-10-23T17:42:44.190+01:00","updated":"2026-09-30T22:10:52.798+01:00","dg-note-properties":{"tags":["Health/Nutrition","Meat"],"AI suggested tags":["Meat/Red_Meat","Nuts","Diet"]}}
 ---
 
 
@@ -19,3 +19,10 @@ Both unprocessed red and processed meat consumption are associated with incident
 
 ## References
 [^1]: Micha R, Michas G, Mozaffarian D. Unprocessed red and processed meats and risk of coronary artery disease and type 2 diabetes—an updated review of the evidence. Curr Atheroscler Rep. 2012; 14: 515–524. https://doi.org/10.1007/s11883-012-0282-8 PMID: 23001745
+
+
+# AI suggested related articles
+
+- [[Citations/Schwingshackl et al., 2017b\|Citations/Schwingshackl et al., 2017b]] (0.79)
+- [[Red and processed meat and CVD\|Red and processed meat and CVD]] (0.74)
+- [[red and processed meat and obesity\|red and processed meat and obesity]] (0.68)

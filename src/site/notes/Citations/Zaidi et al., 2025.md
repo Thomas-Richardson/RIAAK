@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/zaidi-et-al-2025/","tags":["Health/Nutrition","Alternative_Proteins/Plant_Based"],"created":"2025-12-10T12:49:25.597+00:00","updated":"2025-12-10T12:49:41.889+00:00"}
+{"dg-publish":true,"permalink":"/citations/zaidi-et-al-2025/","tags":["Health/Nutrition","Alternative_Proteins/Plant_Based"],"created":"2025-12-10T12:49:25.597+00:00","updated":"2026-09-30T19:55:02.262+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://verjournal.com/index.php/ver/article/view/785","tags":["Health/Nutrition","Alternative_Proteins/Plant_Based"],"Year Published":"2025","AI suggested tags":["Review","Alternative_Proteins","Citation"]}}
 ---
 
 As a sustainable alternative to animal proteins, plant-based meat replacements have been the focus of much research due to the global move toward plant-based diets.  This systematic review uses data from 46 relevant research published between 2016 and 2025 to thoroughly assess the nutritional composition, health effects, technical advancements, consumer acceptability, and environmental consequences of plant-based meat alternatives.  Searches were performed across key databases, such as MEDLINE, Embase, and Web of Science in accordance with PRISMA guidelines,
@@ -11,3 +11,9 @@ PBMAs are linked to better cardio-metabolic health outcomes, such as lower level
 Extrusion and enzymatic modification are two examples of processing technology advancements that have improved the sensory qualities of PBMAs, leading to greater consumer acceptance across dietary categories.  Environmentally speaking, compared to animal agriculture, plant-based protein production drastically lowers greenhouse gas emissions, water consumption, and land needs, supporting sustainability goals connected to food.
 
 Consistency in nutritional fortification, price competitiveness, and cultural adaption continue to be obstacles despite the apparent advantages.  Optimizing nutritional profiles, raising consumer awareness, and evaluating long-term health effects should be the main goals of future study.
+
+# AI suggested related articles
+
+- [[Citations/Fu et al., 2026\|Citations/Fu et al., 2026]] (0.78)
+- [[Citations/Gouela et al., 2025\|Citations/Gouela et al., 2025]] (0.77)
+- [[Citations/Fernández-Rodríguez et al., 2025\|Citations/Fernández-Rodríguez et al., 2025]] (0.77)

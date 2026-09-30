@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/corporate-cage-free-campaigns/","tags":[null,null,null,null],"created":"2025-10-23T17:42:44.171+01:00","updated":"2025-10-30T23:44:53.606+00:00"}
+{"dg-publish":true,"permalink":"/corporate-cage-free-campaigns/","tags":["Chickens","Corporate_Campaigns","Eggs","Farming"],"created":"2025-10-23T17:42:44.171+01:00","updated":"2026-09-30T19:55:02.287+01:00","dg-note-properties":{"tags":["Chickens","Corporate_Campaigns","Eggs","Farming"],"Note Type":"undefined","AI suggested tags":["Strategy","Financial_Activism","Sinergia_Defunding_Project"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cutting-out-dairy-has-a-low-impact-for-animals-chicken-much-higher/","created":"2025-10-23T17:42:43.519+01:00","updated":"2025-10-30T23:40:02.209+00:00"}
+{"dg-publish":true,"permalink":"/cutting-out-dairy-has-a-low-impact-for-animals-chicken-much-higher/","tags":["Chickens","Dairy","Movement_Strategy"],"created":"2025-10-23T17:42:43.519+01:00","updated":"2026-09-30T23:02:30.107+01:00","dg-note-properties":{"tags":["Chickens","Dairy","Movement_Strategy"],"Note Type":"undefined","AI suggested tags":["Environment","Meat/Meat_Reduction","Environment/GHG"]}}
 ---
 
 See this blog post: https://feedingprogress.com/p/rethinking-the-impact-of-advocating

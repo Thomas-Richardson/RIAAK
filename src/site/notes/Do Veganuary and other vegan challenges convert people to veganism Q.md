@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/do-veganuary-and-other-vegan-challenges-convert-people-to-veganism-q/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:47.964+01:00","updated":"2025-10-30T23:44:53.821+00:00"}
+{"dg-publish":true,"permalink":"/do-veganuary-and-other-vegan-challenges-convert-people-to-veganism-q/","tags":["Behaviour_Change","Veganism"],"created":"2025-10-23T17:42:47.964+01:00","updated":"2026-09-30T19:55:02.315+01:00","dg-note-properties":{"tags":["Behaviour_Change","Veganism"],"AI suggested tags":["Veg_Diets","Retention","Health/Nutrition"]}}
 ---
 
 
@@ -23,3 +23,9 @@ This study[^2] (haven't read) One misleading thing about the abstract is that, j
 ## References
 [^1]: https://vomad.life/survey/
 [^2]: https://www.cambridge.org/core/journals/proceedings-of-the-nutrition-society/article/adoption-of-a-shortterm-4week-vegan-diet-as-part-of-veganuary-significantly-reduces-nutrient-intake-in-omnivorous-participants/DF626D57663D7C51CF9529A61C4FC6F0
+
+# AI suggested related articles
+
+- [[Citations/McPhedran et al., 2023\|Citations/McPhedran et al., 2023]] (0.73)
+- [[Citations/Luick et al., 2023\|Citations/Luick et al., 2023]] (0.69)
+- [[Citations/Going Vegan Or Vegetarian- Many Paths To One Goal (Faunalytics)\|Citations/Going Vegan Or Vegetarian- Many Paths To One Goal (Faunalytics)]] (0.63)

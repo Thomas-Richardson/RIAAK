@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-rise-of-veg-the-fall-of-meat-a-restaurant-case-study-faunalytics/","created":"2026-01-28T11:00:31.137+00:00","updated":"2026-01-29T05:00:06.657+00:00"}
+{"dg-publish":true,"permalink":"/citations/the-rise-of-veg-the-fall-of-meat-a-restaurant-case-study-faunalytics/","tags":["Nudging","Institutional_Change","Meat/Meat_Reduction","Consumer_Research"],"created":"2026-01-28T11:00:31.137+00:00","updated":"2026-09-30T19:55:02.137+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/the-rise-of-veg-the-fall-of-meat-a-restaurant-case-study/","tags":["Nudging","Institutional_Change","Meat/Meat_Reduction","Consumer_Research"],"Year Published":"2020","AI suggested tags":["Behaviour_Change","Veg_Diets","Case_Study"]}}
 ---
 
 In this analysis, Faunalytics digs into the specifics of veg and meat orders from a campus café over the past five years and finds an encouraging upward trend.

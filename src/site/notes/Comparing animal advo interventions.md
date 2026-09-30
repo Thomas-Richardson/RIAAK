@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/comparing-animal-advo-interventions/","tags":["movement_building","effective_altruism"],"created":"2025-12-14T11:54:37.527+00:00","updated":"2025-12-14T11:55:25.297+00:00"}
+{"dg-publish":true,"permalink":"/comparing-animal-advo-interventions/","tags":["Movement_Building","Effective_Altruism"],"created":"2025-12-14T11:54:37.527+00:00","updated":"2026-09-30T19:55:02.275+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Movement_Building","Effective_Altruism"],"created":null,"AI suggested tags":["Strategy","Research/Methods","Public_Opinion"]}}
 ---
 
 It does not make sense to ask whether one intervention in animal advocacy is more effective than another, because they all work together. The only thing we can really do is talk about effectiveness in context. Everything balances against one another, so it is not about which intervention is more effective than which. Effectiveness measures are always based on the movement at the time.

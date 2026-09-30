@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/do-subsidies-make-meat-much-cheaper/","created":"2026-02-11T10:45:18.943+00:00","updated":"2026-02-11T10:45:19.274+00:00"}
+{"dg-publish":true,"permalink":"/do-subsidies-make-meat-much-cheaper/","tags":["Alternative_Proteins","Economics/Costs","Meat","Policy/Food_Policy"],"created":"2026-02-11T10:45:18.943+00:00","updated":"2026-09-30T19:55:02.319+01:00","dg-note-properties":{"Note Type":"News Report / Blog","Url":"https://hannahritchie.substack.com/p/meat-subsidies","tags":["Alternative_Proteins","Economics/Costs","Meat","Policy/Food_Policy"],"AI suggested tags":["Economics","Animal_Feed","Economics/Jobs"]}}
 ---
 
 ### A little, but not much. Certainly not enough to make them cheaper than meat substitutes.

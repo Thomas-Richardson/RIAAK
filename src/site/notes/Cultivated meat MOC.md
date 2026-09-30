@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cultivated-meat-moc/","tags":[null,null],"created":"2025-11-11T23:30:18.806+00:00","updated":"2025-11-11T23:30:18.806+00:00"}
+{"dg-publish":true,"permalink":"/cultivated-meat-moc/","tags":["Alternative_Proteins/Cultivated_Meat","Companion_Animals"],"created":"2025-11-11T23:30:18.806+00:00","updated":"2026-09-30T19:55:02.292+01:00","dg-note-properties":{"tags":["Alternative_Proteins/Cultivated_Meat","Companion_Animals"],"Note Type":"Own Notes","AI suggested tags":["Alternative_Proteins","Consumer_Research","Alternative_Proteins/Plant_Based"]}}
 ---
 
 

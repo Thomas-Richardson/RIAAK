@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/welfare-considerations-for-farmed-shrimp-rethink-priorities/","tags":["wild_animals - \"crustaceans shrimp\""],"created":"2025-10-23T17:42:46.027+01:00","updated":"2025-10-23T19:20:34.067+01:00"}
+{"dg-publish":true,"permalink":"/citations/welfare-considerations-for-farmed-shrimp-rethink-priorities/","tags":["Wild_Animals","Crustaceans","Shrimp"],"created":"2025-10-23T17:42:46.027+01:00","updated":"2026-09-30T19:55:02.236+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/welfare-considerations-for-farmed-shrimp/","tags":["Wild_Animals","Crustaceans","Shrimp"],"Year Published":"2023","AI suggested tags":["Insects","Fish","Fish/Farmed"]}}
 ---
 
 Rethink Priorities’ Shrimp Welfare Sequence is a series that addresses whether and how best to protect the welfare of shrimp. At any time, more shrimp are alive on farms than any other group of farmed animals. But is the large size of the industry an issue? After all, farmers might treat shrimp well, and shrimp may not even be sentient. In upcoming reports, we explore a cause for concern: a large percentage of these individuals die before they are old enough to be slaughtered. After describing farming practices that help explain high mortality rates, we use a quantitative model to explain why the most urgent issues are not necessarily the ones that have attracted the most attention.
@@ -17,3 +17,9 @@ However, just because the scale of shrimp farming is so comparatively large does
 *   We have several knowledge gaps due to the limitations of current research. In particular:
     *   **We know very little about shrimp behavior and preferences**. For example, we are unsure whether shrimp can comfortably crowd, so we cannot easily infer how bad high stocking densities are for their welfare.
     *   **There are few surveys of shrimp farming practices and those that exist have several limitations.** The heterogeneity of shrimp farming means it is difficult to draw conclusions about the industry from existing surveys.
+
+# AI suggested related articles
+
+- [[Citations/Quantifying and prioritizing shrimp welfare threats (Rethink Priorities)\|Citations/Quantifying and prioritizing shrimp welfare threats (Rethink Priorities)]] (0.87)
+- [[Citations/Pre-slaughter mortality of farmed shrimp (Rethink Priorities)\|Citations/Pre-slaughter mortality of farmed shrimp (Rethink Priorities)]] (0.86)
+- [[Citations/Strategies for helping farmed shrimp (Rethink Priorities)\|Citations/Strategies for helping farmed shrimp (Rethink Priorities)]] (0.85)

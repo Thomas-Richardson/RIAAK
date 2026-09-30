@@ -1,13 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-future-of-food-security-in-the-uk-conservative-animal-welfare-foundation/","tags":["farming"],"created":"2025-10-28T12:06:07.665+00:00","updated":"2025-10-30T23:40:40.275+00:00"}
+{"dg-publish":true,"permalink":"/citations/the-future-of-food-security-in-the-uk-conservative-animal-welfare-foundation/","tags":["High_Income_Countries/UK","Food_Security","Factory_Farming","Alternative_Proteins"],"created":"2025-10-28T12:06:07.665+00:00","updated":"2026-09-30T23:02:29.952+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["High_Income_Countries/UK","Food_Security","Factory_Farming","Alternative_Proteins"],"source_url":"https://www.conservativeanimalwelfarefoundation.org/wp-content/uploads/2025/03/The-Future-of-Food-Security-in-the-UK.pdf","created":"2026-03-26","AI suggested tags":["Bryant_Research/Project/CAWF_Food_Sec","UK"]}}
 ---
 
 
-This report contains an executive summary.
-
-***
-
-### Executive summary
+# Executive Summary / Abstract
+[From Executive Summary]
 
 The UK is increasingly recognising the importance of maintaining strong food security. At the same time, more and more of UK meat comes from factory farms, with corporations claiming that this improves our food security. However, our review of the evidence suggests that conversely, the factory farming of chickens and pigs undermines UK food security. Instead, the key to boosting UK food security is to focus policy on cheaper British-farmed fruits and vegetables, as well as alternative proteins.
 
@@ -27,6 +24,6 @@ We evaluate factory farming and alternative proteins on 3 key pillars of food se
 *   Factory farming breeds and amplifies animal diseases such as Bird Flu and African Swine Fever. Animal disease devastates farmers' livelihoods and destabilises the food system, causing sharp fluctuations in food prices and costing taxpayers millions in culls.
 *   Factory farming concentrates excessive power in a handful of large, profit-driven meat corporations, who obstruct food security reform for their own gain.
 *   Alternative proteins could create thousands of rewarding jobs for UK farmers.
-*   Factory-farmed meat contributes towards climate change which drives the extreme weather that ruins UK crop farmers' yields
+*   Factory-farmed meat contributes towards climate change which drives the extreme weather that ruins UK crop farmers' yields.
 *   Factory farming pollutes our countryside, jeopardising long term food security and costing taxpayers millions.
 *   A 20% swap from factory-farmed meat to alternative proteins could reduce the environmental damage from factory farming by £32M a year.

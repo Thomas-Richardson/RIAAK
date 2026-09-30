@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/why-don-t-we-vote-like-we-shop/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:47.104+01:00","updated":"2025-10-30T23:44:54.276+00:00"}
+{"dg-publish":true,"permalink":"/citations/why-don-t-we-vote-like-we-shop/","tags":["Citation","Economics","Policy"],"created":"2025-10-23T17:42:47.104+01:00","updated":"2026-09-30T19:55:02.250+01:00","dg-note-properties":{"tags":["Citation","Economics","Policy"],"AI suggested tags":["Public_Opinion","Consumer_Attitudes","Research/Methods"]}}
 ---
 
 

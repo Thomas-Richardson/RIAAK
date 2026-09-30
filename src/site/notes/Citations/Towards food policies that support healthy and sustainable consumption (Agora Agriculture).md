@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/towards-food-policies-that-support-healthy-and-sustainable-consumption-agora-agriculture/","created":"2025-10-23T17:42:45.431+01:00","updated":"2025-10-23T18:12:10.213+01:00"}
+{"dg-publish":true,"permalink":"/citations/towards-food-policies-that-support-healthy-and-sustainable-consumption-agora-agriculture/","tags":["Policy/Food_Policy","EU","Diet_Change","Food_Security"],"created":"2025-10-23T17:42:45.431+01:00","updated":"2026-09-30T19:55:02.172+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.agora-agriculture.org/publications/towards-food-policies-that-support-healthy-and-sustainable-consumption","tags":["Policy/Food_Policy","EU","Diet_Change","Food_Security"],"Year Published":"2025","AI suggested tags":["Meat/Meat_Reduction","High_Income_Countries","Dietary_Guidelines"]}}
 ---
 
 ## Preface

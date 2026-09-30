@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/using-ai-to-increase-effectiveness-of-human-wildlife-conflict-mitigations-for-waw-rethink-priorities/","tags":["wild_animals - \"wild_animals\""],"created":"2025-10-23T17:42:45.004+01:00","updated":"2025-10-23T19:20:34.067+01:00"}
+{"dg-publish":true,"permalink":"/citations/using-ai-to-increase-effectiveness-of-human-wildlife-conflict-mitigations-for-waw-rethink-priorities/","tags":["Wild_Animals"],"created":"2025-10-23T17:42:45.004+01:00","updated":"2026-09-30T19:55:02.215+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/ai-for-human-wildlife-conflict-mitigations/","tags":["Wild_Animals"],"Year Published":"2022","AI suggested tags":["Research/Methods","Strategy","Rodents"]}}
 ---
 
 ## 1. Overview
@@ -33,3 +33,9 @@ A very tentative theory of change: if machine vision-based methods prevent HWC, 
         *   Establish an interdisciplinary conference tying experts from engineering, AI, animal welfare, ecology, animal behavior, conservation, and perhaps even from the social sciences to discuss examples and opportunities for AI to increase the effectiveness of HWC mitigations, or even wildlife management methods more generally, that improve animal welfare.
         *   Create an accessible applied methods journal for publication of this interdisciplinary work.
 *   See section 3 for the uncertainties and section 4 for the limitations of this report.
+
+# AI suggested related articles
+
+- [[Citations/A landscape analysis of wild animal welfare (Rethink Priorities)\|Citations/A landscape analysis of wild animal welfare (Rethink Priorities)]] (0.74)
+- [[Citations/Abundance Estimates of Three Wild Populations (Rethink Priorities)\|Citations/Abundance Estimates of Three Wild Populations (Rethink Priorities)]] (0.71)
+- [[Citations/Risk Aversion in Wild Animal Welfare (Rethink Priorities)\|Citations/Risk Aversion in Wild Animal Welfare (Rethink Priorities)]] (0.69)

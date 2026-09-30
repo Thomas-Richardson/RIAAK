@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/wang-et-al-2016/","tags":[null,null,null,null,null,null,null],"created":"2025-10-23T17:42:45.904+01:00","updated":"2025-10-30T23:44:54.146+00:00"}
+{"dg-publish":true,"permalink":"/citations/wang-et-al-2016/","tags":["Citation","Health/Nutrition","Meat","Meat/Red_Meat"],"created":"2025-10-23T17:42:45.904+01:00","updated":"2026-09-30T22:10:52.757+01:00","dg-note-properties":{"tags":["Citation","Health/Nutrition","Meat","Meat/Red_Meat"],"AI suggested tags":["Diet","Nuts","Meat/Red_Meat"]}}
 ---
 
 
@@ -27,3 +27,9 @@ An increase of each serving per day of total red meat consumption was associated
 
 ## Critique
 Serving size was not present for all studies, so was assumed to be 50g for processed and 100g for unprocessed
+
+# AI suggested related articles
+
+- [[Citations/Han et al., 2019\|Citations/Han et al., 2019]] (0.78)
+- [[Citations/Kwok et al., 2019\|Citations/Kwok et al., 2019]] (0.74)
+- [[red and processed  meat and cancer\|red and processed  meat and cancer]] (0.74)

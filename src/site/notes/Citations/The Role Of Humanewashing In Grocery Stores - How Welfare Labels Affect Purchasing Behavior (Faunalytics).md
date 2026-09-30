@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-role-of-humanewashing-in-grocery-stores-how-welfare-labels-affect-purchasing-behavior-faunalytics/","tags":["labelling","consumer_research"],"created":"2025-10-23T17:42:46.539+01:00","updated":"2026-01-17T11:44:48.413+00:00"}
+{"dg-publish":true,"permalink":"/citations/the-role-of-humanewashing-in-grocery-stores-how-welfare-labels-affect-purchasing-behavior-faunalytics/","tags":["Policy/Labeling","Consumer_Research"],"created":"2025-10-23T17:42:46.539+01:00","updated":"2026-09-30T19:55:02.139+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Policy/Labeling","Consumer_Research"],"Url":"https://faunalytics.org/wp-content/uploads/2024/10/Faunalytics-Humanewashing-Report-Protected.pdf","Year Published":2024,"AI suggested tags":["Consumer_Attitudes","Public_Opinion","Behaviour_Change"]}}
 ---
 
 **Confidential report, do not share widely**
@@ -30,3 +30,9 @@ Recommendations
 • Researchers should investigate how price affects the purchase of welfare-certified animal products. In particular, researchers should explore how the cost of different welfare standards is passed along to consumers and if knowledge about the specific reasons for higher prices influences shoppers’ willingness to purchase these products.
 
 • Push plant-based alternatives. Ultimately, the most effective way to minimize the suffering of farmed animals is to lower demand for animal products. Working to make plant-based products cheaper and more widely available is a key way of achieving this. Lobbying Congress, state legislatures, and the USDA for better welfare standards may be fruitful, even if it’s an uphill battle. This strategy can raise the welfare floor, while efforts to increase subsidies and investments in plant-based alternatives help lay the infrastructure for a plant-based future.
+
+# AI suggested related articles
+
+- [[Citations/Planting Seeds- The Impact Of Diet & Different Animal Advocacy Tactics (Faunalytics)\|Citations/Planting Seeds- The Impact Of Diet & Different Animal Advocacy Tactics (Faunalytics)]] (0.73)
+- [[Citations/Animal Think Tank, 2024b\|Citations/Animal Think Tank, 2024b]] (0.72)
+- [[Citations/What To Call Plant-Based Meat Alternatives- A Labeling Study (Faunalytics)\|Citations/What To Call Plant-Based Meat Alternatives- A Labeling Study (Faunalytics)]] (0.72)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/uk-governmental-food-security-review-2021/","tags":["animal_feed","Bryant/Project/cawf_food_sec","citation","food_security","High_Income_Countries/UK"],"created":"2025-10-23T17:42:45.960+01:00","updated":"2025-12-10T12:59:34.635+00:00"}
+{"dg-publish":true,"permalink":"/citations/uk-governmental-food-security-review-2021/","tags":["Animal_Feed","Bryant/Project/CAWF_Food_Sec","Citation","Food_Security","High_Income_Countries/UK"],"created":"2025-10-23T17:42:45.960+01:00","updated":"2026-09-30T22:10:52.744+01:00","dg-note-properties":{"Note Type":"Government Report","tags":["Animal_Feed","Bryant/Project/CAWF_Food_Sec","Citation","Food_Security","High_Income_Countries/UK"],"AI suggested tags":["Bryant/Project/CAWF_Food_Sec","UK","Bryant/Project/CAWF_Hidden_Harms"]}}
 ---
 
 
@@ -44,9 +44,9 @@ An exception is the decline since 2018 in land given to oilseeds, which partly r
 - It is not likely or desirable for this figure of 81% to rise much higher, as the remaining percentage is largely made up of hard wheat types not suited to the UK’s climate and soils. Further to this, global competition in wheat production and prices means there is significant economic risk involved with trying to fully meet domestic milling needs, since any surplus could be undervalued relative to the costs incurred during production.
 
 ## Fruit and veg
-![Pasted image 20241211132629.png|500](/img/user/Pasted%20image%2020241211132629.png)
+![Pasted image 20241211132629.png\|500](/img/user/Pasted%20image%2020241211132629.png)
 
-![Pasted image 20241211132652.png|500](/img/user/Pasted%20image%2020241211132652.png)
+![Pasted image 20241211132652.png\|500](/img/user/Pasted%20image%2020241211132652.png)
 
 
 ## Livestock and feed

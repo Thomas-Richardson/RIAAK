@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-animal-agriculture-industry-s-perspective-on-advocates-and-cage-free-reforms-faunalytics/","created":"2026-01-28T10:49:35.776+00:00","updated":"2026-01-29T05:00:06.591+00:00"}
+{"dg-publish":true,"permalink":"/citations/the-animal-agriculture-industry-s-perspective-on-advocates-and-cage-free-reforms-faunalytics/","tags":["Corporate_Campaigns","High_Income_Countries/USA","Meat_Industry","Narratives","Policy"],"created":"2026-01-28T10:49:35.776+00:00","updated":"2026-09-30T19:55:02.117+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/industry-perspectives-on-advocates/","tags":["Corporate_Campaigns","High_Income_Countries/USA","Meat_Industry","Narratives","Policy"],"Year Published":"2023","AI suggested tags":["Public_Opinion","Eggs","Factory_Farming"]}}
 ---
 
 ### Key Findings

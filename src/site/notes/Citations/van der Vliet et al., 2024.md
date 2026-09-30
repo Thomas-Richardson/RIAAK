@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/van-der-vliet-et-al-2024/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:45.734+01:00","updated":"2025-10-30T23:44:54.131+00:00"}
+{"dg-publish":true,"permalink":"/citations/van-der-vliet-et-al-2024/","tags":["Alternative_Proteins","Citation"],"created":"2025-10-23T17:42:45.734+01:00","updated":"2026-09-30T19:55:02.268+01:00","dg-note-properties":{"tags":["Alternative_Proteins","Citation"],"AI suggested tags":["Behaviour_Change","Meat/Meat_Reduction","Review"]}}
 ---
 
 

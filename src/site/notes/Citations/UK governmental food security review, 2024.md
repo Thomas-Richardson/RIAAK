@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/uk-governmental-food-security-review-2024/","tags":["animal_feed","Bryant/Project/cawf_hidden_harms","citation","food_security","High_Income_Countries/UK","farming"],"created":"2025-10-23T17:42:46.272+01:00","updated":"2025-12-10T12:59:34.638+00:00"}
+{"dg-publish":true,"permalink":"/citations/uk-governmental-food-security-review-2024/","tags":["Animal_Feed","Bryant/Project/CAWF_Hidden_Harms","Citation","Food_Security","High_Income_Countries/UK","Farming"],"created":"2025-10-23T17:42:46.272+01:00","updated":"2026-09-30T22:10:52.746+01:00","dg-note-properties":{"Note Type":"Government Report","tags":["Animal_Feed","Bryant/Project/CAWF_Hidden_Harms","Citation","Food_Security","High_Income_Countries/UK","Farming"],"AI suggested tags":["Bryant/Project/CAWF_Food_Sec","UK"]}}
 ---
 
 
@@ -10,7 +10,7 @@ https://assets.publishing.service.gov.uk/media/6756e355d89258d2868dae76/United_K
 # Overall self sufficiency
 The overall self sufficiency of the UK diet is moderately good; we produce 62% of our food supply, importing 38%. Some of our favourite foods like bananas and citrus fruits cannot be grown at scale in the UK, and if we remove these foods from the calculation (i.e. we count only "indigenous foods"), the figure is higher at 75%. This figure has remained broadly stable for the last 20 years. However, as we will see, this overall picture masks a poor vegetable sector, and factory farming makes this number look higher than it is.
 
-![Pasted image 20241217130515.png|400](/img/user/Pasted%20image%2020241217130515.png)
+![Pasted image 20241217130515.png\|400](/img/user/Pasted%20image%2020241217130515.png)
 UK production to supply ratio over timeSource: [Agriculture in the UK (Defra)](https://www.gov.uk/government/collections/agriculture-in-the-united-kingdom)
 
 | Food type        | self sufficiency in 2023 |
@@ -53,7 +53,7 @@ with the increased costs being more fairly distributed and this led to a gradual
 increase in egg prices. 
 
 ## Vegetables
-![Pasted image 20241217160559.png|500](/img/user/Pasted%20image%2020241217160559.png)
+![Pasted image 20241217160559.png\|500](/img/user/Pasted%20image%2020241217160559.png)
 Whilst we're making small improvements in fruit, vege production is getting worse
 
 In 2023 the production to supply ratio of fresh vegetables was 53%, down from 63% in 2003. Fruit is far worse: in 2023 we grew just 16% of our fruit, though this is considerably better than the 8% of 2003.

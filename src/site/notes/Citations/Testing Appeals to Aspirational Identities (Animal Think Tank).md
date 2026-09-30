@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/testing-appeals-to-aspirational-identities-animal-think-tank/","created":"2025-10-23T17:42:44.949+01:00","updated":"2025-10-23T17:42:44.949+01:00"}
+{"dg-publish":true,"permalink":"/citations/testing-appeals-to-aspirational-identities-animal-think-tank/","tags":["Messaging","Psychology","Factory_Farming","Narratives"],"created":"2025-10-23T17:42:44.949+01:00","updated":"2026-09-30T19:55:02.115+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Messaging","Psychology","Factory_Farming","Narratives"],"source_url":"https://animalthinktank.org.uk/wp-content/uploads/2025/03/Identity-appeals-August-2023-.pdf","created":"2025-10-23","AI suggested tags":["Public_Opinion","Consumer_Research","Consumer_Attitudes"]}}
 ---
 
 

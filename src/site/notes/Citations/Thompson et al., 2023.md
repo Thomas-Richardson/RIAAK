@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/thompson-et-al-2023/","tags":[null,null,null,null,null,null,null],"created":"2025-10-23T17:42:44.989+01:00","updated":"2025-10-30T23:44:54.038+00:00"}
+{"dg-publish":true,"permalink":"/citations/thompson-et-al-2023/","tags":["Animal_Advocacy","Biodiversity","Citation","Environment_Misc"],"created":"2025-10-23T17:42:44.989+01:00","updated":"2026-09-30T19:55:02.164+01:00","dg-note-properties":{"tags":["Animal_Advocacy","Biodiversity","Citation","Environment_Misc"],"AI suggested tags":["Grazing","Environment/Land","Cows"]}}
 ---
 
 

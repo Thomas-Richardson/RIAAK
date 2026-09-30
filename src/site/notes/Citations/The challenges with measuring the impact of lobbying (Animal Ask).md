@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-challenges-with-measuring-the-impact-of-lobbying-animal-ask/","created":"2025-10-23T17:42:46.451+01:00","updated":"2025-10-23T17:42:46.454+01:00"}
+{"dg-publish":true,"permalink":"/citations/the-challenges-with-measuring-the-impact-of-lobbying-animal-ask/","tags":["Policy","Strategy","Research/Methods","Review"],"created":"2025-10-23T17:42:46.451+01:00","updated":"2026-09-30T19:55:02.147+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.animalask.org/post/the-challenges-with-measuring-the-impact-of-lobbying","tags":["Policy","Strategy","Research/Methods","Review"],"Year Published":"2022","AI suggested tags":["Public_Opinion","EU","Meat/Meat_Reduction"]}}
 ---
 
 Legislative lobbying has led to numerous positive outcomes in many policy areas and social movements. For example, lobbying in the United States is responsible for lower taxes on solar power, increased taxes on tobacco, and the establishment of a program to detect asteroids (Lerner 2020). In the animal advocacy movement specifically, one recent victory is the 'End the Cage Age' initiative. This lobbying campaign led to a commitment by the European Commission to phase out the use of cages for hens, sows, calves, and numerous other farmed animals (European Commission 2021).

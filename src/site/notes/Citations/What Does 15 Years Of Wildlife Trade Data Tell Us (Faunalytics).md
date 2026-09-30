@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/what-does-15-years-of-wildlife-trade-data-tell-us-faunalytics/","created":"2026-01-28T10:58:54.702+00:00","updated":"2026-01-29T05:00:06.380+00:00"}
+{"dg-publish":true,"permalink":"/citations/what-does-15-years-of-wildlife-trade-data-tell-us-faunalytics/","tags":["Wild_Animals","High_Income_Countries/USA","Companion_Animals","Biodiversity"],"created":"2026-01-28T10:58:54.702+00:00","updated":"2026-09-30T19:55:02.239+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/wildlife-imports/","tags":["Wild_Animals","High_Income_Countries/USA","Companion_Animals","Biodiversity"],"Year Published":"2021","AI suggested tags":["Animal_Welfare","Fish","Public_Opinion"]}}
 ---
 
 In this Faunalytics analysis, we explore 15 years of legal wildlife import data for the U.S., what the numbers tell us about the nature of the industry, and what we can do to stop it.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/testing-animal-rights-vs-animal-freedom-research-report-animal-think-tank/","created":"2025-10-23T17:42:44.576+01:00","updated":"2025-10-23T17:42:44.577+01:00"}
+{"dg-publish":true,"permalink":"/citations/testing-animal-rights-vs-animal-freedom-research-report-animal-think-tank/","tags":["Messaging","Narratives","Public_Opinion"],"created":"2025-10-23T17:42:44.576+01:00","updated":"2026-09-30T19:55:02.113+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Messaging","Narratives","Public_Opinion"],"source_url":"https://animalthinktank.org.uk/wp-content/uploads/2025/03/Lancaster-rights-vs-freedom-testing-August-2023.pdf","created":"2025-10-23","AI suggested tags":["Consumer_Attitudes","Strategy","Consumer_Research"]}}
 ---
 
 

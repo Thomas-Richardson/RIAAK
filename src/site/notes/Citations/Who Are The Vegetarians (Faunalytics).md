@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/who-are-the-vegetarians-faunalytics/","created":"2026-01-28T11:02:56.496+00:00","updated":"2026-01-29T05:00:06.756+00:00"}
+{"dg-publish":true,"permalink":"/citations/who-are-the-vegetarians-faunalytics/","tags":["Veg_Diets","Consumer_Research","High_Income_Countries/USA"],"created":"2026-01-28T11:02:56.496+00:00","updated":"2026-09-30T19:55:02.248+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/who-are-the-vegetarians/","tags":["Veg_Diets","Consumer_Research","High_Income_Countries/USA"],"Year Published":"2018","AI suggested tags":["Retention","Meat/Meat_Consumption","Consumer_Attitudes"]}}
 ---
 
 A first step to targeted pro-vegetarian messaging is identifying who is likely to be receptive to the message. This blog post analyzes a dataset from the National Health and Nutrition Examination Survey (NHANES) that gives some insight into the demographics of vegetarians in the U.S.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/taiz-et-al-2019/","tags":["#animal_ethics"],"created":"2025-10-23T17:42:44.289+01:00","updated":"2025-10-23T17:42:44.290+01:00"}
+{"dg-publish":true,"permalink":"/citations/taiz-et-al-2019/","tags":["Animal_Ethics"],"created":"2025-10-23T17:42:44.289+01:00","updated":"2026-09-30T19:55:02.104+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Animal_Ethics"],"AI suggested tags":["Sentience","Insects","Review"]}}
 ---
 
 

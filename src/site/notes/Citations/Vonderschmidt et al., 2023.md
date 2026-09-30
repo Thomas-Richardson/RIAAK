@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/vonderschmidt-et-al-2023/","tags":["High_Income_Countries/UK","Meat/meat_consumption"],"created":"2025-10-23T17:42:45.453+01:00","updated":"2025-12-10T12:59:34.660+00:00"}
+{"dg-publish":true,"permalink":"/citations/vonderschmidt-et-al-2023/","tags":["High_Income_Countries/UK","Meat/Meat_Consumption"],"created":"2025-10-23T17:42:45.453+01:00","updated":"2026-09-30T19:55:02.223+01:00","dg-note-properties":{"tags":["High_Income_Countries/UK","Meat/Meat_Consumption"],"Url":"https://eprints.gla.ac.uk/321942/1/321942.pdf","AI suggested tags":["Meat/Meat_Reduction","Meat","Behaviour_Change"]}}
 ---
 
 Bellows, A., Jaacks, L., Alexander, P., & Stewart, C. (2023). Contribution of meat-free days, meat-free meals, and portion sizes to UK meat consumption declines. _European Journal of Public Health_, _33_(Supplement_2), ckad160-250.

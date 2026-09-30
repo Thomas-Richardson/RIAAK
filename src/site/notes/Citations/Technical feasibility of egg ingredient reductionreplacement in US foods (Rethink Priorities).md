@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/technical-feasibility-of-egg-ingredient-reductionreplacement-in-us-foods-rethink-priorities/","created":"2025-12-18T16:06:13.545+00:00","updated":"2025-12-18T16:06:13.802+00:00"}
+{"dg-publish":true,"permalink":"/citations/technical-feasibility-of-egg-ingredient-reductionreplacement-in-us-foods-rethink-priorities/","tags":["Eggs","High_Income_Countries/USA","Alternative_Proteins/Plant_Based"],"created":"2025-12-18T16:06:13.545+00:00","updated":"2026-09-30T19:55:02.110+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/egg-ingredient-reduction-us-foods/","tags":["Eggs","High_Income_Countries/USA","Alternative_Proteins/Plant_Based"],"Year Published":"2025","AI suggested tags":["Consumer_Research","Meat/Meat_Reduction","Alternative_Proteins"]}}
 ---
 
 1. One potential strategy for reducing animal product usage is to decrease processed egg use in manufactured foods, which represent approximately 8% of global egg production.

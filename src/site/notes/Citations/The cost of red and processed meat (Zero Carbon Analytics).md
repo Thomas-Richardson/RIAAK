@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-cost-of-red-and-processed-meat-zero-carbon-analytics/","tags":["Health/Nutrition"],"created":"2025-10-23T17:42:44.301+01:00","updated":"2025-11-06T09:50:39.030+00:00"}
+{"dg-publish":true,"permalink":"/citations/the-cost-of-red-and-processed-meat-zero-carbon-analytics/","tags":["Health/Nutrition"],"created":"2025-10-23T17:42:44.301+01:00","updated":"2026-09-30T19:55:02.148+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Health/Nutrition"],"source_url":"https://zerocarbon-analytics.org/wp-content/uploads/2025/09/ZCA-report-cost-of-red-and-processed-meat-October2025-compressed.pdf","created":"2025-10-22","AI suggested tags":["Economics/Costs","Meat","BOTEC"]}}
 ---
 
 A wealth of evidence directly links the consumption of red and processed meat to an increased risk of chronic diseases, including type II diabetes, cardiovascular disease and cancer. In 2021 alone, processed meat consumption was responsible for 295,000 deaths and 10.4 million years of healthy life lost globally, while red meat caused 334,000 deaths and 9.63 million years of healthy life lost.
@@ -44,3 +44,9 @@ This is definitely not true for a few reasons:
 - DALY percentage, which is what they use as a proxy of healthcare cost percentage, doesn't take into account how treatable a disease is. It just takes into account how much suffering it causes. However, we spend more on diseases that we can treat. For example, chronic back pain and heart disease might have similar levels of DALYs, but we spend a lot more on heart disease than we do on chronic back pain because we don't have very good treatments for chronic back pain. 
 	- Specific to the study: colorectal cancer and type 2 diabetes probably receive a lot more money than their DALY percentage would suggest because colorectal cancer has expensive surgery, chemotherapy, and radiotherapy, and type 2 diabetes requires ongoing medication and monitoring, which is expensive. 
 - It also systematically underestimates these things because meat-related diseases are all expensive to treat. For example, cancer, diabetes, kidney disease, and cardiovascular disease are all expensive. There are no cheap diseases that meat causes to balance this out 
+
+# AI suggested related articles
+
+- [[Citations/Springmann et al., 2018\|Citations/Springmann et al., 2018]] (0.72)
+- [[Proveg EU proc health calcs\|Proveg EU proc health calcs]] (0.72)
+- [[The cost to the NHS of diabetes, CVD, cancer and obesity\|The cost to the NHS of diabetes, CVD, cancer and obesity]] (0.71)

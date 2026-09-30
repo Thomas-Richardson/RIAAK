@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/wap-alliance-to-save-our-antibiotics-and-the-bij-2022/","tags":["Note","Type","citation","Environment/Pollution","Health/Disease","High_Income_Countries/UK","undefined"],"created":"2025-10-23T17:42:45.995+01:00","updated":"2025-12-10T12:59:34.725+00:00"}
+{"dg-publish":true,"permalink":"/citations/wap-alliance-to-save-our-antibiotics-and-the-bij-2022/","tags":["Citation","Environment/Pollution","Health/Disease","High_Income_Countries/UK"],"created":"2025-10-23T17:42:45.995+01:00","updated":"2026-09-30T19:55:02.225+01:00","dg-note-properties":{"tags":["Citation","Environment/Pollution","Health/Disease","High_Income_Countries/UK"],"AI suggested tags":["Food_Safety","Factory_Farming","Animal_Feed"]}}
 ---
 
 
@@ -25,3 +25,9 @@ The river samples were collected both upstream and downstream of the pig and pou
 Analysis by scientists at the Fera laboratory in York revealed resistance to antibiotics known as sulfonamides, which are classified as highly important in human medicine, was more consistently found downstream than upstream of factory pig and chicken farms. This suggests resistance is entering the environment from these farms.
 
 In southwest England, testing of waste from more than fifty dairy units found infection with drug resistant disease, including on footpaths polluted with slurry, which has the potential for onward contamination.
+
+# AI suggested related articles
+
+- [[Citations/Soil association, 2024\|Citations/Soil association, 2024]] (0.70)
+- [[Citations/Ardakani et al., 2023\|Citations/Ardakani et al., 2023]] (0.68)
+- [[Water pollution from animal ag\|Water pollution from animal ag]] (0.64)

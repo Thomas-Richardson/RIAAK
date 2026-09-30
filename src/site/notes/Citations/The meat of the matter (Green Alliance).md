@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-meat-of-the-matter-green-alliance/","created":"2026-01-12T17:14:00.080+00:00","updated":"2026-01-12T17:14:00.082+00:00"}
+{"dg-publish":true,"permalink":"/citations/the-meat-of-the-matter-green-alliance/","tags":["High_Income_Countries/UK","Meat/Meat_Consumption","Meat_Industry"],"created":"2026-01-12T17:14:00.080+00:00","updated":"2026-09-30T19:55:02.156+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["High_Income_Countries/UK","Meat/Meat_Consumption","Meat_Industry"],"source_url":"https://green-alliance.org.uk/wp-content/uploads/2026/01/The-meat-of-the-matter.pdf","created":"2026-01-12","AI suggested tags":["UK","Meat/Meat_Reduction","Meat"]}}
 ---
 
 

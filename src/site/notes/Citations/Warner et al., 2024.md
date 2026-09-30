@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/warner-et-al-2024/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:46.481+01:00","updated":"2025-10-30T23:44:54.209+00:00"}
+{"dg-publish":true,"permalink":"/citations/warner-et-al-2024/","tags":["Alternative_Proteins","Citation"],"created":"2025-10-23T17:42:46.481+01:00","updated":"2026-09-30T19:55:02.229+01:00","dg-note-properties":{"tags":["Alternative_Proteins","Citation"],"AI suggested tags":["Alternative_Proteins/Balanced_Proteins","Economics/Costs","Alternative_Proteins/Plant_Based"]}}
 ---
 
 
@@ -9,7 +9,7 @@ https://www.new-foodinnovation.co.uk/price-parity
 
 This report breaks down why PB items are so expensive from a technical POV. Th TLDR is that it's mostly production costs as ingredient costs are cheaper and margins aren't that high.
 
-![Pasted image 20250102150900.png|500](/img/user/Pasted%20image%2020250102150900.png)
+![Pasted image 20250102150900.png\|500](/img/user/Pasted%20image%2020250102150900.png)
 
 As discussed, flavour is often the most significant chunk of cost in plant-based meat formulations, driven by the complexity and research costs of creating realistic meat flavourings from vegetable sources.
 

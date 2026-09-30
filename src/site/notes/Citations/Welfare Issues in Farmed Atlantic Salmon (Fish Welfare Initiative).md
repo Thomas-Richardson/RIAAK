@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/welfare-issues-in-farmed-atlantic-salmon-fish-welfare-initiative/","created":"2025-10-26T17:33:46.223+00:00","updated":"2025-10-26T17:33:46.223+00:00"}
+{"dg-publish":true,"permalink":"/citations/welfare-issues-in-farmed-atlantic-salmon-fish-welfare-initiative/","tags":["Fish/Farmed","Animal_Feed","Wild_Animals"],"created":"2025-10-26T17:33:46.223+00:00","updated":"2026-09-30T19:55:02.235+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Fish/Farmed","Animal_Feed","Wild_Animals"],"source_url":"https://files.fwi.fish/Salmon_Welfare_Report.pdf","created":"2025-10-26","AI suggested tags":["Fish","Animal_Welfare","EU"]}}
 ---
 
 

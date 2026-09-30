@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/taste-of-the-industry-2026-nectar-et-al/","created":"2026-03-23T11:28:57.019+00:00","updated":"2026-03-23T11:28:57.509+00:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":null,"source_url":"https://46145081.fs1.hubspotusercontent-na1.net/hubfs/46145081/NECTAR_2026_Taste%20of%20the%20Industry_FINAL-1.pdf","created":"2026-03-23"}}
+{"dg-publish":true,"permalink":"/citations/taste-of-the-industry-2026-nectar-et-al/","tags":["Alternative_Proteins/Plant_Based","Dairy","Consumer_Research","Marketing"],"created":"2026-03-23T11:28:57.019+00:00","updated":"2026-09-30T19:55:02.109+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Alternative_Proteins/Plant_Based","Dairy","Consumer_Research","Marketing"],"source_url":"https://46145081.fs1.hubspotusercontent-na1.net/hubfs/46145081/NECTAR_2026_Taste%20of%20the%20Industry_FINAL-1.pdf","created":"2026-03-23","AI suggested tags":["Alternative_Proteins/Balanced_Proteins","Consumer_Attitudes","Alternative_Proteins"]}}
 ---
 
 

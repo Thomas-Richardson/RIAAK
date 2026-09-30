@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-state-of-animal-advocacy-in-the-u-s-and-canada-experiences-and-turnover-faunalytics/","created":"2026-01-28T10:59:51.152+00:00","updated":"2026-01-29T05:00:06.472+00:00"}
+{"dg-publish":true,"permalink":"/citations/the-state-of-animal-advocacy-in-the-u-s-and-canada-experiences-and-turnover-faunalytics/","tags":["Movement_Building","Retention","High_Income_Countries/USA","Canada"],"created":"2026-01-28T10:59:51.152+00:00","updated":"2026-09-30T19:55:02.140+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/advocate-retention/","tags":["Movement_Building","Retention","High_Income_Countries/USA","Canada"],"Year Published":"2020","AI suggested tags":["Public_Opinion","Research/Methods","Strategy"]}}
 ---
 
 ### Background

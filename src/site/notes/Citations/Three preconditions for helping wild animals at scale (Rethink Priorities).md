@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/three-preconditions-for-helping-wild-animals-at-scale-rethink-priorities/","tags":["wild_animals - \"wild_animals\""],"created":"2025-10-23T17:42:46.470+01:00","updated":"2025-10-23T19:20:34.066+01:00"}
+{"dg-publish":true,"permalink":"/citations/three-preconditions-for-helping-wild-animals-at-scale-rethink-priorities/","tags":["Wild_Animals"],"created":"2025-10-23T17:42:46.470+01:00","updated":"2026-09-30T19:55:02.165+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/three-preconditions-for-helping-wild-animals-at-scale/","tags":["Wild_Animals"],"Year Published":"2024","AI suggested tags":["Strategy","Research/Methods","Public_Opinion"]}}
 ---
 
 ## Executive Summary
@@ -11,3 +11,9 @@
     1.  **Valid measurement:** Knowledge of (a) how to measure well-being among wild animals and (b) the causal relationships among the factors that influence it.
     2.  **Technical Ability:** Technology and skill to implement and evaluate interventions to help wild animals at scale, while minimizing unintended negative consequences.
     3.  **Stakeholder Buy-In:** Consent from stakeholders with veto power, and collaboration from stakeholders who can implement scalable interventions.
+
+# AI suggested related articles
+
+- [[Citations/A landscape analysis of wild animal welfare (Rethink Priorities)\|Citations/A landscape analysis of wild animal welfare (Rethink Priorities)]] (0.83)
+- [[Citations/Risk Aversion in Wild Animal Welfare (Rethink Priorities)\|Citations/Risk Aversion in Wild Animal Welfare (Rethink Priorities)]] (0.71)
+- [[Citations/Abundance Estimates of Three Wild Populations (Rethink Priorities)\|Citations/Abundance Estimates of Three Wild Populations (Rethink Priorities)]] (0.68)

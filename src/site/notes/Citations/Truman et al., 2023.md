@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/truman-et-al-2023/","tags":[null,null,null,null,null,null,null],"created":"2025-10-23T17:42:45.163+01:00","updated":"2025-10-30T23:44:54.058+00:00"}
+{"dg-publish":true,"permalink":"/citations/truman-et-al-2023/","tags":["Case_Study","Citation","UK","Veganism"],"created":"2025-10-23T17:42:45.163+01:00","updated":"2026-09-30T19:55:02.175+01:00","dg-note-properties":{"tags":["Case_Study","Citation","UK","Veganism"],"AI suggested tags":["Health/Nutrition","Meat","Behaviour_Change"]}}
 ---
 
 
@@ -47,3 +47,9 @@ TABLE 3. Alternative choices if red and processed meats were removed.
 | None of these                                            | 2.2 (4)                                    |
 
 A total of 71.5% of participants chose chicken or fish for at least one of their options. Meat alternatives such as veggie sausage or veggie bacon were chosen by 9.7%. Tofu or soya mince were chosen by 7.0% and beans and lentils by 9.7%.
+
+# AI suggested related articles
+
+- [[Plant-based hospitals\|Plant-based hospitals]] (0.72)
+- [[Citations/Bhattacharya, Bryant and Couture 2023\|Citations/Bhattacharya, Bryant and Couture 2023]] (0.71)
+- [[Citations/Sadler et al., 2025\|Citations/Sadler et al., 2025]] (0.71)

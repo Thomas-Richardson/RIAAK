@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-shift-to-paris-aligned-diets-and-investor-risk-in-the-uk-retail-sector-feedback/","created":"2026-02-20T10:50:59.702+00:00","updated":"2026-02-20T10:51:00.274+00:00"}
+{"dg-publish":true,"permalink":"/citations/the-shift-to-paris-aligned-diets-and-investor-risk-in-the-uk-retail-sector-feedback/","tags":["High_Income_Countries/UK","Retailers","Environment/Climate_Change","Economics","Meat/Meat_Reduction"],"created":"2026-02-20T10:50:59.702+00:00","updated":"2026-09-30T19:55:02.159+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["High_Income_Countries/UK","Retailers","Environment/Climate_Change","Economics","Meat/Meat_Reduction"],"source_url":"https://foodrise.org.uk/wp-content/uploads/2021/10/Feedback-InvestorBrief-ParisAlignedDiets-Final.pdf","created":"2026-02-20","AI suggested tags":["Financial_Activism","Environment/GHG","Food_Security"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/using-private-interviews-to-deeply-probe-the-general-public-s-views-on-farming-animals-pax-fauna/","tags":["#narratives"],"created":"2025-10-23T17:42:44.342+01:00","updated":"2025-10-23T17:42:44.343+01:00"}
+{"dg-publish":true,"permalink":"/citations/using-private-interviews-to-deeply-probe-the-general-public-s-views-on-farming-animals-pax-fauna/","tags":["Narratives"],"created":"2025-10-23T17:42:44.342+01:00","updated":"2026-09-30T19:55:02.216+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Narratives"],"Year Published":"2022","Url":"https://paxfauna.org/reports/using-private-interviews-to-deeply-probe-the-general-publics-views-on-farming-animals/","AI suggested tags":["Public_Opinion","Messaging","Consumer_Attitudes"]}}
 ---
 
 

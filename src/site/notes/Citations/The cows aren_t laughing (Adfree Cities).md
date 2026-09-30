@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-cows-aren-t-laughing-adfree-cities/","created":"2025-11-25T14:54:59.543+00:00","updated":"2025-11-25T14:54:59.543+00:00"}
+{"dg-publish":true,"permalink":"/citations/the-cows-aren-t-laughing-adfree-cities/","tags":["Factory_Farming","Marketing","Greenwashing","High_Income_Countries/UK"],"created":"2025-11-25T14:54:59.543+00:00","updated":"2026-09-30T19:55:02.150+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Factory_Farming","Marketing","Greenwashing","High_Income_Countries/UK"],"source_url":"https://adfreecities.org.uk/wp-content/uploads/2023/10/The-cows-arent-laughing_Adfree-Cities_Oct-2023_Final.pdf","created":"2025-11-25","AI suggested tags":["Meat_Industry","Meat/Meat_Reduction","Dairy"]}}
 ---
 
 

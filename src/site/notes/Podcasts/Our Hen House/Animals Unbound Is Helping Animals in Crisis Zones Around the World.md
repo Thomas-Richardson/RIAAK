@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/animals-unbound-is-helping-animals-in-crisis-zones-around-the-world/","tags":["Movement_Building","Wild_Animals","Africa","Companion_Animals"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.691+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep949/","tags":["Movement_Building","Wild_Animals","Africa","Companion_Animals"],"Year Published":"2026","AI suggested tags":["Activism","Tactics","High_Income_Countries/USA"]}}
+---
+
+In this episode of the Our Hen House interview, Jasmin Singer and Mariann Sullivan speak with Liliana Pacheco and Gregg Tully, co-founders of the newly launched nonprofit Animals Unbound — an organization working at the intersection of animal crisis intervention, capacity building, and fundraising to support animals and the local groups that protect them in some of the most under-resourced and dangerous places on earth.
+
+- Ukraine crisis response: The organization has delivered over 1,200 tons of food and coordinated nearly 10,000 spay/neuter surgeries for abandoned pets left behind by the war.
+- Local-first model: Animals Unbound prioritizes empowering on-the-ground organizations — from a wildlife sanctuary in Zimbabwe to an animal hospital in India — because local groups provide the sustainable, long-term presence that international organizations cannot.
+- Broad species scope: Their work spans domestic animals, farmed animals, and wildlife, including chimpanzees at the Second Chance Chimpanzee Refuge in Liberia and anti-octopus-farming campaigns in the US.
+- Strategic capacity building: Beyond emergency relief, Animals Unbound helps animal organizations develop multi-year plans, run effective advocacy campaigns, and measure the real-world impact of their programs.
+
+Gregg Tully is the CEO and founder of Animals Unbound, where he builds the capacity of animal protection organizations by helping them develop strategic plans, strengthen leadership, and implement practical solutions to the most pressing threats facing animals worldwide. A Ph.D. biologist and seasoned nonprofit leader, he previously served as CEO of PASA (Pan African Sanctuary Alliance) and Soi Dog Foundation, growing both organizations significantly during his tenure. He has also coordinated donations of more than 1,200 tons of food for dogs and cats in Ukraine and facilitated spay/neuter surgeries for nearly 10,000 animals there.
+
+Liliana Pacheco is a licensed psychologist with master’s degrees in primatology and gender violence who brings 20 years of nonprofit leadership to the work of empowering animal protection organizations worldwide — from community development to wildlife conservation. She is the head of a wildlife sanctuary in Guinea, West Africa for animals confiscated from the illegal wildlife trade, and previously spent a decade as founding Director of the Jane Goodall Institute in Senegal and Guinea, where she led chimpanzee conservation research, launched community development projects, helped establish a Nature Reserve, and worked to combat wildlife trafficking through WARA, a member of the EAGLE Network.
+
+🎧 [Listen to this episode](https://www.ourhenhouse.org/ep949/) — *Our Hen House*, 12 June 2026

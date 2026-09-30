@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/buddhism-animals-and-advocacy-how-dharma-voices-for-animals-is-transforming-the-way-buddhists-think-about-what-they-eat/","tags":["Asia","High_Income_Countries/USA","Philosophy","Diet_Change"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.704+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep939/","tags":["Asia","High_Income_Countries/USA","Philosophy","Diet_Change"],"Year Published":"2026","AI suggested tags":["Animal_Ethics","Activism","Movement_Building"]}}
+---
+
+In this episode of The Our Hen House Interview, Mariann Sullivan speaks with Andrea Diaz, Executive Director of Dharma Voices for Animals (DVA), the only international Buddhist animal advocacy organization. Andrea shares how DVA is working across Sri Lanka, Vietnam, Thailand, and the United States to align Buddhist teachings of compassion and non-harming with the dietary choices of the world’s nearly 360 million Buddhists — and why that work looks radically different in each country.
+
+- Buddhism’s core teachings explicitly oppose harming animals — the Pali Canon’s first precept calls for abstaining from taking the lives of living creatures, and the Buddha specifically named trading in meat as one of five unethical trades
+- DVA’s global programs meet Buddhists where they are, from distributing Sri Lanka’s first vegan cookbook and hosting youth Dharma retreats in Vietnam, to securing formal plant-based meal agreements at Thai temples through the Mindful Meals program
+- The US is DVA’s most resistant market, where promoting veganism in Buddhist centers is often taboo — leading DVA to launch the Sustainable Sangha Collective to normalize plant-based options and the All Beings Coalition to unite influential Buddhist voices against factory farming
+- The Bodhi Project offers a uniquely Buddhist approach to bearing witness, inviting practitioners to voluntarily reveal images of animal suffering in alignment with the Buddha’s own practice of opening himself to the reality of suffering
+- Meditation and Buddhist practice can be a lifeline for animal advocates, helping activists move from burnout and anger toward sustainable, effective advocacy — and DVA’s monthly online meditation sangha is open to all, Buddhist or not
+- The next 100 people to join DVA’s Dāna (giving) Circle as a monthly donor of $20 or more will receive a wildlife art print donated by artist Carl Brenders (retail value of $100+).
+
+Andrea Diaz is an animal rights advocate raised on a farm in South Phoenix, Arizona, who holds a Master of Global Animal Law from the Autonomous University of Barcelona and a Bachelor of Criminal Justice from Arizona State University. After going vegan overnight in 2016 following exposure to slaughterhouse footage, she channeled her lifelong passion for justice into organizing hundreds of campaigns and working as a factory farm and slaughterhouse investigator across three countries. Drawn to the teachings of the Buddha and a dedicated meditation practitioner, she now serves as Executive Director of Dharma Voices for Animals.
+
+🎧 [Listen to this episode](https://www.ourhenhouse.org/ep939/) — *Our Hen House*, 15 May 2026

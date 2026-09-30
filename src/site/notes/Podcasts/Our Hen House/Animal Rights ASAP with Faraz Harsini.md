@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/animal-rights-asap-with-faraz-harsini/","tags":["Movement_Building","Activism","Alternative_Proteins/Cultivated_Meat"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.684+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep705/","tags":["Movement_Building","Activism","Alternative_Proteins/Cultivated_Meat"],"Year Published":"2023","AI suggested tags":["Movement_Strategy","Tactics","Animal_Ethics"]}}
+---
+
+Faraz Harsini, Ph.D., realized something was missing from the animal rights movement and decided to fill that gap. The organization he founded, Allied Scholars for Animal Protection (ASAP), is helping university students and others on campus build ongoing, lasting advocacy organizations. We discuss ASAP’s long-term plans for expansion, how students can get help starting their own chapter, the support ASAP offers, and why Faraz believes connecting animal rights folk on campus is crucial. He also tells us about his role at The Good Food Institute and the research they’re doing to scale the production of cultivated meat.
+
+Dr. Faraz Harsini has advocated for animal rights for over ten years. He is a biomedical scientist and Allied Scholars for Animal Protection (ASAP) CEO and founder. This non-profit organization supports students interested in advocating for animal protection and pursuing careers that can make a difference. He is also a Bioprocessing Senior Scientist at Good Food Institute, where he works on advancing scientific and technological methods to produce alternative proteins on a large scale. Dr. Harsini believes that the root cause of many global issues affecting humans and animals is linked to the food system. Therefore, he aims to change the food system through his work at GFI and to train and support students to become future leaders in animal protection through ASAP.
+
+“I’m sick of animal rights organizations and student organizations becoming inactive because of a lack of support, lack of infrastructure, or lack of mentorship.” – Faraz Harsini
+
+🎧 [Listen to this episode](https://www.ourhenhouse.org/ep705/) — *Our Hen House*, 15 July 2023

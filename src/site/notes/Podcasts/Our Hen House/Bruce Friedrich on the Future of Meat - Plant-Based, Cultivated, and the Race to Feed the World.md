@@ -1,0 +1,15 @@
+---
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/bruce-friedrich-on-the-future-of-meat-plant-based-cultivated-and-the-race-to-feed-the-world/","tags":["Alternative_Proteins/Cultivated_Meat","Alternative_Proteins/Plant_Based","Food_Security","Policy/Food_Policy"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.703+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep922/","tags":["Alternative_Proteins/Cultivated_Meat","Alternative_Proteins/Plant_Based","Food_Security","Policy/Food_Policy"],"Year Published":"2026","AI suggested tags":["Plant_Based","Movement_Strategy","Environment"]}}
+---
+
+In this episode, Mariann sits down with Bruce Friedrich, Founder and President of The Good Food Institute and author of Meat: How the Next Agricultural Revolution Will Transform Humanity’s Favorite Food and Our Future, for a wide-ranging conversation about why the plant-based and cultivated meat revolution isn’t dead — it’s just getting started.
+
+- Alternative proteins are a global food security imperative, not just an animal welfare cause — governments from Singapore to China to the UK are investing in plant-based and cultivated meat to reduce dangerous dependence on imported food and protect against supply chain shocks.
+- The science is working and the progress is real: from $3M raised by one cultivated meat company a decade ago to 1,500+ patents, 170+ scientific papers per year, and 20+ governments actively funding the sector, the trajectory is unmistakably upward.
+- Cultivated meat media (the growth input) is now animal-free: all major companies have moved to xeno-free media, debunking a key vegan concern and dramatically cutting production costs — some companies have already hit below $0.25/liter, versus the predicted floor of $6.50.
+- Plant-based meat faces a scientific, not a culinary, challenge: the biggest obstacle is the lack of open-access academic research and B2B infrastructure — not taste — making government investment and scientific collaboration critical to progress.
+- You can make a difference right now by contacting your elected representatives — especially Republicans — to advocate for federal funding of alternative protein science, framing it around food security, economic competitiveness, and not ceding ground to China.
+
+Bruce Friedrich is the founder and president of the Good Food Institute (GFI), a global network of six science-focused nonprofits dedicated to transforming the way the world produces meat. Since its inception in 2016, GFI has grown from an idea into a global science think tank with more than 230 full-time team members, the plurality scientists. A TEDFellow and Y Combinator alum, Bruce has been featured in The Wall Street Journal, The Guardian, Nature Food, and on podcasts like The Ezra Klein Show and TED Radio Hour. He holds degrees from Georgetown Law, Johns Hopkins, the London School of Economics, and Grinnell College.
+
+🎧 [Listen to this episode](https://www.ourhenhouse.org/ep922/) — *Our Hen House*, 3 April 2026

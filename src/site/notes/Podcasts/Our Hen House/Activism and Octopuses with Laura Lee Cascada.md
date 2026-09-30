@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/activism-and-octopuses-with-laura-lee-cascada/","tags":["Activism","Factory_Farming","High_Income_Countries/USA","Tactics"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.669+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep721/","tags":["Activism","Factory_Farming","High_Income_Countries/USA","Tactics"],"Year Published":"2023","AI suggested tags":["Movement_Strategy","Plant_Based","Working_Conditions"]}}
+---
+
+Factory farming octopuses? Hell, no! Laura Lee Cascada joins us to tell us what happened when she found out about a planned octopus farm in Hawaii and how she got to work putting an end to it.
+
+Laura Lee Cascada (she/her) has led environmental and animal protection campaigns for 15 years, overseeing victories like the protection of Virginia’s decades-long ban on uranium mining with the Sierra Club and putting vegan options on the menus of major chains including Starbucks and Subway with Animal Outlook. In her current role as Sr. Director of Campaigns at the Better Food Foundation, she spearheads campaigns like DefaultVeg, which is making plant-based food the norm at universities, coffee shops, events, and more. Laura is the founder of The Every Animal Project, a powerful storytelling blog with an upcoming print anthology series, showcasing powerful, true animal stories that help transform readers’ relationships with animals. Her investigation of Kanaloa Octopus Farm in Hawaii exposed it as a petting zoo propping up the factory farming industry and led to its eventual shutdown. Laura is also the author of Dellie’s Run, a novel, and her writing has been featured by outlets like One Green Planet, The Dodo, and The Ecologist. She has a master’s degree in Environmental Policy from Johns Hopkins University.
+
+🎧 [Listen to this episode](https://www.ourhenhouse.org/ep721/) — *Our Hen House*, 4 November 2023

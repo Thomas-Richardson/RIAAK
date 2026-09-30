@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/animal-law-podcast-58-the-case-of-the-right-to-rescue/","tags":["Law","Activism","Factory_Farming","High_Income_Countries/USA"],"created":"2026-07-15T12:19:41.000+01:00","updated":"2026-09-30T19:55:03.044+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/animal-law-podcast-58-the-case-of-the-right-to-rescue/","tags":["Law","Activism","Factory_Farming","High_Income_Countries/USA"],"Year Published":"2020","AI suggested tags":["Companion_Animals","Tactics","Animal_Ethics"]}}
+---
+
+On this episode of the Animal Law Podcast, I’m bringing you something a little bit different. I speak with Wayne Hsiung of Direct Action Everywhere (DxE), who is a lawyer but is also one of the defendants in the cases we’ll be speaking about today. The felony charges being brought against him and other DxE activists, in multiple states, are a result of open rescues of sick and dying animals from factory farms, which have been followed by prosecutions in which activists, including Wayne, are being charged with a wide range of offenses–including “theft of fruits and vegetables.” We talk about the challenges of mounting a defense against these charges and how the lobbying influence of the agriculture industry directly targets animal activists.
+
+Wayne Hsiung is a lawyer, former law professor, and co-founder of the global animal rights network Direct Action Everywhere (DxE). His work as an open rescue activist has been reported on in The New York Times, The Wall Street Journal, and ABC’s Nightline. Prior to co-founding DxE, Wayne published research (with Cass Sunstein) on climate change’s impact on wildlife, practiced law at two national firms, and had an active pro bono practice defending victims of domestic violence.
+
+DxE’s mission is to build a grassroots movement for animals. According to DxE, “We believe in a world where animals are treated like living creatures, not things, and where every slaughterhouse has been transformed into a sanctuary. We aim to pass an animal bill of rights that gives every animal the right to live free from violence and exploitation — in one generation.”
+
+🎧 [Listen to this episode](https://www.ourhenhouse.org/animal-law-podcast-58-the-case-of-the-right-to-rescue/) — *The Animal Law Podcast*, 26 March 2020

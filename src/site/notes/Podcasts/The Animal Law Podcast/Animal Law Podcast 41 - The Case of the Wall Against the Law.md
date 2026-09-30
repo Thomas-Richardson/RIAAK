@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/animal-law-podcast-41-the-case-of-the-wall-against-the-law/","tags":["Law","Wild_Animals","Environment","High_Income_Countries/USA"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:03.020+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/animal-law-podcast-41-the-case-of-the-wall-against-the-law/","tags":["Law","Wild_Animals","Environment","High_Income_Countries/USA"],"Year Published":"2018","AI suggested tags":["Companion_Animals","Geese","Turkeys"]}}
+---
+
+On this episode of the Animal Law Podcast, I talk to Tony Eliseuson of the Animal Legal Defense Fund about the potential impact of the proposed and proceeding border wall between the United States and Mexico on many species of animals, including endangered ones. We also discuss the several ongoing legal cases surrounding these issues which are based on a wholesale disregard of numerous environmental law, including the Endangered Species Act. I hope you find the conversation as shocking, and illuminating, as I did.
+
+Tony is a nationally recognized attorney who joined the Animal Legal Defense Fund after a 15-year career as a partner with a leading global law firm. Tony’s path to the Animal Legal Defense Fund began when he was a young associate encouraged by a colleague with a passion for animal law. Tony went on to work on several pro bono cases with the Animal Legal Defense Fund before he joined as full time staff. Before leaving his firm, Tony was named a national Law360 Rising Star for 2014 and was selected to the Illinois Super Lawyer list each year from 2014 to 2017 .
+
+🎧 [Listen to this episode](https://www.ourhenhouse.org/animal-law-podcast-41-the-case-of-the-wall-against-the-law/) — *The Animal Law Podcast*, 31 October 2018

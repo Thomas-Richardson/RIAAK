@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/animal-law-podcast-22-adam-milasincic-matthew-liebman-and-the-case-against-landry-s/","tags":["Law","Wild_Animals","High_Income_Countries/USA","Activism"],"created":"2026-07-15T12:19:41.000+01:00","updated":"2026-09-30T19:55:02.992+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/animal-law-podcast-22-adam-milasincic-matthew-liebman-and-the-case-against-landrys/","tags":["Law","Wild_Animals","High_Income_Countries/USA","Activism"],"Year Published":"2017","AI suggested tags":["Companion_Animals","Geese","Animal_Ethics"]}}
+---
+
+This is no place for a tiger
+
+Welcome to the 22nd episode of the Animal Law Podcast! Today, Mariann is joined by Matthew Liebman, Director of Litigation at the Animal Legal Defense Fund, and Adam Milasincic, trial lawyer with the Houston firm Ahmad, Zavitsanos, Anaipakos, Alavi & Mensing P.C. Matthew and Adam update us on the case against Landry’s, or to be precise, on Landry’s case against animal activists. For over a decade, Landry’s Downtown Aquarium in Houston, Texas has deprived four white tigers of everything that even remotely resembles what their life would be in the wild. These tigers – Nero, Marina, Coral, and Reef – have no opportunities to run, jump or engage in other natural behaviors. Although the Animal Legal Defense Fund offered last year to re-home the tigers in lieu of litigation, that offer was rejected. Instead, Landry’s decided to sue ALDF and others for libel. Undeterred, the defendants brought a motion to dismiss that not only succeeded, but did so in spectacular fashion.
+
+🎧 [Listen to this episode](https://www.ourhenhouse.org/animal-law-podcast-22-adam-milasincic-matthew-liebman-and-the-case-against-landrys/) — *The Animal Law Podcast*, 29 March 2017

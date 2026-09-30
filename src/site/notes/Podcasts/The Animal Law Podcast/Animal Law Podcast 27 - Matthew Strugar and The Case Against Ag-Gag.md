@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/animal-law-podcast-27-matthew-strugar-and-the-case-against-ag-gag/","tags":["Law","High_Income_Countries/USA","Activism","Factory_Farming"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.999+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/animal-law-podcast-27-matthew-strugar/","tags":["Law","High_Income_Countries/USA","Activism","Factory_Farming"],"Year Published":"2017","AI suggested tags":["Geese","Tactics","Companion_Animals"]}}
+---
+
+Welcome to the 27th episode of the Animal Law Podcast! Mariann is joined by Matthew Strugar, who tells us about a Federal judge’s decision to declare Utah’s ag-gag law unconstitutional. The Ag Gag Law was part of a movement among agricultural states to stop undercover investigations by animal rights groups. Like other state’s ag gag laws, Utah’s made it a crime to obtain employment at an animal agricultural facility and then film mistreatment. It also made it a crime to obtain employment at an animal agricultural facility through misrepresentation, including when an applicant refused to out himself or herself as an animal rights activist as part of the application process.
+
+Matthew began his career at the Center for Constitutional Rights in NYC, where he supported the SHAC 7—animal rights activists who faced charges under the Animal Enterprise Terrorism Act. In 2011, he joined the PETA Foundation as Director of Litigation, where he oversaw and litigated matters involving the First Amendment and animal law. More recently, Matthew founded the Law Office of Matthew Strugar to return to civil rights, prisoners’ rights, police misconduct, and protester defense, in addition to animal law.
+
+🎧 [Listen to this episode](https://www.ourhenhouse.org/animal-law-podcast-27-matthew-strugar/) — *The Animal Law Podcast*, 23 August 2017

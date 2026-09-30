@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/animal-law-podcast-21-delcianna-j-winders-and-the-case-against-the-usda/","tags":["Law","High_Income_Countries/USA","Animal_Welfare"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.991+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/animal-law-podcast-21-delcianna-j-winders-and-the-case-against-the-usda/","tags":["Law","High_Income_Countries/USA","Animal_Welfare"],"Year Published":"2017","AI suggested tags":["Geese","Turkeys","Companion_Animals"]}}
+---
+
+Welcome to the 21st episode of the Animal Law Podcast! Today, Mariann is joined by Delcianna J. Winders, currently an Academic Fellow of the Harvard Animal Law & Policy Program and a co-plaintiff in a lawsuit against the USDA. This Freedom of Information Law suit seeks to compel the USDA to replace the records, recently purged from their website, that detail violations of the Animal Welfare Act. This is a huge crisis for anyone working to help animals in the industries that are regulated by the Act, and they are fighting back! In fact, this situation is moving so quickly that Mariann and Delci recorded an update about an additional lawsuit filed in this ongoing saga. Listen and learn the latest on the fight to get the records back!
+
+🎧 [Listen to this episode](https://www.ourhenhouse.org/animal-law-podcast-21-delcianna-j-winders-and-the-case-against-the-usda/) — *The Animal Law Podcast*, 1 March 2017

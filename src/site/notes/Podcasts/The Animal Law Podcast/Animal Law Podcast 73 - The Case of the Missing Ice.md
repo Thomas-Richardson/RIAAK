@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/animal-law-podcast-73-the-case-of-the-missing-ice/","tags":["Law","Wild_Animals","High_Income_Countries/USA","Environment/Climate_Change"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:03.066+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/alp73/","tags":["Law","Wild_Animals","High_Income_Countries/USA","Environment/Climate_Change"],"Year Published":"2021","AI suggested tags":["Companion_Animals","Activism","Animal_Ethics"]}}
+---
+
+On this episode of the Animal Law Podcast, I speak with Emily Jeffers of the Center for Biological Diversity about the 9th Circuit’s recent decision in Center for Biological Diversity v Haaland, in which the court decided that the U.S. Fish and Wildlife Service’s sudden about face, in 2017, on whether the Pacific Walrus is subject to the protections of the Endangered Species Act was not adequately supported. In this far-ranging conversation, we get into how difficult the walruses’ lives have become since the ice has started to disappear from their traditional habitat, the influence of the change in administrations on Endangered Species Act enforcement and, most fundamentally, how much can the Endangered Species Act do to protect animals in the era of climate change and biodiversity collapse.
+
+Emily Jeffers is Staff Attorney at the Center for Biological Diversity, working in the Center’s Oceans program. Emily graduated from the University of California, Berkeley School of Law and received her bachelor’s degree in biology from Yale University. Before joining the Center, Emily served as a law clerk to the Honorable Gregory J. Hobbs, Jr. of the Colorado Supreme Court and worked as a wildlife biologist in California and Idaho.
+
+🎧 [Listen to this episode](https://www.ourhenhouse.org/alp73/) — *The Animal Law Podcast*, 30 June 2021

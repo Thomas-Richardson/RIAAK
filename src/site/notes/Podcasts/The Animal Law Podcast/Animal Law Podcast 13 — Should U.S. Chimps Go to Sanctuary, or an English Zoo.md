@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/animal-law-podcast-13-should-u-s-chimps-go-to-sanctuary-or-an-english-zoo/","tags":["Law","Wild_Animals","High_Income_Countries/USA","High_Income_Countries/UK"],"created":"2026-07-15T12:19:41.000+01:00","updated":"2026-09-30T19:55:02.980+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/animal-law-podcast-13-should-us-chimps-go-to-sanctuary-or-an-english-zoo/","tags":["Law","Wild_Animals","High_Income_Countries/USA","High_Income_Countries/UK"],"Year Published":"2016","AI suggested tags":["Companion_Animals","Animal_Ethics","Activism"]}}
+---
+
+When I first heard that these chimps, who had been trapped in research facilities in the US for their whole lives, were not going to sanctuary, I was very disappointed. The sanctuary movement for chimpanzees has grown by leaps and bounds to accommodate all of these extraordinary individuals who are, at long last, emerging from hell. Then, when I heard that they were being sent, instead, to a zoo in England, where they would be put on display and most likely bred, I was confused. How the hell was that happening?
+
+But when I heard the full story, which is still unfolding and whose final chapter has yet to be written, I was furious. You will be too, and you will also be fascinated by the legal battle that is being waged to get the United States Fish and Wildlife Service to require that these chimpanzees end up where they belong — in a sanctuary that will care for them and look out for their best interests, and will not try to make a buck (or a pound) off of them.
+
+That battle is being waged by one of the finest lawyers in the animal law movement, Katherine Meyer, a founding partner of the extraordinary public interest law firm of Meyer, Glitzenstein and Eubanks. You will not want to miss the exciting, convoluted and, yes, infuriating legal tale of the efforts to get these animals to safety, using the Endangered Species Act, the National Environmental Policy Act, and the Freedom of Information Act.
+
+Before Kathy joins me, I’ll be talking about some of the latest developments for emotional support animals. Yes, I know that all of us get emotional support from animals, but the whole question of who qualifies legally as such, and exactly what that means for whether those animals can stay in their homes, is a complicated and, increasingly, a controversial one.
+
+🎧 [Listen to this episode](https://www.ourhenhouse.org/animal-law-podcast-13-should-us-chimps-go-to-sanctuary-or-an-english-zoo/) — *The Animal Law Podcast*, 22 June 2016

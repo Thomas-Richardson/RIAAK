@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/masset-et-al-2015/","tags":[null,null,null,null,null,null,null],"created":"2025-10-23T17:42:45.145+01:00","updated":"2025-10-30T23:44:54.054+00:00"}
+{"dg-publish":true,"permalink":"/citations/masset-et-al-2015/","tags":["Citation","Health/Nutrition","Lower_Middle_Income_Countries","MFA_Food_Sec"],"created":"2025-10-23T17:42:45.145+01:00","updated":"2026-09-30T19:55:01.819+01:00","dg-note-properties":{"tags":["Citation","Health/Nutrition","Lower_Middle_Income_Countries","MFA_Food_Sec"],"AI suggested tags":["Review","High_Income_Countries","Legumes"]}}
 ---
 
 
@@ -23,3 +23,9 @@ Key Findings:
 The authors concluded that the evidence provides no confident answer on the effectiveness of these agricultural interventions for improving child nutrition, likely due to methodological weaknesses rather than lack of efficacy. They recommend more rigorous study designs, agreed quality standards, and investigation of intermediate outcomes and participation determinants.
 
 In summary, while the interventions appeared to increase production and consumption of specific nutrient-rich foods, there was limited evidence that this translated to meaningful impacts on overall child nutritional status based on the available evidence from these 23 studies. Methodological limitations hindered definitive conclusions.
+
+# AI suggested related articles
+
+- [[Citations/Blackmore et al 2018\|Citations/Blackmore et al 2018]] (0.74)
+- [[Small scale farming for people in LMICS\|Small scale farming for people in LMICS]] (0.65)
+- [[Solutions to micronutrient deficiencies in LMICs\|Solutions to micronutrient deficiencies in LMICs]] (0.59)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/marques-et-al-2018/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:44.399+01:00","updated":"2025-10-30T23:44:53.937+00:00"}
+{"dg-publish":true,"permalink":"/citations/marques-et-al-2018/","tags":["Citation","Economics"],"created":"2025-10-23T17:42:44.399+01:00","updated":"2026-09-30T19:55:01.814+01:00","dg-note-properties":{"tags":["Citation","Economics"],"AI suggested tags":["Meat","Meat/Meat_Consumption","High_Income_Countries"]}}
 ---
 
 

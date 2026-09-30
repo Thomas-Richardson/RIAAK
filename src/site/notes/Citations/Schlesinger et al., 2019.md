@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/schlesinger-et-al-2019/","tags":[null,null,null],"created":"2025-10-23T17:42:45.868+01:00","updated":"2025-10-31T14:43:31.381+00:00"}
+{"dg-publish":true,"permalink":"/citations/schlesinger-et-al-2019/","tags":["Citation","Health/Nutrition","Meat"],"created":"2025-10-23T17:42:45.868+01:00","updated":"2026-09-30T22:10:52.671+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Citation","Health/Nutrition","Meat"],"AI suggested tags":["Meat/Red_Meat","Diet","Review"]}}
 ---
 
 
@@ -28,3 +28,9 @@ Positive associations were found for:
 - SSBs (RRoverweight/obesity: 1.05; 95% CI: 1.00, 1.11; RRabdominal obesity: 1.12; 95% CI: 1.04, 1.20).
 
 The dose-response meta-analytical findings provided very low to low quality of evidence that certain food groups have an impact on different measurements of adiposity risk. To improve the quality of evidence, better-designed observational studies, inclusion of intervention trials, and use of novel statistical methods (e.g., substitution analyses or network meta-analyses) are needed.
+
+# AI suggested related articles
+
+- [[Citations/Rouhani et al., 2014\|Citations/Rouhani et al., 2014]] (0.76)
+- [[Citations/Schwingshackl et al., 2017b\|Citations/Schwingshackl et al., 2017b]] (0.69)
+- [[Citations/Kwok et al., 2019\|Citations/Kwok et al., 2019]] (0.68)

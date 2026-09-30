@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/scarborough-et-al-2014/","tags":["Citation","Environment_Misc","Meat","UK","Veganism"],"created":"2025-10-23T17:42:46.476+01:00","updated":"2026-09-30T19:55:02.008+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Citation","Environment_Misc","Meat","UK","Veganism"],"AI suggested tags":["Environment/GHG","Veg_Diets","Health/Nutrition"]}}
+{"dg-publish":true,"permalink":"/citations/scarborough-et-al-2014/","tags":["Citation","Environment","Meat","UK","Veganism"],"created":"2025-10-23T17:42:46.476+01:00","updated":"2026-09-30T23:02:29.849+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Citation","Environment","Meat","UK","Veganism"],"AI suggested tags":["Environment/GHG","Veg_Diets","Health/Nutrition"]}}
 ---
 
 

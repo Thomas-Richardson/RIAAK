@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/seeing-stars-changing-markets-foundation/","created":"2025-11-25T15:07:36.219+00:00","updated":"2025-11-25T15:07:36.221+00:00"}
+{"dg-publish":true,"permalink":"/citations/seeing-stars-changing-markets-foundation/","tags":["Environment/GHG","Greenwashing","Meat_Industry","Dairy"],"created":"2025-11-25T15:07:36.219+00:00","updated":"2026-09-30T19:55:02.027+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Environment/GHG","Greenwashing","Meat_Industry","Dairy"],"source_url":"https://changingmarkets.org/wp-content/uploads/2023/11/Seeing-stars-report.pdf","created":"2025-11-25","AI suggested tags":["Environment/Climate_Change","Financial_Activism","Meat/Meat_Reduction"]}}
 ---
 
 

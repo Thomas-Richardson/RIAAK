@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/reforming-animal-agriculture-subsidies-a-guide-for-advocates-faunalytics/","created":"2026-01-28T10:49:49.148+00:00","updated":"2026-01-29T05:00:06.558+00:00"}
+{"dg-publish":true,"permalink":"/citations/reforming-animal-agriculture-subsidies-a-guide-for-advocates-faunalytics/","tags":["Policy","Movement_Strategy","Meat_Industry","Law"],"created":"2026-01-28T10:49:49.148+00:00","updated":"2026-09-30T19:55:01.945+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/reforming-animal-agriculture-subsidies/","tags":["Policy","Movement_Strategy","Meat_Industry","Law"],"Year Published":"2023","AI suggested tags":["Farmers","USA","Factory_Farming"]}}
 ---
 
 Animal agriculture subsidies create an uneven playing field for advocates and plant-based producers. Our study looks at successes and challenges in the fight to shift, reduce, or eliminate subsidies.

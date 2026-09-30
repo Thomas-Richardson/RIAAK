@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/protein-transition-strategy-lidl-germany-s-quantifiable-approach-to-sustainable-retail-rethink-priorities/","tags":["retailers"],"created":"2025-10-23T17:42:46.882+01:00","updated":"2025-10-23T18:12:10.264+01:00"}
+{"dg-publish":true,"permalink":"/citations/protein-transition-strategy-lidl-germany-s-quantifiable-approach-to-sustainable-retail-rethink-priorities/","tags":["Retailers"],"created":"2025-10-23T17:42:46.882+01:00","updated":"2026-09-30T19:55:01.923+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/plant-based-diet-shift-initiative-case-studies-german-retailer-transitions/","tags":["Retailers"],"Year Published":"2025","AI suggested tags":["Case_Study","Alternative_Proteins","Germany"]}}
 ---
 
 ## Editorial Note

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/maki-et-al-2012/","tags":[null,null,null,null,null,null,null,null,null],"created":"2025-10-23T17:42:45.636+01:00","updated":"2025-10-30T23:44:54.121+00:00"}
+{"dg-publish":true,"permalink":"/citations/maki-et-al-2012/","tags":["Chickens","Citation","Cows","Fish","Health/Nutrition","Meat"],"created":"2025-10-23T17:42:45.636+01:00","updated":"2026-09-30T19:55:01.805+01:00","dg-note-properties":{"tags":["Chickens","Citation","Cows","Fish","Health/Nutrition","Meat"],"AI suggested tags":["Review","Nuts","Legumes"]}}
 ---
 
 
@@ -24,3 +24,10 @@ Argues that "beef no worse for your heart than chicken or fish"...which also mea
 
 **Conclusion:** <mark style="background: #FFF3A3A6;">Changes in the fasting lipid profile were not significantly different with beef consumption compared with those with poultry and/or fish consumption. </mark>Inclusion of lean beef in the diet increases the variety of available food choices, which may improve long-term adherence with dietary recommendations for lipid management.
 
+
+
+# AI suggested related articles
+
+- [[Citations/Kwok et al., 2019\|Citations/Kwok et al., 2019]] (0.66)
+- [[Citations/Fernández-Rodríguez et al., 2025\|Citations/Fernández-Rodríguez et al., 2025]] (0.65)
+- [[Citations/López-Moreno et al., 2025\|Citations/López-Moreno et al., 2025]] (0.64)

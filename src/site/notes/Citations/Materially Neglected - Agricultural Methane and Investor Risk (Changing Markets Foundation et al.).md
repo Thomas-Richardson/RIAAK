@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/materially-neglected-agricultural-methane-and-investor-risk-changing-markets-foundation-et-al/","created":"2026-02-03T20:29:28.482+00:00","updated":"2026-02-04T05:17:18.762+00:00"}
+{"dg-publish":true,"permalink":"/citations/materially-neglected-agricultural-methane-and-investor-risk-changing-markets-foundation-et-al/","tags":["Environment/GHG","Financial_Activism","Meat_Industry","Dairy"],"created":"2026-02-03T20:29:28.482+00:00","updated":"2026-09-30T19:55:01.820+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Environment/GHG","Financial_Activism","Meat_Industry","Dairy"],"source_url":"https://changingmarkets.org/wp-content/uploads/2026/01/Materially-Neglected.pdf","created":"2026-02-03","AI suggested tags":["Greenwashing","Environment/Climate_Change","Cows"]}}
 ---
 
 

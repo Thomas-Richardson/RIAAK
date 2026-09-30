@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/springmann-et-al-2016/","tags":[null,null,null],"created":"2025-10-23T17:42:46.291+01:00","updated":"2025-10-31T14:43:31.392+00:00"}
+{"dg-publish":true,"permalink":"/citations/springmann-et-al-2016/","tags":["Citation","Economics","Health/Nutrition"],"created":"2025-10-23T17:42:46.291+01:00","updated":"2026-09-30T23:02:29.892+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Citation","Economics","Health/Nutrition"],"AI suggested tags":["Environment/GHG","Environment","Economics/Costs"]}}
 ---
 
 
@@ -11,7 +11,13 @@ Springmann, M., Godfray, H. C. J., Rayner, M., & Scarborough, P. (2016). Analysi
 
 ## Significance
 The food system is responsible for more than a quarter of all greenhouse gas emissions while unhealthy diets and high body weight are among the greatest contributors to premature mortality. Our study provides a comparative analysis of the health and climate change benefits of global dietary changes for all major world regions. <mark style="background: #FFF3A3A6;">We project that health and climate change benefits will both be greater the lower the fraction of animal-sourced foods in our diets</mark>. <mark style="background: #FFF3A3A6;">Three quarters of all benefits occur in developing countries although the per capita impacts of dietary change would be greatest in developed countries. </mark><mark style="background: #BBFABBA6;">The monetized value of health improvements could be comparable with, and possibly larger than, the environmental benefits of the avoided damages from climate change.</mark>
-#lower_middle_income_countries 
+#Lower_Middle_Income_Countries 
 ## Abstract
 
 What we eat greatly influences our personal health and the environment we all share. Recent analyses have highlighted the likely dual health and environmental benefits of reducing the fraction of animal-sourced foods in our diets. Here, we couple for the first time, to our knowledge, a region-specific global health model based on dietary and weight-related risk factors with emissions accounting and economic valuation modules to quantify the linked health and environmental consequences of dietary changes. We find that the impacts of dietary changes toward less meat and more plant-based diets vary greatly among regions. The largest absolute environmental and health benefits result from diet shifts in developing countries whereas Western high-income and middle-income countries gain most in per capita terms. Transitioning toward more plant-based diets that are in line with standard dietary guidelines could reduce global mortality by 6–10% and food-related greenhouse gas emissions by 29–70% compared with a reference scenario in 2050. We find that the monetized value of the improvements in health would be comparable with, or exceed, the value of the environmental benefits although the exact valuation method used considerably affects the estimated amounts. Overall, we estimate the economic benefits of improving diets to be 1–31 trillion US dollars, which is equivalent to 0.4–13% of global gross domestic product (GDP) in 2050. However, significant changes in the global food system would be necessary for regional diets to match the dietary patterns studied here.
+
+# AI suggested related articles
+
+- [[Citations/Scarborough et al., 2012\|Citations/Scarborough et al., 2012]] (0.76)
+- [[Citations/Stehfest et al., 2009\|Citations/Stehfest et al., 2009]] (0.76)
+- [[Citations/Aleksandrowicz et al., 2016\|Citations/Aleksandrowicz et al., 2016]] (0.75)

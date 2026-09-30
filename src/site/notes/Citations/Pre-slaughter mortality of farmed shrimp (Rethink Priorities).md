@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/pre-slaughter-mortality-of-farmed-shrimp-rethink-priorities/","tags":["shrimp crustaceans"],"created":"2025-10-23T17:42:46.907+01:00","updated":"2025-10-23T18:12:10.265+01:00"}
+{"dg-publish":true,"permalink":"/citations/pre-slaughter-mortality-of-farmed-shrimp-rethink-priorities/","tags":["Shrimp","Crustaceans"],"created":"2025-10-23T17:42:46.907+01:00","updated":"2026-09-30T19:55:01.914+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/pre-slaughter-mortality-of-farmed-shrimp/","tags":["Shrimp","Crustaceans"],"Year Published":"2024","AI suggested tags":["Insects","Fish","Fish/Farmed"]}}
 ---
 
 ## Executive summary
@@ -26,3 +26,9 @@
     *   Premature mortality is more appropriate as one indicator among many that a welfare reform was successful, rather than an end in itself.
 *   **Pre-slaughter mortality data is limited and non-uniform.**
     *   Reports should clarify whether mass die-off events were excluded from mortality estimates and if rates are based on intuition from experience or empirical studies.
+
+# AI suggested related articles
+
+- [[Citations/Welfare considerations for farmed shrimp (Rethink Priorities)\|Citations/Welfare considerations for farmed shrimp (Rethink Priorities)]] (0.86)
+- [[Citations/Quantifying and prioritizing shrimp welfare threats (Rethink Priorities)\|Citations/Quantifying and prioritizing shrimp welfare threats (Rethink Priorities)]] (0.82)
+- [[Farmed shrimp pre-slaughter mortality from stress\|Farmed shrimp pre-slaughter mortality from stress]] (0.80)

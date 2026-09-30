@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/reduction-in-owned-cats-outdoors-in-canada-and-the-us-and-animal-welfare-rethink-priorities/","tags":["wild_animals - \"companion_animals USA Canada\""],"created":"2025-10-23T17:42:45.344+01:00","updated":"2025-10-23T19:20:34.061+01:00"}
+{"dg-publish":true,"permalink":"/citations/reduction-in-owned-cats-outdoors-in-canada-and-the-us-and-animal-welfare-rethink-priorities/","tags":["Wild_Animals","Companion_Animals","USA","Canada"],"created":"2025-10-23T17:42:45.344+01:00","updated":"2026-09-30T19:55:01.943+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/would-a-reduction-in-the-number-of-owned-cats-outdoors-in-canada-and-the-us-increase-animal-welfare/","tags":["Wild_Animals","Companion_Animals","USA","Canada"],"Year Published":"2019","AI suggested tags":["Rodents","Insects","Fish"]}}
 ---
 
 ## Summary
@@ -8,3 +8,9 @@
 3.  A single-message advocacy intervention, such as promoting collars with predation deterrents (e.g. bells, bright colors) on all adopted cats, could have multiple benefits for the welfare of both owned cats and wild animals
 4.  However, cat predation may be a net benefit for wild animal welfare given the probability that this mortality is often compensatory, the large reproductive capacity of small rodents, and the inhumane methods of rodent control currently in use
 5.  The widespread use of rodenticides emerges from this analysis a wild animal welfare issue in need of further research with respect to the numbers of target and nontarget animals negatively impacted
+
+# AI suggested related articles
+
+- [[Citations/Abundance Estimates of Three Wild Populations (Rethink Priorities)\|Citations/Abundance Estimates of Three Wild Populations (Rethink Priorities)]] (0.68)
+- [[Citations/Risk Aversion in Wild Animal Welfare (Rethink Priorities)\|Citations/Risk Aversion in Wild Animal Welfare (Rethink Priorities)]] (0.63)
+- [[Citations/A landscape analysis of wild animal welfare (Rethink Priorities)\|Citations/A landscape analysis of wild animal welfare (Rethink Priorities)]] (0.61)

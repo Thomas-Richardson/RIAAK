@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/plant-based-diet-shift-initiative-case-studies-new-york-city-rethink-priorities/","tags":["case_study institutional_change"],"created":"2025-10-23T17:42:44.794+01:00","updated":"2025-10-23T18:12:10.191+01:00"}
+{"dg-publish":true,"permalink":"/citations/plant-based-diet-shift-initiative-case-studies-new-york-city-rethink-priorities/","tags":["Case_Study","Institutional_Change"],"created":"2025-10-23T17:42:44.794+01:00","updated":"2026-09-30T19:55:01.901+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/plant-based-diet-shift-initiative-case-studies-new-york-city/","tags":["Case_Study","Institutional_Change"],"Year Published":"2025","AI suggested tags":["Policy/Food_Policy","Meat/Meat_Reduction","Alternative_Proteins/Plant_Based"]}}
 ---
 
 ### Case study profile
@@ -27,3 +27,9 @@ New York City has taken significant steps in advancing plant-based food policies
 New York City’s efforts to promote plant-forward food policies under Mayor Eric Adams provide valuable insights into how government initiatives can drive meaningful change in public health and environmental sustainability. By leveraging its substantial purchasing power and implementing targeted strategies, the city has made progress in reducing food-related greenhouse gas emissions and encouraging healthier eating habits. The city’s approach, which includes updating procurement policies, introducing plant-based defaults, and investing in education and training, offers a practical model for other municipalities seeking to achieve similar outcomes.
 
 For philanthropists and advocates, this case study highlights the importance of a comprehensive and phased approach when implementing dietary shifts at scale. The lessons learned in New York City—such as the need for strong leadership, the value of robust training and education programs, and the benefits of setting clear, measurable targets—can be applied in various contexts to support sustainable food system transformations. Additionally, this example underscores the significance of collaboration between public institutions, non-profits, and the private sector to ensure that initiatives are not only implemented but also sustained over time. By adapting these strategies to local conditions, other cities and organizations can build on New York City’s experience to advance their own plant-forward policies effectively.
+
+# AI suggested related articles
+
+- [[Plant-Based Initiatives Get Big Support in the Big Apple\|Plant-Based Initiatives Get Big Support in the Big Apple]] (0.74)
+- [[Case studies of plant-forward procurement\|Case studies of plant-forward procurement]] (0.74)
+- [[Citations/Institutional Food Systems Transformation - Quantitative Analysis of Coolfood’s Intervention Framework (Rethink Priorities)\|Citations/Institutional Food Systems Transformation - Quantitative Analysis of Coolfood’s Intervention Framework (Rethink Priorities)]] (0.73)

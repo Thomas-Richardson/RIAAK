@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/statharas-and-zeng-2023/","tags":["citation","asia","Bryant/Project/good_growth_social_listening","SE_asia"],"created":"2025-10-23T17:42:46.963+01:00","updated":"2025-11-04T12:12:37.136+00:00"}
+{"dg-publish":true,"permalink":"/citations/statharas-and-zeng-2023/","tags":["Citation","Asia","Bryant_Research/Project/Good_Growth_Social_Listening","SE_Asia"],"created":"2025-10-23T17:42:46.963+01:00","updated":"2026-09-30T23:02:29.899+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Citation","Asia","Bryant_Research/Project/Good_Growth_Social_Listening","SE_Asia"],"AI suggested tags":["Consumer_Attitudes","Lower_Middle_Income_Countries","Consumer_Research"]}}
 ---
 
 
@@ -18,13 +18,13 @@ Animal welfare matters 2023 state of SE asia
 
 A survey from the World Economic Forum reported that 80% of respondents in Southeast Asia have altered their lifestyles to be more environmentally sustainable. consumers are trying to limit food waste and buy locally-produced food.
 
-![Pasted image 20240613122322.png|400](/img/user/Pasted%20image%2020240613122322.png)
+![Pasted image 20240613122322.png\|400](/img/user/Pasted%20image%2020240613122322.png)
 
-![Pasted image 20240613123727.png|400](/img/user/Pasted%20image%2020240613123727.png)
+![Pasted image 20240613123727.png\|400](/img/user/Pasted%20image%2020240613123727.png)
 
-![Pasted image 20240613123841.png|400](/img/user/Pasted%20image%2020240613123841.png)
+![Pasted image 20240613123841.png\|400](/img/user/Pasted%20image%2020240613123841.png)
 
-![Pasted image 20240613124942.png|400](/img/user/Pasted%20image%2020240613124942.png)
+![Pasted image 20240613124942.png\|400](/img/user/Pasted%20image%2020240613124942.png)
 Ιn Indonesia for example, people tend to prefer uncooled, freshly slaughtered poultry meat sold in wet markets and by street vendors.
 
 In Thailand, 86% of consumers have concerns about antibiotic use in farming – which often hides low welfare standards. 97% and 91% of Thai consumers think that the government should increase minimum welfare standards and restrict the use of antibiotics in farm animals respectively

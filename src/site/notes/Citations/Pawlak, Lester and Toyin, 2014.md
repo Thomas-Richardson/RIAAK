@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/pawlak-lester-and-toyin-2014/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:45.595+01:00","updated":"2025-10-30T23:44:54.111+00:00"}
+{"dg-publish":true,"permalink":"/citations/pawlak-lester-and-toyin-2014/","tags":["Citation","Health/Nutrition","Veganism"],"created":"2025-10-23T17:42:45.595+01:00","updated":"2026-09-30T19:55:01.891+01:00","dg-note-properties":{"tags":["Citation","Health/Nutrition","Veganism"],"AI suggested tags":["Veg_Diets","Review","Diet"]}}
 ---
 
 
@@ -19,3 +19,9 @@ Individuals on vegetarian diets risk vitamin B12 deficiency due to insufficient 
 
 ## Own notes
 - Seems legit but most included studies had like 40-60 people. Would be nice to have some sort of meta analysis
+
+# AI suggested related articles
+
+- [[Citations/Haider et al., 2017\|Citations/Haider et al., 2017]] (0.75)
+- [[Citations/Mariotti and Gardner, 2019\|Citations/Mariotti and Gardner, 2019]] (0.72)
+- [[Citations/Lotti et al., 2025\|Citations/Lotti et al., 2025]] (0.70)

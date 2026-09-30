@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/schulze-et-al-2023/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:44.865+01:00","updated":"2025-10-30T23:44:54.019+00:00"}
+{"dg-publish":true,"permalink":"/citations/schulze-et-al-2023/","tags":["Citation","Health/Nutrition","Meat"],"created":"2025-10-23T17:42:44.865+01:00","updated":"2026-09-30T19:55:02.016+01:00","dg-note-properties":{"tags":["Citation","Health/Nutrition","Meat"],"AI suggested tags":["Legumes","Diet","Review"]}}
 ---
 
 
@@ -27,3 +27,9 @@ Relative Risks comparing high versus low intake in most recent SRs ranged from 1
 ### Conclusion
 
 Higher total protein intake was possibly associated with higher T2D risk, while there is insufficient evidence for a risk increase with higher intakes of animal protein and a risk decrease with plant protein intake. Given that most SRs on plant protein did not indicate an association, there is possibly a lack of an effect.
+
+# AI suggested related articles
+
+- [[Citations/Ellinger et al., 2023\|Citations/Ellinger et al., 2023]] (0.78)
+- [[Citations/Schwingshackl et al., 2017b\|Citations/Schwingshackl et al., 2017b]] (0.72)
+- [[Diet and diabetes\|Diet and diabetes]] (0.67)

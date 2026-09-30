@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/rethinking-plant-based-meat-alternatives-the-food-foundation/","created":"2025-10-23T17:42:44.684+01:00","updated":"2025-10-23T17:42:44.684+01:00"}
+{"dg-publish":true,"permalink":"/citations/rethinking-plant-based-meat-alternatives-the-food-foundation/","tags":["Alternative_Proteins/Plant_Based","Health/Nutrition","High_Income_Countries/UK","Economics/Costs","Environment"],"created":"2025-10-23T17:42:44.684+01:00","updated":"2026-09-30T19:55:01.970+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Alternative_Proteins/Plant_Based","Health/Nutrition","High_Income_Countries/UK","Economics/Costs","Environment"],"source_url":"https://foodfoundation.org.uk/sites/default/files/2024-08/Rethinking%20Plant-Based%20Meat%20Alternatives.pdf","created":"2025-10-23","AI suggested tags":["Meat/Meat_Reduction","Alternative_Proteins","Policy/Food_Policy"]}}
 ---
 
 

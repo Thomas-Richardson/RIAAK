@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/report-by-surveygoo-and-ingredient-communications/","tags":["citation","labelling","Meat","report"],"created":"2025-10-23T17:42:44.756+01:00","updated":"2025-12-10T12:58:35.753+00:00"}
+{"dg-publish":true,"permalink":"/citations/report-by-surveygoo-and-ingredient-communications/","tags":["Citation","Policy/Labeling","Meat","Report"],"created":"2025-10-23T17:42:44.756+01:00","updated":"2026-09-30T19:55:01.949+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Citation","Policy/Labeling","Meat","Report"],"AI suggested tags":["Plant_Based/Marketing","Consumer_Research","Consumer_Attitudes"]}}
 ---
 
 
@@ -20,3 +20,9 @@ Nearly half of the vegetarians surveyed (49%) said they were more likely to buy 
 However, only 19% of vegans said the same, with 57% saying they were less likely to buy a product if it carried a meat-related name.
 
 The respondents were also asked to pick their preferred terms for vegetarian products if meat-related names were banned.
+
+# AI suggested related articles
+
+- [[labels evoking meat make veggie products more appealing to onmis and veggies but less appealing to vegans\|labels evoking meat make veggie products more appealing to onmis and veggies but less appealing to vegans]] (0.78)
+- [[Citations/Institute for Sustainable Futures, 2022\|Citations/Institute for Sustainable Futures, 2022]] (0.78)
+- [[What Happens if the EU Bans Terms Like “Veggie Burger”? A New Consumer Study Explores\|What Happens if the EU Bans Terms Like “Veggie Burger”? A New Consumer Study Explores]] (0.74)

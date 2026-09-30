@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/schwingshackl-et-al-2021/","tags":[null,null],"created":"2025-10-23T17:42:45.223+01:00","updated":"2025-10-31T14:43:31.360+00:00"}
+{"dg-publish":true,"permalink":"/citations/schwingshackl-et-al-2021/","tags":["Citation","Health/Nutrition"],"created":"2025-10-23T17:42:45.223+01:00","updated":"2026-09-30T19:55:02.024+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Citation","Health/Nutrition"],"AI suggested tags":["Review","Diet","Nuts"]}}
 ---
 
 
@@ -13,3 +13,9 @@ https://karger.com/anm/article/77/1/4/42873
 - SRs of RCTs applying substitution analyses indicate that SFA replacement with PUFA and/or MUFA improves blood lipids and glycemic control, with the effect of PUFA being more pronounced. 
 - A higher intake of total trans-fatty acid (TFA), but not ruminant TFA, was probably associated with an increased risk of mortality and cardiovascular disease based on existing SRs. 
 - <mark style="background: #FFF3A3A6;">Overall, the available published evidence deems it reasonable to recommend replacement of SFA with MUFA and PUFA and avoidance of consumption of industrial TFA.</mark>
+
+# AI suggested related articles
+
+- [[Fats and health\|Fats and health]] (0.68)
+- [[Citations/Kwok et al., 2019\|Citations/Kwok et al., 2019]] (0.62)
+- [[Citations/Fernández-Fígares Jiménez et al., 2025\|Citations/Fernández-Fígares Jiménez et al., 2025]] (0.61)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/pork-or-pig-beef-or-cow-implications-for-advocacy-and-research-faunalytics/","created":"2026-01-28T11:03:13.139+00:00","updated":"2026-01-29T05:00:06.538+00:00"}
+{"dg-publish":true,"permalink":"/citations/pork-or-pig-beef-or-cow-implications-for-advocacy-and-research-faunalytics/","tags":["Messaging","Consumer_Research","Research/Methods","Meat"],"created":"2026-01-28T11:03:13.139+00:00","updated":"2026-09-30T19:55:01.909+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/pork-or-pig-beef-or-cow-implications-for-advocacy-and-research/","tags":["Messaging","Consumer_Research","Research/Methods","Meat"],"Year Published":"2018","AI suggested tags":["Consumer_Attitudes","Policy/Labeling","Public_Opinion"]}}
 ---
 
 Faunalytics tested whether referring to meat by the animal it came from (e.g., “cow” vs. “beef”) would have an immediate effect on attitudes or reported consumption. 

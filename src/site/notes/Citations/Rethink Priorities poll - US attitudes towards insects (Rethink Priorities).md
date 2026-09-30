@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/rethink-priorities-poll-us-attitudes-towards-insects-rethink-priorities/","tags":["insects","High_Income_Countries/USA","public_opinion"],"created":"2025-10-23T17:42:45.722+01:00","updated":"2025-12-10T12:59:08.179+00:00"}
+{"dg-publish":true,"permalink":"/citations/rethink-priorities-poll-us-attitudes-towards-insects-rethink-priorities/","tags":["Insects","High_Income_Countries/USA","Public_Opinion"],"created":"2025-10-23T17:42:45.722+01:00","updated":"2026-09-30T19:55:01.969+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/us-attitudes-towards-insects/","tags":["Insects","High_Income_Countries/USA","Public_Opinion"],"Year Published":"2021","AI suggested tags":["Consumer_Attitudes","Consumer_Research","Bryant_Research"]}}
 ---
 
 Rethink Priorities conducted a US national poll of 4,446 Americans, adjusted to match a US nationally representative likely voter electorate by weighing on race, age, gender, education, income, socioeconomic status, region, 2016 Presidential vote, and religious attitudes. The raw margin of error is +/-2 points with 95% confidence.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/madre-brava-2023/","tags":["asia","citation","Bryant/Project/good_growth_social_listening"],"created":"2025-10-23T17:42:45.609+01:00","updated":"2025-11-04T12:12:37.122+00:00"}
+{"dg-publish":true,"permalink":"/citations/madre-brava-2023/","tags":["Asia","Citation","Bryant_Research/Project/Good_Growth_Social_Listening"],"created":"2025-10-23T17:42:45.609+01:00","updated":"2026-09-30T23:02:29.705+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Asia","Citation","Bryant_Research/Project/Good_Growth_Social_Listening"],"AI suggested tags":["SE_Asia","Bryant_Research/Project/Good_Growth_Social_Listening","Lower_Middle_Income_Countries"]}}
 ---
 
 
@@ -28,13 +28,13 @@
 - Only 20-25% were very or extremely concerned with industrial meat, though 40-50% somewhat concerned.
 - geographically, Chiang Mai has more flexitarians than other regions but fewer veggie / vegans
 
-![Pasted image 20240619172640.png|500](/img/user/Pasted%20image%2020240619172640.png)
+![Pasted image 20240619172640.png\|500](/img/user/Pasted%20image%2020240619172640.png)
 
-![Pasted image 20240619172818.png|500](/img/user/Pasted%20image%2020240619172818.png)
+![Pasted image 20240619172818.png\|500](/img/user/Pasted%20image%2020240619172818.png)
 
 ## Segment support
-![Pasted image 20240619180736.png|600](/img/user/Pasted%20image%2020240619180736.png)
+![Pasted image 20240619180736.png\|600](/img/user/Pasted%20image%2020240619180736.png)
 
 Among core and secondary audiences, 
 
-![Pasted image 20240619230729.png|500](/img/user/Pasted%20image%2020240619230729.png)
+![Pasted image 20240619230729.png\|500](/img/user/Pasted%20image%2020240619230729.png)

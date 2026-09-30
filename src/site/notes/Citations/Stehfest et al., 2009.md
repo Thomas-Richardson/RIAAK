@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/stehfest-et-al-2009/","tags":["Environment/GHG","Citation","Environment/Land","Meat"],"created":"2025-10-23T17:42:44.247+01:00","updated":"2026-09-30T19:55:02.078+01:00","dg-note-properties":{"tags":["Environment/GHG","Citation","Environment/Land","Meat"],"AI suggested tags":["Environment_Misc","Meat/Meat_Reduction","Economics/Costs"]}}
+{"dg-publish":true,"permalink":"/citations/stehfest-et-al-2009/","tags":["Environment/GHG","Citation","Environment/Land","Meat"],"created":"2025-10-23T17:42:44.247+01:00","updated":"2026-09-30T23:02:29.900+01:00","dg-note-properties":{"tags":["Environment/GHG","Citation","Environment/Land","Meat"],"AI suggested tags":["Environment","Meat/Meat_Reduction","Economics/Costs"]}}
 ---
 
 

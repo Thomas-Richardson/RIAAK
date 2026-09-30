@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/risk-aversion-in-wild-animal-welfare-rethink-priorities/","tags":["wild_animals - \"wild_animals\""],"created":"2025-10-23T17:42:45.125+01:00","updated":"2025-10-23T19:20:34.062+01:00"}
+{"dg-publish":true,"permalink":"/citations/risk-aversion-in-wild-animal-welfare-rethink-priorities/","tags":["Wild_Animals"],"created":"2025-10-23T17:42:45.125+01:00","updated":"2026-09-30T19:55:01.980+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/risk-aversion-in-wild-animal-welfare/","tags":["Wild_Animals"],"Year Published":"2023","AI suggested tags":["Research/Methods","Insects","Rodents"]}}
 ---
 
 # Executive Summary
@@ -31,3 +31,9 @@
     - Difference-making risk aversion favors farmed animals. However, it also favors some diversification across types of animals.
     - Ambiguity aversion favors helping farmed animals over wild animals, and basic research to help both groups.
 7. Although complex cluelessness affects many domains, wild animal welfare may be a particularly high-stakes example of it. Alternatively, moral uncertainty about the permissibility of interfering with nature may explain a reluctance to act on uncertain evidence.
+
+# AI suggested related articles
+
+- [[Citations/A landscape analysis of wild animal welfare (Rethink Priorities)\|Citations/A landscape analysis of wild animal welfare (Rethink Priorities)]] (0.78)
+- [[Citations/Prioritizing animals of uncertain sentience (Rethink Priorities)\|Citations/Prioritizing animals of uncertain sentience (Rethink Priorities)]] (0.76)
+- [[Citations/Abundance Estimates of Three Wild Populations (Rethink Priorities)\|Citations/Abundance Estimates of Three Wild Populations (Rethink Priorities)]] (0.75)

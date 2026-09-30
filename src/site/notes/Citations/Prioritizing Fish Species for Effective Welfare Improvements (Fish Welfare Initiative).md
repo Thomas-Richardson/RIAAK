@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/prioritizing-fish-species-for-effective-welfare-improvements-fish-welfare-initiative/","created":"2025-10-26T17:34:24.021+00:00","updated":"2025-10-26T17:34:24.021+00:00"}
+{"dg-publish":true,"permalink":"/citations/prioritizing-fish-species-for-effective-welfare-improvements-fish-welfare-initiative/","tags":["Fish/Farmed","Strategy","Review"],"created":"2025-10-26T17:34:24.021+00:00","updated":"2026-09-30T19:55:01.917+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Fish/Farmed","Strategy","Review"],"source_url":"https://files.fwi.fish/Priority_Species_Report.pdf","created":"2025-10-26","AI suggested tags":["Fish","EU","Shrimp"]}}
 ---
 
 

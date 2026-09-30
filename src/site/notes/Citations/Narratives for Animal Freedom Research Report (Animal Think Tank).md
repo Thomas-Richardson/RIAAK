@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/narratives-for-animal-freedom-research-report-animal-think-tank/","created":"2025-10-23T17:42:46.660+01:00","updated":"2025-10-23T17:42:46.661+01:00"}
+{"dg-publish":true,"permalink":"/citations/narratives-for-animal-freedom-research-report-animal-think-tank/","tags":["Narratives","Messaging","Public_Opinion","High_Income_Countries/UK"],"created":"2025-10-23T17:42:46.660+01:00","updated":"2026-09-30T19:55:01.858+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Narratives","Messaging","Public_Opinion","High_Income_Countries/UK"],"source_url":"https://animalthinktank.org.uk/wp-content/uploads/2025/03/Research-Report-2023.pdf","created":"2025-10-23","AI suggested tags":["Strategy","Consumer_Attitudes","Policy"]}}
 ---
 
 

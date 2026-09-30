@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/research-summary-the-intensity-of-valenced-experience-across-species-rethink-priorities/","tags":["sentience"],"created":"2025-10-23T17:42:46.240+01:00","updated":"2025-10-23T18:12:10.240+01:00"}
+{"dg-publish":true,"permalink":"/citations/research-summary-the-intensity-of-valenced-experience-across-species-rethink-priorities/","tags":["Sentience"],"created":"2025-10-23T17:42:46.240+01:00","updated":"2026-09-30T19:55:01.965+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/research-summary-the-intensity-of-valenced-experience-across-species/","tags":["Sentience"],"Year Published":"2020","AI suggested tags":["Insects","Research/Methods","Public_Opinion"]}}
 ---
 
 ### Preamble

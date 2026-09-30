@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/pathways-to-impact-an-international-study-of-advocates-strategies-and-needs-faunalytics/","created":"2026-01-28T10:42:19.772+00:00","updated":"2026-01-29T05:00:06.617+00:00"}
+{"dg-publish":true,"permalink":"/citations/pathways-to-impact-an-international-study-of-advocates-strategies-and-needs-faunalytics/","tags":["Movement_Strategy","Corporate_Campaigns","Policy","Movement_Building"],"created":"2026-01-28T10:42:19.772+00:00","updated":"2026-09-30T19:55:01.882+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/pathways-to-impact-an-international-study-of-advocates-strategies-and-needs/","tags":["Movement_Strategy","Corporate_Campaigns","Policy","Movement_Building"],"Year Published":"2024","AI suggested tags":["Public_Opinion","Research/Methods","Retention"]}}
 ---
 
 Our survey of nearly 200 animal advocacy groups in 84 countries explores the diverse approaches taken by farmed animal advocates, focusing on how and why organizations pursue different strategies.

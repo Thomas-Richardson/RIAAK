@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/monaco-et-al-2024/","tags":[null,null,null,null,null,null,null],"created":"2025-10-23T17:42:46.191+01:00","updated":"2025-10-30T23:44:54.183+00:00"}
+{"dg-publish":true,"permalink":"/citations/monaco-et-al-2024/","tags":["Citation","Alternative_Proteins/Cultivated_Meat","Insects","Review"],"created":"2025-10-23T17:42:46.191+01:00","updated":"2026-09-30T19:55:01.844+01:00","dg-note-properties":{"tags":["Citation","Alternative_Proteins/Cultivated_Meat","Insects","Review"],"AI suggested tags":["Consumer_Research","Consumer_Attitudes","Health/Nutrition"]}}
 ---
 
 
@@ -16,3 +16,10 @@ According to the definition adopted in the European Union, <mark style="backgrou
 This review investigates consumers’ perception of novel food products by narratively synthesising results on the influence of heuristics and biases triggered by emotions, personality traits, and socio-cultural factors. <mark style="background: #FFF3A3A6;">Empirical studies conducted in Western countries and published in English after 1997 </mark>were eligible, which led to <mark style="background: #FFF3A3A6;">182 studies</mark> being included. Notably, most included studies focused on insects and cultivated meat. 
 
 <mark style="background: #FFF3A3A6;">Disgust and fear are shown to be the main emotions driving rejection of novel foods, together with food neophobia and specific cultural norms common across countries </mark>included in the scope of the review. <mark style="background: #BBFABBA6;">Familiarity with novel foods and curiosity both led to higher acceptance</mark>. Despite being investigated directly in a minority of studies, heuristics and related biases mostly fell under the “affect,” the “natural-is-better,” and the “trust” heuristics. The review also discusses to what extent consumers' perception reflects in the regulatory framework applicable to novel foods in the European Union, how it influences the regulation of insects and cultivated meat and which lessons can be drawn for the future of the regulatory framework.
+
+
+# AI suggested related articles
+
+- [[Citations/Yu et al., 2025\|Citations/Yu et al., 2025]] (0.73)
+- [[Jahn, Furchheim and Strässner, 2021\|Jahn, Furchheim and Strässner, 2021]] (0.69)
+- [[Citations/Shaw et al., 2026\|Citations/Shaw et al., 2026]] (0.68)

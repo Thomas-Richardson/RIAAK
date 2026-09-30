@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/pre-slaughter-stunning-phase-2-foundational-research-reports-and-next-steps-fish-welfare-initiative/","tags":["fish"],"created":"2025-10-26T17:20:07.307+00:00","updated":"2025-10-26T17:20:07.342+00:00"}
+{"dg-publish":true,"permalink":"/citations/pre-slaughter-stunning-phase-2-foundational-research-reports-and-next-steps-fish-welfare-initiative/","tags":["Fish"],"created":"2025-10-26T17:20:07.307+00:00","updated":"2026-09-30T19:55:01.912+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.fishwelfareinitiative.org/post/stunning-phase-2","tags":["Fish"],"Year Published":"2025","AI suggested tags":["Fish/Farmed","Animal_Welfare","Strategy"]}}
 ---
 
 As part of the first phase of our project to investigate and possibly implement pre-slaughter stunning in India, we commissioned three research reports to assess general viability. These reports have now been finished, and we are linking to them below.

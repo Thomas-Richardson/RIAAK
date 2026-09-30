@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/securing-scale-up-funding-for-alternative-proteins-ambitious-impact/","tags":["alternative_proteins"],"created":"2025-10-23T17:42:44.512+01:00","updated":"2026-01-23T12:48:26.480+00:00"}
+{"dg-publish":true,"permalink":"/citations/securing-scale-up-funding-for-alternative-proteins-ambitious-impact/","tags":["Alternative_Proteins"],"created":"2025-10-23T17:42:44.512+01:00","updated":"2026-09-30T19:55:02.026+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Alternative_Proteins"],"source_url":"https://370b8129-500b-4a5d-99f2-ce6886702186.usrfiles.com/ugd/370b81_4e3e5f6a0e5b4807a088e9f1006f2ffa.pdf","created":"2025-10-23","AI suggested tags":["Alternative_Proteins/Precision_Fermentation","Economics","Alternative_Proteins/Cultivated_Meat"]}}
 ---
 
 ### Securing Scale-up Funding for Alternative Proteins / Summary

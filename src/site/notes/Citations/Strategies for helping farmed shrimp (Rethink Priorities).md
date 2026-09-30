@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/strategies-for-helping-farmed-shrimp-rethink-priorities/","tags":["shrimp crustaceans"],"created":"2025-10-23T17:42:46.712+01:00","updated":"2025-10-23T18:12:10.260+01:00"}
+{"dg-publish":true,"permalink":"/citations/strategies-for-helping-farmed-shrimp-rethink-priorities/","tags":["Shrimp","Crustaceans"],"created":"2025-10-23T17:42:46.712+01:00","updated":"2026-09-30T19:55:02.086+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/strategies-for-helping-farmed-shrimp/","tags":["Shrimp","Crustaceans"],"Year Published":"2024","AI suggested tags":["Fish","Strategy","Fish/Farmed"]}}
 ---
 
 ### Summary
@@ -56,3 +56,9 @@ _Figure 2: Per capita shrimp supply vs per capita GDP. Note both axes are logari
 If you would like to access the full report, please request access using [this Google form](https://forms.gle/Nb4qhvCpUyM4ujJ46). Requests will usually be evaluated within 24 hours.
 
 If you have any questions or would like further clarification on specific points, please feel free to reach out to [hannah@rethinkpriorities.org](mailto:hannah@rethinkpriorities.org). Additionally, if you’re interested in a private presentation tailored to your organization, please let us know by [indicating your interest here](https://forms.gle/H54Y8vAtrdABqs4u9).
+
+# AI suggested related articles
+
+- [[Citations/Welfare considerations for farmed shrimp (Rethink Priorities)\|Citations/Welfare considerations for farmed shrimp (Rethink Priorities)]] (0.85)
+- [[Citations/Quantifying and prioritizing shrimp welfare threats (Rethink Priorities)\|Citations/Quantifying and prioritizing shrimp welfare threats (Rethink Priorities)]] (0.80)
+- [[Citations/Pre-slaughter mortality of farmed shrimp (Rethink Priorities)\|Citations/Pre-slaughter mortality of farmed shrimp (Rethink Priorities)]] (0.78)

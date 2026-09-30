@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/support-for-farmed-animal-welfare-legislation-in-ten-key-u-s-states-faunalytics/","created":"2026-01-28T10:50:47.022+00:00","updated":"2026-01-29T05:00:06.486+00:00"}
+{"dg-publish":true,"permalink":"/citations/support-for-farmed-animal-welfare-legislation-in-ten-key-u-s-states-faunalytics/","tags":["Public_Opinion","Law","High_Income_Countries/USA"],"created":"2026-01-28T10:50:47.022+00:00","updated":"2026-09-30T19:55:02.092+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/support-for-farmed-animal-welfare-legislation-in-ten-key-u-s-states/","tags":["Public_Opinion","Law","High_Income_Countries/USA"],"Year Published":"2023","AI suggested tags":["Consumer_Attitudes","Policy","Animal_Welfare"]}}
 ---
 
 This Faunalytics study looks at the level of public support or opposition to farmed animal welfare legislation in ten U.S. states where legal advocacy is underway or under consideration.

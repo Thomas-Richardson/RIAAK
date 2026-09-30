@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/meat-tax-why-chickens-pay-the-price-animal-ask/","created":"2025-10-23T17:42:45.827+01:00","updated":"2025-10-23T17:42:45.828+01:00"}
+{"dg-publish":true,"permalink":"/citations/meat-tax-why-chickens-pay-the-price-animal-ask/","tags":["Policy/Food_Policy","Meat/Meat_Reduction","Chickens","Movement_Strategy"],"created":"2025-10-23T17:42:45.827+01:00","updated":"2026-09-30T23:02:29.726+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.animalask.org/post/meat-tax-why-chickens-pay-the-price","tags":["Policy/Food_Policy","Meat/Meat_Reduction","Chickens","Movement_Strategy"],"Year Published":"2022","AI suggested tags":["Meat","Bryant_Research/Insight","Meat/Meat_Consumption"]}}
 ---
 
 A meat tax is one policy that can reduce meat consumption. This policy has some key advantages: there is strong economic evidence that such a tax would reduce meat consumption while, depending on the type of meat tax, a campaign could also take advantage of the momentum provided by the environmental and health movements.

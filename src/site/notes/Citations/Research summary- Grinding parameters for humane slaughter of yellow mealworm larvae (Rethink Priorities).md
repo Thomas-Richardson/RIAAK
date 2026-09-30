@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/research-summary-grinding-parameters-for-humane-slaughter-of-yellow-mealworm-larvae-rethink-priorities/","tags":["insects"],"created":"2025-10-23T17:42:46.095+01:00","updated":"2025-10-23T18:12:10.235+01:00"}
+{"dg-publish":true,"permalink":"/citations/research-summary-grinding-parameters-for-humane-slaughter-of-yellow-mealworm-larvae-rethink-priorities/","tags":["Insects"],"created":"2025-10-23T17:42:46.095+01:00","updated":"2026-09-30T19:55:01.966+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/yellow-mealworm-grinding/","tags":["Insects"],"Year Published":"2025","AI suggested tags":["EU","Crustaceans","Animal_Welfare"]}}
 ---
 
 ## Summary

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/springmann-and-freund-2022/","tags":[null,null,null],"created":"2025-10-23T17:42:45.501+01:00","updated":"2025-10-31T14:43:31.368+00:00"}
+{"dg-publish":true,"permalink":"/citations/springmann-and-freund-2022/","tags":["Environment/GHG","Citation","Economics"],"created":"2025-10-23T17:42:45.501+01:00","updated":"2026-09-30T19:55:02.064+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Environment/GHG","Citation","Economics"],"AI suggested tags":["Economics/Costs","Policy/Food_Policy","Environment/Land"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/quantifying-the-small-body-problem-a-meta-analysis-of-animal-product-reduction-interventions-faunalytics/","created":"2026-01-28T10:39:04.506+00:00","updated":"2026-01-29T05:00:06.729+00:00"}
+{"dg-publish":true,"permalink":"/citations/quantifying-the-small-body-problem-a-meta-analysis-of-animal-product-reduction-interventions-faunalytics/","tags":["Review","Meat/Meat_Reduction","Behaviour_Change","Nudging"],"created":"2026-01-28T10:39:04.506+00:00","updated":"2026-09-30T19:55:01.930+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/quantifying-the-small-body-problem/","tags":["Review","Meat/Meat_Reduction","Behaviour_Change","Nudging"],"Year Published":"2025","AI suggested tags":["Research/Methods","Meat/Meat_Consumption","Citation"]}}
 ---
 
 When people reduce their consumption of large-bodied animals but consume more small-bodied animal products, animal suffering is increased, as more animal lives are impacted. Faunalytics and Bryant Research conducted a meta-analysis of the small body problem to evaluate its prevalence and offer recommendations for advocates.

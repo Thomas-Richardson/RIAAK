@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/ocean-takeover-aktaia-et-al/","created":"2026-02-19T17:40:19.370+00:00","updated":"2026-02-19T17:40:20.501+00:00"}
+{"dg-publish":true,"permalink":"/citations/ocean-takeover-aktaia-et-al/","tags":["Fish/Farmed","Animal_Feed","Food_Security","EU"],"created":"2026-02-19T17:40:19.370+00:00","updated":"2026-09-30T19:55:01.871+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Fish/Farmed","Animal_Feed","Food_Security","EU"],"source_url":"https://foodrise.org.uk/wp-content/uploads/2025/06/FoodRise-MedTakeover-May25-HighRes.pdf","created":"2026-02-19","AI suggested tags":["Fish","Greenwashing","Financial_Activism"]}}
 ---
 
 

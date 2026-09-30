@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/richard-ping-anuj-et-al-2021/","tags":["Citation","Alternative_Proteins","Asia","Consumer_Research","Bryant/Project/Good_Growth_Social_Listening","SE_Asia"],"created":"2025-10-23T17:42:46.898+01:00","updated":"2026-09-30T22:10:52.661+01:00","dg-note-properties":{"tags":["Citation","Alternative_Proteins","Asia","Consumer_Research","Bryant/Project/Good_Growth_Social_Listening","SE_Asia"],"Note Type":"undefined","AI suggested tags":["Lower_Middle_Income_Countries","Consumer_Attitudes","Bryant/Project/Good_Growth_Social_Listening"]}}
+{"dg-publish":true,"permalink":"/citations/richard-ping-anuj-et-al-2021/","tags":["Citation","Alternative_Proteins","Asia","Consumer_Research","Bryant_Research/Project/Good_Growth_Social_Listening","SE_Asia"],"created":"2025-10-23T17:42:46.898+01:00","updated":"2026-09-30T23:02:29.828+01:00","dg-note-properties":{"tags":["Citation","Alternative_Proteins","Asia","Consumer_Research","Bryant_Research/Project/Good_Growth_Social_Listening","SE_Asia"],"Note Type":"undefined","AI suggested tags":["Lower_Middle_Income_Countries","Consumer_Attitudes","Bryant_Research/Project/Good_Growth_Social_Listening"]}}
 ---
 
 - [x] reviewed

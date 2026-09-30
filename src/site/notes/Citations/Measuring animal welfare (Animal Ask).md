@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/measuring-animal-welfare-animal-ask/","created":"2025-10-23T17:42:45.067+01:00","updated":"2025-10-23T17:42:45.069+01:00"}
+{"dg-publish":true,"permalink":"/citations/measuring-animal-welfare-animal-ask/","tags":["Animal_Welfare","Philosophy","Research/Methods"],"created":"2025-10-23T17:42:45.067+01:00","updated":"2026-09-30T19:55:01.827+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.animalask.org/post/measuring-animal-welfare","tags":["Animal_Welfare","Philosophy","Research/Methods"],"Year Published":"2021","AI suggested tags":["Public_Opinion","Strategy","Policy"]}}
 ---
 
 **Executive Summary**

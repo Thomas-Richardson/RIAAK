@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/subsidies-which-reforms-can-help-animals-animal-ask/","tags":["animal_feed"],"created":"2025-10-23T17:42:44.743+01:00","updated":"2025-10-24T09:48:28.662+01:00"}
+{"dg-publish":true,"permalink":"/citations/subsidies-which-reforms-can-help-animals-animal-ask/","tags":["Animal_Feed"],"created":"2025-10-23T17:42:44.743+01:00","updated":"2026-09-30T19:55:02.090+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.animalask.org/post/subsidies-which-reforms-can-help-animals","tags":["Animal_Feed"],"Year Published":2022,"AI suggested tags":["Policy","Strategy","EU"]}}
 ---
 
 To do as much good for animals as we can, it is important to understand the systems that are causing animals to suffer and die - and how to reform those systems to help animals.
@@ -19,3 +19,9 @@ We also recommend that a detailed economic study be conducted on the effects of 
 Lastly, we conclude with some strategic considerations that may help organisations campaign for subsidy reform.
 
 Table 1. The five types of subsidies we consider in this report.
+
+# AI suggested related articles
+
+- [[Citations/Springlea, 2022\|Citations/Springlea, 2022]] (0.92)
+- [[Citations/Reforming Animal Agriculture Subsidies - A Guide for Advocates (Faunalytics)\|Citations/Reforming Animal Agriculture Subsidies - A Guide for Advocates (Faunalytics)]] (0.80)
+- [[Citations/Animal Advocacy in Canada (Animal Ask)\|Citations/Animal Advocacy in Canada (Animal Ask)]] (0.70)

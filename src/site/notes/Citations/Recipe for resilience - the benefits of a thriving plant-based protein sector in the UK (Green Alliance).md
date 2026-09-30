@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/recipe-for-resilience-the-benefits-of-a-thriving-plant-based-protein-sector-in-the-uk-green-alliance/","tags":["alternative_proteins","High_Income_Countries/UK"],"created":"2025-10-23T17:42:45.373+01:00","updated":"2025-12-10T12:59:34.464+00:00"}
+{"dg-publish":true,"permalink":"/citations/recipe-for-resilience-the-benefits-of-a-thriving-plant-based-protein-sector-in-the-uk-green-alliance/","tags":["Alternative_Proteins","High_Income_Countries/UK"],"created":"2025-10-23T17:42:45.373+01:00","updated":"2026-09-30T19:55:01.939+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://green-alliance.org.uk/briefing/recipe-for-resilience-the-benefits-of-a-thriving-plant-based-protein-sector-in-the-uk/","tags":["Alternative_Proteins","High_Income_Countries/UK"],"Year Published":"2025","AI suggested tags":["Food_Security","Policy/Food_Policy","Alternative_Proteins/Plant_Based"]}}
 ---
 
 # Briefing: Plant-Based Meat and the UK Food System

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/meat-consumption-and-production-in-developing-countries-who-bucks-the-trend-an-agenda-for-animal-advocacy-researchers-animal-ask/","created":"2025-10-23T17:42:45.989+01:00","updated":"2025-10-23T17:42:45.989+01:00"}
+{"dg-publish":true,"permalink":"/citations/meat-consumption-and-production-in-developing-countries-who-bucks-the-trend-an-agenda-for-animal-advocacy-researchers-animal-ask/","tags":["Lower_Middle_Income_Countries","Meat/Meat_Consumption","Factory_Farming","Policy"],"created":"2025-10-23T17:42:45.989+01:00","updated":"2026-09-30T19:55:01.831+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.animalask.org/post/meat-consumption-and-production-in-developing-countries-who-bucks-the-trend","tags":["Lower_Middle_Income_Countries","Meat/Meat_Consumption","Factory_Farming","Policy"],"Year Published":"2023","AI suggested tags":["SE_Asia","Asia","EU"]}}
 ---
 
 **Executive Summary**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/sinergia-animal-2023/","tags":["asia","citation","Bryant/Project/good_growth_social_listening"],"created":"2025-10-23T17:42:44.487+01:00","updated":"2025-11-04T12:12:37.131+00:00"}
+{"dg-publish":true,"permalink":"/citations/sinergia-animal-2023/","tags":["Asia","Citation","Bryant_Research/Project/Good_Growth_Social_Listening"],"created":"2025-10-23T17:42:44.487+01:00","updated":"2026-09-30T23:02:29.879+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Asia","Citation","Bryant_Research/Project/Good_Growth_Social_Listening"],"AI suggested tags":["SE_Asia","Bryant_Research/Project/Good_Growth_Social_Listening","Consumer_Attitudes"]}}
 ---
 
 

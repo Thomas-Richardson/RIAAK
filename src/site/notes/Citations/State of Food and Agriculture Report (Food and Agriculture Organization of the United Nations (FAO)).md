@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/state-of-food-and-agriculture-report-food-and-agriculture-organization-of-the-united-nations-fao/","created":"2025-10-23T17:42:46.282+01:00","updated":"2025-10-23T18:12:10.241+01:00"}
+{"dg-publish":true,"permalink":"/citations/state-of-food-and-agriculture-report-food-and-agriculture-organization-of-the-united-nations-fao/","tags":["Economics/Costs","Environment","Health/Nutrition","Policy/Food_Policy"],"created":"2025-10-23T17:42:46.282+01:00","updated":"2026-09-30T19:55:02.075+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://openknowledge.fao.org/server/api/core/bitstreams/5aac5078-625d-4b94-b964-bea40493016c/content","tags":["Economics/Costs","Environment","Health/Nutrition","Policy/Food_Policy"],"Year Published":"2023","AI suggested tags":["Economics","Food_Security","Health"]}}
 ---
 
 taken from a vegconomist article because the actual pdf doesn't work with my clipper

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/sinke-et-al-2023/","tags":[null,null,null,null,null,null,null],"created":"2025-10-23T17:42:46.519+01:00","updated":"2025-10-30T23:44:54.217+00:00"}
+{"dg-publish":true,"permalink":"/citations/sinke-et-al-2023/","tags":["Environment/GHG","Citation","Alternative_Proteins/Cultivated_Meat","Environment/Land"],"created":"2025-10-23T17:42:46.519+01:00","updated":"2026-09-30T23:02:29.881+01:00","dg-note-properties":{"tags":["Environment/GHG","Citation","Alternative_Proteins/Cultivated_Meat","Environment/Land"],"AI suggested tags":["Environment","Cows","Meat"]}}
 ---
 
 
@@ -28,3 +28,9 @@ This comparative attributional ex-ante LCA used the ReCiPe Midpoint impact asses
 ### Recommendations
 
 CM producers should optimize energy efficiency and source additional renewable energy, leverage supply chain collaborations to ensure sustainable feedstocks, and search for the environmental optimum of culture medium through combining low-impact ingredients and high-performance medium formulation. Governments should consider this emerging industry’s increased renewable energy demand and the sustainability potential of freed-up agricultural land. Consumers should consider CM not as an extra option on the menu, but as a substitute to higher-impact products.
+
+# AI suggested related articles
+
+- [[Citations/Sinke et al., 2024\|Citations/Sinke et al., 2024]] (0.82)
+- [[Cultivated meat MOC\|Cultivated meat MOC]] (0.72)
+- [[Alternative proteins are better for the environment\|Alternative proteins are better for the environment]] (0.71)

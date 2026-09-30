@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/rouhani-et-al-2014/","tags":[null,null,null,null,null,null],"created":"2025-10-23T17:42:44.888+01:00","updated":"2025-10-30T23:44:54.025+00:00"}
+{"dg-publish":true,"permalink":"/citations/rouhani-et-al-2014/","tags":["Citation","Health/Nutrition","Meat"],"created":"2025-10-23T17:42:44.888+01:00","updated":"2026-09-30T22:10:52.666+01:00","dg-note-properties":{"tags":["Citation","Health/Nutrition","Meat"],"AI suggested tags":["Meat/Red_Meat","Diet","Nuts"]}}
 ---
 
 
@@ -15,3 +15,9 @@ The meta-analysis (_n_ = 113,477) showed that <mark style="background: #FFF3
 
 ## Notes
 The effect sizes from this study compare highest to lowest groups of red meat eaters. This is different to most meta analyses that typically report the effect per 50g eaten.highest to lowest consumption changes from study to study so it's unclear what's actually being compared here. This study basically only tells us the difference in risk between people who vaguely "eat a lot of meat" vs people who don't!
+
+# AI suggested related articles
+
+- [[Citations/Schlesinger et al., 2019\|Citations/Schlesinger et al., 2019]] (0.76)
+- [[Citations/Wang et al., 2016\|Citations/Wang et al., 2016]] (0.72)
+- [[Citations/Vergnaud et al., 2010\|Citations/Vergnaud et al., 2010]] (0.70)

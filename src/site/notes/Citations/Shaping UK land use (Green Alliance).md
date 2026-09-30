@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/shaping-uk-land-use-green-alliance/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:45.322+01:00","updated":"2025-10-30T23:44:54.081+00:00"}
+{"dg-publish":true,"permalink":"/citations/shaping-uk-land-use-green-alliance/","tags":["Alternative_Proteins","Citation","Environment/Land","Farming","Wild_Animals"],"created":"2025-10-23T17:42:45.322+01:00","updated":"2026-09-30T23:02:29.872+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Alternative_Proteins","Citation","Environment/Land","Farming","Wild_Animals"],"AI suggested tags":["Animal_Feed","UK","Bryant_Research/Project/CAWF_Food_Sec"]}}
 ---
 
 

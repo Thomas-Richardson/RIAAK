@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/research-and-data-as-tools-in-advocates-decision-making-a-focus-on-china-and-southeast-asia-faunalytics/","created":"2026-01-28T10:52:59.627+00:00","updated":"2026-01-29T05:00:06.453+00:00"}
+{"dg-publish":true,"permalink":"/citations/research-and-data-as-tools-in-advocates-decision-making-a-focus-on-china-and-southeast-asia-faunalytics/","tags":["China","SE_Asia","Research/Methods","Movement_Strategy"],"created":"2026-01-28T10:52:59.627+00:00","updated":"2026-09-30T19:55:01.955+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/research-and-data-as-tools-china-and-southeast-asia/","tags":["China","SE_Asia","Research/Methods","Movement_Strategy"],"Year Published":"2024","AI suggested tags":["Public_Opinion","Asia","Consumer_Attitudes"]}}
 ---
 
 This Faunalytics study uncovers both internal and external applications of research, examines why advocates do or don't incorporate research into their work, and presents a roadmap for enhancing research engagement across China, Southeast Asia, and beyond.

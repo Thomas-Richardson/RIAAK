@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/strategy-report-reducing-biodiversity-loss-giving-green/","created":"2026-03-06T17:51:50.023+00:00","updated":"2026-03-06T17:51:50.023+00:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":null,"source_url":"https://cdn.prod.website-files.com/686d65ad3e40d1dc7eb801b4/699c8dfc3568fb1d47356ef0_Strategy%20Report_%20Reducing%20Biodiversity%20Loss%20(2026).pdf","created":"2026-03-06"}}
+{"dg-publish":true,"permalink":"/citations/strategy-report-reducing-biodiversity-loss-giving-green/","tags":["Biodiversity","Strategy","Alternative_Proteins","Fish"],"created":"2026-03-06T17:51:50.023+00:00","updated":"2026-09-30T19:55:02.088+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Biodiversity","Strategy","Alternative_Proteins","Fish"],"source_url":"https://cdn.prod.website-files.com/686d65ad3e40d1dc7eb801b4/699c8dfc3568fb1d47356ef0_Strategy%20Report_%20Reducing%20Biodiversity%20Loss%20(2026).pdf","created":"2026-03-06","AI suggested tags":["Financial_Activism","Meat/Meat_Reduction","Fish/Farmed"]}}
 ---
 
 

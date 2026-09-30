@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/springmann-et-al-2018/","tags":[null,null,null,null,null],"created":"2025-10-23T17:42:46.762+01:00","updated":"2025-10-31T14:43:31.406+00:00"}
+{"dg-publish":true,"permalink":"/citations/springmann-et-al-2018/","tags":["Citation","Economics","Health/Nutrition","Meat"],"created":"2025-10-23T17:42:46.762+01:00","updated":"2026-09-30T22:17:46.514+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Citation","Economics","Health/Nutrition","Meat"],"AI suggested tags":["Economics/Costs","Nuts","Meat/Red_Meat"]}}
 ---
 
 
@@ -33,3 +33,9 @@ We estimated an economic burden associated with red and processed meat consumpti
 for total cancer (instead of colorectal cancer only) and cardiovascular disease (instead of CHD and stroke only) would roughly double the health and economic burden
 
 In order to account for the health costs attributable to red and processed meat by adjusting prices, red meat prices would have to increase by more than 20% in high-income countries, and processed meat prices would have to more than double for those countries. Price changes in upper middle-income countries would amount to 7% and 47% for red meat and processed meat, respectively. 
+
+# AI suggested related articles
+
+- [[Citations/The cost of red and processed meat (Zero Carbon Analytics)\|Citations/The cost of red and processed meat (Zero Carbon Analytics)]] (0.72)
+- [[Protein Transition CRA/The 30 Percent Solution - policy brief\|Protein Transition CRA/The 30 Percent Solution - policy brief]] (0.71)
+- [[Citations/aston et al., 2022\|Citations/aston et al., 2022]] (0.71)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/reynolds-et-al-2023/","created":"2025-11-19T20:39:37.223+00:00","updated":"2025-11-19T20:39:37.480+00:00"}
+{"dg-publish":true,"permalink":"/citations/reynolds-et-al-2023/","tags":["Health/Nutrition","Environment/GHG","Economics/Costs","Meat/Red_Meat","Review"],"created":"2025-11-19T20:39:37.223+00:00","updated":"2026-09-30T19:55:01.978+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(22)00503-X/fulltext","tags":["Health/Nutrition","Environment/GHG","Economics/Costs","Meat/Red_Meat","Review"],"Year Published":"2023","AI suggested tags":["Meat","Meat/Meat_Reduction","Health"]}}
 ---
 
 ## Summary

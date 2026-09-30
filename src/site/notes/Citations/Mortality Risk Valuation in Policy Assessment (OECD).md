@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/mortality-risk-valuation-in-policy-assessment-oecd/","created":"2025-11-24T21:17:21.644+00:00","updated":"2026-02-24T13:59:23.266+00:00"}
+{"dg-publish":true,"permalink":"/citations/mortality-risk-valuation-in-policy-assessment-oecd/","tags":["Economics","Policy","Health","Review"],"created":"2025-11-24T21:17:21.644+00:00","updated":"2026-09-30T19:55:01.852+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Economics","Policy","Health","Review"],"source_url":"https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/10/mortality-risk-valuation-in-policy-assessment_733b9d66/76ca89a2-en.pdf","created":"2025-11-24","AI suggested tags":["BOTEC","Research","Research/Methods"]}}
 ---
 
 - [[Calculating health costs two ways\|Calculating health costs two ways]] 

@@ -1,5 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/citations/non-stun-slaughter-animal-ask/","created":"2025-10-23T17:42:46.577+01:00","updated":"2025-10-23T17:42:46.577+01:00"}
+{"dg-publish":true,"permalink":"/citations/non-stun-slaughter-animal-ask/","tags":["High_Income_Countries/UK","Animal_Welfare","Law","Chickens"],"created":"2025-10-23T17:42:46.577+01:00","updated":"2026-09-30T19:55:01.866+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.animalask.org/post/non-stun-slaughter","tags":["High_Income_Countries/UK","Animal_Welfare","Law","Chickens"],"Year Published":"2021","AI suggested tags":["Fish","Factory_Farming","UK"]}}
 ---
 
 Summary: In the UK, there is a legal requirement to stun animals before slaughter. Stunning, which can involve delivering an electrical current or percussive blow to the brain, ensures that the animal is rendered unconscious before they are killed. However, there is an exemption to the law for animals that are slaughtered in accordance with religious rites to be consumed by UK Jewish and Muslim communities.1 Each year approximately 108 million animals are slaughtered without pre-stunning in the UK using this provision. The vast majority of these animals are killed for halal-certified meat and the rest for kosher-certified meat. The majority of non-stunned animals are broiler chickens (~104 million) though many sheep, layer hens, turkey, goats, cattle, calves, and other poultry are also slaughtered without stunning.2 These exemptions are intended to meet the demand of faith communities. However, the production of non-stun meat exceeds demand from these communities, resulting in the unnecessary slaughter of millions of animals using these methods.
+
+# AI suggested related articles
+
+- [[Citations/Fish Welfare in UK Wild Caught Fisheries (Animal Ask)\|Citations/Fish Welfare in UK Wild Caught Fisheries (Animal Ask)]] (0.58)
+- [[Citations/Review- Electrical Stunning Does Not Yet Ensure Prolonged Insensibility In Several European Finfish Species (Rethink Priorities)\|Citations/Review- Electrical Stunning Does Not Yet Ensure Prolonged Insensibility In Several European Finfish Species (Rethink Priorities)]] (0.56)
+- [[Citations/Pre-Slaughter Stunning Phase 2 - Foundational Research Reports and Next Steps (Fish Welfare Initiative)\|Citations/Pre-Slaughter Stunning Phase 2 - Foundational Research Reports and Next Steps (Fish Welfare Initiative)]] (0.54)

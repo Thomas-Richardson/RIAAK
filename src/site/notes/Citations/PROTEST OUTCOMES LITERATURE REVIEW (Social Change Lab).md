@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/protest-outcomes-literature-review-social-change-lab/","created":"2025-11-25T14:57:49.077+00:00","updated":"2025-11-25T14:57:49.077+00:00"}
+{"dg-publish":true,"permalink":"/citations/protest-outcomes-literature-review-social-change-lab/","tags":["Protest","Review","Public_Opinion","Policy"],"created":"2025-11-25T14:57:49.077+00:00","updated":"2026-09-30T19:55:01.876+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Protest","Review","Public_Opinion","Policy"],"source_url":"https://www.socialchangelab.org/_files/ugd/503ba4_ac04a2efe7e54e9aabd1b291d34fe87c.pdf?index=true","created":"2025-11-25","AI suggested tags":["Research/Methods","Behaviour_Change","Meat/Meat_Reduction"]}}
 ---
 
 

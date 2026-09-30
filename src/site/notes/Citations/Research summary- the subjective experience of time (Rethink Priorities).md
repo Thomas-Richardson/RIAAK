@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/research-summary-the-subjective-experience-of-time-rethink-priorities/","tags":["wild_animals - \"sentience\""],"created":"2025-10-23T17:42:44.705+01:00","updated":"2025-10-23T19:20:34.062+01:00"}
+{"dg-publish":true,"permalink":"/citations/research-summary-the-subjective-experience-of-time-rethink-priorities/","tags":["Wild_Animals","Sentience"],"created":"2025-10-23T17:42:44.705+01:00","updated":"2026-09-30T19:55:01.968+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/research-summary-the-subjective-experience-of-time/","tags":["Wild_Animals","Sentience"],"Year Published":"2020","AI suggested tags":["Research/Methods","Insects","Animal_Welfare"]}}
 ---
 
 _Considering differences in the subjective experience of time may affect the proportion of resources we wish to allocate to different species. I’ve recently written two pieces on the subject, [here](https://forum.effectivealtruism.org/posts/qEsDhFL8mQARFw6Fj/the-subjective-experience-of-time-welfare-implications) and [here](https://forum.effectivealtruism.org/posts/DAKivjBpvQhHYGqBH/does-critical-flicker-fusion-frequency-track-the-subjective). Counting somewhat conservatively, the two posts total more than 23,000 words. In this (much shorter) post I attempt to succinctly introduce the topic and convey my main conclusions. The aim is to create a digestible overview of my current thinking that imposes a smaller time burden on readers._
@@ -31,3 +31,9 @@ By reading the two posts in full, you’ll learn why I believe:
 - There’s a ~40% chance that differences in critical flicker-fusion frequency roughly track differences in the subjective experience of time for animals that inhabit relatively bright environments, rely heavily on vision to interact with the world, and exhibit high behavioral plasticity
 
 This area of research is admittedly quite speculative. I spoke to several experts who suggested that making concrete progress on this topic, while not impossible, would be difficult. On the other hand, this area of research is also quite neglected. Although there is a rich literature in adjacent subjects, there have only been a handful of scientific studies that attempt to directly probe differences in the subjective experience of time in humans, and none attempted to extend the investigation to nonhuman animals. By bringing together disparate threads from related fields, we may be able to encourage interdisciplinary research that begins to unravel the mystery of temporal experience.
+
+# AI suggested related articles
+
+- [[Citations/The subjective experience of time - welfare implications (Rethink Priorities)\|Citations/The subjective experience of time - welfare implications (Rethink Priorities)]] (0.90)
+- [[Citations/Research summary - the intensity of valenced experience across species (Rethink Priorities)\|Citations/Research summary - the intensity of valenced experience across species (Rethink Priorities)]] (0.79)
+- [[Citations/Differences in the intensity of valenced experience across species (Rethink Priorities)\|Citations/Differences in the intensity of valenced experience across species (Rethink Priorities)]] (0.76)

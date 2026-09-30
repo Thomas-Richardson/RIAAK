@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/shepon-eshel-noor-and-milo-2018/","tags":[null,null,null,null],"created":"2025-10-23T17:42:45.424+01:00","updated":"2026-01-12T19:51:18.057+00:00"}
+{"dg-publish":true,"permalink":"/citations/shepon-eshel-noor-and-milo-2018/","tags":["Citation","Farming","Health/Nutrition","MFA_Food_Sec"],"created":"2025-10-23T17:42:45.424+01:00","updated":"2026-09-30T23:02:29.874+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Citation","Farming","Health/Nutrition","MFA_Food_Sec"],"AI suggested tags":["Environment/Land","Environment","Environment/GHG"]}}
 ---
 
 - Says more or less the same thing as [[Citations/Berners-Lee, Watson and Hewitt 2018\|Berners-Lee, Watson and Hewitt 2018]]
@@ -17,3 +17,9 @@ Basically reducing meat is more important than curbing food loss
 - We find that although the characteristic conventional retail-to-consumer food losses are ≈30% for plant and animal products, <mark style="background: #FFF3A3A6;">the opportunity food losses of beef, pork, dairy, poultry, and eggs are 96%, 90%, 75%, 50%, and 40%, respectively</mark>. 
 - This arises because plant-based replacement diets can produce 20-fold and twofold more nutritionally similar food per cropland than beef and eggs, the most and least resource-intensive animal categories, respectively. 
 - Although conventional and opportunity food losses are both targets for improvement, the high opportunity food losses highlight the large potential savings beyond conventionally defined food losses. Concurrently replacing all animal-based items in the US diet with plant-based alternatives will add enough food to feed, in full, 350 million additional people, well above the expected benefits of eliminating all supply chain food waste. These results highlight the importance of dietary shifts to improving food availability and security.
+
+# AI suggested related articles
+
+- [[Citations/Berners-Lee, Watson and Hewitt 2018\|Citations/Berners-Lee, Watson and Hewitt 2018]] (0.78)
+- [[Citations/Kozicka et al., 2023\|Citations/Kozicka et al., 2023]] (0.72)
+- [[Citations/Poore and Nemecek 2018\|Citations/Poore and Nemecek 2018]] (0.71)

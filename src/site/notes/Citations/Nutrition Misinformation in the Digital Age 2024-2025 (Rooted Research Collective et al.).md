@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/nutrition-misinformation-in-the-digital-age-2024-2025-rooted-research-collective-et-al/","created":"2025-10-23T17:42:44.845+01:00","updated":"2025-10-23T17:42:44.846+01:00"}
+{"dg-publish":true,"permalink":"/citations/nutrition-misinformation-in-the-digital-age-2024-2025-rooted-research-collective-et-al/","tags":["Health/Nutrition","Narratives","Messaging","Psychology"],"created":"2025-10-23T17:42:44.845+01:00","updated":"2026-09-30T19:55:01.867+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Health/Nutrition","Narratives","Messaging","Psychology"],"source_url":"https://rootedresearch.co/wp-content/uploads/2025/05/Nutrition-misinformation-in-the-digital-age-Report.pdf","created":"2025-10-22","AI suggested tags":["Review","Consumer_Research","Meat/Meat_Reduction"]}}
 ---
 
 

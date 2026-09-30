@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/salmon-on-soy-beans-deforestation-and-land-conflict-in-brazil-rainforest-foundation-norway-et-al/","created":"2026-02-03T21:29:28.050+00:00","updated":"2026-02-04T05:17:18.733+00:00"}
+{"dg-publish":true,"permalink":"/citations/salmon-on-soy-beans-deforestation-and-land-conflict-in-brazil-rainforest-foundation-norway-et-al/","tags":["Animal_Feed","Fish/Farmed","Environment/Land","Working_Conditions"],"created":"2026-02-03T21:29:28.050+00:00","updated":"2026-09-30T19:55:02.003+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Animal_Feed","Fish/Farmed","Environment/Land","Working_Conditions"],"source_url":"https://www.framtiden.no/filer/dokumenter/Rapporter/2018/2018-salmon-on-soy-beans-deforestation-and-land-conflict-in-brazil.pdf","created":"2026-02-03","AI suggested tags":["Food_Security","Greenwashing","Fish"]}}
 ---
 
 

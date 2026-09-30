@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/soil-association-2024/","tags":["citation","Environment/Pollution"],"created":"2025-10-23T17:42:44.855+01:00","updated":"2025-11-04T13:50:34.649+00:00"}
+{"dg-publish":true,"permalink":"/citations/soil-association-2024/","tags":["Citation","Environment/Pollution"],"created":"2025-10-23T17:42:44.855+01:00","updated":"2026-09-30T23:02:29.888+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Citation","Environment/Pollution"],"AI suggested tags":["Environment","Animal_Feed","Farming"]}}
 ---
 
 
@@ -19,3 +19,10 @@ https://www.soilassociation.org/media/27139/stop-killing-our-rivers.pdf
 
 
 
+
+
+# AI suggested related articles
+
+- [[Citations/WAP, Alliance to save our antibiotics and The BIJ, 2022\|Citations/WAP, Alliance to save our antibiotics and The BIJ, 2022]] (0.70)
+- [[ProVeg EU Env calcs\|ProVeg EU Env calcs]] (0.65)
+- [[Citations/Sustain, 2024\|Citations/Sustain, 2024]] (0.64)

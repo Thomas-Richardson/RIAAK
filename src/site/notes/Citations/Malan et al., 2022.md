@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/malan-et-al-2022/","tags":[null,null,null,null,null,null,null],"created":"2025-10-23T17:42:45.205+01:00","updated":"2025-10-30T23:44:54.061+00:00"}
+{"dg-publish":true,"permalink":"/citations/malan-et-al-2022/","tags":["Alternative_Proteins","Behaviour_Change","Citation"],"created":"2025-10-23T17:42:45.205+01:00","updated":"2026-09-30T22:17:46.503+01:00","dg-note-properties":{"tags":["Alternative_Proteins","Behaviour_Change","Citation"],"AI suggested tags":["Consumer_Research","Meat/Meat_Reduction","Alternative_Proteins/Plant_Based"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/saldivar-et-al-2022/","tags":[null,null,null,null,null,null,null],"created":"2025-10-23T17:42:45.059+01:00","updated":"2025-11-04T12:17:45.783+00:00"}
+{"dg-publish":true,"permalink":"/citations/saldivar-et-al-2022/","tags":["Case_Study","Citation","Health/Nutrition","Veganism"],"created":"2025-10-23T17:42:45.059+01:00","updated":"2026-09-30T23:02:29.841+01:00","dg-note-properties":{"tags":["Case_Study","Citation","Health/Nutrition","Veganism"],"AI suggested tags":["Institutional_Change","Alternative_Proteins/Plant_Based","Economics/Costs"]}}
 ---
 
 
@@ -41,7 +41,7 @@ All medical staff are also advocates leading the charge which helps. Nursing sta
 patients receive educational materials about the role of diet and lifestyle choices and their impact on chronic illnesses. They are encouraged to watch documentaries on healthier eating on their inpatient televisions. 
 
 ## Ideas
-- A few plant based meals won't improve health, but if it introduces patients to good pb food then it could spillover into dietary change at home. I wonder if this has been measured? #Bryant/Project/Idea
+- A few plant based meals won't improve health, but if it introduces patients to good pb food then it could spillover into dietary change at home. I wonder if this has been measured? #Bryant_Research/Project/Idea
 
 ## Example menu
 ![u_o_florida_pb_hospital menu.jpg](/img/user/u_o_florida_pb_hospital%20menu.jpg)
@@ -50,3 +50,9 @@ patients receive educational materials about the role of diet and lifestyle choi
 taken from review in [[Citations/Aggarwal et al., 2020\|Aggarwal et al., 2020]]
 
 "An outpatient prevention cardiology program where patients come into the clinic for an intensive assessment of their diet and lifestyle. During 1-hour-long visits, patients meet with a preventative cardiologist and discuss motivations for behavior. Physician educators work with the patients to create a detailed eating plan and grocery list, and educate patients on the importance of eating more plant-based foods. Over a series of visits, the prevention program adds in graded exercises, stress management, yoga, and meditation. The program has been hugely successful, with significant changes noted by patients in anginal scores, medication requirements, reductions in lipids, and hemoglobin A1c. These changes are being evaluated formally in a retrospective analysis."
+
+# AI suggested related articles
+
+- [[Plant-based hospitals\|Plant-based hospitals]] (0.74)
+- [[Citations/Aggarwal et al., 2020\|Citations/Aggarwal et al., 2020]] (0.71)
+- [[Citations/van Bree et al., 2026\|Citations/van Bree et al., 2026]] (0.66)

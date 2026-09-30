@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/animal-law-podcast-98-the-animal-law-firm/","tags":["Law","Companion_Animals","High_Income_Countries/USA","Economics/Jobs"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:03.097+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/alp98/","tags":["Law","Companion_Animals","High_Income_Countries/USA","Economics/Jobs"],"Year Published":"2023","AI suggested tags":["Activism","Animal_Ethics","Working_Conditions"]}}
+---
+
+On this episode, we have something a bit different. I will be talking with Kristina Bergsten, the owner and founder of The Animal Law Firm, a Colorado law firm with a multi-state practice. For those of you who are graduating from Law School or just looking to change your career and wondering whether you can make a living doing animal law, Kristina is here to tell you the answer is a resounding yes. Her firm specializes primarily in companion animal issues which, of course, are important and often underserved in and of themselves but also, in Kristina’s eyes, are part of the process of waking people, and the legal system, up to the idea that animals matter and the people who care about them matter too. This was a fascinating conversation and I’m sure it will be inspiring to many of you.
+
+“Kristina Bergsten is the owner and founder of The Animal Law Firm. She started practicing animal law in Philadelphia, Pennsylvania before moving to Colorado to be close to mountains and, of course, lots of animals! As a vegan, her passion for animal rights extends to every area of her life. Her current pet projects (pun intended) consist of writing, directing, and producing her podcast, titled “Fighting for the Underdog,” founding a charitable foundation to help human and animal welfare organizations, writing novels, and spending lots of time with her furry children, Maggie and Sophie.
+
+Kristina is a 2018 COBALT Class graduate, a Board Member of Colorado Voters for Animals and the Denver Indian Family Welfare Center, an active member of the Colorado and Denver Bar Associations, a member of the Colorado Trial Lawyers Association, and a nationally and internationally recognized animal advocate.”
+
+🎧 [Listen to this episode](https://www.ourhenhouse.org/alp98/) — *The Animal Law Podcast*, 26 July 2023

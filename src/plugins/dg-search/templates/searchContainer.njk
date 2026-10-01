@@ -1,3 +1,42 @@
+{% if settings.dgEnableSearch === true %}
+<div class="search-container" id="globalsearch" onclick="toggleSearch()">
+    <div class="search-box" onclick="event.stopPropagation()">
+        <div class="search-header">
+            <input type="search" id="term" placeholder="{{ meta.uiStrings.searchPlaceholder }}">
+        </div>
+
+        <div class="search-layout no-preview" id="search-layout">
+            <!-- Left panel: Results list -->
+            <div class="search-results-panel" id="search-results">
+                <!-- Default text -->
+                <span><i>{{ meta.uiStrings.searchNotStarted }}</i></span>
+            </div>
+
+            <!-- Right panel: Content preview (hidden until search starts) -->
+            <div class="search-preview-panel" id="search-preview">
+                <div class="preview-placeholder">
+                    <i data-lucide="file-text"></i>
+                    <p>{{ meta.uiStrings.searchPreviewPlaceholder | default("Select a result to preview") }}</p>
+                </div>
+                <div class="preview-content" id="preview-content"></div>
+            </div>
+        </div>
+
+        <footer class="search-box-footer">
+            <div class="navigation-hint">
+                <span><code>{{ meta.uiStrings.searchEnterHotkey }}</code>&nbsp;{{ meta.uiStrings.searchEnterHint }}</span>
+            </div>
+
+            <div class="navigation-hint">
+                <span><code>{{ meta.uiStrings.searchNavigateHotkey }}</code>&nbsp;{{ meta.uiStrings.searchNavigateHint }}</span>
+            </div>
+
+            <div class="navigation-hint">
+                <span><code>{{ meta.uiStrings.searchCloseHotkey }}</code>&nbsp;{{ meta.uiStrings.searchCloseHint }}</span>
+            </div>
+        </footer>
+    </div>
+</div>
 <script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js"></script>
 <script>
     document.addEventListener('DOMContentLoaded', init, false);
@@ -63,7 +102,7 @@
 
     function setCorrectShortcut() {
         if (navigator.platform.toUpperCase().indexOf('MAC') >= 0) {
-            document.querySelectorAll(".search-keys").forEach(x => x.innerHTML = "⌘K");
+            document.querySelectorAll(".search-keys").forEach(x => x.innerHTML = "<code>⌘</code>&nbsp;+&nbsp;<code>K</code>");
         }
     }
 
@@ -244,7 +283,19 @@
     // ===== FlexSearch Index =====
 
     function createIndex(posts) {
-        const encoder = (str) => str.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/);
+        const normalizeForSearch = (str) => str
+            .toLowerCase()
+            // á -> a +  ́
+            .normalize("NFD")
+            // n~ -> ñ
+            .replace(/n\u0303/g, "ñ")
+            // áéíóúü -> aeiouu
+            .replace(/[\u0300-\u036f]/g, "")
+            // Recompose Unicode
+            .normalize("NFC");
+
+        const encoder = (str) => normalizeForSearch(str)
+            .split(/([^a-z]|[^\x00-\x7F])/);
         const contentIndex = new FlexSearch.Document({
             cache: true,
             charset: "latin:extra",
@@ -269,11 +320,6 @@
         const index = createIndex(docs);
         window.docs = docs;
         window.index = index;
-
-        // Map url -> doc so semantic (Pinecone) results can be enriched with
-        // the offline index's title, tags and full content for rendering/preview.
-        window.docsByUrl = {};
-        docs.forEach((d) => { if (d && d.url) window.docsByUrl[d.url] = d; });
 
         // Keyboard shortcuts
         document.addEventListener('keydown', (e) => {
@@ -357,19 +403,17 @@
     window.searchResults = [];
     window.searchTerms = [];
     window.currentPreviewIndex = -1;
-    window.searchSeq = 0;
 
     async function search() {
         const searchQuery = field.value.trim();
         const searchLayout = document.getElementById('search-layout');
 
         if (!searchQuery) {
-            resultsDiv.innerHTML = '';
+            resultsDiv.innerHTML = `<span><i>{{ meta.uiStrings.searchNotStarted }}</i></span>`;
             hidePreview();
             if (searchLayout) searchLayout.classList.add('no-preview');
             return;
         }
-        if (searchQuery === lastSearch) return;
 
         window.lastSearch = searchQuery;
         window.searchTerms = tokenizeSearchTerms(searchQuery);
@@ -377,26 +421,7 @@
         resultsDiv.innerHTML = loadingSvg;
         hidePreview();
 
-        const seq = ++window.searchSeq;
-
-        // Tag searches (#tag) stay on the offline index — embeddings don't help
-        // for exact tag lookups. Everything else goes to semantic search, with a
-        // graceful fallback to offline keyword search if the API is unreachable.
-        let results;
-        if (searchQuery[0] === "#") {
-            results = offlineSearch(searchQuery);
-        } else {
-            try {
-                results = await semanticSearch(searchQuery);
-            } catch (err) {
-                console.error('Semantic search failed, falling back to offline:', err);
-                results = offlineSearch(searchQuery);
-            }
-        }
-
-        // A newer keystroke already fired; drop this now-stale response.
-        if (seq !== window.searchSeq) return;
-
+        const results = offlineSearch(searchQuery);
         window.searchResults = results;
 
         if (!results.length) {
@@ -419,7 +444,7 @@
 
         let resultsHTML = '';
         results.forEach((r, index) => {
-            const excerpt = getContextualExcerpt(r.snippet || r.content, window.searchTerms, 120);
+            const excerpt = getContextualExcerpt(r.content, window.searchTerms, 120);
             const highlightedExcerpt = highlightTerms(excerpt, window.searchTerms);
             const highlightedTitle = highlightTerms(r.title, window.searchTerms);
 
@@ -455,63 +480,6 @@
 
     window.search = search;
 
-    // ===== Semantic Search (Pinecone API) =====
-
-    // Drop structural / empty tags so they don't render as "#note", "#null" chips.
-    function cleanTags(tags) {
-        if (!Array.isArray(tags)) return [];
-        return tags.filter((t) => {
-            if (t === null || t === undefined) return false;
-            const s = String(t).trim().toLowerCase();
-            return s !== "" && s !== "null" && s !== "note" && s !== "gardenentry";
-        });
-    }
-
-    function titleFromFilePath(filePath) {
-        if (!filePath) return '';
-        const base = filePath.split('/').pop() || filePath;
-        return base.replace(/\.md$/i, '');
-    }
-
-    async function semanticSearch(searchQuery) {
-        // compact=1 trims each snippet server-side (the UI only renders a short
-        // excerpt and enriches previews from the offline index anyway).
-        const response = await fetch('/api/search?q=' + encodeURIComponent(searchQuery) + '&compact=1&top_k=10', {
-            headers: { 'X-Api-Key': 'riaak_0a5b497c3423538c06c6fb5c123a1ec4126c2b9e' },
-        });
-        if (!response.ok) throw new Error('Search API returned ' + response.status);
-        const data = await response.json();
-        if (data.error) throw new Error(data.error);
-
-        const byUrl = window.docsByUrl || {};
-        const seen = new Set();
-        const results = [];
-
-        // Results arrive sorted by score; a note can appear as several header
-        // chunks, so keep only the first (highest-scoring) occurrence per url.
-        (data.results || []).forEach((m) => {
-            const url = m.url;
-            if (!url || seen.has(url)) return;
-            seen.add(url);
-
-            const doc = byUrl[url];
-            const rawTags = (doc && Array.isArray(doc.tags)) ? doc.tags
-                : (Array.isArray(m.tags) ? m.tags : []);
-            const tags = cleanTags(rawTags);
-
-            results.push({
-                title: (doc && doc.title) || titleFromFilePath(m.file_path),
-                url: url,
-                tags: tags,
-                content: (doc && doc.content) || m.text || '',
-                snippet: m.text || (doc && doc.content) || '',
-                score: m.score
-            });
-        });
-
-        return results;
-    }
-
     // ===== Offline Search =====
 
     function offlineSearch(searchQuery) {
@@ -540,10 +508,22 @@
         const dataIds = [...allIds];
         const finalResults = dataIds.map((id) => {
             const result = { ...data[id] };
-            result.tags = cleanTags(result.tags);
+            result.tags = result.tags.filter((x) => x !== "gardenEntry" && x !== "note");
             return result;
         });
 
         return finalResults;
     }
+
+    // Tags rendered by the core (note content, header tags, canvas nodes)
+    // carry no inline handler — one delegated listener opens a tag search
+    // for any of them. Tags inside the search UI keep their own handlers.
+    document.addEventListener('click', function (e) {
+        const tagEl = e.target.closest('a.tag');
+        if (!tagEl || tagEl.closest('#globalsearch')) return;
+        const href = tagEl.getAttribute('href');
+        if (href && href !== 'javascript:void(0);') return;
+        window.toggleTagSearch(tagEl);
+    });
 </script>
+{% endif %}

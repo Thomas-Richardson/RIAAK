@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/riaak-home-page/","tags":["gardenEntry"],"created":"2025-10-23T17:42:41.615+01:00","updated":"2026-10-01T06:57:10.552+01:00","dg-note-properties":{"tags":null,"Note Type":"RIAAK Admin","AI suggested tags":["Research","Research/Methods","External_Resource"]}}
+{"dg-publish":true,"permalink":"/riaak-home-page/","tags":["gardenEntry"],"created":"2025-10-23T17:42:41.615+01:00","updated":"2026-10-01T12:16:02.819+01:00","dg-note-properties":{"tags":null,"Note Type":"RIAAK Admin","AI suggested tags":["Research","Research/Methods","External_Resource"]}}
 ---
 
 This is the homepage for Richie's Impactful Animal Advocacy Knowledge-base, aka RIAAK!
@@ -36,16 +36,15 @@ Here I publish my notes on Animal Advocacy that I use in my role as the Director
 
 ---
 # How to use RIAAK
-There are 8 ways you can navigate RIAAK:
+There are 7 ways you can navigate RIAAK:
 
-1. Type keywords into the left search bar
+1. Type keywords into the search bar at the top of the page
 2. Use "semantic search"
 3. Use Links
 4. Use Local Graphs
 5. Use the Global Graph
 6. Use Tags
-7. Use Folders
-8. [[Search RIAAK with your AI assistant\|Ask your AI assistant to search it for you]]
+7. [[Search RIAAK with your AI assistant\|Ask your AI assistant to search it for you]]
 ## The keyword search bar
 - The search bar only does exact word search, so if you search "alternative proteins healthier" it probably won't surface an article called "vegan meat is good for you".
 - I'd advise just putting in a bunch of keywords you're interested in and see what it turns up
@@ -81,9 +80,6 @@ Whenever you see
 - Tags are a great way of diving into a high level topic
 - If you have suggestions for tags that you expected to find or would find useful, let me know!
 - [[RIAAK FAQ#Why don't you use folders like a normal person?\|An explainer of why I use tags rather than folders to organise this site]]
-
-## Folders
-On the left side, you will also see the main folders and all the files inside them. Not a great way to search for a file, but might be useful.
 
 ## Ask your AI assistant
 - You can get your own AI assistant (Claude, Codex, Gemini or GitHub Copilot) to search RIAAK for you. It answers using only what's in RIAAK, with a link to every source.

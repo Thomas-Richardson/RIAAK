@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/eshel-et-al-2025/","tags":["Cattle/Grass_Fed_Cattle","Environment/GHG","Meat/Beef","High_Income_Countries/USA"],"created":"2026-01-12T19:51:09.762+00:00","updated":"2026-09-30T23:02:29.467+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.pnas.org/doi/10.1073/pnas.2404329122","tags":["Cattle/Grass_Fed_Cattle","Environment/GHG","Meat/Beef","High_Income_Countries/USA"],"Year Published":"2025","AI suggested tags":["Cows","Environment/Land","Environment"]}}
+{"dg-publish":true,"permalink":"/citations/eshel-et-al-2025/","tags":["Cattle/Grass_Fed_Cattle","Environment/GHG","Meat/Beef","High_Income_Countries/USA"],"created":"2026-01-12T19:51:09.762+00:00","updated":"2026-10-01T06:57:09.808+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.pnas.org/doi/10.1073/pnas.2404329122","tags":["Cattle/Grass_Fed_Cattle","Environment/GHG","Meat/Beef","High_Income_Countries/USA"],"Year Published":"2025","AI suggested tags":["Cows","Environment/Land","Citation"]}}
 ---
 
 ## Significance

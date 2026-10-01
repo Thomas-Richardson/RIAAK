@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/hodson-and-earle-2018/","tags":["Citation","Politics"],"created":"2025-10-23T17:42:46.296+01:00","updated":"2026-09-30T22:17:46.497+01:00","dg-note-properties":{"tags":["Citation","Politics"],"AI suggested tags":["Psychology","Behaviour_Change","Veg_Diets"]}}
+{"dg-publish":true,"permalink":"/citations/hodson-and-earle-2018/","tags":["Citation","Politics"],"created":"2025-10-23T17:42:46.296+01:00","updated":"2026-10-01T06:57:09.882+01:00","dg-note-properties":{"tags":["Citation","Politics"],"AI suggested tags":["Psychology","Behaviour_Change","Veg_Diets"]}}
 ---
 
 

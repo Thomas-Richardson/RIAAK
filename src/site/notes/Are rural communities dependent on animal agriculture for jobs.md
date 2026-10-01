@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/are-rural-communities-dependent-on-animal-agriculture-for-jobs/","tags":["Economics/Jobs"],"created":"2025-10-23T17:42:43.437+01:00","updated":"2026-09-30T23:02:29.026+01:00","dg-note-properties":{"tags":["Economics/Jobs"],"AI suggested tags":["Bryant_Research/Project/CAWF_Hidden_Harms","UK","Farming"]}}
+{"dg-publish":true,"permalink":"/are-rural-communities-dependent-on-animal-agriculture-for-jobs/","tags":["Economics/Jobs"],"created":"2025-10-23T17:42:43.437+01:00","updated":"2026-10-01T06:57:09.643+01:00","dg-note-properties":{"tags":["Economics/Jobs"],"AI suggested tags":["Bryant_Research/Project/CAWF_Hidden_Harms","UK","Farming"]}}
 ---
 
 - [[Farming jobs lost to to industrialisation\|Farming jobs lost to to industrialisation]]

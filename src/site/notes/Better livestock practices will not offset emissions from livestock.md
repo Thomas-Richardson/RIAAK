@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/better-livestock-practices-will-not-offset-emissions-from-livestock/","tags":["Environment/GHG","Farming"],"created":"2025-10-23T17:42:41.516+01:00","updated":"2026-09-30T22:10:52.349+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Environment/GHG","Farming"],"AI suggested tags":["Cattle/Grass_Fed_Cattle","Meat/Beef"]}}
+{"dg-publish":true,"permalink":"/better-livestock-practices-will-not-offset-emissions-from-livestock/","tags":["Environment/GHG","Farming"],"created":"2025-10-23T17:42:41.516+01:00","updated":"2026-10-01T06:57:09.645+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Environment/GHG","Farming"],"AI suggested tags":["Meat/Beef","Cattle/Grass_Fed_Cattle","Environment/Land"]}}
 ---
 
 - [[Grass fed beef is not better for the environment\|Grass fed beef is not better for the environment]]

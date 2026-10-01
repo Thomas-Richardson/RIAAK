@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/animal-advo-and-religion/","tags":["Movement_Building"],"created":"2025-10-23T17:42:44.034+01:00","updated":"2026-09-30T22:17:46.470+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Movement_Building"],"AI suggested tags":["Middle_East","Animal_Welfare"]}}
+{"dg-publish":true,"permalink":"/animal-advo-and-religion/","tags":["Movement_Building"],"created":"2025-10-23T17:42:44.034+01:00","updated":"2026-10-01T06:57:09.633+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Movement_Building"],"AI suggested tags":["Middle_East","Animal_Welfare","Asia"]}}
 ---
 
 

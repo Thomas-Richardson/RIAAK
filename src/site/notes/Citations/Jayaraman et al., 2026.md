@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/jayaraman-et-al-2026/","tags":["Veg_Diets","Environment/GHG","Health/Nutrition"],"created":"2026-06-24T17:02:32.000+01:00","updated":"2026-09-30T23:02:29.640+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://nutrition.bmj.com/content/early/2026/04/30/bmjnph-2025-001482","tags":["Veg_Diets","Environment/GHG","Health/Nutrition"],"Year Published":"2026","AI suggested tags":["Review","Environment","Diet"]}}
+{"dg-publish":true,"permalink":"/citations/jayaraman-et-al-2026/","tags":["Veg_Diets","Environment/GHG","Health/Nutrition"],"created":"2026-06-24T17:02:32.000+01:00","updated":"2026-10-01T06:57:09.910+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://nutrition.bmj.com/content/early/2026/04/30/bmjnph-2025-001482","tags":["Veg_Diets","Environment/GHG","Health/Nutrition"],"Year Published":"2026","AI suggested tags":["Review","Diet","Citation"]}}
 ---
 
 **Background** Plant-based foods, compared with animal-based foods, have a smaller environmental impact.

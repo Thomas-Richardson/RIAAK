@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/berners-lee-et-al-2012/","tags":["Environment/GHG","Veganism","Economics/Costs"],"created":"2025-10-23T17:42:44.960+01:00","updated":"2026-09-30T23:02:29.316+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Environment/GHG","Veganism","Economics/Costs"],"Reference":"Berners-Lee, M., Hoolohan, C., Cammack, H., Hewitt, C.N., 2012. The relative greenhouse gas impacts of realistic dietary choices. Energ Policy 43, 184–190.","Url":"http://dx.doi.org/10.1016/j.enpol.2011.12.054","AI suggested tags":["Environment","Citation","Meat"]}}
+{"dg-publish":true,"permalink":"/citations/berners-lee-et-al-2012/","tags":["Environment/GHG","Veganism","Economics/Costs"],"created":"2025-10-23T17:42:44.960+01:00","updated":"2026-10-01T06:57:09.738+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Environment/GHG","Veganism","Economics/Costs"],"Reference":"Berners-Lee, M., Hoolohan, C., Cammack, H., Hewitt, C.N., 2012. The relative greenhouse gas impacts of realistic dietary choices. Energ Policy 43, 184–190.","Url":"http://dx.doi.org/10.1016/j.enpol.2011.12.054","AI suggested tags":["Citation","Meat","Health/Nutrition"]}}
 ---
 
 - [[Are PB diets cheaper than omni diets\|Are PB diets cheaper than omni diets]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/influence-food-system-change-oatly/","tags":["Consumer_Attitudes","Consumer_Research","Alternative_Proteins/Plant_Based","Dairy","Economics/Costs"],"created":"2026-09-30T09:30:45.000+01:00","updated":"2026-09-30T19:55:01.707+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.oatly.com/sustainability/influence-food-system-change","tags":["Consumer_Attitudes","Consumer_Research","Alternative_Proteins/Plant_Based","Dairy","Economics/Costs"],"Year Published":"2026","AI suggested tags":["Meat/Meat_Reduction","Policy/Food_Policy","Marketing"]}}
+{"dg-publish":true,"permalink":"/citations/influence-food-system-change-oatly/","tags":["Consumer_Attitudes","Consumer_Research","Alternative_Proteins/Plant_Based","Dairy","Economics/Costs"],"created":"2026-10-01T06:57:08.638+01:00","updated":"2026-10-01T06:57:09.902+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.oatly.com/sustainability/influence-food-system-change","tags":["Consumer_Attitudes","Consumer_Research","Alternative_Proteins/Plant_Based","Dairy","Economics/Costs"],"Year Published":"2026","AI suggested tags":["Meat/Meat_Reduction","Policy/Food_Policy","Marketing"]}}
 ---
 
 > [!warning] Source notes
@@ -33,3 +33,10 @@ Within this document, we draw on expert insight, consumer polling and existing i
 - "68% of respondents said they wouldn’t mind if oat drinks were the default in cafés, with most of that group asking only that cost and choice be preserved."
 - "In our consumer polling, more than half (53%) named affordability and access as the biggest barriers."
 - "[T]wo-thirds of respondents are open to it [oat drink] being the default in cafés, but 28% of that group said only if it doesn't cost them more."
+
+
+# AI suggested related articles
+
+- [[Citations/EAT and GlobeScan, 2022\|Citations/EAT and GlobeScan, 2022]] (0.70)
+- [[Citations/Behavioural Insights team, 2020\|Citations/Behavioural Insights team, 2020]] (0.69)
+- [[Citations/Public attitudes survey 2024 (Eating Better et al.)\|Citations/Public attitudes survey 2024 (Eating Better et al.)]] (0.69)

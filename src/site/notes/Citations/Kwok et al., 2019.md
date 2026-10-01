@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/kwok-et-al-2019/","tags":["Alternative_Proteins","Citation","Dairy","Eggs","Health/Nutrition","Meat"],"created":"2025-10-23T17:42:46.140+01:00","updated":"2026-09-30T22:10:52.580+01:00","dg-note-properties":{"tags":["Alternative_Proteins","Citation","Dairy","Eggs","Health/Nutrition","Meat"],"AI suggested tags":["Nuts","Meat/Red_Meat","Diet"]}}
+{"dg-publish":true,"permalink":"/citations/kwok-et-al-2019/","tags":["Alternative_Proteins","Citation","Dairy","Eggs","Health/Nutrition","Meat"],"created":"2025-10-23T17:42:46.140+01:00","updated":"2026-10-01T06:57:09.923+01:00","dg-note-properties":{"tags":["Alternative_Proteins","Citation","Dairy","Eggs","Health/Nutrition","Meat"],"AI suggested tags":["Meat/Red_Meat","Nuts","Diet"]}}
 ---
 
 

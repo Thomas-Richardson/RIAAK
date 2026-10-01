@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/good-growth-and-gfi-2024/","tags":["Asia","Lower_Middle_Income_Countries","Bryant_Research/Project/Good_Growth_Social_Listening","Citation","SE_Asia"],"created":"2025-10-23T17:42:46.367+01:00","updated":"2026-09-30T23:02:29.566+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Asia","Lower_Middle_Income_Countries","Bryant_Research/Project/Good_Growth_Social_Listening","Citation","SE_Asia"],"AI suggested tags":["Alternative_Proteins","Alternative_Proteins/Precision_Fermentation","Bryant_Research/Project/Good_Growth_Social_Listening"]}}
+{"dg-publish":true,"permalink":"/citations/good-growth-and-gfi-2024/","tags":["Asia","Lower_Middle_Income_Countries","Bryant_Research/Project/Good_Growth_Social_Listening","Citation","SE_Asia"],"created":"2025-10-23T17:42:46.367+01:00","updated":"2026-10-01T06:57:09.854+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Asia","Lower_Middle_Income_Countries","Bryant_Research/Project/Good_Growth_Social_Listening","Citation","SE_Asia"],"AI suggested tags":["Alternative_Proteins","Alternative_Proteins/Precision_Fermentation","Alternative_Proteins/Plant_Based"]}}
 ---
 
 

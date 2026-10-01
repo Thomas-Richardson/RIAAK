@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/calculating-health-costs-two-ways/","tags":["Economics/Costs","Health","Research/Methods","BOTEC"],"created":"2026-02-24T13:51:22.361+00:00","updated":"2026-09-30T23:02:29.163+01:00","dg-note-properties":{"Note Type":null,"tags":["Economics/Costs","Health","Research/Methods","BOTEC"],"created":null,"AI suggested tags":["Bryant_Research/Project","Bryant_Research/Project/ProVeg_EU_Procurement","Economics"]}}
+{"dg-publish":true,"permalink":"/calculating-health-costs-two-ways/","tags":["Economics/Costs","Health","Research/Methods","BOTEC"],"created":"2026-02-24T13:51:22.361+00:00","updated":"2026-10-01T06:57:09.687+01:00","dg-note-properties":{"Note Type":null,"tags":["Economics/Costs","Health","Research/Methods","BOTEC"],"created":null,"AI suggested tags":["Bryant_Research/Project","Bryant_Research/Project/ProVeg_EU_Procurement","Economics"]}}
 ---
 
 In order to calculate the health costs of animal products and plant products, you broadly have two methods. Both of these involve calculating the DALYs involved and then attaching some monetisation factor to each DALY. 

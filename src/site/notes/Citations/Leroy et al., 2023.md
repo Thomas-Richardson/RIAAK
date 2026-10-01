@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/leroy-et-al-2023/","tags":["Citation","Wild_Animals"],"created":"2025-10-23T17:42:45.401+01:00","updated":"2026-09-30T22:17:46.502+01:00","dg-note-properties":{"tags":["Citation","Wild_Animals"],"Note Type":"undefined","AI suggested tags":["Health/Nutrition","Meat","Diet"]}}
+{"dg-publish":true,"permalink":"/citations/leroy-et-al-2023/","tags":["Citation","Wild_Animals"],"created":"2025-10-23T17:42:45.401+01:00","updated":"2026-10-01T06:57:09.927+01:00","dg-note-properties":{"tags":["Citation","Wild_Animals"],"Note Type":"undefined","AI suggested tags":["Health/Nutrition","Meat","Diet"]}}
 ---
 
 

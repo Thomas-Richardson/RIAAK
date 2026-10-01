@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/garnett-2011/","tags":["Environment/GHG","Citation","Farming"],"created":"2025-10-23T17:42:46.277+01:00","updated":"2026-09-30T23:02:29.540+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Environment/GHG","Citation","Farming"],"AI suggested tags":["Meat/Beef","Environment","Environment/Land"]}}
+{"dg-publish":true,"permalink":"/citations/garnett-2011/","tags":["Environment/GHG","Citation","Farming"],"created":"2025-10-23T17:42:46.277+01:00","updated":"2026-10-01T06:57:09.844+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Environment/GHG","Citation","Farming"],"AI suggested tags":["Meat/Beef","Environment/Land","Cows"]}}
 ---
 
 

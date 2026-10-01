@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/alternative-proteins-are-better-for-the-environment/","tags":["Animal_Feed","Alternative_Proteins","Alternative_Proteins/Cultivated_Meat","Environment/GHG","Environment/Land","Alternative_Proteins/Plant_Based"],"created":"2025-10-23T17:42:42.018+01:00","updated":"2026-09-30T23:02:28.999+01:00","dg-note-properties":{"tags":["Animal_Feed","Alternative_Proteins","Alternative_Proteins/Cultivated_Meat","Environment/GHG","Environment/Land","Alternative_Proteins/Plant_Based"],"Note Type":"Own Notes","AI suggested tags":["Environment","Important_Read","Light_Read"]}}
+{"dg-publish":true,"permalink":"/alternative-proteins-are-better-for-the-environment/","tags":["Animal_Feed","Alternative_Proteins","Alternative_Proteins/Cultivated_Meat","Environment/GHG","Environment/Land","Alternative_Proteins/Plant_Based"],"created":"2025-10-23T17:42:42.018+01:00","updated":"2026-10-01T06:57:09.632+01:00","dg-note-properties":{"tags":["Animal_Feed","Alternative_Proteins","Alternative_Proteins/Cultivated_Meat","Environment/GHG","Environment/Land","Alternative_Proteins/Plant_Based"],"Note Type":"Own Notes","AI suggested tags":["Important_Read","Light_Read","Listen_To"]}}
 ---
 
 See also: [[BSG, 2022\|BSG, 2022]]

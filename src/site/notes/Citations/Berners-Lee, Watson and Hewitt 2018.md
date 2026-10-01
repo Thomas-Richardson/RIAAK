@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/berners-lee-watson-and-hewitt-2018/","tags":["Animal_Feed","Citation","Environment/Land","Farming","Food_Security"],"created":"2025-10-23T17:42:45.924+01:00","updated":"2026-09-30T23:02:29.319+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Animal_Feed","Citation","Environment/Land","Farming","Food_Security"],"AI suggested tags":["MFA_Food_Sec","Environment","Lower_Middle_Income_Countries"]}}
+{"dg-publish":true,"permalink":"/citations/berners-lee-watson-and-hewitt-2018/","tags":["Animal_Feed","Citation","Environment/Land","Farming","Food_Security"],"created":"2025-10-23T17:42:45.924+01:00","updated":"2026-10-01T06:57:09.742+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Animal_Feed","Citation","Environment/Land","Farming","Food_Security"],"AI suggested tags":["MFA_Food_Sec","Lower_Middle_Income_Countries","Meat"]}}
 ---
 
 

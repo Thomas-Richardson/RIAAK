@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/big-grain-companies/","tags":["Bryant_Research/Project/CAWF_Food_Sec","USA"],"created":"2025-10-23T17:42:41.791+01:00","updated":"2026-09-30T23:02:29.036+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Bryant_Research/Project/CAWF_Food_Sec","USA"],"AI suggested tags":["Farmers","Animal_Feed","Farming"]}}
+{"dg-publish":true,"permalink":"/big-grain-companies/","tags":["Bryant_Research/Project/CAWF_Food_Sec","USA"],"created":"2025-10-23T17:42:41.791+01:00","updated":"2026-10-01T06:57:09.646+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Bryant_Research/Project/CAWF_Food_Sec","USA"],"AI suggested tags":["Farmers","Animal_Feed","Farming"]}}
 ---
 
 

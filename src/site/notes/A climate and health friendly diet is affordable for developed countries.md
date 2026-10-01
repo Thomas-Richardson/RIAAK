@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/a-climate-and-health-friendly-diet-is-affordable-for-developed-countries/","tags":["Environment/GHG","Health/Nutrition"],"created":"2025-10-23T17:42:47.125+01:00","updated":"2026-09-30T23:02:28.970+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Environment/GHG","Health/Nutrition"],"AI suggested tags":["Economics/Costs","Environment","Meat"]}}
+{"dg-publish":true,"permalink":"/a-climate-and-health-friendly-diet-is-affordable-for-developed-countries/","tags":["Environment/GHG","Health/Nutrition"],"created":"2025-10-23T17:42:47.125+01:00","updated":"2026-10-01T06:57:09.625+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Environment/GHG","Health/Nutrition"],"AI suggested tags":["Economics/Costs","Meat","Citation"]}}
 ---
 
 

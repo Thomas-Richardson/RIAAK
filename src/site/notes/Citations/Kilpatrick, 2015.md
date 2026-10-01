@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/kilpatrick-2015/","tags":["Citation","Economics","Factory_Farming"],"created":"2025-10-23T17:42:45.653+01:00","updated":"2026-09-30T23:02:29.652+01:00","dg-note-properties":{"tags":["Citation","Economics","Factory_Farming"],"AI suggested tags":["USA","Bryant_Research/Project/CAWF_Hidden_Harms","Health/Disease"]}}
+{"dg-publish":true,"permalink":"/citations/kilpatrick-2015/","tags":["Citation","Economics","Factory_Farming"],"created":"2025-10-23T17:42:45.653+01:00","updated":"2026-10-01T06:57:09.918+01:00","dg-note-properties":{"tags":["Citation","Economics","Factory_Farming"],"AI suggested tags":["USA","Bryant_Research/Project/CAWF_Hidden_Harms","Health/Disease"]}}
 ---
 
 

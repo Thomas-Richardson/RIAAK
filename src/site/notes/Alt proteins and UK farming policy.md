@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/alt-proteins-and-uk-farming-policy/","tags":["Alternative_Proteins","Farming","Policy"],"created":"2025-10-23T17:42:47.727+01:00","updated":"2026-09-30T23:02:28.991+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Alternative_Proteins","Farming","Policy"],"AI suggested tags":["Bryant_Research/Project/CAWF_Food_Sec","Alternative_Proteins/Precision_Fermentation","Economics/Jobs"]}}
+{"dg-publish":true,"permalink":"/alt-proteins-and-uk-farming-policy/","tags":["Alternative_Proteins","Farming","Policy"],"created":"2025-10-23T17:42:47.727+01:00","updated":"2026-10-01T06:57:09.628+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Alternative_Proteins","Farming","Policy"],"AI suggested tags":["Bryant_Research/Project/CAWF_Food_Sec","Alternative_Proteins/Precision_Fermentation","Economics/Jobs"]}}
 ---
 
 

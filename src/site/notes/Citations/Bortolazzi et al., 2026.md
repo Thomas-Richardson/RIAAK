@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/bortolazzi-et-al-2026/","tags":["Pet_Food","Alternative_Proteins/Cultivated_Meat","Health/Nutrition"],"created":"2026-06-24T17:02:32.000+01:00","updated":"2026-09-30T23:03:17.649+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://doi.org/10.3389/fvets.2026.1781530","tags":["Pet_Food","Alternative_Proteins/Cultivated_Meat","Health/Nutrition"],"Year Published":"2026"}}
+{"dg-publish":true,"permalink":"/citations/bortolazzi-et-al-2026/","tags":["Pet_Food","Alternative_Proteins/Cultivated_Meat","Health/Nutrition"],"created":"2026-06-24T17:02:32.000+01:00","updated":"2026-10-01T06:57:09.762+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://doi.org/10.3389/fvets.2026.1781530","tags":["Pet_Food","Alternative_Proteins/Cultivated_Meat","Health/Nutrition"],"Year Published":"2026","AI suggested tags":["Consumer_Research","Consumer_Attitudes","Alternative_Proteins/Plant_Based"]}}
 ---
 
 

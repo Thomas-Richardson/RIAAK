@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/animal-agriculture-distorts-research/","tags":["Research"],"created":"2026-02-03T13:27:21.676+00:00","updated":"2026-09-30T23:02:29.001+01:00","dg-note-properties":{"Note Type":null,"tags":["Research"],"created":null,"AI suggested tags":["Meat","Environment","Citation"]}}
+{"dg-publish":true,"permalink":"/animal-agriculture-distorts-research/","tags":["Research"],"created":"2026-02-03T13:27:21.676+00:00","updated":"2026-10-01T06:57:09.633+01:00","dg-note-properties":{"Note Type":null,"tags":["Research"],"created":null,"AI suggested tags":["Meat","Citation","Nuts"]}}
 ---
 
 - [[Citations/Barnard et al., 2019\|Barnard et al., 2019]] for eggs

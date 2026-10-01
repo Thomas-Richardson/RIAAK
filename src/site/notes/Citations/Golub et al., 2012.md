@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/golub-et-al-2012/","tags":["Citation","Environment","Farming"],"created":"2025-10-23T17:42:45.713+01:00","updated":"2026-09-30T23:02:29.561+01:00","dg-note-properties":{"tags":["Citation","Environment","Farming"],"AI suggested tags":["Environment/GHG","Environment/Land","Cows"]}}
+{"dg-publish":true,"permalink":"/citations/golub-et-al-2012/","tags":["Citation","Environment","Farming"],"created":"2025-10-23T17:42:45.713+01:00","updated":"2026-10-01T06:57:09.850+01:00","dg-note-properties":{"tags":["Citation","Environment","Farming"],"AI suggested tags":["Environment/GHG","Cows","Environment/Land"]}}
 ---
 
 

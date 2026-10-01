@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/harwatt-et-al-2024/","tags":["Citation","Environment","Factory_Farming"],"created":"2025-10-23T17:42:47.034+01:00","updated":"2026-09-30T23:02:29.576+01:00","dg-note-properties":{"tags":["Citation","Environment","Factory_Farming"],"AI suggested tags":["Environment/GHG","Environment/Land","Cows"]}}
+{"dg-publish":true,"permalink":"/citations/harwatt-et-al-2024/","tags":["Citation","Environment","Factory_Farming"],"created":"2025-10-23T17:42:47.034+01:00","updated":"2026-10-01T06:57:09.866+01:00","dg-note-properties":{"tags":["Citation","Environment","Factory_Farming"],"AI suggested tags":["Environment/GHG","Environment/Land","Cows"]}}
 ---
 
 

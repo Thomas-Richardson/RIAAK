@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/kadel-et-al-2024/","tags":["Citation","Bryant_Research/Project/Good_Growth_Social_Listening","Messaging","Veganism"],"created":"2025-10-23T17:42:45.620+01:00","updated":"2026-09-30T23:02:29.648+01:00","dg-note-properties":{"tags":["Citation","Bryant_Research/Project/Good_Growth_Social_Listening","Messaging","Veganism"],"AI suggested tags":["Behaviour_Change","Veg_Diets","Consumer_Research"]}}
+{"dg-publish":true,"permalink":"/citations/kadel-et-al-2024/","tags":["Citation","Bryant_Research/Project/Good_Growth_Social_Listening","Messaging","Veganism"],"created":"2025-10-23T17:42:45.620+01:00","updated":"2026-10-01T06:57:09.914+01:00","dg-note-properties":{"tags":["Citation","Bryant_Research/Project/Good_Growth_Social_Listening","Messaging","Veganism"],"AI suggested tags":["Behaviour_Change","Veg_Diets","Consumer_Research"]}}
 ---
 
 

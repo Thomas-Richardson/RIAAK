@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/driving-change-with-like-a-pro-results-and-lessons-from-behavioural-intervention-pilots-like-a-pro/","tags":["Alternative_Proteins","Behaviour_Change","Consumer_Research","Europe"],"created":"2026-09-30T12:27:14.000+01:00","updated":"2026-09-30T19:55:01.504+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.cscp.org/wp-content/uploads/2026/09/LIKE-A-PRO-Behavioural-Pilots-report_010926_FV.pdf","tags":["Alternative_Proteins","Behaviour_Change","Consumer_Research","Europe"],"Year Published":"2026","AI suggested tags":["Meat/Meat_Reduction","EU","Marketing"]}}
+{"dg-publish":true,"permalink":"/citations/driving-change-with-like-a-pro-results-and-lessons-from-behavioural-intervention-pilots-like-a-pro/","tags":["Alternative_Proteins","Behaviour_Change","Consumer_Research","Europe"],"created":"2026-10-01T06:57:08.630+01:00","updated":"2026-10-01T06:57:09.796+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.cscp.org/wp-content/uploads/2026/09/LIKE-A-PRO-Behavioural-Pilots-report_010926_FV.pdf","tags":["Alternative_Proteins","Behaviour_Change","Consumer_Research","Europe"],"Year Published":"2026","AI suggested tags":["Meat/Meat_Reduction","EU","Marketing"]}}
 ---
 
 ## Overview
@@ -54,3 +54,10 @@ The pilots were implemented in Greece (institutional catering, choice editing), 
 - Vegconomist gives no sample sizes or numbers; all figures above come from the report itself.
 - Vegconomist says the pilots ran 'across 11 European countries'. The report's pilots ran in Greece, Norway, Spain, Belgium, the Netherlands and Denmark (six countries). Eleven is the number of countries of the campaign professionals interviewed in the beyond-choice pilot.
 - Vegconomist's line that taste, price and trust decide whether consumers return is the report's cross-pilot conclusion, but the pilots themselves measured short-term trial, not return purchases.
+
+
+# AI suggested related articles
+
+- [[Citations/Enhancing Meat with Plant Proteins (NECTAR et al.)\|Citations/Enhancing Meat with Plant Proteins (NECTAR et al.)]] (0.69)
+- [[Citations/Shallow overview of institutional plant-based meal campaigns in the US and Western Europe (Rethink Priorities)\|Citations/Shallow overview of institutional plant-based meal campaigns in the US and Western Europe (Rethink Priorities)]] (0.69)
+- [[Citations/BALANCED PROTEINS 2025 Consumer Insights Report (Food System Innovations)\|Citations/BALANCED PROTEINS 2025 Consumer Insights Report (Food System Innovations)]] (0.68)

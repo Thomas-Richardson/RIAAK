@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/manzano-et-al-2023/","tags":["Citation","Environment","Farming"],"created":"2025-10-23T17:42:46.235+01:00","updated":"2026-09-30T23:02:29.710+01:00","dg-note-properties":{"tags":["Citation","Environment","Farming"],"AI suggested tags":["Environment/GHG","Environment/Land","Cows"]}}
+{"dg-publish":true,"permalink":"/citations/manzano-et-al-2023/","tags":["Citation","Environment","Farming"],"created":"2025-10-23T17:42:46.235+01:00","updated":"2026-10-01T06:57:09.951+01:00","dg-note-properties":{"tags":["Citation","Environment","Farming"],"AI suggested tags":["Environment/GHG","Environment/Land","Cows"]}}
 ---
 
 

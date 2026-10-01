@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/harwatt-et-al-2026/","tags":["Alternative_Proteins","Meat","Health/Nutrition","Environment/GHG","Environment/Land"],"created":"2026-07-12T17:06:12.000+01:00","updated":"2026-09-30T23:02:29.577+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.researchsquare.com/article/rs-9916871/v1","tags":["Alternative_Proteins","Meat","Health/Nutrition","Environment/GHG","Environment/Land"],"Year Published":2026,"AI suggested tags":["Citation","Environment","Economics"]}}
+{"dg-publish":true,"permalink":"/citations/harwatt-et-al-2026/","tags":["Alternative_Proteins","Meat","Health/Nutrition","Environment/GHG","Environment/Land"],"created":"2026-07-12T17:06:12.000+01:00","updated":"2026-10-01T06:57:09.870+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.researchsquare.com/article/rs-9916871/v1","tags":["Alternative_Proteins","Meat","Health/Nutrition","Environment/GHG","Environment/Land"],"Year Published":2026,"AI suggested tags":["Citation","Economics","Dietary_Guidelines"]}}
 ---
 
 ## Abstract

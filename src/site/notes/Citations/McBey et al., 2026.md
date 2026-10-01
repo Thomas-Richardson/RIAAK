@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/mc-bey-et-al-2026/","tags":["Meat/Meat_Reduction","Policy/Food_Policy","Behaviour_Change","High_Income_Countries/UK"],"created":"2025-11-12T15:51:21.384+00:00","updated":"2026-09-30T23:02:29.719+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.sciencedirect.com/science/article/pii/S095032932500268X","tags":["Meat/Meat_Reduction","Policy/Food_Policy","Behaviour_Change","High_Income_Countries/UK"],"Year Published":"2026","AI suggested tags":["Meat/Meat_Consumption","Bryant_Research/Insight","Meat"]}}
+{"dg-publish":true,"permalink":"/citations/mc-bey-et-al-2026/","tags":["Meat/Meat_Reduction","Policy/Food_Policy","Behaviour_Change","High_Income_Countries/UK"],"created":"2025-11-12T15:51:21.384+00:00","updated":"2026-10-01T06:57:09.955+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.sciencedirect.com/science/article/pii/S095032932500268X","tags":["Meat/Meat_Reduction","Policy/Food_Policy","Behaviour_Change","High_Income_Countries/UK"],"Year Published":"2026","AI suggested tags":["Meat/Meat_Consumption","Meat","Consumer_Research"]}}
 ---
 
 ## Highlights

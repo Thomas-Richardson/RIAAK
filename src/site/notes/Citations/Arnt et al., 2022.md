@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/arnt-et-al-2022/","tags":["Environment/GHG","Citation","Cows"],"created":"2025-10-31T14:40:38.991+00:00","updated":"2026-09-30T23:02:29.277+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Environment/GHG","Citation","Cows"],"AI suggested tags":["Environment/Land","Meat/Beef","Environment"]}}
+{"dg-publish":true,"permalink":"/citations/arnt-et-al-2022/","tags":["Environment/GHG","Citation","Cows"],"created":"2025-10-31T14:40:38.991+00:00","updated":"2026-10-01T06:57:09.722+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Environment/GHG","Citation","Cows"],"AI suggested tags":["Environment/Land","Meat/Beef","Meat/Meat_Reduction"]}}
 ---
 
 

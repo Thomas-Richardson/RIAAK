@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/gerbens-leenes-et-al-2013/","tags":["Animal_Feed","Citation","Environment","Factory_Farming","Meat","Environment/Land"],"created":"2025-10-23T17:42:44.403+01:00","updated":"2026-09-30T23:02:29.544+01:00","dg-note-properties":{"tags":["Animal_Feed","Citation","Environment","Factory_Farming","Meat","Environment/Land"],"Note Type":"undefined","AI suggested tags":["Farming","USA","High_Income_Countries"]}}
+{"dg-publish":true,"permalink":"/citations/gerbens-leenes-et-al-2013/","tags":["Animal_Feed","Citation","Environment","Factory_Farming","Meat","Environment/Land"],"created":"2025-10-23T17:42:44.403+01:00","updated":"2026-10-01T06:57:09.848+01:00","dg-note-properties":{"tags":["Animal_Feed","Citation","Environment","Factory_Farming","Meat","Environment/Land"],"Note Type":"undefined","AI suggested tags":["Farming","High_Income_Countries","USA"]}}
 ---
 
 

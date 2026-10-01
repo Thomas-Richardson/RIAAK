@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/influential-respected-authorities-giving-pro-animal-advo-messaging/","tags":["Environment","Health/Nutrition","Meat","Persuasion"],"created":"2025-10-23T17:42:43.125+01:00","updated":"2026-09-30T23:02:30.362+01:00","dg-note-properties":{"tags":["Environment","Health/Nutrition","Meat","Persuasion"],"AI suggested tags":["Environment/GHG","Meat/Meat_Reduction","Citation"]}}
+{"dg-publish":true,"permalink":"/influential-respected-authorities-giving-pro-animal-advo-messaging/","tags":["Environment","Health/Nutrition","Meat","Persuasion"],"created":"2025-10-23T17:42:43.125+01:00","updated":"2026-10-01T06:57:10.282+01:00","dg-note-properties":{"tags":["Environment","Health/Nutrition","Meat","Persuasion"],"AI suggested tags":["Environment/GHG","Meat/Meat_Reduction","Citation"]}}
 ---
 
 Dutch health guicelines: https://vegconomist.com/politics-law/netherlands-updates-national-food-guidelines-cut-meat-dairy-boost-legumes/

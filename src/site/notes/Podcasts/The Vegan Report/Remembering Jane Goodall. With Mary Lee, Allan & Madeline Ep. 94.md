@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/remembering-jane-goodall-with-mary-lee-allan-and-madeline-ep-94/","tags":["Wild_Animals","Activism","Animal_Welfare"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T22:17:46.654+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2280478","tags":["Wild_Animals","Activism","Animal_Welfare"],"Year Published":"2025","AI suggested tags":["Animal_Ethics","Philosophy","Narratives"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/remembering-jane-goodall-with-mary-lee-allan-and-madeline-ep-94/","tags":["Wild_Animals","Activism","Animal_Welfare"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-10-01T06:57:10.464+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2280478","tags":["Wild_Animals","Activism","Animal_Welfare"],"Year Published":"2025","AI suggested tags":["Animal_Ethics","Philosophy","Narratives"]}}
 ---
 
 Throughout her life and remarkable career, Jane inspired generations of scientists, brought hope to countless people from all walks of life, and urged us all to remember that “every single one of us makes a difference every day – it is up to us as to the kind of difference we make”

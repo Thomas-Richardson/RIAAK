@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lots-of-people-live-near-caf-os/","tags":["Factory_Farming","USA"],"created":"2025-10-23T17:42:43.690+01:00","updated":"2026-09-30T23:02:30.394+01:00","dg-note-properties":{"tags":["Factory_Farming","USA"],"AI suggested tags":["Health/Disease","Bryant_Research/Project/CAWF_Hidden_Harms","Pigs"]}}
+{"dg-publish":true,"permalink":"/lots-of-people-live-near-caf-os/","tags":["Factory_Farming","USA"],"created":"2025-10-23T17:42:43.690+01:00","updated":"2026-10-01T06:57:10.294+01:00","dg-note-properties":{"tags":["Factory_Farming","USA"],"AI suggested tags":["Health/Disease","Bryant_Research/Project/CAWF_Hidden_Harms","Pigs"]}}
 ---
 
 

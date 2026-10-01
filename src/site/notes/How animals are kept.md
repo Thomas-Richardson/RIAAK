@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-animals-are-kept/","tags":["Farming"],"created":"2025-10-23T17:42:41.298+01:00","updated":"2026-09-30T23:02:30.337+01:00","dg-note-properties":{"tags":["Farming"],"AI suggested tags":["UK","Bryant_Research/Project/CAWF_Hidden_Harms","USA"]}}
+{"dg-publish":true,"permalink":"/how-animals-are-kept/","tags":["Farming"],"created":"2025-10-23T17:42:41.298+01:00","updated":"2026-10-01T06:57:10.276+01:00","dg-note-properties":{"tags":["Farming"],"AI suggested tags":["UK","Bryant_Research/Project/CAWF_Hidden_Harms","USA"]}}
 ---
 
 

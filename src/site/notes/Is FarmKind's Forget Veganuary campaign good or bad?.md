@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/is-farm-kind-s-forget-veganuary-campaign-good-or-bad/","tags":["Messaging","Tactics","Diet_Change","Movement_Strategy"],"created":"2026-01-24T13:59:57.000+00:00","updated":"2026-09-30T23:03:17.650+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Messaging","Tactics","Diet_Change","Movement_Strategy"],"AI suggested tags":["Behaviour_Change","Messaging","High_Income_Countries/UK"]}}
+{"dg-publish":true,"permalink":"/is-farm-kind-s-forget-veganuary-campaign-good-or-bad/","tags":["Messaging","Tactics","Diet_Change","Movement_Strategy"],"created":"2026-01-24T13:59:57.000+00:00","updated":"2026-10-01T06:57:10.285+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Messaging","Tactics","Diet_Change","Movement_Strategy"],"AI suggested tags":["Behaviour_Change","High_Income_Countries/UK","Public_Opinion"]}}
 ---
 
 

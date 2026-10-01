@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/the-vegan-report-official-trailer/","tags":["Movement_Building","Veganism"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T22:17:46.692+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/1028271","tags":["Movement_Building","Veganism"],"Year Published":"2023","AI suggested tags":["Activism","Narratives","Tactics"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/the-vegan-report-official-trailer/","tags":["Movement_Building","Veganism"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-10-01T06:57:10.493+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/1028271","tags":["Movement_Building","Veganism"],"Year Published":"2023","AI suggested tags":["Activism","Narratives","Animal_Ethics"]}}
 ---
 
 Every year, billions of animals across the world are exploited and killed for pleasure and profit.

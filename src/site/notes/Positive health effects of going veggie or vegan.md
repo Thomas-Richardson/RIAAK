@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/positive-health-effects-of-going-veggie-or-vegan/","tags":["Health/Nutrition","Veganism"],"created":"2025-10-23T17:42:44.078+01:00","updated":"2026-09-30T22:17:46.708+01:00","dg-note-properties":{"tags":["Health/Nutrition","Veganism"],"AI suggested tags":["Nuts","Veg_Diets","Diet"]}}
+{"dg-publish":true,"permalink":"/positive-health-effects-of-going-veggie-or-vegan/","tags":["Health/Nutrition","Veganism"],"created":"2025-10-23T17:42:44.078+01:00","updated":"2026-10-01T06:57:10.501+01:00","dg-note-properties":{"tags":["Health/Nutrition","Veganism"],"AI suggested tags":["Nuts","Veg_Diets","Diet"]}}
 ---
 
 

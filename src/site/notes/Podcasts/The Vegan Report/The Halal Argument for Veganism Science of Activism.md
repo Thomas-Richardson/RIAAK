@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/the-halal-argument-for-veganism-science-of-activism/","tags":["Economics","Lower_Middle_Income_Countries","Middle_East","Movement_Building"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T22:17:46.664+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2272823","tags":["Economics","Lower_Middle_Income_Countries","Middle_East","Movement_Building"],"Year Published":"2025","AI suggested tags":["Veganism","Movement_Strategy"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/the-halal-argument-for-veganism-science-of-activism/","tags":["Economics","Lower_Middle_Income_Countries","Middle_East","Movement_Building"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-10-01T06:57:10.487+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2272823","tags":["Economics","Lower_Middle_Income_Countries","Middle_East","Movement_Building"],"Year Published":"2025","AI suggested tags":["Veganism","Movement_Strategy","Messaging"]}}
 ---
 
 Animetrics is a women-led research and capacity-building organization, founded in 2023 by two economists from Türkiye with PhDs.

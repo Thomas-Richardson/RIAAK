@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/a-vegan-veterinarian-with-daniela-castillo/","tags":["Wild_Animals","Companion_Animals","Veganism"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T22:17:46.544+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep720/","tags":["Wild_Animals","Companion_Animals","Veganism"],"Year Published":"2023","AI suggested tags":["Animal_Ethics","Activism","Plant_Based"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/a-vegan-veterinarian-with-daniela-castillo/","tags":["Wild_Animals","Companion_Animals","Veganism"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-10-01T06:57:10.327+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep720/","tags":["Wild_Animals","Companion_Animals","Veganism"],"Year Published":"2023","AI suggested tags":["Animal_Ethics","Activism","Plant_Based"]}}
 ---
 
 Do you ever wonder where all of the vegan veterinarians are? This week, we talk to one of the few, Daniela Castillo, about animal rights, wildlife conservation, environmentalism, and medicine for farmed animal rescues.

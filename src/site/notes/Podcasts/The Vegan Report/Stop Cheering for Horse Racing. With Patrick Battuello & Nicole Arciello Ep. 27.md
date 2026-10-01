@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/stop-cheering-for-horse-racing-with-patrick-battuello-and-nicole-arciello-ep-27/","tags":["Animal_Welfare","High_Income_Countries/USA"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T22:17:46.658+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/1312152","tags":["Animal_Welfare","High_Income_Countries/USA"],"Year Published":"2024","AI suggested tags":["Activism","Animal_Ethics","Tactics"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/stop-cheering-for-horse-racing-with-patrick-battuello-and-nicole-arciello-ep-27/","tags":["Animal_Welfare","High_Income_Countries/USA"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-10-01T06:57:10.473+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/1312152","tags":["Animal_Welfare","High_Income_Countries/USA"],"Year Published":"2024","AI suggested tags":["Activism","Animal_Ethics","Philosophy"]}}
 ---
 
 Queen Elizabeth II reigned over the United Kingdoms and the Commonwealth for 70 years, making her the second longest reigning monarch in history. She is remembered for her sense of duty and her devotion to a life of service, which made her a beloved and respected figure worldwide.

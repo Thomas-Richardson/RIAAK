@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/how-i-learned-to-love-shrimp/2025-highlights-all-the-best-bits-from-how-i-learned-to-love-shrimp/","tags":["Movement_Strategy","Movement_Building"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T22:17:46.538+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.buzzsprout.com/2122817/episodes/18557257-2025-highlights-all-the-best-bits-from-how-i-learned-to-love-shrimp","tags":["Movement_Strategy","Movement_Building"],"Year Published":"2026","AI suggested tags":["Effective_Altruism","Tactics","Activism"]}}
+{"dg-publish":true,"permalink":"/podcasts/how-i-learned-to-love-shrimp/2025-highlights-all-the-best-bits-from-how-i-learned-to-love-shrimp/","tags":["Movement_Strategy","Movement_Building"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-10-01T06:57:10.313+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.buzzsprout.com/2122817/episodes/18557257-2025-highlights-all-the-best-bits-from-how-i-learned-to-love-shrimp","tags":["Movement_Strategy","Movement_Building"],"Year Published":"2026","AI suggested tags":["Effective_Altruism","Tactics","Activism"]}}
 ---
 
 Today, we’re bringing you a special highlights episode! It’s a roundup of some of the most interesting conversations we had in 2025. They include:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/prophetic-promotion/","tags":["Protest","Tactics","Movement_Building"],"created":"2025-10-23T17:42:43.868+01:00","updated":"2026-09-30T22:18:09.140+01:00","dg-note-properties":{"tags":["Protest","Tactics","Movement_Building"],"AI suggested tags":["Protest","Research/Faunalytics","Public_Opinion"]}}
+{"dg-publish":true,"permalink":"/prophetic-promotion/","tags":["Protest","Tactics","Movement_Building"],"created":"2025-10-23T17:42:43.868+01:00","updated":"2026-10-01T06:57:10.524+01:00","dg-note-properties":{"tags":["Protest","Tactics","Movement_Building"],"AI suggested tags":["Research/Faunalytics","Public_Opinion","Behaviour_Change"]}}
 ---
 
 

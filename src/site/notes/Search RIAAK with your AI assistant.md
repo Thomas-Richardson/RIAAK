@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/search-riaak-with-your-ai-assistant/","tags":["AI"],"created":"2026-09-30T23:48:03.283+01:00","updated":"2026-09-30T23:51:37.602+01:00","dg-note-properties":{"Note Type":"RIAAK Admin","tags":["AI"]}}
+{"dg-publish":true,"permalink":"/search-riaak-with-your-ai-assistant/","tags":["AI"],"created":"2026-10-01T06:57:08.621+01:00","updated":"2026-10-01T06:57:10.556+01:00","dg-note-properties":{"Note Type":"RIAAK Admin","tags":["AI"],"AI suggested tags":["Research/Methods","External_Resource","Research"]}}
 ---
 
 You can get your own AI assistant such as Claude or ChatGPT to search RIAAK for you. Ask it a research question in plain English, and it will search RIAAK, answer using only what RIAAK contains, and give you a link to every source so you can read the originals.
@@ -40,3 +40,10 @@ See the [install instructions for the whole collection](https://github.com/vegan
 - Many of the study summaries in RIAAK were written with help from AI (the [[RIAAK Home page\|homepage]] explains how). Check the original source before you rely on a number.
 - Your assistant needs to be able to make web requests. Assistants that can only browse web pages usually can't run it. If yours can't, use the search box on this site instead.
 - It's free, and you don't need an account.
+
+
+# AI suggested related articles
+
+- [[The philosophy of RIAAK\|The philosophy of RIAAK]] (0.57)
+- [[Places to find literature aside from academic search engines (grey lit)\|Places to find literature aside from academic search engines (grey lit)]] (0.56)
+- [[Other Resources to RIAAK\|Other Resources to RIAAK]] (0.56)

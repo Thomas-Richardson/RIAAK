@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/leather-is-a-co-product-not-a-by-product-and-is-bad-for-the-environment/","tags":["Cows","Materials"],"created":"2025-10-23T17:42:41.723+01:00","updated":"2026-09-30T23:02:30.388+01:00","dg-note-properties":{"tags":["Cows","Materials"],"AI suggested tags":["Environment","Environment/Land","Cattle/Grass_Fed_Cattle"]}}
+{"dg-publish":true,"permalink":"/leather-is-a-co-product-not-a-by-product-and-is-bad-for-the-environment/","tags":["Cows","Materials"],"created":"2025-10-23T17:42:41.723+01:00","updated":"2026-10-01T06:57:10.290+01:00","dg-note-properties":{"tags":["Cows","Materials"],"AI suggested tags":["Environment/Land","Cattle/Grass_Fed_Cattle","Environment/GHG"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psychological-factors-in-cultivated-meat-acceptance/","tags":["Bryant_Research","Alternative_Proteins/Cultivated_Meat","Psychology"],"created":"2025-10-23T17:42:47.551+01:00","updated":"2026-09-30T23:02:30.908+01:00","dg-note-properties":{"tags":["Bryant_Research","Alternative_Proteins/Cultivated_Meat","Psychology"],"Note Type":"undefined","AI suggested tags":["Consumer_Research","Consumer_Attitudes","Bryant_Research/Insight"]}}
+{"dg-publish":true,"permalink":"/psychological-factors-in-cultivated-meat-acceptance/","tags":["Bryant_Research","Alternative_Proteins/Cultivated_Meat","Psychology"],"created":"2025-10-23T17:42:47.551+01:00","updated":"2026-10-01T06:57:10.538+01:00","dg-note-properties":{"tags":["Bryant_Research","Alternative_Proteins/Cultivated_Meat","Psychology"],"Note Type":"undefined","AI suggested tags":["Consumer_Research","Consumer_Attitudes","Alternative_Proteins"]}}
 ---
 
 

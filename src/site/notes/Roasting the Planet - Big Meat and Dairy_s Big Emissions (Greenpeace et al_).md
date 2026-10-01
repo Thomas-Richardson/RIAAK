@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/roasting-the-planet-big-meat-and-dairy-s-big-emissions-greenpeace-et-al/","tags":["Meat_Industry","Dairy","Environment/GHG","Environment/Climate_Change"],"created":"2025-10-23T17:42:41.943+01:00","updated":"2026-09-30T23:02:30.989+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Meat_Industry","Dairy","Environment/GHG","Environment/Climate_Change"],"source_url":"https://foodrise.org.uk/wp-content/uploads/2025/10/Roasting-The-Planet-Report-FINAL-16_10_25.pdf","created":"2025-10-20","AI suggested tags":["Environment/Land","Cows","Environment"]}}
+{"dg-publish":true,"permalink":"/roasting-the-planet-big-meat-and-dairy-s-big-emissions-greenpeace-et-al/","tags":["Meat_Industry","Dairy","Environment/GHG","Environment/Climate_Change"],"created":"2025-10-23T17:42:41.943+01:00","updated":"2026-10-01T06:57:10.555+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Meat_Industry","Dairy","Environment/GHG","Environment/Climate_Change"],"source_url":"https://foodrise.org.uk/wp-content/uploads/2025/10/Roasting-The-Planet-Report-FINAL-16_10_25.pdf","created":"2025-10-20","AI suggested tags":["Environment/Land","Cows","Greenwashing"]}}
 ---
 
 

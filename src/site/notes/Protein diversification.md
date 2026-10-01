@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/protein-diversification/","tags":["Alternative_Proteins","Bryant_Research/Project/CAWF_Food_Sec"],"created":"2025-10-23T17:42:44.105+01:00","updated":"2026-09-30T23:02:30.902+01:00","dg-note-properties":{"tags":["Alternative_Proteins","Bryant_Research/Project/CAWF_Food_Sec"],"AI suggested tags":["MFA_Food_Sec","Lower_Middle_Income_Countries","Food_Security"]}}
+{"dg-publish":true,"permalink":"/protein-diversification/","tags":["Alternative_Proteins","Bryant_Research/Project/CAWF_Food_Sec"],"created":"2025-10-23T17:42:44.105+01:00","updated":"2026-10-01T06:57:10.533+01:00","dg-note-properties":{"tags":["Alternative_Proteins","Bryant_Research/Project/CAWF_Food_Sec"],"AI suggested tags":["MFA_Food_Sec","Lower_Middle_Income_Countries","Food_Security"]}}
 ---
 
 

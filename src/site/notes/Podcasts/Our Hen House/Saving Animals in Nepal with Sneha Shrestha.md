@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/saving-animals-in-nepal-with-sneha-shrestha/","tags":["Asia","Companion_Animals","Veganism"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T22:17:46.559+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep711/","tags":["Asia","Companion_Animals","Veganism"],"Year Published":"2023","AI suggested tags":["Activism","Tactics","Plant_Based"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/saving-animals-in-nepal-with-sneha-shrestha/","tags":["Asia","Companion_Animals","Veganism"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-10-01T06:57:10.387+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep711/","tags":["Asia","Companion_Animals","Veganism"],"Year Published":"2023","AI suggested tags":["Activism","Tactics","Plant_Based"]}}
 ---
 
 There’s nothing we love more than talking to people who are saving animals in places we’ve never been to, and today we’ll be talking to Sneha Shrestha in Nepal about her extraordinary work saving dogs, helping farmed animals, and spreading veganism through her organization, Sneha’s Care.

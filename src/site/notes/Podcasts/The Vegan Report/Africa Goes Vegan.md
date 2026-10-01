@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/africa-goes-vegan/","tags":["Africa","Veganism","Movement_Building"],"created":"2026-09-01T06:50:16.000+01:00","updated":"2026-09-30T22:17:46.604+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/3090613","tags":["Africa","Veganism","Movement_Building"],"Year Published":"2026","AI suggested tags":["Activism","Movement_Strategy","Plant_Based"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/africa-goes-vegan/","tags":["Africa","Veganism","Movement_Building"],"created":"2026-09-01T06:50:16.000+01:00","updated":"2026-10-01T06:57:10.429+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/3090613","tags":["Africa","Veganism","Movement_Building"],"Year Published":"2026","AI suggested tags":["Activism","Movement_Strategy","Plant_Based"]}}
 ---
 
 In this episode, we're shining a light on something that doesn't get nearly enough attention: veganism and animal rights activism across the African continent.

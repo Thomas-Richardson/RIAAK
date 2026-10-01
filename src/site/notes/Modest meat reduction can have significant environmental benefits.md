@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modest-meat-reduction-can-have-significant-environmental-benefits/","tags":["Environment/GHG","Environment/Land","Meat","Companion_Animals"],"created":"2025-11-11T23:30:07.738+00:00","updated":"2026-09-30T23:02:30.462+01:00","dg-note-properties":{"tags":["Environment/GHG","Environment/Land","Meat","Companion_Animals"],"AI suggested tags":["Environment","Meat/Meat_Reduction","Cattle/Grass_Fed_Cattle"]}}
+{"dg-publish":true,"permalink":"/modest-meat-reduction-can-have-significant-environmental-benefits/","tags":["Environment/GHG","Environment/Land","Meat","Companion_Animals"],"created":"2025-11-11T23:30:07.738+00:00","updated":"2026-10-01T06:57:10.304+01:00","dg-note-properties":{"tags":["Environment/GHG","Environment/Land","Meat","Companion_Animals"],"AI suggested tags":["Meat/Meat_Reduction","Environment","Cattle/Grass_Fed_Cattle"]}}
 ---
 
 

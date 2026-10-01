@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/livestock-and-supply-chain-stability/","tags":["Bryant_Research/Project/CAWF_Food_Sec","Food_Security"],"created":"2025-10-23T17:42:44.186+01:00","updated":"2026-09-30T23:02:30.390+01:00","dg-note-properties":{"tags":["Bryant_Research/Project/CAWF_Food_Sec","Food_Security"],"AI suggested tags":["MFA_Food_Sec","Economics/Jobs","Bryant_Research/Project/CAWF_Food_Sec"]}}
+{"dg-publish":true,"permalink":"/livestock-and-supply-chain-stability/","tags":["Bryant_Research/Project/CAWF_Food_Sec","Food_Security"],"created":"2025-10-23T17:42:44.186+01:00","updated":"2026-10-01T06:57:10.292+01:00","dg-note-properties":{"tags":["Bryant_Research/Project/CAWF_Food_Sec","Food_Security"],"AI suggested tags":["MFA_Food_Sec","Economics/Jobs","UK"]}}
 ---
 
 

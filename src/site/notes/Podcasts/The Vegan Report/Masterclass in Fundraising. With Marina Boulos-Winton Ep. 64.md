@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/masterclass-in-fundraising-with-marina-boulos-winton-ep-64/","tags":["Movement_Building"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T22:17:46.650+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/1884565","tags":["Movement_Building"],"Year Published":"2025","AI suggested tags":["Movement_Strategy","Tactics","Activism"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/masterclass-in-fundraising-with-marina-boulos-winton-ep-64/","tags":["Movement_Building"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-10-01T06:57:10.460+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/1884565","tags":["Movement_Building"],"Year Published":"2025","AI suggested tags":["Movement_Strategy","Tactics","Activism"]}}
 ---
 
 It is said that "money is the nerve of war", and in the war of making a better world for animals, the same rule applies. The only reason why professional vegan nonprofits, such as Mercy for Animals, PETA, the Paul Watson Foundation or SASHA Farm, exist and thrive is because of money. And that money does not grow on trees: it is the result of extensive fundraising efforts.

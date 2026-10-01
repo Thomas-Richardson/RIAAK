@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/meat-industry-distorts-the-truth/","tags":["Meat_Industry","Greenwashing","Health/Nutrition"],"created":"2026-03-22T19:56:24.000+00:00","updated":"2026-09-30T23:03:17.651+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Meat_Industry","Greenwashing","Health/Nutrition"],"AI suggested tags":["Meat_Industry","Greenwashing","Animal_Feed"]}}
+{"dg-publish":true,"permalink":"/meat-industry-distorts-the-truth/","tags":["Meat_Industry","Greenwashing","Health/Nutrition"],"created":"2026-03-22T19:56:24.000+00:00","updated":"2026-10-01T06:57:10.299+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Meat_Industry","Greenwashing","Health/Nutrition"],"AI suggested tags":["Animal_Feed","Economics/Jobs","Dairy"]}}
 ---
 
 

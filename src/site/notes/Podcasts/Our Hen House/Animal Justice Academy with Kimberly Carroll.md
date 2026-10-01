@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/animal-justice-academy-with-kimberly-carroll/","tags":["Movement_Building","Activism"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T22:17:46.545+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep741/","tags":["Movement_Building","Activism"],"Year Published":"2024","AI suggested tags":["Tactics","High_Income_Countries/USA","Movement_Strategy"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/animal-justice-academy-with-kimberly-carroll/","tags":["Movement_Building","Activism"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-10-01T06:57:10.335+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep741/","tags":["Movement_Building","Activism"],"Year Published":"2024","AI suggested tags":["Tactics","High_Income_Countries/USA","Animal_Ethics"]}}
 ---
 
 Have you ever thought, “Animals are suffering, I have to DO something!!! But what?” Kimberly Carroll of Animal Justice Academy joins us to discuss the amazing, free, online program designed to help people who care about animals turn themselves into people who are doing something about it.

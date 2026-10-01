@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/livestock-on-leftovers-will-not-save-us-we-have-to-reduce-meat/","tags":["Animal_Feed","Environment/Land","Farming","Food_Security"],"created":"2025-10-23T17:42:42.803+01:00","updated":"2026-09-30T23:02:30.393+01:00","dg-note-properties":{"tags":["Animal_Feed","Environment/Land","Farming","Food_Security"],"Note Type":"undefined","AI suggested tags":["Economics/Jobs","MFA_Food_Sec","Bryant_Research/Project/CAWF_Food_Sec"]}}
+{"dg-publish":true,"permalink":"/livestock-on-leftovers-will-not-save-us-we-have-to-reduce-meat/","tags":["Animal_Feed","Environment/Land","Farming","Food_Security"],"created":"2025-10-23T17:42:42.803+01:00","updated":"2026-10-01T06:57:10.293+01:00","dg-note-properties":{"tags":["Animal_Feed","Environment/Land","Farming","Food_Security"],"Note Type":"undefined","AI suggested tags":["Economics/Jobs","MFA_Food_Sec","Bryant_Research/Project/CAWF_Food_Sec"]}}
 ---
 
 

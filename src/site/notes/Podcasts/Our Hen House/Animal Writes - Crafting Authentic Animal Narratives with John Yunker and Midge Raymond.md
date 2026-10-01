@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/animal-writes-crafting-authentic-animal-narratives-with-john-yunker-and-midge-raymond/","tags":["Narratives"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T22:17:46.546+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep881/","tags":["Narratives"],"Year Published":"2025","AI suggested tags":["Animal_Ethics","Philosophy","Wild_Animals"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/animal-writes-crafting-authentic-animal-narratives-with-john-yunker-and-midge-raymond/","tags":["Narratives"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-10-01T06:57:10.339+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep881/","tags":["Narratives"],"Year Published":"2025","AI suggested tags":["Animal_Ethics","Philosophy","Wild_Animals"]}}
 ---
 
 This episode explores how writers can authentically represent animals in literature with authors and publishers John Yunker and Midge Raymond, who discuss their new book Animal Writes and their Writing for Animals workshop. They share techniques for portraying animals as individuals rather than stereotypes, and offer guidance for writers who want to advocate for animals through their work.

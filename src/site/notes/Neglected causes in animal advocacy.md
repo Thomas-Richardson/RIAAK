@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neglected-causes-in-animal-advocacy/","tags":["Effective_Altruism","Movement_Building"],"created":"2025-10-23T17:42:41.427+01:00","updated":"2026-09-30T22:17:46.535+01:00","dg-note-properties":{"tags":["Effective_Altruism","Movement_Building"],"AI suggested tags":["Fish","Lower_Middle_Income_Countries","Asia"]}}
+{"dg-publish":true,"permalink":"/neglected-causes-in-animal-advocacy/","tags":["Effective_Altruism","Movement_Building"],"created":"2025-10-23T17:42:41.427+01:00","updated":"2026-10-01T06:57:10.306+01:00","dg-note-properties":{"tags":["Effective_Altruism","Movement_Building"],"AI suggested tags":["Fish","Lower_Middle_Income_Countries","Animal_Feed"]}}
 ---
 
 

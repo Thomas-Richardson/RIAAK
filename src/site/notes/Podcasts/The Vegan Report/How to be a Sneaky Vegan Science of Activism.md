@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/how-to-be-a-sneaky-vegan-science-of-activism/","tags":["Activism","Movement_Strategy","Veganism"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T22:17:46.634+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2256410","tags":["Activism","Movement_Strategy","Veganism"],"Year Published":"2025","AI suggested tags":["Tactics","Movement_Building","Narratives"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/how-to-be-a-sneaky-vegan-science-of-activism/","tags":["Activism","Movement_Strategy","Veganism"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-10-01T06:57:10.449+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2256410","tags":["Activism","Movement_Strategy","Veganism"],"Year Published":"2025","AI suggested tags":["Tactics","Movement_Building","Narratives"]}}
 ---
 
 I have a Big Announcement to make! In addition to the usual Tuesday episodes, I invite you to tune in every Wednesday for a special episode about the science of activism.

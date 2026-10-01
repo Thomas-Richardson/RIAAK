@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/labour-shortages-in-the-uk-agri/","tags":["Bryant_Research/Project/CAWF_Food_Sec","UK","Economics/Jobs"],"created":"2025-11-06T16:26:11.229+00:00","updated":"2026-09-30T23:02:30.382+01:00","dg-note-properties":{"tags":["Bryant_Research/Project/CAWF_Food_Sec","UK","Economics/Jobs"],"AI suggested tags":["Bryant_Research/Project/CAWF_Hidden_Harms","Bryant_Research/Project/CAWF_Food_Sec","Farming"]}}
+{"dg-publish":true,"permalink":"/labour-shortages-in-the-uk-agri/","tags":["Bryant_Research/Project/CAWF_Food_Sec","UK","Economics/Jobs"],"created":"2025-11-06T16:26:11.229+00:00","updated":"2026-10-01T06:57:10.286+01:00","dg-note-properties":{"tags":["Bryant_Research/Project/CAWF_Food_Sec","UK","Economics/Jobs"],"AI suggested tags":["Bryant_Research/Project/CAWF_Hidden_Harms","Farming","USA"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/red-and-processed-meat-and-cvd/","tags":["Diet","Health/Nutrition","Meat/Red_Meat"],"created":"2025-10-23T17:42:42.375+01:00","updated":"2026-09-30T22:10:53.188+01:00","dg-note-properties":{"tags":["Diet","Health/Nutrition","Meat/Red_Meat"],"AI suggested tags":["Nuts","Meat","Meat/Red_Meat"]}}
+{"dg-publish":true,"permalink":"/red-and-processed-meat-and-cvd/","tags":["Diet","Health/Nutrition","Meat/Red_Meat"],"created":"2025-10-23T17:42:42.375+01:00","updated":"2026-10-01T06:57:10.553+01:00","dg-note-properties":{"tags":["Diet","Health/Nutrition","Meat/Red_Meat"],"AI suggested tags":["Nuts","Meat","Review"]}}
 ---
 
 - [[Red and processed meat are bad for you\|Red and processed meat are bad for you]] 

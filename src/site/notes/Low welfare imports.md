@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/low-welfare-imports/","tags":["Farming","UK"],"created":"2025-10-23T17:42:43.163+01:00","updated":"2026-09-30T23:02:30.395+01:00","dg-note-properties":{"tags":["Farming","UK"],"AI suggested tags":["Bryant_Research/Project/CAWF_Food_Sec","Summer_Survey"]}}
+{"dg-publish":true,"permalink":"/low-welfare-imports/","tags":["Farming","UK"],"created":"2025-10-23T17:42:43.163+01:00","updated":"2026-10-01T06:57:10.295+01:00","dg-note-properties":{"tags":["Farming","UK"],"AI suggested tags":["Bryant_Research/Project/CAWF_Food_Sec","Bryant_Research/Project/CAWF_Hidden_Harms","Summer_Survey"]}}
 ---
 
 

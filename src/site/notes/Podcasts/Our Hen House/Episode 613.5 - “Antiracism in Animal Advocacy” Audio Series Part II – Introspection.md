@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/episode-613-5-antiracism-in-animal-advocacy-audio-series-part-ii-introspection/","tags":["Movement_Building","Movement_Strategy"],"created":"2026-07-15T12:19:41.000+01:00","updated":"2026-09-30T22:17:46.551+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/audio-series-2/","tags":["Movement_Building","Movement_Strategy"],"Year Published":"2021","AI suggested tags":["Activism","Narratives","Animal_Ethics"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/episode-613-5-antiracism-in-animal-advocacy-audio-series-part-ii-introspection/","tags":["Movement_Building","Movement_Strategy"],"created":"2026-07-15T12:19:41.000+01:00","updated":"2026-10-01T06:57:10.363+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/audio-series-2/","tags":["Movement_Building","Movement_Strategy"],"Year Published":"2021","AI suggested tags":["Activism","Narratives","Animal_Ethics"]}}
 ---
 
 Our Hen House is proud to offer you the second episode of the four-part audio series of the groundbreaking book, Antiracism in Animal Advocacy: Igniting Cultural Transformation. Our very own Jasmin Singer is the editor of this new anthology published by Lantern Books and Media, in collaboration with Encompass, Sentient Media, and, of course, Our Hen House.

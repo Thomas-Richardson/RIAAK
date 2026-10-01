@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/post-brexit-trade-deals-and-low-welfare-imports-an-urgent-cautionary-warning-for-the-uk/","tags":["Animal_Welfare","Bryant_Research/Insight","Consumer_Attitudes","Economics","Policy/Labeling","Politics","Summer_Survey","UK"],"created":"2025-10-23T17:42:47.415+01:00","updated":"2026-09-30T23:02:30.858+01:00","dg-note-properties":{"tags":["Animal_Welfare","Bryant_Research/Insight","Consumer_Attitudes","Economics","Policy/Labeling","Politics","Summer_Survey","UK"],"AI suggested tags":["Bryant_Research/Project/CAWF_Food_Sec","High_Income_Countries/UK"]}}
+{"dg-publish":true,"permalink":"/post-brexit-trade-deals-and-low-welfare-imports-an-urgent-cautionary-warning-for-the-uk/","tags":["Animal_Welfare","Bryant_Research/Insight","Consumer_Attitudes","Economics","Policy/Labeling","Politics","Summer_Survey","UK"],"created":"2025-10-23T17:42:47.415+01:00","updated":"2026-10-01T06:57:10.501+01:00","dg-note-properties":{"tags":["Animal_Welfare","Bryant_Research/Insight","Consumer_Attitudes","Economics","Policy/Labeling","Politics","Summer_Survey","UK"],"AI suggested tags":["Bryant_Research/Project/CAWF_Food_Sec","High_Income_Countries/UK","Food_Security"]}}
 ---
 
 

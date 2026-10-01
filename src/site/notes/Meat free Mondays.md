@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/meat-free-mondays/","tags":["Behaviour_Change","Veganism"],"created":"2025-10-23T17:42:43.070+01:00","updated":"2026-09-30T23:02:30.436+01:00","dg-note-properties":{"tags":["Behaviour_Change","Veganism"],"AI suggested tags":["Meat/Meat_Reduction","Institutional_Change","Health/Nutrition"]}}
+{"dg-publish":true,"permalink":"/meat-free-mondays/","tags":["Behaviour_Change","Veganism"],"created":"2025-10-23T17:42:43.070+01:00","updated":"2026-10-01T06:57:10.298+01:00","dg-note-properties":{"tags":["Behaviour_Change","Veganism"],"AI suggested tags":["Meat/Meat_Reduction","Institutional_Change","Health/Nutrition"]}}
 ---
 
 

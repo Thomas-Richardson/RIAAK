@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/our-kindred-creatures-with-bill-wasik-and-monica-murphy/","tags":["Movement_Strategy","Public_Opinion","High_Income_Countries/USA"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T22:17:46.557+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep754/","tags":["Movement_Strategy","Public_Opinion","High_Income_Countries/USA"],"Year Published":"2024","AI suggested tags":["Animal_Ethics","Philosophy","Activism"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/our-kindred-creatures-with-bill-wasik-and-monica-murphy/","tags":["Movement_Strategy","Public_Opinion","High_Income_Countries/USA"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-10-01T06:57:10.379+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep754/","tags":["Movement_Strategy","Public_Opinion","High_Income_Countries/USA"],"Year Published":"2024","AI suggested tags":["Animal_Ethics","Philosophy","Activism"]}}
 ---
 
 What lessons are there to be learned by studying the history of the movement, and how can we apply those lessons to our activism today? This week, we are joined by Bill Wasik & Monica Murphy to discuss the research and writing of their book Our Kindred Creatures: How Americans Came to Feel the Way They Do About Animals.

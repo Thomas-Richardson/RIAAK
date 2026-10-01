@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mintel-year-unknown/","tags":["Alternative_Proteins","Asia","Lower_Middle_Income_Countries","Consumer_Research","Alternative_Proteins/Plant_Based"],"created":"2025-10-23T17:42:41.798+01:00","updated":"2026-09-30T23:02:30.454+01:00","dg-note-properties":{"tags":["Alternative_Proteins","Asia","Lower_Middle_Income_Countries","Consumer_Research","Alternative_Proteins/Plant_Based"],"Note Type":"undefined","AI suggested tags":["Bryant_Research/Project/Good_Growth_Social_Listening","SE_Asia"]}}
+{"dg-publish":true,"permalink":"/mintel-year-unknown/","tags":["Alternative_Proteins","Asia","Lower_Middle_Income_Countries","Consumer_Research","Alternative_Proteins/Plant_Based"],"created":"2025-10-23T17:42:41.798+01:00","updated":"2026-10-01T06:57:10.304+01:00","dg-note-properties":{"tags":["Alternative_Proteins","Asia","Lower_Middle_Income_Countries","Consumer_Research","Alternative_Proteins/Plant_Based"],"Note Type":"undefined","AI suggested tags":["Bryant_Research/Project/Good_Growth_Social_Listening","SE_Asia","Consumer_Attitudes"]}}
 ---
 
 https://downloads.mintel.com/private/BMCE2/files/889404/

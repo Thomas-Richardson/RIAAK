@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/octopus-farming/","tags":["Fish/Farmed","Animal_Welfare","Animal_Feed","Health/Nutrition"],"created":"2025-10-23T17:42:47.517+01:00","updated":"2026-09-30T22:18:09.140+01:00","dg-note-properties":{"tags":["Fish/Farmed","Animal_Welfare","Animal_Feed","Health/Nutrition"],"AI suggested tags":["Fish","Fish/Farmed","Animal_Feed"]}}
+{"dg-publish":true,"permalink":"/octopus-farming/","tags":["Fish/Farmed","Animal_Welfare","Animal_Feed","Health/Nutrition"],"created":"2025-10-23T17:42:47.517+01:00","updated":"2026-10-01T06:57:10.307+01:00","dg-note-properties":{"tags":["Fish/Farmed","Animal_Welfare","Animal_Feed","Health/Nutrition"],"AI suggested tags":["Fish","Farming","Economics/Jobs"]}}
 ---
 
 

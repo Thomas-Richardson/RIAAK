@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/horseracing-wrongs-with-patrick-battuello/","tags":["Activism","High_Income_Countries/USA"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T22:17:46.554+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep742/","tags":["Activism","High_Income_Countries/USA"],"Year Published":"2024","AI suggested tags":["Law","Animal_Ethics","Tactics"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/horseracing-wrongs-with-patrick-battuello/","tags":["Activism","High_Income_Countries/USA"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-10-01T06:57:10.375+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep742/","tags":["Activism","High_Income_Countries/USA"],"Year Published":"2024","AI suggested tags":["Law","Animal_Ethics","Tactics"]}}
 ---
 
 Horseracing’s popularity has declined over the years, so how is this industry still alive? This week we are joined by Patrick Battuello of Horseracing Wrongs, who sheds light on the brutality and corruption that is the horseracing industry.

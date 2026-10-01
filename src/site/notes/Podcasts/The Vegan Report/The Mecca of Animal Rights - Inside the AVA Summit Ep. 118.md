@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/the-mecca-of-animal-rights-inside-the-ava-summit-ep-118/","tags":["Movement_Building","Strategy"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T22:17:46.672+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2877647","tags":["Movement_Building","Strategy"],"Year Published":"2026","AI suggested tags":["Activism","Animal_Ethics","Philosophy"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/the-mecca-of-animal-rights-inside-the-ava-summit-ep-118/","tags":["Movement_Building","Strategy"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-10-01T06:57:10.488+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2877647","tags":["Movement_Building","Strategy"],"Year Published":"2026","AI suggested tags":["Activism","Animal_Ethics","Philosophy"]}}
 ---
 
 Dharma Voices for Animals is more than just an impactful organization—it’s a vibrant community grounded in compassion, kindness, and a shared commitment to helping animals.

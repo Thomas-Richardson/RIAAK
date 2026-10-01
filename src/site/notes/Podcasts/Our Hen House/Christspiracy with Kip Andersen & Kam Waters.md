@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/christspiracy-with-kip-andersen-and-kam-waters/","tags":["Animal_Ethics","Narratives"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T22:17:46.548+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep724/","tags":["Animal_Ethics","Narratives"],"Year Published":"2023","AI suggested tags":["Philosophy","Activism","Plant_Based"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/christspiracy-with-kip-andersen-and-kam-waters/","tags":["Animal_Ethics","Narratives"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-10-01T06:57:10.347+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep724/","tags":["Animal_Ethics","Narratives"],"Year Published":"2023","AI suggested tags":["Philosophy","Activism","Plant_Based"]}}
 ---
 
 What started with the question, “Is there a spiritual way to kill an animal?” has become the newest investigative documentary from Kip Anderson, of Cowspiracy fame, and Kam Waters. Join the journey to discover why so many religions who hold compassion as a sacred tenet turn a blind eye to animal suffering.

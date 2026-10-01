@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-many-animals-are-farmed-and-slaughtered-each-year/","tags":["Factory_Farming"],"created":"2025-10-23T17:42:41.838+01:00","updated":"2026-09-30T23:02:30.341+01:00","dg-note-properties":{"tags":["Factory_Farming"],"AI suggested tags":["USA","Farming","Animal_Feed"]}}
+{"dg-publish":true,"permalink":"/how-many-animals-are-farmed-and-slaughtered-each-year/","tags":["Factory_Farming"],"created":"2025-10-23T17:42:41.838+01:00","updated":"2026-10-01T06:57:10.278+01:00","dg-note-properties":{"tags":["Factory_Farming"],"AI suggested tags":["USA","Farming","Animal_Feed"]}}
 ---
 
 

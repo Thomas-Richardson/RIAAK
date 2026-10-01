@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/can-china-go-vegan-with-jian-yi/","tags":["China","Movement_Building","Veganism"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T22:17:46.548+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep732/","tags":["China","Movement_Building","Veganism"],"Year Published":"2024","AI suggested tags":["Plant_Based","Movement_Strategy","Activism"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/can-china-go-vegan-with-jian-yi/","tags":["China","Movement_Building","Veganism"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-10-01T06:57:10.343+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep732/","tags":["China","Movement_Building","Veganism"],"Year Published":"2024","AI suggested tags":["Plant_Based","Movement_Strategy","Activism"]}}
 ---
 
 We all know that China is an important piece of the puzzle when it comes to vegan advocacy, but what is the status of advocacy there? Join us as Jian Yi sheds light on his work with The Good Food Fund and China Vegan Society.

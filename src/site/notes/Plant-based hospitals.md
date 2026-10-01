@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/plant-based-hospitals/","tags":["Behaviour_Change","Environment","Health/Nutrition","Institutional_Change","Veganism"],"created":"2025-10-23T17:42:42.063+01:00","updated":"2026-09-30T23:02:30.508+01:00","dg-note-properties":{"tags":["Behaviour_Change","Environment","Health/Nutrition","Institutional_Change","Veganism"],"AI suggested tags":["Case_Study","Economics/Costs","Research/YouGov"]}}
+{"dg-publish":true,"permalink":"/plant-based-hospitals/","tags":["Behaviour_Change","Environment","Health/Nutrition","Institutional_Change","Veganism"],"created":"2025-10-23T17:42:42.063+01:00","updated":"2026-10-01T06:57:10.311+01:00","dg-note-properties":{"tags":["Behaviour_Change","Environment","Health/Nutrition","Institutional_Change","Veganism"],"AI suggested tags":["Case_Study","Economics/Costs","Research/YouGov"]}}
 ---
 
 

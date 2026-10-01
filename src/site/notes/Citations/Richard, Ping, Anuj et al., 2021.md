@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/richard-ping-anuj-et-al-2021/","tags":["Citation","Alternative_Proteins","Asia","Consumer_Research","Bryant_Research/Project/Good_Growth_Social_Listening","SE_Asia"],"created":"2025-10-23T17:42:46.898+01:00","updated":"2026-10-01T06:57:10.000+01:00","dg-note-properties":{"tags":["Citation","Alternative_Proteins","Asia","Consumer_Research","Bryant_Research/Project/Good_Growth_Social_Listening","SE_Asia"],"Note Type":"undefined","AI suggested tags":["Lower_Middle_Income_Countries","Consumer_Attitudes","Economics"]}}
+{"dg-publish":true,"permalink":"/citations/richard-ping-anuj-et-al-2021/","tags":["Citation","Alternative_Proteins","Asia","Consumer_Research","Bryant_Research/Project/Good_Growth_Social_Listening","SE_Asia"],"created":"2025-10-23T17:42:46.898+01:00","updated":"2026-10-01T13:49:34.792+01:00","dg-note-properties":{"tags":["Citation","Alternative_Proteins","Asia","Consumer_Research","Bryant_Research/Project/Good_Growth_Social_Listening","SE_Asia"],"Note Type":"undefined","Url":"https://www.temasek.com.sg/content/dam/temasek-corporate/news-and-views/resources/reports/afc-report-2021.pdf","AI suggested tags":["Lower_Middle_Income_Countries","Consumer_Attitudes","Economics"]}}
 ---
 
 - [x] reviewed

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/pathways-to-protecting-farmed-animals-in-qatar-animetrics-et-al/","tags":["Middle_East","Consumer_Attitudes","Animal_Welfare","Plant_Based"],"created":"2026-03-29T23:58:31.000+01:00","updated":"2026-09-30T19:55:01.886+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Middle_East","Consumer_Attitudes","Animal_Welfare","Plant_Based"],"source_url":"file:///Users/thomasmanandhar-richardson/Downloads/Animetrics%20x%20MEVS%20Country%20Reports_QTR.pdf","created":"2026-03-26","AI suggested tags":["Public_Opinion","Consumer_Research","Asia"]}}
+{"dg-publish":true,"permalink":"/citations/pathways-to-protecting-farmed-animals-in-qatar-animetrics-et-al/","tags":["Middle_East","Consumer_Attitudes","Animal_Welfare","Plant_Based"],"created":"2026-03-29T23:58:31.000+01:00","updated":"2026-10-01T13:49:34.787+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.animetrics.org/projects/pathways-to-protecting-farmed-animals-in-qatar","tags":["Middle_East","Consumer_Attitudes","Animal_Welfare","Plant_Based"],"source_url":"file:///Users/thomasmanandhar-richardson/Downloads/Animetrics%20x%20MEVS%20Country%20Reports_QTR.pdf","created":"2026-03-26","AI suggested tags":["Public_Opinion","Consumer_Research","Asia"]}}
 ---
 
 

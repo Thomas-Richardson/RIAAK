@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/international-food-information-council-foundation-2018/","tags":["Citation","Consumer_Research","Dairy","Policy/Labeling"],"created":"2025-10-23T17:42:46.392+01:00","updated":"2026-09-30T19:55:01.715+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Citation","Consumer_Research","Dairy","Policy/Labeling"],"AI suggested tags":["Report","Consumer_Attitudes","Plant_Based/Marketing"]}}
+{"dg-publish":true,"permalink":"/citations/international-food-information-council-foundation-2018/","tags":["Citation","Consumer_Research","Dairy","Policy/Labeling"],"created":"2025-10-23T17:42:46.392+01:00","updated":"2026-10-01T13:49:34.791+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://ific.org/research/whats-in-a-name-survey-explores-consumers-comprehension-of-milk-and-non-dairy-alternatives/","tags":["Citation","Consumer_Research","Dairy","Policy/Labeling"],"AI suggested tags":["Report","Consumer_Attitudes","Plant_Based/Marketing"]}}
 ---
 
 

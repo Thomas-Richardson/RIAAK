@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/protein-production-in-the-eu-policies-gaps-and-opportunities-european-vegetarian-union-et-al/","tags":["Alternative_Proteins/Plant_Based","EU","Farming","Policy/Food_Policy"],"created":"2026-03-24T11:47:48.282+00:00","updated":"2026-09-30T19:55:01.921+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Alternative_Proteins/Plant_Based","EU","Farming","Policy/Food_Policy"],"source_url":"local file","created":"2026-03-24","AI suggested tags":["Alternative_Proteins","Food_Security","Economics"]}}
+{"dg-publish":true,"permalink":"/citations/protein-production-in-the-eu-policies-gaps-and-opportunities-european-vegetarian-union-et-al/","tags":["Alternative_Proteins/Plant_Based","EU","Farming","Policy/Food_Policy"],"created":"2026-03-24T11:47:48.282+00:00","updated":"2026-10-01T13:49:34.810+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://proveg.org/report/protein-production-in-the-eu-policies-gaps-and-opportunities/","tags":["Alternative_Proteins/Plant_Based","EU","Farming","Policy/Food_Policy"],"source_url":"local file","created":"2026-03-24","AI suggested tags":["Alternative_Proteins","Food_Security","Economics"]}}
 ---
 
 

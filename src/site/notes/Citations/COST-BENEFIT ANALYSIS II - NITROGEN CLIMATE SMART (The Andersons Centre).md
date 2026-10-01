@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/cost-benefit-analysis-ii-nitrogen-climate-smart-the-andersons-centre/","tags":["Legumes","Animal_Feed","Economics","Environment/GHG","High_Income_Countries/UK"],"created":"2026-01-30T14:51:08.352+00:00","updated":"2026-09-30T19:55:01.421+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Legumes","Animal_Feed","Economics","Environment/GHG","High_Income_Countries/UK"],"source_url":"local file","created":"2026-01-30","AI suggested tags":["Economics/Costs","Environment/Land","Meat/Meat_Reduction"]}}
+{"dg-publish":true,"permalink":"/citations/cost-benefit-analysis-ii-nitrogen-climate-smart-the-andersons-centre/","tags":["Legumes","Animal_Feed","Economics","Environment/GHG","High_Income_Countries/UK"],"created":"2026-01-30T14:51:08.352+00:00","updated":"2026-10-01T13:49:34.781+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://farmpep.net/resource/cost-benefit-analysis-2-nitrogen-climate-smart","tags":["Legumes","Animal_Feed","Economics","Environment/GHG","High_Income_Countries/UK"],"source_url":"local file","created":"2026-01-30","AI suggested tags":["Economics/Costs","Environment/Land","Meat/Meat_Reduction"]}}
 ---
 
 

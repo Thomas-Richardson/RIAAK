@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/muslim-consumers-perspectives-on-animal-welfare-in-halal-production-and-dietary-choices-in-tuerkiye-animetrics/","tags":["Animal_Welfare","Consumer_Attitudes","Meat","Middle_East"],"created":"2026-07-15T12:19:39.000+01:00","updated":"2026-09-30T19:55:01.855+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Animal_Welfare","Consumer_Attitudes","Meat","Middle_East"],"source_url":"local file","created":"2026-03-24","AI suggested tags":["Consumer_Research","Public_Opinion","Asia"]}}
+{"dg-publish":true,"permalink":"/citations/muslim-consumers-perspectives-on-animal-welfare-in-halal-production-and-dietary-choices-in-tuerkiye-animetrics/","tags":["Animal_Welfare","Consumer_Attitudes","Meat","Middle_East"],"created":"2026-07-15T12:19:39.000+01:00","updated":"2026-10-01T13:49:34.807+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.animetrics.org/projects/muslim-consumers-perspectives","tags":["Animal_Welfare","Consumer_Attitudes","Meat","Middle_East"],"source_url":"local file","created":"2026-03-24","AI suggested tags":["Consumer_Research","Public_Opinion","Asia"]}}
 ---
 
 

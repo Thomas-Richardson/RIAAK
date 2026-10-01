@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/food-expenditure-and-vegetarianism-the-mediating-role-of-employment-status-in-more-sustainable-and-economical-food-choices-in-spain-university-of-gibraltar-et-al/","tags":["EU","Economics/Costs","Meat/Meat_Reduction","Consumer_Research"],"created":"2026-02-17T11:06:31.361+00:00","updated":"2026-09-30T19:55:01.598+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["EU","Economics/Costs","Meat/Meat_Reduction","Consumer_Research"],"source_url":"local file","created":"2026-02-17","AI suggested tags":["Veg_Diets","Review","Behaviour_Change"]}}
+{"dg-publish":true,"permalink":"/citations/food-expenditure-and-vegetarianism-the-mediating-role-of-employment-status-in-more-sustainable-and-economical-food-choices-in-spain-university-of-gibraltar-et-al/","tags":["EU","Economics/Costs","Meat/Meat_Reduction","Consumer_Research"],"created":"2026-02-17T11:06:31.361+00:00","updated":"2026-10-01T13:49:34.789+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://doi.org/10.1057/s41599-025-06353-y","tags":["EU","Economics/Costs","Meat/Meat_Reduction","Consumer_Research"],"source_url":"local file","created":"2026-02-17","AI suggested tags":["Veg_Diets","Review","Behaviour_Change"]}}
 ---
 
 

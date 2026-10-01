@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/ultra-processed-animals-coller-animal-law-forum/","tags":["UPF","Factory_Farming","Policy/Labeling","Health"],"created":"2026-04-12T18:01:16.000+01:00","updated":"2026-09-30T19:55:02.208+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["UPF","Factory_Farming","Policy/Labeling","Health"],"source_url":"file:///Users/thomasmanandhar-richardson/Downloads/BM_UPA_Whitepaper_A5_148x210mm_V8_1April-2_1.pdf","created":"2026-04-09","AI suggested tags":["Policy/Food_Policy","Policy","Meat_Industry"]}}
+{"dg-publish":true,"permalink":"/citations/ultra-processed-animals-coller-animal-law-forum/","tags":["UPF","Factory_Farming","Policy/Labeling","Health"],"created":"2026-04-12T18:01:16.000+01:00","updated":"2026-10-01T13:49:34.779+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://ultraprocessedanimals.com/wp-content/uploads/2026/04/JCF-UPA-whitepaper.pdf","tags":["UPF","Factory_Farming","Policy/Labeling","Health"],"source_url":"file:///Users/thomasmanandhar-richardson/Downloads/BM_UPA_Whitepaper_A5_148x210mm_V8_1April-2_1.pdf","created":"2026-04-09","AI suggested tags":["Policy/Food_Policy","Policy","Meat_Industry"]}}
 ---
 
 

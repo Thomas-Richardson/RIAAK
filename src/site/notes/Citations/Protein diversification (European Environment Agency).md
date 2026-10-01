@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/protein-diversification-european-environment-agency/","tags":["EU","Alternative_Proteins","Food_Security","Environment"],"created":"2026-06-28T17:06:55.000+01:00","updated":"2026-09-30T19:55:01.924+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["EU","Alternative_Proteins","Food_Security","Environment"],"source_url":null,"created":"2026-06-26","AI suggested tags":["Environment/Land","Environment/GHG","Economics"]}}
+{"dg-publish":true,"permalink":"/citations/protein-diversification-european-environment-agency/","tags":["EU","Alternative_Proteins","Food_Security","Environment"],"created":"2026-06-28T17:06:55.000+01:00","updated":"2026-10-01T13:49:34.803+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.eea.europa.eu/en/analysis/publications/protein-diversification-in-europe-risks-and-opportunities-for-sustainable-food-systems","tags":["EU","Alternative_Proteins","Food_Security","Environment"],"source_url":null,"created":"2026-06-26","AI suggested tags":["Environment/Land","Environment/GHG","Economics"]}}
 ---
 
 

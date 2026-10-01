@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/shepon-eshel-noor-and-milo-2018/","tags":["Citation","Farming","Health/Nutrition","MFA_Food_Sec"],"created":"2025-10-23T17:42:45.424+01:00","updated":"2026-10-01T06:57:10.036+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Citation","Farming","Health/Nutrition","MFA_Food_Sec"],"AI suggested tags":["Environment/Land","Environment/GHG","Meat"]}}
+{"dg-publish":true,"permalink":"/citations/shepon-eshel-noor-and-milo-2018/","tags":["Citation","Farming","Health/Nutrition","MFA_Food_Sec"],"created":"2025-10-23T17:42:45.424+01:00","updated":"2026-10-01T13:49:34.796+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://doi.org/10.1073/pnas.1713820115","tags":["Citation","Farming","Health/Nutrition","MFA_Food_Sec"],"AI suggested tags":["Environment/Land","Environment/GHG","Meat"]}}
 ---
 
 - Says more or less the same thing as [[Citations/Berners-Lee, Watson and Hewitt 2018\|Berners-Lee, Watson and Hewitt 2018]]

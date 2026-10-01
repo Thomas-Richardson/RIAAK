@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/milking-it-the-humane-league-labs/","tags":["Alternative_Proteins/Plant_Based","Dairy","Economics","High_Income_Countries/USA"],"created":"2026-06-24T17:02:32.000+01:00","updated":"2026-09-30T19:55:01.839+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Alternative_Proteins/Plant_Based","Dairy","Economics","High_Income_Countries/USA"],"source_url":"file:///Users/thomasmanandhar-richardson/Downloads/milking%20it.pdf","created":"2026-04-27","AI suggested tags":["Consumer_Research","Review","Citation"]}}
+{"dg-publish":true,"permalink":"/citations/milking-it-the-humane-league-labs/","tags":["Alternative_Proteins/Plant_Based","Dairy","Economics","High_Income_Countries/USA"],"created":"2026-06-24T17:02:32.000+01:00","updated":"2026-10-01T13:49:34.806+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://thehumaneleague.org/article/E019R02-exploring-impact-plant-based-milk","tags":["Alternative_Proteins/Plant_Based","Dairy","Economics","High_Income_Countries/USA"],"source_url":"file:///Users/thomasmanandhar-richardson/Downloads/milking%20it.pdf","created":"2026-04-27","AI suggested tags":["Consumer_Research","Review","Citation"]}}
 ---
 
 

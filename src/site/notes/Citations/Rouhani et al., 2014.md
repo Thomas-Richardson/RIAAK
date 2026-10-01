@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/rouhani-et-al-2014/","tags":["Citation","Health/Nutrition","Meat"],"created":"2025-10-23T17:42:44.888+01:00","updated":"2026-10-01T06:57:10.013+01:00","dg-note-properties":{"tags":["Citation","Health/Nutrition","Meat"],"AI suggested tags":["Meat/Red_Meat","Diet","Nuts"]}}
+{"dg-publish":true,"permalink":"/citations/rouhani-et-al-2014/","tags":["Citation","Health/Nutrition","Meat"],"created":"2025-10-23T17:42:44.888+01:00","updated":"2026-10-01T13:49:34.776+01:00","dg-note-properties":{"tags":["Citation","Health/Nutrition","Meat"],"AI suggested tags":["Meat/Red_Meat","Diet","Nuts"],"Url":"https://doi.org/10.1111/obr.12172"}}
 ---
 
 

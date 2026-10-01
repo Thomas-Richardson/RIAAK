@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/reforming-pig-welfare-in-the-european-union-the-european-institute-for-animal-law-and-policy/","tags":["EU","Pigs","Economics","Policy"],"created":"2026-09-10T12:42:52.000+01:00","updated":"2026-09-30T19:55:01.946+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["EU","Pigs","Economics","Policy"],"source_url":"file:///Users/thomasmanandhar-richardson/Downloads/EIALP_White-Paper_Reforming-Pig-Welfare-in-the-European-Union.pdf","created":"2026-09-09","AI suggested tags":["Animal_Welfare","Chickens","Farmers"]}}
+{"dg-publish":true,"permalink":"/citations/reforming-pig-welfare-in-the-european-union-the-european-institute-for-animal-law-and-policy/","tags":["EU","Pigs","Economics","Policy"],"created":"2026-09-10T12:42:52.000+01:00","updated":"2026-10-01T13:49:34.775+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://animallaweurope.org/white-paper-reforming-pig-welfare-in-the-european-union/","tags":["EU","Pigs","Economics","Policy"],"source_url":"file:///Users/thomasmanandhar-richardson/Downloads/EIALP_White-Paper_Reforming-Pig-Welfare-in-the-European-Union.pdf","created":"2026-09-09","AI suggested tags":["Animal_Welfare","Chickens","Farmers"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/blueprint-for-plant-based-growth-systemiq-et-al/","tags":["Alternative_Proteins/Plant_Based","High_Income_Countries/UK","Retailers","Marketing"],"created":"2026-07-12T17:06:12.000+01:00","updated":"2026-09-30T19:55:01.397+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Alternative_Proteins/Plant_Based","High_Income_Countries/UK","Retailers","Marketing"],"source_url":"file:///Users/thomasmanandhar-richardson/Downloads/Blueprint-for-Plant-Based-Growth.pdf","created":"2026-06-29","AI suggested tags":["Alternative_Proteins","Economics","Case_Study"]}}
+{"dg-publish":true,"permalink":"/citations/blueprint-for-plant-based-growth-systemiq-et-al/","tags":["Alternative_Proteins/Plant_Based","High_Income_Countries/UK","Retailers","Marketing"],"created":"2026-07-12T17:06:12.000+01:00","updated":"2026-10-01T13:49:34.794+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://proveg.org/report/blueprint-for-plant-based-growth/","tags":["Alternative_Proteins/Plant_Based","High_Income_Countries/UK","Retailers","Marketing"],"source_url":"file:///Users/thomasmanandhar-richardson/Downloads/Blueprint-for-Plant-Based-Growth.pdf","created":"2026-06-29","AI suggested tags":["Alternative_Proteins","Economics","Case_Study"]}}
 ---
 
 

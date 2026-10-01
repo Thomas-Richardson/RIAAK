@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-state-of-animal-advocacy-in-the-u-s-and-canada-faunalytics/","tags":["Movement_Building","Retention","Working_Conditions","High_Income_Countries/USA","Canada"],"created":"2026-07-15T12:19:40.000+01:00","updated":"2026-09-30T19:55:02.141+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Movement_Building","Retention","Working_Conditions","High_Income_Countries/USA","Canada"],"source_url":"file:///Users/thomasmanandhar-richardson/Downloads/Advocate%20Retention%20Report.pdf","created":"2026-07-15","AI suggested tags":["Public_Opinion","Research/Methods","Policy"]}}
+{"dg-publish":true,"permalink":"/citations/the-state-of-animal-advocacy-in-the-u-s-and-canada-faunalytics/","tags":["Movement_Building","Retention","Working_Conditions","High_Income_Countries/USA","Canada"],"created":"2026-07-15T12:19:40.000+01:00","updated":"2026-10-01T13:49:34.812+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/advocate-retention/","tags":["Movement_Building","Retention","Working_Conditions","High_Income_Countries/USA","Canada"],"source_url":"file:///Users/thomasmanandhar-richardson/Downloads/Advocate%20Retention%20Report.pdf","created":"2026-07-15","AI suggested tags":["Public_Opinion","Research/Methods","Policy"]}}
 ---
 
 

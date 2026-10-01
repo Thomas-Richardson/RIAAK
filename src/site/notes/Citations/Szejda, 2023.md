@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/szejda-2023/","tags":["Citation","Materials"],"created":"2025-10-23T17:42:46.361+01:00","updated":"2026-09-30T19:55:02.098+01:00","dg-note-properties":{"tags":["Citation","Materials"],"AI suggested tags":["Consumer_Research","Consumer_Attitudes","China"]}}
+{"dg-publish":true,"permalink":"/citations/szejda-2023/","tags":["Citation","Materials"],"created":"2025-10-23T17:42:46.361+01:00","updated":"2026-10-01T13:49:34.804+01:00","dg-note-properties":{"tags":["Citation","Materials"],"AI suggested tags":["Consumer_Research","Consumer_Attitudes","China"],"Url":"https://materialinnovation.org/wp-content/uploads/2023-US-Consumer-Research-Report-1.pdf"}}
 ---
 
 

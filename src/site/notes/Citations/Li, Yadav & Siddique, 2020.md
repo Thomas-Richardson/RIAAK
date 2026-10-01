@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/li-yadav-and-siddique-2020/","tags":["Citation","Health/Nutrition","Lower_Middle_Income_Countries"],"created":"2025-10-23T17:42:45.664+01:00","updated":"2026-09-30T19:55:01.771+01:00","dg-note-properties":{"tags":["Citation","Health/Nutrition","Lower_Middle_Income_Countries"],"AI suggested tags":["MFA_Food_Sec","Food_Security","Animal_Feed"]}}
+{"dg-publish":true,"permalink":"/citations/li-yadav-and-siddique-2020/","tags":["Citation","Health/Nutrition","Lower_Middle_Income_Countries"],"created":"2025-10-23T17:42:45.664+01:00","updated":"2026-10-01T13:49:34.780+01:00","dg-note-properties":{"tags":["Citation","Health/Nutrition","Lower_Middle_Income_Countries"],"AI suggested tags":["MFA_Food_Sec","Food_Security","Animal_Feed"],"Url":"https://doi.org/10.3389/fnut.2020.593711"}}
 ---
 
 

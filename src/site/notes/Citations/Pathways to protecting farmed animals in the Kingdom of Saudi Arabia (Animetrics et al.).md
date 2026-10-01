@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/pathways-to-protecting-farmed-animals-in-the-kingdom-of-saudi-arabia-animetrics-et-al/","tags":["Middle_East","Consumer_Attitudes","Animal_Welfare","Policy"],"created":"2026-03-29T23:58:31.000+01:00","updated":"2026-09-30T19:55:01.889+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Middle_East","Consumer_Attitudes","Animal_Welfare","Policy"],"source_url":"file:///Users/thomasmanandhar-richardson/Downloads/Animetrics%20x%20MEVS%20Country%20Reports_KSA.pdf","created":"2026-03-26","AI suggested tags":["Public_Opinion","Consumer_Research","SE_Asia"]}}
+{"dg-publish":true,"permalink":"/citations/pathways-to-protecting-farmed-animals-in-the-kingdom-of-saudi-arabia-animetrics-et-al/","tags":["Middle_East","Consumer_Attitudes","Animal_Welfare","Policy"],"created":"2026-03-29T23:58:31.000+01:00","updated":"2026-10-01T13:49:34.786+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.animetrics.org/projects/pathways-to-protecting-farmed-animals-in-the-kingdom-of-saudi-arabia","tags":["Middle_East","Consumer_Attitudes","Animal_Welfare","Policy"],"source_url":"file:///Users/thomasmanandhar-richardson/Downloads/Animetrics%20x%20MEVS%20Country%20Reports_KSA.pdf","created":"2026-03-26","AI suggested tags":["Public_Opinion","Consumer_Research","SE_Asia"]}}
 ---
 
 

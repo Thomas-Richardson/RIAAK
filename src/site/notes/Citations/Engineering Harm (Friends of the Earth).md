@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/engineering-harm-friends-of-the-earth/","tags":["Animal_Welfare","Factory_Farming","High_Income_Countries/USA","Policy"],"created":"2026-07-22T06:50:18.000+01:00","updated":"2026-09-30T19:55:01.525+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Animal_Welfare","Factory_Farming","High_Income_Countries/USA","Policy"],"source_url":"file:///Users/thomasmanandhar-richardson/Downloads/GMO_Animal_final_v2_062426.pdf","created":"2026-07-21","AI suggested tags":["Environment/Pollution","Farmers","Animal_Feed"]}}
+{"dg-publish":true,"permalink":"/citations/engineering-harm-friends-of-the-earth/","tags":["Animal_Welfare","Factory_Farming","High_Income_Countries/USA","Policy"],"created":"2026-07-22T06:50:18.000+01:00","updated":"2026-10-01T13:49:34.798+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://foe.org/wp-content/uploads/2026/07/GMO_Animal_final_v2_062426.pdf","tags":["Animal_Welfare","Factory_Farming","High_Income_Countries/USA","Policy"],"source_url":"file:///Users/thomasmanandhar-richardson/Downloads/GMO_Animal_final_v2_062426.pdf","created":"2026-07-21","AI suggested tags":["Environment/Pollution","Farmers","Animal_Feed"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/marques-et-al-2018/","tags":["Citation","Economics"],"created":"2025-10-23T17:42:44.399+01:00","updated":"2026-09-30T19:55:01.814+01:00","dg-note-properties":{"tags":["Citation","Economics"],"AI suggested tags":["Meat","Meat/Meat_Consumption","High_Income_Countries"]}}
+{"dg-publish":true,"permalink":"/citations/marques-et-al-2018/","tags":["Citation","Economics"],"created":"2025-10-23T17:42:44.399+01:00","updated":"2026-10-01T13:49:34.793+01:00","dg-note-properties":{"tags":["Citation","Economics"],"AI suggested tags":["Meat","Meat/Meat_Consumption","High_Income_Countries"],"Url":"https://doi.org/10.1016/j.jclepro.2018.06.011"}}
 ---
 
 

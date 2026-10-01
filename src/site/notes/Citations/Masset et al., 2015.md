@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/masset-et-al-2015/","tags":["Citation","Health/Nutrition","Lower_Middle_Income_Countries","MFA_Food_Sec"],"created":"2025-10-23T17:42:45.145+01:00","updated":"2026-09-30T19:55:01.819+01:00","dg-note-properties":{"tags":["Citation","Health/Nutrition","Lower_Middle_Income_Countries","MFA_Food_Sec"],"AI suggested tags":["Review","High_Income_Countries","Legumes"]}}
+{"dg-publish":true,"permalink":"/citations/masset-et-al-2015/","tags":["Citation","Health/Nutrition","Lower_Middle_Income_Countries","MFA_Food_Sec"],"created":"2025-10-23T17:42:45.145+01:00","updated":"2026-10-01T13:49:34.809+01:00","dg-note-properties":{"tags":["Citation","Health/Nutrition","Lower_Middle_Income_Countries","MFA_Food_Sec"],"AI suggested tags":["Review","High_Income_Countries","Legumes"],"Url":"https://doi.org/10.1136/bmj.d8222"}}
 ---
 
 

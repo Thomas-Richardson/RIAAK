@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/gilbert-and-morgan-2010/","tags":["Citation","Economics","Meat"],"created":"2025-10-23T17:42:46.934+01:00","updated":"2026-09-30T19:55:01.620+01:00","dg-note-properties":{"tags":["Citation","Economics","Meat"],"AI suggested tags":["UK","Economics/Costs","Food_Security"]}}
+{"dg-publish":true,"permalink":"/citations/gilbert-and-morgan-2010/","tags":["Citation","Economics","Meat"],"created":"2025-10-23T17:42:46.934+01:00","updated":"2026-10-01T13:49:34.799+01:00","dg-note-properties":{"tags":["Citation","Economics","Meat"],"AI suggested tags":["UK","Economics/Costs","Food_Security"],"Url":"https://doi.org/10.1098/rstb.2010.0139"}}
 ---
 
 

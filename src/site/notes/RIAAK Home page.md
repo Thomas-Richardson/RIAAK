@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/riaak-home-page/","tags":["gardenEntry"],"created":"2025-10-23T17:42:41.615+01:00","updated":"2026-10-01T12:45:33.099+01:00","dg-note-properties":{"tags":null,"Note Type":"RIAAK Admin","AI suggested tags":["Research","Research/Methods","External_Resource"]}}
+{"dg-publish":true,"permalink":"/riaak-home-page/","tags":["gardenEntry"],"created":"2025-10-23T17:42:41.615+01:00","updated":"2026-10-01T13:50:02.220+01:00","dg-note-properties":{"tags":null,"Note Type":"RIAAK Admin","AI suggested tags":["Research","Research/Methods","External_Resource"]}}
 ---
 
 This is the homepage for Richie's Impactful Animal Advocacy Knowledge-base, aka RIAAK!
 
-Here I publish my notes on Animal Advocacy that I use in my role as the Director of Research at [Bryant Research](https://bryantresearch.co.uk/). Feel free to use them for your own work.
+Here I publish my notes on Animal Advocacy that I use in my work, as the former Director of Research at [Bryant Research](https://bryantresearch.co.uk/) and current AI Impact Director at [Vegan Hacktivists](https://veganhacktivists.org/). Feel free to use them for your own work.
 
 ---
 # What's in RIAAK?

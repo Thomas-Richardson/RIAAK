@@ -25,3 +25,52 @@ body {
         border-radius: 8px;
     }
 }
+
+/* Layout without the sidebar file tree (dgShowFileTree=false since Oct 2026).
+   The template still keeps 330px on the left for the file tree and centres
+   only the text column, which left a wide empty strip on the left.
+   - Above 1400px, where the right-hand panel is pinned beside the text,
+     centre the text column and the panel together as one block, and let the
+     text column be a little wider.
+   - From 1001px to 1400px the panel is tucked behind a button, so just centre
+     the text column. Below that the template's own layout is already fine. */
+body.no-filetree {
+    --riaak-content-width: 760px;
+    --riaak-panel-width: 300px;
+    --riaak-panel-gap: 48px;
+    --riaak-page-padding: 32px; /* the page's own padding to the left of the text */
+    --riaak-left: max(0px, calc((100vw - var(--riaak-content-width) - var(--riaak-panel-width) - var(--riaak-panel-gap)) / 2 - var(--riaak-page-padding)));
+}
+
+@media (min-width: 1401px) {
+    body.no-filetree .content:not(.canvas-page) {
+        max-width: var(--riaak-content-width);
+        margin-left: var(--riaak-left);
+        margin-right: auto;
+    }
+
+    body.no-filetree .sidebar {
+        left: calc(var(--riaak-left) + var(--riaak-page-padding) + var(--riaak-content-width) + var(--riaak-panel-gap));
+        max-width: var(--riaak-panel-width);
+    }
+}
+
+@media (min-width: 1001px) and (max-width: 1400px) {
+    body.no-filetree .content:not(.canvas-page) {
+        max-width: min(var(--riaak-content-width), calc(100vw - 96px));
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+/* The top bar already pushes the page down, so the template's extra 90px of
+   padding above the title only added empty space. */
+body.has-navbar .content:not(.canvas-page) {
+    padding-top: 32px;
+}
+
+.riaak-last-updated {
+    margin-top: 4px;
+    font-size: var(--dg-timestamps-size, 0.85em);
+    color: var(--text-muted);
+}

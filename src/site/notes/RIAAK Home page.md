@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/riaak-home-page/","tags":["gardenEntry"],"created":"2025-10-23T17:42:41.615+01:00","updated":"2026-10-01T12:16:02.819+01:00","dg-note-properties":{"tags":null,"Note Type":"RIAAK Admin","AI suggested tags":["Research","Research/Methods","External_Resource"]}}
+{"dg-publish":true,"permalink":"/riaak-home-page/","tags":["gardenEntry"],"created":"2025-10-23T17:42:41.615+01:00","updated":"2026-10-01T12:45:33.099+01:00","dg-note-properties":{"tags":null,"Note Type":"RIAAK Admin","AI suggested tags":["Research","Research/Methods","External_Resource"]}}
 ---
 
 This is the homepage for Richie's Impactful Animal Advocacy Knowledge-base, aka RIAAK!
@@ -36,20 +36,19 @@ Here I publish my notes on Animal Advocacy that I use in my role as the Director
 
 ---
 # How to use RIAAK
-There are 7 ways you can navigate RIAAK:
+There are 6 ways you can navigate RIAAK:
 
-1. Type keywords into the search bar at the top of the page
-2. Use "semantic search"
-3. Use Links
-4. Use Local Graphs
-5. Use the Global Graph
-6. Use Tags
-7. [[Search RIAAK with your AI assistant\|Ask your AI assistant to search it for you]]
-## The keyword search bar
-- The search bar only does exact word search, so if you search "alternative proteins healthier" it probably won't surface an article called "vegan meat is good for you".
-- I'd advise just putting in a bunch of keywords you're interested in and see what it turns up
-## Semantic search
-Whenever you see 
+1. Use the search bar at the top of the page
+2. Use Links
+3. Use Local Graphs
+4. Use the Global Graph
+5. Use Tags
+6. [[Search RIAAK with your AI assistant\|Ask your AI assistant to search it for you]]
+## Search
+- Click the search bar at the top of any page (or press Ctrl + K, or ⌘ + K on a Mac), then type a question in plain English or a few keywords.
+- It searches by meaning, not just exact words, so it finds relevant notes even when they word things differently from you. Try "do people trust meat grown from animal cells?"
+- Hover over a result to preview it, and click it to open it.
+- To see every note with a particular tag, type the tag with a # in front, e.g. `#Farmed_Fish`.
 ## Links
 - This knowledge base is organised a bit like Wikipedia: pages are connected by **links**.
 - You can surf RIAAK by clicking through the links on a given page. [[Red and processed meat are bad for you\|Try clicking this one]]

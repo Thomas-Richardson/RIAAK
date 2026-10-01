@@ -1,0 +1,22 @@
+.riaak-source {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 5px;
+  margin-top: 6px;
+  font-size: var(--dg-timestamps-size, 0.85em);
+  color: var(--text-muted);
+}
+
+.riaak-source svg {
+  width: 14px;
+  height: 14px;
+}
+
+.riaak-source a {
+  color: var(--text-accent);
+}
+
+.riaak-source-sep {
+  opacity: 0.6;
+}

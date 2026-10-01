@@ -1,0 +1,11 @@
+{
+  "id": "riaak-source-link",
+  "name": "RIAAK source link",
+  "version": "1.0.0",
+  "description": "Shows a note's original source under its title (from the note's Url, source_url or source property), with the year and type of work, so every study and podcast page links to the original.",
+  "author": "Richie",
+  "slots": {
+    "notes.header": "templates/source.njk"
+  },
+  "styles": ["styles/source.css"]
+}

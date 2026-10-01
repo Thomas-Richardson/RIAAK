@@ -1,0 +1,22 @@
+{#- The note's original source, read from the properties the Digital Garden
+    plugin passes through (noteProps = the note's dg-note-properties).
+    Only plain http(s) links are shown. -#}
+{%- set props = noteProps or {} -%}
+{#- Use the first of Url, source_url, source that is a web link: some notes
+    keep a file name in one of them and the web address in another. -#}
+{%- set u1 = props.Url if (props.Url is string and (props.Url.startsWith("https://") or props.Url.startsWith("http://"))) else "" -%}
+{%- set u2 = props.source_url if (props.source_url is string and (props.source_url.startsWith("https://") or props.source_url.startsWith("http://"))) else "" -%}
+{%- set u3 = props.source if (props.source is string and (props.source.startsWith("https://") or props.source.startsWith("http://"))) else "" -%}
+{%- set srcUrl = u1 or u2 or u3 -%}
+{%- if srcUrl -%}
+{%- set noteType = props["Note Type"] -%}
+<div class="riaak-source">
+  {%- if noteType == "Podcast" %}
+  <i data-lucide="headphones"></i><a href="{{ srcUrl }}" target="_blank" rel="noopener">Listen to the episode</a>
+  {%- else %}
+  <i data-lucide="link"></i><span>Original source:</span><a href="{{ srcUrl }}" target="_blank" rel="noopener">{{ srcUrl.split("/")[2] | replace("www.", "") }}</a>
+  {%- endif %}
+  {%- if props["Year Published"] %}<span class="riaak-source-sep">·</span><span>{{ props["Year Published"] }}</span>{% endif %}
+  {%- if noteType and noteType != "Podcast" and noteType != "undefined" %}<span class="riaak-source-sep">·</span><span>{{ noteType }}</span>{% endif %}
+</div>
+{%- endif -%}

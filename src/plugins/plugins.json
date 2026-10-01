@@ -1,5 +1,10 @@
 {
   "plugins": {
-    "dg-search": { "enabled": false }
+    "dg-search": {
+      "enabled": false
+    },
+    "riaak-source-link": {
+      "order": -1
+    }
   }
 }

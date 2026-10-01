@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welfare-concerns-from-gestation-crates/","tags":["Pigs","Animal_Welfare","Food_Safety","High_Income_Countries/USA"],"created":"2025-10-23T17:42:41.619+01:00","updated":"2026-09-30T22:18:09.141+01:00","dg-note-properties":{"tags":["Pigs","Animal_Welfare","Food_Safety","High_Income_Countries/USA"],"AI suggested tags":["Pigs","Health/Disease","Factory_Farming"]}}
+{"dg-publish":true,"permalink":"/welfare-concerns-from-gestation-crates/","tags":["Pigs","Animal_Welfare","Food_Safety","High_Income_Countries/USA"],"created":"2025-10-23T17:42:41.619+01:00","updated":"2026-10-01T06:57:10.664+01:00","dg-note-properties":{"tags":["Pigs","Animal_Welfare","Food_Safety","High_Income_Countries/USA"],"AI suggested tags":["Health/Disease","Factory_Farming","USA"]}}
 ---
 
 

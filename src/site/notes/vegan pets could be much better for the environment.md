@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vegan-pets-could-be-much-better-for-the-environment/","tags":["Companion_Animals","Environment","Pet_Food","Veganism"],"created":"2025-10-23T17:42:43.670+01:00","updated":"2026-09-30T23:02:31.462+01:00","dg-note-properties":{"tags":["Companion_Animals","Environment","Pet_Food","Veganism"],"AI suggested tags":["Veg_Diets","Environment/GHG","Environment/Land"]}}
+{"dg-publish":true,"permalink":"/vegan-pets-could-be-much-better-for-the-environment/","tags":["Companion_Animals","Environment","Pet_Food","Veganism"],"created":"2025-10-23T17:42:43.670+01:00","updated":"2026-10-01T06:57:10.735+01:00","dg-note-properties":{"tags":["Companion_Animals","Environment","Pet_Food","Veganism"],"AI suggested tags":["Veg_Diets","Environment/GHG","Environment/Land"]}}
 ---
 
 

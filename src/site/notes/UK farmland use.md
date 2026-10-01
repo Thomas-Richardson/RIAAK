@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uk-farmland-use/","tags":["Farming","UK"],"created":"2025-10-23T17:42:42.949+01:00","updated":"2026-09-30T23:02:31.270+01:00","dg-note-properties":{"tags":["Farming","UK"],"AI suggested tags":["Bryant_Research/Project/CAWF_Food_Sec","Land_Use","Agricultural_Land_Classification"]}}
+{"dg-publish":true,"permalink":"/uk-farmland-use/","tags":["Farming","UK"],"created":"2025-10-23T17:42:42.949+01:00","updated":"2026-10-01T06:57:10.633+01:00","dg-note-properties":{"tags":["Farming","UK"],"AI suggested tags":["UK_Agriculture","Bryant_Research/Project/CAWF_Food_Sec","Bryant_Research/Project/CAWF_Hidden_Harms"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-british-public-is-totally-wrong-about-how-to-improve-the-environment/","tags":["Politics","UK"],"created":"2025-10-23T17:42:47.371+01:00","updated":"2026-09-30T23:02:31.063+01:00","dg-note-properties":{"tags":["Politics","UK"],"AI suggested tags":["Environment/GHG","Environment","Meat/Meat_Reduction"]}}
+{"dg-publish":true,"permalink":"/the-british-public-is-totally-wrong-about-how-to-improve-the-environment/","tags":["Politics","UK"],"created":"2025-10-23T17:42:47.371+01:00","updated":"2026-10-01T06:57:10.563+01:00","dg-note-properties":{"tags":["Politics","UK"],"AI suggested tags":["Environment/GHG","Environment/Land","Meat/Meat_Reduction"]}}
 ---
 
 

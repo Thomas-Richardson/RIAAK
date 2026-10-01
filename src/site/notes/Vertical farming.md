@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vertical-farming/","tags":["Farming"],"created":"2025-10-23T17:42:47.809+01:00","updated":"2026-09-30T23:02:31.303+01:00","dg-note-properties":{"tags":["Farming"],"AI suggested tags":["Bryant_Research/Project/CAWF_Food_Sec","Food_Security","Environment/Land"]}}
+{"dg-publish":true,"permalink":"/vertical-farming/","tags":["Farming"],"created":"2025-10-23T17:42:47.809+01:00","updated":"2026-10-01T06:57:10.654+01:00","dg-note-properties":{"tags":["Farming"],"AI suggested tags":["Bryant_Research/Project/CAWF_Food_Sec","Food_Security","Environment/Land"]}}
 ---
 
 

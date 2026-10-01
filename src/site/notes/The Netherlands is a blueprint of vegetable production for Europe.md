@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-netherlands-is-a-blueprint-of-vegetable-production-for-europe/","tags":["Animal_Feed","Bryant_Research/Project/CAWF_Food_Sec","Europe","Food_Security","Economics/Jobs"],"created":"2025-10-23T17:42:41.366+01:00","updated":"2026-09-30T23:02:31.079+01:00","dg-note-properties":{"tags":["Animal_Feed","Bryant_Research/Project/CAWF_Food_Sec","Europe","Food_Security","Economics/Jobs"],"Note Type":"undefined","AI suggested tags":["Bryant_Research/Project/CAWF_Hidden_Harms","UK","Farming"]}}
+{"dg-publish":true,"permalink":"/the-netherlands-is-a-blueprint-of-vegetable-production-for-europe/","tags":["Animal_Feed","Bryant_Research/Project/CAWF_Food_Sec","Europe","Food_Security","Economics/Jobs"],"created":"2025-10-23T17:42:41.366+01:00","updated":"2026-10-01T06:57:10.564+01:00","dg-note-properties":{"tags":["Animal_Feed","Bryant_Research/Project/CAWF_Food_Sec","Europe","Food_Security","Economics/Jobs"],"Note Type":"undefined","AI suggested tags":["UK","Farming","Fruit_Veg"]}}
 ---
 
 

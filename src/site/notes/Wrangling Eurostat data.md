@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wrangling-eurostat-data/","tags":["EU","Data"],"created":"2026-01-15T17:27:29.559+00:00","updated":"2026-09-30T23:02:31.366+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["EU","Data"],"created":null,"AI suggested tags":["Bryant_Research/Project","Bryant_Research/Project/ProVeg_EU_Procurement","Bryant_Research/Project/CAWF_Hidden_Harms"]}}
+{"dg-publish":true,"permalink":"/wrangling-eurostat-data/","tags":["EU","Data"],"created":"2026-01-15T17:27:29.559+00:00","updated":"2026-10-01T06:57:10.697+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["EU","Data"],"created":null,"AI suggested tags":["Bryant_Research/Project","Bryant_Research/Project/ProVeg_EU_Procurement","Meat"]}}
 ---
 
 Here is the API specification so I would just chuck this into Claude's code and it should be able to figure some stuff out: https://ec.europa.eu/eurostat/web/user-guides/data-browser/api-data-access/api-detailed-guidelines/sdmx3-0/data-query

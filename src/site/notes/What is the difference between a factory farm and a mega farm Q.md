@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/what-is-the-difference-between-a-factory-farm-and-a-mega-farm-q/","tags":["Blog_In_Progress","Factory_Farming"],"created":"2025-10-23T17:42:42.191+01:00","updated":"2026-09-30T23:02:31.329+01:00","dg-note-properties":{"tags":["Blog_In_Progress","Factory_Farming"],"Note Type":"undefined","AI suggested tags":["USA","Bryant_Research/Project/CAWF_Hidden_Harms","UK"]}}
+{"dg-publish":true,"permalink":"/what-is-the-difference-between-a-factory-farm-and-a-mega-farm-q/","tags":["Blog_In_Progress","Factory_Farming"],"created":"2025-10-23T17:42:42.191+01:00","updated":"2026-10-01T06:57:10.673+01:00","dg-note-properties":{"tags":["Blog_In_Progress","Factory_Farming"],"Note Type":"undefined","AI suggested tags":["Bryant_Research/Project/CAWF_Hidden_Harms","USA","UK"]}}
 ---
 
 

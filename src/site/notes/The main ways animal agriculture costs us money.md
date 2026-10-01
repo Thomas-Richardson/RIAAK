@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-main-ways-animal-agriculture-costs-us-money/","tags":["Economics/Costs","Factory_Farming"],"created":"2025-10-23T17:42:47.433+01:00","updated":"2026-09-30T23:02:31.174+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Economics/Costs","Factory_Farming"],"AI suggested tags":["BOTEC","Environment","Economics"]}}
+{"dg-publish":true,"permalink":"/the-main-ways-animal-agriculture-costs-us-money/","tags":["Economics/Costs","Factory_Farming"],"created":"2025-10-23T17:42:47.433+01:00","updated":"2026-10-01T06:57:10.603+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Economics/Costs","Factory_Farming"],"AI suggested tags":["BOTEC","Economics","Environment/GHG"]}}
 ---
 
 - [[True cost accounting\|True cost accounting]] 

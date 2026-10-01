@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/studies-of-plant-based-diets-and-social-media/","tags":["Bryant_Research/Project/Good_Growth_Social_Listening"],"created":"2025-10-23T17:42:42.772+01:00","updated":"2026-09-30T23:02:31.031+01:00","dg-note-properties":{"tags":["Bryant_Research/Project/Good_Growth_Social_Listening"],"AI suggested tags":["Behaviour_Change","Consumer_Research","Veg_Diets"]}}
+{"dg-publish":true,"permalink":"/studies-of-plant-based-diets-and-social-media/","tags":["Bryant_Research/Project/Good_Growth_Social_Listening"],"created":"2025-10-23T17:42:42.772+01:00","updated":"2026-10-01T06:57:10.561+01:00","dg-note-properties":{"tags":["Bryant_Research/Project/Good_Growth_Social_Listening"],"AI suggested tags":["Behaviour_Change","Consumer_Research","Veg_Diets"]}}
 ---
 
 

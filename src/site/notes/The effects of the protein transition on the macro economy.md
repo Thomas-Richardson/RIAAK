@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-effects-of-the-protein-transition-on-the-macro-economy/","tags":["Economics","Meat/Meat_Reduction","Alternative_Proteins/Plant_Based"],"created":"2025-10-23T17:42:43.685+01:00","updated":"2026-09-30T23:02:31.153+01:00","dg-note-properties":{"tags":["Economics","Meat/Meat_Reduction","Alternative_Proteins/Plant_Based"],"AI suggested tags":["Economics/Costs","Meat","Alternative_Proteins"]}}
+{"dg-publish":true,"permalink":"/the-effects-of-the-protein-transition-on-the-macro-economy/","tags":["Economics","Meat/Meat_Reduction","Alternative_Proteins/Plant_Based"],"created":"2025-10-23T17:42:43.685+01:00","updated":"2026-10-01T06:57:10.584+01:00","dg-note-properties":{"tags":["Economics","Meat/Meat_Reduction","Alternative_Proteins/Plant_Based"],"AI suggested tags":["Economics/Costs","Meat","Alternative_Proteins"]}}
 ---
 
 - [[Are PB diets cheaper than omni diets\|Are PB diets cheaper than omni diets]]

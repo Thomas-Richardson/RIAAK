@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/what-percentage-of-uk-cattle-are-kept-indoors-their-whole-life/","tags":["Cows","Factory_Farming","UK"],"created":"2025-10-23T17:42:42.692+01:00","updated":"2026-09-30T23:02:31.330+01:00","dg-note-properties":{"tags":["Cows","Factory_Farming","UK"],"AI suggested tags":["Bryant_Research/Project/CAWF_Hidden_Harms","Blog_In_Progress","Farming"]}}
+{"dg-publish":true,"permalink":"/what-percentage-of-uk-cattle-are-kept-indoors-their-whole-life/","tags":["Cows","Factory_Farming","UK"],"created":"2025-10-23T17:42:42.692+01:00","updated":"2026-10-01T06:57:10.677+01:00","dg-note-properties":{"tags":["Cows","Factory_Farming","UK"],"AI suggested tags":["Bryant_Research/Project/CAWF_Hidden_Harms","Blog_In_Progress","Farming"]}}
 ---
 
 

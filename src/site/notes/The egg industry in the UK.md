@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-egg-industry-in-the-uk/","tags":["Eggs","UK"],"created":"2025-10-23T17:42:42.621+01:00","updated":"2026-09-30T23:02:31.157+01:00","dg-note-properties":{"tags":["Eggs","UK"],"AI suggested tags":["Chickens","Bryant_Research/Project/CAWF_Hidden_Harms"]}}
+{"dg-publish":true,"permalink":"/the-egg-industry-in-the-uk/","tags":["Eggs","UK"],"created":"2025-10-23T17:42:42.621+01:00","updated":"2026-10-01T06:57:10.589+01:00","dg-note-properties":{"tags":["Eggs","UK"],"AI suggested tags":["Chickens","Bryant_Research/Project/CAWF_Hidden_Harms","Bryant_Research/Insight"]}}
 ---
 
 

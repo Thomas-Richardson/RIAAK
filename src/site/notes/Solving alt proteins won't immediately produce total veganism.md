@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/solving-alt-proteins-won-t-immediately-produce-total-veganism/","tags":["Alternative_Proteins","Alternative_Proteins/Plant_Based","SE_Asia"],"created":"2025-10-23T17:42:48.005+01:00","updated":"2026-09-30T23:02:31.026+01:00","dg-note-properties":{"tags":["Alternative_Proteins","Alternative_Proteins/Plant_Based","SE_Asia"],"Note Type":"undefined","AI suggested tags":["Bryant_Research/Project/Good_Growth_Social_Listening","Asia","Alternative_Proteins/Cultivated_Meat"]}}
+{"dg-publish":true,"permalink":"/solving-alt-proteins-won-t-immediately-produce-total-veganism/","tags":["Alternative_Proteins","Alternative_Proteins/Plant_Based","SE_Asia"],"created":"2025-10-23T17:42:48.005+01:00","updated":"2026-10-01T06:57:10.560+01:00","dg-note-properties":{"tags":["Alternative_Proteins","Alternative_Proteins/Plant_Based","SE_Asia"],"Note Type":"undefined","AI suggested tags":["Bryant_Research/Project/Good_Growth_Social_Listening","Asia","Alternative_Proteins/Cultivated_Meat"]}}
 ---
 
 - [[Citations/Good Growth and GFI, 2024\|Good Growth and GFI, 2024]] asked South East Asian consumers "How often would you choose plant-based meat if all your concerns are resolved?". The percentage of people that said "always/often" was:

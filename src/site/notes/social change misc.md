@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/social-change-misc/","tags":["Politics"],"created":"2025-10-23T17:42:43.821+01:00","updated":"2026-09-30T22:17:46.828+01:00","dg-note-properties":{"tags":["Politics"],"AI suggested tags":["Protest","Public_Opinion","Behaviour_Change"]}}
+{"dg-publish":true,"permalink":"/social-change-misc/","tags":["Politics"],"created":"2025-10-23T17:42:43.821+01:00","updated":"2026-10-01T06:57:10.730+01:00","dg-note-properties":{"tags":["Politics"],"AI suggested tags":["Protest","Public_Opinion","Behaviour_Change"]}}
 ---
 
 

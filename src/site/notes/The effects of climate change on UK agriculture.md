@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-effects-of-climate-change-on-uk-agriculture/","tags":["Environment/GHG","Bryant_Research/Project/CAWF_Food_Sec","Food_Security","UK"],"created":"2025-10-23T17:42:48.009+01:00","updated":"2026-09-30T23:02:31.145+01:00","dg-note-properties":{"tags":["Environment/GHG","Bryant_Research/Project/CAWF_Food_Sec","Food_Security","UK"],"AI suggested tags":["Farming","Bryant_Research/Project/CAWF_Food_Sec","Economics/Jobs"]}}
+{"dg-publish":true,"permalink":"/the-effects-of-climate-change-on-uk-agriculture/","tags":["Environment/GHG","Bryant_Research/Project/CAWF_Food_Sec","Food_Security","UK"],"created":"2025-10-23T17:42:48.009+01:00","updated":"2026-10-01T06:57:10.581+01:00","dg-note-properties":{"tags":["Environment/GHG","Bryant_Research/Project/CAWF_Food_Sec","Food_Security","UK"],"AI suggested tags":["Farming","Bryant_Research/Project/CAWF_Hidden_Harms","Economics/Jobs"]}}
 ---
 
 

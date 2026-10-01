@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-gfi-and-foodsteps-alternative-protein-automated-lca-software/","tags":["Environment/GHG","Alternative_Proteins","Environment/Land","Environment"],"created":"2025-10-23T17:42:43.362+01:00","updated":"2026-09-30T23:02:31.070+01:00","dg-note-properties":{"tags":["Environment/GHG","Alternative_Proteins","Environment/Land","Environment"],"Note Type":"undefined","AI suggested tags":["Alternative_Proteins/Precision_Fermentation","Alternative_Proteins/Cultivated_Meat","Economics"]}}
+{"dg-publish":true,"permalink":"/the-gfi-and-foodsteps-alternative-protein-automated-lca-software/","tags":["Environment/GHG","Alternative_Proteins","Environment/Land","Environment"],"created":"2025-10-23T17:42:43.362+01:00","updated":"2026-10-01T06:57:10.563+01:00","dg-note-properties":{"tags":["Environment/GHG","Alternative_Proteins","Environment/Land","Environment"],"Note Type":"undefined","AI suggested tags":["Alternative_Proteins/Precision_Fermentation","Alternative_Proteins/Cultivated_Meat","Economics"]}}
 ---
 
 

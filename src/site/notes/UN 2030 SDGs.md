@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/un-2030-sd-gs/","tags":["Environment","Health/Nutrition","Lower_Middle_Income_Countries"],"created":"2025-10-23T17:42:41.879+01:00","updated":"2026-09-30T23:02:31.278+01:00","dg-note-properties":{"tags":["Environment","Health/Nutrition","Lower_Middle_Income_Countries"],"AI suggested tags":["Farming","Food_Security","Animal_Feed"]}}
+{"dg-publish":true,"permalink":"/un-2030-sd-gs/","tags":["Environment","Health/Nutrition","Lower_Middle_Income_Countries"],"created":"2025-10-23T17:42:41.879+01:00","updated":"2026-10-01T06:57:10.645+01:00","dg-note-properties":{"tags":["Environment","Health/Nutrition","Lower_Middle_Income_Countries"],"AI suggested tags":["Farming","Food_Security","Animal_Feed"]}}
 ---
 
 

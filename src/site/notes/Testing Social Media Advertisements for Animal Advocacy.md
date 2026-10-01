@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/testing-social-media-advertisements-for-animal-advocacy/","tags":["Bryant_Research/Insight"],"created":"2025-10-23T17:42:42.124+01:00","updated":"2026-09-30T23:02:31.054+01:00","dg-note-properties":{"tags":["Bryant_Research/Insight"],"AI suggested tags":["Public_Opinion","Behaviour_Change","Consumer_Attitudes"]}}
+{"dg-publish":true,"permalink":"/testing-social-media-advertisements-for-animal-advocacy/","tags":["Bryant_Research/Insight"],"created":"2025-10-23T17:42:42.124+01:00","updated":"2026-10-01T06:57:10.561+01:00","dg-note-properties":{"tags":["Bryant_Research/Insight"],"AI suggested tags":["Public_Opinion","Behaviour_Change","Consumer_Attitudes"]}}
 ---
 
 

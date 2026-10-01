@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-additional-uk-population-that-could-be-supported-if-we-transitioned-away-from-factory-farming/","tags":["Bryant_Research/Project/CAWF_Food_Sec","UK"],"created":"2025-10-23T17:42:42.782+01:00","updated":"2026-09-30T23:02:31.119+01:00","dg-note-properties":{"tags":["Bryant_Research/Project/CAWF_Food_Sec","UK"],"Note Type":"undefined","AI suggested tags":["Farming","Environment/Land","Bryant_Research/Project/CAWF_Hidden_Harms"]}}
+{"dg-publish":true,"permalink":"/the-additional-uk-population-that-could-be-supported-if-we-transitioned-away-from-factory-farming/","tags":["Bryant_Research/Project/CAWF_Food_Sec","UK"],"created":"2025-10-23T17:42:42.782+01:00","updated":"2026-10-01T06:57:10.573+01:00","dg-note-properties":{"tags":["Bryant_Research/Project/CAWF_Food_Sec","UK"],"Note Type":"undefined","AI suggested tags":["Farming","Environment/Land","Bryant_Research/Project/CAWF_Hidden_Harms"]}}
 ---
 
 

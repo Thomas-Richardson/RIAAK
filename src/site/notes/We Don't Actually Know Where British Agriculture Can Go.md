@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/we-don-t-actually-know-where-british-agriculture-can-go/","tags":["UK_Agriculture","Land_Use","Food_Security","Agricultural_Land_Classification","Grazing","Policy"],"created":"2026-06-24T17:02:32.000+01:00","updated":"2026-09-30T23:02:31.316+01:00","dg-note-properties":{"Note Type":"Own Work","tags":["UK_Agriculture","Land_Use","Food_Security","Agricultural_Land_Classification","Grazing","Policy"],"AI suggested tags":["Bryant_Research/Project/CAWF_Food_Sec","Environment/Land","Farming"]}}
+{"dg-publish":true,"permalink":"/we-don-t-actually-know-where-british-agriculture-can-go/","tags":["UK_Agriculture","Land_Use","Food_Security","Agricultural_Land_Classification","Grazing","Policy"],"created":"2026-06-24T17:02:32.000+01:00","updated":"2026-10-01T06:57:10.654+01:00","dg-note-properties":{"Note Type":"Own Work","tags":["UK_Agriculture","Land_Use","Food_Security","Agricultural_Land_Classification","Grazing","Policy"],"AI suggested tags":["Environment/Land","Bryant_Research/Project/CAWF_Food_Sec","Farming"]}}
 ---
 
 

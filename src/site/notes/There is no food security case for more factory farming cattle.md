@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/there-is-no-food-security-case-for-more-factory-farming-cattle/","tags":["Animal_Feed","Bryant_Research/Project/CAWF_Food_Sec","Food_Security","UK","Factory_Farming","Cows","Environment/Land"],"created":"2025-10-23T17:42:41.953+01:00","updated":"2026-09-30T23:02:31.205+01:00","dg-note-properties":{"tags":["Animal_Feed","Bryant_Research/Project/CAWF_Food_Sec","Food_Security","UK","Factory_Farming","Cows","Environment/Land"],"Note Type":"undefined","AI suggested tags":["Economics/Jobs","Farming","Bryant_Research/Project/CAWF_Food_Sec"]}}
+{"dg-publish":true,"permalink":"/there-is-no-food-security-case-for-more-factory-farming-cattle/","tags":["Animal_Feed","Bryant_Research/Project/CAWF_Food_Sec","Food_Security","UK","Factory_Farming","Cows","Environment/Land"],"created":"2025-10-23T17:42:41.953+01:00","updated":"2026-10-01T06:57:10.614+01:00","dg-note-properties":{"tags":["Animal_Feed","Bryant_Research/Project/CAWF_Food_Sec","Food_Security","UK","Factory_Farming","Cows","Environment/Land"],"Note Type":"undefined","AI suggested tags":["Economics/Jobs","Bryant_Research/Project/CAWF_Hidden_Harms","Farming"]}}
 ---
 
 

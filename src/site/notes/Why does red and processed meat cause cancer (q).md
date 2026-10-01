@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/why-does-red-and-processed-meat-cause-cancer-q/","tags":["Health/Nutrition","Meat/Red_Meat"],"created":"2025-10-23T17:42:47.467+01:00","updated":"2026-09-30T22:10:53.266+01:00","dg-note-properties":{"tags":["Health/Nutrition","Meat/Red_Meat"],"AI suggested tags":["Nuts","Diet","Meat"]}}
+{"dg-publish":true,"permalink":"/why-does-red-and-processed-meat-cause-cancer-q/","tags":["Health/Nutrition","Meat/Red_Meat"],"created":"2025-10-23T17:42:47.467+01:00","updated":"2026-10-01T06:57:10.685+01:00","dg-note-properties":{"tags":["Health/Nutrition","Meat/Red_Meat"],"AI suggested tags":["Nuts","Diet","Meat"]}}
 ---
 
 

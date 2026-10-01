@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-small-body-problem/","tags":["Fish","Chickens","Eggs","Environment/GHG","Health/Nutrition"],"created":"2025-10-23T17:42:47.875+01:00","updated":"2026-09-30T23:02:31.193+01:00","dg-note-properties":{"tags":["Fish","Chickens","Eggs","Environment/GHG","Health/Nutrition"],"Note Type":"undefined","AI suggested tags":["Animal_Feed","Economics/Jobs","Environment"]}}
+{"dg-publish":true,"permalink":"/the-small-body-problem/","tags":["Fish","Chickens","Eggs","Environment/GHG","Health/Nutrition"],"created":"2025-10-23T17:42:47.875+01:00","updated":"2026-10-01T06:57:10.612+01:00","dg-note-properties":{"tags":["Fish","Chickens","Eggs","Environment/GHG","Health/Nutrition"],"Note Type":"undefined","AI suggested tags":["Animal_Feed","Economics/Jobs","Environment"]}}
 ---
 
 - [[Most fishing is unsustainable\|Most fishing is unsustainable]]

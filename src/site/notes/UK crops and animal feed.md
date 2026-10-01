@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uk-crops-and-animal-feed/","tags":["Animal_Feed","Farming","UK"],"created":"2025-10-23T17:42:41.471+01:00","updated":"2026-09-30T23:02:31.254+01:00","dg-note-properties":{"tags":["Animal_Feed","Farming","UK"],"Note Type":"undefined","AI suggested tags":["Bryant_Research/Project/CAWF_Food_Sec","Food_Security"]}}
+{"dg-publish":true,"permalink":"/uk-crops-and-animal-feed/","tags":["Animal_Feed","Farming","UK"],"created":"2025-10-23T17:42:41.471+01:00","updated":"2026-10-01T06:57:10.625+01:00","dg-note-properties":{"tags":["Animal_Feed","Farming","UK"],"Note Type":"undefined","AI suggested tags":["Bryant_Research/Project/CAWF_Food_Sec","Food_Security","Environment/Land"]}}
 ---
 
 

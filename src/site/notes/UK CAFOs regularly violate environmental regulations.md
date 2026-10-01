@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uk-caf-os-regularly-violate-environmental-regulations/","tags":["Environment/Pollution","UK"],"created":"2025-10-23T17:42:42.996+01:00","updated":"2026-09-30T23:02:31.228+01:00","dg-note-properties":{"tags":["Environment/Pollution","UK"],"AI suggested tags":["CAWF_Farming","Bryant_Research/Project/CAWF_Hidden_Harms","Factory_Farming"]}}
+{"dg-publish":true,"permalink":"/uk-caf-os-regularly-violate-environmental-regulations/","tags":["Environment/Pollution","UK"],"created":"2025-10-23T17:42:42.996+01:00","updated":"2026-10-01T06:57:10.620+01:00","dg-note-properties":{"tags":["Environment/Pollution","UK"],"AI suggested tags":["Bryant_Research/Project/CAWF_Hidden_Harms","CAWF_Farming","Factory_Farming"]}}
 ---
 
 

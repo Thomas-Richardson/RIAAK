@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/why-not-eat-better-meat-rather-than-less-meat/","tags":["Environment","Meat"],"created":"2025-10-23T17:42:42.207+01:00","updated":"2026-09-30T23:02:31.359+01:00","dg-note-properties":{"tags":["Environment","Meat"],"AI suggested tags":["Cattle/Grass_Fed_Cattle","To_Clean","Meat/Beef"]}}
+{"dg-publish":true,"permalink":"/why-not-eat-better-meat-rather-than-less-meat/","tags":["Environment","Meat"],"created":"2025-10-23T17:42:42.207+01:00","updated":"2026-10-01T06:57:10.689+01:00","dg-note-properties":{"tags":["Environment","Meat"],"AI suggested tags":["Cattle/Grass_Fed_Cattle","Meat/Beef","To_Clean"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-case-for-vegan-pet-food/","tags":["Companion_Animals"],"created":"2025-10-23T17:42:47.639+01:00","updated":"2026-09-30T23:02:31.127+01:00","dg-note-properties":{"tags":["Companion_Animals"],"AI suggested tags":["Pet_Food","Alternative_Proteins/Cultivated_Meat","Environment"]}}
+{"dg-publish":true,"permalink":"/the-case-for-vegan-pet-food/","tags":["Companion_Animals"],"created":"2025-10-23T17:42:47.639+01:00","updated":"2026-10-01T06:57:10.574+01:00","dg-note-properties":{"tags":["Companion_Animals"],"AI suggested tags":["Pet_Food","Alternative_Proteins/Cultivated_Meat","Alternative_Proteins"]}}
 ---
 
 

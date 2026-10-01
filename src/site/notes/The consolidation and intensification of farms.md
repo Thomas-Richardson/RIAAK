@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-consolidation-and-intensification-of-farms/","tags":["Animal_Feed","Factory_Farming","USA","Farming"],"created":"2025-10-23T17:42:43.114+01:00","updated":"2026-09-30T23:02:31.135+01:00","dg-note-properties":{"tags":["Animal_Feed","Factory_Farming","USA","Farming"],"Note Type":"undefined","AI suggested tags":["Blog_In_Progress","Bryant_Research/Project/CAWF_Hidden_Harms","UK"]}}
+{"dg-publish":true,"permalink":"/the-consolidation-and-intensification-of-farms/","tags":["Animal_Feed","Factory_Farming","USA","Farming"],"created":"2025-10-23T17:42:43.114+01:00","updated":"2026-10-01T06:57:10.578+01:00","dg-note-properties":{"tags":["Animal_Feed","Factory_Farming","USA","Farming"],"Note Type":"undefined","AI suggested tags":["Blog_In_Progress","Bryant_Research/Project/CAWF_Hidden_Harms","UK"]}}
 ---
 
 

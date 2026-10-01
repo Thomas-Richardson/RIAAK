@@ -1,29 +1,37 @@
 {# SEO Meta Tags for Digital Garden #}
-<meta name="description" content="{{ (content | striptags | truncate(155)) or (title + ' - RIAAK') }}">
+{# The note as plain text, after the same link clean-up the page body gets (so
+   Obsidian [[links]] read as plain words). The markdown renderer writes &, <, > and quotes as
+   HTML codes, and Nunjucks escapes output again, so turn the codes back into
+   characters first or descriptions would show "&amp;" instead of "&". #}
+{% set seoText = content | hideDataview | link | striptags | replace("&lt;", "<") | replace("&gt;", ">") | replace("&quot;", '"') | replace("&#39;", "'") | replace("&amp;", "&") %}
+{% set seoTitle = title or "RIAAK" %}
+{% set seoSummary = (seoText | truncate(155)) or "Richie's Impactful Animal Advocacy Knowledgebase" %}
+<meta name="description" content="{{ (seoText | truncate(155)) or (seoTitle + ' - RIAAK') }}">
 <link rel="canonical" href="https://riaak.netlify.app{{ page.url }}">
 
 {# Open Graph Tags #}
-<meta property="og:title" content="{{ title or 'RIAAK' }}">
-<meta property="og:description" content="{{ (content | striptags | truncate(155)) or 'Richie\\'s Impactful Animal Advocacy Knowledgebase' }}">
+<meta property="og:title" content="{{ seoTitle }}">
+<meta property="og:description" content="{{ seoSummary }}">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://riaak.netlify.app{{ page.url }}">
 <meta property="og:site_name" content="RIAAK">
 
 {# Twitter Card Tags #}
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="{{ title or 'RIAAK' }}">
-<meta name="twitter:description" content="{{ (content | striptags | truncate(155)) or 'Richie\\'s Impactful Animal Advocacy Knowledgebase' }}">
+<meta name="twitter:title" content="{{ seoTitle }}">
+<meta name="twitter:description" content="{{ seoSummary }}">
 
-{# Schema.org JSON-LD #}
+{# Schema.org JSON-LD. Values go through dump (JSON encoding); "<" is written
+   as < so note text can never close the script tag early. #}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "{{ title | escape }}",
+  "headline": {{ seoTitle | dump | replace("<", "\\u003c") | safe }},
   "url": "https://riaak.netlify.app{{ page.url }}",
-  "datePublished": "{{ page.date or 'now' | date('Y-m-d') }}",
-  "dateModified": "{{ page.date or 'now' | date('Y-m-d') }}",
-  "author": {
+  {% if created %}"datePublished": {{ created | dump | safe }},
+  {% endif %}{% if updated %}"dateModified": {{ updated | dump | safe }},
+  {% endif %}"author": {
     "@type": "Person",
     "name": "Thomas Richardson"
   },
@@ -31,6 +39,6 @@
     "@type": "Organization",
     "name": "RIAAK"
   },
-  "description": "{{ (content | striptags | truncate(200)) or 'Research and analysis on animal advocacy' }}"
+  "description": {{ ((seoText | truncate(200)) or "Research and analysis on animal advocacy") | dump | replace("<", "\\u003c") | safe }}
 }
 </script>

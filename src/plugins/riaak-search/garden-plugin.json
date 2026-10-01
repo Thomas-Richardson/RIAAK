@@ -1,0 +1,14 @@
+{
+  "id": "riaak-search",
+  "name": "RIAAK search",
+  "version": "1.0.0",
+  "description": "The template's search box, changed to ask RIAAK's meaning-based search service (/api/search) first and fall back to the offline keyword index. Replaces dg-search, which src/plugins/plugins.json switches off.",
+  "author": "Richie",
+  "hooks": "index.js",
+  "slots": {
+    "common.footer": "templates/searchContainer.njk",
+    "navbar.actions": "templates/searchButton.njk",
+    "filetree.actions": "templates/searchButton.njk"
+  },
+  "noteSettings": ["dgEnableSearch"]
+}

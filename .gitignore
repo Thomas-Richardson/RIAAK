@@ -12,3 +12,6 @@ src/site/styles/_theme.*.css
 _site/
 **/.DS_Store
 .env*.local
+
+# Copies of plugin templates, written by every build
+src/site/_includes/plugins/

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/riaak-home-page/","tags":["gardenEntry"],"created":"2025-10-23T17:42:41.615+01:00","updated":"2026-10-01T13:50:02.220+01:00","dg-note-properties":{"tags":null,"Note Type":"RIAAK Admin","AI suggested tags":["Research","Research/Methods","External_Resource"]}}
+{"dg-publish":true,"permalink":"/riaak-home-page/","tags":["gardenEntry"],"created":"2025-10-23T17:42:41.615+01:00","updated":"2026-10-01T13:56:28.079+01:00","dg-note-properties":{"tags":null,"Note Type":"RIAAK Admin","AI suggested tags":["Research","Research/Methods","External_Resource"]}}
 ---
 
 This is the homepage for Richie's Impactful Animal Advocacy Knowledge-base, aka RIAAK!
@@ -11,7 +11,7 @@ Here I publish my notes on Animal Advocacy that I use in my work, as the former 
 - Brief summaries of useful studies (usually found in the Citations folder). Reviews reports, or useful single studies. 
 	- I have an AI tool that will skim a report, extract the abstract or exec summary and make an entry here in RIAAK. If the report doesn't have one, it will use AI to read the report and write one. These may not always be 100% accurate, but I have never noticed a big error before.
 - "Micro-content" I have written to help me quickly put together reports for clients.
-- Summaries of episodes from animal advocacy **podcasts** I follow (in the `Podcasts` folder), each with a link out to the episode. I pull these in from the show's RSS feed. So far: *How I Learned to Love Shrimp*, *The Vegan Report*, *The Vegan Pod* (The Vegan Society), the animal-welfare episodes of *The 80,000 Hours Podcast*, and the interviews from *Our Hen House* and *The Animal Law Podcast*.
+- Summaries of episodes from animal advocacy **podcasts** I follow (see the [[Podcasts/Podcasts\|podcast page]], with one page per show), each with a link out to the episode. I pull these in from the show's RSS feed. So far: *How I Learned to Love Shrimp*, *The Vegan Report*, *The Vegan Pod* (The Vegan Society), the animal-welfare episodes of *The 80,000 Hours Podcast*, and the interviews from *Our Hen House* and *The Animal Law Podcast*.
 - My scattered thoughts.
 ## Where I get my info from
 - Academic papers

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/wang-et-al-2016/","tags":["Citation","Health/Nutrition","Meat","Meat/Red_Meat"],"created":"2025-10-23T17:42:45.904+01:00","updated":"2026-09-30T22:10:52.757+01:00","dg-note-properties":{"tags":["Citation","Health/Nutrition","Meat","Meat/Red_Meat"],"AI suggested tags":["Diet","Nuts","Meat/Red_Meat"]}}
+{"dg-publish":true,"permalink":"/citations/wang-et-al-2016/","tags":["Citation","Health/Nutrition","Meat","Meat/Red_Meat"],"created":"2025-10-23T17:42:45.904+01:00","updated":"2026-10-01T06:57:10.111+01:00","dg-note-properties":{"tags":["Citation","Health/Nutrition","Meat","Meat/Red_Meat"],"AI suggested tags":["Diet","Nuts","Meat/Meat_Consumption"]}}
 ---
 
 

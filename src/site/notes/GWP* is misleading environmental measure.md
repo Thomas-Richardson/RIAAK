@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gwp-is-misleading-environmental-measure/","tags":["Environment/GHG"],"created":"2025-10-23T17:42:41.358+01:00","updated":"2026-09-30T23:02:30.300+01:00","dg-note-properties":{"tags":["Environment/GHG"],"AI suggested tags":["Environment","Environment/Land","Meat/Beef"]}}
+{"dg-publish":true,"permalink":"/gwp-is-misleading-environmental-measure/","tags":["Environment/GHG"],"created":"2025-10-23T17:42:41.358+01:00","updated":"2026-10-01T06:57:10.253+01:00","dg-note-properties":{"tags":["Environment/GHG"],"AI suggested tags":["Meat/Beef","Environment/Land","Cows"]}}
 ---
 
 

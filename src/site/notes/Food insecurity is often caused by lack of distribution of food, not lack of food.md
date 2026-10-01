@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/food-insecurity-is-often-caused-by-lack-of-distribution-of-food-not-lack-of-food/","tags":["Lower_Middle_Income_Countries","MFA_Food_Sec"],"created":"2025-10-23T17:42:43.277+01:00","updated":"2026-09-30T23:02:30.248+01:00","dg-note-properties":{"tags":["Lower_Middle_Income_Countries","MFA_Food_Sec"],"AI suggested tags":["Food_Security","Bryant_Research/Project/CAWF_Food_Sec"]}}
+{"dg-publish":true,"permalink":"/food-insecurity-is-often-caused-by-lack-of-distribution-of-food-not-lack-of-food/","tags":["Lower_Middle_Income_Countries","MFA_Food_Sec"],"created":"2025-10-23T17:42:43.277+01:00","updated":"2026-10-01T06:57:10.238+01:00","dg-note-properties":{"tags":["Lower_Middle_Income_Countries","MFA_Food_Sec"],"AI suggested tags":["Food_Security","Bryant_Research/Project/CAWF_Food_Sec","Animal_Feed"]}}
 ---
 
 

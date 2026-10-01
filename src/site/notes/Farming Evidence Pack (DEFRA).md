@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/farming-evidence-pack-defra/","tags":["Bryant_Research/Project/CAWF_Hidden_Harms","Farming","UK"],"created":"2025-10-23T17:42:47.497+01:00","updated":"2026-09-30T23:02:30.226+01:00","dg-note-properties":{"Note Type":"Government Report","tags":["Bryant_Research/Project/CAWF_Hidden_Harms","Farming","UK"],"AI suggested tags":["Bryant_Research/Project/CAWF_Food_Sec","Animal_Feed"]}}
+{"dg-publish":true,"permalink":"/farming-evidence-pack-defra/","tags":["Bryant_Research/Project/CAWF_Hidden_Harms","Farming","UK"],"created":"2025-10-23T17:42:47.497+01:00","updated":"2026-10-01T06:57:10.228+01:00","dg-note-properties":{"Note Type":"Government Report","tags":["Bryant_Research/Project/CAWF_Hidden_Harms","Farming","UK"],"AI suggested tags":["Bryant_Research/Project/CAWF_Food_Sec","Animal_Feed","Economics/Jobs"]}}
 ---
 
 

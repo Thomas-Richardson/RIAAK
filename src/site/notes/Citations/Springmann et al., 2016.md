@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/springmann-et-al-2016/","tags":["Citation","Economics","Health/Nutrition"],"created":"2025-10-23T17:42:46.291+01:00","updated":"2026-09-30T23:02:29.892+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Citation","Economics","Health/Nutrition"],"AI suggested tags":["Environment/GHG","Environment","Economics/Costs"]}}
+{"dg-publish":true,"permalink":"/citations/springmann-et-al-2016/","tags":["Citation","Economics","Health/Nutrition"],"created":"2025-10-23T17:42:46.291+01:00","updated":"2026-10-01T06:57:10.045+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Citation","Economics","Health/Nutrition"],"AI suggested tags":["Environment/GHG","Economics/Costs","Meat"]}}
 ---
 
 

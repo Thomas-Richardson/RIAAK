@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/feed-food-competition/","tags":["Animal_Feed","Farming","MFA_Food_Sec"],"created":"2025-10-23T17:42:43.236+01:00","updated":"2026-09-30T23:02:30.233+01:00","dg-note-properties":{"tags":["Animal_Feed","Farming","MFA_Food_Sec"],"Note Type":"undefined","AI suggested tags":["Environment/Land","Food_Security","Bryant_Research/Project/CAWF_Food_Sec"]}}
+{"dg-publish":true,"permalink":"/feed-food-competition/","tags":["Animal_Feed","Farming","MFA_Food_Sec"],"created":"2025-10-23T17:42:43.236+01:00","updated":"2026-10-01T06:57:10.234+01:00","dg-note-properties":{"tags":["Animal_Feed","Farming","MFA_Food_Sec"],"Note Type":"undefined","AI suggested tags":["Environment/Land","Food_Security","Bryant_Research/Project/CAWF_Food_Sec"]}}
 ---
 
 

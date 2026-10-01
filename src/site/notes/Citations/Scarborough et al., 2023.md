@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/scarborough-et-al-2023/","tags":["Citation","Environment"],"created":"2025-10-23T17:42:44.800+01:00","updated":"2026-09-30T23:02:29.854+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Citation","Environment"],"AI suggested tags":["Environment/GHG","Meat","Review"]}}
+{"dg-publish":true,"permalink":"/citations/scarborough-et-al-2023/","tags":["Citation","Environment"],"created":"2025-10-23T17:42:44.800+01:00","updated":"2026-10-01T06:57:10.031+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Citation","Environment"],"AI suggested tags":["Environment/GHG","Meat","Review"]}}
 ---
 
 

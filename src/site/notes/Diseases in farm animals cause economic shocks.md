@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/diseases-in-farm-animals-cause-economic-shocks/","tags":["Health/Disease","Economics","Food_Security","Turkeys","Geese","Wild_Animals","Pigs"],"created":"2025-11-11T23:29:33.213+00:00","updated":"2026-09-30T23:02:30.169+01:00","dg-note-properties":{"tags":["Health/Disease","Economics","Food_Security","Turkeys","Geese","Wild_Animals","Pigs"],"Note Type":"undefined","AI suggested tags":["MFA_Food_Sec","Economics/Jobs","Animal_Feed"]}}
+{"dg-publish":true,"permalink":"/diseases-in-farm-animals-cause-economic-shocks/","tags":["Health/Disease","Economics","Food_Security","Turkeys","Geese","Wild_Animals","Pigs"],"created":"2025-11-11T23:29:33.213+00:00","updated":"2026-10-01T06:57:10.192+01:00","dg-note-properties":{"tags":["Health/Disease","Economics","Food_Security","Turkeys","Geese","Wild_Animals","Pigs"],"Note Type":"undefined","AI suggested tags":["MFA_Food_Sec","Economics/Jobs","Animal_Feed"]}}
 ---
 
 - [[Bryant Confidential/MFA draft\|MFA draft]] 

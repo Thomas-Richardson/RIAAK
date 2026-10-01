@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/conservatism-and-animal-advocacy/","tags":["Politics"],"created":"2025-10-23T17:42:47.204+01:00","updated":"2026-09-30T22:17:46.524+01:00","dg-note-properties":{"tags":["Politics"],"AI suggested tags":["Public_Opinion","Psychology","Messaging"]}}
+{"dg-publish":true,"permalink":"/conservatism-and-animal-advocacy/","tags":["Politics"],"created":"2025-10-23T17:42:47.204+01:00","updated":"2026-10-01T06:57:10.143+01:00","dg-note-properties":{"tags":["Politics"],"AI suggested tags":["Public_Opinion","Psychology","Messaging"]}}
 ---
 
 

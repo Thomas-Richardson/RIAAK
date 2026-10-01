@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/national-food-strategy-report-2021/","tags":["Citation","Health/Nutrition","High_Income_Countries/UK"],"created":"2025-10-23T17:42:46.345+01:00","updated":"2026-09-30T23:02:29.743+01:00","dg-note-properties":{"Note Type":"Government Report","tags":["Citation","Health/Nutrition","High_Income_Countries/UK"],"AI suggested tags":["Food_Security","Bryant_Research/Project/CAWF_Food_Sec"]}}
+{"dg-publish":true,"permalink":"/citations/national-food-strategy-report-2021/","tags":["Citation","Health/Nutrition","High_Income_Countries/UK"],"created":"2025-10-23T17:42:46.345+01:00","updated":"2026-10-01T06:57:09.963+01:00","dg-note-properties":{"Note Type":"Government Report","tags":["Citation","Health/Nutrition","High_Income_Countries/UK"],"AI suggested tags":["Food_Security","Bryant_Research/Project/CAWF_Food_Sec","UK"]}}
 ---
 
 

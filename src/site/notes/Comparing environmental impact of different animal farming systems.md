@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/comparing-environmental-impact-of-different-animal-farming-systems/","tags":["Animal_Feed","Environment","Factory_Farming"],"created":"2025-10-23T17:42:41.664+01:00","updated":"2026-09-30T23:02:30.090+01:00","dg-note-properties":{"tags":["Animal_Feed","Environment","Factory_Farming"],"Note Type":"undefined","AI suggested tags":["Environment/Land","Farming","Environment/Pollution"]}}
+{"dg-publish":true,"permalink":"/comparing-environmental-impact-of-different-animal-farming-systems/","tags":["Animal_Feed","Environment","Factory_Farming"],"created":"2025-10-23T17:42:41.664+01:00","updated":"2026-10-01T06:57:10.139+01:00","dg-note-properties":{"tags":["Animal_Feed","Environment","Factory_Farming"],"Note Type":"undefined","AI suggested tags":["Environment/Land","Farming","Environment/Pollution"]}}
 ---
 
 

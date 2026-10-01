@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/saldivar-et-al-2022/","tags":["Case_Study","Citation","Health/Nutrition","Veganism"],"created":"2025-10-23T17:42:45.059+01:00","updated":"2026-09-30T23:02:29.841+01:00","dg-note-properties":{"tags":["Case_Study","Citation","Health/Nutrition","Veganism"],"AI suggested tags":["Institutional_Change","Alternative_Proteins/Plant_Based","Economics/Costs"]}}
+{"dg-publish":true,"permalink":"/citations/saldivar-et-al-2022/","tags":["Case_Study","Citation","Health/Nutrition","Veganism"],"created":"2025-10-23T17:42:45.059+01:00","updated":"2026-10-01T06:57:10.021+01:00","dg-note-properties":{"tags":["Case_Study","Citation","Health/Nutrition","Veganism"],"AI suggested tags":["Institutional_Change","Alternative_Proteins/Plant_Based","Economics/Costs"]}}
 ---
 
 

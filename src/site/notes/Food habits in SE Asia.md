@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/food-habits-in-se-asia/","tags":["SE_Asia","Asia"],"created":"2025-10-23T17:42:42.339+01:00","updated":"2026-09-30T23:02:30.247+01:00","dg-note-properties":{"tags":["SE_Asia","Asia"],"AI suggested tags":["Bryant_Research/Project/Good_Growth_Social_Listening","Lower_Middle_Income_Countries"]}}
+{"dg-publish":true,"permalink":"/food-habits-in-se-asia/","tags":["SE_Asia","Asia"],"created":"2025-10-23T17:42:42.339+01:00","updated":"2026-10-01T06:57:10.237+01:00","dg-note-properties":{"tags":["SE_Asia","Asia"],"AI suggested tags":["Bryant_Research/Project/Good_Growth_Social_Listening","Lower_Middle_Income_Countries","Alternative_Proteins"]}}
 ---
 
 

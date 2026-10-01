@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/convert-animal-feed-cropland-to-growing-vegetables-for-uk-nutrition-security/","tags":["Bryant_Research/Project/CAWF_Food_Sec","Food_Security","Economics/Jobs"],"created":"2025-10-23T17:42:42.603+01:00","updated":"2026-09-30T23:02:30.096+01:00","dg-note-properties":{"tags":["Bryant_Research/Project/CAWF_Food_Sec","Food_Security","Economics/Jobs"],"AI suggested tags":["UK","Farming","Fruit_Veg"]}}
+{"dg-publish":true,"permalink":"/convert-animal-feed-cropland-to-growing-vegetables-for-uk-nutrition-security/","tags":["Bryant_Research/Project/CAWF_Food_Sec","Food_Security","Economics/Jobs"],"created":"2025-10-23T17:42:42.603+01:00","updated":"2026-10-01T06:57:10.147+01:00","dg-note-properties":{"tags":["Bryant_Research/Project/CAWF_Food_Sec","Food_Security","Economics/Jobs"],"AI suggested tags":["UK","Farming","Fruit_Veg"]}}
 ---
 
 

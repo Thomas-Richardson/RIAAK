@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eu-farming-data/","tags":["Data","Europe","Farming"],"created":"2025-10-23T17:42:48.109+01:00","updated":"2026-09-30T23:02:30.198+01:00","dg-note-properties":{"tags":["Data","Europe","Farming"],"AI suggested tags":["Bryant_Research/Project/CAWF_Hidden_Harms","UK"]}}
+{"dg-publish":true,"permalink":"/eu-farming-data/","tags":["Data","Europe","Farming"],"created":"2025-10-23T17:42:48.109+01:00","updated":"2026-10-01T06:57:10.204+01:00","dg-note-properties":{"tags":["Data","Europe","Farming"],"AI suggested tags":["Bryant_Research/Project/CAWF_Hidden_Harms","UK","EU"]}}
 ---
 
 

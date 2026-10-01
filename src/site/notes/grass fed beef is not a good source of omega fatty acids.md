@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/grass-fed-beef-is-not-a-good-source-of-omega-fatty-acids/","tags":["Health/Nutrition","Veganism","Nuts"],"created":"2025-10-23T17:42:47.933+01:00","updated":"2026-09-30T22:17:46.820+01:00","dg-note-properties":{"tags":["Health/Nutrition","Veganism","Nuts"],"AI suggested tags":["Meat/Beef","Cattle/Grass_Fed_Cattle"]}}
+{"dg-publish":true,"permalink":"/grass-fed-beef-is-not-a-good-source-of-omega-fatty-acids/","tags":["Health/Nutrition","Veganism","Nuts"],"created":"2025-10-23T17:42:47.933+01:00","updated":"2026-10-01T06:57:10.717+01:00","dg-note-properties":{"tags":["Health/Nutrition","Veganism","Nuts"],"AI suggested tags":["Meat/Beef","Cattle/Grass_Fed_Cattle","Meat"]}}
 ---
 
 

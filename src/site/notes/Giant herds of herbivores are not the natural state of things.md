@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/giant-herds-of-herbivores-are-not-the-natural-state-of-things/","tags":["Environment/Land","Wild_Animals"],"created":"2025-10-23T17:42:47.718+01:00","updated":"2026-09-30T23:02:30.307+01:00","dg-note-properties":{"tags":["Environment/Land","Wild_Animals"],"Note Type":"undefined","AI suggested tags":["Grazing","Farming","Environment"]}}
+{"dg-publish":true,"permalink":"/giant-herds-of-herbivores-are-not-the-natural-state-of-things/","tags":["Environment/Land","Wild_Animals"],"created":"2025-10-23T17:42:47.718+01:00","updated":"2026-10-01T06:57:10.256+01:00","dg-note-properties":{"tags":["Environment/Land","Wild_Animals"],"Note Type":"undefined","AI suggested tags":["Grazing","Farming","Biodiversity"]}}
 ---
 
 

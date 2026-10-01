@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dairy-accounts-for-the-largest-fraction-of-veggie-s-ghg-emissions/","tags":["Environment/GHG"],"created":"2025-10-23T17:42:42.973+01:00","updated":"2026-09-30T23:02:30.115+01:00","dg-note-properties":{"tags":["Environment/GHG"],"AI suggested tags":["Environment","Veg_Diets","Environment/Land"]}}
+{"dg-publish":true,"permalink":"/dairy-accounts-for-the-largest-fraction-of-veggie-s-ghg-emissions/","tags":["Environment/GHG"],"created":"2025-10-23T17:42:42.973+01:00","updated":"2026-10-01T06:57:10.168+01:00","dg-note-properties":{"tags":["Environment/GHG"],"AI suggested tags":["Veg_Diets","Environment/Land","Citation"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/decreased-property-values-from-living-near-im-ps/","tags":["Bryant_Research/Project/CAWF_Hidden_Harms"],"created":"2025-10-23T17:42:47.559+01:00","updated":"2026-09-30T23:02:30.120+01:00","dg-note-properties":{"Note Type":"Own Work","tags":["Bryant_Research/Project/CAWF_Hidden_Harms"],"AI suggested tags":["CAWF_Farming","USA","UK"]}}
+{"dg-publish":true,"permalink":"/decreased-property-values-from-living-near-im-ps/","tags":["Bryant_Research/Project/CAWF_Hidden_Harms"],"created":"2025-10-23T17:42:47.559+01:00","updated":"2026-10-01T06:57:10.176+01:00","dg-note-properties":{"Note Type":"Own Work","tags":["Bryant_Research/Project/CAWF_Hidden_Harms"],"AI suggested tags":["CAWF_Farming","USA","UK"]}}
 ---
 
 

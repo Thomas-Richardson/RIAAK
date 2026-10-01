@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/going-vegan-is-good-for-the-environment/","tags":["Environment","Veganism"],"created":"2025-10-23T17:42:44.163+01:00","updated":"2026-09-30T23:02:30.316+01:00","dg-note-properties":{"tags":["Environment","Veganism"],"AI suggested tags":["Environment/GHG","Environment/Land","Veg_Diets"]}}
+{"dg-publish":true,"permalink":"/going-vegan-is-good-for-the-environment/","tags":["Environment","Veganism"],"created":"2025-10-23T17:42:44.163+01:00","updated":"2026-10-01T06:57:10.264+01:00","dg-note-properties":{"tags":["Environment","Veganism"],"AI suggested tags":["Environment/GHG","Environment/Land","Veg_Diets"]}}
 ---
 
 

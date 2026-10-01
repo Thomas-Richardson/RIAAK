@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ciwf-mapping-factory-farms/","tags":["Bryant_Research/Project/CAWF_Hidden_Harms","Factory_Farming","High_Income_Countries/UK"],"created":"2025-10-23T17:42:47.349+01:00","updated":"2026-09-30T23:02:29.155+01:00","dg-note-properties":{"tags":["Bryant_Research/Project/CAWF_Hidden_Harms","Factory_Farming","High_Income_Countries/UK"],"Note Type":"undefined","AI suggested tags":["UK","Bryant_Research/Project/CAWF_Food_Sec","Blog_In_Progress"]}}
+{"dg-publish":true,"permalink":"/ciwf-mapping-factory-farms/","tags":["Bryant_Research/Project/CAWF_Hidden_Harms","Factory_Farming","High_Income_Countries/UK"],"created":"2025-10-23T17:42:47.349+01:00","updated":"2026-10-01T06:57:09.674+01:00","dg-note-properties":{"tags":["Bryant_Research/Project/CAWF_Hidden_Harms","Factory_Farming","High_Income_Countries/UK"],"Note Type":"undefined","AI suggested tags":["UK","Bryant_Research/Project/CAWF_Food_Sec","Blog_In_Progress"]}}
 ---
 
 

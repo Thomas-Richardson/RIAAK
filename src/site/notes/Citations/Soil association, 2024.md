@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/soil-association-2024/","tags":["Citation","Environment/Pollution"],"created":"2025-10-23T17:42:44.855+01:00","updated":"2026-09-30T23:02:29.888+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Citation","Environment/Pollution"],"AI suggested tags":["Environment","Animal_Feed","Farming"]}}
+{"dg-publish":true,"permalink":"/citations/soil-association-2024/","tags":["Citation","Environment/Pollution"],"created":"2025-10-23T17:42:44.855+01:00","updated":"2026-10-01T06:57:10.044+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Citation","Environment/Pollution"],"AI suggested tags":["Animal_Feed","Farming","UK"]}}
 ---
 
 

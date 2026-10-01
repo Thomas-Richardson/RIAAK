@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classifying-livestock-systems/","tags":["Animal_Feed","MFA_Food_Sec","Economics/Jobs"],"created":"2025-10-23T17:42:42.763+01:00","updated":"2026-09-30T23:02:31.426+01:00","dg-note-properties":{"tags":["Animal_Feed","MFA_Food_Sec","Economics/Jobs"],"Note Type":"undefined","AI suggested tags":["Farming","Lower_Middle_Income_Countries","USA"]}}
+{"dg-publish":true,"permalink":"/classifying-livestock-systems/","tags":["Animal_Feed","MFA_Food_Sec","Economics/Jobs"],"created":"2025-10-23T17:42:42.763+01:00","updated":"2026-10-01T06:57:10.701+01:00","dg-note-properties":{"tags":["Animal_Feed","MFA_Food_Sec","Economics/Jobs"],"Note Type":"undefined","AI suggested tags":["Farming","Lower_Middle_Income_Countries","USA"]}}
 ---
 
 

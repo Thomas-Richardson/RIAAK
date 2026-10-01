@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eating-local-makes-only-small-improvement-to-your-environmental-impact/","tags":["Environment/GHG","To_Clean","Veganism"],"created":"2025-10-23T17:42:48.066+01:00","updated":"2026-09-30T23:02:30.207+01:00","dg-note-properties":{"tags":["Environment/GHG","To_Clean","Veganism"],"AI suggested tags":["Environment","Environment/Land","Farming"]}}
+{"dg-publish":true,"permalink":"/eating-local-makes-only-small-improvement-to-your-environmental-impact/","tags":["Environment/GHG","To_Clean","Veganism"],"created":"2025-10-23T17:42:48.066+01:00","updated":"2026-10-01T06:57:10.208+01:00","dg-note-properties":{"tags":["Environment/GHG","To_Clean","Veganism"],"AI suggested tags":["Environment/Land","Environment","Farming"]}}
 ---
 
 

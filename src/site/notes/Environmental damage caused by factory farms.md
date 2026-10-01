@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/environmental-damage-caused-by-factory-farms/","tags":["Factory_Farming","Environment/Land"],"created":"2025-10-23T17:42:47.471+01:00","updated":"2026-09-30T23:02:30.210+01:00","dg-note-properties":{"tags":["Factory_Farming","Environment/Land"],"Note Type":"undefined","AI suggested tags":["Environment/Pollution","CAWF_Farming","Bryant_Research/Project/CAWF_Hidden_Harms"]}}
+{"dg-publish":true,"permalink":"/environmental-damage-caused-by-factory-farms/","tags":["Factory_Farming","Environment/Land"],"created":"2025-10-23T17:42:47.471+01:00","updated":"2026-10-01T06:57:10.216+01:00","dg-note-properties":{"tags":["Factory_Farming","Environment/Land"],"Note Type":"undefined","AI suggested tags":["Environment/Pollution","CAWF_Farming","Bryant_Research/Project/CAWF_Hidden_Harms"]}}
 ---
 
 - [[Calculating the environmental damage caused by UK factory farms\|Calculating the environmental damage caused by UK factory farms]]

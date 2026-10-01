@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/diet-and-diabetes/","tags":["Health/Nutrition","Meat"],"created":"2025-10-23T17:42:44.190+01:00","updated":"2026-09-30T22:10:52.798+01:00","dg-note-properties":{"tags":["Health/Nutrition","Meat"],"AI suggested tags":["Meat/Red_Meat","Nuts","Diet"]}}
+{"dg-publish":true,"permalink":"/diet-and-diabetes/","tags":["Health/Nutrition","Meat"],"created":"2025-10-23T17:42:44.190+01:00","updated":"2026-10-01T06:57:10.188+01:00","dg-note-properties":{"tags":["Health/Nutrition","Meat"],"AI suggested tags":["Meat/Red_Meat","Nuts","Diet"]}}
 ---
 
 

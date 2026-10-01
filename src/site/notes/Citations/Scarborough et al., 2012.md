@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/scarborough-et-al-2012/","tags":["Chickens","Citation","Environment","Health/Nutrition","Meat"],"created":"2025-10-23T17:42:44.421+01:00","updated":"2026-09-30T23:02:29.845+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Chickens","Citation","Environment","Health/Nutrition","Meat"],"AI suggested tags":["Environment/GHG","Meat/Red_Meat","Meat/Meat_Consumption"]}}
+{"dg-publish":true,"permalink":"/citations/scarborough-et-al-2012/","tags":["Chickens","Citation","Environment","Health/Nutrition","Meat"],"created":"2025-10-23T17:42:44.421+01:00","updated":"2026-10-01T06:57:10.025+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Chickens","Citation","Environment","Health/Nutrition","Meat"],"AI suggested tags":["Environment/GHG","Meat/Meat_Consumption","Review"]}}
 ---
 
 

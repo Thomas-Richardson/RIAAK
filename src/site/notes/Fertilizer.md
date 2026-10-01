@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fertilizer/","tags":["Environment/Pollution","High_Income_Countries/UK","UK_Agriculture"],"created":"2026-08-30T17:07:20.000+01:00","updated":"2026-09-30T23:03:17.649+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Environment/Pollution","High_Income_Countries/UK","UK_Agriculture"],"AI suggested tags":["UK","Bryant_Research/Project/CAWF_Food_Sec","Bryant_Research/Project/CAWF_Hidden_Harms"]}}
+{"dg-publish":true,"permalink":"/fertilizer/","tags":["Environment/Pollution","High_Income_Countries/UK","UK_Agriculture"],"created":"2026-08-30T17:07:20.000+01:00","updated":"2026-10-01T06:57:10.235+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Environment/Pollution","High_Income_Countries/UK","UK_Agriculture"],"AI suggested tags":["UK","Bryant_Research/Project/CAWF_Food_Sec","Bryant_Research/Project/CAWF_Hidden_Harms"]}}
 ---
 
 

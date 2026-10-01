@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/springmann-et-al-2018/","tags":["Citation","Economics","Health/Nutrition","Meat"],"created":"2025-10-23T17:42:46.762+01:00","updated":"2026-09-30T22:17:46.514+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Citation","Economics","Health/Nutrition","Meat"],"AI suggested tags":["Economics/Costs","Nuts","Meat/Red_Meat"]}}
+{"dg-publish":true,"permalink":"/citations/springmann-et-al-2018/","tags":["Citation","Economics","Health/Nutrition","Meat"],"created":"2025-10-23T17:42:46.762+01:00","updated":"2026-10-01T06:57:10.049+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Citation","Economics","Health/Nutrition","Meat"],"AI suggested tags":["Meat/Red_Meat","Economics/Costs","Nuts"]}}
 ---
 
 

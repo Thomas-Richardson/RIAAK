@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/pendrill-et-al-2019/","tags":["Citation","Cows","Environment"],"created":"2025-10-23T17:42:44.468+01:00","updated":"2026-09-30T23:02:29.771+01:00","dg-note-properties":{"tags":["Citation","Cows","Environment"],"AI suggested tags":["Environment/Land","Environment/GHG","Biodiversity"]}}
+{"dg-publish":true,"permalink":"/citations/pendrill-et-al-2019/","tags":["Citation","Cows","Environment"],"created":"2025-10-23T17:42:44.468+01:00","updated":"2026-10-01T06:57:09.980+01:00","dg-note-properties":{"tags":["Citation","Cows","Environment"],"AI suggested tags":["Environment/Land","Environment/GHG","Biodiversity"]}}
 ---
 
 

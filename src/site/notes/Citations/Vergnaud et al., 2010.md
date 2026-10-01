@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/vergnaud-et-al-2010/","tags":["Chickens","Citation","Health/Nutrition","Meat"],"created":"2025-10-23T17:42:45.334+01:00","updated":"2026-09-30T22:10:52.754+01:00","dg-note-properties":{"tags":["Chickens","Citation","Health/Nutrition","Meat"],"AI suggested tags":["Meat/Meat_Consumption","Meat/Red_Meat","Diet"]}}
+{"dg-publish":true,"permalink":"/citations/vergnaud-et-al-2010/","tags":["Chickens","Citation","Health/Nutrition","Meat"],"created":"2025-10-23T17:42:45.334+01:00","updated":"2026-10-01T06:57:10.103+01:00","dg-note-properties":{"tags":["Chickens","Citation","Health/Nutrition","Meat"],"AI suggested tags":["Meat/Meat_Consumption","Meat/Red_Meat","Diet"]}}
 ---
 
 

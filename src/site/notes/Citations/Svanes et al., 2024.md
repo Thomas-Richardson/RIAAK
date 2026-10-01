@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/svanes-et-al-2024/","tags":["Animal_Feed","Citation","Environment"],"created":"2025-10-23T17:42:45.276+01:00","updated":"2026-09-30T23:02:29.920+01:00","dg-note-properties":{"tags":["Animal_Feed","Citation","Environment"],"Note Type":"undefined","AI suggested tags":["Environment/Land","Environment/GHG","Meat"]}}
+{"dg-publish":true,"permalink":"/citations/svanes-et-al-2024/","tags":["Animal_Feed","Citation","Environment"],"created":"2025-10-23T17:42:45.276+01:00","updated":"2026-10-01T06:57:10.066+01:00","dg-note-properties":{"tags":["Animal_Feed","Citation","Environment"],"Note Type":"undefined","AI suggested tags":["Environment/Land","Environment/GHG","Meat"]}}
 ---
 
 

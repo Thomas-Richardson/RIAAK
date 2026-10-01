@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/does-living-near-a-mega-farm-affect-your-house-price-a-uk-analysis/","tags":["Animal_Feed","Factory_Farming","UK"],"created":"2025-10-23T17:42:41.402+01:00","updated":"2026-09-30T23:02:30.189+01:00","dg-note-properties":{"tags":["Animal_Feed","Factory_Farming","UK"],"Note Type":"undefined","AI suggested tags":["Bryant_Research/Project/CAWF_Hidden_Harms","USA","CAWF_Farming"]}}
+{"dg-publish":true,"permalink":"/does-living-near-a-mega-farm-affect-your-house-price-a-uk-analysis/","tags":["Animal_Feed","Factory_Farming","UK"],"created":"2025-10-23T17:42:41.402+01:00","updated":"2026-10-01T06:57:10.200+01:00","dg-note-properties":{"tags":["Animal_Feed","Factory_Farming","UK"],"Note Type":"undefined","AI suggested tags":["Bryant_Research/Project/CAWF_Hidden_Harms","USA","CAWF_Farming"]}}
 ---
 
 

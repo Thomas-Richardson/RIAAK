@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/peacock-2023/","tags":["Alternative_Proteins","Citation"],"created":"2025-10-23T17:42:46.310+01:00","updated":"2026-09-30T22:17:46.507+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Alternative_Proteins","Citation"],"AI suggested tags":["Consumer_Research","Behaviour_Change","Alternative_Proteins/Plant_Based"]}}
+{"dg-publish":true,"permalink":"/citations/peacock-2023/","tags":["Alternative_Proteins","Citation"],"created":"2025-10-23T17:42:46.310+01:00","updated":"2026-10-01T06:57:09.976+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Alternative_Proteins","Citation"],"AI suggested tags":["Consumer_Research","Behaviour_Change","Alternative_Proteins/Plant_Based"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-broken-plate-2026-the-food-foundation/","tags":["High_Income_Countries/UK","Health/Nutrition","Economics/Costs","Policy/Food_Policy"],"created":"2026-06-24T17:02:32.000+01:00","updated":"2026-09-30T23:02:29.944+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["High_Income_Countries/UK","Health/Nutrition","Economics/Costs","Policy/Food_Policy"],"source_url":"https://foodfoundation.org.uk/sites/default/files/2026-06/The%20Broken%20Plate%202026_DIGITAL_0.pdf#page=3","created":"2026-06-10","AI suggested tags":["Health","Food_Security","Bryant_Research/Project/CAWF_Food_Sec"]}}
+{"dg-publish":true,"permalink":"/citations/the-broken-plate-2026-the-food-foundation/","tags":["High_Income_Countries/UK","Health/Nutrition","Economics/Costs","Policy/Food_Policy"],"created":"2026-06-24T17:02:32.000+01:00","updated":"2026-10-01T06:57:10.078+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["High_Income_Countries/UK","Health/Nutrition","Economics/Costs","Policy/Food_Policy"],"source_url":"https://foodfoundation.org.uk/sites/default/files/2026-06/The%20Broken%20Plate%202026_DIGITAL_0.pdf#page=3","created":"2026-06-10","AI suggested tags":["Health","Food_Security","Economics"]}}
 ---
 
 

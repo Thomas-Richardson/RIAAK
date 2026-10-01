@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/springmann-et-al-2023/","tags":["Citation","Environment","Health/Nutrition","Veganism"],"created":"2025-10-23T17:42:45.680+01:00","updated":"2026-09-30T23:02:29.896+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Citation","Environment","Health/Nutrition","Veganism"],"AI suggested tags":["Environment/GHG","Health/Disease","Meat"]}}
+{"dg-publish":true,"permalink":"/citations/springmann-et-al-2023/","tags":["Citation","Environment","Health/Nutrition","Veganism"],"created":"2025-10-23T17:42:45.680+01:00","updated":"2026-10-01T06:57:10.054+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Citation","Environment","Health/Nutrition","Veganism"],"AI suggested tags":["Environment/GHG","Health/Disease","Meat"]}}
 ---
 
 

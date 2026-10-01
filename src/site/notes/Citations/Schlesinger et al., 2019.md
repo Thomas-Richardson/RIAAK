@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/schlesinger-et-al-2019/","tags":["Citation","Health/Nutrition","Meat"],"created":"2025-10-23T17:42:45.868+01:00","updated":"2026-09-30T22:10:52.671+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Citation","Health/Nutrition","Meat"],"AI suggested tags":["Meat/Red_Meat","Diet","Review"]}}
+{"dg-publish":true,"permalink":"/citations/schlesinger-et-al-2019/","tags":["Citation","Health/Nutrition","Meat"],"created":"2025-10-23T17:42:45.868+01:00","updated":"2026-10-01T06:57:10.032+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Citation","Health/Nutrition","Meat"],"AI suggested tags":["Meat/Red_Meat","Diet","Review"]}}
 ---
 
 

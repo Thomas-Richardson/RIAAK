@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/ritchie-et-al-2017/","tags":["Citation","Dairy","Environment","Meat"],"created":"2025-10-23T17:42:46.992+01:00","updated":"2026-09-30T23:02:29.830+01:00","dg-note-properties":{"tags":["Citation","Dairy","Environment","Meat"],"AI suggested tags":["Meat/Meat_Consumption","Cows","Environment"]}}
+{"dg-publish":true,"permalink":"/citations/ritchie-et-al-2017/","tags":["Citation","Dairy","Environment","Meat"],"created":"2025-10-23T17:42:46.992+01:00","updated":"2026-10-01T06:57:10.004+01:00","dg-note-properties":{"tags":["Citation","Dairy","Environment","Meat"],"AI suggested tags":["Meat/Meat_Consumption","Cows","High_Income_Countries"]}}
 ---
 
 

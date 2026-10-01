@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health-effects-of-eggs/","tags":["Health/Nutrition","Eggs","Nuts","Legumes"],"created":"2025-10-23T17:42:48.099+01:00","updated":"2026-09-30T22:10:52.862+01:00","dg-note-properties":{"tags":["Health/Nutrition","Eggs","Nuts","Legumes"],"AI suggested tags":["Diet","Review","Meat/Red_Meat"]}}
+{"dg-publish":true,"permalink":"/health-effects-of-eggs/","tags":["Health/Nutrition","Eggs","Nuts","Legumes"],"created":"2025-10-23T17:42:48.099+01:00","updated":"2026-10-01T06:57:10.274+01:00","dg-note-properties":{"tags":["Health/Nutrition","Eggs","Nuts","Legumes"],"AI suggested tags":["Diet","Review","Meat/Red_Meat"]}}
 ---
 
 - [[Citations/Kwok et al., 2019\|Kwok et al., 2019]] in a comprehensive review found inconclusive evidence for eggs on CVD and all cause mortality

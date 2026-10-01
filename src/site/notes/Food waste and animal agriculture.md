@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/food-waste-and-animal-agriculture/","tags":["Environment"],"created":"2025-10-23T17:42:41.587+01:00","updated":"2026-09-30T23:02:30.285+01:00","dg-note-properties":{"tags":["Environment"],"AI suggested tags":["Environment/Land","Animal_Feed","Farming"]}}
+{"dg-publish":true,"permalink":"/food-waste-and-animal-agriculture/","tags":["Environment"],"created":"2025-10-23T17:42:41.587+01:00","updated":"2026-10-01T06:57:10.247+01:00","dg-note-properties":{"tags":["Environment"],"AI suggested tags":["Environment/Land","Farming","Animal_Feed"]}}
 ---
 
 

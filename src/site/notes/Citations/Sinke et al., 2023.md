@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/sinke-et-al-2023/","tags":["Environment/GHG","Citation","Alternative_Proteins/Cultivated_Meat","Environment/Land"],"created":"2025-10-23T17:42:46.519+01:00","updated":"2026-09-30T23:02:29.881+01:00","dg-note-properties":{"tags":["Environment/GHG","Citation","Alternative_Proteins/Cultivated_Meat","Environment/Land"],"AI suggested tags":["Environment","Cows","Meat"]}}
+{"dg-publish":true,"permalink":"/citations/sinke-et-al-2023/","tags":["Environment/GHG","Citation","Alternative_Proteins/Cultivated_Meat","Environment/Land"],"created":"2025-10-23T17:42:46.519+01:00","updated":"2026-10-01T06:57:10.040+01:00","dg-note-properties":{"tags":["Environment/GHG","Citation","Alternative_Proteins/Cultivated_Meat","Environment/Land"],"AI suggested tags":["Cows","Meat","Environment"]}}
 ---
 
 

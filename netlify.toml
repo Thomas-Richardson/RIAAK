@@ -8,6 +8,12 @@
   status = 200
   force = true
 
+# Duplicate note removed 2026-10-04: send its old address to the copy that was kept.
+[[redirects]]
+  from = "/citations/pathways-to-protecting-farmed-animals-in-saudi-arabia-animetrics-et-al/"
+  to = "/citations/pathways-to-protecting-farmed-animals-in-the-kingdom-of-saudi-arabia-animetrics-et-al/"
+  status = 301
+
 [[redirects]]
   from = "/*"
   to = "/404"

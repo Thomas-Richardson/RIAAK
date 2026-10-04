@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/how-muslim-consumers-view-halal-and-animal-welfare-animetrics-et-al/","tags":["Animal_Welfare","Consumer_Attitudes","Messaging","Asia","Africa"],"created":"2026-08-07T10:28:47.000+01:00","updated":"2026-09-30T19:55:01.679+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Animal_Welfare","Consumer_Attitudes","Messaging","Asia","Africa"],"source_url":"https://static1.squarespace.com/static/64d5fb5c700ebb4cb31b85ab/t/6a71e304fc6701243a1ba09f/1785848580752/Muslim+Consumers_JULY2026.pdf","created":"2026-08-06","AI suggested tags":["Middle_East","Consumer_Research","Public_Opinion"]}}
+{"dg-publish":true,"permalink":"/citations/how-muslim-consumers-view-halal-and-animal-welfare-animetrics-et-al/","tags":["Animal_Welfare","Consumer_Attitudes","Messaging","Asia","Africa"],"created":"2026-08-07T10:28:47.000+01:00","updated":"2026-10-04T22:30:35.817+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Animal_Welfare","Consumer_Attitudes","Messaging","Asia","Africa"],"source_url":"https://static1.squarespace.com/static/64d5fb5c700ebb4cb31b85ab/t/6a71e304fc6701243a1ba09f/1785848580752/Muslim+Consumers_JULY2026.pdf","created":"2026-08-06","AI suggested tags":["Middle_East","Consumer_Research","Public_Opinion"]}}
 ---
 
 
@@ -25,4 +25,4 @@
 
 - [[Citations/Muslim Consumers_ Perspectives - On Animal Welfare in Halal Production and Dietary Choices in Türkiye (Animetrics)\|Citations/Muslim Consumers_ Perspectives - On Animal Welfare in Halal Production and Dietary Choices in Türkiye (Animetrics)]] (0.86)
 - [[Citations/Pathways to protecting farmed animals in Qatar (Animetrics et al.)\|Citations/Pathways to protecting farmed animals in Qatar (Animetrics et al.)]] (0.70)
-- [[Citations/Pathways to protecting farmed animals in Saudi Arabia (Animetrics et al.)\|Citations/Pathways to protecting farmed animals in Saudi Arabia (Animetrics et al.)]] (0.70)
+- [[Citations/Pathways to protecting farmed animals in the Kingdom of Saudi Arabia (Animetrics et al.)\|Citations/Pathways to protecting farmed animals in the Kingdom of Saudi Arabia (Animetrics et al.)]] (0.70)

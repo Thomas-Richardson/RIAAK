@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/pathways-to-protecting-farmed-animals-in-kuwait-animetrics-et-al/","tags":["Middle_East","Consumer_Attitudes","Movement_Strategy","Animal_Welfare"],"created":"2026-03-29T23:58:31.000+01:00","updated":"2026-10-01T13:49:34.804+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.animetrics.org/projects/pathways-to-protecting-farmed-animals-in-kuwait","tags":["Middle_East","Consumer_Attitudes","Movement_Strategy","Animal_Welfare"],"source_url":"file:///Users/thomasmanandhar-richardson/Downloads/Animetrics%20x%20MEVS%20Country%20Reports_KWT.pdf","created":"2026-03-26","AI suggested tags":["Public_Opinion","Consumer_Research","Asia"]}}
+{"dg-publish":true,"permalink":"/citations/pathways-to-protecting-farmed-animals-in-kuwait-animetrics-et-al/","tags":["Middle_East","Consumer_Attitudes","Movement_Strategy","Animal_Welfare"],"created":"2026-03-29T23:58:31.000+01:00","updated":"2026-10-04T22:30:35.817+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.animetrics.org/projects/pathways-to-protecting-farmed-animals-in-kuwait","tags":["Middle_East","Consumer_Attitudes","Movement_Strategy","Animal_Welfare"],"source_url":"file:///Users/thomasmanandhar-richardson/Downloads/Animetrics%20x%20MEVS%20Country%20Reports_KWT.pdf","created":"2026-03-26","AI suggested tags":["Public_Opinion","Consumer_Research","Asia"]}}
 ---
 
 
@@ -23,5 +23,4 @@
 # AI suggested related articles
 
 - [[Citations/Pathways to protecting farmed animals in Qatar (Animetrics et al.)\|Citations/Pathways to protecting farmed animals in Qatar (Animetrics et al.)]] (0.94)
-- [[Citations/Pathways to protecting farmed animals in Saudi Arabia (Animetrics et al.)\|Citations/Pathways to protecting farmed animals in Saudi Arabia (Animetrics et al.)]] (0.93)
 - [[Citations/Pathways to protecting farmed animals in the Kingdom of Saudi Arabia (Animetrics et al.)\|Citations/Pathways to protecting farmed animals in the Kingdom of Saudi Arabia (Animetrics et al.)]] (0.92)

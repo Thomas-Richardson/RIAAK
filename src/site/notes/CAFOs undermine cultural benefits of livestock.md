@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/caf-os-undermine-cultural-benefits-of-livestock/","tags":["Factory_Farming"],"created":"2025-10-23T17:42:43.227+01:00","updated":"2026-09-30T19:55:01.236+01:00","dg-note-properties":{"tags":["Factory_Farming"],"Note Type":"Own Notes","AI suggested tags":["MFA_Food_Sec","Farming","Economics/Jobs"]}}
+{"dg-publish":true,"permalink":"/caf-os-undermine-cultural-benefits-of-livestock/","tags":["Factory_Farming"],"created":"2025-10-23T09:42:43.227-07:00","updated":"2026-09-30T11:55:01.236-07:00","dg-note-properties":{"tags":["Factory_Farming"],"Note Type":"Own Notes","AI suggested tags":["MFA_Food_Sec","Farming","Economics/Jobs"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blogs-and-articles/the-8-differences-between-tech-and-biotech-startups/","tags":["Alternative_Proteins/Precision_Fermentation","Alternative_Proteins"],"created":"2025-10-23T17:42:47.591+01:00","updated":"2026-09-30T19:55:03.631+01:00","dg-note-properties":{"Note Type":"News Report / Blog","tags":["Alternative_Proteins/Precision_Fermentation","Alternative_Proteins"],"AI suggested tags":["Important_Read","Light_Read","Listen_To"]}}
+{"dg-publish":true,"permalink":"/blogs-and-articles/the-8-differences-between-tech-and-biotech-startups/","tags":["Alternative_Proteins/Precision_Fermentation","Alternative_Proteins"],"created":"2025-10-23T09:42:47.591-07:00","updated":"2026-09-30T11:55:03.631-07:00","dg-note-properties":{"Note Type":"News Report / Blog","tags":["Alternative_Proteins/Precision_Fermentation","Alternative_Proteins"],"AI suggested tags":["Important_Read","Light_Read","Listen_To"]}}
 ---
 
 > *“There are many paths to the top of the mountain, but the view is always the same.”*

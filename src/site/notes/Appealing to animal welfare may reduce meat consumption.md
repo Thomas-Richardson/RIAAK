@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/appealing-to-animal-welfare-may-reduce-meat-consumption/","tags":["Behaviour_Change","Psychology"],"created":"2025-10-23T17:42:47.945+01:00","updated":"2026-09-30T19:55:01.195+01:00","dg-note-properties":{"tags":["Behaviour_Change","Psychology"],"AI suggested tags":["Meat/Meat_Reduction","Consumer_Attitudes","Consumer_Research"]}}
+{"dg-publish":true,"permalink":"/appealing-to-animal-welfare-may-reduce-meat-consumption/","tags":["Behaviour_Change","Psychology"],"created":"2025-10-23T09:42:47.945-07:00","updated":"2026-09-30T11:55:01.195-07:00","dg-note-properties":{"tags":["Behaviour_Change","Psychology"],"AI suggested tags":["Meat/Meat_Reduction","Consumer_Attitudes","Consumer_Research"]}}
 ---
 
 

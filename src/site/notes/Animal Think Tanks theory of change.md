@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/animal-think-tanks-theory-of-change/","tags":["Narratives"],"created":"2025-10-23T17:42:47.695+01:00","updated":"2026-09-30T19:55:01.170+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Narratives"],"AI suggested tags":["Protest","Public_Opinion","Movement_Building"]}}
+{"dg-publish":true,"permalink":"/animal-think-tanks-theory-of-change/","tags":["Narratives"],"created":"2025-10-23T09:42:47.695-07:00","updated":"2026-09-30T11:55:01.170-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Narratives"],"AI suggested tags":["Protest","Public_Opinion","Movement_Building"]}}
 ---
 
 

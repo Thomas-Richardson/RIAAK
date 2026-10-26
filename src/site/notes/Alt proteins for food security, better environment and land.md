@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/alt-proteins-for-food-security-better-environment-and-land/","tags":["Environment/GHG","Alternative_Proteins","Environment/Land","Food_Security","Lower_Middle_Income_Countries","Economics/Jobs"],"created":"2025-10-23T17:42:47.731+01:00","updated":"2026-09-30T19:55:01.161+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Environment/GHG","Alternative_Proteins","Environment/Land","Food_Security","Lower_Middle_Income_Countries","Economics/Jobs"],"AI suggested tags":["Alternative_Proteins/Precision_Fermentation","Economics","Citation"]}}
+{"dg-publish":true,"permalink":"/alt-proteins-for-food-security-better-environment-and-land/","tags":["Environment/GHG","Alternative_Proteins","Environment/Land","Food_Security","Lower_Middle_Income_Countries","Economics/Jobs"],"created":"2025-10-23T09:42:47.731-07:00","updated":"2026-09-30T11:55:01.161-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Environment/GHG","Alternative_Proteins","Environment/Land","Food_Security","Lower_Middle_Income_Countries","Economics/Jobs"],"AI suggested tags":["Alternative_Proteins/Precision_Fermentation","Economics","Citation"]}}
 ---
 
 

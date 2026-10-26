@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bioavailability-of-protein-in-veg-foods/","tags":["Health/Nutrition"],"created":"2025-10-23T17:42:41.556+01:00","updated":"2026-09-30T19:55:01.222+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Health/Nutrition"],"AI suggested tags":["Meat","Alternative_Proteins/Plant_Based","Alternative_Proteins"]}}
+{"dg-publish":true,"permalink":"/bioavailability-of-protein-in-veg-foods/","tags":["Health/Nutrition"],"created":"2025-10-23T09:42:41.556-07:00","updated":"2026-09-30T11:55:01.222-07:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Health/Nutrition"],"AI suggested tags":["Meat","Alternative_Proteins/Plant_Based","Alternative_Proteins"]}}
 ---
 
 

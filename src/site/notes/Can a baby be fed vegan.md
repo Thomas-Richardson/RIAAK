@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/can-a-baby-be-fed-vegan/","tags":["Animal_Feed","Health/Disease","Veganism"],"created":"2025-10-23T17:42:47.831+01:00","updated":"2026-09-30T19:55:01.262+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Animal_Feed","Health/Disease","Veganism"],"AI suggested tags":["Health/Nutrition","Veg_Diets","High_Income_Countries"]}}
+{"dg-publish":true,"permalink":"/can-a-baby-be-fed-vegan/","tags":["Animal_Feed","Health/Disease","Veganism"],"created":"2025-10-23T09:42:47.831-07:00","updated":"2026-09-30T11:55:01.262-07:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Animal_Feed","Health/Disease","Veganism"],"AI suggested tags":["Health/Nutrition","Veg_Diets","High_Income_Countries"]}}
 ---
 
 

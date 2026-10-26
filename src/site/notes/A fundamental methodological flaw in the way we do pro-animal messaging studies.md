@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/a-fundamental-methodological-flaw-in-the-way-we-do-pro-animal-messaging-studies/","tags":["Statistics"],"created":"2025-10-23T17:42:41.336+01:00","updated":"2026-09-30T19:55:01.142+01:00","dg-note-properties":{"Note Type":"Own Work","tags":["Statistics"],"AI suggested tags":["Research/Faunalytics","Research/Methods","Behaviour_Change"]}}
+{"dg-publish":true,"permalink":"/a-fundamental-methodological-flaw-in-the-way-we-do-pro-animal-messaging-studies/","tags":["Statistics"],"created":"2025-10-23T09:42:41.336-07:00","updated":"2026-09-30T11:55:01.142-07:00","dg-note-properties":{"Note Type":"Own Work","tags":["Statistics"],"AI suggested tags":["Research/Faunalytics","Research/Methods","Behaviour_Change"]}}
 ---
 
 - [[Animal cruelty based messages are more effective than health or environmental ones\|Animal cruelty based messages are more effective than health or environmental ones]]

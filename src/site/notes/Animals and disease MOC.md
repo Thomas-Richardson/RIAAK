@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/animals-and-disease-moc/","tags":["Factory_Farming","Health/Disease","Pigs"],"created":"2025-11-11T23:29:44.229+00:00","updated":"2026-09-30T19:55:01.192+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Factory_Farming","Health/Disease","Pigs"],"AI suggested tags":["USA","Economics/Jobs","MFA_Food_Sec"]}}
+{"dg-publish":true,"permalink":"/animals-and-disease-moc/","tags":["Factory_Farming","Health/Disease","Pigs"],"created":"2025-11-11T15:29:44.229-08:00","updated":"2026-09-30T11:55:01.192-07:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Factory_Farming","Health/Disease","Pigs"],"AI suggested tags":["USA","Economics/Jobs","MFA_Food_Sec"]}}
 ---
 
 There are 4 primary but separate ways that animal agriculture contributes to disease:

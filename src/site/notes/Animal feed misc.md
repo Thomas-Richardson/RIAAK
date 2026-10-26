@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/animal-feed-misc/","tags":["Animal_Feed","Farming"],"created":"2025-10-23T17:42:41.867+01:00","updated":"2026-09-30T19:55:01.189+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Animal_Feed","Farming"],"AI suggested tags":["MFA_Food_Sec","USA","Lower_Middle_Income_Countries"]}}
+{"dg-publish":true,"permalink":"/animal-feed-misc/","tags":["Animal_Feed","Farming"],"created":"2025-10-23T09:42:41.867-07:00","updated":"2026-09-30T11:55:01.189-07:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Animal_Feed","Farming"],"AI suggested tags":["MFA_Food_Sec","USA","Lower_Middle_Income_Countries"]}}
 ---
 
 

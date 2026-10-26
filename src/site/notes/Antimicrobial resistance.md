@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/antimicrobial-resistance/","tags":["Factory_Farming","Health/Disease"],"created":"2025-11-11T23:26:09.665+00:00","updated":"2026-09-30T19:55:01.194+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Factory_Farming","Health/Disease"],"AI suggested tags":["Farming","USA","Animal_Feed"]}}
+{"dg-publish":true,"permalink":"/antimicrobial-resistance/","tags":["Factory_Farming","Health/Disease"],"created":"2025-11-11T15:26:09.665-08:00","updated":"2026-09-30T11:55:01.194-07:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Factory_Farming","Health/Disease"],"AI suggested tags":["Farming","USA","Animal_Feed"]}}
 ---
 
 

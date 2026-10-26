@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/alt-proteins-and-vc-funding/","tags":["Alternative_Proteins"],"created":"2025-10-23T17:42:43.254+01:00","updated":"2026-09-30T19:55:03.623+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Alternative_Proteins"],"AI suggested tags":["Alternative_Proteins/Precision_Fermentation","Alternative_Proteins/Cultivated_Meat","Economics"]}}
+{"dg-publish":true,"permalink":"/alt-proteins-and-vc-funding/","tags":["Alternative_Proteins"],"created":"2025-10-23T09:42:43.254-07:00","updated":"2026-09-30T11:55:03.623-07:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Alternative_Proteins"],"AI suggested tags":["Alternative_Proteins/Precision_Fermentation","Alternative_Proteins/Cultivated_Meat","Economics"]}}
 ---
 
 

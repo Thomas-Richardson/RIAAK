@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/caf-os-wreck-domestic-rural-communities/","tags":["Economics","Factory_Farming","Farmers","Economics/Jobs","Pigs"],"created":"2025-11-11T23:29:29.759+00:00","updated":"2026-09-30T19:55:01.237+01:00","dg-note-properties":{"tags":["Economics","Factory_Farming","Farmers","Economics/Jobs","Pigs"],"Note Type":"Own Notes","AI suggested tags":["USA","To_Clean","Farming"]}}
+{"dg-publish":true,"permalink":"/caf-os-wreck-domestic-rural-communities/","tags":["Economics","Factory_Farming","Farmers","Economics/Jobs","Pigs"],"created":"2025-11-11T15:29:29.759-08:00","updated":"2026-09-30T11:55:01.237-07:00","dg-note-properties":{"tags":["Economics","Factory_Farming","Farmers","Economics/Jobs","Pigs"],"Note Type":"Own Notes","AI suggested tags":["USA","To_Clean","Farming"]}}
 ---
 
 

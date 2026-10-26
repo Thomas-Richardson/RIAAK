@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/animal-farming-makes-the-effects-of-crop-diseases-worse/","tags":["Animal_Feed","Food_Security","Health/Disease"],"created":"2025-11-11T23:26:11.191+00:00","updated":"2026-09-30T19:55:01.188+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Animal_Feed","Food_Security","Health/Disease"],"AI suggested tags":["MFA_Food_Sec","Economics/Jobs","Farming"]}}
+{"dg-publish":true,"permalink":"/animal-farming-makes-the-effects-of-crop-diseases-worse/","tags":["Animal_Feed","Food_Security","Health/Disease"],"created":"2025-11-11T15:26:11.191-08:00","updated":"2026-09-30T11:55:01.188-07:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Animal_Feed","Food_Security","Health/Disease"],"AI suggested tags":["MFA_Food_Sec","Economics/Jobs","Farming"]}}
 ---
 
 

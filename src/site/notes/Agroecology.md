@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/agroecology/","tags":["Farming"],"created":"2025-10-23T17:42:47.992+01:00","updated":"2026-09-30T19:55:01.151+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Farming"],"AI suggested tags":["Food_Security","Environment/Land","Economics/Jobs"]}}
+{"dg-publish":true,"permalink":"/agroecology/","tags":["Farming"],"created":"2025-10-23T09:42:47.992-07:00","updated":"2026-09-30T11:55:01.151-07:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Farming"],"AI suggested tags":["Food_Security","Environment/Land","Economics/Jobs"]}}
 ---
 
 

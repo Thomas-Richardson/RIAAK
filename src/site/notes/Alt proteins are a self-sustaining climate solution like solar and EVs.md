@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/alt-proteins-are-a-self-sustaining-climate-solution-like-solar-and-e-vs/","tags":["Alternative_Proteins","Environment/Climate_Change","Economics"],"created":"2026-06-24T17:02:32.000+01:00","updated":"2026-09-30T19:55:01.158+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Alternative_Proteins","Environment/Climate_Change","Economics"],"AI suggested tags":["Alternative_Proteins/Precision_Fermentation","Important_Read","Light_Read"]}}
+{"dg-publish":true,"permalink":"/alt-proteins-are-a-self-sustaining-climate-solution-like-solar-and-e-vs/","tags":["Alternative_Proteins","Environment/Climate_Change","Economics"],"created":"2026-06-24T09:02:32.000-07:00","updated":"2026-09-30T11:55:01.158-07:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Alternative_Proteins","Environment/Climate_Change","Economics"],"AI suggested tags":["Alternative_Proteins/Precision_Fermentation","Important_Read","Light_Read"]}}
 ---
 
 

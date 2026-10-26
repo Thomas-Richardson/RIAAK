@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/change-in-demand-for-animal-products-worldwide/","tags":["Meat/Meat_Consumption"],"created":"2025-10-23T17:42:41.654+01:00","updated":"2026-09-30T19:55:01.269+01:00","dg-note-properties":{"tags":["Meat/Meat_Consumption"],"AI suggested tags":["Meat","High_Income_Countries","Lower_Middle_Income_Countries"]}}
+{"dg-publish":true,"permalink":"/change-in-demand-for-animal-products-worldwide/","tags":["Meat/Meat_Consumption"],"created":"2025-10-23T09:42:41.654-07:00","updated":"2026-09-30T11:55:01.269-07:00","dg-note-properties":{"tags":["Meat/Meat_Consumption"],"AI suggested tags":["Meat","High_Income_Countries","Lower_Middle_Income_Countries"]}}
 ---
 
 - [[We eat too many animal products\|We eat too many animal products]]

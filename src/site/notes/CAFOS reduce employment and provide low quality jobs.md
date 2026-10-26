@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cafos-reduce-employment-and-provide-low-quality-jobs/","tags":["Factory_Farming","Economics/Jobs"],"created":"2025-11-11T23:29:31.293+00:00","updated":"2026-10-01T06:57:09.652+01:00","dg-note-properties":{"tags":["Factory_Farming","Economics/Jobs"],"Note Type":"Own Notes","AI suggested tags":["USA","Farming","Animal_Feed"]}}
+{"dg-publish":true,"permalink":"/cafos-reduce-employment-and-provide-low-quality-jobs/","tags":["Factory_Farming","Economics/Jobs"],"created":"2025-11-11T15:29:31.293-08:00","updated":"2026-09-30T22:57:09.652-07:00","dg-note-properties":{"tags":["Factory_Farming","Economics/Jobs"],"Note Type":"Own Notes","AI suggested tags":["USA","Farming","Animal_Feed"]}}
 ---
 
 - [[CAFOs injure and sicken their workers\|CAFOs injure and sicken their workers]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/alt-proteins-are-underfunded/","tags":["Environment/GHG","Alternative_Proteins"],"created":"2025-10-23T17:42:41.739+01:00","updated":"2026-10-01T06:57:09.629+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Environment/GHG","Alternative_Proteins"],"AI suggested tags":["Alternative_Proteins/Precision_Fermentation","Economics","Alternative_Proteins/Plant_Based"]}}
+{"dg-publish":true,"permalink":"/alt-proteins-are-underfunded/","tags":["Environment/GHG","Alternative_Proteins"],"created":"2025-10-23T09:42:41.739-07:00","updated":"2026-09-30T22:57:09.629-07:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Environment/GHG","Alternative_Proteins"],"AI suggested tags":["Alternative_Proteins/Precision_Fermentation","Economics","Alternative_Proteins/Plant_Based"]}}
 ---
 
 

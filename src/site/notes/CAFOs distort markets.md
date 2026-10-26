@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/caf-os-distort-markets/","tags":["Animal_Feed","Factory_Farming","Economics","Pigs"],"created":"2025-11-11T23:29:30.529+00:00","updated":"2026-09-30T19:55:01.233+01:00","dg-note-properties":{"tags":["Animal_Feed","Factory_Farming","Economics","Pigs"],"Note Type":"Own Notes","AI suggested tags":["To_Clean","USA","Economics/Jobs"]}}
+{"dg-publish":true,"permalink":"/caf-os-distort-markets/","tags":["Animal_Feed","Factory_Farming","Economics","Pigs"],"created":"2025-11-11T15:29:30.529-08:00","updated":"2026-09-30T11:55:01.233-07:00","dg-note-properties":{"tags":["Animal_Feed","Factory_Farming","Economics","Pigs"],"Note Type":"Own Notes","AI suggested tags":["To_Clean","USA","Economics/Jobs"]}}
 ---
 
 

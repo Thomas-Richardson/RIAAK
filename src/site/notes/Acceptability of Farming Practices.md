@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acceptability-of-farming-practices/","tags":["High_Income_Countries/UK"],"created":"2025-10-23T17:42:43.948+01:00","updated":"2026-09-30T19:55:01.150+01:00","dg-note-properties":{"Note Type":"News Report / Blog","tags":["High_Income_Countries/UK"],"AI suggested tags":["Consumer_Attitudes","UK","Factory_Farming"]}}
+{"dg-publish":true,"permalink":"/acceptability-of-farming-practices/","tags":["High_Income_Countries/UK"],"created":"2025-10-23T09:42:43.948-07:00","updated":"2026-09-30T11:55:01.150-07:00","dg-note-properties":{"Note Type":"News Report / Blog","tags":["High_Income_Countries/UK"],"AI suggested tags":["Consumer_Attitudes","UK","Factory_Farming"]}}
 ---
 
 # Bryant Insight: acceptability of common farming practices UK

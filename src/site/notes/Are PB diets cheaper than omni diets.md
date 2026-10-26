@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/are-pb-diets-cheaper-than-omni-diets/","tags":["Economics/Costs"],"created":"2025-10-23T17:42:41.244+01:00","updated":"2026-09-30T19:55:01.199+01:00","dg-note-properties":{"tags":["Economics/Costs"],"AI suggested tags":["Health/Nutrition","Economics","Meat"]}}
+{"dg-publish":true,"permalink":"/are-pb-diets-cheaper-than-omni-diets/","tags":["Economics/Costs"],"created":"2025-10-23T09:42:41.244-07:00","updated":"2026-09-30T11:55:01.199-07:00","dg-note-properties":{"tags":["Economics/Costs"],"AI suggested tags":["Health/Nutrition","Economics","Meat"]}}
 ---
 
 - [[Bryant Confidential/CAWF NHS report MOC\|CAWF NHS report MOC]] 

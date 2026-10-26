@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/2022-effective-animal-advocacy-forum-survey-results-and-analysis-rethink-priorities/","tags":["Strategy","Movement_Building"],"created":"2025-10-23T17:42:44.663+01:00","updated":"2026-09-30T19:55:01.273+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/2022-effective-animal-advocacy-forum-survey/","tags":["Strategy","Movement_Building"],"Year Published":"2023","AI suggested tags":["Public_Opinion","Research/Methods","Asia"]}}
+{"dg-publish":true,"permalink":"/citations/2022-effective-animal-advocacy-forum-survey-results-and-analysis-rethink-priorities/","tags":["Strategy","Movement_Building"],"created":"2025-10-23T09:42:44.663-07:00","updated":"2026-09-30T11:55:01.273-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/2022-effective-animal-advocacy-forum-survey/","tags":["Strategy","Movement_Building"],"Year Published":"2023","AI suggested tags":["Public_Opinion","Research/Methods","Asia"]}}
 ---
 
 ### Key Takeaways

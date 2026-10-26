@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/2026-canada-animal-welfare-scorecard-mercy-for-animals/","tags":["Canada","Chickens","Corporate_Campaigns","Eggs"],"created":"2026-07-12T17:06:12.000+01:00","updated":"2026-09-30T19:55:01.276+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Canada","Chickens","Corporate_Campaigns","Eggs"],"source_url":"https://file-cdn.mercyforanimals.org/mercy4animals.wpengine.com/sites/450/2026/06/CAWS-2026-Canada-Scorecard-PDF-Report-3.pdf?_ga=2.255390734.767223382.1783413965-1000952900.1783413965","created":"2026-07-07","AI suggested tags":["Consumer_Attitudes","Animal_Welfare","Policy"]}}
+{"dg-publish":true,"permalink":"/citations/2026-canada-animal-welfare-scorecard-mercy-for-animals/","tags":["Canada","Chickens","Corporate_Campaigns","Eggs"],"created":"2026-07-12T09:06:12.000-07:00","updated":"2026-09-30T11:55:01.276-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Canada","Chickens","Corporate_Campaigns","Eggs"],"source_url":"https://file-cdn.mercyforanimals.org/mercy4animals.wpengine.com/sites/450/2026/06/CAWS-2026-Canada-Scorecard-PDF-Report-3.pdf?_ga=2.255390734.767223382.1783413965-1000952900.1783413965","created":"2026-07-07","AI suggested tags":["Consumer_Attitudes","Animal_Welfare","Policy"]}}
 ---
 
 

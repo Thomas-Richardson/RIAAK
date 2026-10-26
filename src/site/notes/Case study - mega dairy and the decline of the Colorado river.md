@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/case-study-mega-dairy-and-the-decline-of-the-colorado-river/","tags":["Animal_Feed","Case_Study","Dairy","Environment/Pollution","Factory_Farming","High_Income_Countries","USA"],"created":"2025-10-23T17:42:43.764+01:00","updated":"2026-09-30T19:55:01.268+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Animal_Feed","Case_Study","Dairy","Environment/Pollution","Factory_Farming","High_Income_Countries","USA"],"AI suggested tags":["MFA_Food_Sec","Food_Security","Farming"]}}
+{"dg-publish":true,"permalink":"/case-study-mega-dairy-and-the-decline-of-the-colorado-river/","tags":["Animal_Feed","Case_Study","Dairy","Environment/Pollution","Factory_Farming","High_Income_Countries","USA"],"created":"2025-10-23T09:42:43.764-07:00","updated":"2026-09-30T11:55:01.268-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Animal_Feed","Case_Study","Dairy","Environment/Pollution","Factory_Farming","High_Income_Countries","USA"],"AI suggested tags":["MFA_Food_Sec","Food_Security","Farming"]}}
 ---
 
 

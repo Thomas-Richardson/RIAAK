@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/awareness-of-factory-farming/","tags":["Consumer_Attitudes","Factory_Farming","High_Income_Countries/UK"],"created":"2025-10-23T17:42:47.981+01:00","updated":"2026-09-30T19:55:01.207+01:00","dg-note-properties":{"tags":["Consumer_Attitudes","Factory_Farming","High_Income_Countries/UK"],"Note Type":"undefined","AI suggested tags":["USA","UK","Economics/Jobs"]}}
+{"dg-publish":true,"permalink":"/awareness-of-factory-farming/","tags":["Consumer_Attitudes","Factory_Farming","High_Income_Countries/UK"],"created":"2025-10-23T09:42:47.981-07:00","updated":"2026-09-30T11:55:01.207-07:00","dg-note-properties":{"tags":["Consumer_Attitudes","Factory_Farming","High_Income_Countries/UK"],"Note Type":"undefined","AI suggested tags":["USA","UK","Economics/Jobs"]}}
 ---
 
 How much does the UK public understand about factory farming?

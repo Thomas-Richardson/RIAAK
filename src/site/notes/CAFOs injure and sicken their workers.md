@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/caf-os-injure-and-sicken-their-workers/","tags":["Chickens","Factory_Farming","Health/Disease","Pigs","Economics/Jobs"],"created":"2025-11-06T16:26:10.188+00:00","updated":"2026-09-30T19:55:01.235+01:00","dg-note-properties":{"tags":["Chickens","Factory_Farming","Health/Disease","Pigs","Economics/Jobs"],"Note Type":"Own Notes","AI suggested tags":["USA","Environment/Pollution","Farmers"]}}
+{"dg-publish":true,"permalink":"/caf-os-injure-and-sicken-their-workers/","tags":["Chickens","Factory_Farming","Health/Disease","Pigs","Economics/Jobs"],"created":"2025-11-06T08:26:10.188-08:00","updated":"2026-09-30T11:55:01.235-07:00","dg-note-properties":{"tags":["Chickens","Factory_Farming","Health/Disease","Pigs","Economics/Jobs"],"Note Type":"Own Notes","AI suggested tags":["USA","Environment/Pollution","Farmers"]}}
 ---
 
 

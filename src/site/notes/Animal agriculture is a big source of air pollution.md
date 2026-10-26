@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/animal-agriculture-is-a-big-source-of-air-pollution/","tags":["Environment/Pollution"],"created":"2025-10-23T17:42:44.136+01:00","updated":"2026-10-01T06:57:09.638+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Environment/Pollution"],"AI suggested tags":["Health/Disease","CAWF_Farming","Environment/GHG"]}}
+{"dg-publish":true,"permalink":"/animal-agriculture-is-a-big-source-of-air-pollution/","tags":["Environment/Pollution"],"created":"2025-10-23T09:42:44.136-07:00","updated":"2026-09-30T22:57:09.638-07:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Environment/Pollution"],"AI suggested tags":["Health/Disease","CAWF_Farming","Environment/GHG"]}}
 ---
 
 

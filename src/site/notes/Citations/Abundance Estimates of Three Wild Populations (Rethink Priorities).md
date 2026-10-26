@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/abundance-estimates-of-three-wild-populations-rethink-priorities/","tags":["Wild_Animals"],"created":"2025-10-23T17:42:45.094+01:00","updated":"2026-09-30T19:55:01.293+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/abundance-estimates-of-three-wild-populations/","tags":["Wild_Animals"],"Year Published":"2024","AI suggested tags":["Research/Methods","Rodents","Insects"]}}
+{"dg-publish":true,"permalink":"/citations/abundance-estimates-of-three-wild-populations-rethink-priorities/","tags":["Wild_Animals"],"created":"2025-10-23T09:42:45.094-07:00","updated":"2026-09-30T11:55:01.293-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/abundance-estimates-of-three-wild-populations/","tags":["Wild_Animals"],"Year Published":"2024","AI suggested tags":["Research/Methods","Rodents","Insects"]}}
 ---
 
 ### Executive Summary

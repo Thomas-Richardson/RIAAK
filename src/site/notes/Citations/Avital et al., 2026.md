@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/avital-et-al-2026/","tags":["Veg_Diets","Health/Nutrition","Middle_East","High_Income_Countries"],"created":"2026-02-07T22:58:55.546+00:00","updated":"2026-09-30T19:55:01.352+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2844665","tags":["Veg_Diets","Health/Nutrition","Middle_East","High_Income_Countries"],"Year Published":"2026","AI suggested tags":["Review","Citation","Diet"]}}
+{"dg-publish":true,"permalink":"/citations/avital-et-al-2026/","tags":["Veg_Diets","Health/Nutrition","Middle_East","High_Income_Countries"],"created":"2026-02-07T14:58:55.546-08:00","updated":"2026-09-30T11:55:01.352-07:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2844665","tags":["Veg_Diets","Health/Nutrition","Middle_East","High_Income_Countries"],"Year Published":"2026","AI suggested tags":["Review","Citation","Diet"]}}
 ---
 
 ### Key Points

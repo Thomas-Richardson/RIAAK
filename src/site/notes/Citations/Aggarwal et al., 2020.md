@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/aggarwal-et-al-2020/","tags":["Institutional_Change","Health/Nutrition","Case_Study"],"created":"2025-11-05T15:15:05.346+00:00","updated":"2026-09-30T19:55:01.306+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.sciencedirect.com/science/article/abs/pii/S0002934319307211","tags":["Institutional_Change","Health/Nutrition","Case_Study"],"Year Published":"2020","AI suggested tags":["Review","Veg_Diets","Health"]}}
+{"dg-publish":true,"permalink":"/citations/aggarwal-et-al-2020/","tags":["Institutional_Change","Health/Nutrition","Case_Study"],"created":"2025-11-05T07:15:05.346-08:00","updated":"2026-09-30T11:55:01.306-07:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.sciencedirect.com/science/article/abs/pii/S0002934319307211","tags":["Institutional_Change","Health/Nutrition","Case_Study"],"Year Published":"2020","AI suggested tags":["Review","Veg_Diets","Health"]}}
 ---
 
 ## Abstract

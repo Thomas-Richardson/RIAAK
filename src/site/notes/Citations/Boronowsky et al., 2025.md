@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/boronowsky-et-al-2025/","tags":["Environment/GHG","Health/Nutrition","Alternative_Proteins/Plant_Based","Institutional_Change","High_Income_Countries/USA"],"created":"2026-06-28T17:06:55.000+01:00","updated":"2026-10-01T06:57:09.758+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.mdpi.com/2071-1050/17/7/2955","tags":["Environment/GHG","Health/Nutrition","Alternative_Proteins/Plant_Based","Institutional_Change","High_Income_Countries/USA"],"Year Published":"2025","AI suggested tags":["Dietary_Guidelines","Citation","Review"]}}
+{"dg-publish":true,"permalink":"/citations/boronowsky-et-al-2025/","tags":["Environment/GHG","Health/Nutrition","Plant_Based_Diets","Institutional_Change","High_Income_Countries/USA"],"created":"2026-06-28T09:06:55.000-07:00","updated":"2026-10-18T01:41:07.632-07:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.mdpi.com/2071-1050/17/7/2955","tags":["Environment/GHG","Health/Nutrition","Plant_Based_Diets","Institutional_Change","High_Income_Countries/USA"],"Year Published":"2025","AI suggested tags":["Dietary_Guidelines","Citation","Review"]}}
 ---
 
 ## Abstract

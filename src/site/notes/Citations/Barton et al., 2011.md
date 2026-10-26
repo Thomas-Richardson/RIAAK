@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/barton-et-al-2011/","tags":["Citation","Health/Nutrition"],"created":"2025-10-23T17:42:46.182+01:00","updated":"2026-09-30T19:55:01.370+01:00","dg-note-properties":{"tags":["Citation","Health/Nutrition"],"AI suggested tags":["CAWF_NHS","Meat/Red_Meat","Economics/Costs"]}}
+{"dg-publish":true,"permalink":"/citations/barton-et-al-2011/","tags":["Citation","Health/Nutrition"],"created":"2025-10-23T09:42:46.182-07:00","updated":"2026-10-18T01:41:07.630-07:00","dg-note-properties":{"tags":["Citation","Health/Nutrition"],"AI suggested tags":["Economics/Costs","Bryant_Research/Project/CAWF_NHS","Review"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/anthis-and-reese-anthis-2019/","tags":["Citation","Factory_Farming"],"created":"2025-10-23T17:42:45.465+01:00","updated":"2026-09-30T19:55:01.339+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Citation","Factory_Farming"],"AI suggested tags":["USA","Animal_Feed","Farming"]}}
+{"dg-publish":true,"permalink":"/citations/anthis-and-reese-anthis-2019/","tags":["Citation","Factory_Farming"],"created":"2025-10-23T09:42:45.465-07:00","updated":"2026-09-30T11:55:01.339-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Citation","Factory_Farming"],"AI suggested tags":["USA","Animal_Feed","Farming"]}}
 ---
 
 

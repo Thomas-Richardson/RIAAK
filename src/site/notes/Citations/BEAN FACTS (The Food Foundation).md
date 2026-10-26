@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/bean-facts-the-food-foundation/","tags":["Legumes"],"created":"2025-11-07T10:29:39.842+00:00","updated":"2026-09-30T19:55:01.358+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Legumes"],"source_url":"https://foodfoundation.org.uk/sites/default/files/2025-10/TFF_Beans%20Facts_DIGITAL.pdf","created":"2025-11-07","AI suggested tags":["UK","Food_Security","High_Income_Countries/UK"]}}
+{"dg-publish":true,"permalink":"/citations/bean-facts-the-food-foundation/","tags":["Legumes"],"created":"2025-11-07T02:29:39.842-08:00","updated":"2026-09-30T11:55:01.358-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Legumes"],"source_url":"https://foodfoundation.org.uk/sites/default/files/2025-10/TFF_Beans%20Facts_DIGITAL.pdf","created":"2025-11-07","AI suggested tags":["UK","Food_Security","High_Income_Countries/UK"]}}
 ---
 
 Technical note here: https://foodfoundation.org.uk/sites/default/files/2025-10/Technical%20note_Bean%20Facts.pdf #Data 

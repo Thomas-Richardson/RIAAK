@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/bell-et-al-2026/","tags":["Health/Nutrition","Review","Veg_Diets"],"created":"2026-08-02T17:06:18.000+01:00","updated":"2026-09-30T19:55:01.376+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.sciencedirect.com/science/article/pii/S0939475326000931","tags":["Health/Nutrition","Review","Veg_Diets"],"Year Published":"2026","AI suggested tags":["Legumes","Diet","Meat"]}}
+{"dg-publish":true,"permalink":"/citations/bell-et-al-2026/","tags":["Health/Nutrition","Review","Veg_Diets"],"created":"2026-08-02T09:06:18.000-07:00","updated":"2026-09-30T11:55:01.376-07:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.sciencedirect.com/science/article/pii/S0939475326000931","tags":["Health/Nutrition","Review","Veg_Diets"],"Year Published":"2026","AI suggested tags":["Legumes","Diet","Meat"]}}
 ---
 
 ### Highlights

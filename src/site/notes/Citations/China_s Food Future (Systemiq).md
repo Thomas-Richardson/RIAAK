@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/china-s-food-future-systemiq/","tags":["China","Food_Security","Alternative_Proteins","Policy/Food_Policy"],"created":"2026-07-12T17:06:12.000+01:00","updated":"2026-09-30T19:55:01.443+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["China","Food_Security","Alternative_Proteins","Policy/Food_Policy"],"source_url":"https://www.systemiq.earth/wp-content/uploads/2026/04/Chinas-Food-Future-Report.pdf","created":"2026-07-10","AI suggested tags":["Animal_Feed","Economics","Alternative_Proteins/Precision_Fermentation"]}}
+{"dg-publish":true,"permalink":"/citations/china-s-food-future-systemiq/","tags":["China","Food_Security","Alternative_Proteins","Policy/Food_Policy"],"created":"2026-07-12T09:06:12.000-07:00","updated":"2026-09-30T11:55:01.443-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["China","Food_Security","Alternative_Proteins","Policy/Food_Policy"],"source_url":"https://www.systemiq.earth/wp-content/uploads/2026/04/Chinas-Food-Future-Report.pdf","created":"2026-07-10","AI suggested tags":["Animal_Feed","Economics","Alternative_Proteins/Precision_Fermentation"]}}
 ---
 
 

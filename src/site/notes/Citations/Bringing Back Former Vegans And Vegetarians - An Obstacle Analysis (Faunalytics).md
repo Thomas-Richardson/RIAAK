@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/bringing-back-former-vegans-and-vegetarians-an-obstacle-analysis-faunalytics/","tags":["Retention","Veg_Diets","Behaviour_Change","Consumer_Research"],"created":"2026-01-28T10:50:14.128+00:00","updated":"2026-09-30T19:55:01.407+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/veg-obstacle-analysis/","tags":["Retention","Veg_Diets","Behaviour_Change","Consumer_Research"],"Year Published":"2023","AI suggested tags":["Meat/Meat_Reduction","Psychology","Diet_Change"]}}
+{"dg-publish":true,"permalink":"/citations/bringing-back-former-vegans-and-vegetarians-an-obstacle-analysis-faunalytics/","tags":["Retention","Veg_Diets","Behaviour_Change","Consumer_Research"],"created":"2026-01-28T02:50:14.128-08:00","updated":"2026-09-30T11:55:01.407-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/veg-obstacle-analysis/","tags":["Retention","Veg_Diets","Behaviour_Change","Consumer_Research"],"Year Published":"2023","AI suggested tags":["Meat/Meat_Reduction","Psychology","Diet_Change"]}}
 ---
 
 This Faunalytics analysis looks at the obstacles faced by people who once pursued a veg*n diet, and what they would need to resume being veg*n, in their own words.

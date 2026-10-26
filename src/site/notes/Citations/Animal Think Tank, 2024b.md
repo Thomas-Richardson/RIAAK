@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/animal-think-tank-2024b/","tags":["Citation","High_Income_Countries/UK"],"created":"2025-10-23T17:42:46.176+01:00","updated":"2026-09-30T19:55:01.333+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Citation","High_Income_Countries/UK"],"AI suggested tags":["Public_Opinion","Consumer_Attitudes","Consumer_Research"]}}
+{"dg-publish":true,"permalink":"/citations/animal-think-tank-2024b/","tags":["Citation","High_Income_Countries/UK"],"created":"2025-10-23T09:42:46.176-07:00","updated":"2026-09-30T11:55:01.333-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Citation","High_Income_Countries/UK"],"AI suggested tags":["Public_Opinion","Consumer_Attitudes","Consumer_Research"]}}
 ---
 
 

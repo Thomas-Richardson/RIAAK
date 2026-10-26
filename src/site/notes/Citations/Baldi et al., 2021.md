@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/baldi-et-al-2021/","tags":["Alternative_Proteins","Animal_Feed","Citation","Economics","Food_Security"],"created":"2025-10-23T17:42:45.895+01:00","updated":"2026-09-30T19:55:01.365+01:00","dg-note-properties":{"tags":["Alternative_Proteins","Animal_Feed","Citation","Economics","Food_Security"],"Note Type":"undefined","AI suggested tags":["Alternative_Proteins/Cultivated_Meat","High_Income_Countries","Meat"]}}
+{"dg-publish":true,"permalink":"/citations/baldi-et-al-2021/","tags":["Alternative_Proteins","Animal_Feed","Citation","Economics","Food_Security"],"created":"2025-10-23T09:42:45.895-07:00","updated":"2026-09-30T11:55:01.365-07:00","dg-note-properties":{"tags":["Alternative_Proteins","Animal_Feed","Citation","Economics","Food_Security"],"Note Type":"undefined","AI suggested tags":["Alternative_Proteins/Cultivated_Meat","High_Income_Countries","Meat"]}}
 ---
 
 

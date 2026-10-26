@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/brachem-et-al-2019/","tags":["Behaviour_Change","Citation","Veganism"],"created":"2025-10-23T17:42:46.957+01:00","updated":"2026-09-30T19:55:01.403+01:00","dg-note-properties":{"tags":["Behaviour_Change","Citation","Veganism"],"AI suggested tags":["Meat/Meat_Reduction","Consumer_Research","Review"]}}
+{"dg-publish":true,"permalink":"/citations/brachem-et-al-2019/","tags":["Behaviour_Change","Citation","Veganism"],"created":"2025-10-23T09:42:46.957-07:00","updated":"2026-09-30T11:55:01.403-07:00","dg-note-properties":{"tags":["Behaviour_Change","Citation","Veganism"],"AI suggested tags":["Meat/Meat_Reduction","Consumer_Research","Review"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/animal-advocacy-asia-forums-2022-report-animal-alliance-asia/","tags":["Asia","Movement_Building","Movement_Strategy"],"created":"2026-07-12T17:06:12.000+01:00","updated":"2026-09-30T19:55:01.319+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Asia","Movement_Building","Movement_Strategy"],"source_url":"https://static1.squarespace.com/static/65843eb8fd08a86beb772c68/t/65a9a0f47b13700857a9bd75/1705615606879/%28final%29%2BAnimal%2BAdvocacy%2BAsia%2BForum%2B2022%2BReport.pdf","created":"2026-07-06","AI suggested tags":["Strategy","China","Public_Opinion"]}}
+{"dg-publish":true,"permalink":"/citations/animal-advocacy-asia-forums-2022-report-animal-alliance-asia/","tags":["Asia","Movement_Building","Movement_Strategy"],"created":"2026-07-12T09:06:12.000-07:00","updated":"2026-09-30T11:55:01.319-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Asia","Movement_Building","Movement_Strategy"],"source_url":"https://static1.squarespace.com/static/65843eb8fd08a86beb772c68/t/65a9a0f47b13700857a9bd75/1705615606879/%28final%29%2BAnimal%2BAdvocacy%2BAsia%2BForum%2B2022%2BReport.pdf","created":"2026-07-06","AI suggested tags":["Strategy","China","Public_Opinion"]}}
 ---
 
 

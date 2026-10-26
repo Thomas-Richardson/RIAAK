@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/ardakani-et-al-2023/","tags":["Citation","Factory_Farming","Health/Disease"],"created":"2025-10-23T17:42:45.317+01:00","updated":"2026-09-30T19:55:01.343+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Citation","Factory_Farming","Health/Disease"],"AI suggested tags":["USA","Economics","Farming"]}}
+{"dg-publish":true,"permalink":"/citations/ardakani-et-al-2023/","tags":["Citation","Factory_Farming","Health/Disease"],"created":"2025-10-23T09:42:45.317-07:00","updated":"2026-09-30T11:55:01.343-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Citation","Factory_Farming","Health/Disease"],"AI suggested tags":["USA","Economics","Farming"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/blue-empire-feedback-et-al/","tags":["Fish/Farmed","Animal_Feed","Food_Security","Africa"],"created":"2026-02-20T10:39:11.867+00:00","updated":"2026-09-30T19:55:01.361+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Fish/Farmed","Animal_Feed","Food_Security","Africa"],"source_url":"https://foodrise.org.uk/wp-content/uploads/2024/02/Feedback-BlueEmpire-Jan24.pdf","created":"2026-02-20","AI suggested tags":["Fish","EU","Financial_Activism"]}}
+{"dg-publish":true,"permalink":"/citations/blue-empire-feedback-et-al/","tags":["Fish/Farmed","Animal_Feed","Food_Security","Africa"],"created":"2026-02-20T02:39:11.867-08:00","updated":"2026-09-30T11:55:01.361-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Fish/Farmed","Animal_Feed","Food_Security","Africa"],"source_url":"https://foodrise.org.uk/wp-content/uploads/2024/02/Feedback-BlueEmpire-Jan24.pdf","created":"2026-02-20","AI suggested tags":["Fish","EU","Financial_Activism"]}}
 ---
 
 

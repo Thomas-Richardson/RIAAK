@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/caffyn-2021/","tags":["High_Income_Countries/UK","Factory_Farming","Chickens","Policy","Environment/Pollution"],"created":"2025-10-23T17:42:46.328+01:00","updated":"2026-09-30T19:55:01.425+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.sciencedirect.com/science/article/abs/pii/S0264837721001381","tags":["High_Income_Countries/UK","Factory_Farming","Chickens","Policy","Environment/Pollution"],"Year Published":"2021","AI suggested tags":["UK","USA","Citation"]}}
+{"dg-publish":true,"permalink":"/citations/caffyn-2021/","tags":["High_Income_Countries/UK","Factory_Farming","Chickens","Policy","Environment/Pollution"],"created":"2025-10-23T09:42:46.328-07:00","updated":"2026-09-30T11:55:01.425-07:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.sciencedirect.com/science/article/abs/pii/S0264837721001381","tags":["High_Income_Countries/UK","Factory_Farming","Chickens","Policy","Environment/Pollution"],"Year Published":"2021","AI suggested tags":["UK","USA","Citation"]}}
 ---
 
 ## Highlights

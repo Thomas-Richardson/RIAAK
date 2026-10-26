@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/bankrolling-the-butchers-feedback/","tags":["Financial_Activism","High_Income_Countries/UK","Factory_Farming","Environment/GHG"],"created":"2026-02-20T10:47:01.815+00:00","updated":"2026-09-30T19:55:01.357+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Financial_Activism","High_Income_Countries/UK","Factory_Farming","Environment/GHG"],"source_url":"https://foodrise.org.uk/wp-content/uploads/2023/11/Feedback-2023-Bankrolling-the-Butchers-report.pdf","created":"2026-02-20","AI suggested tags":["Sinergia_Defunding_Project","Meat_Industry","Greenwashing"]}}
+{"dg-publish":true,"permalink":"/citations/bankrolling-the-butchers-feedback/","tags":["Financial_Activism","High_Income_Countries/UK","Factory_Farming","Environment/GHG"],"created":"2026-02-20T02:47:01.815-08:00","updated":"2026-09-30T11:55:01.357-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Financial_Activism","High_Income_Countries/UK","Factory_Farming","Environment/GHG"],"source_url":"https://foodrise.org.uk/wp-content/uploads/2023/11/Feedback-2023-Bankrolling-the-Butchers-report.pdf","created":"2026-02-20","AI suggested tags":["Sinergia_Defunding_Project","Meat_Industry","Greenwashing"]}}
 ---
 
 

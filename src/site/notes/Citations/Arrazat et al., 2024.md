@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/arrazat-et-al-2024/","tags":["Institutional_Change"],"created":"2025-10-23T17:42:45.053+01:00","updated":"2026-09-30T19:55:01.346+01:00","dg-note-properties":{"tags":["Institutional_Change"],"Note Type":"Academic Paper","AI suggested tags":["Behaviour_Change","Case_Study","Citation"]}}
+{"dg-publish":true,"permalink":"/citations/arrazat-et-al-2024/","tags":["Institutional_Change"],"created":"2025-10-23T09:42:45.053-07:00","updated":"2026-09-30T11:55:01.346-07:00","dg-note-properties":{"tags":["Institutional_Change"],"Note Type":"Academic Paper","AI suggested tags":["Behaviour_Change","Case_Study","Citation"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/behavioural-insights-team-2020/","tags":["Alternative_Proteins","Behaviour_Change","Citation","Psychology"],"created":"2025-10-23T17:42:46.089+01:00","updated":"2026-09-30T19:55:01.373+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Alternative_Proteins","Behaviour_Change","Citation","Psychology"],"AI suggested tags":["Meat/Meat_Reduction","Consumer_Research","Policy/Food_Policy"]}}
+{"dg-publish":true,"permalink":"/citations/behavioural-insights-team-2020/","tags":["Alternative_Proteins","Behaviour_Change","Citation","Psychology"],"created":"2025-10-23T09:42:46.089-07:00","updated":"2026-09-30T11:55:01.373-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Alternative_Proteins","Behaviour_Change","Citation","Psychology"],"AI suggested tags":["Meat/Meat_Reduction","Consumer_Research","Policy/Food_Policy"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/bianchi-et-al-2018/","tags":["Behaviour_Change","Meat/Meat_Reduction","Review"],"created":"2025-10-23T17:42:45.340+01:00","updated":"2026-10-01T13:49:34.802+01:00","dg-note-properties":{"tags":["Behaviour_Change","Meat/Meat_Reduction","Review"],"AI suggested tags":["Citation","Meat","Meat/Meat_Consumption"],"Url":"https://doi.org/10.1016/S2542-5196(18)30188-8"}}
+{"dg-publish":true,"permalink":"/citations/bianchi-et-al-2018/","tags":["Behaviour_Change","Meat/Meat_Reduction","Review"],"created":"2025-10-23T09:42:45.340-07:00","updated":"2026-10-01T22:55:36.248-07:00","dg-note-properties":{"tags":["Behaviour_Change","Meat/Meat_Reduction","Review"],"Url":"https://doi.org/10.1016/S2542-5196(18)30188-8","AI suggested tags":["Citation","Meat","Meat/Meat_Consumption"]}}
 ---
 
 - [[Strategies for reducing animal product consumption\|Strategies for reducing animal product consumption]]

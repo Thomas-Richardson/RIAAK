@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/activism-and-octopuses-with-laura-lee-cascada/","tags":["Activism","Factory_Farming","High_Income_Countries/USA","Tactics"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.669+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep721/","tags":["Activism","Factory_Farming","High_Income_Countries/USA","Tactics"],"Year Published":"2023","AI suggested tags":["Movement_Strategy","Plant_Based","Working_Conditions"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/activism-and-octopuses-with-laura-lee-cascada/","tags":["Activism","Factory_Farming","High_Income_Countries/USA","Tactics"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-10-18T01:41:07.673-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep721/","tags":["Activism","Factory_Farming","High_Income_Countries/USA","Tactics"],"Year Published":"2023","AI suggested tags":["Movement_Strategy","Animal_Ethics","Narratives"]}}
 ---
 
 Factory farming octopuses? Hell, no! Laura Lee Cascada joins us to tell us what happened when she found out about a planned octopus farm in Hawaii and how she got to work putting an end to it.

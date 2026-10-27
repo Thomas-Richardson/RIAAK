@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/how-i-learned-to-love-shrimp/tomasz-herok-on-working-undercover-in-factory-farms/","tags":["Factory_Farming","Tactics","High_Income_Countries/UK"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T19:55:02.649+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.buzzsprout.com/2122817/episodes/14415026-tomasz-herok-on-working-undercover-in-factory-farms","tags":["Factory_Farming","Tactics","High_Income_Countries/UK"],"Year Published":"2024","AI suggested tags":["Working_Conditions","Activism","Narratives"]}}
+{"dg-publish":true,"permalink":"/podcasts/how-i-learned-to-love-shrimp/tomasz-herok-on-working-undercover-in-factory-farms/","tags":["Factory_Farming","Tactics","High_Income_Countries/UK"],"created":"2026-07-10T06:24:39.000-07:00","updated":"2026-09-30T11:55:02.649-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.buzzsprout.com/2122817/episodes/14415026-tomasz-herok-on-working-undercover-in-factory-farms","tags":["Factory_Farming","Tactics","High_Income_Countries/UK"],"Year Published":"2024","AI suggested tags":["Working_Conditions","Activism","Narratives"]}}
 ---
 
 Description: Tomasz Herok recently spent over 5 months working undercover on British factory farms, as part of an investigation by Open Cages, the UK branch of Anima International.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/an-animal-rights-strategy-session-with-esther-salomon/","tags":["Movement_Strategy","Movement_Building","Protest"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.676+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep713/","tags":["Movement_Strategy","Movement_Building","Protest"],"Year Published":"2023","AI suggested tags":["Activism","Tactics","High_Income_Countries/USA"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/an-animal-rights-strategy-session-with-esther-salomon/","tags":["Movement_Strategy","Movement_Building","Protest"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-09-30T11:55:02.676-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep713/","tags":["Movement_Strategy","Movement_Building","Protest"],"Year Published":"2023","AI suggested tags":["Activism","Tactics","High_Income_Countries/USA"]}}
 ---
 
 Strategy is a big topic of debate amongst animal activists. What is the best way forward to create the most change? Esther Salomon of Animal Think Tank joins us to discuss the strategies and many lessons the animal rights community can learn from other justice movements throughout history.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/a-strategy-session-with-aidan-kankyoku/","tags":["Movement_Strategy","Movement_Building","Politics","Activism"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.658+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep716/","tags":["Movement_Strategy","Movement_Building","Politics","Activism"],"Year Published":"2023","AI suggested tags":["Tactics","Narratives","Corporate_Campaigns"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/a-strategy-session-with-aidan-kankyoku/","tags":["Movement_Strategy","Movement_Building","Politics","Activism"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-09-30T11:55:02.658-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep716/","tags":["Movement_Strategy","Movement_Building","Politics","Activism"],"Year Published":"2023","AI suggested tags":["Tactics","Narratives","Corporate_Campaigns"]}}
 ---
 
 What can we do to convince people to change their behavior? Strategy is always the hottest of topics amongst activists in the animal rights community. This week we are joined by Aidan Kankyoku of Pax Fauna to discuss just what it may be that is holding people back from behaving in a more pro-animal way.

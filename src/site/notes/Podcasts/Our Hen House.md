@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/","created":"2026-10-01T13:55:56.822+01:00","updated":"2026-10-01T13:55:56.822+01:00","dg-note-properties":{"Note Type":"RIAAK Admin","tags":null}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/","created":"2026-10-01T05:55:56.822-07:00","updated":"2026-10-01T22:55:36.299-07:00","dg-note-properties":{"Note Type":"RIAAK Admin","tags":null,"AI suggested tags":["Activism","Narratives","Tactics"]}}
 ---
 
 *Our Hen House* is a podcast by Jasmin Singer and Mariann Sullivan. [Show website](https://www.ourhenhouse.org/podcast/)

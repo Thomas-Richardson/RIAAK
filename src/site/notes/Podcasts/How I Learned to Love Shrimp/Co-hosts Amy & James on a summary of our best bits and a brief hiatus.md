@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/how-i-learned-to-love-shrimp/co-hosts-amy-and-james-on-a-summary-of-our-best-bits-and-a-brief-hiatus/","created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T19:55:02.590+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.buzzsprout.com/2122817/episodes/15501308-co-hosts-amy-james-on-a-summary-of-our-best-bits-and-a-brief-hiatus","tags":null,"Year Published":"2024","AI suggested tags":["Movement_Building","Movement_Strategy","Anthropology"]}}
+{"dg-publish":true,"permalink":"/podcasts/how-i-learned-to-love-shrimp/co-hosts-amy-and-james-on-a-summary-of-our-best-bits-and-a-brief-hiatus/","created":"2026-07-10T06:24:39.000-07:00","updated":"2026-09-30T11:55:02.590-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.buzzsprout.com/2122817/episodes/15501308-co-hosts-amy-james-on-a-summary-of-our-best-bits-and-a-brief-hiatus","tags":null,"Year Published":"2024","AI suggested tags":["Movement_Building","Movement_Strategy","Anthropology"]}}
 ---
 
 In this short 10 minute clip we announce a brief hiatus and use this time to chat through some episodes we want to highlight which we recommend checking out in the short break.

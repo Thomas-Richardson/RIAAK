@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/how-i-learned-to-love-shrimp/simon-newstead-on-developing-alternatives-to-animal-protein/","tags":["Alternative_Proteins","Asia","Economics"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T19:55:02.638+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.buzzsprout.com/2122817/episodes/14268599-simon-newstead-on-developing-alternatives-to-animal-protein","tags":["Alternative_Proteins","Asia","Economics"],"Year Published":"2024","AI suggested tags":["Alternative_Proteins/Cultivated_Meat","Movement_Strategy","Plant_Based"]}}
+{"dg-publish":true,"permalink":"/podcasts/how-i-learned-to-love-shrimp/simon-newstead-on-developing-alternatives-to-animal-protein/","tags":["Alternative_Proteins","Asia","Economics"],"created":"2026-07-10T06:24:39.000-07:00","updated":"2026-10-18T01:41:07.669-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.buzzsprout.com/2122817/episodes/14268599-simon-newstead-on-developing-alternatives-to-animal-protein","tags":["Alternative_Proteins","Asia","Economics"],"Year Published":"2024","AI suggested tags":["Alternative_Proteins/Cultivated_Meat","Movement_Strategy","Plant_Based_Diets"]}}
 ---
 
 Simon Newstead, entrepreneur turned impact investor, is a founding co-partner of Better Bite Ventures who back food-tech founders in Asia.

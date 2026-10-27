@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/ai-for-animal-activists-with-tom-conger/","tags":["AI","Activism"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.666+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep730/","tags":["AI","Activism"],"Year Published":"2024","AI suggested tags":["Movement_Building","Effective_Altruism","Movement_Strategy"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/ai-for-animal-activists-with-tom-conger/","tags":["AI","Activism"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-09-30T11:55:02.666-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep730/","tags":["AI","Activism"],"Year Published":"2024","AI suggested tags":["Movement_Building","Effective_Altruism","Movement_Strategy"]}}
 ---
 
 Are you excited about ChatGPT? Do you hate the very thought of Chat GPT? Have you never heard of ChatGPT? No matter, you need to listen to this episode to find out how generative AI can help activists get more done for animals in less time. Join us as Tom Conger reveals all about new tools to help us help animals.

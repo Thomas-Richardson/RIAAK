@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/a-year-of-compassion-with-colleen-patrick-goudreau/","tags":["Animal_Ethics","Behaviour_Change","Plant_Based","Psychology"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.663+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep796/","tags":["Animal_Ethics","Behaviour_Change","Plant_Based","Psychology"],"Year Published":"2025","AI suggested tags":["Philosophy","Activism","Narratives"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/a-year-of-compassion-with-colleen-patrick-goudreau/","tags":["Animal_Ethics","Behaviour_Change","Plant_Based_Diets","Psychology"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-10-18T01:41:07.672-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep796/","tags":["Animal_Ethics","Behaviour_Change","Plant_Based_Diets","Psychology"],"Year Published":"2025","AI suggested tags":["Philosophy","Activism","Narratives"]}}
 ---
 
 In this heartfelt conversation, author Colleen Patrick-Goudreau joins Jasmin and Mariann to discuss her eighth book, A Year of Compassion: 52 Weeks of Living Zero Waste, Plant-Based and Cruelty Free, exploring how compassion can be a guiding force during challenging times and offering practical ways to manifest it in everyday life.

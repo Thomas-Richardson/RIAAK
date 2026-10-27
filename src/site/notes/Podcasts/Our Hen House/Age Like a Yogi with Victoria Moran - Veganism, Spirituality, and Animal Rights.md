@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/age-like-a-yogi-with-victoria-moran-veganism-spirituality-and-animal-rights/","tags":["Veganism","Philosophy","Activism"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.672+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep778/","tags":["Veganism","Philosophy","Activism"],"Year Published":"2024","AI suggested tags":["Animal_Ethics","Plant_Based","Narratives"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/age-like-a-yogi-with-victoria-moran-veganism-spirituality-and-animal-rights/","tags":["Veganism","Philosophy","Activism"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-10-18T01:41:07.675-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep778/","tags":["Veganism","Philosophy","Activism"],"Year Published":"2024","AI suggested tags":["Animal_Ethics","Narratives","Plant_Based_Diets"]}}
 ---
 
 Vegan pioneer Victoria Moran discusses her new book “Age Like a Yogi” and explores how yoga’s principle of non-violence (ahimsa) connects with animal advocacy. Drawing from 40 years of activism, Victoria shares how spiritual practices can sustain long-term advocacy while preventing burnout.

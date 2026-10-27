@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/how-i-learned-to-love-shrimp/ines-kostic-on-using-politics-to-help-animals/","tags":["Politics","Movement_Strategy","Europe"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T19:55:02.606+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.buzzsprout.com/2122817/episodes/13627034-ines-kostic-on-using-politics-to-help-animals","tags":["Politics","Movement_Strategy","Europe"],"Year Published":"2023","AI suggested tags":["Tactics","Movement_Building","Activism"]}}
+{"dg-publish":true,"permalink":"/podcasts/how-i-learned-to-love-shrimp/ines-kostic-on-using-politics-to-help-animals/","tags":["Politics","Movement_Strategy","Europe"],"created":"2026-07-10T06:24:39.000-07:00","updated":"2026-09-30T11:55:02.606-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.buzzsprout.com/2122817/episodes/13627034-ines-kostic-on-using-politics-to-help-animals","tags":["Politics","Movement_Strategy","Europe"],"Year Published":"2023","AI suggested tags":["Tactics","Movement_Building","Activism"]}}
 ---
 
 Give us feedback on the podcast via this form! It should take just a few minutes and it would really help us improve the show. Thank you in advance, we really appreciate it.

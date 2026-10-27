@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/a-vegan-food-bank-with-gwenna-hunter-and-the-tule-elk-with-sue-fischer/","tags":["Plant_Based","Wild_Animals","Food_Security","High_Income_Countries/USA"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.659+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep682/","tags":["Plant_Based","Wild_Animals","Food_Security","High_Income_Countries/USA"],"Year Published":"2023","AI suggested tags":["Activism","Narratives","Tactics"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/a-vegan-food-bank-with-gwenna-hunter-and-the-tule-elk-with-sue-fischer/","tags":["Plant_Based_Diets","Wild_Animals","Food_Security","High_Income_Countries/USA"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-10-18T01:41:07.671-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep682/","tags":["Plant_Based_Diets","Wild_Animals","Food_Security","High_Income_Countries/USA"],"Year Published":"2023","AI suggested tags":["Activism","Narratives","Tactics"]}}
 ---
 
 You’re in for not one but two interviews with incredible activists in this episode! We’re thrilled to welcome both Gwenna Hunter and Sue Fischer back to the podcast for updates.

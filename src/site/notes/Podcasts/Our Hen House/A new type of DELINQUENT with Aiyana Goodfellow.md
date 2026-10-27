@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/a-new-type-of-delinquent-with-aiyana-goodfellow/","tags":["Companion_Animals","Movement_Strategy","Veganism","Animal_Ethics"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.664+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep703/","tags":["Companion_Animals","Movement_Strategy","Veganism","Animal_Ethics"],"Year Published":"2023","AI suggested tags":["Activism","Philosophy","Narratives"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/a-new-type-of-delinquent-with-aiyana-goodfellow/","tags":["Companion_Animals","Movement_Strategy","Veganism","Animal_Ethics"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-09-30T11:55:02.664-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep703/","tags":["Companion_Animals","Movement_Strategy","Veganism","Animal_Ethics"],"Year Published":"2023","AI suggested tags":["Activism","Philosophy","Narratives"]}}
 ---
 
 Writer, liberator, and self-described DELINQUENT Aiyana Goodfellow joins the podcast this week for an eye-opening conversation that just might shift your perspective on many things, including veganism, anti-speciesism, and activism.

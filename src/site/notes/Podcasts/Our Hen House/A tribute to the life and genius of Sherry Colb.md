@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/a-tribute-to-the-life-and-genius-of-sherry-colb/","tags":["Animal_Ethics","High_Income_Countries/USA","Law","Veganism"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.665+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep660-5/","tags":["Animal_Ethics","High_Income_Countries/USA","Law","Veganism"],"Year Published":"2022","AI suggested tags":["Activism","Philosophy","Companion_Animals"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/a-tribute-to-the-life-and-genius-of-sherry-colb/","tags":["Animal_Ethics","High_Income_Countries/USA","Law","Veganism"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-09-30T11:55:02.665-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep660-5/","tags":["Animal_Ethics","High_Income_Countries/USA","Law","Veganism"],"Year Published":"2022","AI suggested tags":["Activism","Philosophy","Companion_Animals"]}}
 ---
 
 This very special extra episode is a compilation of interviews we have conducted over the years with our dear friend and passionate animal advocate Sherry Colb, who, as you may know, died last month.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/how-i-learned-to-love-shrimp/lauren-mee-on-the-career-landscape-for-helping-animals/","tags":["Economics/Jobs","Movement_Building"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T19:55:02.623+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.buzzsprout.com/2122817/episodes/14585227-lauren-mee-on-the-career-landscape-for-helping-animals","tags":["Economics/Jobs","Movement_Building"],"Year Published":"2024","AI suggested tags":["Movement_Strategy","Effective_Altruism","Working_Conditions"]}}
+{"dg-publish":true,"permalink":"/podcasts/how-i-learned-to-love-shrimp/lauren-mee-on-the-career-landscape-for-helping-animals/","tags":["Economics/Jobs","Movement_Building"],"created":"2026-07-10T06:24:39.000-07:00","updated":"2026-09-30T11:55:02.623-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.buzzsprout.com/2122817/episodes/14585227-lauren-mee-on-the-career-landscape-for-helping-animals","tags":["Economics/Jobs","Movement_Building"],"Year Published":"2024","AI suggested tags":["Movement_Strategy","Effective_Altruism","Working_Conditions"]}}
 ---
 
 Lauren Mee is the CEO & Co-founder of Animal Advocacy Careers, an organisation that tries to match mission-aligned talent to opportunities that accelerate the end of factory farming.

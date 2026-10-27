@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uk-meat-consumption/","tags":["Meat","UK"],"created":"2025-10-23T17:42:43.794+01:00","updated":"2026-09-30T19:55:03.655+01:00","dg-note-properties":{"tags":["Meat","UK"],"AI suggested tags":["Meat/Meat_Consumption","Citation","Meat/Meat_Reduction"]}}
+{"dg-publish":true,"permalink":"/uk-meat-consumption/","tags":["Meat","UK"],"created":"2025-10-23T09:42:43.794-07:00","updated":"2026-09-30T11:55:03.655-07:00","dg-note-properties":{"tags":["Meat","UK"],"AI suggested tags":["Meat/Meat_Consumption","Citation","Meat/Meat_Reduction"]}}
 ---
 
 

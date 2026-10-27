@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quantifying-the-environmental-risks-from-pig-and-poultry-production-in-the-uk-cumulus-et-al/","tags":["Animal_Feed"],"created":"2025-10-23T17:42:43.937+01:00","updated":"2026-10-01T06:57:10.541+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Animal_Feed"],"source_url":"https://www.wildlifetrusts.org/sites/default/files/2025-08/Pig_and_Poultry_Report.pdf","created":"2025-10-21","AI suggested tags":["Bryant_Research/Project/CAWF_Hidden_Harms","UK","Environment/Pollution"]}}
+{"dg-publish":true,"permalink":"/quantifying-the-environmental-risks-from-pig-and-poultry-production-in-the-uk-cumulus-et-al/","tags":["Animal_Feed"],"created":"2025-10-23T09:42:43.937-07:00","updated":"2026-09-30T22:57:10.541-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Animal_Feed"],"source_url":"https://www.wildlifetrusts.org/sites/default/files/2025-08/Pig_and_Poultry_Report.pdf","created":"2025-10-21","AI suggested tags":["Bryant_Research/Project/CAWF_Hidden_Harms","UK","Environment/Pollution"]}}
 ---
 
 This report contains an executive summary. As requested, it is reproduced here exactly.

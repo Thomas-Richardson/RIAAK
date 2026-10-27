@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-small-body-problem-might-be-a-positive-sign/","tags":["Chickens","Fish"],"created":"2025-10-23T17:42:41.919+01:00","updated":"2026-09-30T19:55:03.536+01:00","dg-note-properties":{"tags":["Chickens","Fish"],"AI suggested tags":["Behaviour_Change","Meat/Meat_Reduction","Economics"]}}
+{"dg-publish":true,"permalink":"/the-small-body-problem-might-be-a-positive-sign/","tags":["Chickens","Fish"],"created":"2025-10-23T09:42:41.919-07:00","updated":"2026-09-30T11:55:03.536-07:00","dg-note-properties":{"tags":["Chickens","Fish"],"AI suggested tags":["Behaviour_Change","Meat/Meat_Reduction","Economics"]}}
 ---
 
 

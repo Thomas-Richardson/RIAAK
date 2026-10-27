@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/red-and-processed-meat-are-bad-for-you/","tags":["Diet","Health/Nutrition","Meat/Red_Meat","Nuts"],"created":"2025-10-23T17:42:47.907+01:00","updated":"2026-10-01T06:57:10.554+01:00","dg-note-properties":{"tags":["Diet","Health/Nutrition","Meat/Red_Meat","Nuts"],"AI suggested tags":["Meat","Meat/Meat_Consumption","Citation"]}}
+{"dg-publish":true,"permalink":"/red-and-processed-meat-are-bad-for-you/","tags":["Diet","Health/Nutrition","Meat/Red_Meat","Nuts"],"created":"2025-10-23T09:42:47.907-07:00","updated":"2026-09-30T22:57:10.554-07:00","dg-note-properties":{"tags":["Diet","Health/Nutrition","Meat/Red_Meat","Nuts"],"AI suggested tags":["Meat","Meat/Meat_Consumption","Citation"]}}
 ---
 
 - [[Bryant Confidential/CAWF NHS report MOC\|CAWF NHS report MOC]]

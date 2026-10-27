@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shareholder-activism/","tags":["Financial_Activism"],"created":"2025-10-23T17:42:43.187+01:00","updated":"2026-09-30T19:55:03.457+01:00","dg-note-properties":{"tags":["Financial_Activism"],"AI suggested tags":["Sinergia_Defunding_Project","Corporate_Campaigns","Strategy"]}}
+{"dg-publish":true,"permalink":"/shareholder-activism/","tags":["Financial_Activism"],"created":"2025-10-23T09:42:43.187-07:00","updated":"2026-09-30T11:55:03.457-07:00","dg-note-properties":{"tags":["Financial_Activism"],"AI suggested tags":["Sinergia_Defunding_Project","Corporate_Campaigns","Strategy"]}}
 ---
 
 - [[Sinergia financial advocacy project MOC\|Sinergia financial advocacy project MOC]]

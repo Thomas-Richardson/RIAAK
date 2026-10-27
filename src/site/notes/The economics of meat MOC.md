@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-economics-of-meat-moc/","tags":["Economics","Meat"],"created":"2025-10-23T17:42:47.655+01:00","updated":"2026-09-30T19:55:03.509+01:00","dg-note-properties":{"tags":["Economics","Meat"],"AI suggested tags":["Alternative_Proteins","Economics/Costs","USA"]}}
+{"dg-publish":true,"permalink":"/the-economics-of-meat-moc/","tags":["Economics","Meat"],"created":"2025-10-23T09:42:47.655-07:00","updated":"2026-09-30T11:55:03.509-07:00","dg-note-properties":{"tags":["Economics","Meat"],"AI suggested tags":["Alternative_Proteins","Economics/Costs","USA"]}}
 ---
 
 - How #Alternative_Proteins price and demand impacts beef: [[Citations/Lusk et al., 2022\|Lusk et al., 2022]]

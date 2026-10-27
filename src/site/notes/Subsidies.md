@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/subsidies/","tags":["Farming","Meat","Politics"],"created":"2025-10-23T17:42:42.245+01:00","updated":"2026-09-30T19:55:03.480+01:00","dg-note-properties":{"tags":["Farming","Meat","Politics"],"Note Type":"undefined","AI suggested tags":["Economics","Animal_Feed","USA"]}}
+{"dg-publish":true,"permalink":"/subsidies/","tags":["Farming","Meat","Politics"],"created":"2025-10-23T09:42:42.245-07:00","updated":"2026-09-30T11:55:03.480-07:00","dg-note-properties":{"tags":["Farming","Meat","Politics"],"Note Type":"undefined","AI suggested tags":["Economics","Animal_Feed","USA"]}}
 ---
 
 

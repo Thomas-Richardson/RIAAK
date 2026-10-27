@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-lie-of-regenerative-animal-agriculture/","tags":["Farming","Wild_Animals"],"created":"2025-10-23T17:42:42.811+01:00","updated":"2026-10-01T06:57:10.599+01:00","dg-note-properties":{"tags":["Farming","Wild_Animals"],"Note Type":"undefined","AI suggested tags":["Cattle/Grass_Fed_Cattle","Meat/Beef","Cows"]}}
+{"dg-publish":true,"permalink":"/the-lie-of-regenerative-animal-agriculture/","tags":["Farming","Wild_Animals"],"created":"2025-10-23T09:42:42.811-07:00","updated":"2026-09-30T22:57:10.599-07:00","dg-note-properties":{"tags":["Farming","Wild_Animals"],"Note Type":"undefined","AI suggested tags":["Cattle/Grass_Fed_Cattle","Meat/Beef","Cows"]}}
 ---
 
 

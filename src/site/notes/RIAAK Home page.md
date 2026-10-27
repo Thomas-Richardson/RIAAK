@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/riaak-home-page/","tags":["gardenEntry"],"created":"2025-10-23T17:42:41.615+01:00","updated":"2026-10-04T22:30:50.608+01:00","dg-note-properties":{"tags":null,"Note Type":"RIAAK Admin","AI suggested tags":["Research","Research/Methods","External_Resource"]}}
+{"dg-publish":true,"permalink":"/riaak-home-page/","tags":["gardenEntry"],"created":"2025-10-23T09:42:41.615-07:00","updated":"2026-10-04T22:56:00.127-07:00","dg-note-properties":{"tags":null,"Note Type":"RIAAK Admin","AI suggested tags":["Research","Research/Methods","AI"]}}
 ---
 
 This is the homepage for Richie's Impactful Animal Advocacy Knowledge-base, aka RIAAK!

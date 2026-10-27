@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preventing-the-most-animal-suffering/","tags":["Effective_Altruism"],"created":"2025-10-23T17:42:44.089+01:00","updated":"2026-09-30T19:55:03.385+01:00","dg-note-properties":{"tags":["Effective_Altruism"],"AI suggested tags":["Research/Methods","Animal_Welfare","Shrimp"]}}
+{"dg-publish":true,"permalink":"/preventing-the-most-animal-suffering/","tags":["Effective_Altruism"],"created":"2025-10-23T09:42:44.089-07:00","updated":"2026-09-30T11:55:03.385-07:00","dg-note-properties":{"tags":["Effective_Altruism"],"AI suggested tags":["Research/Methods","Animal_Welfare","Shrimp"]}}
 ---
 
 

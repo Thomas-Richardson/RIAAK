@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/today-s-chickens-may-be-fatter-than-in-previous-generations/","tags":["Chickens","Health/Nutrition"],"created":"2025-10-23T17:42:47.166+01:00","updated":"2026-09-30T19:55:03.544+01:00","dg-note-properties":{"tags":["Chickens","Health/Nutrition"],"AI suggested tags":["Nuts","Meat","Meat/Meat_Consumption"]}}
+{"dg-publish":true,"permalink":"/today-s-chickens-may-be-fatter-than-in-previous-generations/","tags":["Chickens","Health/Nutrition"],"created":"2025-10-23T09:42:47.166-07:00","updated":"2026-09-30T11:55:03.544-07:00","dg-note-properties":{"tags":["Chickens","Health/Nutrition"],"AI suggested tags":["Nuts","Meat","Meat/Meat_Consumption"]}}
 ---
 
 

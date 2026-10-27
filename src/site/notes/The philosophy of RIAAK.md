@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-philosophy-of-riaak/","tags":["Research"],"created":"2025-10-23T17:42:47.233+01:00","updated":"2026-09-30T19:55:03.528+01:00","dg-note-properties":{"tags":["Research"],"Note Type":"undefined","AI suggested tags":["External_Resource","Research/Methods","Project_Idea"]}}
+{"dg-publish":true,"permalink":"/the-philosophy-of-riaak/","tags":["Research"],"created":"2025-10-23T09:42:47.233-07:00","updated":"2026-09-30T11:55:03.528-07:00","dg-note-properties":{"tags":["Research"],"Note Type":"undefined","AI suggested tags":["External_Resource","Research/Methods","Project_Idea"]}}
 ---
 
 - A core problem of researchers these days is managing knowledge: you read so many papers that remembering everything is impossible.

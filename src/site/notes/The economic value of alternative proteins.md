@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-economic-value-of-alternative-proteins/","tags":["Alternative_Proteins","Economics","Alternative_Proteins/Cultivated_Meat","Economics/Jobs"],"created":"2025-11-06T16:27:42.287+00:00","updated":"2026-10-01T06:57:10.579+01:00","dg-note-properties":{"tags":["Alternative_Proteins","Economics","Alternative_Proteins/Cultivated_Meat","Economics/Jobs"],"Note Type":"undefined","AI suggested tags":["Alternative_Proteins/Precision_Fermentation","Food_Security","UK"]}}
+{"dg-publish":true,"permalink":"/the-economic-value-of-alternative-proteins/","tags":["Alternative_Proteins","Economics","Alternative_Proteins/Cultivated_Meat","Economics/Jobs"],"created":"2025-11-06T08:27:42.287-08:00","updated":"2026-09-30T22:57:10.579-07:00","dg-note-properties":{"tags":["Alternative_Proteins","Economics","Alternative_Proteins/Cultivated_Meat","Economics/Jobs"],"Note Type":"undefined","AI suggested tags":["Alternative_Proteins/Precision_Fermentation","Food_Security","UK"]}}
 ---
 
 

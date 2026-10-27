@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/traditional-farming-systems-are-not-inherently-higher-welfare/","tags":["Factory_Farming","Farming"],"created":"2025-10-23T17:42:43.379+01:00","updated":"2026-09-30T19:55:03.545+01:00","dg-note-properties":{"tags":["Factory_Farming","Farming"],"AI suggested tags":["USA","MFA_Food_Sec","Economics/Jobs"]}}
+{"dg-publish":true,"permalink":"/traditional-farming-systems-are-not-inherently-higher-welfare/","tags":["Factory_Farming","Farming"],"created":"2025-10-23T09:42:43.379-07:00","updated":"2026-09-30T11:55:03.545-07:00","dg-note-properties":{"tags":["Factory_Farming","Farming"],"AI suggested tags":["USA","MFA_Food_Sec","Economics/Jobs"]}}
 ---
 
 

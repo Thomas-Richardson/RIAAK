@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-story-of-quorn/","tags":["Alternative_Proteins"],"created":"2025-10-23T17:42:43.951+01:00","updated":"2026-09-30T19:55:03.539+01:00","dg-note-properties":{"tags":["Alternative_Proteins"],"AI suggested tags":["Alternative_Proteins/Precision_Fermentation","Alternative_Proteins/Cultivated_Meat","Alternative_Proteins/Plant_Based"]}}
+{"dg-publish":true,"permalink":"/the-story-of-quorn/","tags":["Alternative_Proteins"],"created":"2025-10-23T09:42:43.951-07:00","updated":"2026-09-30T11:55:03.539-07:00","dg-note-properties":{"tags":["Alternative_Proteins"],"AI suggested tags":["Alternative_Proteins/Precision_Fermentation","Alternative_Proteins/Cultivated_Meat","Alternative_Proteins/Plant_Based"]}}
 ---
 
 

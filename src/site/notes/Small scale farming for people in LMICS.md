@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/small-scale-farming-for-people-in-lmics/","tags":["Farming","Lower_Middle_Income_Countries","MFA_Food_Sec"],"created":"2025-10-23T17:42:43.323+01:00","updated":"2026-09-30T19:55:03.464+01:00","dg-note-properties":{"tags":["Farming","Lower_Middle_Income_Countries","MFA_Food_Sec"],"AI suggested tags":["Economics/Jobs","Citation","Animal_Feed"]}}
+{"dg-publish":true,"permalink":"/small-scale-farming-for-people-in-lmics/","tags":["Farming","Lower_Middle_Income_Countries","MFA_Food_Sec"],"created":"2025-10-23T09:42:43.323-07:00","updated":"2026-09-30T11:55:03.464-07:00","dg-note-properties":{"tags":["Farming","Lower_Middle_Income_Countries","MFA_Food_Sec"],"AI suggested tags":["Economics/Jobs","Citation","Animal_Feed"]}}
 ---
 
 

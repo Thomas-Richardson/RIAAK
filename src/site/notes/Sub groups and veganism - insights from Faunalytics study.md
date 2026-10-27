@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sub-groups-and-veganism-insights-from-faunalytics-study/","tags":["Public_Opinion","High_Income_Countries/USA"],"created":"2025-10-23T17:42:47.300+01:00","updated":"2026-09-30T19:55:03.479+01:00","dg-note-properties":{"tags":["Public_Opinion","High_Income_Countries/USA"],"Note Type":"undefined","AI suggested tags":["Consumer_Research","Consumer_Attitudes","Psychology"]}}
+{"dg-publish":true,"permalink":"/sub-groups-and-veganism-insights-from-faunalytics-study/","tags":["Public_Opinion","High_Income_Countries/USA"],"created":"2025-10-23T09:42:47.300-07:00","updated":"2026-09-30T11:55:03.479-07:00","dg-note-properties":{"tags":["Public_Opinion","High_Income_Countries/USA"],"Note Type":"undefined","AI suggested tags":["Consumer_Research","Consumer_Attitudes","Psychology"]}}
 ---
 
 Dashboard here: https://faunalytics.shinyapps.io/comparing-pro-animal-openness/

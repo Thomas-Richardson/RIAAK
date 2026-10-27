@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research-scales-and-questionaires-to-use-in-animal-advo-research-surveys/","tags":["Research"],"created":"2025-10-23T17:42:43.314+01:00","updated":"2026-09-30T19:55:03.450+01:00","dg-note-properties":{"tags":["Research"],"AI suggested tags":["Research/Methods","Public_Opinion","Checklist"]}}
+{"dg-publish":true,"permalink":"/research-scales-and-questionaires-to-use-in-animal-advo-research-surveys/","tags":["Research"],"created":"2025-10-23T09:42:43.314-07:00","updated":"2026-09-30T11:55:03.450-07:00","dg-note-properties":{"tags":["Research"],"AI suggested tags":["Research/Methods","Public_Opinion","Checklist"]}}
 ---
 
 

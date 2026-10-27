@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/report-canadian-consumers-widely-misled-by-egg-carton-welfare-labels/","tags":["Bryant_Research/Insight","Consumer_Attitudes","Eggs","Policy/Labeling"],"created":"2025-10-23T17:42:41.694+01:00","updated":"2026-10-01T06:57:10.555+01:00","dg-note-properties":{"tags":["Bryant_Research/Insight","Consumer_Attitudes","Eggs","Policy/Labeling"],"AI suggested tags":["Chickens","Public_Opinion","Animal_Welfare"]}}
+{"dg-publish":true,"permalink":"/report-canadian-consumers-widely-misled-by-egg-carton-welfare-labels/","tags":["Bryant_Research/Insight","Consumer_Attitudes","Eggs","Policy/Labeling"],"created":"2025-10-23T09:42:41.694-07:00","updated":"2026-09-30T22:57:10.555-07:00","dg-note-properties":{"tags":["Bryant_Research/Insight","Consumer_Attitudes","Eggs","Policy/Labeling"],"AI suggested tags":["Chickens","Public_Opinion","Animal_Welfare"]}}
 ---
 
 

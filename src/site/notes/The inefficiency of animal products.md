@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-inefficiency-of-animal-products/","tags":["Environment/Land","Environment","Meat"],"created":"2025-10-23T17:42:44.180+01:00","updated":"2026-10-01T06:57:10.598+01:00","dg-note-properties":{"tags":["Environment/Land","Environment","Meat"],"Note Type":"undefined","AI suggested tags":["Farming","Animal_Feed","Environment/GHG"]}}
+{"dg-publish":true,"permalink":"/the-inefficiency-of-animal-products/","tags":["Environment/Land","Environment","Meat"],"created":"2025-10-23T09:42:44.180-07:00","updated":"2026-09-30T22:57:10.598-07:00","dg-note-properties":{"tags":["Environment/Land","Environment","Meat"],"Note Type":"undefined","AI suggested tags":["Farming","Animal_Feed","Environment/GHG"]}}
 ---
 
 

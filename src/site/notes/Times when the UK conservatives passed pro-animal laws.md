@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/times-when-the-uk-conservatives-passed-pro-animal-laws/","tags":["Policy","UK"],"created":"2025-10-23T17:42:43.094+01:00","updated":"2026-09-30T19:55:03.543+01:00","dg-note-properties":{"tags":["Policy","UK"],"AI suggested tags":["Politics","High_Income_Countries/UK","Animal_Welfare"]}}
+{"dg-publish":true,"permalink":"/times-when-the-uk-conservatives-passed-pro-animal-laws/","tags":["Policy","UK"],"created":"2025-10-23T09:42:43.094-07:00","updated":"2026-09-30T11:55:03.543-07:00","dg-note-properties":{"tags":["Policy","UK"],"AI suggested tags":["Politics","High_Income_Countries/UK","Animal_Welfare"]}}
 ---
 
 **

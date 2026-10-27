@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/animals-and-the-constitution-with-michael-dorf/","tags":["Law","High_Income_Countries/USA"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:03.101+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/alp126/","tags":["Law","High_Income_Countries/USA"],"Year Published":"2025","AI suggested tags":["Animal_Ethics","Philosophy","Companion_Animals"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/animals-and-the-constitution-with-michael-dorf/","tags":["Law","High_Income_Countries/USA"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-09-30T11:55:03.101-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/alp126/","tags":["Law","High_Income_Countries/USA"],"Year Published":"2025","AI suggested tags":["Animal_Ethics","Philosophy","Companion_Animals"]}}
 ---
 
 In this intellectually stimulating episode of the Animal Law Podcast, Mariann Sullivan speaks with constitutional law expert Michael Dorf about his innovative course “Animals and the Constitution.” Dorf shares how fundamental legal principles intersect with animal protection, revealing both the limitations and opportunities within our constitutional framework for advancing animal rights.

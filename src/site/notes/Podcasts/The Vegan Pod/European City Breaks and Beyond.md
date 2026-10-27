@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-pod/european-city-breaks-and-beyond/","tags":["Veganism","Europe"],"created":"2026-07-12T12:12:47.000+01:00","updated":"2026-09-30T19:55:03.141+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://vegansociety.podbean.com/e/european-city-breaks-and-beyond/","tags":["Veganism","Europe"],"Year Published":"2025","AI suggested tags":["Anthropology","Plant_Based","Plant_Based/School_Meals"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-pod/european-city-breaks-and-beyond/","tags":["Veganism","Europe"],"created":"2026-07-12T04:12:47.000-07:00","updated":"2026-10-18T01:41:07.739-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://vegansociety.podbean.com/e/european-city-breaks-and-beyond/","tags":["Veganism","Europe"],"Year Published":"2025","AI suggested tags":["Anthropology","Plant_Based_Diets","Plant_Based_Diets/School_Meals"]}}
 ---
 
 With summer upon us at Vegan Society HQ, the latest Vegan Pod focuses on the best European city breaks for vegans and looks wider afield at life for vegans internationally.

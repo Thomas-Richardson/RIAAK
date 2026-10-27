@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-pod/can-we-embrace-festive-traditions-whilst-being-vegan/","tags":["Veganism","Diet","High_Income_Countries/UK"],"created":"2026-07-12T12:12:47.000+01:00","updated":"2026-09-30T19:55:03.134+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://vegansociety.podbean.com/e/can-we-embrace-festive-traditions-whilst-being-vegan/","tags":["Veganism","Diet","High_Income_Countries/UK"],"Year Published":"2023","AI suggested tags":["Anthropology","Plant_Based","Animal_Ethics"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-pod/can-we-embrace-festive-traditions-whilst-being-vegan/","tags":["Veganism","Diet","High_Income_Countries/UK"],"created":"2026-07-12T04:12:47.000-07:00","updated":"2026-10-18T01:41:07.736-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://vegansociety.podbean.com/e/can-we-embrace-festive-traditions-whilst-being-vegan/","tags":["Veganism","Diet","High_Income_Countries/UK"],"Year Published":"2023","AI suggested tags":["Anthropology","Plant_Based_Diets","Philosophy"]}}
 ---
 
 In the latest episode of The Vegan Pod, and the final episode of 2023, we’re getting into the festive spirit and talking all things Christmas.

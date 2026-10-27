@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/animal-law-podcast-5-peta-v-whole-foods-with-jared-goodman/","tags":["Law","Policy/Labeling","Retailers","High_Income_Countries/USA"],"created":"2026-09-06T06:49:41.000+01:00","updated":"2026-09-30T19:55:03.032+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/animal-law-podcast-5-whole-foods-litigation-with-jared-goodman/","tags":["Law","Policy/Labeling","Retailers","High_Income_Countries/USA"],"Year Published":"2015","AI suggested tags":["Activism","Companion_Animals","Animal_Ethics"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/animal-law-podcast-5-peta-v-whole-foods-with-jared-goodman/","tags":["Law","Policy/Labeling","Retailers","High_Income_Countries/USA"],"created":"2026-09-05T22:49:41.000-07:00","updated":"2026-09-30T11:55:03.032-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/animal-law-podcast-5-whole-foods-litigation-with-jared-goodman/","tags":["Law","Policy/Labeling","Retailers","High_Income_Countries/USA"],"Year Published":"2015","AI suggested tags":["Activism","Companion_Animals","Animal_Ethics"]}}
 ---
 
 Jared Goodman + kitties

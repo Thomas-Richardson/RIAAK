@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-pod/are-protest-laws-affecting-vegan-activism/","tags":["Protest","Law","High_Income_Countries/UK","Animal_Ethics"],"created":"2026-07-12T12:12:47.000+01:00","updated":"2026-09-30T19:55:03.128+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://vegansociety.podbean.com/e/are-protest-laws-affecting-vegan-activism/","tags":["Protest","Law","High_Income_Countries/UK","Animal_Ethics"],"Year Published":"2023","AI suggested tags":["Activism","Tactics","Veganism"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-pod/are-protest-laws-affecting-vegan-activism/","tags":["Protest","Law","High_Income_Countries/UK","Animal_Ethics"],"created":"2026-07-12T04:12:47.000-07:00","updated":"2026-09-30T11:55:03.128-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://vegansociety.podbean.com/e/are-protest-laws-affecting-vegan-activism/","tags":["Protest","Law","High_Income_Countries/UK","Animal_Ethics"],"Year Published":"2023","AI suggested tags":["Activism","Tactics","Veganism"]}}
 ---
 
 In July's episode of The Vegan Pod, we’re exploring how protest laws are impacting the vegan movement and discussing how we can be effective activists in the current political climate.

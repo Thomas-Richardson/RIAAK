@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/the-animal-law-podcast-is-here-episode-1-featuring-steve-wise/","tags":["Law","Animal_Ethics","High_Income_Countries/USA"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:03.112+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/the-animal-law-podcast-is-here-episode-1-featuring-steve-wise/","tags":["Law","Animal_Ethics","High_Income_Countries/USA"],"Year Published":"2015","AI suggested tags":["Activism","Wild_Animals","Companion_Animals"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/the-animal-law-podcast-is-here-episode-1-featuring-steve-wise/","tags":["Law","Animal_Ethics","High_Income_Countries/USA"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-09-30T11:55:03.112-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/the-animal-law-podcast-is-here-episode-1-featuring-steve-wise/","tags":["Law","Animal_Ethics","High_Income_Countries/USA"],"Year Published":"2015","AI suggested tags":["Activism","Wild_Animals","Companion_Animals"]}}
 ---
 
 Mariann Sullivan: Photo by Derek Goodwin.

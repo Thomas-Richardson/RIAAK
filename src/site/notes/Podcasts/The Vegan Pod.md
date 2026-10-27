@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-pod/","created":"2026-10-01T13:55:56.822+01:00","updated":"2026-10-01T13:55:56.822+01:00","dg-note-properties":{"Note Type":"RIAAK Admin","tags":null}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-pod/","created":"2026-10-01T05:55:56.822-07:00","updated":"2026-10-18T01:41:07.761-07:00","dg-note-properties":{"Note Type":"RIAAK Admin","tags":null,"AI suggested tags":["Veganism","Plant_Based_Diets/School_Meals","Anthropology"]}}
 ---
 
 *The Vegan Pod* is a podcast by The Vegan Society. [Show website](https://vegansociety.podbean.com)

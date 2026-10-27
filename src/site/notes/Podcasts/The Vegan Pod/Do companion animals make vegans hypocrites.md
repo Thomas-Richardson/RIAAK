@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-pod/do-companion-animals-make-vegans-hypocrites/","tags":["Companion_Animals","Pet_Food","Veganism","Animal_Ethics"],"created":"2026-07-12T12:12:47.000+01:00","updated":"2026-09-30T19:55:03.139+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://vegansociety.podbean.com/e/do-companion-animals-make-vegans-hypocrites/","tags":["Companion_Animals","Pet_Food","Veganism","Animal_Ethics"],"Year Published":"2023","AI suggested tags":["Anthropology","Philosophy","Narratives"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-pod/do-companion-animals-make-vegans-hypocrites/","tags":["Companion_Animals","Pet_Food","Veganism","Animal_Ethics"],"created":"2026-07-12T04:12:47.000-07:00","updated":"2026-09-30T11:55:03.139-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://vegansociety.podbean.com/e/do-companion-animals-make-vegans-hypocrites/","tags":["Companion_Animals","Pet_Food","Veganism","Animal_Ethics"],"Year Published":"2023","AI suggested tags":["Anthropology","Philosophy","Narratives"]}}
 ---
 
 In this episode of The Vegan Pod, we're asking "Do companion animals make vegans hypocrites?"

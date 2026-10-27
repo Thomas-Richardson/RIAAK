@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/animal-law-podcast-8-what-s-up-with-birds-and-the-animal-welfare-act-with-bruce-wagman/","tags":["Law","High_Income_Countries/USA","Companion_Animals","Turkeys"],"created":"2026-07-15T12:19:41.000+01:00","updated":"2026-09-30T19:55:03.075+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/animal-law-podcast-8-whats-up-with-birds-and-the-animal-welfare-act-with-bruce-wagman/","tags":["Law","High_Income_Countries/USA","Companion_Animals","Turkeys"],"Year Published":"2016","AI suggested tags":["Wild_Animals","Geese","Animal_Ethics"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/animal-law-podcast-8-what-s-up-with-birds-and-the-animal-welfare-act-with-bruce-wagman/","tags":["Law","High_Income_Countries/USA","Companion_Animals","Turkeys"],"created":"2026-07-15T04:19:41.000-07:00","updated":"2026-09-30T11:55:03.075-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/animal-law-podcast-8-whats-up-with-birds-and-the-animal-welfare-act-with-bruce-wagman/","tags":["Law","High_Income_Countries/USA","Companion_Animals","Turkeys"],"Year Published":"2016","AI suggested tags":["Wild_Animals","Geese","Animal_Ethics"]}}
 ---
 
 Bruce Wagman

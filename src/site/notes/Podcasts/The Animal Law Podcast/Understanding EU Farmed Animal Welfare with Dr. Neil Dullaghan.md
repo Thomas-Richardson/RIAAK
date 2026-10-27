@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/understanding-eu-farmed-animal-welfare-with-dr-neil-dullaghan/","tags":["EU","Policy","Animal_Welfare","Fish/Farmed"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:03.122+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/alp129/","tags":["EU","Policy","Animal_Welfare","Fish/Farmed"],"Year Published":"2026","AI suggested tags":["Law","High_Income_Countries/USA","Animal_Ethics"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/understanding-eu-farmed-animal-welfare-with-dr-neil-dullaghan/","tags":["EU","Policy","Animal_Welfare","Fish/Farmed"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-09-30T11:55:03.122-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/alp129/","tags":["EU","Policy","Animal_Welfare","Fish/Farmed"],"Year Published":"2026","AI suggested tags":["Law","High_Income_Countries/USA","Animal_Ethics"]}}
 ---
 
 In this episode of the Animal Law Podcast, Mariann Sullivan sits down with Dr. Neil Dullaghan, political scientist and author of The Compassion Mandate: Remaking the European Union’s Leadership on Farmed Animal Welfare. Together, they explore the complexities and challenges of EU farmed animal policies.

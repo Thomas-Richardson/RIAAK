@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/springmann-2024/","tags":["Economics/Costs","Health/Nutrition","Environment/GHG","Environment/Land"],"created":"2025-11-07T13:56:10.663+00:00","updated":"2026-09-30T19:55:02.071+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.pnas.org/doi/abs/10.1073/pnas.2319010121","tags":["Economics/Costs","Health/Nutrition","Environment/GHG","Environment/Land"],"Year Published":"2024","AI suggested tags":["Citation","Alternative_Proteins/Plant_Based","Economics"]}}
+{"dg-publish":true,"permalink":"/citations/springmann-2024/","tags":["Economics/Costs","Health/Nutrition","Environment/GHG","Environment/Land"],"created":"2025-11-07T05:56:10.663-08:00","updated":"2026-09-30T11:55:02.071-07:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.pnas.org/doi/abs/10.1073/pnas.2319010121","tags":["Economics/Costs","Health/Nutrition","Environment/GHG","Environment/Land"],"Year Published":"2024","AI suggested tags":["Citation","Alternative_Proteins/Plant_Based","Economics"]}}
 ---
 
 ## Significance

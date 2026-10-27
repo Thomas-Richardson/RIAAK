@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/schwingshackl-et-al-2017a/","tags":["Review"],"created":"2025-11-06T09:41:39.698+00:00","updated":"2026-09-30T19:55:02.020+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Review"],"Url":"https://www.cabdirect.org/globalhealth/abstract/20173254768","AI suggested tags":["Nuts","Health/Nutrition","Diet"]}}
+{"dg-publish":true,"permalink":"/citations/schwingshackl-et-al-2017a/","tags":["Review"],"created":"2025-11-06T01:41:39.698-08:00","updated":"2026-09-30T11:55:02.020-07:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Review"],"Url":"https://www.cabdirect.org/globalhealth/abstract/20173254768","AI suggested tags":["Nuts","Health/Nutrition","Diet"]}}
 ---
 
 - [[Citations/Neuenschwander et al., 2023\|Neuenschwander et al., 2023]]

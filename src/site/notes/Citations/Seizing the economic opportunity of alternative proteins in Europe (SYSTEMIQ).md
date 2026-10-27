@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/seizing-the-economic-opportunity-of-alternative-proteins-in-europe-systemiq/","tags":["Alternative_Proteins"],"created":"2026-01-29T18:53:06.688+00:00","updated":"2026-09-30T19:55:02.029+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.systemiq.earth/economic-opportunity-of-alternative-proteins-europe/","tags":["Alternative_Proteins"],"Year Published":"2026","AI suggested tags":["Alternative_Proteins/Precision_Fermentation","Economics","EU"]}}
+{"dg-publish":true,"permalink":"/citations/seizing-the-economic-opportunity-of-alternative-proteins-in-europe-systemiq/","tags":["Alternative_Proteins"],"created":"2026-01-29T10:53:06.688-08:00","updated":"2026-09-30T11:55:02.029-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.systemiq.earth/economic-opportunity-of-alternative-proteins-europe/","tags":["Alternative_Proteins"],"Year Published":"2026","AI suggested tags":["Alternative_Proteins/Precision_Fermentation","Economics","EU"]}}
 ---
 
 New Systemiq analysis, supported by the Good Food Institute Europe, finds that scaling plant-based foods, cultivated meat, and fermentation-made ingredients could deliver major economic gains for the EU, while improving food security and agricultural resilience.

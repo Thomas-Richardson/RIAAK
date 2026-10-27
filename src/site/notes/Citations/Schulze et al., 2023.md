@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/schulze-et-al-2023/","tags":["Citation","Health/Nutrition","Meat"],"created":"2025-10-23T17:42:44.865+01:00","updated":"2026-09-30T19:55:02.016+01:00","dg-note-properties":{"tags":["Citation","Health/Nutrition","Meat"],"AI suggested tags":["Legumes","Diet","Review"]}}
+{"dg-publish":true,"permalink":"/citations/schulze-et-al-2023/","tags":["Citation","Health/Nutrition","Meat"],"created":"2025-10-23T09:42:44.865-07:00","updated":"2026-09-30T11:55:02.016-07:00","dg-note-properties":{"tags":["Citation","Health/Nutrition","Meat"],"AI suggested tags":["Legumes","Diet","Review"]}}
 ---
 
 

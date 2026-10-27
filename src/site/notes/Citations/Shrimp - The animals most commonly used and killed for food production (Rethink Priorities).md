@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/shrimp-the-animals-most-commonly-used-and-killed-for-food-production-rethink-priorities/","tags":["Shrimp","Crustaceans"],"created":"2025-10-23T17:42:44.348+01:00","updated":"2026-09-30T19:55:02.042+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/shrimp-the-animals-most-commonly-used-and-killed-for-food-production/","tags":["Shrimp","Crustaceans"],"Year Published":"2023","AI suggested tags":["Insects","Fish","Animal_Welfare"]}}
+{"dg-publish":true,"permalink":"/citations/shrimp-the-animals-most-commonly-used-and-killed-for-food-production-rethink-priorities/","tags":["Shrimp","Crustaceans"],"created":"2025-10-23T09:42:44.348-07:00","updated":"2026-09-30T11:55:02.042-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/shrimp-the-animals-most-commonly-used-and-killed-for-food-production/","tags":["Shrimp","Crustaceans"],"Year Published":"2023","AI suggested tags":["Insects","Fish","Animal_Welfare"]}}
 ---
 
 ### Summary

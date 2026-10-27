@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/schwingshackl-et-al-2017b/","tags":["Citation","Eggs","Health/Nutrition","Meat"],"created":"2025-10-23T17:42:45.853+01:00","updated":"2026-09-30T19:55:02.022+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Citation","Eggs","Health/Nutrition","Meat"],"AI suggested tags":["Legumes","Nuts","Diet"]}}
+{"dg-publish":true,"permalink":"/citations/schwingshackl-et-al-2017b/","tags":["Citation","Eggs","Health/Nutrition","Meat"],"created":"2025-10-23T09:42:45.853-07:00","updated":"2026-09-30T11:55:02.022-07:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Citation","Eggs","Health/Nutrition","Meat"],"AI suggested tags":["Legumes","Nuts","Diet"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/schwingshackl-et-al-2016/","tags":["Health/Nutrition","Dairy","Review"],"created":"2025-11-06T09:41:38.628+00:00","updated":"2026-09-30T19:55:02.019+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0157461","tags":["Health/Nutrition","Dairy","Review"],"Year Published":"2016","AI suggested tags":["Nuts","Legumes","Meat"]}}
+{"dg-publish":true,"permalink":"/citations/schwingshackl-et-al-2016/","tags":["Health/Nutrition","Dairy","Review"],"created":"2025-11-06T01:41:38.628-08:00","updated":"2026-09-30T11:55:02.019-07:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0157461","tags":["Health/Nutrition","Dairy","Review"],"Year Published":"2016","AI suggested tags":["Nuts","Legumes","Meat"]}}
 ---
 
 ### Background

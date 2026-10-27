@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/reducing-aquatic-noise-as-a-wild-animal-welfare-intervention-rethink-priorities/","tags":["Wild_Animals","Fish"],"created":"2025-10-23T17:42:46.677+01:00","updated":"2026-09-30T19:55:01.942+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/reducing-aquatic-noise/","tags":["Wild_Animals","Fish"],"Year Published":"2022","AI suggested tags":["Strategy","Shrimp","Fish/Farmed"]}}
+{"dg-publish":true,"permalink":"/citations/reducing-aquatic-noise-as-a-wild-animal-welfare-intervention-rethink-priorities/","tags":["Wild_Animals","Fish"],"created":"2025-10-23T09:42:46.677-07:00","updated":"2026-09-30T11:55:01.942-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/reducing-aquatic-noise/","tags":["Wild_Animals","Fish"],"Year Published":"2022","AI suggested tags":["Strategy","Shrimp","Fish/Farmed"]}}
 ---
 
 - Aquatic noise comes from ships, seismic surveys to find oil and gas, sonar, and other sources. It causes marine animals stress and masks their communications, among other effects on marine ecosystems.

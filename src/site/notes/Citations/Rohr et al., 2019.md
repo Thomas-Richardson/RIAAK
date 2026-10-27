@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/rohr-et-al-2019/","tags":["Health/Disease"],"created":"2025-10-23T17:42:46.263+01:00","updated":"2026-09-30T19:55:01.990+01:00","dg-note-properties":{"tags":["Health/Disease"],"Url":"https://www.nature.com/articles/s41893-019-0293-3.pdf","AI suggested tags":["Citation","Food_Safety","Farming"]}}
+{"dg-publish":true,"permalink":"/citations/rohr-et-al-2019/","tags":["Health/Disease"],"created":"2025-10-23T09:42:46.263-07:00","updated":"2026-09-30T11:55:01.990-07:00","dg-note-properties":{"tags":["Health/Disease"],"Url":"https://www.nature.com/articles/s41893-019-0293-3.pdf","AI suggested tags":["Citation","Food_Safety","Farming"]}}
 ---
 
 - [[Factory farmed animals cause pandemics and zoonotic disease\|Factory farmed animals cause pandemics and zoonotic disease]]

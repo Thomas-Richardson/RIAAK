@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/quantifying-and-prioritizing-shrimp-welfare-threats-rethink-priorities/","tags":["Shrimp","Crustaceans"],"created":"2025-10-23T17:42:45.382+01:00","updated":"2026-09-30T19:55:01.932+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/quantifying-and-prioritizing-shrimp-welfare-threats/","tags":["Shrimp","Crustaceans"],"Year Published":"2024","AI suggested tags":["Insects","Fish","Fish/Farmed"]}}
+{"dg-publish":true,"permalink":"/citations/quantifying-and-prioritizing-shrimp-welfare-threats-rethink-priorities/","tags":["Shrimp","Crustaceans"],"created":"2025-10-23T09:42:45.382-07:00","updated":"2026-09-30T11:55:01.932-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/quantifying-and-prioritizing-shrimp-welfare-threats/","tags":["Shrimp","Crustaceans"],"Year Published":"2024","AI suggested tags":["Insects","Fish","Fish/Farmed"]}}
 ---
 
 This is the fourth report in the Rethink Priorities Shrimp Welfare Sequence. In this report, we quantify the suffering caused to shrimp by 18 welfare threats to assess which welfare issues cause the most harm.

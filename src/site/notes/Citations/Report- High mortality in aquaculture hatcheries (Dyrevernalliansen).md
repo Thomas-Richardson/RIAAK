@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/report-high-mortality-in-aquaculture-hatcheries-dyrevernalliansen/","tags":["Fish","EU"],"created":"2025-10-26T17:17:55.662+00:00","updated":"2026-09-30T19:55:01.950+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://dyrevern.no/dyrevern/new-report-reveals-unnaturally-high-mortality-in-aquaculture-hatcheries/","tags":["Fish","EU"],"Year Published":"2019","AI suggested tags":["Fish/Farmed","Shrimp","Crustaceans"]}}
+{"dg-publish":true,"permalink":"/citations/report-high-mortality-in-aquaculture-hatcheries-dyrevernalliansen/","tags":["Fish","EU"],"created":"2025-10-26T10:17:55.662-07:00","updated":"2026-09-30T11:55:01.950-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://dyrevern.no/dyrevern/new-report-reveals-unnaturally-high-mortality-in-aquaculture-hatcheries/","tags":["Fish","EU"],"Year Published":"2019","AI suggested tags":["Fish/Farmed","Shrimp","Crustaceans"]}}
 ---
 
 Unnaturally high juvenile mortality and poor reporting in aquaculture hatcheries are among the main findings of Dyrevernalliansen and the Norwegian Veterinary Institute’s project «Småfiskvel».

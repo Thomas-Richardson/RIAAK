@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/schwartz-et-al-2024/","tags":["Sinergia_Defunding_Project","Citation","Economics","Environment"],"created":"2025-10-23T17:42:48.027+01:00","updated":"2026-09-30T19:55:02.017+01:00","dg-note-properties":{"tags":["Sinergia_Defunding_Project","Citation","Economics","Environment"],"AI suggested tags":["Public_Opinion","Review","Behaviour_Change"]}}
+{"dg-publish":true,"permalink":"/citations/schwartz-et-al-2024/","tags":["Sinergia_Defunding_Project","Citation","Economics","Environment"],"created":"2025-10-23T09:42:48.027-07:00","updated":"2026-09-30T11:55:02.017-07:00","dg-note-properties":{"tags":["Sinergia_Defunding_Project","Citation","Economics","Environment"],"AI suggested tags":["Public_Opinion","Review","Behaviour_Change"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/ritchie-2021/","tags":["Animal_Feed","Citation","Environment/Land","Farming","Lower_Middle_Income_Countries"],"created":"2025-10-23T17:42:45.264+01:00","updated":"2026-09-30T19:55:01.983+01:00","dg-note-properties":{"tags":["Animal_Feed","Citation","Environment/Land","Farming","Lower_Middle_Income_Countries"],"Note Type":"undefined","AI suggested tags":["Cows","Food_Security","Meat"]}}
+{"dg-publish":true,"permalink":"/citations/ritchie-2021/","tags":["Animal_Feed","Citation","Environment/Land","Farming","Lower_Middle_Income_Countries"],"created":"2025-10-23T09:42:45.264-07:00","updated":"2026-09-30T11:55:01.983-07:00","dg-note-properties":{"tags":["Animal_Feed","Citation","Environment/Land","Farming","Lower_Middle_Income_Countries"],"Note Type":"undefined","AI suggested tags":["Cows","Food_Security","Meat"]}}
 ---
 
 

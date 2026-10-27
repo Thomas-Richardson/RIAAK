@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/reist-et-al-2023/","tags":["Citation","Psychology","Veganism"],"created":"2025-10-23T17:42:44.282+01:00","updated":"2026-09-30T19:55:01.948+01:00","dg-note-properties":{"tags":["Citation","Psychology","Veganism"],"AI suggested tags":["Veg_Diets","Review","Behaviour_Change"]}}
+{"dg-publish":true,"permalink":"/citations/reist-et-al-2023/","tags":["Citation","Psychology","Veganism"],"created":"2025-10-23T09:42:44.282-07:00","updated":"2026-09-30T11:55:01.948-07:00","dg-note-properties":{"tags":["Citation","Psychology","Veganism"],"AI suggested tags":["Veg_Diets","Review","Behaviour_Change"]}}
 ---
 
 

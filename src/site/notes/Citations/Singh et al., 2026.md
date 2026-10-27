@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/singh-et-al-2026/","tags":["Citation","Environment/GHG","Environment/Land","Food_Security","Biodiversity"],"created":"2026-08-09T17:06:29.000+01:00","updated":"2026-10-01T06:57:10.038+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.nature.com/articles/s43016-026-01305-4","tags":["Citation","Environment/GHG","Environment/Land","Food_Security","Biodiversity"],"Year Published":"2026","AI suggested tags":["Cows","Environment","Farming"]}}
+{"dg-publish":true,"permalink":"/citations/singh-et-al-2026/","tags":["Citation","Environment/GHG","Environment/Land","Food_Security","Biodiversity"],"created":"2026-08-09T09:06:29.000-07:00","updated":"2026-09-30T22:57:10.038-07:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.nature.com/articles/s43016-026-01305-4","tags":["Citation","Environment/GHG","Environment/Land","Food_Security","Biodiversity"],"Year Published":"2026","AI suggested tags":["Cows","Environment","Farming"]}}
 ---
 
 ## Abstract

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/slade-and-alleyne-2021/","tags":["Citation","Factory_Farming","Psychology","Economics/Jobs"],"created":"2025-10-23T17:42:46.978+01:00","updated":"2026-09-30T19:55:02.054+01:00","dg-note-properties":{"tags":["Citation","Factory_Farming","Psychology","Economics/Jobs"],"AI suggested tags":["Pigs","Review","Health/Disease"]}}
+{"dg-publish":true,"permalink":"/citations/slade-and-alleyne-2021/","tags":["Citation","Factory_Farming","Psychology","Economics/Jobs"],"created":"2025-10-23T09:42:46.978-07:00","updated":"2026-09-30T11:55:02.054-07:00","dg-note-properties":{"tags":["Citation","Factory_Farming","Psychology","Economics/Jobs"],"AI suggested tags":["Pigs","Review","Health/Disease"]}}
 ---
 
 

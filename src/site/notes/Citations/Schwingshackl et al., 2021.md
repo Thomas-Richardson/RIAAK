@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/schwingshackl-et-al-2021/","tags":["Citation","Health/Nutrition"],"created":"2025-10-23T17:42:45.223+01:00","updated":"2026-09-30T19:55:02.024+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Citation","Health/Nutrition"],"AI suggested tags":["Review","Diet","Nuts"]}}
+{"dg-publish":true,"permalink":"/citations/schwingshackl-et-al-2021/","tags":["Citation","Health/Nutrition"],"created":"2025-10-23T09:42:45.223-07:00","updated":"2026-09-30T11:55:02.024-07:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Citation","Health/Nutrition"],"AI suggested tags":["Review","Diet","Nuts"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/revealed-europe-s-new-meat-tycoons-a-gtivist-agency/","tags":["Factory_Farming","Meat_Industry","Europe","Economics"],"created":"2026-07-12T17:06:12.000+01:00","updated":"2026-09-30T19:55:01.973+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://stories.agtivistagency.com/the-meat-tycoons/","tags":["Factory_Farming","Meat_Industry","Europe","Economics"],"Year Published":"unknown","AI suggested tags":["USA","UK","Farmers"]}}
+{"dg-publish":true,"permalink":"/citations/revealed-europe-s-new-meat-tycoons-a-gtivist-agency/","tags":["Factory_Farming","Meat_Industry","Europe","Economics"],"created":"2026-07-12T09:06:12.000-07:00","updated":"2026-09-30T11:55:01.973-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://stories.agtivistagency.com/the-meat-tycoons/","tags":["Factory_Farming","Meat_Industry","Europe","Economics"],"Year Published":"unknown","AI suggested tags":["USA","UK","Farmers"]}}
 ---
 
 - A handful of corporations now dominate the supply of meat, eggs and dairy in parts of Europe, raising concerns about power and influence, consumer choice and the spread of industrial farming.

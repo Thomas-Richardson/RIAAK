@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/shallow-overview-of-institutional-plant-based-meal-campaigns-in-the-us-and-western-europe-rethink-priorities/","tags":["Institutional_Change","EU","USA"],"created":"2025-10-23T17:42:44.272+01:00","updated":"2026-09-30T19:55:02.033+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/plant-based-meal-campaigns-in-the-us-western-europe/","tags":["Institutional_Change","EU","USA"],"Year Published":"2024","AI suggested tags":["Meat/Meat_Reduction","Case_Study","Behaviour_Change"]}}
+{"dg-publish":true,"permalink":"/citations/shallow-overview-of-institutional-plant-based-meal-campaigns-in-the-us-and-western-europe-rethink-priorities/","tags":["Institutional_Change","EU","USA"],"created":"2025-10-23T09:42:44.272-07:00","updated":"2026-09-30T11:55:02.033-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/plant-based-meal-campaigns-in-the-us-western-europe/","tags":["Institutional_Change","EU","USA"],"Year Published":"2024","AI suggested tags":["Meat/Meat_Reduction","Case_Study","Behaviour_Change"]}}
 ---
 
 ### Executive summary

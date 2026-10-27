@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/scarborough-et-al-2010/","tags":["Citation","Health/Nutrition","Meat"],"created":"2025-10-23T17:42:46.597+01:00","updated":"2026-09-30T19:55:02.005+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Citation","Health/Nutrition","Meat"],"AI suggested tags":["Economics/Costs","Health","Meat/Red_Meat"]}}
+{"dg-publish":true,"permalink":"/citations/scarborough-et-al-2010/","tags":["Citation","Health/Nutrition","Meat"],"created":"2025-10-23T09:42:46.597-07:00","updated":"2026-09-30T11:55:02.005-07:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Citation","Health/Nutrition","Meat"],"AI suggested tags":["Economics/Costs","Health","Meat/Red_Meat"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/roche-et-al-2025/","tags":["Economics"],"created":"2026-02-03T09:48:01.791+00:00","updated":"2026-09-30T19:55:01.985+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://cgspace.cgiar.org/items/85a25f0a-02d4-42aa-9f75-46bc0c3586d1","tags":["Economics"],"Year Published":"2025","AI suggested tags":["Citation","Review","Meat"]}}
+{"dg-publish":true,"permalink":"/citations/roche-et-al-2025/","tags":["Economics"],"created":"2026-02-03T01:48:01.791-08:00","updated":"2026-09-30T11:55:01.985-07:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://cgspace.cgiar.org/items/85a25f0a-02d4-42aa-9f75-46bc0c3586d1","tags":["Economics"],"Year Published":"2025","AI suggested tags":["Citation","Review","Meat"]}}
 ---
 
 

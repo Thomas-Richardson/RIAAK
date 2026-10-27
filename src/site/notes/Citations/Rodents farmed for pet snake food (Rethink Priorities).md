@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/rodents-farmed-for-pet-snake-food-rethink-priorities/","tags":["Rodents","Companion_Animals"],"created":"2025-10-23T17:42:45.139+01:00","updated":"2026-09-30T19:55:01.986+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/rodents-farmed-for-pet-snake-food/","tags":["Rodents","Companion_Animals"],"Year Published":"2019","AI suggested tags":["Insects","Shrimp","Fish"]}}
+{"dg-publish":true,"permalink":"/citations/rodents-farmed-for-pet-snake-food-rethink-priorities/","tags":["Rodents","Companion_Animals"],"created":"2025-10-23T09:42:45.139-07:00","updated":"2026-09-30T11:55:01.986-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/rodents-farmed-for-pet-snake-food/","tags":["Rodents","Companion_Animals"],"Year Published":"2019","AI suggested tags":["Insects","Shrimp","Fish"]}}
 ---
 
 - There are between 4.2 million and 7.8 million pet snakes in the world.

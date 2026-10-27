@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/simoes-et-al-2022/","tags":["Citation","Factory_Farming","Health/Disease"],"created":"2025-10-23T17:42:44.258+01:00","updated":"2026-09-30T19:55:02.045+01:00","dg-note-properties":{"tags":["Citation","Factory_Farming","Health/Disease"],"AI suggested tags":["Pigs","Environment/Pollution","USA"]}}
+{"dg-publish":true,"permalink":"/citations/simoes-et-al-2022/","tags":["Citation","Factory_Farming","Health/Disease"],"created":"2025-10-23T09:42:44.258-07:00","updated":"2026-09-30T11:55:02.045-07:00","dg-note-properties":{"tags":["Citation","Factory_Farming","Health/Disease"],"AI suggested tags":["Pigs","Environment/Pollution","USA"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/rosenfeld-and-tomiyama-2019/","tags":["Citation","Psychology","Veganism"],"created":"2025-10-23T17:42:46.124+01:00","updated":"2026-09-30T19:55:01.993+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Citation","Psychology","Veganism"],"AI suggested tags":["Veg_Diets","Behaviour_Change","Consumer_Research"]}}
+{"dg-publish":true,"permalink":"/citations/rosenfeld-and-tomiyama-2019/","tags":["Citation","Psychology","Veganism"],"created":"2025-10-23T09:42:46.124-07:00","updated":"2026-09-30T11:55:01.993-07:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Citation","Psychology","Veganism"],"AI suggested tags":["Veg_Diets","Behaviour_Change","Consumer_Research"]}}
 ---
 
 

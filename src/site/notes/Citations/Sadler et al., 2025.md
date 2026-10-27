@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/sadler-et-al-2025/","tags":["Institutional_Change","High_Income_Countries/UK","Environment/Climate_Change","Alternative_Proteins/Plant_Based"],"created":"2025-10-23T17:42:44.431+01:00","updated":"2026-09-30T19:55:02.000+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://pmc.ncbi.nlm.nih.gov/articles/PMC11789209/","tags":["Institutional_Change","High_Income_Countries/UK","Environment/Climate_Change","Alternative_Proteins/Plant_Based"],"Year Published":"2025","AI suggested tags":["Case_Study","Meat/Meat_Reduction","Dietary_Guidelines"]}}
+{"dg-publish":true,"permalink":"/citations/sadler-et-al-2025/","tags":["Institutional_Change","High_Income_Countries/UK","Environment/Climate_Change","Plant_Based_Diets"],"created":"2025-10-23T09:42:44.431-07:00","updated":"2026-10-18T01:41:07.646-07:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://pmc.ncbi.nlm.nih.gov/articles/PMC11789209/","tags":["Institutional_Change","High_Income_Countries/UK","Environment/Climate_Change","Plant_Based_Diets"],"Year Published":"2025","AI suggested tags":["Case_Study","Meat/Meat_Reduction","Dietary_Guidelines"]}}
 ---
 
 ### Background

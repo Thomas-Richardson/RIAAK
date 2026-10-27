@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/springlea-2022/","tags":["Animal_Feed","Citation","Economics","Policy"],"created":"2025-10-23T17:42:45.439+01:00","updated":"2026-09-30T19:55:02.062+01:00","dg-note-properties":{"tags":["Animal_Feed","Citation","Economics","Policy"],"Note Type":"undefined","AI suggested tags":["Strategy","EU","Animal_Welfare"]}}
+{"dg-publish":true,"permalink":"/citations/springlea-2022/","tags":["Animal_Feed","Citation","Economics","Policy"],"created":"2025-10-23T09:42:45.439-07:00","updated":"2026-09-30T11:55:02.062-07:00","dg-note-properties":{"tags":["Animal_Feed","Citation","Economics","Policy"],"Note Type":"undefined","AI suggested tags":["Strategy","EU","Animal_Welfare"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/rodriguez-lopez-et-al-2025/","tags":["Environment/Pollution","Factory_Farming","Pigs","Chickens","Policy"],"created":"2025-12-10T18:25:56.156+00:00","updated":"2026-09-30T19:55:01.989+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.academia.edu/2997-6006/2/1/10.20935/AcadEnvSci7530","tags":["Environment/Pollution","Factory_Farming","Pigs","Chickens","Policy"],"Year Published":"2025","AI suggested tags":["Health/Disease","Animal_Feed","Environment/Land"]}}
+{"dg-publish":true,"permalink":"/citations/rodriguez-lopez-et-al-2025/","tags":["Environment/Pollution","Factory_Farming","Pigs","Chickens","Policy"],"created":"2025-12-10T10:25:56.156-08:00","updated":"2026-09-30T11:55:01.989-07:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.academia.edu/2997-6006/2/1/10.20935/AcadEnvSci7530","tags":["Environment/Pollution","Factory_Farming","Pigs","Chickens","Policy"],"Year Published":"2025","AI suggested tags":["Health/Disease","Animal_Feed","Environment/Land"]}}
 ---
 
 ## Abstract

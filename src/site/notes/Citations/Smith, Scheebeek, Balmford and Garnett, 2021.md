@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/smith-scheebeek-balmford-and-garnett-2021/","tags":["Citation","Meat","UK"],"created":"2025-10-23T17:42:46.525+01:00","updated":"2026-09-30T19:55:02.057+01:00","dg-note-properties":{"tags":["Citation","Meat","UK"],"AI suggested tags":["Meat/Meat_Consumption","Economics/Costs","Health/Nutrition"]}}
+{"dg-publish":true,"permalink":"/citations/smith-scheebeek-balmford-and-garnett-2021/","tags":["Citation","Meat","UK"],"created":"2025-10-23T09:42:46.525-07:00","updated":"2026-09-30T11:55:02.057-07:00","dg-note-properties":{"tags":["Citation","Meat","UK"],"AI suggested tags":["Meat/Meat_Consumption","Economics/Costs","Health/Nutrition"]}}
 ---
 
 

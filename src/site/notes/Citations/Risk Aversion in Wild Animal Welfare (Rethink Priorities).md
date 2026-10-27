@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/risk-aversion-in-wild-animal-welfare-rethink-priorities/","tags":["Wild_Animals"],"created":"2025-10-23T17:42:45.125+01:00","updated":"2026-09-30T19:55:01.980+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/risk-aversion-in-wild-animal-welfare/","tags":["Wild_Animals"],"Year Published":"2023","AI suggested tags":["Research/Methods","Insects","Rodents"]}}
+{"dg-publish":true,"permalink":"/citations/risk-aversion-in-wild-animal-welfare-rethink-priorities/","tags":["Wild_Animals"],"created":"2025-10-23T09:42:45.125-07:00","updated":"2026-09-30T11:55:01.980-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/risk-aversion-in-wild-animal-welfare/","tags":["Wild_Animals"],"Year Published":"2023","AI suggested tags":["Research/Methods","Insects","Rodents"]}}
 ---
 
 # Executive Summary

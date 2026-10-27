@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/reynolds-et-al-2022/","tags":["Economics/Costs"],"created":"2025-10-23T17:42:44.387+01:00","updated":"2026-09-30T19:55:01.976+01:00","dg-note-properties":{"tags":["Economics/Costs"],"Url":"https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(22)00503-X/fulltext","AI suggested tags":["Meat/Red_Meat","Health/Nutrition","Meat"]}}
+{"dg-publish":true,"permalink":"/citations/reynolds-et-al-2022/","tags":["Economics/Costs"],"created":"2025-10-23T09:42:44.387-07:00","updated":"2026-09-30T11:55:01.976-07:00","dg-note-properties":{"tags":["Economics/Costs"],"Url":"https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(22)00503-X/fulltext","AI suggested tags":["Meat/Red_Meat","Health/Nutrition","Meat"]}}
 ---
 
 Reynolds, A. N., Mhurchu, C. N., Kok, Z. Y., & Cleghorn, C. (2023). The neglected potential of red and processed meat replacement with alternative protein sources: Simulation modelling and systematic review. _Eclinicalmedicine_, _56_.

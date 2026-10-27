@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/son-et-al-2026/","tags":["Factory_Farming","Health/Disease","Environment/Pollution","High_Income_Countries/USA"],"created":"2026-04-12T18:01:16.000+01:00","updated":"2026-09-30T19:55:02.061+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.sciencedirect.com/science/article/pii/S0013935126006286","tags":["Factory_Farming","Health/Disease","Environment/Pollution","High_Income_Countries/USA"],"Year Published":"2026","AI suggested tags":["Pigs","USA","Review"]}}
+{"dg-publish":true,"permalink":"/citations/son-et-al-2026/","tags":["Factory_Farming","Health/Disease","Environment/Pollution","High_Income_Countries/USA"],"created":"2026-04-12T10:01:16.000-07:00","updated":"2026-09-30T11:55:02.061-07:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.sciencedirect.com/science/article/pii/S0013935126006286","tags":["Factory_Farming","Health/Disease","Environment/Pollution","High_Income_Countries/USA"],"Year Published":"2026","AI suggested tags":["Pigs","USA","Review"]}}
 ---
 
 ### Highlights

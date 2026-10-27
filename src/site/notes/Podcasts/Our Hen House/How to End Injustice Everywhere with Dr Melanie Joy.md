@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/how-to-end-injustice-everywhere-with-dr-melanie-joy/","tags":["Activism","Movement_Building","Psychology"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.795+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep722/","tags":["Activism","Movement_Building","Psychology"],"Year Published":"2023","AI suggested tags":["Tactics","Narratives","Movement_Strategy"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/how-to-end-injustice-everywhere-with-dr-melanie-joy/","tags":["Activism","Movement_Building","Psychology"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-09-30T11:55:02.795-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep722/","tags":["Activism","Movement_Building","Psychology"],"Year Published":"2023","AI suggested tags":["Tactics","Narratives","Movement_Strategy"]}}
 ---
 
 Ever wondered where the movement would be if we could just stop infighting? Melanie Joy joins us on the podcast this week to discuss her most recent work that aims to tackle the issue of infighting and to get activists communicating more compassionately.

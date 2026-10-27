@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/odd-man-inn-with-josh-and-wendy-smith/","tags":["High_Income_Countries/USA","Movement_Building","Pigs"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.834+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep683/","tags":["High_Income_Countries/USA","Movement_Building","Pigs"],"Year Published":"2023","AI suggested tags":["Activism","Animal_Ethics","Companion_Animals"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/odd-man-inn-with-josh-and-wendy-smith/","tags":["High_Income_Countries/USA","Movement_Building","Pigs"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-09-30T11:55:02.834-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep683/","tags":["High_Income_Countries/USA","Movement_Building","Pigs"],"Year Published":"2023","AI suggested tags":["Activism","Animal_Ethics","Companion_Animals"]}}
 ---
 
 When Josh and Wendy Smith adopted Roswell, the dog, they didn’t imagine caring for him would lead them to start their very own animal sanctuary. We’re thrilled to welcome Josh and Wendy to the podcast this week to hear this and more inspiring stories about their sanctuary, Odd Man Inn, their animal advocacy work, and their recent move across the country.

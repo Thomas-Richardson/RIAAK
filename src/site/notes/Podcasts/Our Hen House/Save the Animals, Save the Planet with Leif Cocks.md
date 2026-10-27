@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/save-the-animals-save-the-planet-with-leif-cocks/","tags":["Wild_Animals","Biodiversity","Environment"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.872+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep752/","tags":["Wild_Animals","Biodiversity","Environment"],"Year Published":"2024","AI suggested tags":["Animal_Ethics","High_Income_Countries/USA","Activism"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/save-the-animals-save-the-planet-with-leif-cocks/","tags":["Wild_Animals","Biodiversity","Environment"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-09-30T11:55:02.872-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep752/","tags":["Wild_Animals","Biodiversity","Environment"],"Year Published":"2024","AI suggested tags":["Animal_Ethics","High_Income_Countries/USA","Activism"]}}
 ---
 
 Almost everyone loves an elephant. Or an orangutan. Or a tiger. So, how can we leverage that love to save the planet? This week, Leif Cocks joins us again to discuss his many projects that help protect forests, including The International Tiger Project.

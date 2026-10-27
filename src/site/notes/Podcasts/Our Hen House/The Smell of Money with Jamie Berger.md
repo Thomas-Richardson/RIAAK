@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/the-smell-of-money-with-jamie-berger/","tags":["Factory_Farming","Environment/Pollution","High_Income_Countries/USA","Pigs"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.907+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep731/","tags":["Factory_Farming","Environment/Pollution","High_Income_Countries/USA","Pigs"],"Year Published":"2024","AI suggested tags":["Activism","Working_Conditions","Narratives"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/the-smell-of-money-with-jamie-berger/","tags":["Factory_Farming","Environment/Pollution","High_Income_Countries/USA","Pigs"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-09-30T11:55:02.907-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep731/","tags":["Factory_Farming","Environment/Pollution","High_Income_Countries/USA","Pigs"],"Year Published":"2024","AI suggested tags":["Activism","Working_Conditions","Narratives"]}}
 ---
 
 Factory farms destroy lives, both animal and human. Jamie Berger joins us this week to discuss the making of the documentary The Smell of Money and the devastation caused to eastern North Carolina and its residents by this evil industry.

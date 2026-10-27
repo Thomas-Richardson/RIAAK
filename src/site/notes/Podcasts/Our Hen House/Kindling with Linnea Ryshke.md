@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/kindling-with-linnea-ryshke/","tags":["Animal_Ethics","Psychology","Farming","Narratives"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.815+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep651/","tags":["Animal_Ethics","Psychology","Farming","Narratives"],"Year Published":"2022","AI suggested tags":["Activism","Philosophy","Plant_Based"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/kindling-with-linnea-ryshke/","tags":["Animal_Ethics","Psychology","Farming","Narratives"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-10-18T01:41:07.702-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep651/","tags":["Animal_Ethics","Psychology","Farming","Narratives"],"Year Published":"2022","AI suggested tags":["Activism","Philosophy","Working_Conditions"]}}
 ---
 
 Visual artist and author Linnea Ryshke joins the podcast for a conversation about her recent book, Kindling, a collection of poems and mixed media artwork inspired by the artist’s difficult, but instructive, experience working as a laborer at an organic meat farm.

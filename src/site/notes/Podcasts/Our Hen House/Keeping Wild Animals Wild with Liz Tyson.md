@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/keeping-wild-animals-wild-with-liz-tyson/","tags":["Wild_Animals","Policy","High_Income_Countries/USA"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.813+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep763/","tags":["Wild_Animals","Policy","High_Income_Countries/USA"],"Year Published":"2024","AI suggested tags":["Animal_Ethics","Activism","Companion_Animals"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/keeping-wild-animals-wild-with-liz-tyson/","tags":["Wild_Animals","Policy","High_Income_Countries/USA"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-09-30T11:55:02.813-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep763/","tags":["Wild_Animals","Policy","High_Income_Countries/USA"],"Year Published":"2024","AI suggested tags":["Animal_Ethics","Activism","Companion_Animals"]}}
 ---
 
 We all love lions and tigers and bears (oh my!), but is seeing them in captivity really the way people should get to know them? Liz Tyson of Born Free USA joins us to discuss the organization’s goal of #KeepingWildlifeInTheWild, the legislative and policy work they are pursuing, and all about the monkeys of Texas!!

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/scarlet-spark-with-tania-luna/","tags":["Movement_Building","Movement_Strategy"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.876+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep727/","tags":["Movement_Building","Movement_Strategy"],"Year Published":"2023","AI suggested tags":["Activism","Tactics","Working_Conditions"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/scarlet-spark-with-tania-luna/","tags":["Movement_Building","Movement_Strategy"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-09-30T11:55:02.876-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep727/","tags":["Movement_Building","Movement_Strategy"],"Year Published":"2023","AI suggested tags":["Activism","Tactics","Working_Conditions"]}}
 ---
 
 Organizations in the animal protection movement are overflowing with passion, but how can they create more efficient systems and healthy workplaces? Tania Luna is here to tell us more about her organization, Scarlet Spark, which just might have the answers to make the movement more effective.

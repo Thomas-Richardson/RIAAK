@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/hungry-beautiful-animals-with-matthew-halteman/","tags":["Messaging","Narratives","Philosophy"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.800+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep775/","tags":["Messaging","Narratives","Philosophy"],"Year Published":"2024","AI suggested tags":["Animal_Ethics","Activism","Movement_Strategy"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/hungry-beautiful-animals-with-matthew-halteman/","tags":["Messaging","Narratives","Philosophy"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-09-30T11:55:02.800-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep775/","tags":["Messaging","Narratives","Philosophy"],"Year Published":"2024","AI suggested tags":["Animal_Ethics","Activism","Movement_Strategy"]}}
 ---
 
 Is the key to reaching more people with a vegan message to stop talking about the horrors that we want to end and start talking more about what we want to create? That’s what Matthew Halteman is aiming for with his new book Hungry, Beautiful Animals, and he joins us this week to discuss details of the book and his theory of change.

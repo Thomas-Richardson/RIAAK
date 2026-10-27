@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/scotch-and-hope-with-marc-bekoff/","tags":["Sentience","Animal_Ethics","Wild_Animals"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.878+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep749/","tags":["Sentience","Animal_Ethics","Wild_Animals"],"Year Published":"2024","AI suggested tags":["Philosophy","Narratives","Companion_Animals"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/scotch-and-hope-with-marc-bekoff/","tags":["Sentience","Animal_Ethics","Wild_Animals"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-09-30T11:55:02.878-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep749/","tags":["Sentience","Animal_Ethics","Wild_Animals"],"Year Published":"2024","AI suggested tags":["Philosophy","Narratives","Companion_Animals"]}}
 ---
 
 Darwin was onto something. So how did scientists then go so completely wrong in understanding who animals really are, and where are we now? This week, we are joined by field biologist, professor, and author Marc Bekoff for a glimpse into The Emotional Lives of Animals. We also hear more about his friendship with Jane Goodall and how that led to the recent Jane Goodall at 90 essay collection.

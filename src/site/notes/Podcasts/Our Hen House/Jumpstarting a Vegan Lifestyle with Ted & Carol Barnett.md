@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/jumpstarting-a-vegan-lifestyle-with-ted-and-carol-barnett/","tags":["Health/Nutrition","Diet_Change","High_Income_Countries/USA","Veganism"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.811+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep696/","tags":["Health/Nutrition","Diet_Change","High_Income_Countries/USA","Veganism"],"Year Published":"2023","AI suggested tags":["Plant_Based","Activism","Plant_Based/School_Meals"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/jumpstarting-a-vegan-lifestyle-with-ted-and-carol-barnett/","tags":["Health/Nutrition","Diet_Change","High_Income_Countries/USA","Veganism"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-10-18T01:41:07.701-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep696/","tags":["Health/Nutrition","Diet_Change","High_Income_Countries/USA","Veganism"],"Year Published":"2023","AI suggested tags":["Plant_Based_Diets","Activism","Plant_Based_Diets/School_Meals"]}}
 ---
 
 The Standard American Diet—heavy in dairy and meat products—has long been known to contribute to chronic, diet-related illnesses, including type 2 diabetes and heart disease. Long-time vegans know this quite well, but what about the general public?

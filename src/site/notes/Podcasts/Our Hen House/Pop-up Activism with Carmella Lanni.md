@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/pop-up-activism-with-carmella-lanni/","tags":["Activism","High_Income_Countries/USA","Plant_Based","Retailers"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.851+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep719/","tags":["Activism","High_Income_Countries/USA","Plant_Based","Retailers"],"Year Published":"2023","AI suggested tags":["Veganism","Tactics","Movement_Building"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/pop-up-activism-with-carmella-lanni/","tags":["Activism","High_Income_Countries/USA","Plant_Based_Diets","Retailers"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-10-18T01:41:07.711-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep719/","tags":["Activism","High_Income_Countries/USA","Plant_Based_Diets","Retailers"],"Year Published":"2023","AI suggested tags":["Veganism","Tactics","Movement_Building"]}}
 ---
 
 Philadelphia is known as a great destination for vegan food, but it wasn’t always so. This week we talk with Carmella Lanni, one of the activists who helps to cultivate the plant-based abundance Philly is known for via pop-up events and Philly Vegan Restaurant Week.

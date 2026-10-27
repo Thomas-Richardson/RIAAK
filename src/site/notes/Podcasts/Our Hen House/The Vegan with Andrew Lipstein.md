@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/the-vegan-with-andrew-lipstein/","tags":["Veganism","Narratives","High_Income_Countries/USA"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.914+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep725/","tags":["Veganism","Narratives","High_Income_Countries/USA"],"Year Published":"2023","AI suggested tags":["Plant_Based","Anthropology","Philosophy"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/the-vegan-with-andrew-lipstein/","tags":["Veganism","Narratives","High_Income_Countries/USA"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-10-18T01:41:07.721-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep725/","tags":["Veganism","Narratives","High_Income_Countries/USA"],"Year Published":"2023","AI suggested tags":["Plant_Based_Diets","Anthropology","Philosophy"]}}
 ---
 
 It’s not every day that you come across a book that has been reviewed in The New York Times with “vegan” in the title, but somehow Andrew Lipstein managed it. He joins us this week to discuss his latest novel, The Vegan.

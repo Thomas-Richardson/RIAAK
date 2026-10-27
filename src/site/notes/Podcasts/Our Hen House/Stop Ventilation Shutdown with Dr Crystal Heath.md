@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/stop-ventilation-shutdown-with-dr-crystal-heath/","tags":["Factory_Farming","Activism","Chickens","High_Income_Countries/USA"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.885+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep740/","tags":["Factory_Farming","Activism","Chickens","High_Income_Countries/USA"],"Year Published":"2024","AI suggested tags":["Tactics","Turkeys","Working_Conditions"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/stop-ventilation-shutdown-with-dr-crystal-heath/","tags":["Factory_Farming","Activism","Chickens","High_Income_Countries/USA"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-09-30T11:55:02.885-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep740/","tags":["Factory_Farming","Activism","Chickens","High_Income_Countries/USA"],"Year Published":"2024","AI suggested tags":["Tactics","Turkeys","Working_Conditions"]}}
 ---
 
 The work of activists brought the use of ventilation shutdown as a “depopulation” method during avian flu and COVID slowdowns to light, but what is the status of this cruel method of killing? Dr. Crystal Heath joins us once again to discuss the use of heat stroke in factory farms and the campaigns to combat this cruelty.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/juicy-marbles-with-vladimir-mickovic/","tags":["Alternative_Proteins/Plant_Based","Plant_Based/Marketing","Messaging","Europe"],"created":"2026-09-06T06:49:41.000+01:00","updated":"2026-09-30T19:55:02.810+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep761/","tags":["Alternative_Proteins/Plant_Based","Plant_Based/Marketing","Messaging","Europe"],"Year Published":"2024","AI suggested tags":["Plant_Based","Activism","Veganism"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/juicy-marbles-with-vladimir-mickovic/","tags":["Alternative_Proteins/Plant_Based","Marketing","Messaging","Europe"],"created":"2026-09-05T22:49:41.000-07:00","updated":"2026-10-18T01:41:07.701-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep761/","tags":["Alternative_Proteins/Plant_Based","Marketing","Messaging","Europe"],"Year Published":"2024","AI suggested tags":["Activism","Plant_Based_Diets","Veganism"]}}
 ---
 
 There are hundreds of vegan burgers on the market to help take cows off the menu, but what to do about steak lovers? Enter Juicy Marbles, whose Chief Brand Officer, Vladimir Mićković, joins us this week to give us the scoop on their plant-based whole cuts and the vegan scene in their home country of Slovenia.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/lady-freethinker-combats-cruelty-with-nina-jackel/","tags":["Activism","Tactics","Messaging"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.817+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep774/","tags":["Activism","Tactics","Messaging"],"Year Published":"2024","AI suggested tags":["Narratives","Movement_Strategy","High_Income_Countries/USA"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/lady-freethinker-combats-cruelty-with-nina-jackel/","tags":["Activism","Tactics","Messaging"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-09-30T11:55:02.817-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep774/","tags":["Activism","Tactics","Messaging"],"Year Published":"2024","AI suggested tags":["Narratives","Movement_Strategy","High_Income_Countries/USA"]}}
 ---
 
 From unmasking fake “rescues” on social media to getting stories placed in major media outlets, the work of Lady Freethinker tells people all over the world about some of the worst things that are happening to animals and, crucially, what they can do about it. This week, we are joined by Nina Jackel to hear about her work publicizing and fighting to shut down cruelty to animals.

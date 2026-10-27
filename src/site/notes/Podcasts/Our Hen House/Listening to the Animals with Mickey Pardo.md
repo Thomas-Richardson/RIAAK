@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/listening-to-the-animals-with-mickey-pardo/","tags":["Wild_Animals","Sentience","Activism","High_Income_Countries/USA"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.818+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep751/","tags":["Wild_Animals","Sentience","Activism","High_Income_Countries/USA"],"Year Published":"2024","AI suggested tags":["Animal_Ethics","Law","Tactics"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/listening-to-the-animals-with-mickey-pardo/","tags":["Wild_Animals","Sentience","Activism","High_Income_Countries/USA"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-09-30T11:55:02.818-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep751/","tags":["Wild_Animals","Sentience","Activism","High_Income_Countries/USA"],"Year Published":"2024","AI suggested tags":["Animal_Ethics","Law","Tactics"]}}
 ---
 
 We all wish for the superpower to understand what animals are communicating. This week, we are joined by biologist Mickey Pardo to discuss his work studying animal communication and social cognition in animals ranging from elephants to woodpeckers.

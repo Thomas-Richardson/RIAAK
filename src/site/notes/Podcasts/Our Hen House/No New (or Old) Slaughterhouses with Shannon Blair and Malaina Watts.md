@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/no-new-or-old-slaughterhouses-with-shannon-blair-and-malaina-watts/","tags":["High_Income_Countries/USA","Meat_Industry","Tactics"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.832+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep766/","tags":["High_Income_Countries/USA","Meat_Industry","Tactics"],"Year Published":"2024","AI suggested tags":["Activism","Plant_Based","Working_Conditions"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/no-new-or-old-slaughterhouses-with-shannon-blair-and-malaina-watts/","tags":["High_Income_Countries/USA","Meat_Industry","Tactics"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-10-18T01:41:07.707-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep766/","tags":["High_Income_Countries/USA","Meat_Industry","Tactics"],"Year Published":"2024","AI suggested tags":["Activism","Working_Conditions","Narratives"]}}
 ---
 
 Without slaughterhouses, animal agriculture is over. So let’s do it! This week, we are joined by Shannon Blair and Malaina Watts, who both worked tirelessly to block the creation of two new slaughterhouses in Florida and helped put an end to an illegal slaughter operation as well.

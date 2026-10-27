@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/sanctuary-for-everybody-with-sarah-salluzo-and-jonina-turzi/","tags":["Activism","High_Income_Countries/USA","Movement_Building"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.870+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep767/","tags":["Activism","High_Income_Countries/USA","Movement_Building"],"Year Published":"2024","AI suggested tags":["Animal_Ethics","Turkeys","Narratives"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/sanctuary-for-everybody-with-sarah-salluzo-and-jonina-turzi/","tags":["Activism","High_Income_Countries/USA","Movement_Building"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-09-30T11:55:02.870-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep767/","tags":["Activism","High_Income_Countries/USA","Movement_Building"],"Year Published":"2024","AI suggested tags":["Animal_Ethics","Turkeys","Narratives"]}}
 ---
 
 Sanctuaries play a vital role in connecting people to the victims of animal agriculture. This week, we are joined by Sarah Salluzo & Jonina Turzi, co-founders of Lancaster Farm Sanctuary, to discuss the sanctuary, its residents, and the challenges that come along with running a refuge.

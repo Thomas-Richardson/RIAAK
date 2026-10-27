@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/literary-animals-with-sangamithra-iyer/","tags":["Animal_Ethics","Narratives"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.819+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep728/","tags":["Animal_Ethics","Narratives"],"Year Published":"2023","AI suggested tags":["Companion_Animals","Philosophy","Wild_Animals"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/literary-animals-with-sangamithra-iyer/","tags":["Animal_Ethics","Narratives"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-09-30T11:55:02.819-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep728/","tags":["Animal_Ethics","Narratives"],"Year Published":"2023","AI suggested tags":["Companion_Animals","Philosophy","Wild_Animals"]}}
 ---
 
 It isn’t easy to write about animals, especially if the goal is to actually portray them as they are and not just use them, as so often happens, as symbols, metaphors, and mirrors. In order to confront these difficulties, Sangamithra Iyer recently launched The Literary Animal Project to bring writers and readers into conversation to explore the many quandaries in writing about animals and try to find effective, and literary, ways forward.

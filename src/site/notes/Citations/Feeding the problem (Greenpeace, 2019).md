@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/feeding-the-problem-greenpeace-2019/","tags":["Animal_Feed","Environment/Land","Farming"],"created":"2025-10-23T17:42:45.259+01:00","updated":"2026-09-30T19:55:01.567+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Animal_Feed","Environment/Land","Farming"],"AI suggested tags":["EU","Food_Security","Farmers"]}}
+{"dg-publish":true,"permalink":"/citations/feeding-the-problem-greenpeace-2019/","tags":["Animal_Feed","Environment/Land","Farming"],"created":"2025-10-23T09:42:45.259-07:00","updated":"2026-09-30T11:55:01.567-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Animal_Feed","Environment/Land","Farming"],"AI suggested tags":["EU","Food_Security","Farmers"]}}
 ---
 
 https://www.greenpeace.org/static/planet4-eu-unit-stateless/2019/02/83254ee1-190212-feeding-the-problem-dangerous-intensification-of-animal-farming-in-europe.pdf

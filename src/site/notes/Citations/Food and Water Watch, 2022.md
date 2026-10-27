@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/food-and-water-watch-2022/","tags":["Citation","Factory_Farming","Farming","Pigs"],"created":"2025-10-23T17:42:44.536+01:00","updated":"2026-09-30T19:55:01.595+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Citation","Factory_Farming","Farming","Pigs"],"AI suggested tags":["USA","Economics/Jobs","Farmers"]}}
+{"dg-publish":true,"permalink":"/citations/food-and-water-watch-2022/","tags":["Citation","Factory_Farming","Farming","Pigs"],"created":"2025-10-23T09:42:44.536-07:00","updated":"2026-09-30T11:55:01.595-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Citation","Factory_Farming","Farming","Pigs"],"AI suggested tags":["USA","Economics/Jobs","Farmers"]}}
 ---
 
 

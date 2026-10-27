@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/financing-the-transition-to-cage-free-farming-in-the-eu-institute-for-european-environmental-policy-et-al/","tags":["EU","Policy","Economics/Costs","Farmers"],"created":"2026-06-28T17:06:55.000+01:00","updated":"2026-09-30T19:55:01.579+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["EU","Policy","Economics/Costs","Farmers"],"source_url":"https://www.eurogroupforanimals.org/files/eurogroupforanimals/2026-05/07%2005%202026_financing-the-transition-to-cage-free-farming_report_IEEP_eng.pdf","created":"2026-06-26","AI suggested tags":["Eggs","Economics","Chickens"]}}
+{"dg-publish":true,"permalink":"/citations/financing-the-transition-to-cage-free-farming-in-the-eu-institute-for-european-environmental-policy-et-al/","tags":["EU","Policy","Economics/Costs","Farmers"],"created":"2026-06-28T09:06:55.000-07:00","updated":"2026-09-30T11:55:01.579-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["EU","Policy","Economics/Costs","Farmers"],"source_url":"https://www.eurogroupforanimals.org/files/eurogroupforanimals/2026-05/07%2005%202026_financing-the-transition-to-cage-free-farming_report_IEEP_eng.pdf","created":"2026-06-26","AI suggested tags":["Eggs","Economics","Chickens"]}}
 ---
 
 

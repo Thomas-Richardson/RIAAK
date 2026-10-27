@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/future-proofing-the-cap-rebalancing-eu-subsidies-toward-plant-based-production-food-forward-europe-et-al/","tags":["EU","Policy/Food_Policy","Alternative_Proteins/Plant_Based","Animal_Feed"],"created":"2026-06-24T17:02:32.000+01:00","updated":"2026-09-30T19:55:01.609+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["EU","Policy/Food_Policy","Alternative_Proteins/Plant_Based","Animal_Feed"],"source_url":"https://worldanimaljustice.org/wp-content/uploads/2026/04/FFE-REPORT-Future-Proofing-the-CAP-2026.pdf","created":"2026-04-20","AI suggested tags":["Economics","Food_Security","Environment/Land"]}}
+{"dg-publish":true,"permalink":"/citations/future-proofing-the-cap-rebalancing-eu-subsidies-toward-plant-based-production-food-forward-europe-et-al/","tags":["EU","Policy/Food_Policy","Alternative_Proteins/Plant_Based","Animal_Feed"],"created":"2026-06-24T09:02:32.000-07:00","updated":"2026-09-30T11:55:01.609-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["EU","Policy/Food_Policy","Alternative_Proteins/Plant_Based","Animal_Feed"],"source_url":"https://worldanimaljustice.org/wp-content/uploads/2026/04/FFE-REPORT-Future-Proofing-the-CAP-2026.pdf","created":"2026-04-20","AI suggested tags":["Economics","Food_Security","Environment/Land"]}}
 ---
 
 

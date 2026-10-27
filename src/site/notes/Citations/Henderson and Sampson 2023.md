@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/henderson-and-sampson-2023/","tags":["Economics/Costs","Health/Nutrition","Veganism"],"created":"2025-10-23T17:42:46.942+01:00","updated":"2026-09-30T19:55:01.665+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Economics/Costs","Health/Nutrition","Veganism"],"AI suggested tags":["CAWF_NHS","Health","Citation"]}}
+{"dg-publish":true,"permalink":"/citations/henderson-and-sampson-2023/","tags":["Economics/Costs","Health/Nutrition","Veganism"],"created":"2025-10-23T09:42:46.942-07:00","updated":"2026-10-18T01:41:07.639-07:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Economics/Costs","Health/Nutrition","Veganism"],"AI suggested tags":["Health","Citation","Bryant_Research/Project/CAWF_NHS"]}}
 ---
 
 

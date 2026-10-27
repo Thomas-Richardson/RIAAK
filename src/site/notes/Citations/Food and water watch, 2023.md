@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/food-and-water-watch-2023/","tags":["Citation","Dairy","Factory_Farming","High_Income_Countries/USA"],"created":"2025-10-23T17:42:44.718+01:00","updated":"2026-09-30T19:55:01.597+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Citation","Dairy","Factory_Farming","High_Income_Countries/USA"],"AI suggested tags":["USA","Farming","Cows"]}}
+{"dg-publish":true,"permalink":"/citations/food-and-water-watch-2023/","tags":["Citation","Dairy","Factory_Farming","High_Income_Countries/USA"],"created":"2025-10-23T09:42:44.718-07:00","updated":"2026-09-30T11:55:01.597-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Citation","Dairy","Factory_Farming","High_Income_Countries/USA"],"AI suggested tags":["USA","Farming","Cows"]}}
 ---
 
 

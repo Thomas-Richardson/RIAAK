@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/historical-farmed-animal-welfare-ballot-initiatives-rethink-priorities/","tags":["Chickens","High_Income_Countries/USA"],"created":"2025-10-23T17:42:44.761+01:00","updated":"2026-09-30T19:55:01.670+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/a-cost-effectiveness-analysis-of-historical-farmed-animal-welfare-ballot-initiatives/","tags":["Chickens","High_Income_Countries/USA"],"Year Published":"2023","AI suggested tags":["Strategy","Research/Methods","Policy"]}}
+{"dg-publish":true,"permalink":"/citations/historical-farmed-animal-welfare-ballot-initiatives-rethink-priorities/","tags":["Chickens","High_Income_Countries/USA"],"created":"2025-10-23T09:42:44.761-07:00","updated":"2026-09-30T11:55:01.670-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/a-cost-effectiveness-analysis-of-historical-farmed-animal-welfare-ballot-initiatives/","tags":["Chickens","High_Income_Countries/USA"],"Year Published":"2023","AI suggested tags":["Strategy","Research/Methods","Policy"]}}
 ---
 
 ## Executive Summary

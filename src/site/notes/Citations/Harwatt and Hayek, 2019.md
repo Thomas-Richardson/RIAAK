@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/harwatt-and-hayek-2019/","tags":["Environment/GHG","Animal_Feed","Bryant_Research/Project/CAWF_Food_Sec","Citation","Environment/Land","Food_Security","Wild_Animals"],"created":"2025-10-23T17:42:44.331+01:00","updated":"2026-10-01T06:57:09.862+01:00","dg-note-properties":{"tags":["Environment/GHG","Animal_Feed","Bryant_Research/Project/CAWF_Food_Sec","Citation","Environment/Land","Food_Security","Wild_Animals"],"Note Type":"undefined","AI suggested tags":["Farming","Cows","UK"]}}
+{"dg-publish":true,"permalink":"/citations/harwatt-and-hayek-2019/","tags":["Environment/GHG","Animal_Feed","Bryant_Research/Project/CAWF_Food_Sec","Citation","Environment/Land","Food_Security","Wild_Animals"],"created":"2025-10-23T09:42:44.331-07:00","updated":"2026-09-30T22:57:09.862-07:00","dg-note-properties":{"tags":["Environment/GHG","Animal_Feed","Bryant_Research/Project/CAWF_Food_Sec","Citation","Environment/Land","Food_Security","Wild_Animals"],"Note Type":"undefined","AI suggested tags":["Farming","Cows","UK"]}}
 ---
 
 

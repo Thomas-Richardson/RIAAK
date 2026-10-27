@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/garcia-de-jalon-et-al-2026/","tags":["EU","Research/Methods","Food_Security","Diet"],"created":"2026-07-15T12:19:39.000+01:00","updated":"2026-09-30T19:55:01.613+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.sciencedirect.com/science/article/abs/pii/S2949824426002600","tags":["EU","Research/Methods","Food_Security","Diet"],"Year Published":"2026","AI suggested tags":["Citation","Meat/Meat_Consumption","Review"]}}
+{"dg-publish":true,"permalink":"/citations/garcia-de-jalon-et-al-2026/","tags":["EU","Research/Methods","Food_Security","Diet"],"created":"2026-07-15T04:19:39.000-07:00","updated":"2026-09-30T11:55:01.613-07:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.sciencedirect.com/science/article/abs/pii/S2949824426002600","tags":["EU","Research/Methods","Food_Security","Diet"],"Year Published":"2026","AI suggested tags":["Citation","Meat/Meat_Consumption","Review"]}}
 ---
 
 ## Highlights

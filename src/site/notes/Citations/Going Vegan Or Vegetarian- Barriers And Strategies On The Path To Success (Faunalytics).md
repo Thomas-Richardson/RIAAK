@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/going-vegan-or-vegetarian-barriers-and-strategies-on-the-path-to-success-faunalytics/","tags":["Retention","Veg_Diets","Psychology","Behaviour_Change"],"created":"2026-01-28T10:55:12.124+00:00","updated":"2026-09-30T19:55:01.630+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/going-veg-barriers-and-strategies/","tags":["Retention","Veg_Diets","Psychology","Behaviour_Change"],"Year Published":"2022","AI suggested tags":["Consumer_Research","Meat/Meat_Reduction","Consumer_Attitudes"]}}
+{"dg-publish":true,"permalink":"/citations/going-vegan-or-vegetarian-barriers-and-strategies-on-the-path-to-success-faunalytics/","tags":["Retention","Veg_Diets","Psychology","Behaviour_Change"],"created":"2026-01-28T02:55:12.124-08:00","updated":"2026-09-30T11:55:01.630-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/going-veg-barriers-and-strategies/","tags":["Retention","Veg_Diets","Psychology","Behaviour_Change"],"Year Published":"2022","AI suggested tags":["Consumer_Research","Meat/Meat_Reduction","Consumer_Attitudes"]}}
 ---
 
 ### Background

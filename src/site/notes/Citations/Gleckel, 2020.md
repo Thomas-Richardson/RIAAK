@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/gleckel-2020/","tags":["Policy/Labeling"],"created":"2025-10-23T17:42:46.380+01:00","updated":"2026-10-01T13:49:34.812+01:00","dg-note-properties":{"tags":["Policy/Labeling"],"AI suggested tags":["Plant_Based/Marketing","Report","Consumer_Research"],"Url":"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3727710"}}
+{"dg-publish":true,"permalink":"/citations/gleckel-2020/","tags":["Policy/Labeling"],"created":"2025-10-23T09:42:46.380-07:00","updated":"2026-10-18T01:41:07.637-07:00","dg-note-properties":{"tags":["Policy/Labeling"],"Url":"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3727710","AI suggested tags":["Report","Consumer_Research","Marketing"]}}
 ---
 
 

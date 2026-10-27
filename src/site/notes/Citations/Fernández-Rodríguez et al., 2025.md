@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/fernandez-rodriguez-et-al-2025/","tags":["Alternative_Proteins/Plant_Based","Health/Nutrition","Review","Meat"],"created":"2025-12-10T12:43:35.419+00:00","updated":"2026-09-30T19:55:01.572+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.sciencedirect.com/science/article/abs/pii/S000291652401428X","tags":["Alternative_Proteins/Plant_Based","Health/Nutrition","Review","Meat"],"Year Published":"2025","AI suggested tags":["Legumes","Meat/Red_Meat","Diet"]}}
+{"dg-publish":true,"permalink":"/citations/fernandez-rodriguez-et-al-2025/","tags":["Alternative_Proteins/Plant_Based","Health/Nutrition","Review","Meat"],"created":"2025-12-10T04:43:35.419-08:00","updated":"2026-09-30T11:55:01.572-07:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.sciencedirect.com/science/article/abs/pii/S000291652401428X","tags":["Alternative_Proteins/Plant_Based","Health/Nutrition","Review","Meat"],"Year Published":"2025","AI suggested tags":["Legumes","Meat/Red_Meat","Diet"]}}
 ---
 
 ### Background

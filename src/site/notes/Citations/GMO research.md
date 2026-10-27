@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/gmo-research/","tags":["Asia","Citation","Lower_Middle_Income_Countries"],"created":"2025-10-23T17:42:46.770+01:00","updated":"2026-10-01T06:57:09.840+01:00","dg-note-properties":{"tags":["Asia","Citation","Lower_Middle_Income_Countries"],"AI suggested tags":["Consumer_Research","SE_Asia","Consumer_Attitudes"]}}
+{"dg-publish":true,"permalink":"/citations/gmo-research/","tags":["Asia","Citation","Lower_Middle_Income_Countries"],"created":"2025-10-23T09:42:46.770-07:00","updated":"2026-09-30T22:57:09.840-07:00","dg-note-properties":{"tags":["Asia","Citation","Lower_Middle_Income_Countries"],"AI suggested tags":["Consumer_Research","SE_Asia","Consumer_Attitudes"]}}
 ---
 
 

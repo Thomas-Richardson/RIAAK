@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/herforth-et-al-2022/","tags":["Citation","Economics","Health/Nutrition"],"created":"2025-10-23T17:42:46.487+01:00","updated":"2026-09-30T19:55:01.666+01:00","dg-note-properties":{"tags":["Citation","Economics","Health/Nutrition"],"AI suggested tags":["Economics/Costs","MFA_Food_Sec","Lower_Middle_Income_Countries"]}}
+{"dg-publish":true,"permalink":"/citations/herforth-et-al-2022/","tags":["Citation","Economics","Health/Nutrition"],"created":"2025-10-23T09:42:46.487-07:00","updated":"2026-09-30T11:55:01.666-07:00","dg-note-properties":{"tags":["Citation","Economics","Health/Nutrition"],"AI suggested tags":["Economics/Costs","MFA_Food_Sec","Lower_Middle_Income_Countries"]}}
 ---
 
 

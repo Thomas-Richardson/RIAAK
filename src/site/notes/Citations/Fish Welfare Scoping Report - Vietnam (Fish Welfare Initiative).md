@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/fish-welfare-scoping-report-vietnam-fish-welfare-initiative/","tags":["Fish/Farmed","SE_Asia","Strategy"],"created":"2025-10-26T17:33:14.630+00:00","updated":"2026-09-30T19:55:01.584+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Fish/Farmed","SE_Asia","Strategy"],"source_url":"https://files.fwi.fish/Scoping_Report_Vietnam.pdf","created":"2025-10-26","AI suggested tags":["Fish","Asia","China"]}}
+{"dg-publish":true,"permalink":"/citations/fish-welfare-scoping-report-vietnam-fish-welfare-initiative/","tags":["Fish/Farmed","SE_Asia","Strategy"],"created":"2025-10-26T10:33:14.630-07:00","updated":"2026-09-30T11:55:01.584-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Fish/Farmed","SE_Asia","Strategy"],"source_url":"https://files.fwi.fish/Scoping_Report_Vietnam.pdf","created":"2025-10-26","AI suggested tags":["Fish","Asia","China"]}}
 ---
 
 

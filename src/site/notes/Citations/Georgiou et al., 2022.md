@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/georgiou-et-al-2022/","tags":["Environment/GHG","Citation"],"created":"2025-10-23T17:42:44.768+01:00","updated":"2026-09-30T19:55:01.616+01:00","dg-note-properties":{"tags":["Environment/GHG","Citation"],"AI suggested tags":["Environment/Land","Grazing","Cattle/Grass_Fed_Cattle"]}}
+{"dg-publish":true,"permalink":"/citations/georgiou-et-al-2022/","tags":["Environment/GHG","Citation"],"created":"2025-10-23T09:42:44.768-07:00","updated":"2026-09-30T11:55:01.616-07:00","dg-note-properties":{"tags":["Environment/GHG","Citation"],"AI suggested tags":["Environment/Land","Grazing","Cattle/Grass_Fed_Cattle"]}}
 ---
 
 

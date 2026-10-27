@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/farvid-et-al-2021/","tags":["Citation","Cows","Meat"],"created":"2025-10-23T17:42:46.757+01:00","updated":"2026-10-01T06:57:09.828+01:00","dg-note-properties":{"tags":["Citation","Cows","Meat"],"AI suggested tags":["Meat/Red_Meat","Diet","Health/Nutrition"]}}
+{"dg-publish":true,"permalink":"/citations/farvid-et-al-2021/","tags":["Citation","Cows","Meat"],"created":"2025-10-23T09:42:46.757-07:00","updated":"2026-09-30T22:57:09.828-07:00","dg-note-properties":{"tags":["Citation","Cows","Meat"],"AI suggested tags":["Meat/Red_Meat","Diet","Health/Nutrition"]}}
 ---
 
 

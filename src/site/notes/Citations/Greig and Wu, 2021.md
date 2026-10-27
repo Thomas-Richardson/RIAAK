@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/greig-and-wu-2021/","tags":["Citation","Cows","Economics"],"created":"2025-10-23T17:42:44.544+01:00","updated":"2026-09-30T19:55:01.647+01:00","dg-note-properties":{"tags":["Citation","Cows","Economics"],"AI suggested tags":["Environment/GHG","Environment/Land","Meat"]}}
+{"dg-publish":true,"permalink":"/citations/greig-and-wu-2021/","tags":["Citation","Cows","Economics"],"created":"2025-10-23T09:42:44.544-07:00","updated":"2026-09-30T11:55:01.647-07:00","dg-note-properties":{"tags":["Citation","Cows","Economics"],"AI suggested tags":["Environment/GHG","Environment/Land","Meat"]}}
 ---
 
 

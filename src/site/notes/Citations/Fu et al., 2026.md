@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/fu-et-al-2026/","tags":["Alternative_Proteins/Plant_Based","Health/Nutrition","SE_Asia"],"created":"2026-04-12T18:01:16.000+01:00","updated":"2026-09-30T19:55:01.607+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.sciencedirect.com/science/article/abs/pii/S0261561426000373","tags":["Alternative_Proteins/Plant_Based","Health/Nutrition","SE_Asia"],"Year Published":"2026","AI suggested tags":["Review","Citation","Meat"]}}
+{"dg-publish":true,"permalink":"/citations/fu-et-al-2026/","tags":["Alternative_Proteins/Plant_Based","Health/Nutrition","SE_Asia"],"created":"2026-04-12T10:01:16.000-07:00","updated":"2026-09-30T11:55:01.607-07:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.sciencedirect.com/science/article/abs/pii/S0261561426000373","tags":["Alternative_Proteins/Plant_Based","Health/Nutrition","SE_Asia"],"Year Published":"2026","AI suggested tags":["Review","Citation","Meat"]}}
 ---
 
 ### Background and aim

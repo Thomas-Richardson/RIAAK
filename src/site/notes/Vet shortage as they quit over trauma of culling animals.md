@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vet-shortage-as-they-quit-over-trauma-of-culling-animals/","tags":["Economics/Jobs"],"created":"2025-11-06T16:38:10.687+00:00","updated":"2026-09-30T19:55:03.577+01:00","dg-note-properties":{"Note Type":"News Report / Blog","Url":"https://archive.ph/08TKw","tags":["Economics/Jobs"],"AI suggested tags":["Health/Disease","Factory_Farming","Pigs"]}}
+{"dg-publish":true,"permalink":"/vet-shortage-as-they-quit-over-trauma-of-culling-animals/","tags":["Economics/Jobs"],"created":"2025-11-06T08:38:10.687-08:00","updated":"2026-09-30T11:55:03.577-07:00","dg-note-properties":{"Note Type":"News Report / Blog","Url":"https://archive.ph/08TKw","tags":["Economics/Jobs"],"AI suggested tags":["Health/Disease","Factory_Farming","Pigs"]}}
 ---
 
 ![vet at a farm with cows](https://www.telegraph.co.uk/content/dam/business/2025/11/05/TELEMMGLPICT000447719893_17623345995890_trans_NvBQzQNjv4BqgsaO8O78rhmZrDxTlQBjdLdu0TL-Cg_AMOUqySXmFgU.jpeg?imwidth=1280)

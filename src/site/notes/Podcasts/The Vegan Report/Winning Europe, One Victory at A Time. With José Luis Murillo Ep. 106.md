@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/winning-europe-one-victory-at-a-time-with-jose-luis-murillo-ep-106/","tags":["Europe","Policy","Corporate_Campaigns","Movement_Strategy"],"created":"2026-07-15T12:19:42.000+01:00","updated":"2026-09-30T19:55:03.372+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2514441","tags":["Europe","Policy","Corporate_Campaigns","Movement_Strategy"],"Year Published":"2026","AI suggested tags":["Tactics","Activism","Philosophy"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/winning-europe-one-victory-at-a-time-with-jose-luis-murillo-ep-106/","tags":["Europe","Policy","Corporate_Campaigns","Movement_Strategy"],"created":"2026-07-15T04:19:42.000-07:00","updated":"2026-09-30T11:55:03.372-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2514441","tags":["Europe","Policy","Corporate_Campaigns","Movement_Strategy"],"Year Published":"2026","AI suggested tags":["Tactics","Activism","Philosophy"]}}
 ---
 
 Today, we travel to Europe where there is a fierce political fight taking place for the animals.

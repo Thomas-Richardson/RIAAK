@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/veganizing-the-middle-east-with-maya-kawas-ep-101/","tags":["Middle_East","Veganism","Messaging"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T19:55:03.349+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2377059","tags":["Middle_East","Veganism","Messaging"],"Year Published":"2025","AI suggested tags":["Activism","Plant_Based","Tactics"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/veganizing-the-middle-east-with-maya-kawas-ep-101/","tags":["Middle_East","Veganism","Messaging"],"created":"2026-07-10T06:24:39.000-07:00","updated":"2026-10-18T01:41:07.781-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2377059","tags":["Middle_East","Veganism","Messaging"],"Year Published":"2025","AI suggested tags":["Activism","Plant_Based_Diets","Tactics"]}}
 ---
 
 We travel to Lebanon to meet an amazing animal rights activist who is harnessing the power of social media to spread the vegan message across the Arab world. Her name is Maya Kawas, she is a Muay Thai fighter and a journalist with over 300K followers on Instagram.

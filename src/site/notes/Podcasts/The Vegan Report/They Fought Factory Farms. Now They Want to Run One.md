@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/they-fought-factory-farms-now-they-want-to-run-one/","tags":["AI","Movement_Strategy","Factory_Farming","Animal_Ethics"],"created":"2026-10-01T06:56:11.497+01:00","updated":"2026-10-01T06:57:10.494+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/3127284","tags":["AI","Movement_Strategy","Factory_Farming","Animal_Ethics"],"Year Published":"2026","AI suggested tags":["Tactics","Activism","Narratives"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/they-fought-factory-farms-now-they-want-to-run-one/","tags":["AI","Movement_Strategy","Factory_Farming","Animal_Ethics"],"created":"2026-09-30T22:56:11.497-07:00","updated":"2026-09-30T22:57:10.494-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/3127284","tags":["AI","Movement_Strategy","Factory_Farming","Animal_Ethics"],"Year Published":"2026","AI suggested tags":["Tactics","Activism","Narratives"]}}
 ---
 
 What if I told you that the best way to fight for animals was for animal advocates to open and run a factory farm? You heard me right. It sounds absolutely ridiculous, yet this is far from a joke. This is a very serious unfolding plan backed by millions of dollars in funding. And this will have dire implications for our entire movement.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/prejudice-against-vegans/","tags":["Psychology","Veganism"],"created":"2025-10-23T17:42:43.152+01:00","updated":"2026-09-30T19:55:03.382+01:00","dg-note-properties":{"tags":["Psychology","Veganism"],"AI suggested tags":["Veg_Diets","Bryant_Research","Behaviour_Change"]}}
+{"dg-publish":true,"permalink":"/prejudice-against-vegans/","tags":["Psychology","Veganism"],"created":"2025-10-23T09:42:43.152-07:00","updated":"2026-09-30T11:55:03.382-07:00","dg-note-properties":{"tags":["Psychology","Veganism"],"AI suggested tags":["Veg_Diets","Bryant_Research","Behaviour_Change"]}}
 ---
 
 

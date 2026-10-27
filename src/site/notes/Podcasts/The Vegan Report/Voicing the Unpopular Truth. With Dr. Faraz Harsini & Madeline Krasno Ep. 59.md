@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/voicing-the-unpopular-truth-with-dr-faraz-harsini-and-madeline-krasno-ep-59/","tags":["Activism","Law","Politics"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T19:55:03.355+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/1794406","tags":["Activism","Law","Politics"],"Year Published":"2024","AI suggested tags":["Tactics","Narratives","High_Income_Countries/USA"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/voicing-the-unpopular-truth-with-dr-faraz-harsini-and-madeline-krasno-ep-59/","tags":["Activism","Law","Politics"],"created":"2026-07-10T06:24:39.000-07:00","updated":"2026-09-30T11:55:03.355-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/1794406","tags":["Activism","Law","Politics"],"Year Published":"2024","AI suggested tags":["Tactics","Narratives","High_Income_Countries/USA"]}}
 ---
 
 Today, we address the free speech threats animal rights rights activists face everyday, from social media censorship and reputational harm to detention. We will explore the risks of talking for animals in a world where animal exploitation is the norm.

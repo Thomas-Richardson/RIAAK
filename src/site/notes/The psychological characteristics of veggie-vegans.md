@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-psychological-characteristics-of-veggie-vegans/","tags":["Psychology","Veganism"],"created":"2025-10-23T17:42:47.954+01:00","updated":"2026-09-30T19:55:03.531+01:00","dg-note-properties":{"tags":["Psychology","Veganism"],"AI suggested tags":["Veg_Diets","Retention","Behaviour_Change"]}}
+{"dg-publish":true,"permalink":"/the-psychological-characteristics-of-veggie-vegans/","tags":["Psychology","Veganism"],"created":"2025-10-23T09:42:47.954-07:00","updated":"2026-09-30T11:55:03.531-07:00","dg-note-properties":{"tags":["Psychology","Veganism"],"AI suggested tags":["Veg_Diets","Retention","Behaviour_Change"]}}
 ---
 
 

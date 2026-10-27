@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/vegan-witchcraft-with-corey-lee-wrenn-ep-103/","tags":["Philosophy","Veganism","Movement_Strategy"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T19:55:03.344+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2456045","tags":["Philosophy","Veganism","Movement_Strategy"],"Year Published":"2026","AI suggested tags":["Animal_Ethics","Anthropology","Activism"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/vegan-witchcraft-with-corey-lee-wrenn-ep-103/","tags":["Philosophy","Veganism","Movement_Strategy"],"created":"2026-07-10T06:24:39.000-07:00","updated":"2026-09-30T11:55:03.344-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2456045","tags":["Philosophy","Veganism","Movement_Strategy"],"Year Published":"2026","AI suggested tags":["Animal_Ethics","Anthropology","Activism"]}}
 ---
 
 Today, we discuss the topic of witchcraft with Dr. Corey Lee Wrenn, the author of the book the Vegan Witchcraft.

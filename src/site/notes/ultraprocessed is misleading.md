@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ultraprocessed-is-misleading/","tags":["Alternative_Proteins","Health/Nutrition"],"created":"2025-10-23T17:42:43.718+01:00","updated":"2026-09-30T19:55:03.656+01:00","dg-note-properties":{"tags":["Alternative_Proteins","Health/Nutrition"],"AI suggested tags":["UPF","Diet","Policy/Labeling"]}}
+{"dg-publish":true,"permalink":"/ultraprocessed-is-misleading/","tags":["Alternative_Proteins","Health/Nutrition"],"created":"2025-10-23T09:42:43.718-07:00","updated":"2026-09-30T11:55:03.656-07:00","dg-note-properties":{"tags":["Alternative_Proteins","Health/Nutrition"],"AI suggested tags":["UPF","Diet","Policy/Labeling"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/weaponising-disgust-for-animal-freedom-project-slingshot/","tags":["Strategy"],"created":"2026-01-06T09:17:36.873+00:00","updated":"2026-09-30T19:55:03.586+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Strategy"],"created":null,"AI suggested tags":["Consumer_Attitudes","Factory_Farming","Health/Disease"]}}
+{"dg-publish":true,"permalink":"/weaponising-disgust-for-animal-freedom-project-slingshot/","tags":["Strategy"],"created":"2026-01-06T01:17:36.873-08:00","updated":"2026-09-30T11:55:03.586-07:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Strategy"],"created":null,"AI suggested tags":["Consumer_Attitudes","Factory_Farming","Health/Disease"]}}
 ---
 
 # Narrative frames

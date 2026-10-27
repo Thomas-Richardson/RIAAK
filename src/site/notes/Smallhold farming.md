@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/smallhold-farming/","tags":["Farming","Lower_Middle_Income_Countries"],"created":"2025-10-23T17:42:47.392+01:00","updated":"2026-09-30T19:55:03.466+01:00","dg-note-properties":{"tags":["Farming","Lower_Middle_Income_Countries"],"AI suggested tags":["MFA_Food_Sec","Economics/Jobs","Animal_Feed"]}}
+{"dg-publish":true,"permalink":"/smallhold-farming/","tags":["Farming","Lower_Middle_Income_Countries"],"created":"2025-10-23T09:42:47.392-07:00","updated":"2026-09-30T11:55:03.466-07:00","dg-note-properties":{"tags":["Farming","Lower_Middle_Income_Countries"],"AI suggested tags":["MFA_Food_Sec","Economics/Jobs","Animal_Feed"]}}
 ---
 
 

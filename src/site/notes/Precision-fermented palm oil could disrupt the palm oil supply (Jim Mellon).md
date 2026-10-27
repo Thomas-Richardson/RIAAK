@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/precision-fermented-palm-oil-could-disrupt-the-palm-oil-supply-jim-mellon/","tags":["Alternative_Proteins/Precision_Fermentation","Economics","Environment"],"created":"2026-06-24T17:02:32.000+01:00","updated":"2026-09-30T19:55:03.381+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Alternative_Proteins/Precision_Fermentation","Economics","Environment"],"AI suggested tags":["Alternative_Proteins","Alternative_Proteins/Cultivated_Meat","Food_Security"]}}
+{"dg-publish":true,"permalink":"/precision-fermented-palm-oil-could-disrupt-the-palm-oil-supply-jim-mellon/","tags":["Alternative_Proteins/Precision_Fermentation","Economics","Environment"],"created":"2026-06-24T09:02:32.000-07:00","updated":"2026-09-30T11:55:03.381-07:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Alternative_Proteins/Precision_Fermentation","Economics","Environment"],"AI suggested tags":["Alternative_Proteins","Alternative_Proteins/Cultivated_Meat","Food_Security"]}}
 ---
 
 

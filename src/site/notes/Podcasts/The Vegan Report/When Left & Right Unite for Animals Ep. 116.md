@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/when-left-and-right-unite-for-animals-ep-116/","tags":["Politics","Movement_Strategy","Psychology"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T19:55:03.361+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2773492","tags":["Politics","Movement_Strategy","Psychology"],"Year Published":"2026","AI suggested tags":["Activism","Tactics","Philosophy"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/when-left-and-right-unite-for-animals-ep-116/","tags":["Politics","Movement_Strategy","Psychology"],"created":"2026-07-10T06:24:39.000-07:00","updated":"2026-09-30T11:55:03.361-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2773492","tags":["Politics","Movement_Strategy","Psychology"],"Year Published":"2026","AI suggested tags":["Activism","Tactics","Philosophy"]}}
 ---
 
 This was a fascinating conversation because we brought together two animal rights advocates from opposite ends of the political spectrum. David Michel was elected as a Democratic representative in the state of Connecticut, so he comes from the political left. Liam Gray, on the other hand, is a conservative, a veteran, and the founder of the animal protection think tank, the Wilberforce Institute.

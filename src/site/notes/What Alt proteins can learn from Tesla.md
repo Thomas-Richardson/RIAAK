@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/what-alt-proteins-can-learn-from-tesla/","tags":["Alternative_Proteins","Alternative_Proteins/Cultivated_Meat","Marketing"],"created":"2025-10-23T17:42:42.980+01:00","updated":"2026-09-30T19:55:03.590+01:00","dg-note-properties":{"tags":["Alternative_Proteins","Alternative_Proteins/Cultivated_Meat","Marketing"],"Note Type":"undefined","AI suggested tags":["Alternative_Proteins/Precision_Fermentation","Alternative_Proteins/Plant_Based","Alternative_Proteins/Balanced_Proteins"]}}
+{"dg-publish":true,"permalink":"/what-alt-proteins-can-learn-from-tesla/","tags":["Alternative_Proteins","Alternative_Proteins/Cultivated_Meat","Marketing"],"created":"2025-10-23T09:42:42.980-07:00","updated":"2026-09-30T11:55:03.590-07:00","dg-note-properties":{"tags":["Alternative_Proteins","Alternative_Proteins/Cultivated_Meat","Marketing"],"Note Type":"undefined","AI suggested tags":["Alternative_Proteins/Precision_Fermentation","Alternative_Proteins/Plant_Based","Alternative_Proteins/Balanced_Proteins"]}}
 ---
 
 - [[Marketting alt proteins\|Marketting alt proteins]]

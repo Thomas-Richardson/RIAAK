@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/undercover-investigations/","tags":["Factory_Farming"],"created":"2025-10-23T17:42:43.074+01:00","updated":"2026-09-30T19:55:03.567+01:00","dg-note-properties":{"tags":["Factory_Farming"],"AI suggested tags":["USA","Chickens","Consumer_Attitudes"]}}
+{"dg-publish":true,"permalink":"/undercover-investigations/","tags":["Factory_Farming"],"created":"2025-10-23T09:42:43.074-07:00","updated":"2026-09-30T11:55:03.567-07:00","dg-note-properties":{"tags":["Factory_Farming"],"AI suggested tags":["USA","Chickens","Consumer_Attitudes"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/what-if-the-world-s-religions-stood-up-for-animals-with-joyce-d-silva-ep-110/","tags":["Philosophy","Tactics","Movement_Strategy"],"created":"2026-07-15T12:19:41.000+01:00","updated":"2026-09-30T19:55:03.359+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2614080","tags":["Philosophy","Tactics","Movement_Strategy"],"Year Published":"2026","AI suggested tags":["Animal_Ethics","Activism","Narratives"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/what-if-the-world-s-religions-stood-up-for-animals-with-joyce-d-silva-ep-110/","tags":["Philosophy","Tactics","Movement_Strategy"],"created":"2026-07-15T04:19:41.000-07:00","updated":"2026-09-30T11:55:03.359-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2614080","tags":["Philosophy","Tactics","Movement_Strategy"],"Year Published":"2026","AI suggested tags":["Animal_Ethics","Activism","Narratives"]}}
 ---
 
 Have you ever considered what it would mean if global religions echoed and supported our fight for animals?

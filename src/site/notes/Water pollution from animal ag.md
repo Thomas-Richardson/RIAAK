@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/water-pollution-from-animal-ag/","tags":["Environment/Pollution"],"created":"2025-10-23T17:42:41.459+01:00","updated":"2026-09-30T19:55:03.580+01:00","dg-note-properties":{"tags":["Environment/Pollution"],"AI suggested tags":["CAWF_Farming","Animal_Feed","Farming"]}}
+{"dg-publish":true,"permalink":"/water-pollution-from-animal-ag/","tags":["Environment/Pollution"],"created":"2025-10-23T09:42:41.459-07:00","updated":"2026-09-30T11:55:03.580-07:00","dg-note-properties":{"tags":["Environment/Pollution"],"AI suggested tags":["CAWF_Farming","Animal_Feed","Farming"]}}
 ---
 
 

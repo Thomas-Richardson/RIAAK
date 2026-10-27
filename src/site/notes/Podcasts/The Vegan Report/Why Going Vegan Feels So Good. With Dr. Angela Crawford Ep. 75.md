@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/why-going-vegan-feels-so-good-with-dr-angela-crawford-ep-75/","tags":["Psychology","Philosophy","Veganism"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T19:55:03.367+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2046142","tags":["Psychology","Philosophy","Veganism"],"Year Published":"2025","AI suggested tags":["Animal_Ethics","Anthropology","Narratives"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/why-going-vegan-feels-so-good-with-dr-angela-crawford-ep-75/","tags":["Psychology","Philosophy","Veganism"],"created":"2026-07-10T06:24:39.000-07:00","updated":"2026-09-30T11:55:03.367-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2046142","tags":["Psychology","Philosophy","Veganism"],"Year Published":"2025","AI suggested tags":["Animal_Ethics","Anthropology","Narratives"]}}
 ---
 
 This episode is a reminder of why we want others to become vegan. Not just because we care about animals, but also because being vegan is amazing, and we want to share this beautiful life experience with the rest of the world.

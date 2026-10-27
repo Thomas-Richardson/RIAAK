@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soy/","tags":["Environment/Land","Animal_Feed","Alternative_Proteins"],"created":"2025-10-23T17:42:41.464+01:00","updated":"2026-09-30T19:55:03.475+01:00","dg-note-properties":{"tags":["Environment/Land","Animal_Feed","Alternative_Proteins"],"Note Type":"undefined","AI suggested tags":["Farming","UK","Food_Security"]}}
+{"dg-publish":true,"permalink":"/soy/","tags":["Environment/Land","Animal_Feed","Alternative_Proteins"],"created":"2025-10-23T09:42:41.464-07:00","updated":"2026-09-30T11:55:03.475-07:00","dg-note-properties":{"tags":["Environment/Land","Animal_Feed","Alternative_Proteins"],"Note Type":"undefined","AI suggested tags":["Farming","UK","Food_Security"]}}
 ---
 
 - [[Animal agriculture drives deforestation#Animal feed mainly soy\|soy drives deforestation]]

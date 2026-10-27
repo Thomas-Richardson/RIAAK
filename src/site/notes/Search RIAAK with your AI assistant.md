@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/search-riaak-with-your-ai-assistant/","tags":["AI"],"created":"2026-10-01T06:57:08.621+01:00","updated":"2026-10-01T06:57:10.556+01:00","dg-note-properties":{"Note Type":"RIAAK Admin","tags":["AI"],"AI suggested tags":["Research/Methods","External_Resource","Research"]}}
+{"dg-publish":true,"permalink":"/search-riaak-with-your-ai-assistant/","tags":["AI"],"created":"2026-09-30T22:57:08.621-07:00","updated":"2026-09-30T22:57:10.556-07:00","dg-note-properties":{"Note Type":"RIAAK Admin","tags":["AI"],"AI suggested tags":["Research/Methods","External_Resource","Research"]}}
 ---
 
 You can get your own AI assistant such as Claude or ChatGPT to search RIAAK for you. Ask it a research question in plain English, and it will search RIAAK, answer using only what RIAAK contains, and give you a link to every source so you can read the originals.

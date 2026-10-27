@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/policy-levers-to-reduce-meat-production-and-consumption-bryant-research/","tags":["Meat/Meat_Reduction","Policy/Food_Policy","High_Income_Countries","Review"],"created":"2025-10-23T17:42:44.125+01:00","updated":"2026-10-01T06:57:10.498+01:00","dg-note-properties":{"tags":["Meat/Meat_Reduction","Policy/Food_Policy","High_Income_Countries","Review"],"Note Type":"undefined","AI suggested tags":["Meat","Economics","Alternative_Proteins"]}}
+{"dg-publish":true,"permalink":"/policy-levers-to-reduce-meat-production-and-consumption-bryant-research/","tags":["Meat/Meat_Reduction","Policy/Food_Policy","High_Income_Countries","Review"],"created":"2025-10-23T09:42:44.125-07:00","updated":"2026-09-30T22:57:10.498-07:00","dg-note-properties":{"tags":["Meat/Meat_Reduction","Policy/Food_Policy","High_Income_Countries","Review"],"Note Type":"undefined","AI suggested tags":["Meat","Economics","Alternative_Proteins"]}}
 ---
 
 author:: Bryant Research

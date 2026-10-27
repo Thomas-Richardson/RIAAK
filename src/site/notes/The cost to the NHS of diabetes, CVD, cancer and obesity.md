@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-cost-to-the-nhs-of-diabetes-cvd-cancer-and-obesity/","tags":["Economics","Health/Nutrition"],"created":"2025-10-23T17:42:42.028+01:00","updated":"2026-09-30T19:55:03.505+01:00","dg-note-properties":{"tags":["Economics","Health/Nutrition"],"AI suggested tags":["BOTEC","Economics/Costs","CAWF_NHS"]}}
+{"dg-publish":true,"permalink":"/the-cost-to-the-nhs-of-diabetes-cvd-cancer-and-obesity/","tags":["Economics","Health/Nutrition"],"created":"2025-10-23T09:42:42.028-07:00","updated":"2026-10-18T01:41:07.786-07:00","dg-note-properties":{"tags":["Economics","Health/Nutrition"],"AI suggested tags":["BOTEC","Economics/Costs","Bryant_Research/Project/CAWF_NHS"]}}
 ---
 
 

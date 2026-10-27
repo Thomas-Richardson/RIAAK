@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-role-of-small-scale-livestock-in-food-security-in-low-and-middle-income-countries/","tags":["Animal_Feed","MFA_Food_Sec","Economics/Jobs"],"created":"2025-11-06T16:33:01.798+00:00","updated":"2026-09-30T19:55:03.534+01:00","dg-note-properties":{"tags":["Animal_Feed","MFA_Food_Sec","Economics/Jobs"],"Note Type":"undefined","AI suggested tags":["Lower_Middle_Income_Countries","Farming","Food_Security"]}}
+{"dg-publish":true,"permalink":"/the-role-of-small-scale-livestock-in-food-security-in-low-and-middle-income-countries/","tags":["Animal_Feed","MFA_Food_Sec","Economics/Jobs"],"created":"2025-11-06T08:33:01.798-08:00","updated":"2026-09-30T11:55:03.534-07:00","dg-note-properties":{"tags":["Animal_Feed","MFA_Food_Sec","Economics/Jobs"],"Note Type":"undefined","AI suggested tags":["Lower_Middle_Income_Countries","Farming","Food_Security"]}}
 ---
 
 

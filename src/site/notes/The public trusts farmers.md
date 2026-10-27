@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-public-trusts-farmers/","tags":["Farmers","Farming","UK"],"created":"2025-10-23T17:42:47.742+01:00","updated":"2026-09-30T19:55:03.532+01:00","dg-note-properties":{"tags":["Farmers","Farming","UK"],"AI suggested tags":["Consumer_Attitudes","USA","Public_Opinion"]}}
+{"dg-publish":true,"permalink":"/the-public-trusts-farmers/","tags":["Farmers","Farming","UK"],"created":"2025-10-23T09:42:47.742-07:00","updated":"2026-09-30T11:55:03.532-07:00","dg-note-properties":{"tags":["Farmers","Farming","UK"],"AI suggested tags":["Consumer_Attitudes","USA","Public_Opinion"]}}
 ---
 
 

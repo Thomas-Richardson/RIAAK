@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/why-plants-are-not-100-vegan-with-meg-kelly-ep-93/","tags":["Farming","Veganism","Food_Safety","Animal_Ethics"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T19:55:03.368+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2269336","tags":["Farming","Veganism","Food_Safety","Animal_Ethics"],"Year Published":"2025","AI suggested tags":["Plant_Based","Anthropology","Fruit_Veg"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/why-plants-are-not-100-vegan-with-meg-kelly-ep-93/","tags":["Farming","Veganism","Food_Safety","Animal_Ethics"],"created":"2026-07-10T06:24:39.000-07:00","updated":"2026-10-18T01:41:07.783-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2269336","tags":["Farming","Veganism","Food_Safety","Animal_Ethics"],"Year Published":"2025","AI suggested tags":["Plant_Based_Diets","Anthropology","Fruit_Veg"]}}
 ---
 
 Did you know that most of the plant-based food you are eating is grown using animal products as fertilizers? Manure, blood meal, bone meal, feather meal, and fish emulsion, All obtained from the animal exploitation industry.

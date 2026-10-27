@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uk-agricultural-subsidies/","tags":["Farming","UK"],"created":"2025-10-23T17:42:42.367+01:00","updated":"2026-10-01T06:57:10.622+01:00","dg-note-properties":{"tags":["Farming","UK"],"AI suggested tags":["Bryant_Research/Project/CAWF_Hidden_Harms","Bryant_Research/Project/CAWF_Food_Sec","UK_Agriculture"]}}
+{"dg-publish":true,"permalink":"/uk-agricultural-subsidies/","tags":["Farming","UK"],"created":"2025-10-23T09:42:42.367-07:00","updated":"2026-09-30T22:57:10.622-07:00","dg-note-properties":{"tags":["Farming","UK"],"AI suggested tags":["Bryant_Research/Project/CAWF_Hidden_Harms","Bryant_Research/Project/CAWF_Food_Sec","UK_Agriculture"]}}
 ---
 
 

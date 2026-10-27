@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/the-cage-free-gaslight-ep-120/","tags":["Chickens","Corporate_Campaigns","Eggs","Movement_Strategy"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T19:55:03.310+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2957184","tags":["Chickens","Corporate_Campaigns","Eggs","Movement_Strategy"],"Year Published":"2026","AI suggested tags":["Tactics","Activism","Narratives"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/the-cage-free-gaslight-ep-120/","tags":["Chickens","Corporate_Campaigns","Eggs","Movement_Strategy"],"created":"2026-07-10T06:24:39.000-07:00","updated":"2026-09-30T11:55:03.310-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2957184","tags":["Chickens","Corporate_Campaigns","Eggs","Movement_Strategy"],"Year Published":"2026","AI suggested tags":["Tactics","Activism","Narratives"]}}
 ---
 
 What if I told you that cage-free campaigns are not only ineffective at helping hens, but may actually cause more suffering—and even set back the animal rights movement?

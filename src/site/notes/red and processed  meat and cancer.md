@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/red-and-processed-meat-and-cancer/","tags":["Diet","Health/Nutrition","Meat","Meat/Red_Meat"],"created":"2025-10-23T17:42:43.289+01:00","updated":"2026-10-01T06:57:10.725+01:00","dg-note-properties":{"tags":["Diet","Health/Nutrition","Meat","Meat/Red_Meat"],"AI suggested tags":["Nuts","Health/Disease","Meat/Meat_Consumption"]}}
+{"dg-publish":true,"permalink":"/red-and-processed-meat-and-cancer/","tags":["Diet","Health/Nutrition","Meat","Meat/Red_Meat"],"created":"2025-10-23T09:42:43.289-07:00","updated":"2026-09-30T22:57:10.725-07:00","dg-note-properties":{"tags":["Diet","Health/Nutrition","Meat","Meat/Red_Meat"],"AI suggested tags":["Nuts","Health/Disease","Meat/Meat_Consumption"]}}
 ---
 
 

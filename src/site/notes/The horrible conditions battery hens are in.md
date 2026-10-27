@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-horrible-conditions-battery-hens-are-in/","tags":["Chickens","Eggs"],"created":"2025-10-23T17:42:48.001+01:00","updated":"2026-09-30T19:55:03.515+01:00","dg-note-properties":{"tags":["Chickens","Eggs"],"AI suggested tags":["Factory_Farming","UK","Animal_Welfare"]}}
+{"dg-publish":true,"permalink":"/the-horrible-conditions-battery-hens-are-in/","tags":["Chickens","Eggs"],"created":"2025-10-23T09:42:48.001-07:00","updated":"2026-09-30T11:55:03.515-07:00","dg-note-properties":{"tags":["Chickens","Eggs"],"AI suggested tags":["Factory_Farming","UK","Animal_Welfare"]}}
 ---
 
 

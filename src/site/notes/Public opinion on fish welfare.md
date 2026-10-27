@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public-opinion-on-fish-welfare/","tags":["Consumer_Attitudes","Fish"],"created":"2025-10-23T17:42:47.314+01:00","updated":"2026-09-30T19:55:03.418+01:00","dg-note-properties":{"tags":["Consumer_Attitudes","Fish"],"AI suggested tags":["Attitudes","Fish/Farmed","EU"]}}
+{"dg-publish":true,"permalink":"/public-opinion-on-fish-welfare/","tags":["Consumer_Attitudes","Fish"],"created":"2025-10-23T09:42:47.314-07:00","updated":"2026-09-30T11:55:03.418-07:00","dg-note-properties":{"tags":["Consumer_Attitudes","Fish"],"AI suggested tags":["Attitudes","Fish/Farmed","EU"]}}
 ---
 
 

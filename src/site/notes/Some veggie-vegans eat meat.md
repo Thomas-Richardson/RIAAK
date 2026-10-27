@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/some-veggie-vegans-eat-meat/","tags":["Psychology","Veganism"],"created":"2025-10-23T17:42:41.574+01:00","updated":"2026-09-30T19:55:03.472+01:00","dg-note-properties":{"tags":["Psychology","Veganism"],"AI suggested tags":["Veg_Diets","Retention","Behaviour_Change"]}}
+{"dg-publish":true,"permalink":"/some-veggie-vegans-eat-meat/","tags":["Psychology","Veganism"],"created":"2025-10-23T09:42:41.574-07:00","updated":"2026-09-30T11:55:03.472-07:00","dg-note-properties":{"tags":["Psychology","Veganism"],"AI suggested tags":["Veg_Diets","Retention","Behaviour_Change"]}}
 ---
 
 

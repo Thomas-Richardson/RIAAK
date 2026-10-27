@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources-of-animal-data/","tags":["Data"],"created":"2025-10-23T17:42:41.564+01:00","updated":"2026-09-30T19:55:03.474+01:00","dg-note-properties":{"tags":["Data"],"AI suggested tags":["USA","UK","Farming"]}}
+{"dg-publish":true,"permalink":"/sources-of-animal-data/","tags":["Data"],"created":"2025-10-23T09:42:41.564-07:00","updated":"2026-09-30T11:55:03.474-07:00","dg-note-properties":{"tags":["Data"],"AI suggested tags":["USA","UK","Farming"]}}
 ---
 
 

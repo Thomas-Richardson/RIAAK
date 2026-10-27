@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-ultra-processed-myth/","tags":["Alternative_Proteins","Bryant_Research/Insight","Health/Nutrition"],"created":"2025-10-23T17:42:41.934+01:00","updated":"2026-10-01T06:57:10.571+01:00","dg-note-properties":{"tags":["Alternative_Proteins","Bryant_Research/Insight","Health/Nutrition"],"AI suggested tags":["UPF","Diet","Meat"]}}
+{"dg-publish":true,"permalink":"/the-ultra-processed-myth/","tags":["Alternative_Proteins","Bryant_Research/Insight","Health/Nutrition"],"created":"2025-10-23T09:42:41.934-07:00","updated":"2026-09-30T22:57:10.571-07:00","dg-note-properties":{"tags":["Alternative_Proteins","Bryant_Research/Insight","Health/Nutrition"],"AI suggested tags":["UPF","Diet","Meat"]}}
 ---
 
 

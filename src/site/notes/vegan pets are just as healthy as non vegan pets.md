@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vegan-pets-are-just-as-healthy-as-non-vegan-pets/","tags":["Companion_Animals","Pet_Food"],"created":"2025-10-23T17:42:42.852+01:00","updated":"2026-10-01T06:57:10.731+01:00","dg-note-properties":{"tags":["Companion_Animals","Pet_Food"],"AI suggested tags":["Health/Nutrition","Veg_Diets","Review"]}}
+{"dg-publish":true,"permalink":"/vegan-pets-are-just-as-healthy-as-non-vegan-pets/","tags":["Companion_Animals","Pet_Food"],"created":"2025-10-23T09:42:42.852-07:00","updated":"2026-09-30T22:57:10.731-07:00","dg-note-properties":{"tags":["Companion_Animals","Pet_Food"],"AI suggested tags":["Health/Nutrition","Veg_Diets","Review"]}}
 ---
 
 

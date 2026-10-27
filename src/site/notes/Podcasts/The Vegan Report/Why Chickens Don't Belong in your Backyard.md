@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/why-chickens-don-t-belong-in-your-backyard/","tags":["Animal_Ethics","Chickens","Companion_Animals","Eggs"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T19:55:03.365+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2214334","tags":["Animal_Ethics","Chickens","Companion_Animals","Eggs"],"Year Published":"2025","AI suggested tags":["Veganism","Narratives","Plant_Based"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/why-chickens-don-t-belong-in-your-backyard/","tags":["Animal_Ethics","Chickens","Companion_Animals","Eggs"],"created":"2026-07-10T06:24:39.000-07:00","updated":"2026-10-18T01:41:07.782-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2214334","tags":["Animal_Ethics","Chickens","Companion_Animals","Eggs"],"Year Published":"2025","AI suggested tags":["Veganism","Narratives","Activism"]}}
 ---
 
 "Does eating eggs from your backyard chickens vegan?" This question just accepts the premise that owning backyard chickens in the first place is acceptable. Maybe if you own lots of land in a rural area, where farming already takes place.

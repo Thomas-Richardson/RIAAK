@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-growth-of-animal-ag-and-meat-eating/","tags":["Meat/Meat_Consumption","Farming","High_Income_Countries"],"created":"2025-10-23T17:42:43.031+01:00","updated":"2026-10-01T06:57:10.593+01:00","dg-note-properties":{"tags":["Meat/Meat_Consumption","Farming","High_Income_Countries"],"AI suggested tags":["Meat","Citation","Lower_Middle_Income_Countries"]}}
+{"dg-publish":true,"permalink":"/the-growth-of-animal-ag-and-meat-eating/","tags":["Meat/Meat_Consumption","Farming","High_Income_Countries"],"created":"2025-10-23T09:42:43.031-07:00","updated":"2026-09-30T22:57:10.593-07:00","dg-note-properties":{"tags":["Meat/Meat_Consumption","Farming","High_Income_Countries"],"AI suggested tags":["Meat","Citation","Lower_Middle_Income_Countries"]}}
 ---
 
 

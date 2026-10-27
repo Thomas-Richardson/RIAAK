@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/what-do-canadians-think-about-caged-eggs-q/","tags":["Bryant_Research","Consumer_Attitudes","Eggs"],"created":"2025-10-23T17:42:42.976+01:00","updated":"2026-09-30T19:55:03.594+01:00","dg-note-properties":{"tags":["Bryant_Research","Consumer_Attitudes","Eggs"],"AI suggested tags":["Chickens","Public_Opinion","UK"]}}
+{"dg-publish":true,"permalink":"/what-do-canadians-think-about-caged-eggs-q/","tags":["Bryant_Research","Consumer_Attitudes","Eggs"],"created":"2025-10-23T09:42:42.976-07:00","updated":"2026-09-30T11:55:03.594-07:00","dg-note-properties":{"tags":["Bryant_Research","Consumer_Attitudes","Eggs"],"AI suggested tags":["Chickens","Public_Opinion","UK"]}}
 ---
 
 

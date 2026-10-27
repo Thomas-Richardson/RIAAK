@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/this-is-how-we-win-with-jareb-gleckel-ep-49/","tags":["Factory_Farming","Law","Movement_Strategy"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T19:55:03.337+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/1657267","tags":["Factory_Farming","Law","Movement_Strategy"],"Year Published":"2024","AI suggested tags":["Tactics","Activism","Philosophy"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/this-is-how-we-win-with-jareb-gleckel-ep-49/","tags":["Factory_Farming","Law","Movement_Strategy"],"created":"2026-07-10T06:24:39.000-07:00","updated":"2026-09-30T11:55:03.337-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/1657267","tags":["Factory_Farming","Law","Movement_Strategy"],"Year Published":"2024","AI suggested tags":["Tactics","Activism","Philosophy"]}}
 ---
 
 What if I told you that some smart people came up with a viable strategy to end factory farming for good. A way to channel all our activism in the most impactful way. A roadmap telling you where this animal rights struggle ends.

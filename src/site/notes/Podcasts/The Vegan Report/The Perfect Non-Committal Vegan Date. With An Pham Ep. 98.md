@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/the-perfect-non-committal-vegan-date-with-an-pham-ep-98/","tags":["Canada","Veganism","Alternative_Proteins/Plant_Based","Activism"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T19:55:03.329+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2344973","tags":["Canada","Veganism","Alternative_Proteins/Plant_Based","Activism"],"Year Published":"2025","AI suggested tags":["Plant_Based","Anthropology","Narratives"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/the-perfect-non-committal-vegan-date-with-an-pham-ep-98/","tags":["Canada","Veganism","Alternative_Proteins/Plant_Based","Activism"],"created":"2026-07-10T06:24:39.000-07:00","updated":"2026-10-18T01:41:07.779-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2344973","tags":["Canada","Veganism","Alternative_Proteins/Plant_Based","Activism"],"Year Published":"2025","AI suggested tags":["Plant_Based_Diets","Anthropology","Narratives"]}}
 ---
 
 What is your idea of the perfect vegan date?

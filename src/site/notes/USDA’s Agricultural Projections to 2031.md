@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usda-s-agricultural-projections-to-2031/","tags":["Farming","Meat","MFA_Food_Sec"],"created":"2025-10-23T17:42:43.917+01:00","updated":"2026-09-30T19:55:03.566+01:00","dg-note-properties":{"tags":["Farming","Meat","MFA_Food_Sec"],"AI suggested tags":["Lower_Middle_Income_Countries","USA","Food_Security"]}}
+{"dg-publish":true,"permalink":"/usda-s-agricultural-projections-to-2031/","tags":["Farming","Meat","MFA_Food_Sec"],"created":"2025-10-23T09:42:43.917-07:00","updated":"2026-09-30T11:55:03.566-07:00","dg-note-properties":{"tags":["Farming","Meat","MFA_Food_Sec"],"AI suggested tags":["Lower_Middle_Income_Countries","USA","Food_Security"]}}
 ---
 
 

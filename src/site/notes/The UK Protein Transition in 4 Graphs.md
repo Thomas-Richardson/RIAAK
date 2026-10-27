@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-uk-protein-transition-in-4-graphs/","tags":["Bryant_Research/Insight","Meat","UK","Veganism"],"created":"2025-10-23T17:42:42.311+01:00","updated":"2026-10-01T06:57:10.570+01:00","dg-note-properties":{"tags":["Bryant_Research/Insight","Meat","UK","Veganism"],"AI suggested tags":["Meat/Meat_Consumption","Alternative_Proteins","Citation"]}}
+{"dg-publish":true,"permalink":"/the-uk-protein-transition-in-4-graphs/","tags":["Bryant_Research/Insight","Meat","UK","Veganism"],"created":"2025-10-23T09:42:42.311-07:00","updated":"2026-09-30T22:57:10.570-07:00","dg-note-properties":{"tags":["Bryant_Research/Insight","Meat","UK","Veganism"],"AI suggested tags":["Meat/Meat_Consumption","Alternative_Proteins","Citation"]}}
 ---
 
 

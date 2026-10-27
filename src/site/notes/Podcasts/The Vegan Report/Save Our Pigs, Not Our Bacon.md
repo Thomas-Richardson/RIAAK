@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/save-our-pigs-not-our-bacon/","tags":["High_Income_Countries/USA","Pigs","Policy","Activism"],"created":"2026-10-01T06:56:11.497+01:00","updated":"2026-10-01T06:57:10.470+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/3127281","tags":["High_Income_Countries/USA","Pigs","Policy","Activism"],"Year Published":"2026","AI suggested tags":["Politics","Tactics","Movement_Strategy"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/save-our-pigs-not-our-bacon/","tags":["High_Income_Countries/USA","Pigs","Policy","Activism"],"created":"2026-09-30T22:56:11.497-07:00","updated":"2026-09-30T22:57:10.470-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/3127281","tags":["High_Income_Countries/USA","Pigs","Policy","Activism"],"Year Published":"2026","AI suggested tags":["Politics","Tactics","Movement_Strategy"]}}
 ---
 
 CALL NOW: U.S. Capitol Switchboard: 202-224-3121

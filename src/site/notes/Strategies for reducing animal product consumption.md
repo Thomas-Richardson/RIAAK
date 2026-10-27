@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/strategies-for-reducing-animal-product-consumption/","tags":["Behaviour_Change"],"created":"2025-10-23T17:42:41.751+01:00","updated":"2026-09-30T19:55:03.476+01:00","dg-note-properties":{"tags":["Behaviour_Change"],"AI suggested tags":["Meat/Meat_Reduction","Meat","Nudging"]}}
+{"dg-publish":true,"permalink":"/strategies-for-reducing-animal-product-consumption/","tags":["Behaviour_Change"],"created":"2025-10-23T09:42:41.751-07:00","updated":"2026-09-30T11:55:03.476-07:00","dg-note-properties":{"tags":["Behaviour_Change"],"AI suggested tags":["Meat/Meat_Reduction","Meat","Nudging"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/animal-law-podcast-4-pork-check-off-litigation-with-matt-penzer/","tags":["Law","Pigs","High_Income_Countries/USA","Meat_Industry"],"created":"2026-07-15T12:19:41.000+01:00","updated":"2026-09-30T19:55:03.017+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/animal-law-podcast-4-pork-check-off-litigation-with-matt-penzer/","tags":["Law","Pigs","High_Income_Countries/USA","Meat_Industry"],"Year Published":"2015","AI suggested tags":["Geese","Activism","Tactics"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/animal-law-podcast-4-pork-check-off-litigation-with-matt-penzer/","tags":["Law","Pigs","High_Income_Countries/USA","Meat_Industry"],"created":"2026-07-15T04:19:41.000-07:00","updated":"2026-09-30T11:55:03.017-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/animal-law-podcast-4-pork-check-off-litigation-with-matt-penzer/","tags":["Law","Pigs","High_Income_Countries/USA","Meat_Industry"],"Year Published":"2015","AI suggested tags":["Geese","Activism","Tactics"]}}
 ---
 
 Matt Penzer

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/when-animals-dream-with-david-pena-guzman/","tags":["Sentience","Animal_Ethics","Philosophy"],"created":"2026-07-15T12:19:41.000+01:00","updated":"2026-09-30T19:55:02.945+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep743/","tags":["Sentience","Animal_Ethics","Philosophy"],"Year Published":"2024","AI suggested tags":["Companion_Animals","Narratives","Wild_Animals"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/when-animals-dream-with-david-pena-guzman/","tags":["Sentience","Animal_Ethics","Philosophy"],"created":"2026-07-15T04:19:41.000-07:00","updated":"2026-09-30T11:55:02.945-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep743/","tags":["Sentience","Animal_Ethics","Philosophy"],"Year Published":"2024","AI suggested tags":["Companion_Animals","Narratives","Wild_Animals"]}}
 ---
 
 Everyone who lives with an animal would think it rather obvious that they dream, but believe it or not, this is not an accepted fact in the scientific community. This week, we speak with David Peña-Guzmán about his book When Animals Dream: The Hidden World of Animal Consciousness.

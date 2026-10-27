@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/veganic-gardening-and-farming-with-meg-kelly/","tags":["Farming","Fruit_Veg","Plant_Based"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.936+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep770/","tags":["Farming","Fruit_Veg","Plant_Based"],"Year Published":"2024","AI suggested tags":["Veganism","Activism","Narratives"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/veganic-gardening-and-farming-with-meg-kelly/","tags":["Farming","Fruit_Veg","Plant_Based_Diets"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-10-18T01:41:07.727-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep770/","tags":["Farming","Fruit_Veg","Plant_Based_Diets"],"Year Published":"2024","AI suggested tags":["Veganism","Activism","Animal_Ethics"]}}
 ---
 
 Interested in keeping chicken poop out of your garden? If we want to overhaul the food system, we are going to have to start from the ground up, literally. This week, Meg Kelly of the Veganic Summit joins us to share her tips and tricks for converting your garden, or your farm, to a veganic wonderland.

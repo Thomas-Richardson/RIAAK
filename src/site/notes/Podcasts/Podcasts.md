@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/","created":"2026-10-01T13:55:56.822+01:00","updated":"2026-10-01T13:55:56.822+01:00","dg-note-properties":{"Note Type":"RIAAK Admin","tags":null}}
+{"dg-publish":true,"dg-permalink":"podcasts","permalink":"/podcasts/","created":"2026-10-01T05:55:56.823-07:00","updated":"2026-10-01T22:55:36.300-07:00","dg-note-properties":{"Note Type":"RIAAK Admin","tags":null,"AI suggested tags":["Movement_Building","High_Income_Countries/USA","Movement_Strategy"]}}
 ---
 
 Summaries of episodes from the animal advocacy podcasts I follow, with one page per show. Each summary links to the episode, and new episodes are added at the start of each month.

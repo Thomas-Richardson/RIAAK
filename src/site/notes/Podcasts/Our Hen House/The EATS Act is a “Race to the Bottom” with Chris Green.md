@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/the-eats-act-is-a-race-to-the-bottom-with-chris-green/","tags":["Law","Policy","High_Income_Countries/USA","Animal_Welfare"],"created":"2026-07-15T12:19:41.000+01:00","updated":"2026-09-30T19:55:02.893+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep710/","tags":["Law","Policy","High_Income_Countries/USA","Animal_Welfare"],"Year Published":"2023","AI suggested tags":["Activism","Tactics","Wild_Animals"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/the-eats-act-is-a-race-to-the-bottom-with-chris-green/","tags":["Law","Policy","High_Income_Countries/USA","Animal_Welfare"],"created":"2026-07-15T04:19:41.000-07:00","updated":"2026-09-30T11:55:02.893-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep710/","tags":["Law","Policy","High_Income_Countries/USA","Animal_Welfare"],"Year Published":"2023","AI suggested tags":["Activism","Tactics","Wild_Animals"]}}
 ---
 
 Do you try to keep up with animal-related legislation but sometimes find yourself wondering what it all means? This week we get some answers regarding the hugely important EATS Act and the effort to eradicate state animal welfare laws from Chris Green, Executive Director of the Brooks McCormick Jr. Animal Law & Policy Program at Harvard Law.

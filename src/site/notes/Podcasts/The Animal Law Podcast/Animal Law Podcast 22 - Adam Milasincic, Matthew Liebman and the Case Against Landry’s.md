@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/animal-law-podcast-22-adam-milasincic-matthew-liebman-and-the-case-against-landry-s/","tags":["Law","Wild_Animals","High_Income_Countries/USA","Activism"],"created":"2026-07-15T12:19:41.000+01:00","updated":"2026-09-30T19:55:02.992+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/animal-law-podcast-22-adam-milasincic-matthew-liebman-and-the-case-against-landrys/","tags":["Law","Wild_Animals","High_Income_Countries/USA","Activism"],"Year Published":"2017","AI suggested tags":["Companion_Animals","Geese","Animal_Ethics"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/animal-law-podcast-22-adam-milasincic-matthew-liebman-and-the-case-against-landry-s/","tags":["Law","Wild_Animals","High_Income_Countries/USA","Activism"],"created":"2026-07-15T04:19:41.000-07:00","updated":"2026-09-30T11:55:02.992-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/animal-law-podcast-22-adam-milasincic-matthew-liebman-and-the-case-against-landrys/","tags":["Law","Wild_Animals","High_Income_Countries/USA","Activism"],"Year Published":"2017","AI suggested tags":["Companion_Animals","Geese","Animal_Ethics"]}}
 ---
 
 This is no place for a tiger

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/animal-law-podcast-3-ag-gag-with-justin-marceau/","tags":["Law","High_Income_Countries/USA","Activism","Factory_Farming"],"created":"2026-07-15T12:19:41.000+01:00","updated":"2026-09-30T19:55:03.003+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/animal-law-podcast-3-ag-gag-with-justin-marceau/","tags":["Law","High_Income_Countries/USA","Activism","Factory_Farming"],"Year Published":"2015","AI suggested tags":["Geese","Companion_Animals","Tactics"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/animal-law-podcast-3-ag-gag-with-justin-marceau/","tags":["Law","High_Income_Countries/USA","Activism","Factory_Farming"],"created":"2026-07-15T04:19:41.000-07:00","updated":"2026-09-30T11:55:03.003-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/animal-law-podcast-3-ag-gag-with-justin-marceau/","tags":["Law","High_Income_Countries/USA","Activism","Factory_Farming"],"Year Published":"2015","AI suggested tags":["Geese","Companion_Animals","Tactics"]}}
 ---
 
 Photo courtesy of University of Denver — Sturm College of Law

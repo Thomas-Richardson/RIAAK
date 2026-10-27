@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/transfarmation-with-tyler-whitley/","tags":["Farmers","Factory_Farming","Plant_Based","Chickens"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.921+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep718/","tags":["Farmers","Factory_Farming","Plant_Based","Chickens"],"Year Published":"2023","AI suggested tags":["Activism","Movement_Strategy","Tactics"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/transfarmation-with-tyler-whitley/","tags":["Farmers","Factory_Farming","Plant_Based_Diets","Chickens"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-10-18T01:41:07.723-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep718/","tags":["Farmers","Factory_Farming","Plant_Based_Diets","Chickens"],"Year Published":"2023","AI suggested tags":["Activism","Movement_Strategy","Tactics"]}}
 ---
 
 Can factory farms become real farms growing real food? Of course they can! But they might need a little help. Tyler Whitley is here to tell us all about Transfarmation, a program of Mercy for Animals working with contract growers of chickens and other animals to help them get out from under corporate agribusiness and shift to plant-based production.

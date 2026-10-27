@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/stop-wasting-food-with-max-la-manna/","tags":["Plant_Based","Environment","Fruit_Veg"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.886+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep717/","tags":["Plant_Based","Environment","Fruit_Veg"],"Year Published":"2023","AI suggested tags":["Veganism","Activism","Plant_Based/School_Meals"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/stop-wasting-food-with-max-la-manna/","tags":["Plant_Based_Diets","Environment","Fruit_Veg"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-10-18T01:41:07.714-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep717/","tags":["Plant_Based_Diets","Environment","Fruit_Veg"],"Year Published":"2023","AI suggested tags":["Veganism","Activism","Plant_Based_Diets/School_Meals"]}}
 ---
 
 Ever thought about eating a banana peel? Ok, that’s an extreme example (sort of) but if you want to know more, you will love this week’s interview with Max La Manna, a self-taught plant-based chef who is looking to end food waste with easy-to-recreate recipes that use every part of the ingredients.

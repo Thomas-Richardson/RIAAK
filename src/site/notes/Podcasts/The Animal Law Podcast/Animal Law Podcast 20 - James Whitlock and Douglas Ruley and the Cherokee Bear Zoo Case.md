@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/animal-law-podcast-20-james-whitlock-and-douglas-ruley-and-the-cherokee-bear-zoo-case/","tags":["Law","Wild_Animals","High_Income_Countries/USA"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.990+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/animal-law-podcast-20-james-whitlock-and-douglas-ruley-and-the-cherokee-bear-zoo-case/","tags":["Law","Wild_Animals","High_Income_Countries/USA"],"Year Published":"2017","AI suggested tags":["Companion_Animals","Activism","Animal_Ethics"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/animal-law-podcast-20-james-whitlock-and-douglas-ruley-and-the-cherokee-bear-zoo-case/","tags":["Law","Wild_Animals","High_Income_Countries/USA"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-09-30T11:55:02.990-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/animal-law-podcast-20-james-whitlock-and-douglas-ruley-and-the-cherokee-bear-zoo-case/","tags":["Law","Wild_Animals","High_Income_Countries/USA"],"Year Published":"2017","AI suggested tags":["Companion_Animals","Activism","Animal_Ethics"]}}
 ---
 
 James Whitlock

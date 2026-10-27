@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/vegan-land-movement-with-gina-bates/","tags":["Environment/Land","High_Income_Countries/UK","UK_Agriculture","Wild_Animals"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.933+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep750/","tags":["Environment/Land","High_Income_Countries/UK","UK_Agriculture","Wild_Animals"],"Year Published":"2024","AI suggested tags":["Plant_Based","Activism","Veganism"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/vegan-land-movement-with-gina-bates/","tags":["Environment/Land","High_Income_Countries/UK","UK_Agriculture","Wild_Animals"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-10-18T01:41:07.725-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep750/","tags":["Environment/Land","High_Income_Countries/UK","UK_Agriculture","Wild_Animals"],"Year Published":"2024","AI suggested tags":["Plant_Based_Diets","Activism","Veganism"]}}
 ---
 
 Wouldn’t it be great if we could keep land from falling into the hands of animal agriculture and just give it to wild animals instead? That is exactly what the U.K.’s Vegan Land Movement is doing, and Gina Bates is here to tell us how they are doing it and why you should do it too.

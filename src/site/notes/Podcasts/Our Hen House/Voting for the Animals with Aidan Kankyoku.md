@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/voting-for-the-animals-with-aidan-kankyoku/","tags":["Movement_Strategy","Politics","High_Income_Countries/USA"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.942+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep765/","tags":["Movement_Strategy","Politics","High_Income_Countries/USA"],"Year Published":"2024","AI suggested tags":["Activism","Tactics","Animal_Ethics"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/voting-for-the-animals-with-aidan-kankyoku/","tags":["Movement_Strategy","Politics","High_Income_Countries/USA"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-09-30T11:55:02.942-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep765/","tags":["Movement_Strategy","Politics","High_Income_Countries/USA"],"Year Published":"2024","AI suggested tags":["Activism","Tactics","Animal_Ethics"]}}
 ---
 
 Don’t you wish you could vote on whether you want a slaughterhouse in your city? Well, this year, in Denver, you can. Aidan Kankyoku of Pro-Animal Future joins us this week to tell us about the ever-growing movement to use citizens’ initiatives to put animals on the ballot.

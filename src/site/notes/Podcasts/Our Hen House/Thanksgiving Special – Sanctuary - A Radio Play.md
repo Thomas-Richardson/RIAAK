@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/thanksgiving-special-sanctuary-a-radio-play/","tags":["Veganism","Psychology","Narratives","Turkeys"],"created":"2026-07-15T12:19:41.000+01:00","updated":"2026-09-30T19:55:02.891+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep776-5/","tags":["Veganism","Psychology","Narratives","Turkeys"],"Year Published":"2024","AI suggested tags":["Activism","Animal_Ethics","Philosophy"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/thanksgiving-special-sanctuary-a-radio-play/","tags":["Veganism","Psychology","Narratives","Turkeys"],"created":"2026-07-15T04:19:41.000-07:00","updated":"2026-09-30T11:55:02.891-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep776-5/","tags":["Veganism","Psychology","Narratives","Turkeys"],"Year Published":"2024","AI suggested tags":["Activism","Animal_Ethics","Philosophy"]}}
 ---
 
 We are thrilled to present this very special holiday episode of Sanctuary: A Radio Play, an annual Thanksgiving tradition at Our Hen House! This special performance marks the world premiere of John Yunker’s Sanctuary at New York City’s Symphony Space during the Culture & Animals Foundation’s Compassion Arts Festival.

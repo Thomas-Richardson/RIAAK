@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/thrive-philanthropy-with-jessika-ava/","tags":["Movement_Building","Africa","Asia","Plant_Based"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.918+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep736/","tags":["Movement_Building","Africa","Asia","Plant_Based"],"Year Published":"2024","AI suggested tags":["Activism","Movement_Strategy","Tactics"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/thrive-philanthropy-with-jessika-ava/","tags":["Movement_Building","Africa","Asia","Plant_Based_Diets"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-10-18T01:41:07.722-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep736/","tags":["Movement_Building","Africa","Asia","Plant_Based_Diets"],"Year Published":"2024","AI suggested tags":["Activism","Movement_Strategy","Tactics"]}}
 ---
 
 There is so much animal activism going on around the world, but how does it all get funded? Jessika Ava joins us to discuss the work of Thrive Philanthropy, a global grantmaker that accelerates alternatives to industrial animal agriculture and amplifies just, sustainable, plant-based food systems across the world.

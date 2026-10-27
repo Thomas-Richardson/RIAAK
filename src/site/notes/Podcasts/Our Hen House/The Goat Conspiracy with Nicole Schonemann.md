@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/the-goat-conspiracy-with-nicole-schonemann/","tags":["Dairy","Farmers","High_Income_Countries/USA","Plant_Based"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.897+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep772/","tags":["Dairy","Farmers","High_Income_Countries/USA","Plant_Based"],"Year Published":"2024","AI suggested tags":["Activism","Narratives","Tactics"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/the-goat-conspiracy-with-nicole-schonemann/","tags":["Dairy","Farmers","High_Income_Countries/USA","Plant_Based_Diets"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-10-18T01:41:07.717-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep772/","tags":["Dairy","Farmers","High_Income_Countries/USA","Plant_Based_Diets"],"Year Published":"2024","AI suggested tags":["Activism","Narratives","Tactics"]}}
 ---
 
 Turning a goat dairy farm into a goat sanctuary isn’t something that happens every day. But that’s exactly what just happened in Bloomington, Indiana, and Nicole Schonemann is here to share the whole beautiful story.

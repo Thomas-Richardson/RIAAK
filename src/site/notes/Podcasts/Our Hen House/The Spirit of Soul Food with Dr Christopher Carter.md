@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/the-spirit-of-soul-food-with-dr-christopher-carter/","tags":["Veganism","Philosophy","High_Income_Countries/USA","Movement_Strategy"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.908+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep641/","tags":["Veganism","Philosophy","High_Income_Countries/USA","Movement_Strategy"],"Year Published":"2022","AI suggested tags":["Plant_Based","Animal_Ethics","Narratives"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/the-spirit-of-soul-food-with-dr-christopher-carter/","tags":["Veganism","Philosophy","High_Income_Countries/USA","Movement_Strategy"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-10-18T01:41:07.719-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep641/","tags":["Veganism","Philosophy","High_Income_Countries/USA","Movement_Strategy"],"Year Published":"2022","AI suggested tags":["Plant_Based_Diets","Animal_Ethics","Narratives"]}}
 ---
 
 Dr. Christopher Carter joins us on the podcast this week to discuss his new book The Spirit of Soul Food: Race, Faith, and Food Justice. This groundbreaking work covers everything from the history of soul food to choosing how to eat in a way that helps us “live into our fullest sense of self.”

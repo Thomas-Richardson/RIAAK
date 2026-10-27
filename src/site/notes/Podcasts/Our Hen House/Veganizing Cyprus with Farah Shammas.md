@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/veganizing-cyprus-with-farah-shammas/","tags":["Veganism","Institutional_Change","EU","Health/Nutrition"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.941+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep757/","tags":["Veganism","Institutional_Change","EU","Health/Nutrition"],"Year Published":"2024","AI suggested tags":["Plant_Based","Activism","Narratives"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/veganizing-cyprus-with-farah-shammas/","tags":["Veganism","Institutional_Change","EU","Health/Nutrition"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-10-18T01:41:07.729-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep757/","tags":["Veganism","Institutional_Change","EU","Health/Nutrition"],"Year Published":"2024","AI suggested tags":["Plant_Based_Diets","Activism","Narratives"]}}
 ---
 
 What happens when you’ve dedicated your life to the family business and suddenly become vegan? This week, we are joined by Farah Shammas, who tells us all about how she has helped make her family’s resort hotel and the restaurants therein into a vegan-friendly oasis. She also dishes on the vegan scene in Cyprus and tells us about her books!

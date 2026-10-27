@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/the-impactful-vegan-with-robert-cheeke/","tags":["Effective_Altruism","Movement_Strategy"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.899+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep755/","tags":["Effective_Altruism","Movement_Strategy"],"Year Published":"2024","AI suggested tags":["Activism","Philosophy","Tactics"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/the-impactful-vegan-with-robert-cheeke/","tags":["Effective_Altruism","Movement_Strategy"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-09-30T11:55:02.899-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep755/","tags":["Effective_Altruism","Movement_Strategy"],"Year Published":"2024","AI suggested tags":["Activism","Philosophy","Tactics"]}}
 ---
 
 How can we do the most good for animals with the resources available to us? This week, we are joined by author and vegan bodybuilder Robert Cheeke to discuss the answers to that question in his most recent book, The Impactful Vegan.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/who-is-scared-of-the-animal-liberation-front-with-dr-jerry-vlasak-ep-26/","tags":["Activism","Narratives","Messaging","High_Income_Countries/USA"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T19:55:03.362+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/1302932","tags":["Activism","Narratives","Messaging","High_Income_Countries/USA"],"Year Published":"2024","AI suggested tags":["Tactics","Movement_Strategy","Politics"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/who-is-scared-of-the-animal-liberation-front-with-dr-jerry-vlasak-ep-26/","tags":["Activism","Narratives","Messaging","High_Income_Countries/USA"],"created":"2026-07-10T06:24:39.000-07:00","updated":"2026-09-30T11:55:03.362-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/1302932","tags":["Activism","Narratives","Messaging","High_Income_Countries/USA"],"Year Published":"2024","AI suggested tags":["Tactics","Movement_Strategy","Politics"]}}
 ---
 
 Terrorism, violent, criminal, extremist, radical, illegal. Those are the kinds of words attached to the Animal Liberation Front, a global anarchist movement fighting for animal liberation.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/make-animal-rights-bipartisan-again/","tags":["High_Income_Countries/USA","Politics","Movement_Strategy","Messaging"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T19:55:03.278+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/1746787","tags":["High_Income_Countries/USA","Politics","Movement_Strategy","Messaging"],"Year Published":"2024","AI suggested tags":["Narratives","Tactics","Philosophy"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/make-animal-rights-bipartisan-again/","tags":["High_Income_Countries/USA","Politics","Movement_Strategy","Messaging"],"created":"2026-07-10T06:24:39.000-07:00","updated":"2026-09-30T11:55:03.278-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/1746787","tags":["High_Income_Countries/USA","Politics","Movement_Strategy","Messaging"],"Year Published":"2024","AI suggested tags":["Narratives","Tactics","Philosophy"]}}
 ---
 
 In the morning of Wednesday November 6th, the world learned that 75 million American voters elected Donald Trump as President of the United States.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/who-the-heck-should-i-vote-for-with-joel-matthews-ep-45/","tags":["Politics","Veganism","Philosophy"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T19:55:03.363+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/1617195","tags":["Politics","Veganism","Philosophy"],"Year Published":"2024","AI suggested tags":["Animal_Ethics","Movement_Strategy","Activism"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/who-the-heck-should-i-vote-for-with-joel-matthews-ep-45/","tags":["Politics","Veganism","Philosophy"],"created":"2026-07-10T06:24:39.000-07:00","updated":"2026-09-30T11:55:03.363-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/1617195","tags":["Politics","Veganism","Philosophy"],"Year Published":"2024","AI suggested tags":["Animal_Ethics","Movement_Strategy","Activism"]}}
 ---
 
 Have you ever been disappointed by our political class? Thinking that our dearly held values of compassion, as vegans, were simply not represented. Feeling politically homeless.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/vegans-respond-to-jordan-peterson-with-john-sanbonmatsu-ep-91/","tags":["Veganism","Animal_Ethics","Grazing","Narratives"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T19:55:03.351+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2245126","tags":["Veganism","Animal_Ethics","Grazing","Narratives"],"Year Published":"2025","AI suggested tags":["Philosophy","Activism","Anthropology"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/vegans-respond-to-jordan-peterson-with-john-sanbonmatsu-ep-91/","tags":["Veganism","Animal_Ethics","Grazing","Narratives"],"created":"2026-07-10T06:24:39.000-07:00","updated":"2026-09-30T11:55:03.351-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2245126","tags":["Veganism","Animal_Ethics","Grazing","Narratives"],"Year Published":"2025","AI suggested tags":["Philosophy","Activism","Anthropology"]}}
 ---
 
 Today, we respond to an episode from the Jordan B. Peterson Podcast, posted on April 17 and titled "The Best Argument Against Veganism".

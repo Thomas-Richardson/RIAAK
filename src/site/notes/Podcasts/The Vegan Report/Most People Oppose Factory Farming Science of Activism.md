@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/most-people-oppose-factory-farming-science-of-activism/","tags":["Activism","Factory_Farming","High_Income_Countries/UK","Public_Opinion"],"created":"2026-10-01T06:56:11.497+01:00","updated":"2026-10-01T06:57:10.461+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/3109454","tags":["Activism","Factory_Farming","High_Income_Countries/UK","Public_Opinion"],"Year Published":"2026","AI suggested tags":["Persuasion","Messaging","Narratives"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/most-people-oppose-factory-farming-science-of-activism/","tags":["Activism","Factory_Farming","High_Income_Countries/UK","Public_Opinion"],"created":"2026-09-30T22:56:11.497-07:00","updated":"2026-09-30T22:57:10.461-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/3109454","tags":["Activism","Factory_Farming","High_Income_Countries/UK","Public_Opinion"],"Year Published":"2026","AI suggested tags":["Persuasion","Messaging","Narratives"]}}
 ---
 
 In this episode, we examine a new survey commissioned by the UK nonprofit Project Phoenix, revealing that the majority of Britons think the country should eat less meat, that most want factory farming to be phased out, and that many want it gone fast.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/our-secret-weapon-against-big-ag-with-thomas-manandhar-richardson-ep-104/","tags":["AI","Activism","Strategy"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T19:55:03.290+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2470061","tags":["AI","Activism","Strategy"],"Year Published":"2026","AI suggested tags":["Movement_Strategy","Animal_Ethics","Philosophy"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/our-secret-weapon-against-big-ag-with-thomas-manandhar-richardson-ep-104/","tags":["AI","Activism","Strategy"],"created":"2026-07-10T06:24:39.000-07:00","updated":"2026-09-30T11:55:03.290-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2470061","tags":["AI","Activism","Strategy"],"Year Published":"2026","AI suggested tags":["Movement_Strategy","Animal_Ethics","Philosophy"]}}
 ---
 
 Today, we’re diving into how Artificial Intelligence is becoming a real game‑changer for vegans, for animal rights activists, and for animals themselves.

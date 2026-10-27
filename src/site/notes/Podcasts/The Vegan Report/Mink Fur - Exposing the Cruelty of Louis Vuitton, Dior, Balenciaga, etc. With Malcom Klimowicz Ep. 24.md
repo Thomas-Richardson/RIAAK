@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/mink-fur-exposing-the-cruelty-of-louis-vuitton-dior-balenciaga-etc-with-malcom-klimowicz-ep-24/","tags":["Factory_Farming","Corporate_Campaigns","Greenwashing","Animal_Ethics"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T19:55:03.283+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/1270628","tags":["Factory_Farming","Corporate_Campaigns","Greenwashing","Animal_Ethics"],"Year Published":"2023","AI suggested tags":["Tactics","Activism","Companion_Animals"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/mink-fur-exposing-the-cruelty-of-louis-vuitton-dior-balenciaga-etc-with-malcom-klimowicz-ep-24/","tags":["Factory_Farming","Corporate_Campaigns","Greenwashing","Animal_Ethics"],"created":"2026-07-10T06:24:39.000-07:00","updated":"2026-09-30T11:55:03.283-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/1270628","tags":["Factory_Farming","Corporate_Campaigns","Greenwashing","Animal_Ethics"],"Year Published":"2023","AI suggested tags":["Tactics","Activism","Companion_Animals"]}}
 ---
 
 This is how PETA denounces the horrendous exploitation of minks for making fur coats and accessories like lashes.

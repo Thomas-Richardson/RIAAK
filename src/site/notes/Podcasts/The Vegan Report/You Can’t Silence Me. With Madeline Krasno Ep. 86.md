@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/you-can-t-silence-me-with-madeline-krasno-ep-86/","tags":["Activism","Law","High_Income_Countries/USA","Tactics"],"created":"2026-07-15T12:19:42.000+01:00","updated":"2026-09-30T19:55:03.373+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2162795","tags":["Activism","Law","High_Income_Countries/USA","Tactics"],"Year Published":"2025","AI suggested tags":["Narratives","Animal_Ethics","Movement_Strategy"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/you-can-t-silence-me-with-madeline-krasno-ep-86/","tags":["Activism","Law","High_Income_Countries/USA","Tactics"],"created":"2026-07-15T04:19:42.000-07:00","updated":"2026-09-30T11:55:03.373-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2162795","tags":["Activism","Law","High_Income_Countries/USA","Tactics"],"Year Published":"2025","AI suggested tags":["Narratives","Animal_Ethics","Movement_Strategy"]}}
 ---
 
 Today, we’re celebrating a powerful victory by Madeline Krasno, founder of Justify, against her alma mater—the University of Wisconsin–Madison. The university censored her online denunciation of the cruel animal testing conducted in its labs, but Madeline fought back and won.

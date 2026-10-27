@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/jainism-for-veganism/","tags":["Veganism","Animal_Ethics","Activism","Movement_Strategy"],"created":"2026-08-20T15:18:17.000+01:00","updated":"2026-09-30T19:55:03.270+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/3068934","tags":["Veganism","Animal_Ethics","Activism","Movement_Strategy"],"Year Published":"2026","AI suggested tags":["Philosophy","Anthropology","Narratives"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/jainism-for-veganism/","tags":["Veganism","Animal_Ethics","Activism","Movement_Strategy"],"created":"2026-08-20T07:18:17.000-07:00","updated":"2026-09-30T11:55:03.270-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/3068934","tags":["Veganism","Animal_Ethics","Activism","Movement_Strategy"],"Year Published":"2026","AI suggested tags":["Philosophy","Anthropology","Narratives"]}}
 ---
 
 Today, we’re highlighting the efforts of passionate Jain animal rights activists who are promoting veganism from within their religious community.

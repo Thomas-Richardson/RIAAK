@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/making-compromises-for-the-animals-with-rune-christoffer-dragsdahl-ep-107/","tags":["Movement_Strategy","Movement_Building","Tactics","Europe"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T19:55:03.279+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2522225","tags":["Movement_Strategy","Movement_Building","Tactics","Europe"],"Year Published":"2026","AI suggested tags":["Veganism","Activism","Philosophy"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/making-compromises-for-the-animals-with-rune-christoffer-dragsdahl-ep-107/","tags":["Movement_Strategy","Movement_Building","Tactics","Europe"],"created":"2026-07-10T06:24:39.000-07:00","updated":"2026-09-30T11:55:03.279-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2522225","tags":["Movement_Strategy","Movement_Building","Tactics","Europe"],"Year Published":"2026","AI suggested tags":["Veganism","Activism","Philosophy"]}}
 ---
 
 Today, we travel to Denmark to explore the amazing work of the Vegetarian Society of Denmark.

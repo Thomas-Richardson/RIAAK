@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/the-case-for-homeschooling-with-dr-peter-gray-reupload/","created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T19:55:03.312+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/1718912","tags":null,"Year Published":"2024","AI suggested tags":["Animal_Ethics","Philosophy","Anthropology"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/the-case-for-homeschooling-with-dr-peter-gray-reupload/","created":"2026-07-10T06:24:39.000-07:00","updated":"2026-09-30T11:55:03.312-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/1718912","tags":null,"Year Published":"2024","AI suggested tags":["Animal_Ethics","Philosophy","Anthropology"]}}
 ---
 
 In last week's episode, our guest Adam shared that he wanted to homeschool his son.

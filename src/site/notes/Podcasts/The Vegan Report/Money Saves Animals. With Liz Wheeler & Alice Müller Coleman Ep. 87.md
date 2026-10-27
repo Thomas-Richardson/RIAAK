@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/money-saves-animals-with-liz-wheeler-and-alice-mueller-coleman-ep-87/","tags":["Movement_Building","Movement_Strategy","Working_Conditions"],"created":"2026-07-15T12:19:41.000+01:00","updated":"2026-09-30T19:55:03.284+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2171097","tags":["Movement_Building","Movement_Strategy","Working_Conditions"],"Year Published":"2025","AI suggested tags":["Tactics","Activism","Effective_Altruism"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/money-saves-animals-with-liz-wheeler-and-alice-mueller-coleman-ep-87/","tags":["Movement_Building","Movement_Strategy","Working_Conditions"],"created":"2026-07-15T04:19:41.000-07:00","updated":"2026-09-30T11:55:03.284-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2171097","tags":["Movement_Building","Movement_Strategy","Working_Conditions"],"Year Published":"2025","AI suggested tags":["Tactics","Activism","Effective_Altruism"]}}
 ---
 
 Today, an exclusive window into a high stakes world, at the heart of the animal rights movement. Hear from the fundraisers driving the dollars that fuel the fight for animals.

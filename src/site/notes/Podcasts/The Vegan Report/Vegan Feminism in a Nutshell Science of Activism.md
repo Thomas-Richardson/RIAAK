@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/vegan-feminism-in-a-nutshell-science-of-activism/","tags":["Activism","Movement_Strategy","Veganism","Animal_Ethics"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T19:55:03.341+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2308674","tags":["Activism","Movement_Strategy","Veganism","Animal_Ethics"],"Year Published":"2025","AI suggested tags":["Philosophy","Narratives","Movement_Building"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/vegan-feminism-in-a-nutshell-science-of-activism/","tags":["Activism","Movement_Strategy","Veganism","Animal_Ethics"],"created":"2026-07-10T06:24:39.000-07:00","updated":"2026-09-30T11:55:03.341-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2308674","tags":["Activism","Movement_Strategy","Veganism","Animal_Ethics"],"Year Published":"2025","AI suggested tags":["Philosophy","Narratives","Movement_Building"]}}
 ---
 
 Corey Lee Wrenn, PhD is an American sociologist specializing in animals and society, the animal rights movement, ecofeminism, and vegan studies.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/our-plant-based-ancestors-with-dr-hadar-ahituv-ep-68/","tags":["Anthropology","Diet","Plant_Based","Narratives"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T19:55:03.289+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/1936713","tags":["Anthropology","Diet","Plant_Based","Narratives"],"Year Published":"2025","AI suggested tags":["Veganism","Animal_Ethics","Philosophy"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/our-plant-based-ancestors-with-dr-hadar-ahituv-ep-68/","tags":["Anthropology","Diet","Plant_Based_Diets","Narratives"],"created":"2026-07-10T06:24:39.000-07:00","updated":"2026-10-18T01:41:07.773-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/1936713","tags":["Anthropology","Diet","Plant_Based_Diets","Narratives"],"Year Published":"2025","AI suggested tags":["Veganism","Animal_Ethics","Philosophy"]}}
 ---
 
 For decades, we've held a clear and widely accepted picture of what prehistoric humans were like. Central to that narrative is the belief that they followed a so-called "Paleo diet"—a diet consisting of whole foods, heavily focused on animal proteins, while avoiding grains and legumes.

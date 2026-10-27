@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/retiring-from-sanctuary-life-with-catherine-gagnieux-ep-89/","tags":["Activism","Canada"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T19:55:03.301+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2192614","tags":["Activism","Canada"],"Year Published":"2025","AI suggested tags":["Tactics","Movement_Strategy","Movement_Building"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/retiring-from-sanctuary-life-with-catherine-gagnieux-ep-89/","tags":["Activism","Canada"],"created":"2026-07-10T06:24:39.000-07:00","updated":"2026-09-30T11:55:03.301-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2192614","tags":["Activism","Canada"],"Year Published":"2025","AI suggested tags":["Tactics","Movement_Strategy","Movement_Building"]}}
 ---
 
 Today, the story of someone who had the wisdom to let go for the better.

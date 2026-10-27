@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/jane-goodall-vs-david-attenborough-with-alex-ventimilla-ep-95/","tags":["Environment/Climate_Change","Animal_Welfare","Narratives"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T19:55:03.271+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2288395","tags":["Environment/Climate_Change","Animal_Welfare","Narratives"],"Year Published":"2025","AI suggested tags":["Veganism","Animal_Ethics","Anthropology"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/jane-goodall-vs-david-attenborough-with-alex-ventimilla-ep-95/","tags":["Environment/Climate_Change","Animal_Welfare","Narratives"],"created":"2026-07-10T06:24:39.000-07:00","updated":"2026-09-30T11:55:03.271-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2288395","tags":["Environment/Climate_Change","Animal_Welfare","Narratives"],"Year Published":"2025","AI suggested tags":["Veganism","Animal_Ethics","Anthropology"]}}
 ---
 
 Today, we compare two different approaches to advancing the environmental cause from two vegan giants: Jane Goodall and David Attenborough.

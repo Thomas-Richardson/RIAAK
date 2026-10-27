@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/greenpeace-2024/","tags":["Farmers"],"created":"2025-10-23T17:42:48.078+01:00","updated":"2026-09-30T19:55:02.406+01:00","dg-note-properties":{"tags":["Farmers"],"AI suggested tags":["Farming","Animal_Feed","USA"]}}
+{"dg-publish":true,"permalink":"/greenpeace-2024/","tags":["Farmers"],"created":"2025-10-23T09:42:48.078-07:00","updated":"2026-09-30T11:55:02.406-07:00","dg-note-properties":{"tags":["Farmers"],"AI suggested tags":["Farming","Animal_Feed","USA"]}}
 ---
 
 

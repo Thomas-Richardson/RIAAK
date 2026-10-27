@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/high-protein-diets-don-t-work-on-average/","tags":["Diet","Health/Nutrition","Meat"],"created":"2025-10-23T17:42:42.023+01:00","updated":"2026-09-30T19:55:02.416+01:00","dg-note-properties":{"tags":["Diet","Health/Nutrition","Meat"],"AI suggested tags":["Nuts","Review","Citation"]}}
+{"dg-publish":true,"permalink":"/high-protein-diets-don-t-work-on-average/","tags":["Diet","Health/Nutrition","Meat"],"created":"2025-10-23T09:42:42.023-07:00","updated":"2026-09-30T11:55:02.416-07:00","dg-note-properties":{"tags":["Diet","Health/Nutrition","Meat"],"AI suggested tags":["Nuts","Review","Citation"]}}
 ---
 
 

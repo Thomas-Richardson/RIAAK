@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health-effects-of-dairy/","tags":["Health/Nutrition","Dairy","Nuts"],"created":"2025-10-23T17:42:47.503+01:00","updated":"2026-09-30T19:55:03.642+01:00","dg-note-properties":{"tags":["Health/Nutrition","Dairy","Nuts"],"AI suggested tags":["Diet","Meat","Review"]}}
+{"dg-publish":true,"permalink":"/health-effects-of-dairy/","tags":["Health/Nutrition","Dairy","Nuts"],"created":"2025-10-23T09:42:47.503-07:00","updated":"2026-09-30T11:55:03.642-07:00","dg-note-properties":{"tags":["Health/Nutrition","Dairy","Nuts"],"AI suggested tags":["Diet","Meat","Review"]}}
 ---
 
 - [[Health effects of eggs\|Health effects of eggs]]

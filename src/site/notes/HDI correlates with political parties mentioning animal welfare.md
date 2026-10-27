@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hdi-correlates-with-political-parties-mentioning-animal-welfare/","tags":["Politics","Economics","Movement_Strategy"],"created":"2026-06-24T17:02:32.000+01:00","updated":"2026-09-30T19:55:02.407+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Politics","Economics","Movement_Strategy"],"AI suggested tags":["Public_Opinion","Lower_Middle_Income_Countries","Policy"]}}
+{"dg-publish":true,"permalink":"/hdi-correlates-with-political-parties-mentioning-animal-welfare/","tags":["Politics","Economics","Movement_Strategy"],"created":"2026-06-24T09:02:32.000-07:00","updated":"2026-09-30T11:55:02.407-07:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Politics","Economics","Movement_Strategy"],"AI suggested tags":["Public_Opinion","Lower_Middle_Income_Countries","Policy"]}}
 ---
 
 

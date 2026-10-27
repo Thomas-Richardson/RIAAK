@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health-risks-of-veggie-veganism/","tags":["Health/Nutrition","Veganism"],"created":"2025-10-23T17:42:41.969+01:00","updated":"2026-09-30T19:55:02.412+01:00","dg-note-properties":{"tags":["Health/Nutrition","Veganism"],"AI suggested tags":["Nuts","Veg_Diets","Diet"]}}
+{"dg-publish":true,"permalink":"/health-risks-of-veggie-veganism/","tags":["Health/Nutrition","Veganism"],"created":"2025-10-23T09:42:41.969-07:00","updated":"2026-09-30T11:55:02.412-07:00","dg-note-properties":{"tags":["Health/Nutrition","Veganism"],"AI suggested tags":["Nuts","Veg_Diets","Diet"]}}
 ---
 
 

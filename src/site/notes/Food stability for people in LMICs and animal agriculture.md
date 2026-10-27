@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/food-stability-for-people-in-lmi-cs-and-animal-agriculture/","tags":["MFA_Food_Sec"],"created":"2025-10-23T17:42:43.747+01:00","updated":"2026-09-30T19:55:02.378+01:00","dg-note-properties":{"tags":["MFA_Food_Sec"],"AI suggested tags":["Economics/Jobs","Lower_Middle_Income_Countries","Food_Security"]}}
+{"dg-publish":true,"permalink":"/food-stability-for-people-in-lmi-cs-and-animal-agriculture/","tags":["MFA_Food_Sec"],"created":"2025-10-23T09:42:43.747-07:00","updated":"2026-09-30T11:55:02.378-07:00","dg-note-properties":{"tags":["MFA_Food_Sec"],"AI suggested tags":["Economics/Jobs","Lower_Middle_Income_Countries","Food_Security"]}}
 ---
 
 

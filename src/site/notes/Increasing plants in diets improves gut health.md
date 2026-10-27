@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/increasing-plants-in-diets-improves-gut-health/","tags":["Health/Nutrition"],"created":"2025-10-23T17:42:43.417+01:00","updated":"2026-09-30T19:55:02.434+01:00","dg-note-properties":{"tags":["Health/Nutrition"],"AI suggested tags":["Diet","Legumes","Review"]}}
+{"dg-publish":true,"permalink":"/increasing-plants-in-diets-improves-gut-health/","tags":["Health/Nutrition"],"created":"2025-10-23T09:42:43.417-07:00","updated":"2026-09-30T11:55:02.434-07:00","dg-note-properties":{"tags":["Health/Nutrition"],"AI suggested tags":["Diet","Legumes","Review"]}}
 ---
 
 

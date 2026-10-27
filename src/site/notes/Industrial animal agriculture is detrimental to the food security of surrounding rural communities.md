@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/industrial-animal-agriculture-is-detrimental-to-the-food-security-of-surrounding-rural-communities/","tags":["Animal_Feed","MFA_Food_Sec","Economics/Jobs"],"created":"2025-11-06T16:38:11.739+00:00","updated":"2026-09-30T19:55:02.436+01:00","dg-note-properties":{"tags":["Animal_Feed","MFA_Food_Sec","Economics/Jobs"],"Note Type":"undefined","AI suggested tags":["USA","Food_Security","Farming"]}}
+{"dg-publish":true,"permalink":"/industrial-animal-agriculture-is-detrimental-to-the-food-security-of-surrounding-rural-communities/","tags":["Animal_Feed","MFA_Food_Sec","Economics/Jobs"],"created":"2025-11-06T08:38:11.739-08:00","updated":"2026-09-30T11:55:02.436-07:00","dg-note-properties":{"tags":["Animal_Feed","MFA_Food_Sec","Economics/Jobs"],"Note Type":"undefined","AI suggested tags":["USA","Food_Security","Farming"]}}
 ---
 
 

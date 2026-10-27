@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/frankenchickens/","tags":["Chickens","Factory_Farming"],"created":"2025-10-23T17:42:42.906+01:00","updated":"2026-09-30T19:55:02.384+01:00","dg-note-properties":{"tags":["Chickens","Factory_Farming"],"AI suggested tags":["USA","Eggs","Alternative_Proteins/Cultivated_Meat"]}}
+{"dg-publish":true,"permalink":"/frankenchickens/","tags":["Chickens","Factory_Farming"],"created":"2025-10-23T09:42:42.906-07:00","updated":"2026-09-30T11:55:02.384-07:00","dg-note-properties":{"tags":["Chickens","Factory_Farming"],"AI suggested tags":["USA","Eggs","Alternative_Proteins/Cultivated_Meat"]}}
 ---
 
 

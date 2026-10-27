@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health-effects-of-chicken/","tags":["Chickens","Health/Nutrition"],"created":"2025-10-23T17:42:43.120+01:00","updated":"2026-09-30T19:55:03.641+01:00","dg-note-properties":{"tags":["Chickens","Health/Nutrition"],"AI suggested tags":["Nuts","Meat","Health/Disease"]}}
+{"dg-publish":true,"permalink":"/health-effects-of-chicken/","tags":["Chickens","Health/Nutrition"],"created":"2025-10-23T09:42:43.120-07:00","updated":"2026-09-30T11:55:03.641-07:00","dg-note-properties":{"tags":["Chickens","Health/Nutrition"],"AI suggested tags":["Nuts","Meat","Health/Disease"]}}
 ---
 
 

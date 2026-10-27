@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-to-create-a-vegan-world/","tags":["Movement_Strategy","Messaging","Meat/Meat_Reduction"],"created":"2025-10-23T17:42:43.654+01:00","updated":"2026-09-30T19:55:02.428+01:00","dg-note-properties":{"tags":["Movement_Strategy","Messaging","Meat/Meat_Reduction"],"Note Type":"undefined","AI suggested tags":["Behaviour_Change","Persuasion","Psychology"]}}
+{"dg-publish":true,"permalink":"/how-to-create-a-vegan-world/","tags":["Movement_Strategy","Messaging","Meat/Meat_Reduction"],"created":"2025-10-23T09:42:43.654-07:00","updated":"2026-09-30T11:55:02.428-07:00","dg-note-properties":{"tags":["Movement_Strategy","Messaging","Meat/Meat_Reduction"],"Note Type":"undefined","AI suggested tags":["Behaviour_Change","Persuasion","Psychology"]}}
 ---
 
 By Tobias Leenaert

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/faunalytics-open-datasets/","tags":["Data"],"created":"2025-10-23T17:42:42.939+01:00","updated":"2026-09-30T19:55:02.360+01:00","dg-note-properties":{"tags":["Data"],"AI suggested tags":["Research/Methods","Public_Opinion","Consumer_Attitudes"]}}
+{"dg-publish":true,"permalink":"/faunalytics-open-datasets/","tags":["Data"],"created":"2025-10-23T09:42:42.939-07:00","updated":"2026-09-30T11:55:02.360-07:00","dg-note-properties":{"tags":["Data"],"AI suggested tags":["Research/Methods","Public_Opinion","Consumer_Attitudes"]}}
 ---
 
 

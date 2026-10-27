@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/food-bourne-disease-in-lmi-cs-from-as-fs/","tags":["Food_Safety","Health/Disease"],"created":"2025-11-11T23:26:04.347+00:00","updated":"2026-09-30T19:55:03.639+01:00","dg-note-properties":{"tags":["Food_Safety","Health/Disease"],"AI suggested tags":["MFA_Food_Sec","Economics/Jobs","Lower_Middle_Income_Countries"]}}
+{"dg-publish":true,"permalink":"/food-bourne-disease-in-lmi-cs-from-as-fs/","tags":["Food_Safety","Health/Disease"],"created":"2025-11-11T15:26:04.347-08:00","updated":"2026-09-30T11:55:03.639-07:00","dg-note-properties":{"tags":["Food_Safety","Health/Disease"],"AI suggested tags":["MFA_Food_Sec","Economics/Jobs","Lower_Middle_Income_Countries"]}}
 ---
 
 - [[Factory farmed animals cause pandemics and zoonotic disease\|Factory farmed animals cause pandemics and zoonotic disease]]

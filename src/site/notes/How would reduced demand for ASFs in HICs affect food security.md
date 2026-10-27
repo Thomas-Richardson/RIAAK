@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-would-reduced-demand-for-as-fs-in-hi-cs-affect-food-security/","tags":["Farming","Lower_Middle_Income_Countries","High_Income_Countries","Alternative_Proteins/Cultivated_Meat","Food_Security"],"created":"2025-10-23T17:42:42.887+01:00","updated":"2026-09-30T19:55:02.430+01:00","dg-note-properties":{"tags":["Farming","Lower_Middle_Income_Countries","High_Income_Countries","Alternative_Proteins/Cultivated_Meat","Food_Security"],"Note Type":"undefined","AI suggested tags":["MFA_Food_Sec","USA","Economics"]}}
+{"dg-publish":true,"permalink":"/how-would-reduced-demand-for-as-fs-in-hi-cs-affect-food-security/","tags":["Farming","Lower_Middle_Income_Countries","High_Income_Countries","Alternative_Proteins/Cultivated_Meat","Food_Security"],"created":"2025-10-23T09:42:42.887-07:00","updated":"2026-09-30T11:55:02.430-07:00","dg-note-properties":{"tags":["Farming","Lower_Middle_Income_Countries","High_Income_Countries","Alternative_Proteins/Cultivated_Meat","Food_Security"],"Note Type":"undefined","AI suggested tags":["MFA_Food_Sec","USA","Economics"]}}
 ---
 
 - [[International trade in animal products and feed\|International trade in animal products and feed]]

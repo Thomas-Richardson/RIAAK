@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/factors-that-predict-sticking-with-veganism/","tags":["Psychology","Veganism"],"created":"2025-10-23T17:42:42.332+01:00","updated":"2026-09-30T19:55:02.348+01:00","dg-note-properties":{"tags":["Psychology","Veganism"],"AI suggested tags":["Retention","Veg_Diets","Behaviour_Change"]}}
+{"dg-publish":true,"permalink":"/factors-that-predict-sticking-with-veganism/","tags":["Psychology","Veganism"],"created":"2025-10-23T09:42:42.332-07:00","updated":"2026-09-30T11:55:02.348-07:00","dg-note-properties":{"tags":["Psychology","Veganism"],"AI suggested tags":["Retention","Veg_Diets","Behaviour_Change"]}}
 ---
 
 

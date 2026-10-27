@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-to-assess-a-campaign-or-intervention-and-it-s-effect-on-google-search-results/","tags":["Research/Methods","Consumer_Research"],"created":"2025-10-23T17:42:41.418+01:00","updated":"2026-09-30T19:55:02.427+01:00","dg-note-properties":{"tags":["Research/Methods","Consumer_Research"],"Note Type":"undefined","AI suggested tags":["Research","Public_Opinion","Behaviour_Change"]}}
+{"dg-publish":true,"permalink":"/how-to-assess-a-campaign-or-intervention-and-it-s-effect-on-google-search-results/","tags":["Research/Methods","Consumer_Research"],"created":"2025-10-23T09:42:41.418-07:00","updated":"2026-09-30T11:55:02.427-07:00","dg-note-properties":{"tags":["Research/Methods","Consumer_Research"],"Note Type":"undefined","AI suggested tags":["Research","Public_Opinion","Behaviour_Change"]}}
 ---
 
 - [[Do Documentaries work\|Do Documentaries work]]

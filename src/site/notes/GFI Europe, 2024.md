@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gfi-europe-2024/","tags":["Consumer_Attitudes","Alternative_Proteins/Cultivated_Meat"],"created":"2025-10-23T17:42:41.804+01:00","updated":"2026-09-30T19:55:02.390+01:00","dg-note-properties":{"tags":["Consumer_Attitudes","Alternative_Proteins/Cultivated_Meat"],"AI suggested tags":["Consumer_Research","Report","Bryant_Research"]}}
+{"dg-publish":true,"permalink":"/gfi-europe-2024/","tags":["Consumer_Attitudes","Alternative_Proteins/Cultivated_Meat"],"created":"2025-10-23T09:42:41.804-07:00","updated":"2026-09-30T11:55:02.390-07:00","dg-note-properties":{"tags":["Consumer_Attitudes","Alternative_Proteins/Cultivated_Meat"],"AI suggested tags":["Consumer_Research","Report","Bryant_Research"]}}
 ---
 
 

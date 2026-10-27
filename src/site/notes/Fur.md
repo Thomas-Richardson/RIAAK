@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fur/","tags":["Materials","Wild_Animals"],"created":"2025-10-23T17:42:43.712+01:00","updated":"2026-09-30T19:55:02.386+01:00","dg-note-properties":{"tags":["Materials","Wild_Animals"],"Note Type":"undefined","AI suggested tags":["Factory_Farming","Environment/Pollution","Animal_Welfare"]}}
+{"dg-publish":true,"permalink":"/fur/","tags":["Materials","Wild_Animals"],"created":"2025-10-23T09:42:43.712-07:00","updated":"2026-09-30T11:55:02.386-07:00","dg-note-properties":{"tags":["Materials","Wild_Animals"],"Note Type":"undefined","AI suggested tags":["Factory_Farming","Environment/Pollution","Animal_Welfare"]}}
 ---
 
 

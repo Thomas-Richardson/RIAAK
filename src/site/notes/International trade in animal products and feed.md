@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/international-trade-in-animal-products-and-feed/","tags":["Animal_Feed","Economics","USA","SE_Asia"],"created":"2025-10-23T17:42:42.147+01:00","updated":"2026-09-30T19:55:02.440+01:00","dg-note-properties":{"tags":["Animal_Feed","Economics","USA","SE_Asia"],"Note Type":"undefined","AI suggested tags":["MFA_Food_Sec","Lower_Middle_Income_Countries","Economics/Jobs"]}}
+{"dg-publish":true,"permalink":"/international-trade-in-animal-products-and-feed/","tags":["Animal_Feed","Economics","USA","SE_Asia"],"created":"2025-10-23T09:42:42.147-07:00","updated":"2026-09-30T11:55:02.440-07:00","dg-note-properties":{"tags":["Animal_Feed","Economics","USA","SE_Asia"],"Note Type":"undefined","AI suggested tags":["MFA_Food_Sec","Lower_Middle_Income_Countries","Economics/Jobs"]}}
 ---
 
 - [[Bryant Confidential/MFA Food sec MOC\|MFA Food sec MOC]] 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/if-veganism-were-a-treatment-how-much-would-it-be-worth-to-the-nhs/","tags":["Veganism","High_Income_Countries/UK","Economics/Costs","Health/Nutrition"],"created":"2026-02-24T16:34:24.969+00:00","updated":"2026-09-30T19:55:03.643+01:00","dg-note-properties":{"Note Type":null,"tags":["Veganism","High_Income_Countries/UK","Economics/Costs","Health/Nutrition"],"created":null,"AI suggested tags":["BOTEC","CAWF_NHS","Health"]}}
+{"dg-publish":true,"permalink":"/if-veganism-were-a-treatment-how-much-would-it-be-worth-to-the-nhs/","tags":["Veganism","High_Income_Countries/UK","Economics/Costs","Health/Nutrition"],"created":"2026-02-24T08:34:24.969-08:00","updated":"2026-10-18T01:41:07.792-07:00","dg-note-properties":{"Note Type":null,"tags":["Veganism","High_Income_Countries/UK","Economics/Costs","Health/Nutrition"],"created":null,"AI suggested tags":["BOTEC","Bryant_Research/Project/CAWF_NHS","Health"]}}
 ---
 
 Project idea for Bryant

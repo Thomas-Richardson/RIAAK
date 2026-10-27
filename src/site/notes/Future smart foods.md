@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/future-smart-foods/","tags":["Health/Nutrition","Lower_Middle_Income_Countries"],"created":"2025-10-23T17:42:43.003+01:00","updated":"2026-09-30T19:55:02.387+01:00","dg-note-properties":{"tags":["Health/Nutrition","Lower_Middle_Income_Countries"],"AI suggested tags":["MFA_Food_Sec","Food_Security","Animal_Feed"]}}
+{"dg-publish":true,"permalink":"/future-smart-foods/","tags":["Health/Nutrition","Lower_Middle_Income_Countries"],"created":"2025-10-23T09:42:43.003-07:00","updated":"2026-09-30T11:55:02.387-07:00","dg-note-properties":{"tags":["Health/Nutrition","Lower_Middle_Income_Countries"],"AI suggested tags":["MFA_Food_Sec","Food_Security","Animal_Feed"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/feeding-the-world-nutrition-over-calories-plants-over-animals/","tags":["Animal_Feed","Health/Nutrition","MFA_Food_Sec"],"created":"2025-10-23T17:42:47.258+01:00","updated":"2026-09-30T19:55:02.364+01:00","dg-note-properties":{"tags":["Animal_Feed","Health/Nutrition","MFA_Food_Sec"],"Note Type":"undefined","AI suggested tags":["Food_Security","Lower_Middle_Income_Countries","Economics/Jobs"]}}
+{"dg-publish":true,"permalink":"/feeding-the-world-nutrition-over-calories-plants-over-animals/","tags":["Animal_Feed","Health/Nutrition","MFA_Food_Sec"],"created":"2025-10-23T09:42:47.258-07:00","updated":"2026-09-30T11:55:02.364-07:00","dg-note-properties":{"tags":["Animal_Feed","Health/Nutrition","MFA_Food_Sec"],"Note Type":"undefined","AI suggested tags":["Food_Security","Lower_Middle_Income_Countries","Economics/Jobs"]}}
 ---
 
 

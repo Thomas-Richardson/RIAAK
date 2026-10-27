@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/food-prices-up-50-percent-in-five-years-per-eciu/","tags":["Economics/Costs","Food_Security","High_Income_Countries/UK"],"created":"2026-06-24T17:02:32.000+01:00","updated":"2026-10-01T06:57:10.241+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Economics/Costs","Food_Security","High_Income_Countries/UK"],"AI suggested tags":["Bryant_Research/Project/CAWF_Food_Sec","UK","Economics"]}}
+{"dg-publish":true,"permalink":"/food-prices-up-50-percent-in-five-years-per-eciu/","tags":["Economics/Costs","Food_Security","High_Income_Countries/UK"],"created":"2026-06-24T09:02:32.000-07:00","updated":"2026-09-30T22:57:10.241-07:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Economics/Costs","Food_Security","High_Income_Countries/UK"],"AI suggested tags":["Bryant_Research/Project/CAWF_Food_Sec","UK","Economics"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/food-security-risks-that-could-come-from-scaling-up-animal-agriculture-in-lmi-cs/","tags":["Animal_Feed","MFA_Food_Sec","Environment/Land"],"created":"2025-10-23T17:42:47.134+01:00","updated":"2026-09-30T19:55:02.376+01:00","dg-note-properties":{"tags":["Animal_Feed","MFA_Food_Sec","Environment/Land"],"Note Type":"undefined","AI suggested tags":["Economics/Jobs","Food_Security","Farming"]}}
+{"dg-publish":true,"permalink":"/food-security-risks-that-could-come-from-scaling-up-animal-agriculture-in-lmi-cs/","tags":["Animal_Feed","MFA_Food_Sec","Environment/Land"],"created":"2025-10-23T09:42:47.134-07:00","updated":"2026-09-30T11:55:02.376-07:00","dg-note-properties":{"tags":["Animal_Feed","MFA_Food_Sec","Environment/Land"],"Note Type":"undefined","AI suggested tags":["Economics/Jobs","Food_Security","Farming"]}}
 ---
 
 

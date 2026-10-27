@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/heavy-metal-poisoning-in-factory-farmed-meat/","tags":["Meat","Health/Disease"],"created":"2026-01-09T15:52:46.407+00:00","updated":"2026-09-30T19:55:02.415+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Meat","Health/Disease"],"created":null,"AI suggested tags":["Environment/Pollution","Factory_Farming","Pigs"]}}
+{"dg-publish":true,"permalink":"/heavy-metal-poisoning-in-factory-farmed-meat/","tags":["Meat","Health/Disease"],"created":"2026-01-09T07:52:46.407-08:00","updated":"2026-09-30T11:55:02.415-07:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Meat","Health/Disease"],"created":null,"AI suggested tags":["Environment/Pollution","Factory_Farming","Pigs"]}}
 ---
 
 Dioxins, heavy metals like mercury and cadmium, and pesticide residues build up in the fatty tissues of animals, especially those raised in industrial settings. These risks have been well-documented by the [U.S. Environmental Protection Agency](https://www.epa.gov/dioxin/learn-about-dioxin), and National Institutes of Health.

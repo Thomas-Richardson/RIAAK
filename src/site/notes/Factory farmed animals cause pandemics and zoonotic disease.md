@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/factory-farmed-animals-cause-pandemics-and-zoonotic-disease/","tags":["Factory_Farming","Health/Disease","Pigs"],"created":"2025-11-11T23:29:30.141+00:00","updated":"2026-09-30T19:55:02.349+01:00","dg-note-properties":{"tags":["Factory_Farming","Health/Disease","Pigs"],"Note Type":"undefined","AI suggested tags":["USA","Economics/Jobs","Food_Safety"]}}
+{"dg-publish":true,"permalink":"/factory-farmed-animals-cause-pandemics-and-zoonotic-disease/","tags":["Factory_Farming","Health/Disease","Pigs"],"created":"2025-11-11T15:29:30.141-08:00","updated":"2026-09-30T11:55:02.349-07:00","dg-note-properties":{"tags":["Factory_Farming","Health/Disease","Pigs"],"Note Type":"undefined","AI suggested tags":["USA","Economics/Jobs","Food_Safety"]}}
 ---
 
 - See [[Citations/Mace and Knight, 2023\|Mace and Knight, 2023]] for a review in chickens and pigs

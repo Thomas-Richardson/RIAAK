@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/we-need-both-studies-of-both-theoretical-and-applied-ghg-emissions-from-pb-and-omnivores/","tags":["Environment"],"created":"2025-10-23T17:42:41.995+01:00","updated":"2026-10-01T06:57:10.656+01:00","dg-note-properties":{"tags":["Environment"],"AI suggested tags":["Environment/GHG","Veg_Diets","Meat/Meat_Reduction"]}}
+{"dg-publish":true,"permalink":"/we-need-both-studies-of-both-theoretical-and-applied-ghg-emissions-from-pb-and-omnivores/","tags":["Environment"],"created":"2025-10-23T09:42:41.995-07:00","updated":"2026-09-30T22:57:10.656-07:00","dg-note-properties":{"tags":["Environment"],"AI suggested tags":["Environment/GHG","Veg_Diets","Meat/Meat_Reduction"]}}
 ---
 
 

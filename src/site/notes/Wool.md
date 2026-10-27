@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wool/","tags":["Materials","Wild_Animals"],"created":"2025-10-23T17:42:41.227+01:00","updated":"2026-10-01T06:57:10.693+01:00","dg-note-properties":{"tags":["Materials","Wild_Animals"],"Note Type":"undefined","AI suggested tags":["Cows","Environment","Farming"]}}
+{"dg-publish":true,"permalink":"/wool/","tags":["Materials","Wild_Animals"],"created":"2025-10-23T09:42:41.227-07:00","updated":"2026-09-30T22:57:10.693-07:00","dg-note-properties":{"tags":["Materials","Wild_Animals"],"Note Type":"undefined","AI suggested tags":["Cows","Environment","Farming"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/using-social-norms-to-reduce-animal-product-consumption/","tags":["Psychology"],"created":"2025-10-23T17:42:47.397+01:00","updated":"2026-09-30T19:55:03.571+01:00","dg-note-properties":{"tags":["Psychology"],"AI suggested tags":["Behaviour_Change","Meat/Meat_Reduction","Consumer_Research"]}}
+{"dg-publish":true,"permalink":"/using-social-norms-to-reduce-animal-product-consumption/","tags":["Psychology"],"created":"2025-10-23T09:42:47.397-07:00","updated":"2026-09-30T11:55:03.571-07:00","dg-note-properties":{"tags":["Psychology"],"AI suggested tags":["Behaviour_Change","Meat/Meat_Reduction","Consumer_Research"]}}
 ---
 
 

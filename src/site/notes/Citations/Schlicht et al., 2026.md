@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/citations/schlicht-et-al-2026/","tags":["Behaviour_Change","Messaging","Persuasion","AI","Diet_Change"],"created":"2026-10-01T22:55:35.234-07:00","updated":"2026-10-01T22:55:36.279-07:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.sciencedirect.com/science/article/pii/S0195666326003351","tags":["Behaviour_Change","Messaging","Persuasion","AI","Diet_Change"],"Year Published":"2026","AI suggested tags":["Review","Health/Nutrition","Consumer_Research"]}}
+---
+
+## Abstract
+Adolescents are a notoriously difficult audience to engage in digital health communication. While many tailoring strategies focus on tailoring what is communicated, far less attention has been paid to how messages are expressed. Addressing this gap, we examined automated AI-based linguistic tailoring as an innovative approach to personalised health communication. Using large language model–based text style transfer, we tailored health messages to adolescents’ individual communication styles to examine whether linguistic tailoring enhances persuasive responses and dietary behaviour. To this end, we conducted a preregistered two-week randomised controlled trial with 587 adolescents (M<sub>age</sub> = 13.09) in the UK and Ireland. Participants were assigned to four arms: no messages, non-tailored messages, linguistically tailored messages, or a tailored–non–tailored crossover arm. The primary outcome was the choice of a plant-based lunch; secondary outcomes assessed evaluations of the message and source. Bayesian mixed-effects analyses showed that adolescents receiving daily health messages (tailored or not) increasingly chose plant-based lunches over time (from 44% to 59%; OR = 1.06 per day; BF<sub>10</sub> = 35.39), whereas choices remained stable in the passive control group (45–46%). This effect was comparable for the tailored and non-tailored message conditions, indicating no additional short-term behavioural benefit of linguistic tailoring. However, exploratory analyses showed higher ratings of message relevance (BF<sub>10</sub> = 3.50), perceived personalisation (BF<sub>10</sub> = 4.93), and source liking (BF<sub>10</sub> = 3.38) for linguistic tailoring in the second week of the intervention. These exploratory findings suggest that LLM-based linguistic tailoring may enhance the persuasive appeal of dietary health messages, particularly following repeated exposure.
+
+
+# AI suggested related articles
+
+- [[Citations/Kadel et al., 2024\|Citations/Kadel et al., 2024]] (0.59)
+- [[Citations/van der Vliet et al., 2024\|Citations/van der Vliet et al., 2024]] (0.56)
+- [[Citations/Luick et al., 2023\|Citations/Luick et al., 2023]] (0.56)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/we-eat-too-many-animal-products/","tags":["Farming","Health/Nutrition","Meat"],"created":"2025-10-23T17:42:42.463+01:00","updated":"2026-10-01T06:57:10.655+01:00","dg-note-properties":{"tags":["Farming","Health/Nutrition","Meat"],"AI suggested tags":["Meat/Meat_Consumption","Citation","Animal_Feed"]}}
+{"dg-publish":true,"permalink":"/we-eat-too-many-animal-products/","tags":["Farming","Health/Nutrition","Meat"],"created":"2025-10-23T09:42:42.463-07:00","updated":"2026-09-30T22:57:10.655-07:00","dg-note-properties":{"tags":["Farming","Health/Nutrition","Meat"],"AI suggested tags":["Meat/Meat_Consumption","Citation","Animal_Feed"]}}
 ---
 
 

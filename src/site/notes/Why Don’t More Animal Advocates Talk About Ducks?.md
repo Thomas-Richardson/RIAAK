@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/why-don-t-more-animal-advocates-talk-about-ducks/","tags":["Movement_Strategy","Asia","Meat/Meat_Consumption","Effective_Altruism"],"created":"2026-02-04T11:54:14.330+00:00","updated":"2026-09-30T19:55:03.605+01:00","dg-note-properties":{"Note Type":"News Report / Blog","Url":"https://faunalytics.org/why-dont-more-animal-advocates-talk-about-ducks/","tags":["Movement_Strategy","Asia","Meat/Meat_Consumption","Effective_Altruism"],"AI suggested tags":["Chickens","Animal_Welfare","Strategy"]}}
+{"dg-publish":true,"permalink":"/why-don-t-more-animal-advocates-talk-about-ducks/","tags":["Movement_Strategy","Asia","Meat/Meat_Consumption","Effective_Altruism"],"created":"2026-02-04T03:54:14.330-08:00","updated":"2026-09-30T11:55:03.605-07:00","dg-note-properties":{"Note Type":"News Report / Blog","Url":"https://faunalytics.org/why-dont-more-animal-advocates-talk-about-ducks/","tags":["Movement_Strategy","Asia","Meat/Meat_Consumption","Effective_Altruism"],"AI suggested tags":["Chickens","Animal_Welfare","Strategy"]}}
 ---
 
 [Photo by Niklas Hamann on Unsplash](https://unsplash.com/photos/group-of-duck-on-grass-Vva_-Gfkd1w)

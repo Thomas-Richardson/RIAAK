@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-hunger/","tags":["Health/Nutrition","Lower_Middle_Income_Countries","MFA_Food_Sec"],"created":"2025-10-23T17:42:41.508+01:00","updated":"2026-09-30T19:55:03.617+01:00","dg-note-properties":{"tags":["Health/Nutrition","Lower_Middle_Income_Countries","MFA_Food_Sec"],"AI suggested tags":["Food_Security","Diet","Citation"]}}
+{"dg-publish":true,"permalink":"/world-hunger/","tags":["Health/Nutrition","Lower_Middle_Income_Countries","MFA_Food_Sec"],"created":"2025-10-23T09:42:41.508-07:00","updated":"2026-09-30T11:55:03.617-07:00","dg-note-properties":{"tags":["Health/Nutrition","Lower_Middle_Income_Countries","MFA_Food_Sec"],"AI suggested tags":["Food_Security","Diet","Citation"]}}
 ---
 
 

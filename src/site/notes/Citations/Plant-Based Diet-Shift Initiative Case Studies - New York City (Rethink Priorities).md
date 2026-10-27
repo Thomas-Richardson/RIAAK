@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/plant-based-diet-shift-initiative-case-studies-new-york-city-rethink-priorities/","tags":["Case_Study","Institutional_Change"],"created":"2025-10-23T17:42:44.794+01:00","updated":"2026-09-30T19:55:01.901+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/plant-based-diet-shift-initiative-case-studies-new-york-city/","tags":["Case_Study","Institutional_Change"],"Year Published":"2025","AI suggested tags":["Policy/Food_Policy","Meat/Meat_Reduction","Alternative_Proteins/Plant_Based"]}}
+{"dg-publish":true,"permalink":"/citations/plant-based-diet-shift-initiative-case-studies-new-york-city-rethink-priorities/","tags":["Case_Study","Institutional_Change"],"created":"2025-10-23T09:42:44.794-07:00","updated":"2026-09-30T11:55:01.901-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/plant-based-diet-shift-initiative-case-studies-new-york-city/","tags":["Case_Study","Institutional_Change"],"Year Published":"2025","AI suggested tags":["Policy/Food_Policy","Meat/Meat_Reduction","Alternative_Proteins/Plant_Based"]}}
 ---
 
 ### Case study profile

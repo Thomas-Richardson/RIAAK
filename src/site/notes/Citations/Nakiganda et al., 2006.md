@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/nakiganda-et-al-2006/","tags":["Citation","Cows","Dairy","Lower_Middle_Income_Countries","MFA_Food_Sec"],"created":"2025-10-23T17:42:46.441+01:00","updated":"2026-09-30T19:55:01.856+01:00","dg-note-properties":{"tags":["Citation","Cows","Dairy","Lower_Middle_Income_Countries","MFA_Food_Sec"],"AI suggested tags":["Farming","Economics/Jobs","USA"]}}
+{"dg-publish":true,"permalink":"/citations/nakiganda-et-al-2006/","tags":["Citation","Cows","Dairy","Lower_Middle_Income_Countries","MFA_Food_Sec"],"created":"2025-10-23T09:42:46.441-07:00","updated":"2026-09-30T11:55:01.856-07:00","dg-note-properties":{"tags":["Citation","Cows","Dairy","Lower_Middle_Income_Countries","MFA_Food_Sec"],"AI suggested tags":["Farming","Economics/Jobs","USA"]}}
 ---
 
 

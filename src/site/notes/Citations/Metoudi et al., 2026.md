@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/metoudi-et-al-2026/","tags":["Review","Legumes","Health/Nutrition","Health/Disease"],"created":"2026-06-24T17:02:32.000+01:00","updated":"2026-09-30T19:55:01.836+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://nutrition.bmj.com/content/early/2026/05/04/bmjnph-2025-001449","tags":["Review","Legumes","Health/Nutrition","Health/Disease"],"Year Published":"2026","AI suggested tags":["Diet","Meat","Citation"]}}
+{"dg-publish":true,"permalink":"/citations/metoudi-et-al-2026/","tags":["Review","Legumes","Health/Nutrition","Health/Disease"],"created":"2026-06-24T09:02:32.000-07:00","updated":"2026-09-30T11:55:01.836-07:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://nutrition.bmj.com/content/early/2026/05/04/bmjnph-2025-001449","tags":["Review","Legumes","Health/Nutrition","Health/Disease"],"Year Published":"2026","AI suggested tags":["Diet","Meat","Citation"]}}
 ---
 
 ### Abstract

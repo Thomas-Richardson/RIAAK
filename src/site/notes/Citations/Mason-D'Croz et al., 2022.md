@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/mason-d-croz-et-al-2022/","tags":["Alternative_Proteins","Citation","Cows","Economics","Meat","MFA_Food_Sec"],"created":"2025-10-23T17:42:45.396+01:00","updated":"2026-09-30T19:55:01.816+01:00","dg-note-properties":{"tags":["Alternative_Proteins","Citation","Cows","Economics","Meat","MFA_Food_Sec"],"AI suggested tags":["High_Income_Countries","Environment/GHG","Environment/Land"]}}
+{"dg-publish":true,"permalink":"/citations/mason-d-croz-et-al-2022/","tags":["Alternative_Proteins","Citation","Cows","Economics","Meat","MFA_Food_Sec"],"created":"2025-10-23T09:42:45.396-07:00","updated":"2026-09-30T11:55:01.816-07:00","dg-note-properties":{"tags":["Alternative_Proteins","Citation","Cows","Economics","Meat","MFA_Food_Sec"],"AI suggested tags":["High_Income_Countries","Environment/GHG","Environment/Land"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/mottet-et-al-2017/","tags":["Animal_Feed","Citation","Farming","MFA_Food_Sec"],"created":"2025-10-23T17:42:44.746+01:00","updated":"2026-09-30T19:55:01.854+01:00","dg-note-properties":{"tags":["Animal_Feed","Citation","Farming","MFA_Food_Sec"],"Note Type":"undefined","AI suggested tags":["Environment/Land","Food_Security","Meat/Beef"]}}
+{"dg-publish":true,"permalink":"/citations/mottet-et-al-2017/","tags":["Animal_Feed","Citation","Farming","MFA_Food_Sec"],"created":"2025-10-23T09:42:44.746-07:00","updated":"2026-09-30T11:55:01.854-07:00","dg-note-properties":{"tags":["Animal_Feed","Citation","Farming","MFA_Food_Sec"],"Note Type":"undefined","AI suggested tags":["Environment/Land","Food_Security","Meat/Beef"]}}
 ---
 
 

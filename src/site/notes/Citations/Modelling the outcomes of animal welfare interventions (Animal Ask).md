@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/modelling-the-outcomes-of-animal-welfare-interventions-animal-ask/","tags":["Wild_Animals"],"created":"2025-10-23T17:42:46.216+01:00","updated":"2026-09-30T19:55:01.842+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.animalask.org/post/modelling-the-outcomes-of-animal-welfare-interventions-one-possible-approach-to-the-trade-offs-betw","tags":["Wild_Animals"],"Year Published":"2024","AI suggested tags":["Research/Methods","Strategy","Animal_Welfare"]}}
+{"dg-publish":true,"permalink":"/citations/modelling-the-outcomes-of-animal-welfare-interventions-animal-ask/","tags":["Wild_Animals"],"created":"2025-10-23T09:42:46.216-07:00","updated":"2026-09-30T11:55:01.842-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.animalask.org/post/modelling-the-outcomes-of-animal-welfare-interventions-one-possible-approach-to-the-trade-offs-betw","tags":["Wild_Animals"],"Year Published":"2024","AI suggested tags":["Research/Methods","Strategy","Animal_Welfare"]}}
 ---
 
 Executive summary

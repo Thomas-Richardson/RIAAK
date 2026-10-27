@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/pew-commission-2008/","tags":["Citation","Factory_Farming","Farming","Pigs"],"created":"2025-11-11T23:29:28.827+00:00","updated":"2026-09-30T19:55:01.897+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Citation","Factory_Farming","Farming","Pigs"],"AI suggested tags":["USA","Health/Disease","Economics/Jobs"]}}
+{"dg-publish":true,"permalink":"/citations/pew-commission-2008/","tags":["Citation","Factory_Farming","Farming","Pigs"],"created":"2025-11-11T15:29:28.827-08:00","updated":"2026-09-30T11:55:01.897-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Citation","Factory_Farming","Farming","Pigs"],"AI suggested tags":["USA","Health/Disease","Economics/Jobs"]}}
 ---
 
 

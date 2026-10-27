@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/pigging-out-bryant-research-et-al/","tags":["Behaviour_Change","High_Income_Countries/UK","Meat/Meat_Reduction","Messaging","Pigs"],"created":"2026-07-12T17:06:12.000+01:00","updated":"2026-09-30T19:55:01.898+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Behaviour_Change","High_Income_Countries/UK","Meat/Meat_Reduction","Messaging","Pigs"],"source_url":"https://bryantresearch.co.uk/wp-content/uploads/2026/07/FINAL-Pigging-Out-Retail-Scanner-Data-Shows-Social-Media-Ads-Reduce-Sales-of-Fresh-Pork.pdf","created":"2026-07-06","AI suggested tags":["Meat/Meat_Consumption","Consumer_Research","Meat"]}}
+{"dg-publish":true,"permalink":"/citations/pigging-out-bryant-research-et-al/","tags":["Behaviour_Change","High_Income_Countries/UK","Meat/Meat_Reduction","Messaging","Pigs"],"created":"2026-07-12T09:06:12.000-07:00","updated":"2026-09-30T11:55:01.898-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Behaviour_Change","High_Income_Countries/UK","Meat/Meat_Reduction","Messaging","Pigs"],"source_url":"https://bryantresearch.co.uk/wp-content/uploads/2026/07/FINAL-Pigging-Out-Retail-Scanner-Data-Shows-Social-Media-Ads-Reduce-Sales-of-Fresh-Pork.pdf","created":"2026-07-06","AI suggested tags":["Meat/Meat_Consumption","Consumer_Research","Meat"]}}
 ---
 
 

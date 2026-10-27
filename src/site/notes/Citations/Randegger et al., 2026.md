@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/randegger-et-al-2026/","tags":["Europe","Health/Nutrition","Meat/Meat_Consumption","Legumes"],"created":"2026-08-30T17:07:20.000+01:00","updated":"2026-09-30T19:55:01.938+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://link.springer.com/article/10.1186/s44263-026-00306-6","tags":["Europe","Health/Nutrition","Meat/Meat_Consumption","Legumes"],"Year Published":"2026","AI suggested tags":["Dietary_Guidelines","Diet","Review"]}}
+{"dg-publish":true,"permalink":"/citations/randegger-et-al-2026/","tags":["Europe","Health/Nutrition","Meat/Meat_Consumption","Legumes"],"created":"2026-08-30T09:07:20.000-07:00","updated":"2026-09-30T11:55:01.938-07:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://link.springer.com/article/10.1186/s44263-026-00306-6","tags":["Europe","Health/Nutrition","Meat/Meat_Consumption","Legumes"],"Year Published":"2026","AI suggested tags":["Dietary_Guidelines","Diet","Review"]}}
 ---
 
 ### Background

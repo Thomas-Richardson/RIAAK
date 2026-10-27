@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/pawlak-lester-and-toyin-2014/","tags":["Citation","Health/Nutrition","Veganism"],"created":"2025-10-23T17:42:45.595+01:00","updated":"2026-09-30T19:55:01.891+01:00","dg-note-properties":{"tags":["Citation","Health/Nutrition","Veganism"],"AI suggested tags":["Veg_Diets","Review","Diet"]}}
+{"dg-publish":true,"permalink":"/citations/pawlak-lester-and-toyin-2014/","tags":["Citation","Health/Nutrition","Veganism"],"created":"2025-10-23T09:42:45.595-07:00","updated":"2026-09-30T11:55:01.891-07:00","dg-note-properties":{"tags":["Citation","Health/Nutrition","Veganism"],"AI suggested tags":["Veg_Diets","Review","Diet"]}}
 ---
 
 

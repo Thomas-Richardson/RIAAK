@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/mc-phedran-et-al-2023/","tags":["Behaviour_Change","Citation","Veganism"],"created":"2025-10-23T17:42:46.535+01:00","updated":"2026-09-30T19:55:01.825+01:00","dg-note-properties":{"tags":["Behaviour_Change","Citation","Veganism"],"AI suggested tags":["Veg_Diets","Review","Health/Nutrition"]}}
+{"dg-publish":true,"permalink":"/citations/mc-phedran-et-al-2023/","tags":["Behaviour_Change","Citation","Veganism"],"created":"2025-10-23T09:42:46.535-07:00","updated":"2026-09-30T11:55:01.825-07:00","dg-note-properties":{"tags":["Behaviour_Change","Citation","Veganism"],"AI suggested tags":["Veg_Diets","Review","Health/Nutrition"]}}
 ---
 
 

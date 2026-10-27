@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/prioritizing-animals-of-uncertain-sentience-rethink-priorities/","tags":["Sentience","Shrimp","Insects"],"created":"2025-10-23T17:42:46.841+01:00","updated":"2026-09-30T19:55:01.918+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/the-risks-and-rewards-of-prioritizing-animals-of-uncertain-sentience/","tags":["Sentience","Shrimp","Insects"],"Year Published":"2023","AI suggested tags":["Crustaceans","Research/Methods","Strategy"]}}
+{"dg-publish":true,"permalink":"/citations/prioritizing-animals-of-uncertain-sentience-rethink-priorities/","tags":["Sentience","Shrimp","Insects"],"created":"2025-10-23T09:42:46.841-07:00","updated":"2026-09-30T11:55:01.918-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/the-risks-and-rewards-of-prioritizing-animals-of-uncertain-sentience/","tags":["Sentience","Shrimp","Insects"],"Year Published":"2023","AI suggested tags":["Crustaceans","Research/Methods","Strategy"]}}
 ---
 
 Expected value (EV) maximization is a common method for making decisions across different cause areas. The EV of an action is an average of the possible outcomes of that action, weighted by the probability of those outcomes occurring if the action is performed.

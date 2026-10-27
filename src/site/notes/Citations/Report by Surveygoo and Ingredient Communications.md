@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/report-by-surveygoo-and-ingredient-communications/","tags":["Citation","Policy/Labeling","Meat","Report"],"created":"2025-10-23T17:42:44.756+01:00","updated":"2026-09-30T19:55:01.949+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Citation","Policy/Labeling","Meat","Report"],"AI suggested tags":["Plant_Based/Marketing","Consumer_Research","Consumer_Attitudes"]}}
+{"dg-publish":true,"permalink":"/citations/report-by-surveygoo-and-ingredient-communications/","tags":["Citation","Policy/Labeling","Meat","Report"],"created":"2025-10-23T09:42:44.756-07:00","updated":"2026-10-18T01:41:07.645-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Citation","Policy/Labeling","Meat","Report"],"AI suggested tags":["Consumer_Research","Marketing","Consumer_Attitudes"]}}
 ---
 
 

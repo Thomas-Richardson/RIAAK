@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/off-the-menu-feedback/","tags":["Fish/Farmed","Animal_Feed","High_Income_Countries/UK","Health/Nutrition"],"created":"2026-02-03T21:32:29.614+00:00","updated":"2026-09-30T19:55:01.869+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Fish/Farmed","Animal_Feed","High_Income_Countries/UK","Health/Nutrition"],"source_url":"https://foodrise.org.uk/wp-content/uploads/2020/06/Feedback_Off-the-Menu_June-2020_LoRes.pdf","created":"2026-02-03","AI suggested tags":["Fish","Food_Security","EU"]}}
+{"dg-publish":true,"permalink":"/citations/off-the-menu-feedback/","tags":["Fish/Farmed","Animal_Feed","High_Income_Countries/UK","Health/Nutrition"],"created":"2026-02-03T13:32:29.614-08:00","updated":"2026-09-30T11:55:01.869-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Fish/Farmed","Animal_Feed","High_Income_Countries/UK","Health/Nutrition"],"source_url":"https://foodrise.org.uk/wp-content/uploads/2020/06/Feedback_Off-the-Menu_June-2020_LoRes.pdf","created":"2026-02-03","AI suggested tags":["Fish","Food_Security","EU"]}}
 ---
 
 

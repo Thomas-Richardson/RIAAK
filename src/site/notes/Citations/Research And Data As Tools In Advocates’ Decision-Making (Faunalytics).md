@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/research-and-data-as-tools-in-advocates-decision-making-faunalytics/","tags":["Movement_Building","Movement_Strategy","Research/Methods"],"created":"2026-01-28T10:43:52.618+00:00","updated":"2026-09-30T19:55:01.953+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/research-and-data-as-tools/","tags":["Movement_Building","Movement_Strategy","Research/Methods"],"Year Published":"2024","AI suggested tags":["Public_Opinion","Retention","China"]}}
+{"dg-publish":true,"permalink":"/citations/research-and-data-as-tools-in-advocates-decision-making-faunalytics/","tags":["Movement_Building","Movement_Strategy","Research/Methods"],"created":"2026-01-28T02:43:52.618-08:00","updated":"2026-09-30T11:55:01.953-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/research-and-data-as-tools/","tags":["Movement_Building","Movement_Strategy","Research/Methods"],"Year Published":"2024","AI suggested tags":["Public_Opinion","Retention","China"]}}
 ---
 
 This Faunalytics study looks at the benefits, barriers, and opportunities in animal advocates' use of research and data in their efforts.

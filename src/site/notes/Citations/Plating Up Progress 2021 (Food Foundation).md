@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/plating-up-progress-2021-food-foundation/","tags":["UK","Retailers"],"created":"2025-10-23T17:42:46.607+01:00","updated":"2026-09-30T19:55:01.905+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://foodfoundation.org.uk/publication/plating-progress-2021","tags":["UK","Retailers"],"Year Published":"2021","AI suggested tags":["Food_Security","Alternative_Proteins","Institutional_Change"]}}
+{"dg-publish":true,"permalink":"/citations/plating-up-progress-2021-food-foundation/","tags":["UK","Retailers"],"created":"2025-10-23T09:42:46.607-07:00","updated":"2026-09-30T11:55:01.905-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://foodfoundation.org.uk/publication/plating-progress-2021","tags":["UK","Retailers"],"Year Published":"2021","AI suggested tags":["Food_Security","Alternative_Proteins","Institutional_Change"]}}
 ---
 
 This year’s analysis shows a more widespread move by supermarkets to setting targets for, and disclosing, sales-based data for healthy vs. unhealthy food, fruit and vegetables, and different protein sources (animal and plant-based). This trend is not yet mainstream across the sector, however, and the reporting methodologies used are inconsistent.

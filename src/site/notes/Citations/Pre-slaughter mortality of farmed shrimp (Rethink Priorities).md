@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/pre-slaughter-mortality-of-farmed-shrimp-rethink-priorities/","tags":["Shrimp","Crustaceans"],"created":"2025-10-23T17:42:46.907+01:00","updated":"2026-09-30T19:55:01.914+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/pre-slaughter-mortality-of-farmed-shrimp/","tags":["Shrimp","Crustaceans"],"Year Published":"2024","AI suggested tags":["Insects","Fish","Fish/Farmed"]}}
+{"dg-publish":true,"permalink":"/citations/pre-slaughter-mortality-of-farmed-shrimp-rethink-priorities/","tags":["Shrimp","Crustaceans"],"created":"2025-10-23T09:42:46.907-07:00","updated":"2026-09-30T11:55:01.914-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/pre-slaughter-mortality-of-farmed-shrimp/","tags":["Shrimp","Crustaceans"],"Year Published":"2024","AI suggested tags":["Insects","Fish","Fish/Farmed"]}}
 ---
 
 ## Executive summary

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/monaco-et-al-2024/","tags":["Citation","Alternative_Proteins/Cultivated_Meat","Insects","Review"],"created":"2025-10-23T17:42:46.191+01:00","updated":"2026-09-30T19:55:01.844+01:00","dg-note-properties":{"tags":["Citation","Alternative_Proteins/Cultivated_Meat","Insects","Review"],"AI suggested tags":["Consumer_Research","Consumer_Attitudes","Health/Nutrition"]}}
+{"dg-publish":true,"permalink":"/citations/monaco-et-al-2024/","tags":["Citation","Alternative_Proteins/Cultivated_Meat","Insects","Review"],"created":"2025-10-23T09:42:46.191-07:00","updated":"2026-09-30T11:55:01.844-07:00","dg-note-properties":{"tags":["Citation","Alternative_Proteins/Cultivated_Meat","Insects","Review"],"AI suggested tags":["Consumer_Research","Consumer_Attitudes","Health/Nutrition"]}}
 ---
 
 

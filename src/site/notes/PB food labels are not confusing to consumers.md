@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pb-food-labels-are-not-confusing-to-consumers/","tags":["Policy/Labeling"],"created":"2025-10-23T17:42:47.493+01:00","updated":"2026-09-30T19:55:02.529+01:00","dg-note-properties":{"tags":["Policy/Labeling"],"Note Type":"undefined","AI suggested tags":["Report","Plant_Based/Marketing","Consumer_Research"]}}
+{"dg-publish":true,"permalink":"/pb-food-labels-are-not-confusing-to-consumers/","tags":["Policy/Labeling"],"created":"2025-10-23T09:42:47.493-07:00","updated":"2026-10-18T01:41:07.661-07:00","dg-note-properties":{"tags":["Policy/Labeling"],"Note Type":"undefined","AI suggested tags":["Report","Consumer_Research","Marketing"]}}
 ---
 
 Great framing by GFI, talking about the EU proposal to ban the use of meaty terms to describe PB: "ban the use of everyday language to describe plant-based meat."

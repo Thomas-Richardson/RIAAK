@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/most-asians-don-t-want-to-reduce-meat/","tags":["SE_Asia","Asia","Lower_Middle_Income_Countries","Meat"],"created":"2025-10-23T17:42:42.859+01:00","updated":"2026-10-01T06:57:10.306+01:00","dg-note-properties":{"tags":["SE_Asia","Asia","Lower_Middle_Income_Countries","Meat"],"AI suggested tags":["Bryant_Research/Project/Good_Growth_Social_Listening","Consumer_Research","Alternative_Proteins"]}}
+{"dg-publish":true,"permalink":"/most-asians-don-t-want-to-reduce-meat/","tags":["SE_Asia","Asia","Lower_Middle_Income_Countries","Meat"],"created":"2025-10-23T09:42:42.859-07:00","updated":"2026-09-30T22:57:10.306-07:00","dg-note-properties":{"tags":["SE_Asia","Asia","Lower_Middle_Income_Countries","Meat"],"AI suggested tags":["Bryant_Research/Project/Good_Growth_Social_Listening","Consumer_Research","Alternative_Proteins"]}}
 ---
 
 

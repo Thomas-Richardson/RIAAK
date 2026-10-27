@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mental-health-in-agriculture/","tags":["Farmers","Food_Security","Economics/Jobs","Pigs"],"created":"2025-11-11T23:29:30.115+00:00","updated":"2026-09-30T19:55:02.495+01:00","dg-note-properties":{"tags":["Farmers","Food_Security","Economics/Jobs","Pigs"],"AI suggested tags":["Health/Disease","USA","Factory_Farming"]}}
+{"dg-publish":true,"permalink":"/mental-health-in-agriculture/","tags":["Farmers","Food_Security","Economics/Jobs","Pigs"],"created":"2025-11-11T15:29:30.115-08:00","updated":"2026-09-30T11:55:02.495-07:00","dg-note-properties":{"tags":["Farmers","Food_Security","Economics/Jobs","Pigs"],"AI suggested tags":["Health/Disease","USA","Factory_Farming"]}}
 ---
 
 

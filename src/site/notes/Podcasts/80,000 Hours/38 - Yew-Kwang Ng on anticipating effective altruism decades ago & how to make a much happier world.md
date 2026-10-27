@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/80-000-hours/38-yew-kwang-ng-on-anticipating-effective-altruism-decades-ago-and-how-to-make-a-much-happier-world/","tags":["Effective_Altruism","Philosophy","Economics","Wild_Animal_Welfare"],"created":"2026-07-12T11:38:41.000+01:00","updated":"2026-09-30T19:55:02.563+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://share.transistor.fm/s/81e98828","tags":["Effective_Altruism","Philosophy","Economics","Wild_Animal_Welfare"],"Year Published":"2018","AI suggested tags":["Sentience","AI","Movement_Strategy"]}}
+{"dg-publish":true,"permalink":"/podcasts/80-000-hours/38-yew-kwang-ng-on-anticipating-effective-altruism-decades-ago-and-how-to-make-a-much-happier-world/","tags":["Effective_Altruism","Philosophy","Economics","Wild_Animal_Welfare"],"created":"2026-07-12T03:38:41.000-07:00","updated":"2026-09-30T11:55:02.563-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://share.transistor.fm/s/81e98828","tags":["Effective_Altruism","Philosophy","Economics","Wild_Animal_Welfare"],"Year Published":"2018","AI suggested tags":["Sentience","AI","Movement_Strategy"]}}
 ---
 
 Will people who think carefully about how to maximize welfare eventually converge on the same views?

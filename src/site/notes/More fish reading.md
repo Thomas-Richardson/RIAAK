@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/more-fish-reading/","tags":["Fish"],"created":"2025-10-23T17:42:43.429+01:00","updated":"2026-09-30T19:55:02.506+01:00","dg-note-properties":{"tags":["Fish"],"AI suggested tags":["Fish/Farmed","Animal_Feed","Important_Read"]}}
+{"dg-publish":true,"permalink":"/more-fish-reading/","tags":["Fish"],"created":"2025-10-23T09:42:43.429-07:00","updated":"2026-09-30T11:55:02.506-07:00","dg-note-properties":{"tags":["Fish"],"AI suggested tags":["Fish/Farmed","Animal_Feed","Important_Read"]}}
 ---
 
 

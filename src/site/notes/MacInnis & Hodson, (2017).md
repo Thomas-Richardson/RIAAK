@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mac-innis-and-hodson-2017/","tags":["Psychology","Veganism"],"created":"2025-10-23T17:42:43.282+01:00","updated":"2026-09-30T19:55:02.471+01:00","dg-note-properties":{"tags":["Psychology","Veganism"],"AI suggested tags":["Veg_Diets","Bryant_Research","Citation"]}}
+{"dg-publish":true,"permalink":"/mac-innis-and-hodson-2017/","tags":["Psychology","Veganism"],"created":"2025-10-23T09:42:43.282-07:00","updated":"2026-09-30T11:55:02.471-07:00","dg-note-properties":{"tags":["Psychology","Veganism"],"AI suggested tags":["Veg_Diets","Bryant_Research","Citation"]}}
 ---
 
 

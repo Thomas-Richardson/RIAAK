@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/plant-based-diets-and-cvd/","tags":["Health/Nutrition","Veganism"],"created":"2025-10-23T17:42:43.081+01:00","updated":"2026-09-30T19:55:03.646+01:00","dg-note-properties":{"tags":["Health/Nutrition","Veganism"],"AI suggested tags":["Legumes","Diet","Nuts"]}}
+{"dg-publish":true,"permalink":"/plant-based-diets-and-cvd/","tags":["Health/Nutrition","Veganism"],"created":"2025-10-23T09:42:43.081-07:00","updated":"2026-09-30T11:55:03.646-07:00","dg-note-properties":{"tags":["Health/Nutrition","Veganism"],"AI suggested tags":["Legumes","Diet","Nuts"]}}
 ---
 
 

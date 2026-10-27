@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/80-000-hours/8-lewis-bollard-on-how-to-end-factory-farming-in-our-lifetimes/","tags":["Factory_Farming","Movement_Strategy","Effective_Altruism"],"created":"2026-07-12T11:38:41.000+01:00","updated":"2026-09-30T19:55:02.567+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://share.transistor.fm/s/dddf88ba","tags":["Factory_Farming","Movement_Strategy","Effective_Altruism"],"Year Published":"2017","AI suggested tags":["Corporate_Campaigns","Tactics","Movement_Building"]}}
+{"dg-publish":true,"permalink":"/podcasts/80-000-hours/8-lewis-bollard-on-how-to-end-factory-farming-in-our-lifetimes/","tags":["Factory_Farming","Movement_Strategy","Effective_Altruism"],"created":"2026-07-12T03:38:41.000-07:00","updated":"2026-09-30T11:55:02.567-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://share.transistor.fm/s/dddf88ba","tags":["Factory_Farming","Movement_Strategy","Effective_Altruism"],"Year Published":"2017","AI suggested tags":["Corporate_Campaigns","Tactics","Movement_Building"]}}
 ---
 
 Full transcript, coaching application form, overview of the conversation, and extra resources to learn more:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/non-human-animal-consciousness/","tags":["Animal_Ethics"],"created":"2025-10-23T17:42:41.230+01:00","updated":"2026-09-30T19:55:02.518+01:00","dg-note-properties":{"tags":["Animal_Ethics"],"AI suggested tags":["Sentience","AI","Public_Opinion"]}}
+{"dg-publish":true,"permalink":"/non-human-animal-consciousness/","tags":["Animal_Ethics"],"created":"2025-10-23T09:42:41.230-07:00","updated":"2026-09-30T11:55:02.518-07:00","dg-note-properties":{"tags":["Animal_Ethics"],"AI suggested tags":["Sentience","AI","Public_Opinion"]}}
 ---
 
 

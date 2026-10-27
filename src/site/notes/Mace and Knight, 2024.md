@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mace-and-knight-2024/","tags":["Chickens"],"created":"2025-10-23T17:42:41.815+01:00","updated":"2026-09-30T19:55:02.473+01:00","dg-note-properties":{"tags":["Chickens"],"AI suggested tags":["Eggs","Consumer_Attitudes","Animal_Welfare"]}}
+{"dg-publish":true,"permalink":"/mace-and-knight-2024/","tags":["Chickens"],"created":"2025-10-23T09:42:41.815-07:00","updated":"2026-09-30T11:55:02.473-07:00","dg-note-properties":{"tags":["Chickens"],"AI suggested tags":["Eggs","Consumer_Attitudes","Animal_Welfare"]}}
 ---
 
 

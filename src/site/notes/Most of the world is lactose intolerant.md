@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/most-of-the-world-is-lactose-intolerant/","tags":["Health/Nutrition","Dairy"],"created":"2025-10-23T17:42:43.811+01:00","updated":"2026-09-30T19:55:02.512+01:00","dg-note-properties":{"tags":["Health/Nutrition","Dairy"],"AI suggested tags":["Lower_Middle_Income_Countries","USA","MFA_Food_Sec"]}}
+{"dg-publish":true,"permalink":"/most-of-the-world-is-lactose-intolerant/","tags":["Health/Nutrition","Dairy"],"created":"2025-10-23T09:42:43.811-07:00","updated":"2026-09-30T11:55:02.512-07:00","dg-note-properties":{"tags":["Health/Nutrition","Dairy"],"AI suggested tags":["Lower_Middle_Income_Countries","USA","MFA_Food_Sec"]}}
 ---
 
 - [[Dairy Farming in Developing Countries Could Rapidly Take Off\|Dairy Farming in Developing Countries Could Rapidly Take Off]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mixed-evidence-that-nearby-caf-os-make-people-sicker/","tags":["Health/Disease"],"created":"2025-10-23T17:42:41.436+01:00","updated":"2026-09-30T19:55:02.500+01:00","dg-note-properties":{"tags":["Health/Disease"],"AI suggested tags":["Pigs","Environment/Pollution","USA"]}}
+{"dg-publish":true,"permalink":"/mixed-evidence-that-nearby-caf-os-make-people-sicker/","tags":["Health/Disease"],"created":"2025-10-23T09:42:41.436-07:00","updated":"2026-09-30T11:55:02.500-07:00","dg-note-properties":{"tags":["Health/Disease"],"AI suggested tags":["Pigs","Environment/Pollution","USA"]}}
 ---
 
 

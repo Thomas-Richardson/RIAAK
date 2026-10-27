@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/limitations-to-crossed-elasticity-studies/","tags":["Economics"],"created":"2025-11-17T13:30:45.618+00:00","updated":"2026-09-30T19:55:02.460+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Economics"],"created":null,"AI suggested tags":["Economics/Costs","Consumer_Research","Alternative_Proteins/Plant_Based"]}}
+{"dg-publish":true,"permalink":"/limitations-to-crossed-elasticity-studies/","tags":["Economics"],"created":"2025-11-17T05:30:45.618-08:00","updated":"2026-09-30T11:55:02.460-07:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Economics"],"created":null,"AI suggested tags":["Economics/Costs","Consumer_Research","Alternative_Proteins/Plant_Based"]}}
 ---
 
 One of these extraneous factors is that we are looking at a case where plant-based is basically at price parity. It goes from near price parity to price parity. If you go from a 20-pence surcharge to removing it, then you are going from slightly more expensive to price parity, so we should expect that to be quite informative.

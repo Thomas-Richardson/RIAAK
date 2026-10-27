@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lidl-germany-price-parity-experiment/","tags":["Case_Study","Veganism"],"created":"2025-10-23T17:42:47.321+01:00","updated":"2026-09-30T19:55:02.459+01:00","dg-note-properties":{"tags":["Case_Study","Veganism"],"AI suggested tags":["Germany","Economics/Costs","Economics"]}}
+{"dg-publish":true,"permalink":"/lidl-germany-price-parity-experiment/","tags":["Case_Study","Veganism"],"created":"2025-10-23T09:42:47.321-07:00","updated":"2026-09-30T11:55:02.459-07:00","dg-note-properties":{"tags":["Case_Study","Veganism"],"AI suggested tags":["Germany","Economics/Costs","Economics"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/omega-3-and-6/","tags":["Health/Nutrition"],"created":"2025-10-23T17:42:47.711+01:00","updated":"2026-09-30T19:55:02.522+01:00","dg-note-properties":{"tags":["Health/Nutrition"],"AI suggested tags":["Nuts","Meat","Diet"]}}
+{"dg-publish":true,"permalink":"/omega-3-and-6/","tags":["Health/Nutrition"],"created":"2025-10-23T09:42:47.711-07:00","updated":"2026-09-30T11:55:02.522-07:00","dg-note-properties":{"tags":["Health/Nutrition"],"AI suggested tags":["Nuts","Meat","Diet"]}}
 ---
 
 

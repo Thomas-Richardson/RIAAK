@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/most-farmed-animals-live-on-factory-farms/","tags":["Factory_Farming"],"created":"2025-10-23T17:42:47.612+01:00","updated":"2026-09-30T19:55:02.510+01:00","dg-note-properties":{"tags":["Factory_Farming"],"Note Type":"undefined","AI suggested tags":["Blog_In_Progress","UK","USA"]}}
+{"dg-publish":true,"permalink":"/most-farmed-animals-live-on-factory-farms/","tags":["Factory_Farming"],"created":"2025-10-23T09:42:47.612-07:00","updated":"2026-09-30T11:55:02.510-07:00","dg-note-properties":{"tags":["Factory_Farming"],"Note Type":"undefined","AI suggested tags":["Blog_In_Progress","UK","USA"]}}
 ---
 
 

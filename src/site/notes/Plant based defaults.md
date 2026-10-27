@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/plant-based-defaults/","tags":["Behaviour_Change"],"created":"2025-10-23T17:42:41.903+01:00","updated":"2026-09-30T19:55:02.536+01:00","dg-note-properties":{"tags":["Behaviour_Change"],"AI suggested tags":["Nudging","Case_Study","Consumer_Research"]}}
+{"dg-publish":true,"permalink":"/plant-based-defaults/","tags":["Behaviour_Change"],"created":"2025-10-23T09:42:41.903-07:00","updated":"2026-09-30T11:55:02.536-07:00","dg-note-properties":{"tags":["Behaviour_Change"],"AI suggested tags":["Nudging","Case_Study","Consumer_Research"]}}
 ---
 
 - [[Citations/Campbell-Arvai et al., 2014\|Campbell-Arvai et al., 2014]]

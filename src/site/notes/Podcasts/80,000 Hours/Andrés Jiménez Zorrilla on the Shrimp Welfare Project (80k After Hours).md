@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/80-000-hours/andres-jimenez-zorrilla-on-the-shrimp-welfare-project-80k-after-hours/","tags":["Shrimp","Crustaceans","Sentience","Asia"],"created":"2026-07-15T12:19:40.000+01:00","updated":"2026-09-30T19:55:02.570+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://share.transistor.fm/s/48b2321e","tags":["Shrimp","Crustaceans","Sentience","Asia"],"Year Published":"2023","AI suggested tags":["Effective_Altruism","Wild_Animal_Welfare","Movement_Strategy"]}}
+{"dg-publish":true,"permalink":"/podcasts/80-000-hours/andres-jimenez-zorrilla-on-the-shrimp-welfare-project-80k-after-hours/","tags":["Shrimp","Crustaceans","Sentience","Asia"],"created":"2026-07-15T04:19:40.000-07:00","updated":"2026-09-30T11:55:02.570-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://share.transistor.fm/s/48b2321e","tags":["Shrimp","Crustaceans","Sentience","Asia"],"Year Published":"2023","AI suggested tags":["Effective_Altruism","Wild_Animal_Welfare","Movement_Strategy"]}}
 ---
 
 They cover:

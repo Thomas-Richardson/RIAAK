@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people-resist-talking-about-factory-farming/","tags":["Factory_Farming","Psychology"],"created":"2025-10-23T17:42:48.043+01:00","updated":"2026-09-30T19:55:02.531+01:00","dg-note-properties":{"tags":["Factory_Farming","Psychology"],"Note Type":"undefined","AI suggested tags":["USA","Chickens","Meat_Industry"]}}
+{"dg-publish":true,"permalink":"/people-resist-talking-about-factory-farming/","tags":["Factory_Farming","Psychology"],"created":"2025-10-23T09:42:48.043-07:00","updated":"2026-09-30T11:55:02.531-07:00","dg-note-properties":{"tags":["Factory_Farming","Psychology"],"Note Type":"undefined","AI suggested tags":["USA","Chickens","Meat_Industry"]}}
 ---
 
 - [[Awareness of factory farming\|Awareness of factory farming]]

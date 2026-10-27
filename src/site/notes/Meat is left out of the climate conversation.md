@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/meat-is-left-out-of-the-climate-conversation/","tags":["Environment/GHG"],"created":"2025-10-23T17:42:43.497+01:00","updated":"2026-10-01T06:57:10.300+01:00","dg-note-properties":{"tags":["Environment/GHG"],"AI suggested tags":["Environment/Climate_Change","Environment/Land","Environment"]}}
+{"dg-publish":true,"permalink":"/meat-is-left-out-of-the-climate-conversation/","tags":["Environment/GHG"],"created":"2025-10-23T09:42:43.497-07:00","updated":"2026-09-30T22:57:10.300-07:00","dg-note-properties":{"tags":["Environment/GHG"],"AI suggested tags":["Environment/Climate_Change","Environment/Land","Environment"]}}
 ---
 
 

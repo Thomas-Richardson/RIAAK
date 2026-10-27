@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mfa-farmed-animal-opportunity-index/","tags":["Data"],"created":"2025-10-23T17:42:47.239+01:00","updated":"2026-09-30T19:55:02.470+01:00","dg-note-properties":{"tags":["Data"],"AI suggested tags":["Research/Methods","Lower_Middle_Income_Countries","Animal_Welfare"]}}
+{"dg-publish":true,"permalink":"/mfa-farmed-animal-opportunity-index/","tags":["Data"],"created":"2025-10-23T09:42:47.239-07:00","updated":"2026-09-30T11:55:02.470-07:00","dg-note-properties":{"tags":["Data"],"AI suggested tags":["Research/Methods","Lower_Middle_Income_Countries","Animal_Welfare"]}}
 ---
 
 

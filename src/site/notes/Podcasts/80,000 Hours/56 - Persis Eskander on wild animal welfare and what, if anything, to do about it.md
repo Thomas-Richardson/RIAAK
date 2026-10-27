@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/80-000-hours/56-persis-eskander-on-wild-animal-welfare-and-what-if-anything-to-do-about-it/","tags":["Wild_Animal_Welfare","Sentience","Animal_Ethics","Effective_Altruism"],"created":"2026-07-12T11:38:41.000+01:00","updated":"2026-09-30T19:55:02.564+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://share.transistor.fm/s/c5d0d3c8","tags":["Wild_Animal_Welfare","Sentience","Animal_Ethics","Effective_Altruism"],"Year Published":"2019","AI suggested tags":["Wild_Animals","Philosophy","Movement_Strategy"]}}
+{"dg-publish":true,"permalink":"/podcasts/80-000-hours/56-persis-eskander-on-wild-animal-welfare-and-what-if-anything-to-do-about-it/","tags":["Wild_Animal_Welfare","Sentience","Animal_Ethics","Effective_Altruism"],"created":"2026-07-12T03:38:41.000-07:00","updated":"2026-09-30T11:55:02.564-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://share.transistor.fm/s/c5d0d3c8","tags":["Wild_Animal_Welfare","Sentience","Animal_Ethics","Effective_Altruism"],"Year Published":"2019","AI suggested tags":["Wild_Animals","Philosophy","Movement_Strategy"]}}
 ---
 
 Maybe, but maybe not. While we tend to have a romanticised view of nature, life in the wild includes a range of extremely negative experiences.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/new-research-database-for-evidence-based-meat-reduction/","tags":["Meat/Meat_Reduction"],"created":"2025-10-30T16:19:09.099+00:00","updated":"2026-09-30T19:55:02.517+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rpstrategicanimalinsights.substack.com/p/database-for-meat-reduction?utm_source=post-email-title&publication_id=4856624&post_id=177563905&utm_campaign=email-post-title&isFreemail=true&r=1gqdct&triedRedirect=true&utm_medium=email","tags":["Meat/Meat_Reduction"],"AI suggested tags":["Meat_Reduction","External_Resource","Research/Methods"]}}
+{"dg-publish":true,"permalink":"/new-research-database-for-evidence-based-meat-reduction/","tags":["Meat/Meat_Reduction"],"created":"2025-10-30T09:19:09.099-07:00","updated":"2026-09-30T11:55:02.517-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rpstrategicanimalinsights.substack.com/p/database-for-meat-reduction?utm_source=post-email-title&publication_id=4856624&post_id=177563905&utm_campaign=email-post-title&isFreemail=true&r=1gqdct&triedRedirect=true&utm_medium=email","tags":["Meat/Meat_Reduction"],"AI suggested tags":["Meat_Reduction","External_Resource","Research/Methods"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misc-benefits-of-livestock-for-people-in-lmics/","tags":["MFA_Food_Sec"],"created":"2025-10-23T17:42:47.531+01:00","updated":"2026-09-30T19:55:02.499+01:00","dg-note-properties":{"tags":["MFA_Food_Sec"],"AI suggested tags":["Lower_Middle_Income_Countries","Farming","Economics/Jobs"]}}
+{"dg-publish":true,"permalink":"/misc-benefits-of-livestock-for-people-in-lmics/","tags":["MFA_Food_Sec"],"created":"2025-10-23T09:42:47.531-07:00","updated":"2026-09-30T11:55:02.499-07:00","dg-note-properties":{"tags":["MFA_Food_Sec"],"AI suggested tags":["Lower_Middle_Income_Countries","Farming","Economics/Jobs"]}}
 ---
 
 

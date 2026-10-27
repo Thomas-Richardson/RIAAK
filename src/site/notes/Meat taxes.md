@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/meat-taxes/","tags":["Economics","Meat","Nuts"],"created":"2025-10-23T17:42:48.105+01:00","updated":"2026-09-30T19:55:02.488+01:00","dg-note-properties":{"tags":["Economics","Meat","Nuts"],"AI suggested tags":["Economics/Costs","Meat/Meat_Reduction","Health"]}}
+{"dg-publish":true,"permalink":"/meat-taxes/","tags":["Economics","Meat","Nuts"],"created":"2025-10-23T09:42:48.105-07:00","updated":"2026-09-30T11:55:02.488-07:00","dg-note-properties":{"tags":["Economics","Meat","Nuts"],"AI suggested tags":["Economics/Costs","Meat/Meat_Reduction","Health"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/most-people-strongly-support-animal-rights/","tags":["Animal_Welfare","Consumer_Attitudes"],"created":"2025-10-23T17:42:47.449+01:00","updated":"2026-09-30T19:55:02.513+01:00","dg-note-properties":{"tags":["Animal_Welfare","Consumer_Attitudes"],"AI suggested tags":["Public_Opinion","Attitudes","EU"]}}
+{"dg-publish":true,"permalink":"/most-people-strongly-support-animal-rights/","tags":["Animal_Welfare","Consumer_Attitudes"],"created":"2025-10-23T09:42:47.449-07:00","updated":"2026-09-30T11:55:02.513-07:00","dg-note-properties":{"tags":["Animal_Welfare","Consumer_Attitudes"],"AI suggested tags":["Public_Opinion","Attitudes","EU"]}}
 ---
 
 

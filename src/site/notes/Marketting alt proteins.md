@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/marketting-alt-proteins/","tags":["Marketing","Alternative_Proteins/Plant_Based","Alternative_Proteins"],"created":"2025-10-23T17:42:43.258+01:00","updated":"2026-09-30T19:55:02.479+01:00","dg-note-properties":{"tags":["Marketing","Alternative_Proteins/Plant_Based","Alternative_Proteins"],"Note Type":"undefined","AI suggested tags":["Alternative_Proteins/Balanced_Proteins","Plant_Based/Marketing","Alternative_Proteins/Precision_Fermentation"]}}
+{"dg-publish":true,"permalink":"/marketting-alt-proteins/","tags":["Marketing","Alternative_Proteins/Plant_Based","Alternative_Proteins"],"created":"2025-10-23T09:42:43.258-07:00","updated":"2026-10-18T01:41:07.660-07:00","dg-note-properties":{"tags":["Marketing","Alternative_Proteins/Plant_Based","Alternative_Proteins"],"Note Type":"undefined","AI suggested tags":["Alternative_Proteins/Balanced_Proteins","Alternative_Proteins/Precision_Fermentation","Consumer_Research"]}}
 ---
 
 Good ideas here: https://downloads.mintel.com/private/BMCE2/files/889404/

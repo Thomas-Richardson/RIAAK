@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/80-000-hours/99-leah-garces-on-turning-adversaries-into-allies-to-change-the-chicken-industry/","tags":["Chickens","Farmers","Tactics","Corporate_Campaigns"],"created":"2026-07-15T12:19:40.000+01:00","updated":"2026-09-30T19:55:02.569+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://80000hours.org/podcast/episodes/leah-garces-chicken-industry/","tags":["Chickens","Farmers","Tactics","Corporate_Campaigns"],"Year Published":"2021","AI suggested tags":["Effective_Altruism","Movement_Strategy","Movement_Building"]}}
+{"dg-publish":true,"permalink":"/podcasts/80-000-hours/99-leah-garces-on-turning-adversaries-into-allies-to-change-the-chicken-industry/","tags":["Chickens","Farmers","Tactics","Corporate_Campaigns"],"created":"2026-07-15T04:19:40.000-07:00","updated":"2026-09-30T11:55:02.569-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://80000hours.org/podcast/episodes/leah-garces-chicken-industry/","tags":["Chickens","Farmers","Tactics","Corporate_Campaigns"],"Year Published":"2021","AI suggested tags":["Effective_Altruism","Movement_Strategy","Movement_Building"]}}
 ---
 
 For a chance to prevent enormous amounts of suffering, would you be brave enough to drive five hours to a remote location to meet a man who seems likely to be your enemy, knowing that it might be an ambush?

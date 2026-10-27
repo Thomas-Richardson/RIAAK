@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/improving-hen-welfare/","tags":["Animal_Welfare","Chickens"],"created":"2025-10-23T17:42:47.274+01:00","updated":"2026-09-30T19:55:02.433+01:00","dg-note-properties":{"tags":["Animal_Welfare","Chickens"],"AI suggested tags":["Eggs","Corporate_Campaigns","Strategy"]}}
+{"dg-publish":true,"permalink":"/improving-hen-welfare/","tags":["Animal_Welfare","Chickens"],"created":"2025-10-23T09:42:47.274-07:00","updated":"2026-09-30T11:55:02.433-07:00","dg-note-properties":{"tags":["Animal_Welfare","Chickens"],"AI suggested tags":["Eggs","Corporate_Campaigns","Strategy"]}}
 ---
 
 

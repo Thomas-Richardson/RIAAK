@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/plant-based-diets-and-obesity/","tags":["Health/Nutrition","Veganism"],"created":"2025-10-23T17:42:43.373+01:00","updated":"2026-09-30T19:55:02.539+01:00","dg-note-properties":{"tags":["Health/Nutrition","Veganism"],"AI suggested tags":["Diet","Citation","Veg_Diets"]}}
+{"dg-publish":true,"permalink":"/plant-based-diets-and-obesity/","tags":["Health/Nutrition","Veganism"],"created":"2025-10-23T09:42:43.373-07:00","updated":"2026-09-30T11:55:02.539-07:00","dg-note-properties":{"tags":["Health/Nutrition","Veganism"],"AI suggested tags":["Diet","Citation","Veg_Diets"]}}
 ---
 
 

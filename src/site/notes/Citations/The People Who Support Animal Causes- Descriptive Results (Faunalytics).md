@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-people-who-support-animal-causes-descriptive-results-faunalytics/","tags":["Consumer_Research","Movement_Strategy","Companion_Animals","High_Income_Countries/USA"],"created":"2026-01-28T11:02:28.576+00:00","updated":"2026-09-30T19:55:02.134+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/the-people-who-support-animal-causes-descriptive-results/","tags":["Consumer_Research","Movement_Strategy","Companion_Animals","High_Income_Countries/USA"],"Year Published":"2019","AI suggested tags":["Public_Opinion","Retention","Research/Methods"]}}
+{"dg-publish":true,"permalink":"/citations/the-people-who-support-animal-causes-descriptive-results-faunalytics/","tags":["Consumer_Research","Movement_Strategy","Companion_Animals","High_Income_Countries/USA"],"created":"2026-01-28T03:02:28.576-08:00","updated":"2026-09-30T11:55:02.134-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/the-people-who-support-animal-causes-descriptive-results/","tags":["Consumer_Research","Movement_Strategy","Companion_Animals","High_Income_Countries/USA"],"Year Published":"2019","AI suggested tags":["Public_Opinion","Retention","Research/Methods"]}}
 ---
 
 ### **Background**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-impact-of-corporate-social-responsibility-on-animal-welfare-standards-evidence-from-the-cage-free-egg-industry-rethink-priorities/","tags":["Corporate_Campaigns"],"created":"2025-10-23T17:42:46.985+01:00","updated":"2026-09-30T19:55:02.154+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/corporate-social-responsibility/","tags":["Corporate_Campaigns"],"Year Published":"2023","AI suggested tags":["Eggs","Chickens","Consumer_Attitudes"]}}
+{"dg-publish":true,"permalink":"/citations/the-impact-of-corporate-social-responsibility-on-animal-welfare-standards-evidence-from-the-cage-free-egg-industry-rethink-priorities/","tags":["Corporate_Campaigns"],"created":"2025-10-23T09:42:46.985-07:00","updated":"2026-09-30T11:55:02.154-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/corporate-social-responsibility/","tags":["Corporate_Campaigns"],"Year Published":"2023","AI suggested tags":["Eggs","Chickens","Consumer_Attitudes"]}}
 ---
 
 ### Executive Summary

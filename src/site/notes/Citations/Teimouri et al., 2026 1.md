@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/teimouri-et-al-2026-1/","tags":["Meat_Industry","Review","Health/Nutrition","Meat/Meat_Consumption"],"created":"2026-07-12T17:06:12.000+01:00","updated":"2026-09-30T19:55:02.111+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://onlinelibrary.wiley.com/doi/10.1111/obr.70153","tags":["Meat_Industry","Review","Health/Nutrition","Meat/Meat_Consumption"],"Year Published":"2026","AI suggested tags":["Meat/Red_Meat","Meat","Citation"]}}
+{"dg-publish":true,"permalink":"/citations/teimouri-et-al-2026-1/","tags":["Meat_Industry","Review","Health/Nutrition","Meat/Meat_Consumption"],"created":"2026-07-12T09:06:12.000-07:00","updated":"2026-09-30T11:55:02.111-07:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://onlinelibrary.wiley.com/doi/10.1111/obr.70153","tags":["Meat_Industry","Review","Health/Nutrition","Meat/Meat_Consumption"],"Year Published":"2026","AI suggested tags":["Meat/Red_Meat","Meat","Citation"]}}
 ---
 
 ### Introduction

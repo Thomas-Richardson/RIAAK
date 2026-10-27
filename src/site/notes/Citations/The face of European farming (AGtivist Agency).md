@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-face-of-european-farming-a-gtivist-agency/","tags":["Factory_Farming","Europe","Economics","Farmers"],"created":"2026-07-12T17:06:12.000+01:00","updated":"2026-09-30T19:55:02.152+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://stories.agtivistagency.com/the-face-of-european-farming/","tags":["Factory_Farming","Europe","Economics","Farmers"],"Year Published":"2024","AI suggested tags":["USA","Farming","Environment/Pollution"]}}
+{"dg-publish":true,"permalink":"/citations/the-face-of-european-farming-a-gtivist-agency/","tags":["Factory_Farming","Europe","Economics","Farmers"],"created":"2026-07-12T09:06:12.000-07:00","updated":"2026-09-30T11:55:02.152-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://stories.agtivistagency.com/the-face-of-european-farming/","tags":["Factory_Farming","Europe","Economics","Farmers"],"Year Published":"2024","AI suggested tags":["USA","Farming","Environment/Pollution"]}}
 ---
 
 A Europe-wide investigation by a consortium of journalists has uncovered that intensive livestock production is sweeping across the continent, raising concerns about animal welfare, pollution, disease spread, and the economic impact on conventional farmers.

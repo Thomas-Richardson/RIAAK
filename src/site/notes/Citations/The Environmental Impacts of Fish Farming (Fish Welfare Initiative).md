@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-environmental-impacts-of-fish-farming-fish-welfare-initiative/","tags":["Fish/Farmed","Environment","Animal_Welfare","Review"],"created":"2025-10-26T17:29:15.135+00:00","updated":"2026-09-30T19:55:02.124+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Fish/Farmed","Environment","Animal_Welfare","Review"],"source_url":"https://files.fwi.fish/environmental-impacts.pdf","created":"2025-10-26","AI suggested tags":["Fish","EU","Animal_Feed"]}}
+{"dg-publish":true,"permalink":"/citations/the-environmental-impacts-of-fish-farming-fish-welfare-initiative/","tags":["Fish/Farmed","Environment","Animal_Welfare","Review"],"created":"2025-10-26T10:29:15.135-07:00","updated":"2026-09-30T11:55:02.124-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Fish/Farmed","Environment","Animal_Welfare","Review"],"source_url":"https://files.fwi.fish/environmental-impacts.pdf","created":"2025-10-26","AI suggested tags":["Fish","EU","Animal_Feed"]}}
 ---
 
 

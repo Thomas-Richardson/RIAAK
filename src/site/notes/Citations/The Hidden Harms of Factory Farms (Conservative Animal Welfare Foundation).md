@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-hidden-harms-of-factory-farms-conservative-animal-welfare-foundation/","tags":["Factory_Farming","High_Income_Countries/UK","Economics","Environment/Pollution","Health"],"created":"2025-11-11T23:29:30.431+00:00","updated":"2026-10-01T06:57:10.087+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Factory_Farming","High_Income_Countries/UK","Economics","Environment/Pollution","Health"],"source_url":"https://www.conservativeanimalwelfarefoundation.org/wp-content/uploads/2024/11/The-Hidden-Harms-of-Factory-Farms-CAWF-research-.pdf","created":"2026-03-26","AI suggested tags":["Bryant_Research/Project/CAWF_Hidden_Harms","UK","Animal_Feed"]}}
+{"dg-publish":true,"permalink":"/citations/the-hidden-harms-of-factory-farms-conservative-animal-welfare-foundation/","tags":["Factory_Farming","High_Income_Countries/UK","Economics","Environment/Pollution","Health"],"created":"2025-11-11T15:29:30.431-08:00","updated":"2026-10-02T22:55:36.162-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Factory_Farming","High_Income_Countries/UK","Economics","Environment/Pollution","Health"],"source_url":"https://www.conservativeanimalwelfarefoundation.org/wp-content/uploads/2024/11/The-Hidden-Harms-of-Factory-Farms-CAWF-research-.pdf","created":"2026-03-26","AI suggested tags":["Bryant_Research/Project/CAWF_Hidden_Harms","UK","Animal_Feed"]}}
 ---
 
 
@@ -26,3 +26,7 @@ Policymakers must consider the impact of the £1.2 billion we pay in hidden cost
 - [[Citations/The Future of Food Security in the UK (Conservative Animal Welfare Foundation)\|Citations/The Future of Food Security in the UK (Conservative Animal Welfare Foundation)]] (0.80)
 - [[Quantifying the Environmental Risks from Pig & Poultry Production in the UK (Cumulus et al.)\|Quantifying the Environmental Risks from Pig & Poultry Production in the UK (Cumulus et al.)]] (0.75)
 - [[Citations/CIWF, 2022\|Citations/CIWF, 2022]] (0.71)
+
+## Related
+
+- [[Revealed - factory farm pollution is costing the UK £130m a year\|Revealed - factory farm pollution is costing the UK £130m a year]]

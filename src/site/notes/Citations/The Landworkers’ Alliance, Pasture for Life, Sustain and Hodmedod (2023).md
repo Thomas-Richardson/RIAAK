@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-landworkers-alliance-pasture-for-life-sustain-and-hodmedod-2023/","tags":["Animal_Feed","Bryant_Research/Project/CAWF_Food_Sec","Citation","Environment/Land"],"created":"2025-10-23T17:42:45.588+01:00","updated":"2026-10-01T06:57:10.089+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Animal_Feed","Bryant_Research/Project/CAWF_Food_Sec","Citation","Environment/Land"],"AI suggested tags":["Farming","UK","Food_Security"]}}
+{"dg-publish":true,"permalink":"/citations/the-landworkers-alliance-pasture-for-life-sustain-and-hodmedod-2023/","tags":["Animal_Feed","Bryant_Research/Project/CAWF_Food_Sec","Citation","Environment/Land"],"created":"2025-10-23T09:42:45.588-07:00","updated":"2026-09-30T22:57:10.089-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Animal_Feed","Bryant_Research/Project/CAWF_Food_Sec","Citation","Environment/Land"],"AI suggested tags":["Farming","UK","Food_Security"]}}
 ---
 
 

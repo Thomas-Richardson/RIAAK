@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/truman-et-al-2023/","tags":["Case_Study","Citation","UK","Veganism"],"created":"2025-10-23T17:42:45.163+01:00","updated":"2026-09-30T19:55:02.175+01:00","dg-note-properties":{"tags":["Case_Study","Citation","UK","Veganism"],"AI suggested tags":["Health/Nutrition","Meat","Behaviour_Change"]}}
+{"dg-publish":true,"permalink":"/citations/truman-et-al-2023/","tags":["Case_Study","Citation","UK","Veganism"],"created":"2025-10-23T09:42:45.163-07:00","updated":"2026-09-30T11:55:02.175-07:00","dg-note-properties":{"tags":["Case_Study","Citation","UK","Veganism"],"AI suggested tags":["Health/Nutrition","Meat","Behaviour_Change"]}}
 ---
 
 

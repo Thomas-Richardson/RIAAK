@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-role-of-humanewashing-in-grocery-stores-how-welfare-labels-affect-purchasing-behavior-faunalytics/","tags":["Policy/Labeling","Consumer_Research"],"created":"2025-10-23T17:42:46.539+01:00","updated":"2026-09-30T19:55:02.139+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Policy/Labeling","Consumer_Research"],"Url":"https://faunalytics.org/wp-content/uploads/2024/10/Faunalytics-Humanewashing-Report-Protected.pdf","Year Published":2024,"AI suggested tags":["Consumer_Attitudes","Public_Opinion","Behaviour_Change"]}}
+{"dg-publish":true,"permalink":"/citations/the-role-of-humanewashing-in-grocery-stores-how-welfare-labels-affect-purchasing-behavior-faunalytics/","tags":["Policy/Labeling","Consumer_Research"],"created":"2025-10-23T09:42:46.539-07:00","updated":"2026-09-30T11:55:02.139-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Policy/Labeling","Consumer_Research"],"Url":"https://faunalytics.org/wp-content/uploads/2024/10/Faunalytics-Humanewashing-Report-Protected.pdf","Year Published":2024,"AI suggested tags":["Consumer_Attitudes","Public_Opinion","Behaviour_Change"]}}
 ---
 
 **Confidential report, do not share widely**

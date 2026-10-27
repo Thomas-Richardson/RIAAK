@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/sturm-et-al-2026/","tags":["Dietary_Guidelines","Health/Nutrition","Environment","Veg_Diets","EU"],"created":"2026-07-12T17:06:12.000+01:00","updated":"2026-09-30T19:55:02.089+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1754132/full","tags":["Dietary_Guidelines","Health/Nutrition","Environment","Veg_Diets","EU"],"Year Published":"2026","AI suggested tags":["Citation","Review","Environment/GHG"]}}
+{"dg-publish":true,"permalink":"/citations/sturm-et-al-2026/","tags":["Dietary_Guidelines","Health/Nutrition","Environment","Veg_Diets","EU"],"created":"2026-07-12T09:06:12.000-07:00","updated":"2026-09-30T11:55:02.089-07:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1754132/full","tags":["Dietary_Guidelines","Health/Nutrition","Environment","Veg_Diets","EU"],"Year Published":"2026","AI suggested tags":["Citation","Review","Environment/GHG"]}}
 ---
 
 ### Introduction

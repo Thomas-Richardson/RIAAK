@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/testing-grand-narratives-about-animal-freedom-animal-think-tank/","tags":["Narratives","Messaging","Psychology","High_Income_Countries/UK"],"created":"2025-10-23T17:42:44.817+01:00","updated":"2026-09-30T19:55:02.116+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Narratives","Messaging","Psychology","High_Income_Countries/UK"],"source_url":"https://animalthinktank.org.uk/wp-content/uploads/2025/03/Grand-narratives.pdf","created":"2025-10-23","AI suggested tags":["Public_Opinion","Consumer_Attitudes","Consumer_Research"]}}
+{"dg-publish":true,"permalink":"/citations/testing-grand-narratives-about-animal-freedom-animal-think-tank/","tags":["Narratives","Messaging","Psychology","High_Income_Countries/UK"],"created":"2025-10-23T09:42:44.817-07:00","updated":"2026-09-30T11:55:02.116-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Narratives","Messaging","Psychology","High_Income_Countries/UK"],"source_url":"https://animalthinktank.org.uk/wp-content/uploads/2025/03/Grand-narratives.pdf","created":"2025-10-23","AI suggested tags":["Public_Opinion","Consumer_Attitudes","Consumer_Research"]}}
 ---
 
 

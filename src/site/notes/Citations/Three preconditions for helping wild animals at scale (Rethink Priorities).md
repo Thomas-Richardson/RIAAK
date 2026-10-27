@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/three-preconditions-for-helping-wild-animals-at-scale-rethink-priorities/","tags":["Wild_Animals"],"created":"2025-10-23T17:42:46.470+01:00","updated":"2026-09-30T19:55:02.165+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/three-preconditions-for-helping-wild-animals-at-scale/","tags":["Wild_Animals"],"Year Published":"2024","AI suggested tags":["Strategy","Research/Methods","Public_Opinion"]}}
+{"dg-publish":true,"permalink":"/citations/three-preconditions-for-helping-wild-animals-at-scale-rethink-priorities/","tags":["Wild_Animals"],"created":"2025-10-23T09:42:46.470-07:00","updated":"2026-09-30T11:55:02.165-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/three-preconditions-for-helping-wild-animals-at-scale/","tags":["Wild_Animals"],"Year Published":"2024","AI suggested tags":["Strategy","Research/Methods","Public_Opinion"]}}
 ---
 
 ## Executive Summary

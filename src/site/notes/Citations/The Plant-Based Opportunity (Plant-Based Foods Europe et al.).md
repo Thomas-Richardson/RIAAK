@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-plant-based-opportunity-plant-based-foods-europe-et-al/","tags":["Alternative_Proteins/Plant_Based","EU","Economics","Policy"],"created":"2026-02-19T15:48:50.154+00:00","updated":"2026-09-30T19:55:02.135+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Alternative_Proteins/Plant_Based","EU","Economics","Policy"],"source_url":"https://plantbasedfoodalliance.eu/wp-content/uploads/2026/02/The-Plant-Based-Opportunity-2026-2035_fin.pdf","created":"2026-02-19","AI suggested tags":["Policy/Food_Policy","Alternative_Proteins","Retailers"]}}
+{"dg-publish":true,"permalink":"/citations/the-plant-based-opportunity-plant-based-foods-europe-et-al/","tags":["Alternative_Proteins/Plant_Based","EU","Economics","Policy"],"created":"2026-02-19T07:48:50.154-08:00","updated":"2026-09-30T11:55:02.135-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Alternative_Proteins/Plant_Based","EU","Economics","Policy"],"source_url":"https://plantbasedfoodalliance.eu/wp-content/uploads/2026/02/The-Plant-Based-Opportunity-2026-2035_fin.pdf","created":"2026-02-19","AI suggested tags":["Policy/Food_Policy","Alternative_Proteins","Retailers"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-public-s-mental-models-about-farming-animals-animal-think-tank/","tags":["High_Income_Countries/UK","Narratives","Psychology","Public_Opinion"],"created":"2025-10-23T17:42:47.086+01:00","updated":"2026-09-30T19:55:02.136+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["High_Income_Countries/UK","Narratives","Psychology","Public_Opinion"],"source_url":"https://animalthinktank.org.uk/wp-content/uploads/2025/03/Mental-models-Feb-2024.pdf","created":"2025-10-23","AI suggested tags":["Consumer_Attitudes","Animal_Welfare","Consumer_Research"]}}
+{"dg-publish":true,"permalink":"/citations/the-public-s-mental-models-about-farming-animals-animal-think-tank/","tags":["High_Income_Countries/UK","Narratives","Psychology","Public_Opinion"],"created":"2025-10-23T09:42:47.086-07:00","updated":"2026-09-30T11:55:02.136-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["High_Income_Countries/UK","Narratives","Psychology","Public_Opinion"],"source_url":"https://animalthinktank.org.uk/wp-content/uploads/2025/03/Mental-models-Feb-2024.pdf","created":"2025-10-23","AI suggested tags":["Consumer_Attitudes","Animal_Welfare","Consumer_Research"]}}
 ---
 
 

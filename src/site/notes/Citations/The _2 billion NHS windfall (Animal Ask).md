@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-2-billion-nhs-windfall-animal-ask/","tags":["High_Income_Countries/UK","Meat/Meat_Reduction","Economics/Costs","Health"],"created":"2026-06-24T17:02:32.000+01:00","updated":"2026-09-30T19:55:02.142+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["High_Income_Countries/UK","Meat/Meat_Reduction","Economics/Costs","Health"],"source_url":"https://www.conservativeanimalwelfarefoundation.org/wp-content/uploads/2024/01/2-Billion-NHS-Windfall-CAWF.pdf","created":"2026-04-18","AI suggested tags":["Health/Nutrition","Meat","CAWF_NHS"]}}
+{"dg-publish":true,"permalink":"/citations/the-2-billion-nhs-windfall-animal-ask/","tags":["High_Income_Countries/UK","Meat/Meat_Reduction","Economics/Costs","Health"],"created":"2026-06-24T09:02:32.000-07:00","updated":"2026-10-18T01:41:07.650-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["High_Income_Countries/UK","Meat/Meat_Reduction","Economics/Costs","Health"],"source_url":"https://www.conservativeanimalwelfarefoundation.org/wp-content/uploads/2024/01/2-Billion-NHS-Windfall-CAWF.pdf","created":"2026-04-18","AI suggested tags":["Health/Nutrition","Bryant_Research/Project/CAWF_NHS","Meat"]}}
 ---
 
 

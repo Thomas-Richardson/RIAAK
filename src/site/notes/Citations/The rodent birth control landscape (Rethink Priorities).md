@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-rodent-birth-control-landscape-rethink-priorities/","tags":["Rodents","Wild_Animals"],"created":"2025-10-23T17:42:46.837+01:00","updated":"2026-09-30T19:55:02.157+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/the-rodent-birth-control-landscape/","tags":["Rodents","Wild_Animals"],"Year Published":"2022","AI suggested tags":["Insects","Wild_Animal_Welfare","Animal_Welfare"]}}
+{"dg-publish":true,"permalink":"/citations/the-rodent-birth-control-landscape-rethink-priorities/","tags":["Rodents","Wild_Animals"],"created":"2025-10-23T09:42:46.837-07:00","updated":"2026-09-30T11:55:02.157-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/the-rodent-birth-control-landscape/","tags":["Rodents","Wild_Animals"],"Year Published":"2022","AI suggested tags":["Insects","Wild_Animal_Welfare","Animal_Welfare"]}}
 ---
 
 ## At-a-glance

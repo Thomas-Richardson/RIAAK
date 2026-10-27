@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-era-beyond-eisemann-insect-pain-in-the-21st-century-rethink-priorities/","tags":["Insects"],"created":"2025-10-23T17:42:46.317+01:00","updated":"2026-09-30T19:55:02.125+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/era-beyond-eisemann/","tags":["Insects"],"Year Published":"2025","AI suggested tags":["Sentience","Crustaceans","Shrimp"]}}
+{"dg-publish":true,"permalink":"/citations/the-era-beyond-eisemann-insect-pain-in-the-21st-century-rethink-priorities/","tags":["Insects"],"created":"2025-10-23T09:42:46.317-07:00","updated":"2026-09-30T11:55:02.125-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/era-beyond-eisemann/","tags":["Insects"],"Year Published":"2025","AI suggested tags":["Sentience","Crustaceans","Shrimp"]}}
 ---
 
 In 1984, Eisemann et al. published \\"Do insects feel pain? — A biological view,\\" which argued that insects likely do not experience pain based on six key claims. This paper, \\"The Era Beyond Eisemann et al. (1984): Insect pain in the 21st century\\" by Meghan Barrett and Bob Fischer (summarized here by Abraham Rowe), demonstrates that new empirical evidence discovered since 1984 undermines most of Eisemann et al.'s arguments.

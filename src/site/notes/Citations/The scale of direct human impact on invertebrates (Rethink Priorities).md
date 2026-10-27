@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-scale-of-direct-human-impact-on-invertebrates-rethink-priorities/","tags":["Insects"],"created":"2025-10-23T17:42:45.572+01:00","updated":"2026-09-30T19:55:02.158+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/the-scale-of-direct-human-impact-on-invertebrates/","tags":["Insects"],"Year Published":"2020","AI suggested tags":["Shrimp","Crustaceans","Rodents"]}}
+{"dg-publish":true,"permalink":"/citations/the-scale-of-direct-human-impact-on-invertebrates-rethink-priorities/","tags":["Insects"],"created":"2025-10-23T09:42:45.572-07:00","updated":"2026-09-30T11:55:02.158-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/the-scale-of-direct-human-impact-on-invertebrates/","tags":["Insects"],"Year Published":"2020","AI suggested tags":["Shrimp","Crustaceans","Rodents"]}}
 ---
 
 ## Summary

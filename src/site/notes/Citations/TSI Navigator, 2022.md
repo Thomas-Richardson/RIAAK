@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/tsi-navigator-2022/","tags":["Asia","Citation","Bryant_Research/Project/Good_Growth_Social_Listening"],"created":"2025-10-23T17:42:44.653+01:00","updated":"2026-10-01T06:57:10.070+01:00","dg-note-properties":{"Note Type":"News Report / Blog","tags":["Asia","Citation","Bryant_Research/Project/Good_Growth_Social_Listening"],"AI suggested tags":["Consumer_Research","SE_Asia","Consumer_Attitudes"]}}
+{"dg-publish":true,"permalink":"/citations/tsi-navigator-2022/","tags":["Asia","Citation","Bryant_Research/Project/Good_Growth_Social_Listening"],"created":"2025-10-23T09:42:44.653-07:00","updated":"2026-09-30T22:57:10.070-07:00","dg-note-properties":{"Note Type":"News Report / Blog","tags":["Asia","Citation","Bryant_Research/Project/Good_Growth_Social_Listening"],"AI suggested tags":["Consumer_Research","SE_Asia","Consumer_Attitudes"]}}
 ---
 
 

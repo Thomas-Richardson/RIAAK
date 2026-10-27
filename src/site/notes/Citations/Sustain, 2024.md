@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/sustain-2024/","tags":["Citation","Environment/Pollution","Factory_Farming","High_Income_Countries/UK"],"created":"2025-10-23T17:42:44.607+01:00","updated":"2026-09-30T19:55:02.093+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Citation","Environment/Pollution","Factory_Farming","High_Income_Countries/UK"],"AI suggested tags":["UK","Animal_Feed","Farming"]}}
+{"dg-publish":true,"permalink":"/citations/sustain-2024/","tags":["Citation","Environment/Pollution","Factory_Farming","High_Income_Countries/UK"],"created":"2025-10-23T09:42:44.607-07:00","updated":"2026-09-30T11:55:02.093-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Citation","Environment/Pollution","Factory_Farming","High_Income_Countries/UK"],"AI suggested tags":["UK","Animal_Feed","Farming"]}}
 ---
 
 

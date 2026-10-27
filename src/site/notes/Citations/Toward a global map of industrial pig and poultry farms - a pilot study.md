@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/toward-a-global-map-of-industrial-pig-and-poultry-farms-a-pilot-study/","tags":["AI","Factory_Farming","Chickens","Pigs"],"created":"2025-10-23T17:42:45.352+01:00","updated":"2026-09-30T19:55:02.169+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["AI","Factory_Farming","Chickens","Pigs"],"source_url":"https://static1.squarespace.com/static/5e36c25824fc0a1ce060426d/t/67805978bd441156c8b654bb/1736464797716/FSRF+2023-12-01.pdf","created":"2025-10-23","AI suggested tags":["USA","Environment/Pollution","Farming"]}}
+{"dg-publish":true,"permalink":"/citations/toward-a-global-map-of-industrial-pig-and-poultry-farms-a-pilot-study/","tags":["AI","Factory_Farming","Chickens","Pigs"],"created":"2025-10-23T09:42:45.352-07:00","updated":"2026-09-30T11:55:02.169-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["AI","Factory_Farming","Chickens","Pigs"],"source_url":"https://static1.squarespace.com/static/5e36c25824fc0a1ce060426d/t/67805978bd441156c8b654bb/1736464797716/FSRF+2023-12-01.pdf","created":"2025-10-23","AI suggested tags":["USA","Environment/Pollution","Farming"]}}
 ---
 
 

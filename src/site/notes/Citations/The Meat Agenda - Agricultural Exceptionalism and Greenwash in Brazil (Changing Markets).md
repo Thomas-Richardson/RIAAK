@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-meat-agenda-agricultural-exceptionalism-and-greenwash-in-brazil-changing-markets/","tags":["Meat_Industry","Greenwashing","Environment/GHG","Politics"],"created":"2025-11-12T12:39:08.096+00:00","updated":"2026-09-30T19:55:02.130+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://changingmarkets.org/report/the-meat-agenda-agricultural-exceptionalism-and-greenwash-in-brazil/","tags":["Meat_Industry","Greenwashing","Environment/GHG","Politics"],"Year Published":"2025","AI suggested tags":["Environment/Climate_Change","Cows","Environment/Land"]}}
+{"dg-publish":true,"permalink":"/citations/the-meat-agenda-agricultural-exceptionalism-and-greenwash-in-brazil-changing-markets/","tags":["Meat_Industry","Greenwashing","Environment/GHG","Politics"],"created":"2025-11-12T04:39:08.096-08:00","updated":"2026-09-30T11:55:02.130-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://changingmarkets.org/report/the-meat-agenda-agricultural-exceptionalism-and-greenwash-in-brazil/","tags":["Meat_Industry","Greenwashing","Environment/GHG","Politics"],"Year Published":"2025","AI suggested tags":["Environment/Climate_Change","Cows","Environment/Land"]}}
 ---
 
 ### Executive Summary

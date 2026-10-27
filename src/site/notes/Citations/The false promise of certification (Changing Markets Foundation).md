@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/the-false-promise-of-certification-changing-markets-foundation/","tags":["Policy/Labeling","Greenwashing","Fish","Environment"],"created":"2025-11-25T15:08:54.044+00:00","updated":"2026-09-30T19:55:02.153+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Policy/Labeling","Greenwashing","Fish","Environment"],"source_url":"https://changingmarkets.org/wp-content/uploads/2023/10/THE_FALSE_PROMISE_OF_CERTIFICATION_FINAL_WEB.pdf","created":"2025-11-25","AI suggested tags":["Fish/Farmed","EU","Marketing"]}}
+{"dg-publish":true,"permalink":"/citations/the-false-promise-of-certification-changing-markets-foundation/","tags":["Policy/Labeling","Greenwashing","Fish","Environment"],"created":"2025-11-25T07:08:54.044-08:00","updated":"2026-09-30T11:55:02.153-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Policy/Labeling","Greenwashing","Fish","Environment"],"source_url":"https://changingmarkets.org/wp-content/uploads/2023/10/THE_FALSE_PROMISE_OF_CERTIFICATION_FINAL_WEB.pdf","created":"2025-11-25","AI suggested tags":["Fish/Farmed","EU","Marketing"]}}
 ---
 
 

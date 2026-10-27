@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/vittis-et-al-2025/","tags":["Economics/Jobs","Lower_Middle_Income_Countries","High_Income_Countries","Farming"],"created":"2025-11-06T16:09:32.811+00:00","updated":"2026-09-30T19:55:02.222+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(25)00220-7/fulltext","tags":["Economics/Jobs","Lower_Middle_Income_Countries","High_Income_Countries","Farming"],"Year Published":"2025","AI suggested tags":["Economics/Costs","Economics","Environment/Land"]}}
+{"dg-publish":true,"permalink":"/citations/vittis-et-al-2025/","tags":["Economics/Jobs","Lower_Middle_Income_Countries","High_Income_Countries","Farming"],"created":"2025-11-06T08:09:32.811-08:00","updated":"2026-09-30T11:55:02.222-07:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(25)00220-7/fulltext","tags":["Economics/Jobs","Lower_Middle_Income_Countries","High_Income_Countries","Farming"],"Year Published":"2025","AI suggested tags":["Economics/Costs","Economics","Environment/Land"]}}
 ---
 
 # Plain lang summary

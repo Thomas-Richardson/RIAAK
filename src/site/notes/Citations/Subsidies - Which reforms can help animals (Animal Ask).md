@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/subsidies-which-reforms-can-help-animals-animal-ask/","tags":["Animal_Feed"],"created":"2025-10-23T17:42:44.743+01:00","updated":"2026-09-30T19:55:02.090+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.animalask.org/post/subsidies-which-reforms-can-help-animals","tags":["Animal_Feed"],"Year Published":2022,"AI suggested tags":["Policy","Strategy","EU"]}}
+{"dg-publish":true,"permalink":"/citations/subsidies-which-reforms-can-help-animals-animal-ask/","tags":["Animal_Feed"],"created":"2025-10-23T09:42:44.743-07:00","updated":"2026-09-30T11:55:02.090-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.animalask.org/post/subsidies-which-reforms-can-help-animals","tags":["Animal_Feed"],"Year Published":2022,"AI suggested tags":["Policy","Strategy","EU"]}}
 ---
 
 To do as much good for animals as we can, it is important to understand the systems that are causing animals to suffer and die - and how to reform those systems to help animals.

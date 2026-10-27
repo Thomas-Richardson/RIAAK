@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/van-bree-et-al-2026/","tags":["Institutional_Change","Plant_Based","Health/Nutrition","Economics/Costs"],"created":"2026-08-23T18:34:39.000+01:00","updated":"2026-09-30T19:55:02.267+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://link.springer.com/article/10.1007/s00394-026-04040-5","tags":["Institutional_Change","Plant_Based","Health/Nutrition","Economics/Costs"],"Year Published":"2026","AI suggested tags":["Case_Study","Alternative_Proteins/Plant_Based","Review"]}}
+{"dg-publish":true,"permalink":"/citations/van-bree-et-al-2026/","tags":["Institutional_Change","Plant_Based_Diets","Health/Nutrition","Economics/Costs"],"created":"2026-08-23T10:34:39.000-07:00","updated":"2026-10-18T01:41:07.653-07:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://link.springer.com/article/10.1007/s00394-026-04040-5","tags":["Institutional_Change","Plant_Based_Diets","Health/Nutrition","Economics/Costs"],"Year Published":"2026","AI suggested tags":["Case_Study","Alternative_Proteins/Plant_Based","Citation"]}}
 ---
 
 ### Abstract

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/tactics-in-practice-the-science-of-plant-based-defaults-and-nudges-faunalytics/","tags":["Nudging","Behaviour_Change"],"created":"2025-10-23T17:42:45.405+01:00","updated":"2026-09-30T19:55:02.100+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/tactics-in-practice-the-science-of-plant-based-defaults-and-nudges/","tags":["Nudging","Behaviour_Change"],"Year Published":"2024","AI suggested tags":["Meat/Meat_Reduction","Consumer_Research","Veg_Diets"]}}
+{"dg-publish":true,"permalink":"/citations/tactics-in-practice-the-science-of-plant-based-defaults-and-nudges-faunalytics/","tags":["Nudging","Behaviour_Change"],"created":"2025-10-23T09:42:45.405-07:00","updated":"2026-09-30T11:55:02.100-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/tactics-in-practice-the-science-of-plant-based-defaults-and-nudges/","tags":["Nudging","Behaviour_Change"],"Year Published":"2024","AI suggested tags":["Meat/Meat_Reduction","Consumer_Research","Veg_Diets"]}}
 ---
 
 This is basically a review on plant-based defaults. 

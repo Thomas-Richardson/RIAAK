@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/strategies-for-helping-farmed-shrimp-rethink-priorities/","tags":["Shrimp","Crustaceans"],"created":"2025-10-23T17:42:46.712+01:00","updated":"2026-09-30T19:55:02.086+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/strategies-for-helping-farmed-shrimp/","tags":["Shrimp","Crustaceans"],"Year Published":"2024","AI suggested tags":["Fish","Strategy","Fish/Farmed"]}}
+{"dg-publish":true,"permalink":"/citations/strategies-for-helping-farmed-shrimp-rethink-priorities/","tags":["Shrimp","Crustaceans"],"created":"2025-10-23T09:42:46.712-07:00","updated":"2026-09-30T11:55:02.086-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/strategies-for-helping-farmed-shrimp/","tags":["Shrimp","Crustaceans"],"Year Published":"2024","AI suggested tags":["Fish","Strategy","Fish/Farmed"]}}
 ---
 
 ### Summary

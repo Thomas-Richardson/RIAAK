@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-pod/should-veganism-be-used-as-a-vehicle-for-comedy/","tags":["Messaging","Narratives","Psychology"],"created":"2026-07-12T12:12:47.000+01:00","updated":"2026-09-30T19:55:03.168+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://vegansociety.podbean.com/e/should-veganism-be-used-as-a-vehicle-for-comedy/","tags":["Messaging","Narratives","Psychology"],"Year Published":"2023","AI suggested tags":["Veganism","Anthropology","Animal_Ethics"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-pod/should-veganism-be-used-as-a-vehicle-for-comedy/","tags":["Messaging","Narratives","Psychology"],"created":"2026-07-12T04:12:47.000-07:00","updated":"2026-09-30T11:55:03.168-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://vegansociety.podbean.com/e/should-veganism-be-used-as-a-vehicle-for-comedy/","tags":["Messaging","Narratives","Psychology"],"Year Published":"2023","AI suggested tags":["Veganism","Anthropology","Animal_Ethics"]}}
 ---
 
 In this episode of The Vegan Pod, we're asking “Should veganism be used as a vehicle for comedy?”.

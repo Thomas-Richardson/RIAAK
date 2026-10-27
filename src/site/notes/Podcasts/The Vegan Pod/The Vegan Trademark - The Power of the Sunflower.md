@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-pod/the-vegan-trademark-the-power-of-the-sunflower/","tags":["Policy/Labeling","Marketing","Consumer_Attitudes"],"created":"2026-07-12T12:12:47.000+01:00","updated":"2026-09-30T19:55:03.178+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://vegansociety.podbean.com/e/the-vegan-trademark-the-power-of-the-sunflower/","tags":["Policy/Labeling","Marketing","Consumer_Attitudes"],"Year Published":"2025","AI suggested tags":["Veganism","Anthropology","Plant_Based"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-pod/the-vegan-trademark-the-power-of-the-sunflower/","tags":["Policy/Labeling","Marketing","Consumer_Attitudes"],"created":"2026-07-12T04:12:47.000-07:00","updated":"2026-10-18T01:41:07.756-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://vegansociety.podbean.com/e/the-vegan-trademark-the-power-of-the-sunflower/","tags":["Policy/Labeling","Marketing","Consumer_Attitudes"],"Year Published":"2025","AI suggested tags":["Veganism","Anthropology","Plant_Based_Diets"]}}
 ---
 
 The Vegan Trademark made international headlines in September, following the world-first vegan certification of the new Mercedes-Benz GLC.

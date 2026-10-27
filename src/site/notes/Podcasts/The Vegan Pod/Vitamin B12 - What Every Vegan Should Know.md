@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-pod/vitamin-b12-what-every-vegan-should-know/","tags":["Health/Nutrition","Veganism"],"created":"2026-07-12T12:12:47.000+01:00","updated":"2026-09-30T19:55:03.185+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://vegansociety.podbean.com/e/vitamin-b12-what-every-vegan-should-know/","tags":["Health/Nutrition","Veganism"],"Year Published":"2026","AI suggested tags":["Anthropology","Plant_Based","Animal_Ethics"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-pod/vitamin-b12-what-every-vegan-should-know/","tags":["Health/Nutrition","Veganism"],"created":"2026-07-12T04:12:47.000-07:00","updated":"2026-10-18T01:41:07.758-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://vegansociety.podbean.com/e/vitamin-b12-what-every-vegan-should-know/","tags":["Health/Nutrition","Veganism"],"Year Published":"2026","AI suggested tags":["Anthropology","Plant_Based_Diets","Animal_Ethics"]}}
 ---
 
 The recent, tragic, case of Georgina Owen has highlighted in the most devastating circumstances the critical importance of Vitamin B12 in a vegan diet.

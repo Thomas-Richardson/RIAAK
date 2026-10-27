@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-pod/will-a-fully-vegan-world-ever-be-possible/","tags":["Veganism","Movement_Strategy","Philosophy"],"created":"2026-07-12T12:12:47.000+01:00","updated":"2026-09-30T19:55:03.188+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://vegansociety.podbean.com/e/will-a-fully-vegan-world-ever-be-possible/","tags":["Veganism","Movement_Strategy","Philosophy"],"Year Published":"2022","AI suggested tags":["Anthropology","Plant_Based","Animal_Ethics"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-pod/will-a-fully-vegan-world-ever-be-possible/","tags":["Veganism","Movement_Strategy","Philosophy"],"created":"2026-07-12T04:12:47.000-07:00","updated":"2026-10-18T01:41:07.759-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://vegansociety.podbean.com/e/will-a-fully-vegan-world-ever-be-possible/","tags":["Veganism","Movement_Strategy","Philosophy"],"Year Published":"2022","AI suggested tags":["Anthropology","Plant_Based_Diets","Animal_Ethics"]}}
 ---
 
 In honour of International Day of Peace, this episode is all about the practicalities and possibilities of achieving a vegan utopia.

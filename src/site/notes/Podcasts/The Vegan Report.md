@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/","created":"2026-10-01T13:55:56.822+01:00","updated":"2026-10-01T13:55:56.822+01:00","dg-note-properties":{"Note Type":"RIAAK Admin","tags":null}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/","created":"2026-10-01T05:55:56.823-07:00","updated":"2026-10-01T22:55:36.308-07:00","dg-note-properties":{"Note Type":"RIAAK Admin","tags":null,"AI suggested tags":["Veganism","Tactics","Narratives"]}}
 ---
 
 *The Vegan Report* is a podcast by Rayane Laddi. [Show website](https://rss.com/podcasts/veganreport)

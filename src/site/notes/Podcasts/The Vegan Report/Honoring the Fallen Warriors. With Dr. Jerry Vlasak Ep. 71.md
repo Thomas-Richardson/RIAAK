@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/honoring-the-fallen-warriors-with-dr-jerry-vlasak-ep-71/","tags":["Activism","Movement_Building"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T19:55:03.250+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/1974143","tags":["Activism","Movement_Building"],"Year Published":"2025","AI suggested tags":["Tactics","Philosophy","Animal_Ethics"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/honoring-the-fallen-warriors-with-dr-jerry-vlasak-ep-71/","tags":["Activism","Movement_Building"],"created":"2026-07-10T06:24:39.000-07:00","updated":"2026-09-30T11:55:03.250-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/1974143","tags":["Activism","Movement_Building"],"Year Published":"2025","AI suggested tags":["Tactics","Philosophy","Animal_Ethics"]}}
 ---
 
 Bill Rodgers ★ Regan Russel ★ William Sweet ★ Fernando Pereira ★ Bartolomeu Morais da Silva ★ Mike Hill ★ Tom Worby ★ Jill Phipps ★ Karel Van Noppen ★ David “Gypsy” Chain Beth O’Brien ★ Robert “Naya” Bryan ★ Barry Horne

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/hollywood-has-a-vegan-problem-ep-121/","tags":["Veganism","Narratives"],"created":"2026-08-20T15:18:17.000+01:00","updated":"2026-09-30T19:55:03.249+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/3044680","tags":["Veganism","Narratives"],"Year Published":"2026","AI suggested tags":["Plant_Based","Philosophy","Anthropology"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/hollywood-has-a-vegan-problem-ep-121/","tags":["Veganism","Narratives"],"created":"2026-08-20T07:18:17.000-07:00","updated":"2026-10-18T01:41:07.769-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/3044680","tags":["Veganism","Narratives"],"Year Published":"2026","AI suggested tags":["Philosophy","Anthropology","Plant_Based_Diets"]}}
 ---
 
 Today, we're talking about vegan representation in movies. Basically, how does Hollywood portray us vegans to an audience of millions?

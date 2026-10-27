@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/hiking-raves-are-terrorism-against-animals/","tags":["Wild_Animal_Welfare","Activism","Environment/Pollution"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T19:55:03.248+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2330490","tags":["Wild_Animal_Welfare","Activism","Environment/Pollution"],"Year Published":"2025","AI suggested tags":["Tactics","Animal_Ethics","Narratives"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/hiking-raves-are-terrorism-against-animals/","tags":["Wild_Animal_Welfare","Activism","Environment/Pollution"],"created":"2026-07-10T06:24:39.000-07:00","updated":"2026-09-30T11:55:03.248-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2330490","tags":["Wild_Animal_Welfare","Activism","Environment/Pollution"],"Year Published":"2025","AI suggested tags":["Tactics","Animal_Ethics","Narratives"]}}
 ---
 
 The Party Scientist is an entrepreneur, an event planner who has organized (might still be operating) many hiking raves. I discovered him on Instagram, where he regularly promotes his hiking raves through multiple accounts. He opened my eyes on the new trend of hiking raves, a form of animal cruelty I wish to denounce.

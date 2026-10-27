@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-pod/should-schools-and-universities-be-vegan-inclusive/","tags":["Plant_Based/School_Meals","Institutional_Change","High_Income_Countries/UK"],"created":"2026-07-12T12:12:47.000+01:00","updated":"2026-09-30T19:55:03.167+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://vegansociety.podbean.com/e/should-schools-and-universities-be-vegan-inclusive/","tags":["Plant_Based/School_Meals","Institutional_Change","High_Income_Countries/UK"],"Year Published":"2024","AI suggested tags":["Veganism","Anthropology","Plant_Based"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-pod/should-schools-and-universities-be-vegan-inclusive/","tags":["Plant_Based_Diets/School_Meals","Institutional_Change","High_Income_Countries/UK"],"created":"2026-07-12T04:12:47.000-07:00","updated":"2026-10-18T01:41:07.751-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://vegansociety.podbean.com/e/should-schools-and-universities-be-vegan-inclusive/","tags":["Plant_Based_Diets/School_Meals","Institutional_Change","High_Income_Countries/UK"],"Year Published":"2024","AI suggested tags":["Veganism","Anthropology","Plant_Based_Diets"]}}
 ---
 
 As children enter the new school year and students head back to university after summer, we’re asking: What is vegan-inclusive education and why is it important?

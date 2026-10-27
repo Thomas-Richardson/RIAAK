@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-pod/george-monbiot-winding-up-not-down/","tags":["Activism","Environment","Politics"],"created":"2026-07-12T12:12:47.000+01:00","updated":"2026-09-30T19:55:03.147+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://vegansociety.podbean.com/e/george-monbiot-winding-up-not-down/","tags":["Activism","Environment","Politics"],"Year Published":"2025","AI suggested tags":["Veganism","Anthropology","Philosophy"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-pod/george-monbiot-winding-up-not-down/","tags":["Activism","Environment","Politics"],"created":"2026-07-12T04:12:47.000-07:00","updated":"2026-09-30T11:55:03.147-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://vegansociety.podbean.com/e/george-monbiot-winding-up-not-down/","tags":["Activism","Environment","Politics"],"Year Published":"2025","AI suggested tags":["Veganism","Anthropology","Philosophy"]}}
 ---
 
 We're delighted to welcome leading environmental activist and journalist, George Monbiot, to the Vegan Pod.

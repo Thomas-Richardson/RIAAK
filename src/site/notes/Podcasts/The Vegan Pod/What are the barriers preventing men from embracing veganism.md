@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-pod/what-are-the-barriers-preventing-men-from-embracing-veganism/","tags":["Veganism","Psychology","Consumer_Attitudes","High_Income_Countries/UK"],"created":"2026-07-12T12:12:47.000+01:00","updated":"2026-09-30T19:55:03.186+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://vegansociety.podbean.com/e/what-are-the-barriers-preventing-men-from-embracing-veganism/","tags":["Veganism","Psychology","Consumer_Attitudes","High_Income_Countries/UK"],"Year Published":"2023","AI suggested tags":["Anthropology","Plant_Based","Narratives"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-pod/what-are-the-barriers-preventing-men-from-embracing-veganism/","tags":["Veganism","Psychology","Consumer_Attitudes","High_Income_Countries/UK"],"created":"2026-07-12T04:12:47.000-07:00","updated":"2026-10-18T01:41:07.759-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://vegansociety.podbean.com/e/what-are-the-barriers-preventing-men-from-embracing-veganism/","tags":["Veganism","Psychology","Consumer_Attitudes","High_Income_Countries/UK"],"Year Published":"2023","AI suggested tags":["Anthropology","Narratives","Plant_Based_Diets"]}}
 ---
 
 In the UK, women are around twice as likely than men to be vegan – but why is this? That’s what we’re asking on the latest episode of The Vegan Pod.

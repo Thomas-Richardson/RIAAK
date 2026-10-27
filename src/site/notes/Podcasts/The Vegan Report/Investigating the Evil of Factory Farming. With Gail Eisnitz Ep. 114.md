@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/investigating-the-evil-of-factory-farming-with-gail-eisnitz-ep-114/","tags":["Factory_Farming","Movement_Strategy","High_Income_Countries/USA","Tactics"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T19:55:03.263+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2695413","tags":["Factory_Farming","Movement_Strategy","High_Income_Countries/USA","Tactics"],"Year Published":"2026","AI suggested tags":["Activism","Working_Conditions","Narratives"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/investigating-the-evil-of-factory-farming-with-gail-eisnitz-ep-114/","tags":["Factory_Farming","Movement_Strategy","High_Income_Countries/USA","Tactics"],"created":"2026-07-10T06:24:39.000-07:00","updated":"2026-09-30T11:55:03.263-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2695413","tags":["Factory_Farming","Movement_Strategy","High_Income_Countries/USA","Tactics"],"Year Published":"2026","AI suggested tags":["Activism","Working_Conditions","Narratives"]}}
 ---
 
 Gail is the winner of the Albert Schweitzer Medal for outstanding achievement in animal welfare. She is the chief investigator for the Humane Farming Association.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-pod/tackling-the-supplement-stigma-do-vegans-need-them/","tags":["Health/Nutrition","Veganism"],"created":"2026-09-06T06:49:41.000+01:00","updated":"2026-09-30T19:55:03.173+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://vegansociety.podbean.com/e/tackling-the-supplement-stigma-%e2%80%93-do-vegans-need-them/","tags":["Health/Nutrition","Veganism"],"Year Published":"2025","AI suggested tags":["Anthropology","Plant_Based","Plant_Based/School_Meals"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-pod/tackling-the-supplement-stigma-do-vegans-need-them/","tags":["Health/Nutrition","Veganism"],"created":"2026-09-05T22:49:41.000-07:00","updated":"2026-10-18T01:41:07.753-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://vegansociety.podbean.com/e/tackling-the-supplement-stigma-%e2%80%93-do-vegans-need-them/","tags":["Health/Nutrition","Veganism"],"Year Published":"2025","AI suggested tags":["Anthropology","Plant_Based_Diets","Plant_Based_Diets/School_Meals"]}}
 ---
 
 Today on The Vegan Pod, we’re talking supplements and whether they’re essential to a vegan diet.

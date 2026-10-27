@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/feeding-the-vegan-soul-with-victoria-moran-ep-96/","tags":["Psychology","Veganism"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T19:55:03.244+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2299408","tags":["Psychology","Veganism"],"Year Published":"2025","AI suggested tags":["Philosophy","Anthropology","Animal_Ethics"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/feeding-the-vegan-soul-with-victoria-moran-ep-96/","tags":["Psychology","Veganism"],"created":"2026-07-10T06:24:39.000-07:00","updated":"2026-09-30T11:55:03.244-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2299408","tags":["Psychology","Veganism"],"Year Published":"2025","AI suggested tags":["Philosophy","Anthropology","Animal_Ethics"]}}
 ---
 
 According to a 2017 survey, 73% of vegans self-identify as atheists or agnostics.

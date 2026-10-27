@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/how-to-fundraise-for-animals/","tags":["Movement_Building","Movement_Strategy"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T19:55:03.256+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/1796081","tags":["Movement_Building","Movement_Strategy"],"Year Published":"2024","AI suggested tags":["Tactics","Effective_Altruism","Activism"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/how-to-fundraise-for-animals/","tags":["Movement_Building","Movement_Strategy"],"created":"2026-07-10T06:24:39.000-07:00","updated":"2026-09-30T11:55:03.256-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/1796081","tags":["Movement_Building","Movement_Strategy"],"Year Published":"2024","AI suggested tags":["Tactics","Effective_Altruism","Activism"]}}
 ---
 
 do you know of any animal protection nonprofit struggling to keep its doors open?

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-pod/world-mental-health-day-special-a-vegan-state-of-mind/","tags":["Psychology","Veganism","Activism"],"created":"2026-07-12T12:12:47.000+01:00","updated":"2026-09-30T19:55:03.190+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://vegansociety.podbean.com/e/world-mental-health-day-special-a-vegan-state-of-mind/","tags":["Psychology","Veganism","Activism"],"Year Published":"2025","AI suggested tags":["Anthropology","Animal_Ethics","Philosophy"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-pod/world-mental-health-day-special-a-vegan-state-of-mind/","tags":["Psychology","Veganism","Activism"],"created":"2026-07-12T04:12:47.000-07:00","updated":"2026-09-30T11:55:03.190-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://vegansociety.podbean.com/e/world-mental-health-day-special-a-vegan-state-of-mind/","tags":["Psychology","Veganism","Activism"],"Year Published":"2025","AI suggested tags":["Anthropology","Animal_Ethics","Philosophy"]}}
 ---
 
 The Vegan Society marks World Mental Health Day with a special edition of the Vegan Pod.

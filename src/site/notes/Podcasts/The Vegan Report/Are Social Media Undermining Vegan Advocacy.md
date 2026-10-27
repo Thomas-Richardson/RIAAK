@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/are-social-media-undermining-vegan-advocacy/","tags":["Messaging","Movement_Strategy"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-10-01T06:57:10.433+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/1458410","tags":["Messaging","Movement_Strategy"],"Year Published":"2024","AI suggested tags":["Veganism","Persuasion","Narratives"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/are-social-media-undermining-vegan-advocacy/","tags":["Messaging","Movement_Strategy"],"created":"2026-07-10T06:24:39.000-07:00","updated":"2026-09-30T22:57:10.433-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/1458410","tags":["Messaging","Movement_Strategy"],"Year Published":"2024","AI suggested tags":["Veganism","Persuasion","Narratives"]}}
 ---
 
 Music: In Motion (HD) - From the Soundtrack of "The Social Network"

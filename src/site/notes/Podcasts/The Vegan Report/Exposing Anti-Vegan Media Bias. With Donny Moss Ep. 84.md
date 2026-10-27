@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/exposing-anti-vegan-media-bias-with-donny-moss-ep-84/","tags":["Activism","Meat_Industry","Narratives","Veganism"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T19:55:03.243+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2137686","tags":["Activism","Meat_Industry","Narratives","Veganism"],"Year Published":"2025","AI suggested tags":["Tactics","Movement_Strategy","Messaging"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/exposing-anti-vegan-media-bias-with-donny-moss-ep-84/","tags":["Activism","Meat_Industry","Narratives","Veganism"],"created":"2026-07-10T06:24:39.000-07:00","updated":"2026-09-30T11:55:03.243-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/2137686","tags":["Activism","Meat_Industry","Narratives","Veganism"],"Year Published":"2025","AI suggested tags":["Tactics","Movement_Strategy","Messaging"]}}
 ---
 
 Today, we denounce the complicity of the media in animal exploitation. How they have accepted so much money to carry water for this cruel industry, promoting meat, dairy and egg while perpetuating biased and deceitful anti-vegan beliefs.

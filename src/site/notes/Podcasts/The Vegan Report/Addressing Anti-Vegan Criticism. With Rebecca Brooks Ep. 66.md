@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/addressing-anti-vegan-criticism-with-rebecca-brooks-ep-66/","tags":["Veganism","Health/Nutrition","Economics/Costs","Farmers"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T19:55:03.201+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/1913289","tags":["Veganism","Health/Nutrition","Economics/Costs","Farmers"],"Year Published":"2025","AI suggested tags":["Plant_Based","Anthropology","Narratives"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/addressing-anti-vegan-criticism-with-rebecca-brooks-ep-66/","tags":["Veganism","Health/Nutrition","Economics/Costs","Farmers"],"created":"2026-07-10T06:24:39.000-07:00","updated":"2026-10-18T01:41:07.762-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/1913289","tags":["Veganism","Health/Nutrition","Economics/Costs","Farmers"],"Year Published":"2025","AI suggested tags":["Plant_Based_Diets","Anthropology","Narratives"]}}
 ---
 
 Today, make the acquaintance of Rebecca Brooks, an outspoken vegan, for a casual conversation about the following points of criticism vegans often get:

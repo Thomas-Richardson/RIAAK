@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-pod/vegan-rights/","tags":["Veganism","Law"],"created":"2026-07-12T12:12:47.000+01:00","updated":"2026-09-30T19:55:03.180+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://vegansociety.podbean.com/e/vegan-rights/","tags":["Veganism","Law"],"Year Published":"2026","AI suggested tags":["Activism","Animal_Ethics","Anthropology"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-pod/vegan-rights/","tags":["Veganism","Law"],"created":"2026-07-12T04:12:47.000-07:00","updated":"2026-09-30T11:55:03.180-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://vegansociety.podbean.com/e/vegan-rights/","tags":["Veganism","Law"],"Year Published":"2026","AI suggested tags":["Activism","Animal_Ethics","Anthropology"]}}
 ---
 
 The latest episode of the Vegan Pod examines the issue of vegan rights.

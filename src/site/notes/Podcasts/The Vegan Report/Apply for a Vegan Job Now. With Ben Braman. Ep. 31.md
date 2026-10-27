@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/apply-for-a-vegan-job-now-with-ben-braman-ep-31/","tags":["Economics/Jobs","Movement_Building","Veganism"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T19:55:03.210+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/1352185","tags":["Economics/Jobs","Movement_Building","Veganism"],"Year Published":"2024","AI suggested tags":["Activism","Philosophy","Anthropology"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/apply-for-a-vegan-job-now-with-ben-braman-ep-31/","tags":["Economics/Jobs","Movement_Building","Veganism"],"created":"2026-07-10T06:24:39.000-07:00","updated":"2026-09-30T11:55:03.210-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/1352185","tags":["Economics/Jobs","Movement_Building","Veganism"],"Year Published":"2024","AI suggested tags":["Activism","Philosophy","Anthropology"]}}
 ---
 
 In French, work or job translates to travail and travail stems from the word tripalium, which was a medieval torture instrument consisting of three sticks to which you were tied in order to receive a beating. Needless to say for many cultures, working meant suffering.

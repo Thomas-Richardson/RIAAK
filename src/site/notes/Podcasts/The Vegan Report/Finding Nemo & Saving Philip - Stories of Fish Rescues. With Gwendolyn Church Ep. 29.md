@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/finding-nemo-and-saving-philip-stories-of-fish-rescues-with-gwendolyn-church-ep-29/","tags":["Fish","Narratives","Sentience"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T19:55:03.245+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/1333527","tags":["Fish","Narratives","Sentience"],"Year Published":"2024","AI suggested tags":["Animal_Ethics","Activism","Philosophy"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/finding-nemo-and-saving-philip-stories-of-fish-rescues-with-gwendolyn-church-ep-29/","tags":["Fish","Narratives","Sentience"],"created":"2026-07-10T06:24:39.000-07:00","updated":"2026-09-30T11:55:03.245-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/1333527","tags":["Fish","Narratives","Sentience"],"Year Published":"2024","AI suggested tags":["Animal_Ethics","Activism","Philosophy"]}}
 ---
 
 Back in 2003, the highest grossing movie was Finding Nemo, and that year Finding Nemo was competing with Pirates of the Caribbean, The Matrix Reloaded and the third Lord of the Rings movie. And it is understandable: the Pixar animation work is genius. The characters are funny and touching at times.The storyline is thoughtful and speaks to a wide audience.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-pod/is-vegan-cooking-difficult-2025-01-29/","tags":["Veganism","Messaging","Consumer_Attitudes"],"created":"2026-07-12T12:12:47.000+01:00","updated":"2026-09-30T19:55:03.159+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://vegansociety.podbean.com/e/is-vegan-cooking-difficult-1738169122/","tags":["Veganism","Messaging","Consumer_Attitudes"],"Year Published":"2025","AI suggested tags":["Anthropology","Plant_Based","Plant_Based/School_Meals"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-pod/is-vegan-cooking-difficult-2025-01-29/","tags":["Veganism","Messaging","Consumer_Attitudes"],"created":"2026-07-12T04:12:47.000-07:00","updated":"2026-10-18T01:41:07.747-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://vegansociety.podbean.com/e/is-vegan-cooking-difficult-1738169122/","tags":["Veganism","Messaging","Consumer_Attitudes"],"Year Published":"2025","AI suggested tags":["Anthropology","Plant_Based_Diets","Plant_Based_Diets/School_Meals"]}}
 ---
 
 Today on The Vegan Pod, we’re revisiting a previous episode tackling the misconception that vegan cooking is difficult and takes time and effort.

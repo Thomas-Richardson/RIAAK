@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/debate-can-we-do-better-with-robert-cheeke-george-martin-and-an-pham-ep-47/","tags":["Movement_Strategy","Meat/Meat_Reduction","Messaging","Movement_Building"],"created":"2026-07-10T14:24:39.000+01:00","updated":"2026-09-30T19:55:03.232+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/1639679","tags":["Movement_Strategy","Meat/Meat_Reduction","Messaging","Movement_Building"],"Year Published":"2024","AI suggested tags":["Veganism","Philosophy","Persuasion"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/debate-can-we-do-better-with-robert-cheeke-george-martin-and-an-pham-ep-47/","tags":["Movement_Strategy","Meat/Meat_Reduction","Messaging","Movement_Building"],"created":"2026-07-10T06:24:39.000-07:00","updated":"2026-09-30T11:55:03.232-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://rss.com/podcasts/veganreport/1639679","tags":["Movement_Strategy","Meat/Meat_Reduction","Messaging","Movement_Building"],"Year Published":"2024","AI suggested tags":["Veganism","Philosophy","Persuasion"]}}
 ---
 
 I believe we all want to see a world where veganism is the norm. But, sadly, opportunities to explore critically our different perspectives and beliefs in reaching that goal are rare.

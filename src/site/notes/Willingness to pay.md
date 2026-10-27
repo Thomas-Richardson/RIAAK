@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/willingness-to-pay/","tags":["Economics","Research/Methods","Statistics"],"created":"2025-10-23T17:42:44.151+01:00","updated":"2026-09-30T19:55:03.614+01:00","dg-note-properties":{"tags":["Economics","Research/Methods","Statistics"],"AI suggested tags":["BOTEC","Research","Bryant_Research"]}}
+{"dg-publish":true,"permalink":"/willingness-to-pay/","tags":["Economics","Research/Methods","Statistics"],"created":"2025-10-23T09:42:44.151-07:00","updated":"2026-09-30T11:55:03.614-07:00","dg-note-properties":{"tags":["Economics","Research/Methods","Statistics"],"AI suggested tags":["BOTEC","Research","Bryant_Research"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/why-factory-farms-may-be-less-economical-than-we-think/","tags":["Economics","Factory_Farming","To_Clean"],"created":"2025-10-23T17:42:42.871+01:00","updated":"2026-09-30T19:55:03.609+01:00","dg-note-properties":{"tags":["Economics","Factory_Farming","To_Clean"],"Note Type":"Own Notes","AI suggested tags":["USA","Economics/Jobs","Farming"]}}
+{"dg-publish":true,"permalink":"/why-factory-farms-may-be-less-economical-than-we-think/","tags":["Economics","Factory_Farming","To_Clean"],"created":"2025-10-23T09:42:42.871-07:00","updated":"2026-09-30T11:55:03.609-07:00","dg-note-properties":{"tags":["Economics","Factory_Farming","To_Clean"],"Note Type":"Own Notes","AI suggested tags":["USA","Economics/Jobs","Farming"]}}
 ---
 
 - [[CAFOs distort markets\|CAFOs distort markets]]

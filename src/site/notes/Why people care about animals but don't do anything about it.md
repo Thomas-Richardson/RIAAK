@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/why-people-care-about-animals-but-don-t-do-anything-about-it/","tags":["Factory_Farming","Narratives"],"created":"2025-10-23T17:42:42.984+01:00","updated":"2026-09-30T19:55:03.612+01:00","dg-note-properties":{"tags":["Factory_Farming","Narratives"],"AI suggested tags":["Public_Opinion","Project_Idea","Consumer_Attitudes"]}}
+{"dg-publish":true,"permalink":"/why-people-care-about-animals-but-don-t-do-anything-about-it/","tags":["Factory_Farming","Narratives"],"created":"2025-10-23T09:42:42.984-07:00","updated":"2026-09-30T11:55:03.612-07:00","dg-note-properties":{"tags":["Factory_Farming","Narratives"],"AI suggested tags":["Public_Opinion","Project_Idea","Consumer_Attitudes"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/do-vegan-protests-work/","tags":["Behaviour_Change","Politics","Veganism"],"created":"2025-10-23T17:42:47.130+01:00","updated":"2026-09-30T19:55:02.323+01:00","dg-note-properties":{"tags":["Behaviour_Change","Politics","Veganism"],"AI suggested tags":["Protest","Public_Opinion","Psychology"]}}
+{"dg-publish":true,"permalink":"/do-vegan-protests-work/","tags":["Behaviour_Change","Politics","Veganism"],"created":"2025-10-23T09:42:47.130-07:00","updated":"2026-09-30T11:55:02.323-07:00","dg-note-properties":{"tags":["Behaviour_Change","Politics","Veganism"],"AI suggested tags":["Protest","Public_Opinion","Psychology"]}}
 ---
 
 

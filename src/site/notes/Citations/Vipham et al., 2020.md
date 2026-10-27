@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/vipham-et-al-2020/","tags":["Food_Safety"],"created":"2025-10-23T17:42:46.034+01:00","updated":"2026-09-30T19:55:02.221+01:00","dg-note-properties":{"tags":["Food_Safety"],"AI suggested tags":["Health/Disease","MFA_Food_Sec","Lower_Middle_Income_Countries"]}}
+{"dg-publish":true,"permalink":"/citations/vipham-et-al-2020/","tags":["Food_Safety"],"created":"2025-10-23T09:42:46.034-07:00","updated":"2026-09-30T11:55:02.221-07:00","dg-note-properties":{"tags":["Food_Safety"],"AI suggested tags":["Health/Disease","MFA_Food_Sec","Lower_Middle_Income_Countries"]}}
 ---
 
 Vipham, J. L., Amenu, K., Alonso, S., Ndahetuye, J. B., Zereyesus, Y., Nishimwe, K., ... & Grace, D. (2020). No food security without food safety: Lessons from livestock related research. _Global Food Security_, _26_, 100382.

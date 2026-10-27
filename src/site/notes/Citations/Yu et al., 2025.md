@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/yu-et-al-2025/","tags":["Alternative_Proteins/Cultivated_Meat","Consumer_Attitudes","Psychology","Review"],"created":"2025-10-25T16:19:37.985+01:00","updated":"2026-09-30T19:55:02.260+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.sciencedirect.com/science/article/pii/S0924224425003620?dgcid=rss_sd_all#sec5","tags":["Alternative_Proteins/Cultivated_Meat","Consumer_Attitudes","Psychology","Review"],"Year Published":"2025","AI suggested tags":["Consumer_Research","Citation","Meat/Meat_Consumption"]}}
+{"dg-publish":true,"permalink":"/citations/yu-et-al-2025/","tags":["Alternative_Proteins/Cultivated_Meat","Consumer_Attitudes","Psychology","Review"],"created":"2025-10-25T08:19:37.985-07:00","updated":"2026-09-30T11:55:02.260-07:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.sciencedirect.com/science/article/pii/S0924224425003620?dgcid=rss_sd_all#sec5","tags":["Alternative_Proteins/Cultivated_Meat","Consumer_Attitudes","Psychology","Review"],"Year Published":"2025","AI suggested tags":["Consumer_Research","Citation","Meat/Meat_Consumption"]}}
 ---
 
 ## Highlights

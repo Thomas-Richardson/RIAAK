@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/upfield-oct-2022/","tags":["Citation","Dairy","Policy/Labeling"],"created":"2025-10-23T17:42:46.748+01:00","updated":"2026-09-30T19:55:02.213+01:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Citation","Dairy","Policy/Labeling"],"AI suggested tags":["Report","Consumer_Research","Consumer_Attitudes"]}}
+{"dg-publish":true,"permalink":"/citations/upfield-oct-2022/","tags":["Citation","Dairy","Policy/Labeling"],"created":"2025-10-23T09:42:46.748-07:00","updated":"2026-09-30T11:55:02.213-07:00","dg-note-properties":{"Note Type":"Academic Paper","tags":["Citation","Dairy","Policy/Labeling"],"AI suggested tags":["Report","Consumer_Research","Consumer_Attitudes"]}}
 ---
 
 

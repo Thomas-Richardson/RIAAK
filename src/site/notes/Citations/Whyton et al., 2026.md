@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/whyton-et-al-2026/","tags":["High_Income_Countries/UK","Institutional_Change","Plant_Based","Review","Behaviour_Change"],"created":"2026-07-29T09:30:10.000+01:00","updated":"2026-09-30T19:55:02.251+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://link.springer.com/article/10.1186/s12877-025-06927-0","tags":["High_Income_Countries/UK","Institutional_Change","Plant_Based","Review","Behaviour_Change"],"Year Published":"2026","AI suggested tags":["Health/Nutrition","Case_Study","Veg_Diets"]}}
+{"dg-publish":true,"permalink":"/citations/whyton-et-al-2026/","tags":["High_Income_Countries/UK","Institutional_Change","Plant_Based_Diets","Review","Behaviour_Change"],"created":"2026-07-29T01:30:10.000-07:00","updated":"2026-10-18T01:41:07.652-07:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://link.springer.com/article/10.1186/s12877-025-06927-0","tags":["High_Income_Countries/UK","Institutional_Change","Plant_Based_Diets","Review","Behaviour_Change"],"Year Published":"2026","AI suggested tags":["Health/Nutrition","Case_Study","Veg_Diets"]}}
 ---
 
 ### Background

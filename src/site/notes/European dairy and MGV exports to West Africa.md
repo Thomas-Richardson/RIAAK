@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/european-dairy-and-mgv-exports-to-west-africa/","tags":["Economics","Lower_Middle_Income_Countries"],"created":"2025-10-23T17:42:42.957+01:00","updated":"2026-09-30T19:55:02.343+01:00","dg-note-properties":{"tags":["Economics","Lower_Middle_Income_Countries"],"AI suggested tags":["Dairy","MFA_Food_Sec","Farming"]}}
+{"dg-publish":true,"permalink":"/european-dairy-and-mgv-exports-to-west-africa/","tags":["Economics","Lower_Middle_Income_Countries"],"created":"2025-10-23T09:42:42.957-07:00","updated":"2026-09-30T11:55:02.343-07:00","dg-note-properties":{"tags":["Economics","Lower_Middle_Income_Countries"],"AI suggested tags":["Dairy","MFA_Food_Sec","Farming"]}}
 ---
 
 

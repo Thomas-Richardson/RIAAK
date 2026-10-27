@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/do-veganuary-and-other-vegan-challenges-convert-people-to-veganism-q/","tags":["Behaviour_Change","Veganism"],"created":"2025-10-23T17:42:47.964+01:00","updated":"2026-09-30T19:55:02.315+01:00","dg-note-properties":{"tags":["Behaviour_Change","Veganism"],"AI suggested tags":["Veg_Diets","Retention","Health/Nutrition"]}}
+{"dg-publish":true,"permalink":"/do-veganuary-and-other-vegan-challenges-convert-people-to-veganism-q/","tags":["Behaviour_Change","Veganism"],"created":"2025-10-23T09:42:47.964-07:00","updated":"2026-09-30T11:55:02.315-07:00","dg-note-properties":{"tags":["Behaviour_Change","Veganism"],"AI suggested tags":["Veg_Diets","Retention","Health/Nutrition"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/wap-alliance-to-save-our-antibiotics-and-the-bij-2022/","tags":["Citation","Environment/Pollution","Health/Disease","High_Income_Countries/UK"],"created":"2025-10-23T17:42:45.995+01:00","updated":"2026-09-30T19:55:02.225+01:00","dg-note-properties":{"tags":["Citation","Environment/Pollution","Health/Disease","High_Income_Countries/UK"],"AI suggested tags":["Food_Safety","Factory_Farming","Animal_Feed"]}}
+{"dg-publish":true,"permalink":"/citations/wap-alliance-to-save-our-antibiotics-and-the-bij-2022/","tags":["Citation","Environment/Pollution","Health/Disease","High_Income_Countries/UK"],"created":"2025-10-23T09:42:45.995-07:00","updated":"2026-09-30T11:55:02.225-07:00","dg-note-properties":{"tags":["Citation","Environment/Pollution","Health/Disease","High_Income_Countries/UK"],"AI suggested tags":["Food_Safety","Factory_Farming","Animal_Feed"]}}
 ---
 
 

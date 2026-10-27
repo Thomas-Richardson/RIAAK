@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eco-labelling-has-weak-effects/","tags":["Policy/Labeling"],"created":"2025-10-23T17:42:47.868+01:00","updated":"2026-09-30T19:55:02.336+01:00","dg-note-properties":{"tags":["Policy/Labeling"],"AI suggested tags":["Consumer_Research","Behaviour_Change","Review"]}}
+{"dg-publish":true,"permalink":"/eco-labelling-has-weak-effects/","tags":["Policy/Labeling"],"created":"2025-10-23T09:42:47.868-07:00","updated":"2026-09-30T11:55:02.336-07:00","dg-note-properties":{"tags":["Policy/Labeling"],"AI suggested tags":["Consumer_Research","Behaviour_Change","Review"]}}
 ---
 
 

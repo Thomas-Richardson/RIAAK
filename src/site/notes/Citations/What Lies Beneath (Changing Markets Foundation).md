@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/what-lies-beneath-changing-markets-foundation/","tags":["Animal_Feed","Fish/Farmed","EU","Working_Conditions"],"created":"2026-02-03T21:34:35.688+00:00","updated":"2026-09-30T19:55:02.240+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Animal_Feed","Fish/Farmed","EU","Working_Conditions"],"source_url":"https://changingmarkets.org/wp-content/uploads/2023/10/What_Lies_Beneath_Executive_Summary_ENGLISH.pdf","created":"2026-02-03","AI suggested tags":["Fish","Food_Security","Important_Read"]}}
+{"dg-publish":true,"permalink":"/citations/what-lies-beneath-changing-markets-foundation/","tags":["Animal_Feed","Fish/Farmed","EU","Working_Conditions"],"created":"2026-02-03T13:34:35.688-08:00","updated":"2026-09-30T11:55:02.240-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Animal_Feed","Fish/Farmed","EU","Working_Conditions"],"source_url":"https://changingmarkets.org/wp-content/uploads/2023/10/What_Lies_Beneath_Executive_Summary_ENGLISH.pdf","created":"2026-02-03","AI suggested tags":["Fish","Food_Security","Important_Read"]}}
 ---
 
 

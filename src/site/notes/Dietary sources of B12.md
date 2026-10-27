@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dietary-sources-of-b12/","tags":["Health/Nutrition"],"created":"2025-10-23T17:42:44.006+01:00","updated":"2026-09-30T19:55:02.311+01:00","dg-note-properties":{"tags":["Health/Nutrition"],"AI suggested tags":["Alternative_Proteins/Plant_Based","Diet","Veg_Diets"]}}
+{"dg-publish":true,"permalink":"/dietary-sources-of-b12/","tags":["Health/Nutrition"],"created":"2025-10-23T09:42:44.006-07:00","updated":"2026-09-30T11:55:02.311-07:00","dg-note-properties":{"tags":["Health/Nutrition"],"AI suggested tags":["Alternative_Proteins/Plant_Based","Diet","Veg_Diets"]}}
 ---
 
 

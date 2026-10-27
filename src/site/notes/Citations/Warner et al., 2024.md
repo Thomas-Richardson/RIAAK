@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/warner-et-al-2024/","tags":["Alternative_Proteins","Citation"],"created":"2025-10-23T17:42:46.481+01:00","updated":"2026-09-30T19:55:02.229+01:00","dg-note-properties":{"tags":["Alternative_Proteins","Citation"],"AI suggested tags":["Alternative_Proteins/Balanced_Proteins","Economics/Costs","Alternative_Proteins/Plant_Based"]}}
+{"dg-publish":true,"permalink":"/citations/warner-et-al-2024/","tags":["Alternative_Proteins","Citation"],"created":"2025-10-23T09:42:46.481-07:00","updated":"2026-09-30T11:55:02.229-07:00","dg-note-properties":{"tags":["Alternative_Proteins","Citation"],"AI suggested tags":["Alternative_Proteins/Balanced_Proteins","Economics/Costs","Alternative_Proteins/Plant_Based"]}}
 ---
 
 

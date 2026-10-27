@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cultivated-meat-is-still-meat-the-lab-grown-organ-analogy/","tags":["Alternative_Proteins/Cultivated_Meat","Narratives","Messaging"],"created":"2026-06-24T17:02:32.000+01:00","updated":"2026-09-30T19:55:02.294+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Alternative_Proteins/Cultivated_Meat","Narratives","Messaging"],"AI suggested tags":["Alternative_Proteins","Alternative_Proteins/Precision_Fermentation","Alternative_Proteins/Plant_Based"]}}
+{"dg-publish":true,"permalink":"/cultivated-meat-is-still-meat-the-lab-grown-organ-analogy/","tags":["Alternative_Proteins/Cultivated_Meat","Narratives","Messaging"],"created":"2026-06-24T09:02:32.000-07:00","updated":"2026-09-30T11:55:02.294-07:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Alternative_Proteins/Cultivated_Meat","Narratives","Messaging"],"AI suggested tags":["Alternative_Proteins","Alternative_Proteins/Precision_Fermentation","Alternative_Proteins/Plant_Based"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/until-the-seas-run-dry-changing-markets-foundation-et-al/","tags":["Fish/Farmed","Animal_Feed","Food_Security","Environment"],"created":"2025-10-26T17:16:43.495+00:00","updated":"2026-09-30T19:55:02.212+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Fish/Farmed","Animal_Feed","Food_Security","Environment"],"source_url":"https://changingmarkets.org/wp-content/uploads/2023/10/REPORT-WEB-UNTILL-THE-SEAS-DRY.pdf","created":"2026-02-03","AI suggested tags":["Fish","EU","Greenwashing"]}}
+{"dg-publish":true,"permalink":"/citations/until-the-seas-run-dry-changing-markets-foundation-et-al/","tags":["Fish/Farmed","Animal_Feed","Food_Security","Environment"],"created":"2025-10-26T10:16:43.495-07:00","updated":"2026-09-30T11:55:02.212-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Fish/Farmed","Animal_Feed","Food_Security","Environment"],"source_url":"https://changingmarkets.org/wp-content/uploads/2023/10/REPORT-WEB-UNTILL-THE-SEAS-DRY.pdf","created":"2026-02-03","AI suggested tags":["Fish","EU","Greenwashing"]}}
 ---
 
 

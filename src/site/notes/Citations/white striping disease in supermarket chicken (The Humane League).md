@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/white-striping-disease-in-supermarket-chicken-the-humane-league/","tags":["Chickens","Factory_Farming","Retailers","High_Income_Countries/USA"],"created":"2025-10-23T17:42:46.425+01:00","updated":"2026-09-30T19:55:02.269+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Chickens","Factory_Farming","Retailers","High_Income_Countries/USA"],"source_url":"https://assets.ctfassets.net/ww1ie0z745y7/1dOOUgl03qhrNKwSKbwXag/85f84495ce50c972d4c4cf6f48116f9f/white-striping-report-09.2021.pdf","created":"2025-10-23","AI suggested tags":["Eggs","Health/Disease","USA"]}}
+{"dg-publish":true,"permalink":"/citations/white-striping-disease-in-supermarket-chicken-the-humane-league/","tags":["Chickens","Factory_Farming","Retailers","High_Income_Countries/USA"],"created":"2025-10-23T09:42:46.425-07:00","updated":"2026-09-30T11:55:02.269-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Chickens","Factory_Farming","Retailers","High_Income_Countries/USA"],"source_url":"https://assets.ctfassets.net/ww1ie0z745y7/1dOOUgl03qhrNKwSKbwXag/85f84495ce50c972d4c4cf6f48116f9f/white-striping-report-09.2021.pdf","created":"2025-10-23","AI suggested tags":["Eggs","Health/Disease","USA"]}}
 ---
 
 # Executive Summary

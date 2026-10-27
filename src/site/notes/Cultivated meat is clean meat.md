@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cultivated-meat-is-clean-meat/","tags":["Alternative_Proteins/Cultivated_Meat","Narratives"],"created":"2025-10-23T17:42:47.858+01:00","updated":"2026-09-30T19:55:02.293+01:00","dg-note-properties":{"tags":["Alternative_Proteins/Cultivated_Meat","Narratives"],"Note Type":"Own Notes","AI suggested tags":["Alternative_Proteins","Alternative_Proteins/Precision_Fermentation","Environment/Pollution"]}}
+{"dg-publish":true,"permalink":"/cultivated-meat-is-clean-meat/","tags":["Alternative_Proteins/Cultivated_Meat","Narratives"],"created":"2025-10-23T09:42:47.858-07:00","updated":"2026-09-30T11:55:02.293-07:00","dg-note-properties":{"tags":["Alternative_Proteins/Cultivated_Meat","Narratives"],"Note Type":"Own Notes","AI suggested tags":["Alternative_Proteins","Alternative_Proteins/Precision_Fermentation","Environment/Pollution"]}}
 ---
 
 

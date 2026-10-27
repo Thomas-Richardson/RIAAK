@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cultivated-pet-food/","tags":["Alternative_Proteins/Cultivated_Meat","Pet_Food","Companion_Animals"],"created":"2025-11-11T23:30:07.890+00:00","updated":"2026-10-01T06:57:10.159+01:00","dg-note-properties":{"tags":["Alternative_Proteins/Cultivated_Meat","Pet_Food","Companion_Animals"],"Note Type":"Own Notes","AI suggested tags":["Alternative_Proteins","Alternative_Proteins/Plant_Based","Alternative_Proteins/Precision_Fermentation"]}}
+{"dg-publish":true,"permalink":"/cultivated-pet-food/","tags":["Alternative_Proteins/Cultivated_Meat","Pet_Food","Companion_Animals"],"created":"2025-11-11T15:30:07.890-08:00","updated":"2026-09-30T22:57:10.159-07:00","dg-note-properties":{"tags":["Alternative_Proteins/Cultivated_Meat","Pet_Food","Companion_Animals"],"Note Type":"Own Notes","AI suggested tags":["Alternative_Proteins","Alternative_Proteins/Plant_Based","Alternative_Proteins/Precision_Fermentation"]}}
 ---
 
 

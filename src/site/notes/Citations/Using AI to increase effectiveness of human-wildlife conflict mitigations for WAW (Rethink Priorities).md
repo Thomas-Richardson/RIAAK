@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/using-ai-to-increase-effectiveness-of-human-wildlife-conflict-mitigations-for-waw-rethink-priorities/","tags":["Wild_Animals"],"created":"2025-10-23T17:42:45.004+01:00","updated":"2026-09-30T19:55:02.215+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/ai-for-human-wildlife-conflict-mitigations/","tags":["Wild_Animals"],"Year Published":"2022","AI suggested tags":["Research/Methods","Strategy","Rodents"]}}
+{"dg-publish":true,"permalink":"/citations/using-ai-to-increase-effectiveness-of-human-wildlife-conflict-mitigations-for-waw-rethink-priorities/","tags":["Wild_Animals"],"created":"2025-10-23T09:42:45.004-07:00","updated":"2026-09-30T11:55:02.215-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/ai-for-human-wildlife-conflict-mitigations/","tags":["Wild_Animals"],"Year Published":"2022","AI suggested tags":["Research/Methods","Strategy","Rodents"]}}
 ---
 
 ## 1. Overview

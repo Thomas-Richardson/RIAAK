@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/do-people-really-care-about-animals/","tags":["Project_Idea"],"created":"2025-10-23T17:42:41.913+01:00","updated":"2026-09-30T19:55:02.317+01:00","dg-note-properties":{"tags":["Project_Idea"],"AI suggested tags":["Public_Opinion","Research/Methods","Consumer_Attitudes"]}}
+{"dg-publish":true,"permalink":"/do-people-really-care-about-animals/","tags":["Project_Idea"],"created":"2025-10-23T09:42:41.913-07:00","updated":"2026-09-30T11:55:02.317-07:00","dg-note-properties":{"tags":["Project_Idea"],"AI suggested tags":["Public_Opinion","Research/Methods","Consumer_Attitudes"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contract-farming/","tags":["Chickens","Farming","USA","Economics/Jobs"],"created":"2025-11-06T16:27:22.846+00:00","updated":"2026-09-30T19:55:02.283+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Chickens","Farming","USA","Economics/Jobs"],"AI suggested tags":["Farmers","Pigs","Factory_Farming"]}}
+{"dg-publish":true,"permalink":"/contract-farming/","tags":["Chickens","Farming","USA","Economics/Jobs"],"created":"2025-11-06T08:27:22.846-08:00","updated":"2026-09-30T11:55:02.283-07:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Chickens","Farming","USA","Economics/Jobs"],"AI suggested tags":["Farmers","Pigs","Factory_Farming"]}}
 ---
 
 

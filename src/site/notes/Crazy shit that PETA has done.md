@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/crazy-shit-that-peta-has-done/","tags":["Movement_Building"],"created":"2025-10-23T17:42:47.151+01:00","updated":"2026-10-01T06:57:10.155+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Movement_Building"],"AI suggested tags":["Persuasion","Dairy","Messaging"]}}
+{"dg-publish":true,"permalink":"/crazy-shit-that-peta-has-done/","tags":["Movement_Building"],"created":"2025-10-23T09:42:47.151-07:00","updated":"2026-09-30T22:57:10.155-07:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Movement_Building"],"AI suggested tags":["Persuasion","Dairy","Messaging"]}}
 ---
 
 

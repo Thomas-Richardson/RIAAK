@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/consumer-attitudes-on-food-nutrition-and-health-for-the-us-international-food-information-council/","tags":["Health/Nutrition","Data","Consumer_Research"],"created":"2026-02-09T12:42:31.018+00:00","updated":"2026-09-30T19:55:02.280+01:00","dg-note-properties":{"Note Type":"External Resource","tags":["Health/Nutrition","Data","Consumer_Research"],"created":null,"AI suggested tags":["Consumer_Attitudes","Citation","Veg_Diets"]}}
+{"dg-publish":true,"permalink":"/consumer-attitudes-on-food-nutrition-and-health-for-the-us-international-food-information-council/","tags":["Health/Nutrition","Data","Consumer_Research"],"created":"2026-02-09T04:42:31.018-08:00","updated":"2026-09-30T11:55:02.280-07:00","dg-note-properties":{"Note Type":"External Resource","tags":["Health/Nutrition","Data","Consumer_Research"],"created":null,"AI suggested tags":["Consumer_Attitudes","Citation","Veg_Diets"]}}
 ---
 
 https://ific.org/research/

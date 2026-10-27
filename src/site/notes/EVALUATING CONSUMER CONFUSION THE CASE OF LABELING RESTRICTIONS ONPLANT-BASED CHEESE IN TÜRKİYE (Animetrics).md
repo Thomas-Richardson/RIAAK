@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/evaluating-consumer-confusion-the-case-of-labeling-restrictions-onplant-based-cheese-in-t-ue-rkiye-animetrics/","tags":["Middle_East"],"created":"2025-10-23T17:42:41.240+01:00","updated":"2026-09-30T19:55:02.331+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Middle_East"],"created":null,"Url":"https://drive.google.com/file/d/1HD8FhZDRV3Nekqlh7adJQNyLbXxsTtfl/view","AI suggested tags":["Policy/Labeling","Consumer_Research","Plant_Based/Marketing"]}}
+{"dg-publish":true,"permalink":"/evaluating-consumer-confusion-the-case-of-labeling-restrictions-onplant-based-cheese-in-t-ue-rkiye-animetrics/","tags":["Middle_East"],"created":"2025-10-23T09:42:41.240-07:00","updated":"2026-10-18T01:41:07.655-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Middle_East"],"created":null,"Url":"https://drive.google.com/file/d/1HD8FhZDRV3Nekqlh7adJQNyLbXxsTtfl/view","AI suggested tags":["Policy/Labeling","Consumer_Research","Marketing"]}}
 ---
 
 https://drive.google.com/file/d/1HD8FhZDRV3Nekqlh7adJQNyLbXxsTtfl/view

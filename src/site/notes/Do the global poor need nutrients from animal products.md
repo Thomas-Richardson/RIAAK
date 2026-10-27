@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/do-the-global-poor-need-nutrients-from-animal-products/","tags":["Health/Nutrition","Food_Security","Economics/Jobs"],"created":"2025-11-08T14:55:47.915+00:00","updated":"2026-09-30T19:55:02.320+01:00","dg-note-properties":{"tags":["Health/Nutrition","Food_Security","Economics/Jobs"],"Note Type":"Own Work","AI suggested tags":["MFA_Food_Sec","Lower_Middle_Income_Countries","Animal_Feed"]}}
+{"dg-publish":true,"permalink":"/do-the-global-poor-need-nutrients-from-animal-products/","tags":["Health/Nutrition","Food_Security","Economics/Jobs"],"created":"2025-11-08T06:55:47.915-08:00","updated":"2026-09-30T11:55:02.320-07:00","dg-note-properties":{"tags":["Health/Nutrition","Food_Security","Economics/Jobs"],"Note Type":"Own Work","AI suggested tags":["MFA_Food_Sec","Lower_Middle_Income_Countries","Animal_Feed"]}}
 ---
 
 

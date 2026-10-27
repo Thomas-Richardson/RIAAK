@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/ultraprocessed-foods-in-the-u-s-healthy-eating-research/","tags":["UPF","Policy/Food_Policy","High_Income_Countries/USA","Alternative_Proteins/Plant_Based","Health/Nutrition"],"created":"2026-06-24T17:02:32.000+01:00","updated":"2026-09-30T19:55:02.209+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["UPF","Policy/Food_Policy","High_Income_Countries/USA","Alternative_Proteins/Plant_Based","Health/Nutrition"],"source_url":"https://healthyeatingresearch.org/wp-content/uploads/2026/05/HER-UPF-Expert-Panel-Technical-Report-04-1.pdf","created":"2026-05-19","AI suggested tags":["Citation","Review","Meat"]}}
+{"dg-publish":true,"permalink":"/citations/ultraprocessed-foods-in-the-u-s-healthy-eating-research/","tags":["UPF","Policy/Food_Policy","High_Income_Countries/USA","Alternative_Proteins/Plant_Based","Health/Nutrition"],"created":"2026-06-24T09:02:32.000-07:00","updated":"2026-09-30T11:55:02.209-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["UPF","Policy/Food_Policy","High_Income_Countries/USA","Alternative_Proteins/Plant_Based","Health/Nutrition"],"source_url":"https://healthyeatingresearch.org/wp-content/uploads/2026/05/HER-UPF-Expert-Panel-Technical-Report-04-1.pdf","created":"2026-05-19","AI suggested tags":["Citation","Review","Meat"]}}
 ---
 
 

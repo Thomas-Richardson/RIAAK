@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/early-failures-do-not-mean-the-alt-protein-sector-will-fail/","tags":["Alternative_Proteins","Economics","Narratives"],"created":"2026-06-24T17:02:32.000+01:00","updated":"2026-09-30T19:55:02.332+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Alternative_Proteins","Economics","Narratives"],"AI suggested tags":["Alternative_Proteins/Precision_Fermentation","Alternative_Proteins/Cultivated_Meat","Important_Read"]}}
+{"dg-publish":true,"permalink":"/early-failures-do-not-mean-the-alt-protein-sector-will-fail/","tags":["Alternative_Proteins","Economics","Narratives"],"created":"2026-06-24T09:02:32.000-07:00","updated":"2026-09-30T11:55:02.332-07:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Alternative_Proteins","Economics","Narratives"],"AI suggested tags":["Alternative_Proteins/Precision_Fermentation","Alternative_Proteins/Cultivated_Meat","Important_Read"]}}
 ---
 
 

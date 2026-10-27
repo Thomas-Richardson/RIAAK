@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/does-veganuary-increase-demand-for-veggie-products/","tags":["Behaviour_Change","Veganism"],"created":"2025-10-23T17:42:42.400+01:00","updated":"2026-09-30T19:55:02.324+01:00","dg-note-properties":{"tags":["Behaviour_Change","Veganism"],"AI suggested tags":["Citation","Economics","Veg_Diets"]}}
+{"dg-publish":true,"permalink":"/does-veganuary-increase-demand-for-veggie-products/","tags":["Behaviour_Change","Veganism"],"created":"2025-10-23T09:42:42.400-07:00","updated":"2026-09-30T11:55:02.324-07:00","dg-note-properties":{"tags":["Behaviour_Change","Veganism"],"AI suggested tags":["Citation","Economics","Veg_Diets"]}}
 ---
 
 

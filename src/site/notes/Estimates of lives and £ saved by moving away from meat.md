@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/estimates-of-lives-and-saved-by-moving-away-from-meat/","tags":["Economics","Health/Nutrition"],"created":"2025-10-23T17:42:42.272+01:00","updated":"2026-09-30T19:55:02.340+01:00","dg-note-properties":{"tags":["Economics","Health/Nutrition"],"AI suggested tags":["CAWF_NHS","Economics/Costs","BOTEC"]}}
+{"dg-publish":true,"permalink":"/estimates-of-lives-and-saved-by-moving-away-from-meat/","tags":["Economics","Health/Nutrition"],"created":"2025-10-23T09:42:42.272-07:00","updated":"2026-10-18T01:41:07.656-07:00","dg-note-properties":{"tags":["Economics","Health/Nutrition"],"AI suggested tags":["Bryant_Research/Project/CAWF_NHS","Economics/Costs","BOTEC"]}}
 ---
 
 If the average UK dietary intake were optimised to comply with the WHO recommendations it would save almost 7 million years of life lost prematurely in the UK over the next 30 years and increase average life expectancy by over 8 months ([Milner et al., 2015](https://bmjopen.bmj.com/content/5/4/e007364.short)).

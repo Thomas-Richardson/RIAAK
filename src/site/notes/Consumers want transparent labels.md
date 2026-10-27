@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/consumers-want-transparent-labels/","tags":["Policy/Labeling"],"created":"2025-10-23T17:42:48.061+01:00","updated":"2026-09-30T19:55:02.282+01:00","dg-note-properties":{"tags":["Policy/Labeling"],"AI suggested tags":["Report","Consumer_Attitudes","Consumer_Research"]}}
+{"dg-publish":true,"permalink":"/consumers-want-transparent-labels/","tags":["Policy/Labeling"],"created":"2025-10-23T09:42:48.061-07:00","updated":"2026-09-30T11:55:02.282-07:00","dg-note-properties":{"tags":["Policy/Labeling"],"AI suggested tags":["Report","Consumer_Attitudes","Consumer_Research"]}}
 ---
 
 - [[PB food labels are not confusing to consumers\|PB food labels are not confusing to consumers]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dietary-guidelines/","tags":["Health","Dietary_Guidelines","Plant_Based","Factory_Farming"],"created":"2026-03-11T20:41:09.348+00:00","updated":"2026-09-30T19:55:02.310+01:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Health","Dietary_Guidelines","Plant_Based","Factory_Farming"],"created":null,"AI suggested tags":["Alternative_Proteins","Health/Nutrition","Meat"]}}
+{"dg-publish":true,"permalink":"/dietary-guidelines/","tags":["Health","Dietary_Guidelines","Plant_Based_Diets","Factory_Farming"],"created":"2026-03-11T13:41:09.348-07:00","updated":"2026-10-18T01:41:07.654-07:00","dg-note-properties":{"Note Type":"Own Notes","tags":["Health","Dietary_Guidelines","Plant_Based_Diets","Factory_Farming"],"created":null,"AI suggested tags":["Alternative_Proteins","Health/Nutrition","Meat"]}}
 ---
 
 

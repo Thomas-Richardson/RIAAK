@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/willits-smith-et-al-2020/","tags":["Environment/GHG","Citation","Veganism"],"created":"2025-10-23T17:42:46.567+01:00","updated":"2026-10-01T06:57:10.123+01:00","dg-note-properties":{"tags":["Environment/GHG","Citation","Veganism"],"AI suggested tags":["Meat","Health/Nutrition","Veg_Diets"]}}
+{"dg-publish":true,"permalink":"/citations/willits-smith-et-al-2020/","tags":["Environment/GHG","Citation","Veganism"],"created":"2025-10-23T09:42:46.567-07:00","updated":"2026-09-30T22:57:10.123-07:00","dg-note-properties":{"tags":["Environment/GHG","Citation","Veganism"],"AI suggested tags":["Meat","Health/Nutrition","Veg_Diets"]}}
 ---
 
 

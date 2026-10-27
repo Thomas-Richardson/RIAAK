@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/lopez-moreno-et-al-2025/","tags":["Meat_Industry"],"created":"2025-12-10T12:54:26.332+00:00","updated":"2026-09-30T19:55:01.794+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.sciencedirect.com/science/article/abs/pii/S0002916525001261","tags":["Meat_Industry"],"Year Published":"2025","AI suggested tags":["Meat/Red_Meat","Review","Meat/Meat_Consumption"]}}
+{"dg-publish":true,"permalink":"/citations/lopez-moreno-et-al-2025/","tags":["Meat_Industry"],"created":"2025-12-10T04:54:26.332-08:00","updated":"2026-09-30T11:55:01.794-07:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.sciencedirect.com/science/article/abs/pii/S0002916525001261","tags":["Meat_Industry"],"Year Published":"2025","AI suggested tags":["Meat/Red_Meat","Review","Meat/Meat_Consumption"]}}
 ---
 
 ### Background

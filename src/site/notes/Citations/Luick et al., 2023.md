@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/luick-et-al-2023/","tags":["Citation","Veganism"],"created":"2025-10-23T17:42:44.692+01:00","updated":"2026-09-30T19:55:01.790+01:00","dg-note-properties":{"tags":["Citation","Veganism"],"AI suggested tags":["Behaviour_Change","Health/Nutrition","Review"]}}
+{"dg-publish":true,"permalink":"/citations/luick-et-al-2023/","tags":["Citation","Veganism"],"created":"2025-10-23T09:42:44.692-07:00","updated":"2026-09-30T11:55:01.790-07:00","dg-note-properties":{"tags":["Citation","Veganism"],"AI suggested tags":["Behaviour_Change","Health/Nutrition","Review"]}}
 ---
 
 

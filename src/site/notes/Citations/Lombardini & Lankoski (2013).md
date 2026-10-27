@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/lombardini-and-lankoski-2013/","tags":["Behaviour_Change","Citation","Veganism"],"created":"2025-10-23T17:42:45.182+01:00","updated":"2026-09-30T19:55:01.781+01:00","dg-note-properties":{"tags":["Behaviour_Change","Citation","Veganism"],"AI suggested tags":["Meat/Meat_Reduction","Review","Case_Study"]}}
+{"dg-publish":true,"permalink":"/citations/lombardini-and-lankoski-2013/","tags":["Behaviour_Change","Citation","Veganism"],"created":"2025-10-23T09:42:45.182-07:00","updated":"2026-09-30T11:55:01.781-07:00","dg-note-properties":{"tags":["Behaviour_Change","Citation","Veganism"],"AI suggested tags":["Meat/Meat_Reduction","Review","Case_Study"]}}
 ---
 
 

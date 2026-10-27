@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/latunde-dada-et-al-2023/","tags":["Health/Nutrition","Alternative_Proteins/Plant_Based"],"created":"2025-10-23T17:42:45.281+01:00","updated":"2026-09-30T19:55:01.763+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.mdpi.com/2072-6643/15/12/2732","tags":["Health/Nutrition","Alternative_Proteins/Plant_Based"],"Year Published":"2023","AI suggested tags":["Review","Citation","Meat"]}}
+{"dg-publish":true,"permalink":"/citations/latunde-dada-et-al-2023/","tags":["Health/Nutrition","Alternative_Proteins/Plant_Based"],"created":"2025-10-23T09:42:45.281-07:00","updated":"2026-09-30T11:55:01.763-07:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.mdpi.com/2072-6643/15/12/2732","tags":["Health/Nutrition","Alternative_Proteins/Plant_Based"],"Year Published":"2023","AI suggested tags":["Review","Citation","Meat"]}}
 ---
 
 Increasing numbers of individuals follow plant-based diets. This has sparked interest in the nutritional evaluation of the meat substitute sector. Nutritional understanding of these products is vital as plant-based eating becomes more common. For example, animal products are rich sources of iron and zinc, and plant-based foods could be inadequate in these minerals. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/lindberg-et-al-2024/","tags":["Health/Nutrition"],"created":"2025-10-23T17:42:46.064+01:00","updated":"2026-09-30T19:55:01.774+01:00","dg-note-properties":{"tags":["Health/Nutrition"],"Url":"Lindberg, L., McCann, R. R., Smyth, B., Woodside, J. V., & Nugent, A. P. (2024). The environmental impact, ingredient composition, nutritional and health impact of meat alternatives: a systematic review. _Trends in Food Science & Technology_, 104483.","AI suggested tags":["Review","Meat","Citation"]}}
+{"dg-publish":true,"permalink":"/citations/lindberg-et-al-2024/","tags":["Health/Nutrition"],"created":"2025-10-23T09:42:46.064-07:00","updated":"2026-09-30T11:55:01.774-07:00","dg-note-properties":{"tags":["Health/Nutrition"],"Url":"Lindberg, L., McCann, R. R., Smyth, B., Woodside, J. V., & Nugent, A. P. (2024). The environmental impact, ingredient composition, nutritional and health impact of meat alternatives: a systematic review. _Trends in Food Science & Technology_, 104483.","AI suggested tags":["Review","Meat","Citation"]}}
 ---
 
 ## Highlights

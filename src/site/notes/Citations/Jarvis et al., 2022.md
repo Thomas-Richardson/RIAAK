@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/jarvis-et-al-2022/","tags":["Citation","Health/Nutrition","Veganism"],"created":"2025-10-23T17:42:44.737+01:00","updated":"2026-09-30T19:55:01.732+01:00","dg-note-properties":{"tags":["Citation","Health/Nutrition","Veganism"],"AI suggested tags":["Review","Diet","Veg_Diets"]}}
+{"dg-publish":true,"permalink":"/citations/jarvis-et-al-2022/","tags":["Citation","Health/Nutrition","Veganism"],"created":"2025-10-23T09:42:44.737-07:00","updated":"2026-09-30T11:55:01.732-07:00","dg-note-properties":{"tags":["Citation","Health/Nutrition","Veganism"],"AI suggested tags":["Review","Diet","Veg_Diets"]}}
 ---
 
 

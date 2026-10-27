@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/institutional-food-systems-transformation-quantitative-analysis-of-coolfood-s-intervention-framework-rethink-priorities/","tags":["Institutional_Change","Case_Study"],"created":"2025-10-23T17:42:46.683+01:00","updated":"2026-09-30T19:55:01.714+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/plant-based-diet-shift-initiative-case-studies-coolfood/","tags":["Institutional_Change","Case_Study"],"Year Published":"2025","AI suggested tags":["Meat/Meat_Reduction","Behaviour_Change","Environment/GHG"]}}
+{"dg-publish":true,"permalink":"/citations/institutional-food-systems-transformation-quantitative-analysis-of-coolfood-s-intervention-framework-rethink-priorities/","tags":["Institutional_Change","Case_Study"],"created":"2025-10-23T09:42:46.683-07:00","updated":"2026-09-30T11:55:01.714-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/plant-based-diet-shift-initiative-case-studies-coolfood/","tags":["Institutional_Change","Case_Study"],"Year Published":"2025","AI suggested tags":["Meat/Meat_Reduction","Behaviour_Change","Environment/GHG"]}}
 ---
 
 ### Case study profile

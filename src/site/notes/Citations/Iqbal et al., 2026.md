@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/iqbal-et-al-2026/","tags":["Citation","Alternative_Proteins/Plant_Based","Pigs","Asia","Economics"],"created":"2026-08-21T07:46:21.000+01:00","updated":"2026-09-30T19:55:01.722+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.mdpi.com/2077-0472/16/16/1720","tags":["Citation","Alternative_Proteins/Plant_Based","Pigs","Asia","Economics"],"Year Published":"2026","AI suggested tags":["China","Alternative_Proteins","Alternative_Proteins/Precision_Fermentation"]}}
+{"dg-publish":true,"permalink":"/citations/iqbal-et-al-2026/","tags":["Citation","Alternative_Proteins/Plant_Based","Pigs","Asia","Economics"],"created":"2026-08-20T23:46:21.000-07:00","updated":"2026-09-30T11:55:01.722-07:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.mdpi.com/2077-0472/16/16/1720","tags":["Citation","Alternative_Proteins/Plant_Based","Pigs","Asia","Economics"],"Year Published":"2026","AI suggested tags":["China","Alternative_Proteins","Alternative_Proteins/Precision_Fermentation"]}}
 ---
 
 ## Abstract

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/leonard-et-al-2024/","tags":["Citation","Health/Nutrition"],"created":"2025-10-23T17:42:46.856+01:00","updated":"2026-09-30T19:55:01.765+01:00","dg-note-properties":{"tags":["Citation","Health/Nutrition"],"AI suggested tags":["Review","Diet","Legumes"]}}
+{"dg-publish":true,"permalink":"/citations/leonard-et-al-2024/","tags":["Citation","Health/Nutrition"],"created":"2025-10-23T09:42:46.856-07:00","updated":"2026-09-30T11:55:01.765-07:00","dg-note-properties":{"tags":["Citation","Health/Nutrition"],"AI suggested tags":["Review","Diet","Legumes"]}}
 ---
 
 

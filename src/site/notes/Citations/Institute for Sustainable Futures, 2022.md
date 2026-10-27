@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/institute-for-sustainable-futures-2022/","tags":["Citation"],"created":"2025-10-23T17:42:45.157+01:00","updated":"2026-09-30T19:55:01.713+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Citation"],"AI suggested tags":["Report","Policy/Labeling","Consumer_Research"]}}
+{"dg-publish":true,"permalink":"/citations/institute-for-sustainable-futures-2022/","tags":["Citation"],"created":"2025-10-23T09:42:45.157-07:00","updated":"2026-09-30T11:55:01.713-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Citation"],"AI suggested tags":["Report","Policy/Labeling","Consumer_Research"]}}
 ---
 
 

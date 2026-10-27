@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/mac-millan-et-al-2024/","tags":["Citation","Alternative_Proteins/Cultivated_Meat","Farmers"],"created":"2025-10-23T17:42:45.443+01:00","updated":"2026-10-01T06:57:09.931+01:00","dg-note-properties":{"tags":["Citation","Alternative_Proteins/Cultivated_Meat","Farmers"],"AI suggested tags":["Consumer_Attitudes","Alternative_Proteins","Economics"]}}
+{"dg-publish":true,"permalink":"/citations/mac-millan-et-al-2024/","tags":["Citation","Alternative_Proteins/Cultivated_Meat","Farmers"],"created":"2025-10-23T09:42:45.443-07:00","updated":"2026-09-30T22:57:09.931-07:00","dg-note-properties":{"tags":["Citation","Alternative_Proteins/Cultivated_Meat","Farmers"],"AI suggested tags":["Consumer_Attitudes","Alternative_Proteins","Economics"]}}
 ---
 
 

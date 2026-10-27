@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/li-et-al-2019/","tags":["Food_Safety","Health/Disease"],"created":"2025-11-11T23:26:09.657+00:00","updated":"2026-09-30T19:55:01.770+01:00","dg-note-properties":{"tags":["Food_Safety","Health/Disease"],"Url":"https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216545","AI suggested tags":["Lower_Middle_Income_Countries","MFA_Food_Sec","Citation"]}}
+{"dg-publish":true,"permalink":"/citations/li-et-al-2019/","tags":["Food_Safety","Health/Disease"],"created":"2025-11-11T15:26:09.657-08:00","updated":"2026-09-30T11:55:01.770-07:00","dg-note-properties":{"tags":["Food_Safety","Health/Disease"],"Url":"https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216545","AI suggested tags":["Lower_Middle_Income_Countries","MFA_Food_Sec","Citation"]}}
 ---
 
 Li, M., Havelaar, A.H., Hoffmann, S., Hald, T., Kirk, M.D., Torgerson, P.R. et al., 2019. Global disease burden of pathogens in animal source foods, 2010. PLoS One. 2019;14(6):e0216545

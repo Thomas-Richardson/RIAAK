@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/jakobsen-et-al-2011/","tags":["Citation","Fish"],"created":"2025-10-23T17:42:46.669+01:00","updated":"2026-09-30T19:55:01.729+01:00","dg-note-properties":{"tags":["Citation","Fish"],"AI suggested tags":["Diet","Health/Nutrition","Review"]}}
+{"dg-publish":true,"permalink":"/citations/jakobsen-et-al-2011/","tags":["Citation","Fish"],"created":"2025-10-23T09:42:46.669-07:00","updated":"2026-09-30T11:55:01.729-07:00","dg-note-properties":{"tags":["Citation","Fish"],"AI suggested tags":["Diet","Health/Nutrition","Review"]}}
 ---
 
 

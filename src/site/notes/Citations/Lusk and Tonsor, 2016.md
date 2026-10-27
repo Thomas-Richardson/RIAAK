@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/lusk-and-tonsor-2016/","tags":["Citation","Economics","Meat","USA"],"created":"2025-10-23T17:42:45.944+01:00","updated":"2026-09-30T19:55:01.791+01:00","dg-note-properties":{"tags":["Citation","Economics","Meat","USA"],"AI suggested tags":["Meat/Meat_Consumption","Economics/Costs","Consumer_Research"]}}
+{"dg-publish":true,"permalink":"/citations/lusk-and-tonsor-2016/","tags":["Citation","Economics","Meat","USA"],"created":"2025-10-23T09:42:45.944-07:00","updated":"2026-09-30T11:55:01.791-07:00","dg-note-properties":{"tags":["Citation","Economics","Meat","USA"],"AI suggested tags":["Meat/Meat_Consumption","Economics/Costs","Consumer_Research"]}}
 ---
 
 

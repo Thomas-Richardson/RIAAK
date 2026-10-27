@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/jurors-reflections-on-the-smithfield-piglet-rescue-trial-faunalytics/","tags":["Activism","High_Income_Countries/USA","Law","Pigs"],"created":"2026-01-28T10:44:42.082+00:00","updated":"2026-09-30T19:55:01.738+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/smithfield-trial-juror-analysis/","tags":["Activism","High_Income_Countries/USA","Law","Pigs"],"Year Published":"2023","AI suggested tags":["Public_Opinion","Policy","Animal_Welfare"]}}
+{"dg-publish":true,"permalink":"/citations/jurors-reflections-on-the-smithfield-piglet-rescue-trial-faunalytics/","tags":["Activism","High_Income_Countries/USA","Law","Pigs"],"created":"2026-01-28T02:44:42.082-08:00","updated":"2026-09-30T11:55:01.738-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/smithfield-trial-juror-analysis/","tags":["Activism","High_Income_Countries/USA","Law","Pigs"],"Year Published":"2023","AI suggested tags":["Public_Opinion","Policy","Animal_Welfare"]}}
 ---
 
 ### Background

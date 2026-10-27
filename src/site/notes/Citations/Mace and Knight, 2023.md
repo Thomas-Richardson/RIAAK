@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/mace-and-knight-2023/","tags":["Chickens","Citation","Factory_Farming","Health/Disease","Pigs"],"created":"2025-11-11T23:26:08.166+00:00","updated":"2026-09-30T19:55:01.799+01:00","dg-note-properties":{"tags":["Chickens","Citation","Factory_Farming","Health/Disease","Pigs"],"AI suggested tags":["Environment/Pollution","USA","Food_Safety"]}}
+{"dg-publish":true,"permalink":"/citations/mace-and-knight-2023/","tags":["Chickens","Citation","Factory_Farming","Health/Disease","Pigs"],"created":"2025-11-11T15:26:08.166-08:00","updated":"2026-09-30T11:55:01.799-07:00","dg-note-properties":{"tags":["Chickens","Citation","Factory_Farming","Health/Disease","Pigs"],"AI suggested tags":["Environment/Pollution","USA","Food_Safety"]}}
 ---
 
 

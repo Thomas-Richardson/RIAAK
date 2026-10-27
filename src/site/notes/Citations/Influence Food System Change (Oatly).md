@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/influence-food-system-change-oatly/","tags":["Consumer_Attitudes","Consumer_Research","Alternative_Proteins/Plant_Based","Dairy","Economics/Costs"],"created":"2026-10-01T06:57:08.638+01:00","updated":"2026-10-01T06:57:09.902+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.oatly.com/sustainability/influence-food-system-change","tags":["Consumer_Attitudes","Consumer_Research","Alternative_Proteins/Plant_Based","Dairy","Economics/Costs"],"Year Published":"2026","AI suggested tags":["Meat/Meat_Reduction","Policy/Food_Policy","Marketing"]}}
+{"dg-publish":true,"permalink":"/citations/influence-food-system-change-oatly/","tags":["Consumer_Attitudes","Consumer_Research","Alternative_Proteins/Plant_Based","Dairy","Economics/Costs"],"created":"2026-09-30T22:57:08.638-07:00","updated":"2026-09-30T22:57:09.902-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.oatly.com/sustainability/influence-food-system-change","tags":["Consumer_Attitudes","Consumer_Research","Alternative_Proteins/Plant_Based","Dairy","Economics/Costs"],"Year Published":"2026","AI suggested tags":["Meat/Meat_Reduction","Policy/Food_Policy","Marketing"]}}
 ---
 
 > [!warning] Source notes

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/hammer-et-al-2025/","tags":["Alternative_Proteins/Plant_Based","Health/Nutrition","Environment"],"created":"2025-10-25T16:23:33.755+01:00","updated":"2026-09-30T19:55:01.655+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.sciencedirect.com/science/article/pii/S096399692501974X?dgcid=rss_sd_all","tags":["Alternative_Proteins/Plant_Based","Health/Nutrition","Environment"],"Year Published":"2025","AI suggested tags":["Review","Citation","Alternative_Proteins"]}}
+{"dg-publish":true,"permalink":"/citations/hammer-et-al-2025/","tags":["Alternative_Proteins/Plant_Based","Health/Nutrition","Environment"],"created":"2025-10-25T08:23:33.755-07:00","updated":"2026-09-30T11:55:01.655-07:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.sciencedirect.com/science/article/pii/S096399692501974X?dgcid=rss_sd_all","tags":["Alternative_Proteins/Plant_Based","Health/Nutrition","Environment"],"Year Published":"2025","AI suggested tags":["Review","Citation","Alternative_Proteins"]}}
 ---
 
 ## Highlights

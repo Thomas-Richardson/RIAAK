@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/lri-and-cgiar-2021/","tags":["Citation","Farming"],"created":"2025-10-23T17:42:44.658+01:00","updated":"2026-09-30T19:55:01.757+01:00","dg-note-properties":{"tags":["Citation","Farming"],"AI suggested tags":["Health/Disease","MFA_Food_Sec","Lower_Middle_Income_Countries"]}}
+{"dg-publish":true,"permalink":"/citations/lri-and-cgiar-2021/","tags":["Citation","Farming"],"created":"2025-10-23T09:42:44.658-07:00","updated":"2026-09-30T11:55:01.757-07:00","dg-note-properties":{"tags":["Citation","Farming"],"AI suggested tags":["Health/Disease","MFA_Food_Sec","Lower_Middle_Income_Countries"]}}
 ---
 
 

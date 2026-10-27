@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/lopez-moreno-et-al-2026/","tags":["Health/Nutrition","Economics","Veganism","Environment/GHG"],"created":"2026-09-06T06:49:40.000+01:00","updated":"2026-09-30T19:55:01.795+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://pubmed.ncbi.nlm.nih.gov/41843153/","tags":["Health/Nutrition","Economics","Veganism","Environment/GHG"],"Year Published":"2026","AI suggested tags":["Economics/Costs","Veg_Diets","Review"]}}
+{"dg-publish":true,"permalink":"/citations/lopez-moreno-et-al-2026/","tags":["Health/Nutrition","Economics","Veganism","Environment/GHG"],"created":"2026-09-05T22:49:40.000-07:00","updated":"2026-09-30T11:55:01.795-07:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://pubmed.ncbi.nlm.nih.gov/41843153/","tags":["Health/Nutrition","Economics","Veganism","Environment/GHG"],"Year Published":"2026","AI suggested tags":["Economics/Costs","Veg_Diets","Review"]}}
 ---
 
 ## Abstract

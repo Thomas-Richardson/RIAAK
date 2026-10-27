@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/lam-et-al-2016/","tags":["Citation","Factory_Farming","Lower_Middle_Income_Countries"],"created":"2025-10-23T17:42:44.638+01:00","updated":"2026-09-30T19:55:01.759+01:00","dg-note-properties":{"tags":["Citation","Factory_Farming","Lower_Middle_Income_Countries"],"AI suggested tags":["USA","Health/Disease","MFA_Food_Sec"]}}
+{"dg-publish":true,"permalink":"/citations/lam-et-al-2016/","tags":["Citation","Factory_Farming","Lower_Middle_Income_Countries"],"created":"2025-10-23T09:42:44.638-07:00","updated":"2026-09-30T11:55:01.759-07:00","dg-note-properties":{"tags":["Citation","Factory_Farming","Lower_Middle_Income_Countries"],"AI suggested tags":["USA","Health/Disease","MFA_Food_Sec"]}}
 ---
 
 

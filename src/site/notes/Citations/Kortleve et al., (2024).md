@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/kortleve-et-al-2024/","tags":["Animal_Feed","Citation"],"created":"2025-10-23T17:42:44.884+01:00","updated":"2026-09-30T19:55:01.751+01:00","dg-note-properties":{"tags":["Animal_Feed","Citation"],"Note Type":"undefined","AI suggested tags":["Environment/Land","Economics","Farming"]}}
+{"dg-publish":true,"permalink":"/citations/kortleve-et-al-2024/","tags":["Animal_Feed","Citation"],"created":"2025-10-23T09:42:44.884-07:00","updated":"2026-09-30T11:55:01.751-07:00","dg-note-properties":{"tags":["Animal_Feed","Citation"],"Note Type":"undefined","AI suggested tags":["Environment/Land","Economics","Farming"]}}
 ---
 
 

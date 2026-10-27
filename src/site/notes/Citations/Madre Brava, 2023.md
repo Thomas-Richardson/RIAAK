@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/madre-brava-2023/","tags":["Asia","Citation","Bryant_Research/Project/Good_Growth_Social_Listening"],"created":"2025-10-23T17:42:45.609+01:00","updated":"2026-10-01T06:57:09.939+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Asia","Citation","Bryant_Research/Project/Good_Growth_Social_Listening"],"AI suggested tags":["SE_Asia","Lower_Middle_Income_Countries","Alternative_Proteins"]}}
+{"dg-publish":true,"permalink":"/citations/madre-brava-2023/","tags":["Asia","Citation","Bryant_Research/Project/Good_Growth_Social_Listening"],"created":"2025-10-23T09:42:45.609-07:00","updated":"2026-09-30T22:57:09.939-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Asia","Citation","Bryant_Research/Project/Good_Growth_Social_Listening"],"AI suggested tags":["SE_Asia","Lower_Middle_Income_Countries","Alternative_Proteins"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/maki-et-al-2012/","tags":["Chickens","Citation","Cows","Fish","Health/Nutrition","Meat"],"created":"2025-10-23T17:42:45.636+01:00","updated":"2026-09-30T19:55:01.805+01:00","dg-note-properties":{"tags":["Chickens","Citation","Cows","Fish","Health/Nutrition","Meat"],"AI suggested tags":["Review","Nuts","Legumes"]}}
+{"dg-publish":true,"permalink":"/citations/maki-et-al-2012/","tags":["Chickens","Citation","Cows","Fish","Health/Nutrition","Meat"],"created":"2025-10-23T09:42:45.636-07:00","updated":"2026-09-30T11:55:01.805-07:00","dg-note-properties":{"tags":["Chickens","Citation","Cows","Fish","Health/Nutrition","Meat"],"AI suggested tags":["Review","Nuts","Legumes"]}}
 ---
 
 

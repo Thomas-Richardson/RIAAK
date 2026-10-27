@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/latino-et-al-2020/","tags":["Citation","Lower_Middle_Income_Countries","Meat"],"created":"2025-10-23T17:42:47.008+01:00","updated":"2026-09-30T19:55:01.761+01:00","dg-note-properties":{"tags":["Citation","Lower_Middle_Income_Countries","Meat"],"AI suggested tags":["MFA_Food_Sec","Farming","USA"]}}
+{"dg-publish":true,"permalink":"/citations/latino-et-al-2020/","tags":["Citation","Lower_Middle_Income_Countries","Meat"],"created":"2025-10-23T09:42:47.008-07:00","updated":"2026-09-30T11:55:01.761-07:00","dg-note-properties":{"tags":["Citation","Lower_Middle_Income_Countries","Meat"],"AI suggested tags":["MFA_Food_Sec","Farming","USA"]}}
 ---
 
 

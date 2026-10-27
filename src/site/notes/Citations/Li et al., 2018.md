@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/li-et-al-2018/","tags":["Review","Health/Disease","Legumes","Asia"],"created":"2025-10-23T17:42:45.009+01:00","updated":"2026-09-30T19:55:01.768+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://pubmed.ncbi.nlm.nih.gov/29407270/","tags":["Review","Health/Disease","Legumes","Asia"],"Year Published":"2018","AI suggested tags":["Health/Nutrition","Diet","Nuts"]}}
+{"dg-publish":true,"permalink":"/citations/li-et-al-2018/","tags":["Review","Health/Disease","Legumes","Asia"],"created":"2025-10-23T09:42:45.009-07:00","updated":"2026-09-30T11:55:01.768-07:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://pubmed.ncbi.nlm.nih.gov/29407270/","tags":["Review","Health/Disease","Legumes","Asia"],"Year Published":"2018","AI suggested tags":["Health/Nutrition","Diet","Nuts"]}}
 ---
 
 ## Abstract

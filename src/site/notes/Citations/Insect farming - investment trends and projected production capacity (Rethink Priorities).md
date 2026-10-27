@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/insect-farming-investment-trends-and-projected-production-capacity-rethink-priorities/","tags":["Insects"],"created":"2025-10-23T17:42:46.546+01:00","updated":"2026-09-30T19:55:01.708+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/investments-into-insect-farming/","tags":["Insects"],"Year Published":"2024","AI suggested tags":["Economics","Animal_Feed","Alternative_Proteins"]}}
+{"dg-publish":true,"permalink":"/citations/insect-farming-investment-trends-and-projected-production-capacity-rethink-priorities/","tags":["Insects"],"created":"2025-10-23T09:42:46.546-07:00","updated":"2026-09-30T11:55:01.708-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://rethinkpriorities.org/research-area/investments-into-insect-farming/","tags":["Insects"],"Year Published":"2024","AI suggested tags":["Economics","Animal_Feed","Alternative_Proteins"]}}
 ---
 
 ## Short summary

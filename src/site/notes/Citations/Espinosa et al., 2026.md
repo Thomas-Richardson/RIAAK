@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/espinosa-et-al-2026/","tags":["Alternative_Proteins/Plant_Based","Health/Nutrition","Economics/Costs","Environment","High_Income_Countries/UK"],"created":"2026-07-29T09:30:10.000+01:00","updated":"2026-09-30T19:55:01.533+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.sciencedirect.com/science/article/pii/S247529912600034X","tags":["Alternative_Proteins/Plant_Based","Health/Nutrition","Economics/Costs","Environment","High_Income_Countries/UK"],"Year Published":"2026","AI suggested tags":["Citation","Review","Environment/GHG"]}}
+{"dg-publish":true,"permalink":"/citations/espinosa-et-al-2026/","tags":["Alternative_Proteins/Plant_Based","Health/Nutrition","Economics/Costs","Environment","High_Income_Countries/UK"],"created":"2026-07-29T01:30:10.000-07:00","updated":"2026-09-30T11:55:01.533-07:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.sciencedirect.com/science/article/pii/S247529912600034X","tags":["Alternative_Proteins/Plant_Based","Health/Nutrition","Economics/Costs","Environment","High_Income_Countries/UK"],"Year Published":"2026","AI suggested tags":["Citation","Review","Environment/GHG"]}}
 ---
 
 ### Background

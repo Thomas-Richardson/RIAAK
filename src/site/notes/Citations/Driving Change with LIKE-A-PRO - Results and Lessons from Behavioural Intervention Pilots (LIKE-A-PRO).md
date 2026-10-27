@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/driving-change-with-like-a-pro-results-and-lessons-from-behavioural-intervention-pilots-like-a-pro/","tags":["Alternative_Proteins","Behaviour_Change","Consumer_Research","Europe"],"created":"2026-10-01T06:57:08.630+01:00","updated":"2026-10-01T06:57:09.796+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.cscp.org/wp-content/uploads/2026/09/LIKE-A-PRO-Behavioural-Pilots-report_010926_FV.pdf","tags":["Alternative_Proteins","Behaviour_Change","Consumer_Research","Europe"],"Year Published":"2026","AI suggested tags":["Meat/Meat_Reduction","EU","Marketing"]}}
+{"dg-publish":true,"permalink":"/citations/driving-change-with-like-a-pro-results-and-lessons-from-behavioural-intervention-pilots-like-a-pro/","tags":["Alternative_Proteins","Behaviour_Change","Consumer_Research","Europe"],"created":"2026-09-30T22:57:08.630-07:00","updated":"2026-09-30T22:57:09.796-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.cscp.org/wp-content/uploads/2026/09/LIKE-A-PRO-Behavioural-Pilots-report_010926_FV.pdf","tags":["Alternative_Proteins","Behaviour_Change","Consumer_Research","Europe"],"Year Published":"2026","AI suggested tags":["Meat/Meat_Reduction","EU","Marketing"]}}
 ---
 
 ## Overview

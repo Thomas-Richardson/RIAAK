@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/dunneram-et-al-2026/","tags":["Veg_Diets","Health/Disease","Review"],"created":"2026-03-02T00:24:10.404+00:00","updated":"2026-09-30T19:55:01.507+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.nature.com/articles/s41416-025-03327-4","tags":["Veg_Diets","Health/Disease","Review"],"Year Published":"2026","AI suggested tags":["Health/Nutrition","Diet","Meat/Meat_Consumption"]}}
+{"dg-publish":true,"permalink":"/citations/dunneram-et-al-2026/","tags":["Veg_Diets","Health/Disease","Review"],"created":"2026-03-01T16:24:10.404-08:00","updated":"2026-09-30T11:55:01.507-07:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.nature.com/articles/s41416-025-03327-4","tags":["Veg_Diets","Health/Disease","Review"],"Year Published":"2026","AI suggested tags":["Health/Nutrition","Diet","Meat/Meat_Consumption"]}}
 ---
 
 ### Background

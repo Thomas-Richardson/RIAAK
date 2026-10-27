@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/dominguez-oliva-et-al-2023/","tags":["Animal_Feed","Citation","Pet_Food","Companion_Animals"],"created":"2025-11-11T23:30:07.119+00:00","updated":"2026-09-30T19:55:01.498+01:00","dg-note-properties":{"tags":["Animal_Feed","Citation","Pet_Food","Companion_Animals"],"Note Type":"undefined","AI suggested tags":["Review","Health/Nutrition","Veg_Diets"]}}
+{"dg-publish":true,"permalink":"/citations/dominguez-oliva-et-al-2023/","tags":["Animal_Feed","Citation","Pet_Food","Companion_Animals"],"created":"2025-11-11T15:30:07.119-08:00","updated":"2026-09-30T11:55:01.498-07:00","dg-note-properties":{"tags":["Animal_Feed","Citation","Pet_Food","Companion_Animals"],"Note Type":"undefined","AI suggested tags":["Review","Health/Nutrition","Veg_Diets"]}}
 ---
 
 

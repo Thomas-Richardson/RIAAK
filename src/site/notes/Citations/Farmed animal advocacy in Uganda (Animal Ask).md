@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/farmed-animal-advocacy-in-uganda-animal-ask/","tags":["Africa"],"created":"2025-10-23T17:42:45.025+01:00","updated":"2026-09-30T19:55:01.556+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.animalask.org/post/farmed-animal-advocacy-in-uganda","tags":["Africa"],"Year Published":"2022","AI suggested tags":["Strategy","Policy","Animal_Welfare"]}}
+{"dg-publish":true,"permalink":"/citations/farmed-animal-advocacy-in-uganda-animal-ask/","tags":["Africa"],"created":"2025-10-23T09:42:45.025-07:00","updated":"2026-09-30T11:55:01.556-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.animalask.org/post/farmed-animal-advocacy-in-uganda","tags":["Africa"],"Year Published":"2022","AI suggested tags":["Strategy","Policy","Animal_Welfare"]}}
 ---
 
 The welfare of farmed animals is a critical component of agriculture. Improving animal welfare means that animals live happier, healthier lives - not only is this good for its own sake, but animal welfare also supports community development, public health, and environmental outcomes. In this report, we identify the top opportunities for improving farmed animal welfare in Uganda.

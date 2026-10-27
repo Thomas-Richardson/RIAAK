@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/ewens-et-al-2023/","tags":["Health/Nutrition","Institutional_Change"],"created":"2025-10-23T17:42:44.825+01:00","updated":"2026-09-30T19:55:01.539+01:00","dg-note-properties":{"tags":["Health/Nutrition","Institutional_Change"],"Note Type":"Academic Paper","Url":"https://www.mdpi.com/2072-6643/15/22/4797","AI suggested tags":["Behaviour_Change","Citation","Case_Study"]}}
+{"dg-publish":true,"permalink":"/citations/ewens-et-al-2023/","tags":["Health/Nutrition","Institutional_Change"],"created":"2025-10-23T09:42:44.825-07:00","updated":"2026-09-30T11:55:01.539-07:00","dg-note-properties":{"tags":["Health/Nutrition","Institutional_Change"],"Note Type":"Academic Paper","Url":"https://www.mdpi.com/2072-6643/15/22/4797","AI suggested tags":["Behaviour_Change","Citation","Case_Study"]}}
 ---
 
 - [[Meat free Mondays\|Meat free Mondays]]

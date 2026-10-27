@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/de-loyde-et-al-2023/","tags":["Citation","Consumer_Research","Dairy","Policy/Labeling"],"created":"2025-10-23T17:42:45.774+01:00","updated":"2026-09-30T19:55:01.479+01:00","dg-note-properties":{"tags":["Citation","Consumer_Research","Dairy","Policy/Labeling"],"AI suggested tags":["Report","Plant_Based/Marketing","Marketing"]}}
+{"dg-publish":true,"permalink":"/citations/de-loyde-et-al-2023/","tags":["Citation","Consumer_Research","Dairy","Policy/Labeling"],"created":"2025-10-23T09:42:45.774-07:00","updated":"2026-10-18T01:41:07.634-07:00","dg-note-properties":{"tags":["Citation","Consumer_Research","Dairy","Policy/Labeling"],"AI suggested tags":["Report","Marketing","Review"]}}
 ---
 
 

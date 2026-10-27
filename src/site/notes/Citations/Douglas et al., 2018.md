@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/douglas-et-al-2018/","tags":["Citation","Factory_Farming","Health/Disease","Review"],"created":"2025-11-06T09:41:40.740+00:00","updated":"2026-09-30T19:55:01.501+01:00","dg-note-properties":{"tags":["Citation","Factory_Farming","Health/Disease","Review"],"AI suggested tags":["Pigs","Environment/Pollution","USA"]}}
+{"dg-publish":true,"permalink":"/citations/douglas-et-al-2018/","tags":["Citation","Factory_Farming","Health/Disease","Review"],"created":"2025-11-06T01:41:40.740-08:00","updated":"2026-09-30T11:55:01.501-07:00","dg-note-properties":{"tags":["Citation","Factory_Farming","Health/Disease","Review"],"AI suggested tags":["Pigs","Environment/Pollution","USA"]}}
 ---
 
 

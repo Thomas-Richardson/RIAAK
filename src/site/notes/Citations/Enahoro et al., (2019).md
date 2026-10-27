@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/enahoro-et-al-2019/","tags":["Citation","Economics"],"created":"2025-10-23T17:42:45.481+01:00","updated":"2026-09-30T19:55:01.523+01:00","dg-note-properties":{"tags":["Citation","Economics"],"AI suggested tags":["Lower_Middle_Income_Countries","MFA_Food_Sec","Farming"]}}
+{"dg-publish":true,"permalink":"/citations/enahoro-et-al-2019/","tags":["Citation","Economics"],"created":"2025-10-23T09:42:45.481-07:00","updated":"2026-09-30T11:55:01.523-07:00","dg-note-properties":{"tags":["Citation","Economics"],"AI suggested tags":["Lower_Middle_Income_Countries","MFA_Food_Sec","Farming"]}}
 ---
 
 

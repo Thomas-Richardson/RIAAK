@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/duluins-et-al-2022/","tags":["Case_Study","Citation","Cows","Dairy","Economics"],"created":"2025-10-23T17:42:45.365+01:00","updated":"2026-09-30T19:55:01.505+01:00","dg-note-properties":{"tags":["Case_Study","Citation","Cows","Dairy","Economics"],"AI suggested tags":["Environment/Land","Farming","Alternative_Proteins"]}}
+{"dg-publish":true,"permalink":"/citations/duluins-et-al-2022/","tags":["Case_Study","Citation","Cows","Dairy","Economics"],"created":"2025-10-23T09:42:45.365-07:00","updated":"2026-09-30T11:55:01.505-07:00","dg-note-properties":{"tags":["Case_Study","Citation","Cows","Dairy","Economics"],"AI suggested tags":["Environment/Land","Farming","Alternative_Proteins"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/bird-flu-only-major-farm-reforms-can-end-it-compassion-in-world-farming/","tags":["Health/Disease"],"created":"2026-02-09T12:26:42.719+00:00","updated":"2026-09-30T19:55:01.359+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Health/Disease"],"source_url":"https://www.ciwf.org.uk/research/animal-welfare/bird-flu-only-major-farm-reforms-can-end-it/","created":"2026-02-09","AI suggested tags":["Factory_Farming","Chickens","Pigs"]}}
+{"dg-publish":true,"permalink":"/citations/bird-flu-only-major-farm-reforms-can-end-it-compassion-in-world-farming/","tags":["Health/Disease"],"created":"2026-02-09T04:26:42.719-08:00","updated":"2026-09-30T11:55:01.359-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Health/Disease"],"source_url":"https://www.ciwf.org.uk/research/animal-welfare/bird-flu-only-major-farm-reforms-can-end-it/","created":"2026-02-09","AI suggested tags":["Factory_Farming","Chickens","Pigs"]}}
 ---
 
 

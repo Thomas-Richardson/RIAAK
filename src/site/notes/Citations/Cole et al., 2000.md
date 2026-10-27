@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/cole-et-al-2000/","tags":["Health/Disease","Pigs"],"created":"2025-10-23T17:42:45.863+01:00","updated":"2026-09-30T19:55:01.452+01:00","dg-note-properties":{"tags":["Health/Disease","Pigs"],"AI suggested tags":["Environment/Pollution","USA","Factory_Farming"]}}
+{"dg-publish":true,"permalink":"/citations/cole-et-al-2000/","tags":["Health/Disease","Pigs"],"created":"2025-10-23T09:42:45.863-07:00","updated":"2026-09-30T11:55:01.452-07:00","dg-note-properties":{"tags":["Health/Disease","Pigs"],"AI suggested tags":["Environment/Pollution","USA","Factory_Farming"]}}
 ---
 
 Cole, D., Todd, L., & Wing, S. (2000). Concentrated swine feeding operations and public health: a review of occupational and community health effects. _Environmental health perspectives_, _108_(8), 685-699.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/ciwf-and-you-gov-2022/","tags":["Environment/GHG","Citation","Factory_Farming"],"created":"2025-10-23T17:42:45.034+01:00","updated":"2026-09-30T19:55:01.417+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Environment/GHG","Citation","Factory_Farming"],"AI suggested tags":["Consumer_Attitudes","UK","Farming"]}}
+{"dg-publish":true,"permalink":"/citations/ciwf-and-you-gov-2022/","tags":["Environment/GHG","Citation","Factory_Farming"],"created":"2025-10-23T09:42:45.034-07:00","updated":"2026-09-30T11:55:01.417-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Environment/GHG","Citation","Factory_Farming"],"AI suggested tags":["Consumer_Attitudes","UK","Farming"]}}
 ---
 
 

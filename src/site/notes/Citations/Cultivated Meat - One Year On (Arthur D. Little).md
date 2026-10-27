@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/cultivated-meat-one-year-on-arthur-d-little/","tags":["Alternative_Proteins/Cultivated_Meat","Economics/Costs"],"created":"2026-07-19T17:07:00.000+01:00","updated":"2026-09-30T19:55:01.474+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Alternative_Proteins/Cultivated_Meat","Economics/Costs"],"source_url":"https://www.adlittle.com/sites/default/files/viewpoints/ADL%20Cultivated%20meat%202026.pdf","created":"2026-07-15","AI suggested tags":["Alternative_Proteins/Precision_Fermentation","Economics","Alternative_Proteins"]}}
+{"dg-publish":true,"permalink":"/citations/cultivated-meat-one-year-on-arthur-d-little/","tags":["Alternative_Proteins/Cultivated_Meat","Economics/Costs"],"created":"2026-07-19T09:07:00.000-07:00","updated":"2026-09-30T11:55:01.474-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":["Alternative_Proteins/Cultivated_Meat","Economics/Costs"],"source_url":"https://www.adlittle.com/sites/default/files/viewpoints/ADL%20Cultivated%20meat%202026.pdf","created":"2026-07-15","AI suggested tags":["Alternative_Proteins/Precision_Fermentation","Economics","Alternative_Proteins"]}}
 ---
 
 

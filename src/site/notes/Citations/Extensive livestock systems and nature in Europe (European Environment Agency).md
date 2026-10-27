@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/extensive-livestock-systems-and-nature-in-europe-european-environment-agency/","tags":["Grazing","Biodiversity","Europe"],"created":"2026-06-24T17:02:32.000+01:00","updated":"2026-09-30T19:55:01.549+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.eea.europa.eu/en/analysis/publications/extensive-livestock-systems-and-europes-nature","tags":["Grazing","Biodiversity","Europe"],"Year Published":"2026","AI suggested tags":["Environment/Land","Farming","Cows"]}}
+{"dg-publish":true,"permalink":"/citations/extensive-livestock-systems-and-nature-in-europe-european-environment-agency/","tags":["Grazing","Biodiversity","Europe"],"created":"2026-06-24T09:02:32.000-07:00","updated":"2026-09-30T11:55:01.549-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.eea.europa.eu/en/analysis/publications/extensive-livestock-systems-and-europes-nature","tags":["Grazing","Biodiversity","Europe"],"Year Published":"2026","AI suggested tags":["Environment/Land","Farming","Cows"]}}
 ---
 
 - Traditional livestock grazing systems have shaped Europe’s landscape and its semi-natural habitats for thousands of years, partly replacing the ecological role once played by large wild grazers such as aurochs, bison or wild horses.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/ellinger-et-al-2023/","tags":["Citation","Health/Nutrition","Meat","Review"],"created":"2025-11-06T09:41:43.060+00:00","updated":"2026-09-30T19:55:01.519+01:00","dg-note-properties":{"tags":["Citation","Health/Nutrition","Meat","Review"],"AI suggested tags":["Diet","Legumes","Nuts"]}}
+{"dg-publish":true,"permalink":"/citations/ellinger-et-al-2023/","tags":["Citation","Health/Nutrition","Meat","Review"],"created":"2025-11-06T01:41:43.060-08:00","updated":"2026-09-30T11:55:01.519-07:00","dg-note-properties":{"tags":["Citation","Health/Nutrition","Meat","Review"],"AI suggested tags":["Diet","Legumes","Nuts"]}}
 ---
 
 

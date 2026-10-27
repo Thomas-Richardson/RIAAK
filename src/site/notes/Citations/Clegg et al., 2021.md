@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/clegg-et-al-2021/","tags":["Alternative_Proteins/Plant_Based","Dairy","Health/Nutrition","Economics/Costs","High_Income_Countries/UK"],"created":"2025-10-23T17:42:46.445+01:00","updated":"2026-09-30T19:55:01.448+01:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.sciencedirect.com/science/article/abs/pii/S0963996921004853","tags":["Alternative_Proteins/Plant_Based","Dairy","Health/Nutrition","Economics/Costs","High_Income_Countries/UK"],"Year Published":"2021","AI suggested tags":["Review","Economics","Citation"]}}
+{"dg-publish":true,"permalink":"/citations/clegg-et-al-2021/","tags":["Alternative_Proteins/Plant_Based","Dairy","Health/Nutrition","Economics/Costs","High_Income_Countries/UK"],"created":"2025-10-23T09:42:46.445-07:00","updated":"2026-09-30T11:55:01.448-07:00","dg-note-properties":{"Note Type":"Academic Paper","Url":"https://www.sciencedirect.com/science/article/abs/pii/S0963996921004853","tags":["Alternative_Proteins/Plant_Based","Dairy","Health/Nutrition","Economics/Costs","High_Income_Countries/UK"],"Year Published":"2021","AI suggested tags":["Review","Economics","Citation"]}}
 ---
 
 ## Highlights

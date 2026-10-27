@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/emotional-labor-burnout-and-animal-advocacy-faunalytics/","tags":["Movement_Building","Psychology","Retention"],"created":"2026-07-15T12:19:39.000+01:00","updated":"2026-09-30T19:55:01.521+01:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/emotional-labor-burnout-animal-advocacy/","tags":["Movement_Building","Psychology","Retention"],"Year Published":"2019","AI suggested tags":["Public_Opinion","Research/Methods","Working_Conditions"]}}
+{"dg-publish":true,"permalink":"/citations/emotional-labor-burnout-and-animal-advocacy-faunalytics/","tags":["Movement_Building","Psychology","Retention"],"created":"2026-07-15T04:19:39.000-07:00","updated":"2026-09-30T11:55:01.521-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://faunalytics.org/emotional-labor-burnout-animal-advocacy/","tags":["Movement_Building","Psychology","Retention"],"Year Published":"2019","AI suggested tags":["Public_Opinion","Research/Methods","Working_Conditions"]}}
 ---
 
 This article explores the issues of emotional labor, burnout, and compassion fatigue within animal advocacy. While emotions are a key tool for persuasion, the emotional well-being of advocates is often downplayed. 

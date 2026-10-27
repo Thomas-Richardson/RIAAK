@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/animal-journalism-with-jessica-scott-reid/","tags":["Canada","Narratives","Activism"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.678+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep712/","tags":["Canada","Narratives","Activism"],"Year Published":"2023","AI suggested tags":["Tactics","Animal_Ethics","Companion_Animals"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/animal-journalism-with-jessica-scott-reid/","tags":["Canada","Narratives","Activism"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-09-30T11:55:02.678-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep712/","tags":["Canada","Narratives","Activism"],"Year Published":"2023","AI suggested tags":["Tactics","Animal_Ethics","Companion_Animals"]}}
 ---
 
 Every activist knows that journalists who are willing to cover serious animal stories are all too rare, but this week we will be talking to someone who has carved out a career doing exactly that. Freelance journalist and animal advocate Jessica Scott-Reid shares her experience in the world of animal-related journalism.

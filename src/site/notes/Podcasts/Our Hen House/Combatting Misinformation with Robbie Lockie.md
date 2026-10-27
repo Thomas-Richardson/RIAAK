@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/combatting-misinformation-with-robbie-lockie/","tags":["Factory_Farming","Messaging","Narratives"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.721+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep776/","tags":["Factory_Farming","Messaging","Narratives"],"Year Published":"2024","AI suggested tags":["Plant_Based","Activism","Tactics"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/combatting-misinformation-with-robbie-lockie/","tags":["Factory_Farming","Messaging","Narratives"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-10-18T01:41:07.684-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep776/","tags":["Factory_Farming","Messaging","Narratives"],"Year Published":"2024","AI suggested tags":["Activism","Tactics","Plant_Based_Diets"]}}
 ---
 
 Misinformation, disinformation, fake news, outright lies. When it comes to the horrific harms caused by factory farms, the truth can be hard to come by. This week, we are joined by Robbie Lockie to discuss The Freedom Food Alliance, which is helping both consumers and policymakers get the real story.

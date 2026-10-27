@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/animal-lives-and-deaths-with-sarah-bowen/","tags":["Philosophy","Psychology","Companion_Animals"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.682+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep762/","tags":["Philosophy","Psychology","Companion_Animals"],"Year Published":"2024","AI suggested tags":["Animal_Ethics","Narratives","Sentience"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/animal-lives-and-deaths-with-sarah-bowen/","tags":["Philosophy","Psychology","Companion_Animals"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-09-30T11:55:02.682-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep762/","tags":["Philosophy","Psychology","Companion_Animals"],"Year Published":"2024","AI suggested tags":["Animal_Ethics","Narratives","Sentience"]}}
 ---
 
 Why do many people see some animals’ deaths as devastating while most animal deaths are considered irrelevant and meaningless? This week, animal chaplain Sarah Bowen joins us to discuss her book, Sacred Sendoffs, and religion and spirituality as they relate to humanity’s treatment of animals.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/animal-rights-in-europe-with-benny-andersson/","tags":["Europe","Strategy","Corporate_Campaigns","Policy"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.688+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep777/","tags":["Europe","Strategy","Corporate_Campaigns","Policy"],"Year Published":"2024","AI suggested tags":["Activism","Tactics","High_Income_Countries/USA"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/animal-rights-in-europe-with-benny-andersson/","tags":["Europe","Strategy","Corporate_Campaigns","Policy"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-09-30T11:55:02.688-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep777/","tags":["Europe","Strategy","Corporate_Campaigns","Policy"],"Year Published":"2024","AI suggested tags":["Activism","Tactics","High_Income_Countries/USA"]}}
 ---
 
 Join Our Hen House for an illuminating conversation with Benny Andersson, CEO of Project 1882 (aka Djurens Rätt), Sweden’s largest animal rights organization. Learn how this groundbreaking organization combines grassroots vegan activism with corporate outreach and legislative advocacy to create meaningful change for animals across Europe.

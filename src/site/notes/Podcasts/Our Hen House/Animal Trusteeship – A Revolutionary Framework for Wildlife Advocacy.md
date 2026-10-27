@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/animal-trusteeship-a-revolutionary-framework-for-wildlife-advocacy/","tags":["Wild_Animals","Law","Policy","Animal_Ethics"],"created":"2026-07-15T12:19:40.000+01:00","updated":"2026-09-30T19:55:02.689+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep861/","tags":["Wild_Animals","Law","Policy","Animal_Ethics"],"Year Published":"2025","AI suggested tags":["High_Income_Countries/USA","Activism","Companion_Animals"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/animal-trusteeship-a-revolutionary-framework-for-wildlife-advocacy/","tags":["Wild_Animals","Law","Policy","Animal_Ethics"],"created":"2026-07-15T04:19:40.000-07:00","updated":"2026-09-30T11:55:02.689-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep861/","tags":["Wild_Animals","Law","Policy","Animal_Ethics"],"Year Published":"2025","AI suggested tags":["High_Income_Countries/USA","Activism","Companion_Animals"]}}
 ---
 
 In this thought-provoking interview, Jasmin Singer and Mariann Sullivan speak with Liv Baker and Kristin Stewart from PAN Works about their groundbreaking “animal trusteeship” framework – a new approach that transforms how we advocate for wild animals in decision-making processes that affect their lives.

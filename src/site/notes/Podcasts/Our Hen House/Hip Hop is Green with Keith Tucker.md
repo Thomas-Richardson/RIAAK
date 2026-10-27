@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/hip-hop-is-green-with-keith-tucker/","tags":["Alternative_Proteins/Plant_Based","Environment/Climate_Change","Health","High_Income_Countries/USA"],"created":"2026-07-12T12:02:31.000+01:00","updated":"2026-09-30T19:55:02.788+01:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep737/","tags":["Alternative_Proteins/Plant_Based","Environment/Climate_Change","Health","High_Income_Countries/USA"],"Year Published":"2024","AI suggested tags":["Plant_Based","Activism","Veganism"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/hip-hop-is-green-with-keith-tucker/","tags":["Plant_Based_Diets","Environment/Climate_Change","Health","High_Income_Countries/USA"],"created":"2026-07-12T04:02:31.000-07:00","updated":"2026-10-18T01:41:07.697-07:00","dg-note-properties":{"Note Type":"Podcast","Url":"https://www.ourhenhouse.org/ep737/","tags":["Plant_Based_Diets","Environment/Climate_Change","Health","High_Income_Countries/USA"],"Year Published":"2024","AI suggested tags":["Activism","Veganism","Animal_Ethics"]}}
 ---
 
 What do animal rights and veganism have to do with hip hop? So much more than you might think! Keith Tucker of Hip Hop is Green joins us this week to discuss the organization’s extraordinary work spreading the word in the hip hop community.

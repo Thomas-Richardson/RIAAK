@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/perceptions-of-plant-based-diets-among-gen-z-in-tuerkiye-animal-ask/","created":"2026-10-25T06:54:21.124-07:00","updated":"2026-10-25T06:54:21.823-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":null,"source_url":"file:///Users/thomasmanandhar-richardson/Downloads/GenZPerceptions_Animetrics_EN.pdf","created":"2026-10-21","AI suggested tags":["Consumer_Research","Consumer_Attitudes","Alternative_Proteins/Plant_Based"]}}
+{"dg-publish":true,"permalink":"/citations/perceptions-of-plant-based-diets-among-gen-z-in-tuerkiye-animal-ask/","created":"2026-11-01T11:38:54.369-08:00","updated":"2026-11-01T11:38:54.369-08:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","tags":null,"source_url":"https://www.animetrics.org/projects/genz-perceptions","created":"2026-10-21","AI suggested tags":["Consumer_Research","Consumer_Attitudes","Alternative_Proteins/Plant_Based"]}}
 ---
 
 

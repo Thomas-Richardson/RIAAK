@@ -1,14 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/how-i-learned-to-love-shrimp/","created":"2026-10-01T05:55:56.822-07:00","updated":"2026-10-01T22:55:36.294-07:00","dg-note-properties":{"Note Type":"RIAAK Admin","tags":null,"AI suggested tags":["Movement_Building","Movement_Strategy","Effective_Altruism"]}}
+{"dg-publish":true,"permalink":"/podcasts/how-i-learned-to-love-shrimp/","created":"2026-10-01T05:55:56.822-07:00","updated":"2026-11-01T11:17:03.938-08:00","dg-note-properties":{"Note Type":"RIAAK Admin","tags":null,"AI suggested tags":["Movement_Building","Movement_Strategy","Effective_Altruism"]}}
 ---
 
 *How I Learned to Love Shrimp* is a podcast by James Özden. [Show website](https://www.buzzsprout.com/2122817)
 
-RIAAK has summaries of 69 of its episodes, newest first. Each summary links to the episode.
+RIAAK has summaries of 71 of its episodes, newest first. Each summary links to the episode.
 
 Back to [[Podcasts/Podcasts\|all podcasts]].
 
 ## 2026
+- 27 Oct · [[Podcasts/How I Learned to Love Shrimp/Janet Helms on what McDonald's is doing on animal welfare\|Janet Helms on what McDonald's is doing on animal welfare]]
+- 14 Oct · [[Podcasts/How I Learned to Love Shrimp/Thomas Manandhar-Richardson on why animal advocates need to use AI more (and how)\|Thomas Manandhar-Richardson on why animal advocates need to use AI more (and how)]]
 - 29 Sep · [[Podcasts/How I Learned to Love Shrimp/Taj Uppal on risking 6 years in prison for rescuing animals\|Taj Uppal on risking 6 years in prison for rescuing animals]]
 - 3 Sep · [[Podcasts/How I Learned to Love Shrimp/Nina Friedrich on why (and how) you should transition your career to high-impact animal advocacy\|Nina Friedrich on why (and how) you should transition your career to high-impact animal advocacy]]
 - 9 Jul · [[Podcasts/How I Learned to Love Shrimp/Jiri Krupa (& Jesse Marks) on using fundraising to win campaigns\|Jiri Krupa (& Jesse Marks) on using fundraising to win campaigns]]

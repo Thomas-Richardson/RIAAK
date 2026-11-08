@@ -1,14 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-pod/","created":"2026-10-01T05:55:56.822-07:00","updated":"2026-10-18T01:41:07.761-07:00","dg-note-properties":{"Note Type":"RIAAK Admin","tags":null,"AI suggested tags":["Veganism","Plant_Based_Diets/School_Meals","Anthropology"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-pod/","created":"2026-10-01T05:55:56.822-07:00","updated":"2026-11-01T11:17:03.952-08:00","dg-note-properties":{"Note Type":"RIAAK Admin","tags":null,"AI suggested tags":["Veganism","Plant_Based_Diets/School_Meals","Anthropology"]}}
 ---
 
 *The Vegan Pod* is a podcast by The Vegan Society. [Show website](https://vegansociety.podbean.com)
 
-RIAAK has summaries of 57 of its episodes, newest first. Each summary links to the episode.
+RIAAK has summaries of 58 of its episodes, newest first. Each summary links to the episode.
 
 Back to [[Podcasts/Podcasts\|all podcasts]].
 
 ## 2026
+- 1 Nov · [[Podcasts/The Vegan Pod/Veducation, Veducation, Veducation\|Veducation, Veducation, Veducation]]
 - 26 Sep · [[Podcasts/The Vegan Pod/Are We Really A 'Nation Of Animal Lovers'\|Are We Really A 'Nation Of Animal Lovers']]
 - 29 Aug · [[Podcasts/The Vegan Pod/Dental Health For Vegans\|Dental Health For Vegans]]
 - 1 Aug · [[Podcasts/The Vegan Pod/Geoff Francis - 55 Years Vegan - Music, Art & Activism\|Geoff Francis - 55 Years Vegan - Music, Art & Activism]]

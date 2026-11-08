@@ -1,14 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/","created":"2026-10-01T05:55:56.822-07:00","updated":"2026-10-01T22:55:36.303-07:00","dg-note-properties":{"Note Type":"RIAAK Admin","tags":null,"AI suggested tags":["Law","High_Income_Countries/USA","Turkeys"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-animal-law-podcast/","created":"2026-10-01T05:55:56.822-07:00","updated":"2026-11-01T11:17:03.950-08:00","dg-note-properties":{"Note Type":"RIAAK Admin","tags":null,"AI suggested tags":["Law","High_Income_Countries/USA","Wild_Animals"]}}
 ---
 
 *The Animal Law Podcast* is a podcast by Mariann Sullivan. [Show website](https://www.ourhenhouse.org/animallaw/)
 
-RIAAK has summaries of 136 of its episodes, newest first. Each summary links to the episode.
+RIAAK has summaries of 137 of its episodes, newest first. Each summary links to the episode.
 
 Back to [[Podcasts/Podcasts\|all podcasts]].
 
 ## 2026
+- 30 Oct · [[Podcasts/The Animal Law Podcast/The Federal Government vs. Prop 12 - Can the Egg Products Inspection Act Preempt Cage-Free Egg Laws\|The Federal Government vs. Prop 12 - Can the Egg Products Inspection Act Preempt Cage-Free Egg Laws]]
 - 25 Sep · [[Podcasts/The Animal Law Podcast/The Trump Administration Is Dismantling the Endangered Species Act\|The Trump Administration Is Dismantling the Endangered Species Act]]
 - 28 Aug · [[Podcasts/The Animal Law Podcast/Rescuing Baby Goats is a Felony - Attorney Taj Uppal on Facing Prison for Saving Two Lives\|Rescuing Baby Goats is a Felony - Attorney Taj Uppal on Facing Prison for Saving Two Lives]]
 - 31 Jul · [[Podcasts/The Animal Law Podcast/Building the Field - Inside the Animal Law Practice Association with Cheryl Leahy\|Building the Field - Inside the Animal Law Practice Association with Cheryl Leahy]]

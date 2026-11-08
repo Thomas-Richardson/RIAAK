@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citations/empathy-index-2026-the-vegan-society/","tags":["Public_Opinion","Consumer_Attitudes","High_Income_Countries/UK","Animal_Welfare","Factory_Farming"],"created":"2026-10-26T12:05:26.184-07:00","updated":"2026-10-26T12:05:26.184-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.vegansociety.com/get-involved/research/empathy-index","tags":["Public_Opinion","Consumer_Attitudes","High_Income_Countries/UK","Animal_Welfare","Factory_Farming"],"Year Published":"2026"}}
+{"dg-publish":true,"permalink":"/citations/empathy-index-2026-the-vegan-society/","tags":["Public_Opinion","Consumer_Attitudes","High_Income_Countries/UK","Animal_Welfare","Factory_Farming"],"created":"2026-10-30T16:11:43.945-07:00","updated":"2026-10-30T16:11:44.668-07:00","dg-note-properties":{"Note Type":"Think Tank / NGO Report","Url":"https://www.vegansociety.com/get-involved/research/empathy-index","tags":["Public_Opinion","Consumer_Attitudes","High_Income_Countries/UK","Animal_Welfare","Factory_Farming"],"Year Published":"2026","AI suggested tags":["Psychology","Messaging","Strategy"]}}
 ---
 
 ## Are we still a nation of animal lovers? What our newest Empathy Index tells us
@@ -107,3 +107,10 @@ If you have any questions about the Empathy Index, please get in touch with our 
 - Wales: 5%
 - West Midlands: 9%
 - Yorkshire & Humber: 9%
+
+
+# AI suggested related articles
+
+- [[Podcasts/The Vegan Pod/Are We Really A 'Nation Of Animal Lovers'\|Podcasts/The Vegan Pod/Are We Really A 'Nation Of Animal Lovers']] (0.71)
+- [[Citations/Animal Think Tank, 2024\|Citations/Animal Think Tank, 2024]] (0.70)
+- [[Citations/Quantifying Attitudes and Narratives About Other Animals (Aninof 29 Think Tank)\|Citations/Quantifying Attitudes and Narratives About Other Animals (Aninof 29 Think Tank)]] (0.70)

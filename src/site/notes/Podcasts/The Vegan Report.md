@@ -1,14 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/","created":"2026-10-01T05:55:56.823-07:00","updated":"2026-10-01T22:55:36.308-07:00","dg-note-properties":{"Note Type":"RIAAK Admin","tags":null,"AI suggested tags":["Veganism","Tactics","Narratives"]}}
+{"dg-publish":true,"permalink":"/podcasts/the-vegan-report/","created":"2026-10-01T05:55:56.823-07:00","updated":"2026-11-01T11:17:03.959-08:00","dg-note-properties":{"Note Type":"RIAAK Admin","tags":null,"AI suggested tags":["Tactics","Activism","Veganism"]}}
 ---
 
 *The Vegan Report* is a podcast by Rayane Laddi. [Show website](https://rss.com/podcasts/veganreport)
 
-RIAAK has summaries of 156 of its episodes, newest first. Each summary links to the episode.
+RIAAK has summaries of 161 of its episodes, newest first. Each summary links to the episode.
 
 Back to [[Podcasts/Podcasts\|all podcasts]].
 
 ## 2026
+- 28 Oct · [[Podcasts/The Vegan Report/Why Do People Care About Animals Science of Activism\|Why Do People Care About Animals Science of Activism]]
+- 20 Oct · [[Podcasts/The Vegan Report/Veganic Farming - Making Peace with Nature\|Veganic Farming - Making Peace with Nature]]
+- 14 Oct · [[Podcasts/The Vegan Report/The Best and Worst Pro-Animal Social Media Content Science of Activism\|The Best and Worst Pro-Animal Social Media Content Science of Activism]]
+- 13 Oct · [[Podcasts/The Vegan Report/Making Vegan Karma\|Making Vegan Karma]]
+- 6 Oct · [[Podcasts/The Vegan Report/A Fork in the Road - The Future of Animal Protection\|A Fork in the Road - The Future of Animal Protection]]
 - 29 Sep · [[Podcasts/The Vegan Report/The Psychic Elephants of Thula Thula\|The Psychic Elephants of Thula Thula]]
 - 15 Sep · [[Podcasts/The Vegan Report/Save Our Pigs, Not Our Bacon\|Save Our Pigs, Not Our Bacon]]
 - 8 Sep · [[Podcasts/The Vegan Report/They Fought Factory Farms. Now They Want to Run One\|They Fought Factory Farms. Now They Want to Run One]]

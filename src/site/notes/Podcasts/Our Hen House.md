@@ -1,14 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/podcasts/our-hen-house/","created":"2026-10-01T05:55:56.822-07:00","updated":"2026-10-01T22:55:36.299-07:00","dg-note-properties":{"Note Type":"RIAAK Admin","tags":null,"AI suggested tags":["Activism","Narratives","Tactics"]}}
+{"dg-publish":true,"permalink":"/podcasts/our-hen-house/","created":"2026-10-01T05:55:56.822-07:00","updated":"2026-11-01T11:17:03.945-08:00","dg-note-properties":{"Note Type":"RIAAK Admin","tags":null,"AI suggested tags":["Activism","Tactics","Movement_Building"]}}
 ---
 
 *Our Hen House* is a podcast by Jasmin Singer and Mariann Sullivan. [Show website](https://www.ourhenhouse.org/podcast/)
 
-RIAAK has summaries of 246 of its episodes (the interviews only (the news segments are left out)), newest first. Each summary links to the episode.
+RIAAK has summaries of 250 of its episodes (the interviews only (the news segments are left out)), newest first. Each summary links to the episode.
 
 Back to [[Podcasts/Podcasts\|all podcasts]].
 
 ## 2026
+- 23 Oct · [[Podcasts/Our Hen House/Animal Rescue and Storytelling as Activism - Michelle Lerner on Her New Book, “A Series of Opinionated Animals”\|Animal Rescue and Storytelling as Activism - Michelle Lerner on Her New Book, “A Series of Opinionated Animals”]]
+- 16 Oct · [[Podcasts/Our Hen House/Grassroots Win for Animals - How Southampton Animal Action Stopped Brittany Ferries’ Live Animal Exports\|Grassroots Win for Animals - How Southampton Animal Action Stopped Brittany Ferries’ Live Animal Exports]]
+- 9 Oct · [[Podcasts/Our Hen House/Grassroots Vegan Activism That Works - Inside Vegan Outreach’s Vegan Chef Challenge\|Grassroots Vegan Activism That Works - Inside Vegan Outreach’s Vegan Chef Challenge]]
+- 2 Oct · [[Podcasts/Our Hen House/“Marshmallows Are Their Favorite” - Inside a Primate Lab with Undercover Investigator Lindsay Oliver\|“Marshmallows Are Their Favorite” - Inside a Primate Lab with Undercover Investigator Lindsay Oliver]]
 - 18 Sep · [[Podcasts/Our Hen House/VeriBark’s Marie Gibbons on Decoding Dog Body Language — And What’s Next for Farmed Animals\|VeriBark’s Marie Gibbons on Decoding Dog Body Language — And What’s Next for Farmed Animals]]
 - 11 Sep · [[Podcasts/Our Hen House/Sanctuaries as “Movement Infrastructure” - Simone Scampoli on Building Multispecies Community at Capra Libera Tutti\|Sanctuaries as “Movement Infrastructure” - Simone Scampoli on Building Multispecies Community at Capra Libera Tutti]]
 - 4 Sep · [[Podcasts/Our Hen House/Theater as Activism - Dr. Ben Hunt on Performance, Puppetry, and Animal Liberation\|Theater as Activism - Dr. Ben Hunt on Performance, Puppetry, and Animal Liberation]]
